@@ -1,0 +1,778 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Photo Shadowing</title>
+<style>
+:root{
+  --bg:#f6f5f2; --panel:#ffffff; --ink:#1d1d1f; --sub:#6b6b70; --line:#e4e2dd;
+  --accent:#2f6fde; --accent-soft:#e7effc; --rec:#e0393e; --ok:#1f9d55; --warn:#c77700;
+  --del:#c0392b; --ins:#1f8a4c; --hl:#ffe58a; --cur:#2f6fde22;
+  --radius:14px; --shadow:0 1px 2px #0000000d,0 4px 16px #00000008;
+}
+@media (prefers-color-scheme: dark){
+  :root{--bg:#141416;--panel:#1d1d20;--ink:#ececef;--sub:#9a9aa2;--line:#2e2e33;--accent:#6c9cff;--accent-soft:#22304d;
+  --hl:#6b5a12;--cur:#6c9cff2a;--del:#ff7b6e;--ins:#5fd38f;--shadow:none}
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Hiragino Sans","Segoe UI",sans-serif}
+button,select,input,textarea{font:inherit;color:inherit}
+header{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:12px;padding:10px 20px;background:var(--bg);border-bottom:1px solid var(--line)}
+header h1{font-size:16px;margin:0;font-weight:700;letter-spacing:.02em}
+header .sp{flex:1}
+.status{font-size:12px;color:var(--sub);display:flex;gap:10px}
+.status b{font-weight:600}.status .ng{color:var(--rec)}
+.btn{border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:7px 14px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn.rec{background:var(--rec);border-color:var(--rec);color:#fff}
+.btn:disabled{opacity:.45;cursor:default}
+.btn.sm{padding:4px 10px;font-size:13px;border-radius:8px}
+kbd{font:11px ui-monospace,Menlo,monospace;border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:0 5px;color:var(--sub);background:var(--bg)}
+.btn.primary kbd,.btn.rec kbd{background:#ffffff22;color:#fff;border-color:#ffffff55}
+main{display:grid;grid-template-columns:minmax(320px,44%) 1fr;gap:20px;padding:20px;max-width:1500px;margin:0 auto}
+@media (max-width:900px){main{grid-template-columns:1fr}}
+.photo-col{position:sticky;top:70px;align-self:start}
+@media (max-width:900px){.photo-col{position:static}}
+.photo{background:var(--panel);border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line)}
+.photo img{display:block;width:100%;max-height:62vh;object-fit:contain;background:#0001}
+.photo .empty{height:340px;display:grid;place-items:center;color:var(--sub);text-align:center;padding:20px}
+.photo .meta{display:flex;align-items:center;gap:8px;padding:10px 12px;font-size:12px;color:var(--sub)}
+.photo .meta a{color:var(--sub)}
+.photo .meta input{flex:1;min-width:0;border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:5px 9px}
+.col{display:flex;flex-direction:column;gap:16px;min-width:0}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px;box-shadow:var(--shadow)}
+.panel h2{margin:0 0 10px;font-size:14px;display:flex;align-items:center;gap:8px}
+.panel h2 .n{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:var(--accent);color:#fff;font-size:12px}
+.panel h2 .sp{flex:1}
+.panel.fold h2{cursor:pointer}
+.panel.fold h2::after{content:'▾';color:var(--sub);font-size:12px}
+.panel.fold.collapsed h2::after{content:'▸'}
+.panel.collapsed>*:not(h2){display:none!important}
+.panel.collapsed h2{margin:0}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+textarea{width:100%;min-height:110px;border:1px solid var(--line);background:var(--bg);border-radius:10px;padding:10px 12px;resize:vertical;line-height:1.6}
+textarea:focus,input:focus,select:focus{outline:2px solid var(--accent);outline-offset:-1px}
+.meter{flex:1;height:8px;border-radius:4px;background:var(--line);overflow:hidden;min-width:60px}
+.meter i{display:block;height:100%;width:0;background:var(--ok);transition:width .05s}
+.timer{font:13px ui-monospace,Menlo,monospace;color:var(--sub);min-width:44px}
+.hint{font-size:12px;color:var(--sub)}
+.score{font-size:28px;font-weight:700;line-height:1}
+.score small{font-size:13px;color:var(--sub);font-weight:400}
+.box{background:var(--bg);border-radius:10px;padding:10px 12px;margin:8px 0}
+.lbl{font-size:12px;color:var(--sub);font-weight:600;margin:12px 0 4px}
+.fix{display:grid;grid-template-columns:1fr;gap:2px;padding:8px 0;border-bottom:1px dashed var(--line)}
+.fix:last-child{border:0}
+.fix del{color:var(--del)} .fix ins{color:var(--ins);text-decoration:none;font-weight:600}
+.fix .why{font-size:13px;color:var(--sub)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{background:var(--accent-soft);border-radius:999px;padding:3px 10px;font-size:13px}
+.chip span{color:var(--sub);margin-left:6px}
+.ideal{font-size:17px;line-height:1.75}
+/* shadowing */
+.sents{display:flex;flex-direction:column;gap:4px;margin:6px 0 10px}
+.sent{display:flex;gap:10px;padding:8px 10px;border-radius:10px;cursor:pointer;border:1px solid transparent;font-size:17px;line-height:1.6}
+.sent:hover{background:var(--bg)}
+.sent.sel{border-color:var(--accent);background:var(--accent-soft)}
+.sent .no{font:12px ui-monospace,Menlo,monospace;color:var(--sub);padding-top:4px;min-width:18px}
+.sent .best{margin-left:auto;font-size:12px;color:var(--sub);white-space:nowrap;padding-top:4px}
+.w{border-radius:4px;transition:background .08s}
+.w.on{background:var(--hl)}
+.all{font-size:13px}
+.transport{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:10px;border-radius:12px;background:var(--bg)}
+.transport .grp{display:flex;gap:6px;align-items:center}
+.transport input[type=range]{width:110px}
+.toggle.on{background:var(--accent-soft);border-color:var(--accent)}
+.recs{margin-top:12px;display:flex;flex-direction:column;gap:6px;max-height:300px;overflow:auto}
+.recrow{display:flex;align-items:center;gap:8px;padding:6px 8px;border-radius:10px;border:1px solid var(--line);font-size:13px}
+.recrow.sel{border-color:var(--accent)}
+.recrow .t{color:var(--sub);font-family:ui-monospace,Menlo,monospace}
+.recrow .sp{flex:1}
+.badge{border-radius:999px;padding:1px 9px;font-weight:700;font-size:12px;background:var(--line)}
+.badge.g{background:#1f9d5522;color:var(--ok)}.badge.y{background:#c7770022;color:var(--warn)}.badge.r{background:#e0393e22;color:var(--rec)}
+.evalgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:8px 0}
+.evalgrid div{background:var(--bg);border-radius:10px;padding:8px;text-align:center}
+.evalgrid b{display:block;font-size:20px}
+.evalgrid span{font-size:11px;color:var(--sub)}
+.issue{padding:6px 0;border-bottom:1px dashed var(--line);font-size:14px}
+.issue b{color:var(--del)}
+ul.tight{margin:4px 0;padding-left:20px}
+.recording-banner{display:none;align-items:center;gap:10px;padding:8px 12px;border-radius:10px;background:#e0393e18;color:var(--rec);font-weight:600;margin-top:8px}
+.recording-banner.on{display:flex}
+.dot{width:10px;height:10px;border-radius:50%;background:var(--rec);animation:blink 1s infinite}
+@keyframes blink{50%{opacity:.25}}
+.spinner{width:14px;height:14px;border:2px solid currentColor;border-right-color:transparent;border-radius:50%;animation:spin .7s linear infinite;display:inline-block}
+@keyframes spin{to{transform:rotate(360deg)}}
+.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#222;color:#fff;padding:10px 16px;border-radius:10px;font-size:13px;max-width:80vw;z-index:99;opacity:0;transition:opacity .2s;pointer-events:none;white-space:pre-wrap}
+.toast.on{opacity:1}.toast.err{background:#a3262a}
+dialog{border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--ink);padding:20px;max-width:640px;width:92vw}
+dialog::backdrop{background:#0006}
+dialog h3{margin:0 0 12px}
+.form{display:grid;grid-template-columns:160px 1fr;gap:10px 14px;align-items:center}
+.form select,.form input{border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:6px 8px;width:100%}
+.keys{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;font-size:14px}
+.hist{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;max-height:60vh;overflow:auto}
+.hist a{display:block;border-radius:10px;overflow:hidden;border:1px solid var(--line);text-decoration:none;color:inherit;font-size:12px}
+.hist img{width:100%;height:90px;object-fit:cover;display:block}
+.hist div{padding:4px 8px;color:var(--sub)}
+.muted{color:var(--sub)}
+.hidden{display:none!important}
+</style>
+</head>
+<body>
+<header>
+  <h1>📷 Photo Shadowing</h1>
+  <button class="btn sm" id="bNew" title="新しい写真">新しい写真 <kbd>N</kbd></button>
+  <button class="btn sm" id="bHist">履歴</button>
+  <span class="sp"></span>
+  <div class="status" id="status"></div>
+  <button class="btn sm" id="bKeys" title="ショートカット">⌨ <kbd>?</kbd></button>
+  <button class="btn sm" id="bSet">設定</button>
+</header>
+
+<main>
+  <div class="photo-col">
+    <div class="photo">
+      <div id="photoEmpty" class="empty"><div><p>写真がまだありません</p><button class="btn primary" onclick="newPhoto()">写真を表示 <kbd>N</kbd></button></div></div>
+      <img id="photo" class="hidden" alt="">
+      <div class="meta">
+        <span id="credit"></span>
+        <input id="query" placeholder="テーマ（例: street, cafe, kitchen）" title="次の写真のキーワード（空欄でランダム）">
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <!-- 1. describe -->
+    <section class="panel fold" id="pDescribe">
+      <h2><span class="n">1</span>英語で説明する<span class="sp"></span><span class="hint">写真を見て、思いつくまま話してみましょう</span></h2>
+      <div class="row">
+        <button class="btn primary" id="bMic">🎙 話す <kbd>M</kbd></button>
+        <div class="meter"><i id="meter1"></i></div>
+        <span class="timer" id="timer1">0:00</span>
+      </div>
+      <div class="recording-banner" id="banner1"><span class="dot"></span>録音中… もう一度 <kbd>M</kbd> で停止して文字起こし</div>
+      <div style="margin-top:10px"><textarea id="desc" placeholder="ここに文字起こしが入ります（手で直してもOK）"></textarea></div>
+      <div class="row" style="margin-top:8px">
+        <button class="btn primary" id="bCorrect">添削する <kbd>⌘</kbd><kbd>↵</kbd></button>
+        <span class="hint" id="descHint"></span>
+      </div>
+    </section>
+
+    <!-- 2. correction -->
+    <section class="panel fold hidden" id="pCorrect">
+      <h2><span class="n">2</span>添削と理想の文章<span class="sp"></span><span class="score" id="score"></span></h2>
+      <div id="feedback" class="box"></div>
+      <div class="lbl">修正ポイント</div>
+      <div id="fixes"></div>
+      <div class="lbl">あなたの文章（最小修正版）</div>
+      <div id="corrected" class="box"></div>
+      <div class="lbl">理想の文章 <button class="btn sm" id="bEditIdeal" style="margin-left:6px">編集</button></div>
+      <div id="ideal" class="box ideal"></div>
+      <div id="idealEdit" class="hidden"><textarea id="idealTa"></textarea>
+        <div class="row" style="margin-top:6px"><button class="btn sm primary" id="bSaveIdeal">保存して音声を作り直す</button><button class="btn sm" id="bCancelIdeal">キャンセル</button></div></div>
+      <div class="lbl">使える表現</div>
+      <div class="chips" id="keyexp"></div>
+    </section>
+
+    <!-- 3. shadowing -->
+    <section class="panel hidden" id="pShadow">
+      <h2><span class="n">3</span>シャドーイング<span class="sp"></span>
+        <button class="btn sm" id="bTts">🔊 音声を作る</button></h2>
+      <div id="ttsLoading" class="hint hidden"><span class="spinner"></span> 手本音声を生成中…</div>
+      <div id="shadowBody" class="hidden">
+        <div class="row" style="justify-content:space-between">
+          <button class="btn sm all toggle" id="bAll">全文 <kbd>A</kbd></button>
+          <span class="hint">文をクリックで選択 / <kbd>↑</kbd><kbd>↓</kbd> で移動</span>
+        </div>
+        <div class="sents" id="sents"></div>
+        <div class="transport">
+          <div class="grp">
+            <button class="btn primary" id="bPlay">▶ 再生 <kbd>Space</kbd></button>
+            <button class="btn toggle" id="bLoop">🔁 ループ <kbd>L</kbd></button>
+          </div>
+          <div class="grp">
+            <span class="hint">速度</span>
+            <input type="range" id="speed" min="0.5" max="1.3" step="0.05" value="1">
+            <b id="speedV" style="min-width:42px">1.00x</b><kbd>[</kbd><kbd>]</kbd>
+          </div>
+        </div>
+        <div class="row" style="margin-top:10px">
+          <button class="btn rec" id="bShadowRec">● シャドーイング録音 <kbd>R</kbd></button>
+          <button class="btn" id="bRepeatRec">● リピート録音 <kbd>⇧R</kbd></button>
+          <button class="btn" id="bPlayRec">▶ 自分の声 <kbd>P</kbd></button>
+          <button class="btn" id="bCompare">⇄ 聴き比べ <kbd>C</kbd></button>
+          <button class="btn" id="bEval">✦ AI評価 <kbd>E</kbd></button>
+        </div>
+        <div class="row" style="margin-top:6px"><div class="meter"><i id="meter2"></i></div><span class="timer" id="timer2">0:00</span></div>
+        <div class="recording-banner" id="banner2"><span class="dot"></span><span id="banner2t">録音中…</span></div>
+        <div class="hint" style="margin-top:6px">シャドーイング録音は手本と同時に話します（<b>ヘッドホン推奨</b>）。リピート録音は手本を聴いた後に一人で話します。</div>
+        <div class="recs" id="recs"></div>
+        <div id="evalBox" class="hidden" style="margin-top:12px"></div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<dialog id="dSet">
+  <h3>設定</h3>
+  <div class="form">
+    <label>声（ElevenLabs）</label><select id="sVoice"><option value="">（読み込み中）</option></select>
+    <label>理想文のレベル</label><select id="sLevel"><option value="B1">B1 やさしめ</option><option value="B2">B2 自然</option><option value="C1">C1 上級</option></select>
+    <label>理想文の長さ</label><select id="sLen"><option value="3">3文</option><option value="4">4文</option><option value="5">5文</option><option value="6">6文</option><option value="8">8文</option></select>
+    <label>添削後すぐ音声生成</label><select id="sAutoTts"><option value="1">する</option><option value="0">しない</option></select>
+    <label>録音後に自動でAI評価</label><select id="sAutoEval"><option value="0">しない</option><option value="1">する</option></select>
+    <label>ループの間隔</label><select id="sGap"><option value="0.5">0.5秒</option><option value="1">1秒</option><option value="1.5">1.5秒</option><option value="2.5">2.5秒</option></select>
+    <label>マイクのエコー除去</label><select id="sEcho"><option value="1">オン</option><option value="0">オフ（ヘッドホン時に音質優先）</option></select>
+  </div>
+  <p class="hint" id="modelInfo"></p>
+  <div class="row" style="justify-content:flex-end;margin-top:12px"><button class="btn primary" onclick="saveSettings()">保存</button></div>
+</dialog>
+
+<dialog id="dKeys">
+  <h3>キーボードショートカット</h3>
+  <div class="keys">
+    <kbd>N</kbd><span>新しい写真</span>
+    <kbd>M</kbd><span>説明を話す（録音開始 / 停止→文字起こし）</span>
+    <kbd>⌘ Enter</kbd><span>添削する</span>
+    <kbd>Space</kbd><span>手本を再生 / 一時停止</span>
+    <kbd>↑ ↓</kbd><span>前 / 次の文</span>
+    <kbd>A</kbd><span>全文モード切替</span>
+    <kbd>L</kbd><span>ループ切替</span>
+    <kbd>[ ]</kbd><span>速度 −/＋</span>
+    <kbd>R</kbd><span>シャドーイング録音（手本と同時。もう一度押すと停止）</span>
+    <kbd>⇧ R</kbd><span>リピート録音（手本の後に一人で話す）</span>
+    <kbd>P</kbd><span>最新の自分の録音を再生</span>
+    <kbd>C</kbd><span>聴き比べ（手本 → 自分）</span>
+    <kbd>E</kbd><span>選択中の録音をAIで評価</span>
+    <kbd>D</kbd><span>説明・添削パネルを開く</span>
+    <kbd>Esc</kbd><span>停止</span>
+  </div>
+</dialog>
+
+<dialog id="dHist"><h3>履歴</h3><div class="hist" id="histList"></div></dialog>
+
+<div class="toast" id="toast"></div>
+<audio id="model" preload="auto"></audio>
+<audio id="mine" preload="auto"></audio>
+
+<script>
+"use strict";
+const $ = id => document.getElementById(id);
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = s => `${Math.floor(s/60)}:${String(Math.floor(s%60)).padStart(2,"0")}`;
+
+let S = null;            // current session
+let cfg = {};
+let sel = -1;            // selected sentence (-1 = all)
+let loop = false;
+let selRec = null;       // selected recording n
+let busy = {};
+const settings = Object.assign({voice:"", level:"B2", len:"5", autoTts:"1", autoEval:"0", gap:"1", echo:"1", speed:"1"},
+  (()=>{try{return JSON.parse(localStorage.getItem("ps_settings")||"{}")}catch(e){return {}}})());
+
+// ---------------------------------------------------------------- api
+async function api(path, opt={}) {
+  const o = {method: opt.method || (opt.body !== undefined ? "POST" : "GET"), headers:{}};
+  if (opt.body instanceof Blob) { o.body = opt.body; o.headers["Content-Type"] = opt.body.type || "application/octet-stream"; }
+  else if (opt.body !== undefined) { o.body = JSON.stringify(opt.body); o.headers["Content-Type"] = "application/json"; }
+  const r = await fetch(path, o);
+  const j = await r.json().catch(()=>({error:"invalid response"}));
+  if (!r.ok) throw new Error(j.error || r.statusText);
+  return j;
+}
+let toastT;
+function toast(msg, err=false, ms=2600) {
+  const t = $("toast"); t.textContent = msg; t.className = "toast on" + (err ? " err" : "");
+  clearTimeout(toastT); toastT = setTimeout(()=> t.className = "toast", err ? 7000 : ms);
+}
+function setBusy(btn, on, label) {
+  const b = $(btn); if (!b) return;
+  if (on) { b.dataset.html = b.innerHTML; b.innerHTML = `<span class="spinner"></span> ${label||""}`; b.disabled = true; }
+  else if (b.dataset.html) { b.innerHTML = b.dataset.html; b.disabled = false; }
+}
+
+// ---------------------------------------------------------------- recorder (WAV 16kHz mono)
+const Rec = {
+  ctx:null, stream:null, node:null, analyser:null, chunks:[], on:false, t0:0, meterEl:null, timerEl:null, echo:null,
+  async init() {
+    const echo = settings.echo === "1";
+    if (this.ctx && this.echo === echo) { if (this.ctx.state === "suspended") await this.ctx.resume(); return; }
+    if (this.stream) this.stream.getTracks().forEach(t=>t.stop());
+    this.echo = echo;
+    this.stream = await navigator.mediaDevices.getUserMedia({audio:{echoCancellation:echo, noiseSuppression:echo, autoGainControl:true, channelCount:1}});
+    if (!this.ctx) {
+      this.ctx = new (window.AudioContext || window.webkitAudioContext)();
+      const code = `class R extends AudioWorkletProcessor{process(i){const c=i[0]&&i[0][0];if(c)this.port.postMessage(c.slice(0));return true}}registerProcessor('rec',R)`;
+      await this.ctx.audioWorklet.addModule(URL.createObjectURL(new Blob([code],{type:"application/javascript"})));
+      this.node = new AudioWorkletNode(this.ctx, "rec");
+      this.node.port.onmessage = e => { if (this.on) this.chunks.push(e.data); };
+      const mute = this.ctx.createGain(); mute.gain.value = 0;
+      this.node.connect(mute).connect(this.ctx.destination);
+      this.analyser = this.ctx.createAnalyser(); this.analyser.fftSize = 1024;
+      this.loopMeter();
+    }
+    if (this.src) this.src.disconnect();
+    this.src = this.ctx.createMediaStreamSource(this.stream);
+    this.src.connect(this.node); this.src.connect(this.analyser);
+    if (this.ctx.state === "suspended") await this.ctx.resume();
+  },
+  loopMeter() {
+    const buf = new Float32Array(this.analyser.fftSize);
+    const tick = () => {
+      if (this.on && this.meterEl) {
+        this.analyser.getFloatTimeDomainData(buf);
+        let m = 0; for (const v of buf) m = Math.max(m, Math.abs(v));
+        this.meterEl.style.width = Math.min(100, m * 160) + "%";
+        this.timerEl.textContent = fmt((performance.now() - this.t0) / 1000);
+      }
+      requestAnimationFrame(tick);
+    };
+    tick();
+  },
+  async start(meterEl, timerEl) {
+    await this.init();
+    this.chunks = []; this.on = true; this.t0 = performance.now();
+    this.meterEl = meterEl; this.timerEl = timerEl;
+  },
+  stop() {
+    this.on = false;
+    if (this.meterEl) this.meterEl.style.width = "0";
+    const sr = this.ctx.sampleRate, target = 16000;
+    let len = 0; for (const c of this.chunks) len += c.length;
+    const all = new Float32Array(len); let o = 0; for (const c of this.chunks) { all.set(c, o); o += c.length; }
+    const ratio = sr / target, outLen = Math.floor(len / ratio), out = new Int16Array(outLen);
+    for (let i = 0; i < outLen; i++) {
+      const a = Math.floor(i * ratio), b = Math.min(len, Math.floor((i + 1) * ratio));
+      let s = 0; for (let j = a; j < b; j++) s += all[j];
+      const v = Math.max(-1, Math.min(1, s / Math.max(1, b - a)));
+      out[i] = v < 0 ? v * 0x8000 : v * 0x7fff;
+    }
+    const h = new DataView(new ArrayBuffer(44));
+    const w = (p, s) => { for (let i = 0; i < s.length; i++) h.setUint8(p + i, s.charCodeAt(i)); };
+    w(0,"RIFF"); h.setUint32(4, 36 + out.length*2, true); w(8,"WAVE"); w(12,"fmt ");
+    h.setUint32(16,16,true); h.setUint16(20,1,true); h.setUint16(22,1,true); h.setUint32(24,target,true);
+    h.setUint32(28,target*2,true); h.setUint16(32,2,true); h.setUint16(34,16,true); w(36,"data"); h.setUint32(40,out.length*2,true);
+    return {blob: new Blob([h, out.buffer], {type:"audio/wav"}), seconds: outLen / target};
+  }
+};
+
+// ---------------------------------------------------------------- status / settings
+async function loadConfig() {
+  cfg = await api("/api/config");
+  const it = (k, n) => `<span>${n}: <b class="${cfg[k] ? "" : "ng"}">${cfg[k] ? "✓" : "未設定"}</b></span>`;
+  $("status").innerHTML = it("gemini","Gemini") + it("elevenlabs","ElevenLabs") + it("unsplash","Unsplash");
+  $("modelInfo").textContent = `Gemini: ${cfg.gemini_model} / ElevenLabs: ${cfg.eleven_model}`;
+  if (!settings.voice && cfg.default_voice) settings.voice = cfg.default_voice;
+}
+async function loadVoices() {
+  if (!cfg.elevenlabs) { $("sVoice").innerHTML = `<option value="">（APIキー未設定）</option>`; return; }
+  try {
+    const vs = await api("/api/voices");
+    $("sVoice").innerHTML = vs.map(v => `<option value="${v.id}">${esc(v.name)}${v.desc ? " — " + esc(v.desc) : ""}</option>`).join("");
+    if (settings.voice && vs.some(v => v.id === settings.voice)) $("sVoice").value = settings.voice;
+    else if (vs.length) settings.voice = vs[0].id;
+  } catch (e) { $("sVoice").innerHTML = `<option value="">取得失敗</option>`; }
+}
+function openSettings() {
+  for (const [k, id] of [["level","sLevel"],["len","sLen"],["autoTts","sAutoTts"],["autoEval","sAutoEval"],["gap","sGap"],["echo","sEcho"]]) $(id).value = settings[k];
+  if (settings.voice) $("sVoice").value = settings.voice;
+  $("dSet").showModal();
+}
+function saveSettings() {
+  const old = settings.voice;
+  Object.assign(settings, {voice:$("sVoice").value, level:$("sLevel").value, len:$("sLen").value, autoTts:$("sAutoTts").value,
+    autoEval:$("sAutoEval").value, gap:$("sGap").value, echo:$("sEcho").value});
+  persist(); $("dSet").close();
+  if (old !== settings.voice && S && S.correction) toast("声を変更しました。「音声を作る」で作り直せます");
+}
+function persist() { try { localStorage.setItem("ps_settings", JSON.stringify(settings)); } catch(e){} }
+
+// ---------------------------------------------------------------- session
+async function newPhoto() {
+  if (busy.photo) return; busy.photo = true;
+  stopAll();
+  setBusy("bNew", true, "取得中");
+  try {
+    S = await api("/api/session/new", {body:{query: $("query").value}});
+    try { localStorage.setItem("ps_last", S.id); } catch(e){}
+    $("desc").value = ""; sel = -1; selRec = null;
+    expandAll(); render();
+    $("desc").blur();
+  } catch (e) { toast("写真の取得に失敗: " + e.message, true); }
+  finally { setBusy("bNew", false); busy.photo = false; }
+}
+async function loadSession(id) {
+  stopAll();
+  S = await api("/api/session/" + id);
+  try { localStorage.setItem("ps_last", S.id); } catch(e){}
+  $("desc").value = S.attempts.length ? S.attempts[S.attempts.length-1].text : "";
+  sel = -1; selRec = null;
+  expandAll(); render();
+  if (S.tts) focusShadow();
+}
+
+function render() {
+  if (!S) return;
+  $("photoEmpty").classList.add("hidden");
+  const img = $("photo"); img.classList.remove("hidden"); img.src = `/data/${S.id}/photo.jpg`; img.alt = S.credit?.alt || "";
+  const c = S.credit || {};
+  $("credit").innerHTML = c.name ? `Photo by <a href="${esc(c.profile)}" target="_blank">${esc(c.name)}</a> on <a href="${esc(c.link)}" target="_blank">${c.name === "Lorem Picsum" ? "Picsum" : "Unsplash"}</a>` : "";
+  $("descHint").textContent = S.attempts.length ? `これまで ${S.attempts.length} 回提出（前回 ${S.attempts.at(-1).score ?? "-"} 点）` : "";
+  renderCorrection();
+  renderShadow();
+}
+
+function renderCorrection() {
+  const C = S.correction;
+  $("pCorrect").classList.toggle("hidden", !C);
+  $("pShadow").classList.toggle("hidden", !C);
+  if (!C) return;
+  $("score").innerHTML = `${C.score ?? "-"}<small> / 100</small>`;
+  $("feedback").textContent = C.feedback_ja || "";
+  $("fixes").innerHTML = (C.corrections || []).length ? C.corrections.map(f =>
+    `<div class="fix"><div><del>${esc(f.before)}</del> → <ins>${esc(f.after)}</ins></div><div class="why">${esc(f.reason_ja)}</div></div>`).join("")
+    : `<div class="muted">大きな修正はありません 🎉</div>`;
+  $("corrected").textContent = C.corrected || "";
+  $("ideal").textContent = C.ideal || "";
+  $("keyexp").innerHTML = (C.key_expressions || []).map(k => `<span class="chip">${esc(k.en)}<span>${esc(k.ja)}</span></span>`).join("");
+}
+
+// ---------------------------------------------------------------- describe (mic → transcription)
+async function toggleMic() {
+  if (!S) { toast("先に写真を表示してください（N）"); return; }
+  if (Rec.on && Rec.owner === "desc") {
+    $("banner1").classList.remove("on"); $("bMic").classList.replace("rec","primary");
+    const {blob, seconds} = Rec.stop(); Rec.owner = null;
+    if (seconds < 0.6) { toast("録音が短すぎます"); return; }
+    setBusy("bMic", true, "文字起こし中");
+    try {
+      const r = await api(`/api/session/${S.id}/transcribe`, {body: blob});
+      const ta = $("desc");
+      ta.value = (ta.value.trim() ? ta.value.trim() + " " : "") + r.text.trim();
+      toast("文字起こししました。⌘Enter で添削");
+    } catch (e) { toast("文字起こし失敗: " + e.message, true); }
+    finally { setBusy("bMic", false); }
+    return;
+  }
+  if (Rec.on) return;
+  stopAll();
+  try { await Rec.start($("meter1"), $("timer1")); } catch (e) { toast("マイクを使用できません: " + e.message, true); return; }
+  Rec.owner = "desc"; $("pDescribe").classList.remove("collapsed");
+  $("banner1").classList.add("on"); $("bMic").classList.replace("primary","rec");
+}
+
+async function doCorrect() {
+  if (!S || busy.correct) return;
+  const text = $("desc").value.trim();
+  if (!text) { toast("説明文がありません。M で話してください"); return; }
+  busy.correct = true; setBusy("bCorrect", true, "添削中");
+  try {
+    S = await api(`/api/session/${S.id}/correct`, {body:{text, level:settings.level, sentences:+settings.len}});
+    sel = -1; $("pCorrect").classList.remove("collapsed"); render();
+    $("pCorrect").scrollIntoView({behavior:"smooth", block:"start"});
+    if (settings.autoTts === "1") makeTts();
+  } catch (e) { toast("添削失敗: " + e.message, true); }
+  finally { setBusy("bCorrect", false); busy.correct = false; }
+}
+
+// ---------------------------------------------------------------- shadowing
+async function makeTts() {
+  if (!S?.correction || busy.tts) return;
+  busy.tts = true; $("ttsLoading").classList.remove("hidden"); $("bTts").disabled = true;
+  try {
+    S.tts = await api(`/api/session/${S.id}/tts`, {body:{voice_id: settings.voice || undefined}});
+    renderShadow(); focusShadow();
+  } catch (e) { toast("音声生成失敗: " + e.message, true); }
+  finally { busy.tts = false; $("ttsLoading").classList.add("hidden"); $("bTts").disabled = false; }
+}
+
+let wordEls = [];
+function renderShadow() {
+  const T = S.tts;
+  $("shadowBody").classList.toggle("hidden", !T);
+  $("bTts").textContent = T ? "🔊 音声を作り直す" : "🔊 音声を作る";
+  if (!T) return;
+  const m = $("model");
+  if (!m.src.endsWith(T.audio)) { m.src = T.audio; m.load(); }
+  m.playbackRate = +settings.speed; m.preservesPitch = true;
+  $("speed").value = settings.speed; $("speedV").textContent = (+settings.speed).toFixed(2) + "x";
+  const best = {};
+  for (const r of S.recordings) if (r.evaluation) best[r.seg] = Math.max(best[r.seg] ?? 0, r.evaluation.overall);
+  $("sents").innerHTML = T.sentences.map((s, i) =>
+    `<div class="sent ${i===sel?"sel":""}" data-i="${i}"><span class="no">${i+1}</span><span>${
+      T.words.filter(w => w.i === i).map(w => `<span class="w" data-s="${w.s}" data-e="${w.e}">${esc(w.t)}</span>`).join(" ")
+    }</span>${best[String(i)] != null ? `<span class="best">best ${best[String(i)]}</span>` : ""}</div>`).join("");
+  wordEls = [...document.querySelectorAll("#sents .w")].map(el => ({el, s:+el.dataset.s, e:+el.dataset.e}));
+  $("bAll").classList.toggle("on", sel === -1);
+  $("bAll").innerHTML = `全文${best.all != null ? `（best ${best.all}）` : ""} <kbd>A</kbd>`;
+  $("bLoop").classList.toggle("on", loop);
+  renderRecs();
+}
+function selectSent(i) {
+  if (!S?.tts) return;
+  const n = S.tts.sentences.length;
+  sel = i < -1 ? -1 : (i >= n ? n - 1 : i);
+  stopModel();
+  document.querySelectorAll("#sents .sent").forEach(el => el.classList.toggle("sel", +el.dataset.i === sel));
+  $("bAll").classList.toggle("on", sel === -1);
+  renderRecs();
+  const el = document.querySelector(`#sents .sent[data-i="${sel}"]`); if (el) el.scrollIntoView({block:"nearest"});
+}
+function segRange() {
+  const T = S.tts;
+  if (sel === -1) return {start: 0, end: T.sentences.at(-1).end + 0.3, text: T.text, key: "all"};
+  const s = T.sentences[sel];
+  return {start: Math.max(0, s.start - 0.06), end: s.end + 0.25, text: s.text, key: String(sel)};
+}
+
+// precise range playback with rAF
+let play = null; // {end, resolve, loop}
+function playRange(r) {
+  const m = $("model");
+  return new Promise(resolve => {
+    m.currentTime = r.start; m.playbackRate = +settings.speed; m.preservesPitch = true;
+    play = {end: r.end, resolve};
+    m.play().catch(e => { toast("再生できません: " + e.message, true); play = null; resolve(false); });
+    $("bPlay").innerHTML = "⏸ 停止 <kbd>Space</kbd>";
+  });
+}
+function stopModel(result=false) {
+  const m = $("model"); m.pause();
+  if (play) { const r = play.resolve; play = null; r(result); }
+  $("bPlay").innerHTML = "▶ 再生 <kbd>Space</kbd>";
+  wordEls.forEach(w => w.el.classList.remove("on"));
+}
+(function tick() {
+  const m = $("model");
+  if (play && !m.paused) {
+    const t = m.currentTime;
+    for (const w of wordEls) w.el.classList.toggle("on", t >= w.s - 0.02 && t < w.e + 0.02);
+    if (t >= play.end) stopModel(true);
+  }
+  requestAnimationFrame(tick);
+})();
+$("model").addEventListener("ended", () => { if (play) stopModel(true); });
+
+let loopToken = 0;
+async function togglePlay() {
+  if (!S?.tts || Rec.on) return;
+  if (play || loopRunning) { loopToken++; loopRunning = false; stopModel(); return; }
+  const token = ++loopToken;
+  do {
+    loopRunning = loop;
+    const done = await playRange(segRange());
+    if (!done || token !== loopToken) break;
+    if (loop) await sleep(+settings.gap * 1000);
+  } while (loop && token === loopToken);
+  loopRunning = false;
+}
+let loopRunning = false;
+
+// recording flows
+async function shadowRec(mode) {
+  if (!S?.tts) return;
+  if (Rec.on && Rec.owner === "shadow") { recAbort = true; finishRec(); return; }
+  if (Rec.owner === "pending") { recAbort = true; stopModel(); return; }
+  if (Rec.on) return;
+  loopToken++; loopRunning = false; stopModel();
+  const r = segRange();
+  try { await Rec.init(); } catch (e) { toast("マイクを使用できません: " + e.message, true); return; }
+  recAbort = false; recMode = mode; recSeg = r;
+  const banner = $("banner2"), bt = $("banner2t");
+  banner.classList.add("on");
+  if (mode === "overlap") {
+    bt.textContent = "録音中… 手本と同時に話してください（R で停止）";
+    await Rec.start($("meter2"), $("timer2")); Rec.owner = "shadow";
+    await sleep(120);
+    const done = await playRange(r);
+    if (Rec.on && Rec.owner === "shadow" && !recAbort) { await sleep(700); if (Rec.on && Rec.owner === "shadow") finishRec(); }
+  } else {
+    bt.textContent = "手本を聴いてください…";
+    Rec.owner = "pending";
+    const done = await playRange(r);
+    if (!done || recAbort) { banner.classList.remove("on"); Rec.owner = null; return; }
+    await sleep(250);
+    beep();
+    bt.textContent = "どうぞ！ 話してください（R で停止）";
+    await Rec.start($("meter2"), $("timer2")); Rec.owner = "shadow";
+    const dur = (r.end - r.start) / (+settings.speed);
+    const myToken = ++recToken;
+    await sleep((dur * 1.6 + 1.8) * 1000);
+    if (Rec.on && Rec.owner === "shadow" && myToken === recToken) finishRec();
+  }
+}
+let recAbort = false, recMode = "overlap", recSeg = null, recToken = 0;
+function beep() {
+  try { const c = Rec.ctx, o = c.createOscillator(), g = c.createGain(); o.frequency.value = 880; g.gain.value = 0.08;
+    o.connect(g).connect(c.destination); o.start(); o.stop(c.currentTime + 0.12); } catch(e){}
+}
+async function finishRec() {
+  recToken++;
+  stopModel();
+  $("banner2").classList.remove("on");
+  const {blob, seconds} = Rec.stop(); Rec.owner = null;
+  if (seconds < 0.5) { toast("録音が短すぎます"); return; }
+  try {
+    const rec = await api(`/api/session/${S.id}/record?seg=${recSeg.key}&mode=${recMode}`, {body: blob});
+    rec.reference = recSeg.text;
+    S.recordings.push(rec); selRec = rec.n;
+    renderRecs();
+    if (settings.autoEval === "1") evalRec(rec.n);
+    else toast("録音しました。P で再生 / C で聴き比べ / E でAI評価");
+  } catch (e) { toast("録音の保存に失敗: " + e.message, true); }
+}
+
+function segRecs() {
+  const key = sel === -1 ? "all" : String(sel);
+  return S.recordings.filter(r => r.seg === key);
+}
+function badge(v) { if (v == null) return ""; const c = v >= 80 ? "g" : v >= 60 ? "y" : "r"; return `<span class="badge ${c}">${v}</span>`; }
+function renderRecs() {
+  const list = segRecs().slice().reverse();
+  if (selRec && !list.some(r => r.n === selRec)) selRec = null;
+  if (!selRec && list.length) selRec = list[0].n;
+  $("recs").innerHTML = list.length ? list.map(r =>
+    `<div class="recrow ${r.n===selRec?"sel":""}" data-n="${r.n}">
+      <span class="t">#${r.n} ${r.time}</span><span>${r.mode === "repeat" ? "リピート" : "シャドーイング"}</span>
+      ${r.evaluation ? badge(r.evaluation.overall) : ""}
+      <span class="sp"></span>
+      <button class="btn sm" data-act="play">▶</button>
+      <button class="btn sm" data-act="eval">${r.evaluation ? "結果" : "評価"}</button>
+    </div>`).join("") : `<div class="hint">まだ録音がありません。R でシャドーイング録音を始めましょう。</div>`;
+  const r = S.recordings.find(x => x.n === selRec);
+  if (r && r.evaluation) showEval(r.evaluation); else $("evalBox").classList.add("hidden");
+}
+function playMine(n) {
+  const r = S.recordings.find(x => x.n === (n ?? selRec)); if (!r) { toast("録音がありません"); return; }
+  stopAll(); const a = $("mine"); a.src = r.file; a.play();
+}
+async function compare() {
+  const r = S.recordings.find(x => x.n === selRec); if (!r) { toast("録音がありません"); return; }
+  stopAll();
+  const token = ++loopToken;
+  const done = await playRange(segRange());
+  if (!done || token !== loopToken) return;
+  await sleep(400);
+  const a = $("mine"); a.src = r.file; a.play();
+}
+async function evalRec(n) {
+  n = n ?? selRec;
+  const r = S.recordings.find(x => x.n === n); if (!r) { toast("評価する録音がありません"); return; }
+  if (r.evaluation) { selRec = n; renderRecs(); return; }
+  if (busy["ev"+n]) return; busy["ev"+n] = true;
+  const ref = r.reference || (r.seg === "all" ? S.tts.text : S.tts.sentences[+r.seg]?.text);
+  $("evalBox").classList.remove("hidden");
+  $("evalBox").innerHTML = `<div class="hint"><span class="spinner"></span> #${n} を評価中…</div>`;
+  try {
+    r.evaluation = await api(`/api/session/${S.id}/evaluate`, {body:{n, reference: ref}});
+    selRec = n; renderShadow();
+  } catch (e) { toast("評価失敗: " + e.message, true); $("evalBox").classList.add("hidden"); }
+  finally { busy["ev"+n] = false; }
+}
+function showEval(ev) {
+  const prev = S.recordings.filter(r => r.seg === (sel === -1 ? "all" : String(sel)) && r.evaluation && r.n < selRec).at(-1);
+  const delta = prev ? ev.overall - prev.evaluation.overall : null;
+  $("evalBox").classList.remove("hidden");
+  $("evalBox").innerHTML = `
+    <div class="row"><b>AI評価 #${selRec}</b>${delta != null ? `<span class="hint">前回比 ${delta >= 0 ? "+" : ""}${delta}</span>` : ""}</div>
+    <div class="evalgrid">
+      <div><b>${ev.overall}</b><span>総合</span></div><div><b>${ev.pronunciation}</b><span>発音</span></div>
+      <div><b>${ev.fluency}</b><span>流暢さ</span></div><div><b>${ev.intonation}</b><span>抑揚・リズム</span></div>
+      <div><b>${ev.completeness}</b><span>再現度</span></div>
+    </div>
+    <div class="box">${esc(ev.summary_ja)}</div>
+    <div class="lbl">聞き取られた英文</div><div class="box muted">${esc(ev.heard)}</div>
+    ${(ev.improvements_ja||[]).length ? `<div class="lbl">次に意識すること</div><ul class="tight">${ev.improvements_ja.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+    ${(ev.word_issues||[]).length ? `<div class="lbl">気になった単語</div>${ev.word_issues.map(w=>`<div class="issue"><b>${esc(w.word)}</b> — ${esc(w.problem_ja)}<br><span class="muted">💡 ${esc(w.tip_ja)}</span></div>`).join("")}` : ""}
+    ${(ev.good_points_ja||[]).length ? `<div class="lbl">良かった点</div><ul class="tight">${ev.good_points_ja.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>` : ""}`;
+}
+
+function stopAll() {
+  loopToken++; loopRunning = false; stopModel(); $("mine").pause();
+  if (Rec.on && Rec.owner === "shadow") { recAbort = true; finishRec(); }
+  if (Rec.owner === "pending") { recAbort = true; Rec.owner = null; $("banner2").classList.remove("on"); }
+}
+function setSpeed(v) {
+  v = Math.min(1.3, Math.max(0.5, Math.round(v * 20) / 20));
+  settings.speed = String(v); persist();
+  $("speed").value = v; $("speedV").textContent = v.toFixed(2) + "x"; $("model").playbackRate = v;
+}
+
+// ---------------------------------------------------------------- history
+async function openHist() {
+  const list = await api("/api/sessions");
+  $("histList").innerHTML = list.length ? list.map(s => `<a href="#" data-id="${s.id}"><img src="${s.photo}" loading="lazy"><div>${esc(s.created)}${s.best != null ? ` · best ${s.best}` : ""}<br>録音 ${s.recordings}</div></a>`).join("") : `<p class="muted">まだありません</p>`;
+  $("dHist").showModal();
+}
+$("histList").addEventListener("click", e => { const a = e.target.closest("a"); if (!a) return; e.preventDefault(); $("dHist").close(); loadSession(a.dataset.id); });
+
+// ---------------------------------------------------------------- events
+document.querySelectorAll(".panel.fold h2").forEach(h => h.addEventListener("click", e => { if (e.target.closest("button")) return; h.parentElement.classList.toggle("collapsed"); }));
+function focusShadow() { $("pDescribe").classList.add("collapsed"); $("pCorrect").classList.add("collapsed"); $("pShadow").scrollIntoView({behavior:"smooth", block:"start"}); }
+function expandAll() { $("pDescribe").classList.remove("collapsed"); $("pCorrect").classList.remove("collapsed"); }
+$("bNew").onclick = newPhoto;
+$("bHist").onclick = openHist;
+$("bSet").onclick = openSettings;
+$("bKeys").onclick = () => $("dKeys").showModal();
+$("bMic").onclick = toggleMic;
+$("bCorrect").onclick = doCorrect;
+$("bTts").onclick = makeTts;
+$("bPlay").onclick = togglePlay;
+$("bLoop").onclick = () => { loop = !loop; $("bLoop").classList.toggle("on", loop); };
+$("bAll").onclick = () => selectSent(-1);
+$("speed").oninput = e => setSpeed(+e.target.value);
+$("bShadowRec").onclick = () => shadowRec("overlap");
+$("bRepeatRec").onclick = () => shadowRec("repeat");
+$("bPlayRec").onclick = () => playMine();
+$("bCompare").onclick = compare;
+$("bEval").onclick = () => evalRec();
+$("sents").addEventListener("click", e => { const el = e.target.closest(".sent"); if (el) selectSent(+el.dataset.i === sel ? -1 : +el.dataset.i); });
+$("recs").addEventListener("click", e => {
+  const row = e.target.closest(".recrow"); if (!row) return;
+  const n = +row.dataset.n, act = e.target.closest("button")?.dataset.act;
+  selRec = n;
+  if (act === "play") playMine(n);
+  else if (act === "eval") { const r = S.recordings.find(x => x.n === n); if (r.evaluation) renderRecs(); else evalRec(n); }
+  else renderRecs();
+});
+$("bEditIdeal").onclick = () => { $("idealTa").value = S.correction.ideal; $("ideal").classList.add("hidden"); $("idealEdit").classList.remove("hidden"); $("idealTa").focus(); };
+$("bCancelIdeal").onclick = () => { $("ideal").classList.remove("hidden"); $("idealEdit").classList.add("hidden"); };
+$("bSaveIdeal").onclick = async () => {
+  S = await api(`/api/session/${S.id}/ideal`, {body:{ideal: $("idealTa").value}});
+  $("bCancelIdeal").onclick(); sel = -1; render(); makeTts();
+};
+
+document.addEventListener("keydown", e => {
+  const typing = /^(TEXTAREA|INPUT|SELECT)$/.test(document.activeElement?.tagName);
+  if (e.key === "Enter" && (e.metaKey || e.ctrlKey) && document.activeElement === $("desc")) { e.preventDefault(); doCorrect(); return; }
+  if (e.key === "Escape") { if (typing) document.activeElement.blur(); stopAll(); return; }
+  if (typing || e.metaKey || e.ctrlKey || e.altKey || document.querySelector("dialog[open]")) return;
+  const k = e.key;
+  const map = {
+    "n": newPhoto, "N": newPhoto, "m": toggleMic, "M": toggleMic,
+    " ": togglePlay, "l": () => $("bLoop").click(), "L": () => $("bLoop").click(),
+    "a": () => selectSent(-1), "A": () => selectSent(-1),
+    "ArrowDown": () => selectSent(sel + 1), "ArrowUp": () => selectSent(sel - 1),
+    "ArrowRight": () => selectSent(sel + 1), "ArrowLeft": () => selectSent(sel - 1),
+    "[": () => setSpeed(+settings.speed - 0.05), "]": () => setSpeed(+settings.speed + 0.05),
+    "r": () => shadowRec("overlap"), "R": () => shadowRec("repeat"),
+    "p": () => playMine(), "P": () => playMine(), "c": compare, "C": compare, "e": () => evalRec(), "E": () => evalRec(),
+    "?": () => $("dKeys").showModal(), "d": expandAll, "D": expandAll,
+  };
+  if (map[k]) { e.preventDefault(); map[k](); }
+});
+document.querySelectorAll("dialog").forEach(d => d.addEventListener("click", e => { if (e.target === d) d.close(); }));
+
+// ---------------------------------------------------------------- boot
+(async () => {
+  try { await loadConfig(); } catch (e) { toast("サーバーに接続できません", true); return; }
+  loadVoices();
+  let last = null; try { last = localStorage.getItem("ps_last"); } catch(e){}
+  if (last) { try { await loadSession(last); } catch (e) { /* removed */ } }
+})();
+</script>
+</body>
+</html>
