@@ -7,6 +7,8 @@ export function PhotoPanel(props: {
   query: string;
   onQuery: (q: string) => void;
   onNew: () => void;
+  // テストの開始前は写真をぼかす
+  concealed?: boolean;
 }) {
   const s = props.session;
   const c = s?.photo.credit;
@@ -14,7 +16,11 @@ export function PhotoPanel(props: {
     <div className="photo-col">
       <div className="photo">
         {s ? (
-          <img src={fileUrl("speaking", s.id, "photo.jpg")} alt={c?.alt ?? ""} />
+          <img
+            src={fileUrl("speaking", s.id, "photo.jpg")}
+            alt={c?.alt ?? ""}
+            className={props.concealed ? "concealed" : ""}
+          />
         ) : (
           <div className="empty">
             <div>

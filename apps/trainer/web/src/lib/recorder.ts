@@ -7,7 +7,7 @@ const TARGET_RATE = 16000;
 // 録音したサンプルをメインスレッドに送るだけの AudioWorklet
 const WORKLET = `class R extends AudioWorkletProcessor{process(i){const c=i[0]&&i[0][0];if(c)this.port.postMessage(c.slice(0));return true}}registerProcessor('rec',R)`;
 
-export type RecOwner = "desc" | "shadow" | "pending" | null;
+export type RecOwner = "desc" | "shadow" | "test" | "pending" | null;
 
 class Recorder {
   private ctx: AudioContext | null = null;

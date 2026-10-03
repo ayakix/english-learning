@@ -179,3 +179,13 @@ main.single.top{padding-top:20px}
 .glossary dt{font-weight:600;display:inline}
 .glossary dd{display:inline;margin:0 0 0 8px;color:var(--sub)}
 .credit{font-size:12px;color:var(--sub);padding:0 4px}
+
+/* ---- スピーキングテスト ---- */
+.photo img.concealed{filter:blur(28px);transform:scale(1.05)}
+.test-timer{text-align:center;padding:10px 0}
+.test-timer .label{font-weight:600;color:var(--sub)}
+.test-timer .sec{font:700 56px/1.1 ui-monospace,Menlo,monospace}
+.test-timer.speak .sec{color:var(--del)}
+.test-timer .bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin-top:6px}
+.test-timer .bar i{display:block;height:100%;background:var(--accent);transition:width .2s linear}
+.test-timer.speak .bar i{background:var(--del)}

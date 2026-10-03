@@ -47,6 +47,7 @@ def get_file(skill: str, sid: str, name: str):
     if not p.exists() and skill == "speaking" and name == "photo.jpg":
         # 写真は git 管理外なので、clone 直後は元の URL から取り直す
         url = (storage.load(skill, sid).get("photo") or {}).get("url")
+        p.parent.mkdir(parents=True, exist_ok=True)
         if url:
             photos.download(url, p)
     if not p.exists() and skill == "voa" and name == voa.AUDIO:

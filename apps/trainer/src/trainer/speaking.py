@@ -4,13 +4,15 @@
 録音の WAV を生で受け取るエンドポイントだけは Request から読む必要があるので async にし、
 重い処理は run_in_threadpool に逃がしてイベントループを止めないようにする。
 """
+import random
+import shutil
 import time
 
 from fastapi import APIRouter, Request
 from pydantic import BaseModel
 from starlette.concurrency import run_in_threadpool
 
-from . import elevenlabs, photos, storage
+from . import elevenlabs, photos, speaking_stock, storage
 from .gemini import S, generate, inline, level_desc
 from .http import ApiError
 
@@ -104,13 +106,22 @@ def evaluate_audio(wav: bytes, reference: str, mode: str) -> dict:
 
 # ------------------------------------------------------------------ result --
 def update_result(s: dict) -> None:
-    """進捗の集計用。シャドーイングの評価のうち、総合点が最も高い録音をその日の実力とみなす"""
+    """進捗の集計用。シャドーイングの評価のうち、総合点が最も高い録音をその日の実力とみなす
+
+    テスト形式のセッションは、テストの点を使う（初見の写真を時間内に説明する力を見たいので、
+    その後の模範解答のシャドーイングの点で上書きしない）。
+    """
     evs = [r["evaluation"] for r in s.get("recordings", []) if r.get("evaluation")]
     best = max(evs, key=lambda e: e["overall"], default=None)
     details = {"description": (s.get("correction") or {}).get("score"), "recordings": len(s.get("recordings", []))}
     if best:
         details.update({k: best[k] for k in ("pronunciation", "fluency", "intonation", "completeness")})
-    s["result"] = {"score": best["overall"] if best else None, "details": details}
+    score = best["overall"] if best else None
+    grade = (s.get("test") or {}).get("grade")
+    if grade:
+        details.update(test=True, toeic=grade["toeic"], shadowing=score)
+        score = grade["score"]
+    s["result"] = {"score": score, "details": details}
 
 
 def view(s: dict) -> dict:
@@ -119,6 +130,11 @@ def view(s: dict) -> dict:
     clone 直後などで手本音声のファイルが無いときは、tts を無いものとして返して作り直しを促す。
     session.json 自体は書き換えない（タイムスタンプの情報を消さないため）。
     """
+    t = s.get("test")
+    if t and not t.get("grade"):
+        # テストを解く前は模範解答と手本音声を返さない（先に見ると練習にならないため）
+        return dict(s, tts=None, test=dict(t, model_answer=""))
+    restore_tts(s)
     tts = s.get("tts")
     if tts and not storage.file_path(SKILL, s["id"], tts["file"]).exists():
         s = dict(s, tts=None)
@@ -260,3 +276,113 @@ def evaluate(sid: str, n: int):
         update_result(s)
         storage.save(s)
     return ev
+
+
+# ------------------------------------------------------------ テスト形式 ---
+# TOEIC Speaking の写真描写（Questions 3-4）と同じ時間配分
+TEST_PREP = 45
+TEST_RESPONSE = 30
+
+GRADE_SCHEMA = S("OBJECT", properties={
+    "toeic": S("INTEGER", description="TOEIC Speaking の写真描写の採点基準（0〜3）"),
+    "score": S("INTEGER", description="0-100 の総合点"),
+    "content": S("INTEGER", description="0-100 写真の主な要素をどれだけ正確に描写できたか"),
+    "grammar": S("INTEGER"), "vocabulary": S("INTEGER"),
+    "delivery": S("INTEGER", description="0-100 発音・流暢さ・時間内に話し切れたか"),
+    "corrected": S("STRING", description="解答を、内容を保ったまま最小限の修正で正しい英語にしたもの"),
+    "corrections": S("ARRAY", items=S("OBJECT", properties={
+        "before": S("STRING"), "after": S("STRING"), "reason_ja": S("STRING")},
+        required=["before", "after", "reason_ja"])),
+    "key_expressions": S("ARRAY", items=S("OBJECT", properties={
+        "en": S("STRING"), "ja": S("STRING")}, required=["en", "ja"])),
+    "feedback_ja": S("STRING"),
+}, required=["toeic", "score", "content", "grammar", "vocabulary", "delivery", "corrected", "corrections",
+             "key_expressions", "feedback_ja"])
+
+
+def grade_test(photo: bytes, wav: bytes, transcript: str, seconds: float, model_answer: str) -> dict:
+    prompt = (
+        "You are an experienced TOEIC Speaking rater. Task: Describe a picture (Questions 3-4). "
+        "The test taker, a Japanese adult learner, had %d seconds to prepare and %d seconds to speak.\n"
+        "Transcript of the response (spoken in %.0f seconds):\n\"\"\"\n%s\n\"\"\"\n"
+        "The attached audio is the actual response and the image is the picture.\n"
+        "A model answer is given only for your reference. Do NOT require the same content or wording:\n"
+        "\"\"\"\n%s\n\"\"\"\n\n"
+        "toeic: rate on the official 0-3 scale. 3 = describes the main features of the picture; delivery is "
+        "generally intelligible; vocabulary and structures are appropriate. 2 = relevant to the picture but meaning "
+        "is sometimes unclear because of delivery, vocabulary or structure. 1 = loosely related; very limited. "
+        "0 = no response or not related to the picture.\n"
+        "score, content, grammar, vocabulary, delivery: 0-100, calibrated (90+ means near-native).\n"
+        "corrected / corrections: minimal fixes of the response with concise Japanese explanations (reason_ja). "
+        "Skip trivial changes.\n"
+        "key_expressions: 4-6 useful phrases from the model answer with Japanese meanings.\n"
+        "feedback_ja: 2-4 sentences in Japanese: what was good, what was missing from the picture, and the top "
+        "priority for next time (e.g. structure: place -> main person -> surroundings -> background).\n"
+        "If the response is silent or unintelligible, give 0 and say so."
+    ) % (TEST_PREP, TEST_RESPONSE, seconds, transcript.strip() or "(empty)", model_answer.strip())
+    return generate([{"text": prompt}, inline("image/jpeg", photo), inline("audio/wav", wav)],
+                    GRADE_SCHEMA, temperature=0.2)
+
+
+def used_stock_ids() -> set[str]:
+    return {(s.get("test") or {}).get("stock_id") for s in storage.load_all(SKILL)}
+
+
+def restore_tts(s: dict) -> None:
+    """手本音声は git 管理外なので、clone 直後などに無ければストックからコピーし直す"""
+    stock_id = (s.get("test") or {}).get("stock_id")
+    tts = s.get("tts")
+    if not stock_id or not tts or storage.file_path(SKILL, s["id"], tts["file"]).exists():
+        return
+    item = next((it for it in speaking_stock.load_items() if it["id"] == stock_id), None)
+    src = item and speaking_stock.item_dir(item) / tts["file"]
+    if src and src.exists():
+        shutil.copyfile(src, storage.file_path(SKILL, s["id"], tts["file"]))
+
+
+@router.post("/tests")
+def create_test():
+    """ストック（Claude が選んだ写真と模範解答）から、まだ解いていない 1 問でテストを作る"""
+    used = used_stock_ids()
+    items = [it for it in speaking_stock.load_items() if it["id"] not in used and speaking_stock.ensure_audio(it)]
+    if not items:
+        raise ApiError("テスト用の写真をすべて使い終わりました", 404)
+    item = random.choice(items)
+    s = storage.new_session(
+        SKILL, title=item["photo"]["credit"].get("alt") or "スピーキングテスト", query="", photo=item["photo"],
+        attempts=[], correction=None, tts=item["tts"], recordings=[],
+        test={"stock_id": item["id"], "prep": TEST_PREP, "response": TEST_RESPONSE, "model_answer": item["answer"],
+              "answer": None, "seconds": None, "grade": None},
+    )
+    d = storage.session_dir(SKILL, s["id"])
+    d.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(speaking_stock.ensure_photo(item), d / "photo.jpg")
+    shutil.copyfile(speaking_stock.item_dir(item) / item["tts"]["file"], d / item["tts"]["file"])
+    storage.save(s)
+    return view(s)
+
+
+@router.post("/sessions/{sid}/test")
+async def submit_test(sid: str, request: Request, seconds: float = 0):
+    wav = await request.body()
+    s = storage.load(SKILL, sid)
+    t = s.get("test")
+    if not t:
+        raise ApiError("テストのセッションではありません", 400)
+    if t.get("grade"):
+        raise ApiError("このテストは採点済みです", 400)
+    storage.file_path(SKILL, sid, "test.wav").write_bytes(wav)
+    photo = storage.file_path(SKILL, sid, "photo.jpg").read_bytes()
+    transcript = (await run_in_threadpool(transcribe, wav)).strip()
+    g = await run_in_threadpool(grade_test, photo, wav, transcript, seconds, t["model_answer"])
+    with storage.lock:
+        s = storage.load(SKILL, sid)
+        s["test"].update(answer=transcript, seconds=round(seconds, 1), grade=g)
+        s["attempts"].append({"time": time.strftime("%H:%M:%S"), "text": transcript, "score": g["score"]})
+        # 採点後は通常の練習と同じ画面（添削 → 模範解答のシャドーイング）で復習できるようにする
+        s["correction"] = {"corrected": g["corrected"], "corrections": g["corrections"], "ideal": t["model_answer"],
+                           "key_expressions": g["key_expressions"], "feedback_ja": g["feedback_ja"],
+                           "score": g["score"], "original": transcript, "level": "TOEIC"}
+        update_result(s)
+        storage.save(s)
+    return view(s)

@@ -56,6 +56,27 @@ export type Recording = {
   evaluation: Evaluation | null;
 };
 
+export type TestGrade = {
+  toeic: number;
+  score: number;
+  content: number;
+  grammar: number;
+  vocabulary: number;
+  delivery: number;
+  feedback_ja: string;
+};
+
+// テスト形式（TOEIC の写真描写）のときだけ。model_answer は採点前は空で返る
+export type SpeakingTest = {
+  stock_id: string;
+  prep: number;
+  response: number;
+  model_answer: string;
+  answer: string | null;
+  seconds: number | null;
+  grade: TestGrade | null;
+};
+
 export type Session = Base & {
   query: string;
   photo: Photo;
@@ -63,6 +84,7 @@ export type Session = Base & {
   correction: Correction | null;
   tts: Tts | null;
   recordings: Recording[];
+  test?: SpeakingTest;
 };
 
 export type SessionSummary = { id: string; created: string; title: string; score: number | null };

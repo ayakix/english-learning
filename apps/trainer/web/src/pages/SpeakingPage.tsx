@@ -4,8 +4,9 @@ import { CorrectionPanel } from "../components/CorrectionPanel";
 import { DescribePanel } from "../components/DescribePanel";
 import { HistoryDialog } from "../components/Dialogs";
 import { PhotoPanel } from "../components/PhotoPanel";
+import { TestPanel } from "../components/TestPanel";
 import { ShadowPanel, type ShadowHandle } from "../components/ShadowPanel";
-import { PageBar } from "../components/common";
+import { Kbd, PageBar, Spinner } from "../components/common";
 import { useApp } from "../hooks/useApp";
 import { PageActive, useHotkeys } from "../hooks/useHotkeys";
 import { useToast } from "../hooks/useToast";
@@ -13,7 +14,10 @@ import { lastId, rememberLast } from "../lib/last";
 import { errMsg } from "../lib/util";
 import type { Session } from "../types";
 
-/** スピーキング：写真を英語で描写 → 添削 → 理想文のシャドーイング */
+/**
+ * スピーキング：写真を英語で描写 → 添削 → 理想文のシャドーイング
+ * 「テスト」は TOEIC の写真描写と同じ時間配分で、Claude が選んだ写真と模範解答を使う。
+ */
 export function SpeakingPage() {
   const toast = useToast();
   const active = useContext(PageActive);
@@ -23,6 +27,9 @@ export function SpeakingPage() {
   const [desc, setDesc] = useState("");
   const [collapsed, setCollapsed] = useState({ desc: false, corr: false });
   const [loadingPhoto, setLoadingPhoto] = useState(false);
+  const [loadingTest, setLoadingTest] = useState(false);
+  // テストは開始するまで写真をぼかす（準備時間より前に考えられないように）
+  const [testStarted, setTestStarted] = useState(false);
   const [correcting, setCorrecting] = useState(false);
   const [ttsLoading, setTtsLoading] = useState(false);
   const [history, setHistory] = useState(false);
@@ -43,7 +50,14 @@ export function SpeakingPage() {
 
   function focusShadow() {
     setCollapsed({ desc: true, corr: true });
-    setTimeout(() => shadowWrap.current?.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
+    setTimeout(
+      () =>
+        shadowWrap.current?.scrollIntoView({
+          behavior: "smooth",
+          block: "start",
+        }),
+      50,
+    );
   }
 
   async function openSession(id: string) {
@@ -73,6 +87,24 @@ export function SpeakingPage() {
     }
   }
 
+  async function newTest() {
+    if (loadingTest) return;
+    shadow.current?.stopAll();
+    setLoadingTest(true);
+    try {
+      const s = await api.speaking.createTest();
+      setSession(s);
+      rememberLast("speaking", s.id);
+      setDesc("");
+      setTestStarted(false);
+      expandAll();
+    } catch (e) {
+      toast("テストの準備に失敗: " + errMsg(e), true);
+    } finally {
+      setLoadingTest(false);
+    }
+  }
+
   async function makeTts(s = session) {
     if (!s?.correction || ttsLoading) return;
     setTtsLoading(true);
@@ -93,7 +125,12 @@ export function SpeakingPage() {
     if (!text) return toast("説明文がありません。M で話してください");
     setCorrecting(true);
     try {
-      const s = await api.speaking.correct(session.id, text, settings.level, settings.sentences);
+      const s = await api.speaking.correct(
+        session.id,
+        text,
+        settings.level,
+        settings.sentences,
+      );
       setSession(s);
       setCollapsed((c) => ({ ...c, corr: false }));
       if (settings.autoTts) makeTts(s);
@@ -115,7 +152,17 @@ export function SpeakingPage() {
     }
   }
 
-  useHotkeys({ n: newPhoto, N: newPhoto, d: expandAll, D: expandAll });
+  useHotkeys({
+    n: newPhoto,
+    N: newPhoto,
+    t: newTest,
+    T: newTest,
+    d: expandAll,
+    D: expandAll,
+  });
+
+  const test = session?.test;
+  const concealed = !!test && !test.grade && !testStarted;
 
   return (
     <>
@@ -125,22 +172,53 @@ export function SpeakingPage() {
         busyLabel="取得中"
         onNew={newPhoto}
         onHistory={() => setHistory(true)}
-      />
+      >
+        <button className="btn" onClick={newTest} disabled={loadingTest}>
+          {loadingTest ? (
+            <>
+              <Spinner /> 準備中
+            </>
+          ) : (
+            <>
+              テスト（TOEIC 形式） <Kbd>T</Kbd>
+            </>
+          )}
+        </button>
+      </PageBar>
       <main className="split">
-        <PhotoPanel session={session} query={query} onQuery={setQuery} onNew={newPhoto} />
+        <PhotoPanel
+          session={session}
+          query={query}
+          onQuery={setQuery}
+          onNew={newPhoto}
+          concealed={concealed}
+        />
         <div className="col">
-          <DescribePanel
-            session={session}
-            text={desc}
-            onText={setDesc}
-            echo={settings.echo}
-            collapsed={collapsed.desc}
-            onToggle={() => setCollapsed((c) => ({ ...c, desc: !c.desc }))}
-            onExpand={() => setCollapsed((c) => ({ ...c, desc: false }))}
-            onBeforeRecord={() => shadow.current?.stopAll()}
-            onCorrect={doCorrect}
-            correcting={correcting}
-          />
+          {test ? (
+            <TestPanel
+              session={session!}
+              echo={settings.echo}
+              onStart={() => setTestStarted(true)}
+              onBeforeRecord={() => shadow.current?.stopAll()}
+              onGraded={(s) => {
+                setSession(s);
+                setCollapsed({ desc: false, corr: false });
+              }}
+            />
+          ) : (
+            <DescribePanel
+              session={session}
+              text={desc}
+              onText={setDesc}
+              echo={settings.echo}
+              collapsed={collapsed.desc}
+              onToggle={() => setCollapsed((c) => ({ ...c, desc: !c.desc }))}
+              onExpand={() => setCollapsed((c) => ({ ...c, desc: false }))}
+              onBeforeRecord={() => shadow.current?.stopAll()}
+              onCorrect={doCorrect}
+              correcting={correcting}
+            />
+          )}
           {session?.correction && (
             <CorrectionPanel
               correction={session.correction}
@@ -158,7 +236,11 @@ export function SpeakingPage() {
                 updateSettings={updateSettings}
                 ttsLoading={ttsLoading}
                 onMakeTts={() => makeTts()}
-                onRecordingsChange={(fn) => setSession((s) => (s ? { ...s, recordings: fn(s.recordings) } : s))}
+                onRecordingsChange={(fn) =>
+                  setSession((s) =>
+                    s ? { ...s, recordings: fn(s.recordings) } : s,
+                  )
+                }
               />
             </div>
           )}
@@ -170,7 +252,9 @@ export function SpeakingPage() {
         onClose={() => setHistory(false)}
         onPick={(id) => {
           setHistory(false);
-          openSession(id).catch((e) => toast("読み込みに失敗: " + errMsg(e), true));
+          openSession(id).catch((e) =>
+            toast("読み込みに失敗: " + errMsg(e), true),
+          );
         }}
       />
     </>

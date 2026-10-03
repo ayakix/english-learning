@@ -47,6 +47,9 @@ export const api = {
   speaking: {
     get: (sid: string) => call<Session>(sp(sid)),
     create: (query: string) => call<Session>("/api/speaking/sessions", "POST", { query }),
+    createTest: () => call<Session>("/api/speaking/tests", "POST"),
+    submitTest: (sid: string, wav: Blob, seconds: number) =>
+      call<Session>(`${sp(sid)}/test?` + new URLSearchParams({ seconds: String(seconds) }), "POST", wav),
     transcribe: (sid: string, wav: Blob) => call<{ text: string }>(`${sp(sid)}/transcribe`, "POST", wav),
     correct: (sid: string, text: string, level: string, sentences: number) =>
       call<Session>(`${sp(sid)}/correct`, "POST", { text, level, sentences }),

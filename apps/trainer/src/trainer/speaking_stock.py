@@ -69,7 +69,9 @@ def build_one(item: dict, voices: list[dict]) -> dict:
 def build_all() -> None:
     items = load_items()
     voices = load_topics()["voices"]
-    todo = [it for it in items if not ensure_audio(it) or not (item_dir(it) / "photo.jpg").exists()]
+    # Unsplash の download 計測が 1 時間の回数制限で漏れたものも、もう一度流せば計測する
+    todo = [it for it in items if not ensure_audio(it) or not (item_dir(it) / "photo.jpg").exists()
+            or (it.get("download_location") and not it.get("download_tracked"))]
 
     def one(it):
         try:
