@@ -14,7 +14,6 @@ journal/                 日々の学習記録（時間・内容・振り返り�
 mistakes/                間違いノート
 practice/shadowing/      Photo Shadowing の練習ログ（session.json。写真・音声は git 管理外）
 apps/photo-shadowing/    写真描写 × シャドーイング練習アプリ（FastAPI + React）
-scripts/                 CLI ツール
 ```
 
 ## 使っている AI
