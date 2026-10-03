@@ -1,0 +1,114 @@
+{
+ "id": "fi004",
+ "author": "claude",
+ "summary_ja": "新しい投資家の悩みは「いつ買うか」。完璧な時期を選ぶマーケットタイミングはプロにも難しい。ドルコスト平均法は、毎月3万円など決まった額を定期的に投資する方法。高い時は少なく、安い時は多く買えるので、予想しなくても妥当な平均購入価格になる。自動の積立にすれば習慣になり、悪いニュースでも慌てにくい。大金を持っているなら一括投資のほうが平均的にリターンが高かったという研究もあるが、少しずつのほうが気持ちは楽。",
+ "listening": [
+  {
+   "q": "dollar-cost averaging とは？",
+   "options": [
+    "決まった額を定期的に投資し続ける方法",
+    "安い時に全部買う方法",
+    "投資しない方法",
+    "高い時に売る方法"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"you invest the same fixed amount at regular intervals\"。"
+  },
+  {
+   "q": "価格が低いとき、決まった額で何が起きる？",
+   "options": [
+    "買えない",
+    "より多くの株数を買える",
+    "より少なく買う",
+    "売ってしまう"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When prices are low, the same amount buys more shares.\""
+  },
+  {
+   "q": "研究で、すでに大金を持っている場合について分かったことは？",
+   "options": [
+    "少しずつが必ず良い",
+    "一括で投資するほうが平均的にリターンが高いことが多かった",
+    "投資しないほうが良い",
+    "差はない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"investing it all at once has often produced higher returns on average, because markets tend to rise over time.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "今日投資して明日市場が下がると、ひどい気分になります。",
+   "points_ja": "invest today and the market が続けて聞こえ、feel terrible がつながります。"
+  },
+  {
+   "sentence": 7,
+   "ja": "価格が高いとき、決まった額では少ない株数しか買えません。",
+   "points_ja": "prices are high がつながり、fixed amount buys fewer が続けて聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "実際、下がっている市場はセールのように感じられることもあります。",
+   "points_ja": "In fact が続き、feel like a sale が「フィールライカセール」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "毎日売買すべき",
+    "決まった額を定期的に投資すると、時期に迷わず習慣にできる",
+    "投資は一度だけでよい",
+    "完璧な時期を選ぶべき"
+   ],
+   "answer": 1,
+   "explanation_ja": "ドルコスト平均法の仕組み、利点、一括投資との比較を説明しています。"
+  },
+  {
+   "q": "market timing の意味は？",
+   "options": [
+    "売買の完璧な時期を選ぼうとすること",
+    "株の値段",
+    "長期投資",
+    "市場の営業時間"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Trying to choose the perfect moment is called market timing\"。"
+  },
+  {
+   "q": "自動積立の利点として書かれているのは？",
+   "options": [
+    "税金がかからない",
+    "手数料が安くなる",
+    "必ずもうかる",
+    "考える必要がなく、悪いニュースでも慌てにくい"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"They do not need to think about it, and they are less likely to panic when the news is bad.\""
+  },
+  {
+   "q": "ドルコスト平均法が多くの人に好まれる理由は？",
+   "options": [
+    "法律で決まっているから",
+    "少しずつのほうが気持ちの上で楽だから",
+    "銀行が勧めるから",
+    "必ず一括より得だから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"But many people find a gradual approach easier emotionally.\""
+  },
+  {
+   "q": "毎月の給料から投資する人にとって、この方法は？",
+   "options": [
+    "自然な選択",
+    "不向き",
+    "危険",
+    "違法"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"For people investing from their monthly salary, regular investing is simply the natural choice.\""
+  }
+ ]
+}

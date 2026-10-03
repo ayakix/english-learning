@@ -1,0 +1,114 @@
+{
+ "id": "wn002",
+ "author": "claude",
+ "summary_ja": "ブルゴーニュのシャルドネの引き締まった酸味は石灰岩の土壌に関係すると考えられている。昔の浅い海の貝殻などが岩になり、北部シャブリにはキンメリジャン石灰岩があって牡蠣の化石も見つかる。石灰岩は水はけがよく、深くに水分も保つ。ミネラル感という言葉は味の印象で、科学的にはまだ議論中。",
+ "listening": [
+  {
+   "q": "ブルゴーニュの石灰岩はどうやってできた？",
+   "options": [
+    "川の砂が集まった",
+    "昔の浅い海の貝殻や生き物が岩になった",
+    "火山の溶岩が固まった",
+    "人が運んできた"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Shells and tiny sea creatures fell to the bottom and slowly turned into rock.\""
+  },
+  {
+   "q": "シャブリの畑で見つかるものは？",
+   "options": [
+    "恐竜の骨",
+    "金の粒",
+    "火山灰",
+    "小さな牡蠣の化石"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"you can even find small fossil oyster shells in the ground.\""
+  },
+  {
+   "q": "minerality について話し手は何と言っている？",
+   "options": [
+    "岩の成分が直接ワインに入る",
+    "悪い味のことである",
+    "科学的にはまだ議論中で、化学的事実というより味の印象である",
+    "完全に証明されている"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"scientists are still discussing what minerality really is ... The word is more of a tasting impression than a chemical fact.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "多くのワイン好きは、秘密は足元の石灰岩にあると信じています。",
+   "points_ja": "secret is under が続けて聞こえ、under their の their は弱形です。"
+  },
+  {
+   "sentence": 7,
+   "ja": "シャブリは、舌の上で生き生きと感じる、きりっとしたクリーンなワインで知られています。",
+   "points_ja": "known for が「ノウンフォー」、feel lively on the が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "ブドウの木が岩から風味をそのまま吸い上げるわけではありません。",
+   "points_ja": "do not が短く、pull flavors from the が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ミネラル感は岩の味そのものである",
+    "石灰岩の土壌がブルゴーニュのシャルドネの酸味に関係すると考えられている",
+    "シャブリは赤ワインの産地である",
+    "ブルゴーニュは昔から砂漠だった"
+   ],
+   "answer": 1,
+   "explanation_ja": "石灰岩の成り立ち、性質、ミネラル感の議論を説明しています。"
+  },
+  {
+   "q": "marl の説明として正しいものは？",
+   "options": [
+    "火山の岩",
+    "人工の肥料",
+    "砂だけの土",
+    "石灰岩と粘土が混ざった土壌"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"soils that mix this limestone with clay, often called marl.\""
+  },
+  {
+   "q": "石灰岩がブドウにとって良い理由として書かれているのは？",
+   "options": [
+    "水はけがよく、深くに水分も保てるので、安定して育つ",
+    "栄養が多すぎるから",
+    "虫が来ないから",
+    "とても暖かいから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It drains water well, but it can also store some moisture deep down.\""
+  },
+  {
+   "q": "minerality を表す言葉として挙げられていないものは？",
+   "options": [
+    "濡れた石",
+    "貝殻",
+    "チョーク",
+    "バニラ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"wet stone, chalk or sea shells\" で、バニラはありません。"
+  },
+  {
+   "q": "最後の文が伝えていることは？",
+   "options": [
+    "シャブリは塩辛い",
+    "シャブリは海の近くにある",
+    "冷たく石っぽいシャブリを飲むと、昔の海を想像しやすい",
+    "シャブリは海水で作る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"it is easy to imagine that ancient sea.\""
+  }
+ ]
+}

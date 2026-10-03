@@ -113,10 +113,10 @@ dialog h3{margin:0 0 12px}
 /* ---- 4 技能のアプリにしたときに追加したもの ---- */
 :root{
   /* グラフの系列色（dataviz の検証済みパレット。ライトは 3:1 未満の色があるので直接ラベルと表を併用する） */
-  --series-1:#2a78d6;--series-2:#eb6834;--series-3:#1baf7a;--series-4:#eda100;
+  --series-1:#2a78d6;--series-2:#eb6834;--series-3:#1baf7a;--series-4:#eda100;--series-5:#e87ba4;
 }
 @media (prefers-color-scheme: dark){
-  :root{--series-1:#3987e5;--series-2:#d95926;--series-3:#199e70;--series-4:#c98500}
+  :root{--series-1:#3987e5;--series-2:#d95926;--series-3:#199e70;--series-4:#c98500;--series-5:#d55181}
 }
 header{flex-wrap:wrap}
 .tabs{display:flex;gap:2px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px}
@@ -170,3 +170,12 @@ input.answer{flex:1;min-width:0;border:1px solid var(--line);background:var(--pa
 .table th,.table td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line)}
 .table th{color:var(--sub);font-weight:600;font-size:12px}
 main.single.top{padding-top:20px}
+
+/* ---- VOA タブ ---- */
+.player{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:10px 14px;position:sticky;top:8px;z-index:5}
+.btn.sm.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.passage h4{margin:16px 0 6px;font-size:15px}
+.glossary{margin:0;display:grid;gap:6px}
+.glossary dt{font-weight:600;display:inline}
+.glossary dd{display:inline;margin:0 0 0 8px;color:var(--sub)}
+.credit{font-size:12px;color:var(--sub);padding:0 4px}

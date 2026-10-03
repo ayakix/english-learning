@@ -1,0 +1,114 @@
+{
+ "id": "wt035",
+ "author": "claude",
+ "summary_ja": "古い時計の変化には、味わいとして歓迎される「パティーナ」と、価値を下げる「ダメージ」がある。夜光塗料のクリーム色化や黒文字盤の茶色化など、均一で穏やかな経年変化は好まれる。水の浸入による錆やしみは不均一でマイナス。ひび模様のスパイダーダイヤルは好みが分かれる。文字盤の修復は価値を下げることが多い。",
+ "listening": [
+  {
+   "q": "patina の例として話されているのは？",
+   "options": [
+    "ガラスが割れる",
+    "ベルトが切れる",
+    "針が外れる",
+    "夜光塗料がクリーム色になる、黒い文字盤が少し茶色くなる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the luminous paint on the hands can turn a creamy yellow, or a black dial can become a little brown.\""
+  },
+  {
+   "q": "spider dial とは？",
+   "options": [
+    "針が8本ある文字盤",
+    "クモの絵が描かれた文字盤",
+    "文字盤の塗装がクモの巣のように細かくひび割れたもの",
+    "黒い文字盤"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the lacquer on the dial cracks into a fine network of lines, like a spider web.\""
+  },
+  {
+   "q": "文字盤の修復について多くのコレクターの意見は？",
+   "options": [
+    "必ずするべき",
+    "誰も気にしない",
+    "安くなるのでおすすめ",
+    "しないほうがよい。価値が大きく下がることが多い"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Most collectors say no. A restored dial usually loses much of its value.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 6,
+   "ja": "それが均一で穏やかなら、多くの人は美しいと感じます。",
+   "points_ja": "When it's even がつながり、find it が「ファインディット」になります。"
+  },
+  {
+   "sentence": 9,
+   "ja": "錆の点や泡、不均一に広がるしみが見えるかもしれません。",
+   "points_ja": "might see の t は飲み込まれ、spread in an が「スプレディナン」とつながります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "つまり、部分的には好みの問題ですね。",
+   "points_ja": "matter of が「マララヴ」と聞こえます（t が弾音化）。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "新品の時計の選び方",
+    "夜光塗料の作り方",
+    "時計の修理方法",
+    "古い時計の変化が、味わいなのか損傷なのかの見分け方"
+   ],
+   "answer": 3,
+   "explanation_ja": "パティーナとダメージの違いと、修復についての考え方を話しています。"
+  },
+  {
+   "q": "environmental degradation の原因として挙げられているのは？",
+   "options": [
+    "時計の値段",
+    "水の浸入や強い熱",
+    "持ち主の名前",
+    "ベルトの種類"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"like water getting inside, or strong heat.\""
+  },
+  {
+   "q": "水によるダメージがほぼ常にマイナスとされる理由は？",
+   "options": [
+    "機械にも影響していることが多いから",
+    "時計が軽くなるから",
+    "見た目がきれいになるから",
+    "直すのが簡単だから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"because they often mean the movement was affected too.\""
+  },
+  {
+   "q": "一般に歓迎される経年変化は？",
+   "options": [
+    "均一で自然な変化",
+    "急にできたしみ",
+    "錆",
+    "泡"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Even, natural aging is usually welcome.\""
+  },
+  {
+   "q": "最後の文の \"honest aging\" に近い意味は？",
+   "options": [
+    "新品のような状態",
+    "手を加えていない、自然な年の取り方",
+    "正直な持ち主",
+    "修理された状態"
+   ],
+   "answer": 1,
+   "explanation_ja": "修復していない、自然な経年変化を指しています。"
+  }
+ ]
+}

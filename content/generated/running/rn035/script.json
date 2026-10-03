@@ -1,0 +1,194 @@
+{
+ "id": "rn035",
+ "author": "claude",
+ "category": "running",
+ "title": "Cadence and Vertical Oscillation",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "cadence",
+  "vertical oscillation",
+  "ground reaction force"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Cadence is the number of steps you take per minute while running. It has become a popular topic, partly because many sports watches now measure it automatically."
+  },
+  {
+   "speaker": "A",
+   "text": "You may have heard that the perfect cadence is one hundred eighty steps per minute. This number became famous after a coach observed elite runners at the Olympics. However, they were running very fast. Cadence naturally increases with speed, and it also depends on height and leg length. So there is no single perfect number for everyone."
+  },
+  {
+   "speaker": "A",
+   "text": "Still, cadence can be useful. Many recreational runners take long steps with their foot landing far in front of their body. This is called overstriding. It can act like a brake and increase the stress on knees and hips. Increasing cadence by about five to ten percent often shortens the step and brings the foot closer under the body."
+  },
+  {
+   "speaker": "A",
+   "text": "Watches may also show vertical oscillation. This is how much your body moves up and down with each step. A lot of bouncing means energy is going upward instead of forward. Many efficient runners have relatively low vertical oscillation."
+  },
+  {
+   "speaker": "A",
+   "text": "Both measures are related to ground reaction force, the force the ground pushes back with when your foot lands. Shorter, quicker steps can reduce the peak force on your legs."
+  },
+  {
+   "speaker": "A",
+   "text": "If you want to change your cadence, do it gradually. Try running with a metronome app for short periods, and let your body adjust over weeks, not days."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Cadence is the number of steps you take per minute while running.",
+   "start": 0.0,
+   "end": 3.76,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It has become a popular topic, partly because many sports watches now measure it automatically.",
+   "start": 4.19,
+   "end": 9.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You may have heard that the perfect cadence is one hundred eighty steps per minute.",
+   "start": 10.47,
+   "end": 15.27,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This number became famous after a coach observed elite runners at the Olympics.",
+   "start": 15.7,
+   "end": 20.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "However, they were running very fast.",
+   "start": 21.25,
+   "end": 23.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Cadence naturally increases with speed, and it also depends on height and leg length.",
+   "start": 24.36,
+   "end": 29.76,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So there is no single perfect number for everyone.",
+   "start": 30.19,
+   "end": 33.63,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Still, cadence can be useful.",
+   "start": 34.15,
+   "end": 36.15,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many recreational runners take long steps with their foot landing far in front of their body.",
+   "start": 36.58,
+   "end": 42.26,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called overstriding.",
+   "start": 42.69,
+   "end": 44.818,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It can act like a brake and increase the stress on knees and hips.",
+   "start": 45.232,
+   "end": 49.32,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Increasing cadence by about five to ten percent often shortens the step and brings the foot closer under the body.",
+   "start": 49.79,
+   "end": 57.47,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Watches may also show vertical oscillation.",
+   "start": 57.99,
+   "end": 60.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is how much your body moves up and down with each step.",
+   "start": 61.46,
+   "end": 65.1,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A lot of bouncing means energy is going upward instead of forward.",
+   "start": 65.73,
+   "end": 69.93,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many efficient runners have relatively low vertical oscillation.",
+   "start": 70.56,
+   "end": 74.56,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Both measures are related to ground reaction force, the force the ground pushes back with when your foot lands.",
+   "start": 75.08,
+   "end": 81.76,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Shorter, quicker steps can reduce the peak force on your legs.",
+   "start": 82.39,
+   "end": 86.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If you want to change your cadence, do it gradually.",
+   "start": 86.83,
+   "end": 90.19,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Try running with a metronome app for short periods, and let your body adjust over weeks, not days.",
+   "start": 90.7,
+   "end": 96.7,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 240,
+ "duration": 96.6,
+ "wpm": 149,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-03 23:57"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wt033",
+ "author": "claude",
+ "category": "watches",
+ "title": "Lug-to-Lug and Wrist Presence",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "lug-to-lug",
+  "wrist presence",
+  "wearability"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When people choose a watch, they usually look at the case diameter, such as thirty-nine or forty-two millimeters. But two watches with the same diameter can feel very different on the wrist. One important reason is a measurement called lug-to-lug."
+  },
+  {
+   "speaker": "A",
+   "text": "The lugs are the small arms that stick out from the case and hold the strap or bracelet. Lug-to-lug is the distance from the tip of the top lugs to the tip of the bottom lugs. It tells you how long the watch really is from top to bottom."
+  },
+  {
+   "speaker": "A",
+   "text": "This number matters because your wrist has a limited flat area. If the lug-to-lug distance is longer than the top of your wrist, the lugs hang over the edges. The watch looks too big, and the strap may not sit comfortably. Collectors call this overall effect wrist presence, meaning how large and noticeable a watch appears when worn."
+  },
+  {
+   "speaker": "A",
+   "text": "The shape of the lugs also plays a role. Lugs that curve downward follow the wrist and make the watch feel smaller. Long, straight lugs make it feel larger. A thick case can also change the impression."
+  },
+  {
+   "speaker": "A",
+   "text": "So before buying a watch online, it is wise to check the lug-to-lug measurement and compare it with a watch you already own. This simple step can tell you more about wearability, or how comfortable the watch will be, than the diameter alone."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When people choose a watch, they usually look at the case diameter, such as thirty-nine or forty-two millimeters.",
+   "start": 0.0,
+   "end": 6.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But two watches with the same diameter can feel very different on the wrist.",
+   "start": 7.63,
+   "end": 12.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One important reason is a measurement called lug-to-lug.",
+   "start": 12.9,
+   "end": 16.62,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The lugs are the small arms that stick out from the case and hold the strap or bracelet.",
+   "start": 17.14,
+   "end": 22.54,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Lug-to-lug is the distance from the tip of the top lugs to the tip of the bottom lugs.",
+   "start": 23.25,
+   "end": 28.85,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It tells you how long the watch really is from top to bottom.",
+   "start": 29.28,
+   "end": 33.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This number matters because your wrist has a limited flat area.",
+   "start": 33.56,
+   "end": 37.72,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If the lug-to-lug distance is longer than the top of your wrist, the lugs hang over the edges.",
+   "start": 38.39,
+   "end": 44.19,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The watch looks too big, and the strap may not sit comfortably.",
+   "start": 44.82,
+   "end": 48.82,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Collectors call this overall effect wrist presence, meaning how large and noticeable a watch appears when worn.",
+   "start": 49.49,
+   "end": 56.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The shape of the lugs also plays a role.",
+   "start": 57.29,
+   "end": 60.01,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Lugs that curve downward follow the wrist and make the watch feel smaller.",
+   "start": 60.68,
+   "end": 65.12,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Long, straight lugs make it feel larger.",
+   "start": 65.75,
+   "end": 68.51,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A thick case can also change the impression.",
+   "start": 69.14,
+   "end": 71.94,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So before buying a watch online, it is wise to check the lug-to-lug measurement and compare it with a watch you already own.",
+   "start": 72.46,
+   "end": 80.06,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This simple step can tell you more about wearability, or how comfortable the watch will be, than the diameter alone.",
+   "start": 80.73,
+   "end": 87.53,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 227,
+ "duration": 87.5,
+ "wpm": 156,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:46"
+}

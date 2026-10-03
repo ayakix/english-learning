@@ -1,0 +1,215 @@
+{
+ "id": "av019",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Pushback and Marshalling on the Airport Apron",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "pushback tractor",
+  "aircraft marshalling",
+  "bypass pin"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Airplanes can't drive backward away from the gate on their own. How do they leave?"
+  },
+  {
+   "speaker": "B",
+   "text": "Technically, some could use reverse thrust, but it's not done at gates because it's dangerous and noisy. Instead, a pushback tractor pushes them back. It's a very low, very powerful vehicle that connects to the nose wheel."
+  },
+  {
+   "speaker": "A",
+   "text": "How does the tractor steer such a big plane?"
+  },
+  {
+   "speaker": "B",
+   "text": "Normally, the nose wheel is steered by the pilots using hydraulic power. Before pushback, the ground crew inserts a bypass pin into the nose gear. This disconnects the steering system, so the tractor can turn the wheel freely."
+  },
+  {
+   "speaker": "A",
+   "text": "What happens if they forget the pin?"
+  },
+  {
+   "speaker": "B",
+   "text": "It can damage the nose gear, so it's always checked carefully. After pushback, the pin is removed and shown to the pilots, so they know the steering is back to normal."
+  },
+  {
+   "speaker": "A",
+   "text": "How do the pilots talk to the ground crew?"
+  },
+  {
+   "speaker": "B",
+   "text": "Often with a headset plugged into the nose of the aircraft. And at arrival, you'll sometimes see someone guiding the plane with hand signals. That's aircraft marshalling."
+  },
+  {
+   "speaker": "A",
+   "text": "The person with the orange sticks?"
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. The marshaller uses standard signals to say move forward, turn left or stop. Many airports now use electronic guidance systems at the gate, but marshallers are still important, especially at smaller airports."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Airplanes can't drive backward away from the gate on their own.",
+   "start": 0.0,
+   "end": 3.36,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How do they leave?",
+   "start": 4.11,
+   "end": 5.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Technically, some could use reverse thrust, but it's not done at gates because it's dangerous and noisy.",
+   "start": 6.03,
+   "end": 13.15,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Instead, a pushback tractor pushes them back.",
+   "start": 13.78,
+   "end": 16.66,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a very low, very powerful vehicle that connects to the nose wheel.",
+   "start": 17.21,
+   "end": 21.93,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How does the tractor steer such a big plane?",
+   "start": 22.65,
+   "end": 26.01,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Normally, the nose wheel is steered by the pilots using hydraulic power.",
+   "start": 26.73,
+   "end": 31.25,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Before pushback, the ground crew inserts a bypass pin into the nose gear.",
+   "start": 31.88,
+   "end": 36.92,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "This disconnects the steering system, so the tractor can turn the wheel freely.",
+   "start": 37.35,
+   "end": 41.83,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What happens if they forget the pin?",
+   "start": 42.55,
+   "end": 44.87,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It can damage the nose gear, so it's always checked carefully.",
+   "start": 45.59,
+   "end": 49.75,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "After pushback, the pin is removed and shown to the pilots, so they know the steering is back to normal.",
+   "start": 50.26,
+   "end": 56.18,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "How do the pilots talk to the ground crew?",
+   "start": 56.9,
+   "end": 59.46,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Often with a headset plugged into the nose of the aircraft.",
+   "start": 60.26,
+   "end": 63.86,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And at arrival, you'll sometimes see someone guiding the plane with hand signals.",
+   "start": 64.45,
+   "end": 68.93,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That's aircraft marshalling.",
+   "start": 69.52,
+   "end": 71.44,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The person with the orange sticks?",
+   "start": 72.16,
+   "end": 74.24,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 74.96,
+   "end": 75.76,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "The marshaller uses standard signals to say move forward, turn left or stop.",
+   "start": 76.51,
+   "end": 82.07,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Many airports now use electronic guidance systems at the gate, but marshallers are still important, especially at smaller airports.",
+   "start": 82.7,
+   "end": 90.78,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 212,
+ "duration": 90.7,
+ "wpm": 140,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 67,
+ "created": "2026-10-03 23:52"
+}

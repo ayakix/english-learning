@@ -1,0 +1,187 @@
+{
+ "id": "ns015",
+ "author": "claude",
+ "category": "science",
+ "title": "Black Holes in Simple Terms",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "black hole",
+  "gravity",
+  "event horizon"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A black hole is a place in space where gravity is so strong that nothing can escape, not even light. Because no light comes out, we cannot see a black hole directly. But we can see its effects on everything around it."
+  },
+  {
+   "speaker": "A",
+   "text": "Many black holes form when a very large star reaches the end of its life. The star runs out of fuel and can no longer support its own weight. Its core collapses inward, packing an enormous amount of matter into a tiny space. The result is gravity so strong that it bends space itself."
+  },
+  {
+   "speaker": "A",
+   "text": "Around every black hole, there is an invisible boundary called the event horizon. It is the point of no return. Outside the event horizon, an object can still escape if it moves fast enough. Inside it, escape is impossible."
+  },
+  {
+   "speaker": "A",
+   "text": "Some black holes are only a few times heavier than our sun. Others are gigantic. At the center of most large galaxies, including our own Milky Way, there is a supermassive black hole, millions or even billions of times heavier than the sun."
+  },
+  {
+   "speaker": "A",
+   "text": "For a long time, black holes were only a prediction. Then, in twenty nineteen, scientists released the first image of a black hole's shadow. It showed a dark center surrounded by a glowing ring of hot gas. They combined radio telescopes around the world to create one giant, Earth-sized telescope."
+  },
+  {
+   "speaker": "A",
+   "text": "Black holes remain one of the most mysterious objects in the universe."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "A black hole is a place in space where gravity is so strong that nothing can escape, not even light.",
+   "start": 0.0,
+   "end": 7.68,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Because no light comes out, we cannot see a black hole directly.",
+   "start": 8.35,
+   "end": 12.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But we can see its effects on everything around it.",
+   "start": 13.18,
+   "end": 16.54,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many black holes form when a very large star reaches the end of its life.",
+   "start": 17.06,
+   "end": 22.26,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The star runs out of fuel and can no longer support its own weight.",
+   "start": 22.93,
+   "end": 27.13,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Its core collapses inward, packing an enormous amount of matter into a tiny space.",
+   "start": 27.76,
+   "end": 34.0,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The result is gravity so strong that it bends space itself.",
+   "start": 34.39,
+   "end": 39.23,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Around every black hole, there is an invisible boundary called the event horizon.",
+   "start": 39.75,
+   "end": 44.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It is the point of no return.",
+   "start": 45.86,
+   "end": 48.26,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Outside the event horizon, an object can still escape if it moves fast enough.",
+   "start": 48.93,
+   "end": 53.65,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Inside it, escape is impossible.",
+   "start": 54.56,
+   "end": 57.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some black holes are only a few times heavier than our sun.",
+   "start": 58.04,
+   "end": 62.0,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Others are gigantic.",
+   "start": 62.63,
+   "end": 64.79,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "At the center of most large galaxies, including our own Milky Way, there is a supermassive black hole, millions or even billions of times heavier than the sun.",
+   "start": 65.46,
+   "end": 76.42,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For a long time, black holes were only a prediction.",
+   "start": 76.94,
+   "end": 80.86,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Then, in twenty nineteen, scientists released the first image of a black hole's shadow.",
+   "start": 81.41,
+   "end": 87.09,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It showed a dark center surrounded by a glowing ring of hot gas.",
+   "start": 87.72,
+   "end": 92.68,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They combined radio telescopes around the world to create one giant, Earth-sized telescope.",
+   "start": 93.11,
+   "end": 99.35,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Black holes remain one of the most mysterious objects in the universe.",
+   "start": 99.87,
+   "end": 104.59,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 240,
+ "duration": 104.5,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-04 00:01"
+}

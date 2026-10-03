@@ -1,0 +1,114 @@
+{
+ "id": "wn012",
+ "author": "claude",
+ "summary_ja": "甲州は山梨で千年以上ともいわれる歴史を持つ日本固有のブドウで、皮は淡い紫色だが伝統的には淡い白ワインになる。最近は果皮を数日〜数週間浸けるスキンコンタクトで、琥珀色のオレンジワインを作る人もいる。皮のフェノールで口に軽い渋み（グリップ）が出て、干したオレンジの皮や生姜、茶葉の風味になる。",
+ "listening": [
+  {
+   "q": "甲州について正しいものは？",
+   "options": [
+    "皮は淡い紫色だが、伝統的に淡い白ワインになる",
+    "黒いブドウで赤ワインになる",
+    "最近輸入された品種",
+    "北海道で育つ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The skin has a light pinkish purple color, but traditionally it's made into a pale, delicate white wine.\""
+  },
+  {
+   "q": "skin contact とは？",
+   "options": [
+    "皮だけでワインを作ること",
+    "皮をむいて捨てること",
+    "果汁を皮と一緒に数日〜数週間置くこと",
+    "皮を焼くこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"they leave the juice with the skins for days or even weeks\"。"
+  },
+  {
+   "q": "スキンコンタクトで生まれる風味として話されているのは？",
+   "options": [
+    "コーヒー、チョコレート",
+    "バター、バニラ",
+    "イチゴ、キャンディ",
+    "干したオレンジの皮、生姜、茶葉"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"flavors like dried orange peel, ginger and tea leaves.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "山梨では長い歴史があり、千年を超えるかもしれません。",
+   "points_ja": "has a long が「ハザロング」、over a thousand がつながります。"
+  },
+  {
+   "sentence": 10,
+   "ja": "ワインは金色や琥珀色になります。",
+   "points_ja": "golden or が「ゴールデノア」とつながります。"
+  },
+  {
+   "sentence": 23,
+   "ja": "そこが私の好きなところです。",
+   "points_ja": "what I love about it が「ワライラヴァバウリット」と一続きに聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "日本酒との違い",
+    "甲州という日本のブドウと、スキンコンタクトという新しい作り方",
+    "赤ワインの作り方",
+    "山梨の観光"
+   ],
+   "answer": 1,
+   "explanation_ja": "甲州の伝統と新しい挑戦について話しています。"
+  },
+  {
+   "q": "orange wine と呼ばれる理由は？",
+   "options": [
+    "スキンコンタクトで金色や琥珀色になるから",
+    "オレンジを加えるから",
+    "オレンジの香りしかしないから",
+    "オレンジ畑で作るから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The wine becomes golden or amber. People sometimes call it orange wine.\""
+  },
+  {
+   "q": "phenolic grip の説明として会話に合うのは？",
+   "options": [
+    "アルコールの熱さ",
+    "泡",
+    "皮のフェノールによる、お茶のような軽い渋み",
+    "甘さ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Exactly, a gentle dryness.\" と、お茶のようだという A に答えています。"
+  },
+  {
+   "q": "山梨の畑について話されていることは？",
+   "options": [
+    "甲府盆地の斜面にあり、火山灰の土壌の地域もあって水はけがよい",
+    "雨が降らない",
+    "すべて平地にある",
+    "海の近くにある"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"many vineyards sit on sloping land around the Kofu Basin, and some areas have volcanic ash soil\"。"
+  },
+  {
+   "q": "最後の \"The same old grape is telling new stories.\" の意味は？",
+   "options": [
+    "昔からある同じブドウが、新しい表現を見せている",
+    "ブドウが話す",
+    "新しい品種が生まれた",
+    "古いブドウは使えない"
+   ],
+   "answer": 0,
+   "explanation_ja": "伝統的な甲州が新しい作り方で新しい魅力を見せている、という意味です。"
+  }
+ ]
+}

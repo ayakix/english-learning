@@ -1,0 +1,114 @@
+{
+ "id": "rn003",
+ "author": "claude",
+ "summary_ja": "マラソン中の炭水化物補給で、けいれんや吐き気などの胃腸症状に悩むランナーは多い。糖は小腸の輸送体を通って吸収され、ブドウ糖は1時間に約60gが限界とされ、超えると輸送体が飽和する。果糖は別の輸送体を使うので、組み合わせると約90gまで吸収できることも。消化管も練習で適応する（ガットトレーニング）。補給も練習の一部として、少量から本番と同じ製品で慣らす。",
+ "listening": [
+  {
+   "q": "補給で多くのランナーが悩んでいることは？",
+   "options": [
+    "頭痛",
+    "けいれんや吐き気などの胃腸の症状",
+    "眠気",
+    "足のしびれ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Cramps, nausea and urgent trips to the toilet are common.\""
+  },
+  {
+   "q": "ブドウ糖と果糖を組み合わせる理由は？",
+   "options": [
+    "水分が増えるから",
+    "甘くなるから",
+    "安いから",
+    "別々の輸送体を使うので、1時間に吸収できる量が増えるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"fructose ... uses a different transporter. By combining glucose and fructose, athletes can absorb more carbohydrate per hour\"。"
+  },
+  {
+   "q": "話し手が勧めていることは？",
+   "options": [
+    "毎回違う製品を使う",
+    "本番で初めて試す",
+    "補給を練習の一部とし、少量から始めて本番と同じ製品を使う",
+    "補給をしない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Start with smaller amounts, increase gradually, and use the same products you will use in the race.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "多くのマラソンランナーは、レース中に炭水化物をとるべきだと知っています。",
+   "points_ja": "know they should がつながり、take in carbohydrates が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "それ以上とると、輸送体がいっぱいになります。",
+   "points_ja": "take in more than that が一続きに聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "筋肉と同じように、消化器系も適応できます。",
+   "points_ja": "Just like your の t は飲み込まれ、digestive system can adapt が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "胃腸にも吸収の限界があるが、糖の組み合わせと練習で補給を改善できる",
+    "胃腸は鍛えられない",
+    "補給はしないほうがよい",
+    "マラソンは胃に悪い"
+   ],
+   "answer": 0,
+   "explanation_ja": "輸送体の限界、糖の組み合わせ、ガットトレーニングを説明しています。"
+  },
+  {
+   "q": "gastrointestinal distress とは？",
+   "options": [
+    "足のまめ",
+    "呼吸の苦しさ",
+    "筋肉の痛み",
+    "けいれん、吐き気、トイレの急な必要などの胃腸の症状"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Scientists call these symptoms gastrointestinal distress.\""
+  },
+  {
+   "q": "transporter saturation の意味は？",
+   "options": [
+    "水分が多すぎる状態",
+    "輸送体がいっぱいになり、それ以上運べない状態",
+    "筋肉の疲労",
+    "体温の上昇"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"If you take in more than that, the transporters become full. This is called transporter saturation.\""
+  },
+  {
+   "q": "ブドウ糖の吸収の目安は？",
+   "options": [
+    "1時間に約10g",
+    "1時間に約200g",
+    "1日に約60g",
+    "1時間に約60g"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"research suggests it can handle roughly sixty grams per hour.\""
+  },
+  {
+   "q": "最後の文 \"Your stomach ... also needs to train for the marathon.\" の意味は？",
+   "options": [
+    "胃が痛いと走れない",
+    "胃も筋肉と同じように練習で慣らす必要がある",
+    "マラソン前は食べない",
+    "胃を鍛える筋トレがある"
+   ],
+   "answer": 1,
+   "explanation_ja": "ガットトレーニングの考え方をまとめています。"
+  }
+ ]
+}

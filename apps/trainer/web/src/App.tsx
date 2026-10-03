@@ -10,6 +10,7 @@ import { ListeningPage } from "./pages/ListeningPage";
 import { ProgressPage } from "./pages/ProgressPage";
 import { ReadingPage } from "./pages/ReadingPage";
 import { SpeakingPage } from "./pages/SpeakingPage";
+import { VoaPage } from "./pages/VoaPage";
 import { WritingPage } from "./pages/WritingPage";
 import type { Config, Voice } from "./types";
 
@@ -18,6 +19,8 @@ const TABS: { key: string; label: string; page: ReactNode }[] = [
   { key: "listening", label: "リスニング", page: <ListeningPage /> },
   { key: "writing", label: "ライティング", page: <WritingPage /> },
   { key: "reading", label: "リーディング", page: <ReadingPage /> },
+  // 既存タブのキー（1〜4）を変えないよう、後ろに足す。URL のハッシュは以前の #voa のまま
+  { key: "voa", label: "教材", page: <VoaPage /> },
   { key: "progress", label: "進捗", page: <ProgressPage /> },
 ];
 

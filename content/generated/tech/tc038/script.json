@@ -1,0 +1,229 @@
+{
+ "id": "tc038",
+ "author": "claude",
+ "category": "tech",
+ "title": "Designing Intuitive Custom Haptics",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "Core Haptics",
+  "tactile feedback",
+  "transient event"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Haptics are the small vibrations you feel when you use your phone. Why should app developers care about them?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because good haptics make an app feel more physical and alive. When you toggle a switch and feel a tiny click, it gives you confidence that something happened. That's tactile feedback, feedback you feel through touch."
+  },
+  {
+   "speaker": "A",
+   "text": "How do developers create custom haptics on iOS?"
+  },
+  {
+   "speaker": "B",
+   "text": "There's a framework called Core Haptics. It lets you design patterns of vibration with precise timing."
+  },
+  {
+   "speaker": "A",
+   "text": "What kinds of patterns?"
+  },
+  {
+   "speaker": "B",
+   "text": "There are two main types of events. A transient event is a short, sharp tap, like a click. A continuous event lasts longer, like a soft buzz. You can also control intensity, how strong it feels, and sharpness, how crisp or soft it feels."
+  },
+  {
+   "speaker": "A",
+   "text": "So you could make it feel like a heartbeat, or a ball bouncing."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. But the most important rule is to use haptics with meaning. If everything vibrates, people get annoyed, and the feedback loses its value."
+  },
+  {
+   "speaker": "A",
+   "text": "Any other advice?"
+  },
+  {
+   "speaker": "B",
+   "text": "Match the feeling to the action. A light tap for small selections, something stronger for success or errors. And always test on a real device. You can't feel haptics in the simulator."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Haptics are the small vibrations you feel when you use your phone.",
+   "start": 0.0,
+   "end": 4.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why should app developers care about them?",
+   "start": 4.59,
+   "end": 6.83,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Because good haptics make an app feel more physical and alive.",
+   "start": 7.55,
+   "end": 11.63,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "When you toggle a switch and feel a tiny click, it gives you confidence that something happened.",
+   "start": 12.54,
+   "end": 17.98,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "That's tactile feedback, feedback you feel through touch.",
+   "start": 18.89,
+   "end": 22.89,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How do developers create custom haptics on iOS?",
+   "start": 23.69,
+   "end": 27.45,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "There's a framework called Core Haptics.",
+   "start": 28.17,
+   "end": 30.65,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It lets you design patterns of vibration with precise timing.",
+   "start": 31.4,
+   "end": 35.24,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What kinds of patterns?",
+   "start": 35.96,
+   "end": 37.64,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "There are two main types of events.",
+   "start": 38.36,
+   "end": 40.68,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "A transient event is a short, sharp tap, like a click.",
+   "start": 41.27,
+   "end": 45.19,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "A continuous event lasts longer, like a soft buzz.",
+   "start": 46.18,
+   "end": 50.26,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "You can also control intensity, how strong it feels, and sharpness, how crisp or soft it feels.",
+   "start": 50.93,
+   "end": 58.13,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So you could make it feel like a heartbeat, or a ball bouncing.",
+   "start": 58.85,
+   "end": 63.01,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 63.73,
+   "end": 64.61,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "But the most important rule is to use haptics with meaning.",
+   "start": 65.36,
+   "end": 69.12,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If everything vibrates, people get annoyed, and the feedback loses its value.",
+   "start": 69.95,
+   "end": 75.07,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Any other advice?",
+   "start": 75.79,
+   "end": 76.99,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Match the feeling to the action.",
+   "start": 77.95,
+   "end": 79.79,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A light tap for small selections, something stronger for success or errors.",
+   "start": 80.22,
+   "end": 86.06,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And always test on a real device.",
+   "start": 86.65,
+   "end": 89.29,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "You can't feel haptics in the simulator.",
+   "start": 89.72,
+   "end": 92.12,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 199,
+ "duration": 92.0,
+ "wpm": 130,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 63,
+ "created": "2026-10-03 23:54"
+}

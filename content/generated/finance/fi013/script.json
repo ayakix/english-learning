@@ -1,0 +1,184 @@
+{
+ "id": "fi013",
+ "author": "claude",
+ "category": "finance",
+ "title": "Dividends and Reinvesting",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "dividend",
+  "shareholder",
+  "reinvest"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Some companies share part of their profits directly with the people who own their stock. These payments are called dividends. A shareholder, someone who owns shares in a company, might receive dividends once, twice or four times a year."
+  },
+  {
+   "speaker": "A",
+   "text": "Dividends are often paid by mature, stable companies that make steady profits but do not need to reinvest all of them. Young, fast-growing companies usually keep their profits to expand the business instead."
+  },
+  {
+   "speaker": "A",
+   "text": "Many investors enjoy dividends because they provide regular income. Some retired people use dividends to help pay their living costs."
+  },
+  {
+   "speaker": "A",
+   "text": "However, there is an important point to understand. Dividends are not free money. When a company pays a dividend, the cash leaves the company, and the share price usually drops by about the same amount. What matters is the total return, which includes both price changes and dividends."
+  },
+  {
+   "speaker": "A",
+   "text": "For long-term investors who do not need the income now, a powerful option is to reinvest dividends. This means using the dividend payments to buy more shares. Those new shares then produce their own dividends, which can buy even more shares. Over decades, this creates a strong compounding effect."
+  },
+  {
+   "speaker": "A",
+   "text": "Many funds offer accumulation versions, which automatically reinvest dividends inside the fund. This can be convenient and, in some countries, more tax-efficient."
+  },
+  {
+   "speaker": "A",
+   "text": "Whether you take dividends as income or reinvest them depends on your stage of life and your goals."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Some companies share part of their profits directly with the people who own their stock.",
+   "start": 0.0,
+   "end": 5.36,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These payments are called dividends.",
+   "start": 6.03,
+   "end": 8.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A shareholder, someone who owns shares in a company, might receive dividends once, twice or four times a year.",
+   "start": 9.34,
+   "end": 17.1,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Dividends are often paid by mature, stable companies that make steady profits but do not need to reinvest all of them.",
+   "start": 17.62,
+   "end": 25.3,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Young, fast-growing companies usually keep their profits to expand the business instead.",
+   "start": 26.37,
+   "end": 31.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Many investors enjoy dividends because they provide regular income.",
+   "start": 32.41,
+   "end": 37.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some retired people use dividends to help pay their living costs.",
+   "start": 37.96,
+   "end": 42.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "However, there is an important point to understand.",
+   "start": 42.64,
+   "end": 46.08,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Dividends are not free money.",
+   "start": 46.75,
+   "end": 48.99,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When a company pays a dividend, the cash leaves the company, and the share price usually drops by about the same amount.",
+   "start": 49.9,
+   "end": 57.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "What matters is the total return, which includes both price changes and dividends.",
+   "start": 58.37,
+   "end": 64.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For long-term investors who do not need the income now, a powerful option is to reinvest dividends.",
+   "start": 64.77,
+   "end": 71.81,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This means using the dividend payments to buy more shares.",
+   "start": 72.48,
+   "end": 76.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Those new shares then produce their own dividends, which can buy even more shares.",
+   "start": 76.99,
+   "end": 82.03,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Over decades, this creates a strong compounding effect.",
+   "start": 82.94,
+   "end": 87.02,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many funds offer accumulation versions, which automatically reinvest dividends inside the fund.",
+   "start": 87.54,
+   "end": 94.34,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "This can be convenient and, in some countries, more tax-efficient.",
+   "start": 95.01,
+   "end": 99.57,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Whether you take dividends as income or reinvest them depends on your stage of life and your goals.",
+   "start": 100.09,
+   "end": 106.81,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 229,
+ "duration": 106.7,
+ "wpm": 129,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-04 00:02"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "rn033",
+ "author": "claude",
+ "summary_ja": "暑い日のマラソンは心拍が上がりペースが落ち、熱中症のリスクも高い。だが体は暑さに意外と早く慣れる（暑熱順化）。暑い中で運動すると血液を筋肉と皮膚で取り合い、心臓の負担が増える。10〜14日ほど暑さにさらされると、血液の液体成分（血漿）が増えて1回の拍動で多くの血液を送れる。汗が早く多く出て塩分が薄くなり、同じペースでの心拍と深部体温が下がる。",
+ "listening": [
+  {
+   "q": "暑熱順化に必要な期間の目安は？",
+   "options": [
+    "1年",
+    "1日",
+    "3か月",
+    "約10〜14日"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"After repeated exposure to heat, usually around ten to fourteen days, several changes happen.\""
+  },
+  {
+   "q": "暑い中で運動すると心臓の負担が増える理由は？",
+   "options": [
+    "筋肉と皮膚の両方に血液を送る必要があり、血液を取り合うから",
+    "水を飲まないから",
+    "心臓が小さくなるから",
+    "呼吸が速くなるから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"This creates competition for blood, and your heart works harder.\""
+  },
+  {
+   "q": "順化しても暑いレースで必要なことは？",
+   "options": [
+    "水を飲まない",
+    "厚着をする",
+    "いつもより速く走る",
+    "ペースを落とし、しっかり水分をとる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Even after full acclimation, hot races require a slower pace and good hydration.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "良い知らせは、体が驚くほど早く暑さに適応できることです。",
+   "points_ja": "news is that がつながり、adapt to heat surprisingly が続けて聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "また、より早く、より多く汗をかき始め、体を冷やす力が高まります。",
+   "points_ja": "start sweating earlier and more が続き、which improves cooling がつながります。"
+  },
+  {
+   "sentence": 16,
+   "ja": "練習後の熱いお風呂やサウナなど、他の方法を使う人もいます。",
+   "points_ja": "use other methods がつながり、such as hot baths or saunas が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "暑い日は走ってはいけない",
+    "サウナは危険",
+    "汗は少ないほうがよい",
+    "体は暑さに適応できるが、暑いレースでは常に注意が必要"
+   ],
+   "answer": 3,
+   "explanation_ja": "暑熱順化の仕組みと方法、注意点を説明しています。"
+  },
+  {
+   "q": "plasma volume expansion の意味は？",
+   "options": [
+    "体重が増えること",
+    "血液の液体部分（血漿）の量が増えること",
+    "汗の量が減ること",
+    "血管が太くなること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Plasma is the liquid part of the blood. When its volume increases\"。"
+  },
+  {
+   "q": "順化で汗に起きる変化は？",
+   "options": [
+    "早く多く出て、塩分が薄くなる",
+    "汗の量が減る",
+    "汗が出なくなる",
+    "汗が甘くなる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"You also start sweating earlier and more ... Your sweat becomes less salty\"。"
+  },
+  {
+   "q": "core body temperature の意味は？",
+   "options": [
+    "皮膚の温度",
+    "外の気温",
+    "手の温度",
+    "体の深部の温度"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Core body temperature means the temperature deep inside the body.\""
+  },
+  {
+   "q": "順化のための一般的な方法は？",
+   "options": [
+    "冷房の中で寝る",
+    "暑い日に全力で走る",
+    "水を飲まずに走る",
+    "楽なランから始めて、暑い中で1日約1時間練習する"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"runners often train in the heat for about an hour a day, starting with easy runs.\""
+  }
+ ]
+}

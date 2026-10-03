@@ -1,0 +1,114 @@
+{
+ "id": "wt039",
+ "author": "claude",
+ "summary_ja": "フル巻きの機械式時計が動き続けられる時間をパワーリザーブといい、多くは40〜70時間。エネルギーは香箱の中のゼンマイにためられる。ゼンマイの力（トルク）は巻き上げ直後は強く、中間は安定し、終わりに急に落ちる。力が変わると精度に影響するので、手巻きは毎日同じ時間に巻くとよい。",
+ "listening": [
+  {
+   "q": "power reserve とは？",
+   "options": [
+    "ゼンマイの長さ",
+    "時計の重さ",
+    "フル巻きの時計が止まるまで動ける時間",
+    "予備の電池"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A fully wound mechanical watch can run for a certain time before it stops. This time is called the power reserve.\""
+  },
+  {
+   "q": "トルクの変化として正しいものは？",
+   "options": [
+    "最初は弱く最後に強い",
+    "だんだん強くなる",
+    "巻き上げ直後は強く、中間は安定し、終わりに急に落ちる",
+    "ずっと同じ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When the spring is fully wound, the torque is high. In the middle, it is fairly steady. Near the end, it drops quickly.\""
+  },
+  {
+   "q": "手巻き時計の持ち主へのアドバイスは？",
+   "options": [
+    "まだ動いていても毎日同じ時間に巻く",
+    "週に1回だけ巻く",
+    "巻かずに振る",
+    "止まってから巻く"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"it is a good habit to wind it at the same time every day, even if it still has power.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "エネルギーはゼンマイにためられます。ゼンマイは香箱と呼ばれる小さな筒の中に巻かれた、長く細いばねです。",
+   "points_ja": "stored in the がつながり、called the の d はほとんど聞こえません。"
+  },
+  {
+   "sentence": 14,
+   "ja": "多くの時計は、曲線の安定した中間部分で最も正確に時を刻みます。",
+   "points_ja": "keep their の p が飲み込まれ、part of the が「パーラヴザ」と聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "それは車の燃料計のように、どれだけエネルギーが残っているかを示します。",
+   "points_ja": "energy is left がつながり、like a の a は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "パワーリザーブは見た目だけの機能",
+    "ゼンマイは強いほどよい",
+    "パワーリザーブとトルクの変化が精度に関係し、毎日の巻き方が大切である",
+    "時計は1週間に1回巻けばよい"
+   ],
+   "answer": 2,
+   "explanation_ja": "パワーリザーブ、トルク曲線、精度、巻き方の習慣を説明しています。"
+  },
+  {
+   "q": "多くの時計のパワーリザーブとして書かれているのは？",
+   "options": [
+    "約1年",
+    "約10時間",
+    "約1か月",
+    "約40〜70時間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"For many watches, it is around forty to seventy hours.\""
+  },
+  {
+   "q": "torque の説明として正しいものは？",
+   "options": [
+    "時計の厚さ",
+    "ゼンマイの回す力",
+    "時計の重さ",
+    "針の長さ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Torque is the turning force of the spring.\""
+  },
+  {
+   "q": "力が変わると精度に影響する理由は？",
+   "options": [
+    "日付が変わるから",
+    "テンプの振れ方が変わり、進んだり遅れたりするから",
+    "ガラスが曇るから",
+    "針が重くなるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When the force changes, the swing of the balance wheel changes too, and the watch can gain or lose time.\""
+  },
+  {
+   "q": "パワーリザーブ表示は何にたとえられている？",
+   "options": [
+    "電話の電波表示",
+    "車の燃料計",
+    "体温計",
+    "時計の秒針"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"like a fuel gauge in a car.\""
+  }
+ ]
+}

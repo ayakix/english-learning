@@ -1,0 +1,114 @@
+{
+ "id": "wt033",
+ "author": "claude",
+ "summary_ja": "ケースの直径が同じでも、腕での見え方は違う。理由の一つがラグからラグまでの長さ（ラグ・トゥ・ラグ）。手首の平らな部分より長いとラグがはみ出して大きく見え、着け心地も悪い。下に曲がったラグは小さく感じさせる。ネットで買う前にこの数値を手持ちの時計と比べるとよい。",
+ "listening": [
+  {
+   "q": "この話で重要だと言っている測り方は？",
+   "options": [
+    "ベルトの長さ",
+    "文字盤の色",
+    "ケースの厚さだけ",
+    "ラグの先から先までの長さ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Lug-to-lug is the distance from the tip of the top lugs to the tip of the bottom lugs.\""
+  },
+  {
+   "q": "ラグ・トゥ・ラグが手首より長いとどうなる？",
+   "options": [
+    "ラグがはみ出して大きく見え、着け心地が悪い",
+    "ベルトが切れる",
+    "時計が正確になる",
+    "時計が軽くなる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the lugs hang over the edges. The watch looks too big, and the strap may not sit comfortably.\""
+  },
+  {
+   "q": "ネットで時計を買う前のアドバイスは？",
+   "options": [
+    "ラグ・トゥ・ラグを手持ちの時計と比べる",
+    "直径だけを確認する",
+    "一番大きいものを選ぶ",
+    "店員に聞く"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"it is wise to check the lug-to-lug measurement and compare it with a watch you already own.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "ラグとは、ケースから突き出てベルトやブレスレットを支える小さな腕のことです。",
+   "points_ja": "stick out from が「スティカウトフロム」とつながり、strap or が続きます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "ラグの形も影響します。",
+   "points_ja": "shape of the が「シェイパヴザ」、plays a role が「プレイザロール」とつながります。"
+  },
+  {
+   "sentence": 13,
+   "ja": "厚いケースも印象を変えることがあります。",
+   "points_ja": "thick case の k が重なり、change the の the は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ラグは不要な部品である",
+    "時計は直径で選ぶべきだ",
+    "大きい時計ほど良い",
+    "直径だけでなくラグ・トゥ・ラグが着け心地や見え方を大きく左右する"
+   ],
+   "answer": 3,
+   "explanation_ja": "直径よりもラグ・トゥ・ラグが重要な理由を説明しています。"
+  },
+  {
+   "q": "wrist presence の意味は？",
+   "options": [
+    "手首の太さ",
+    "着けたときにどれだけ大きく目立って見えるか",
+    "時計の重さ",
+    "ベルトの色"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"wrist presence, meaning how large and noticeable a watch appears when worn.\""
+  },
+  {
+   "q": "下に曲がったラグの効果は？",
+   "options": [
+    "手首に沿って時計を小さく感じさせる",
+    "時計を正確にする",
+    "時計を重くする",
+    "時計を大きく見せる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Lugs that curve downward follow the wrist and make the watch feel smaller.\""
+  },
+  {
+   "q": "wearability の意味に近いのは？",
+   "options": [
+    "価格",
+    "着け心地のよさ",
+    "防水性",
+    "耐久性"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"wearability, or how comfortable the watch will be\"。"
+  },
+  {
+   "q": "本文で例として出ているケースの直径は？",
+   "options": [
+    "30mm と 35mm",
+    "45mm と 50mm",
+    "20mm と 25mm",
+    "39mm と 42mm"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"such as thirty-nine or forty-two millimeters.\""
+  }
+ ]
+}

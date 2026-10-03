@@ -1,0 +1,201 @@
+{
+ "id": "av014",
+ "author": "claude",
+ "category": "aviation",
+ "title": "The Evolution of High-Bypass Turbofan Engines",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "high-bypass turbofan",
+  "bypass ratio",
+  "specific fuel consumption"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Modern jet engines look very different from the engines of the nineteen fifties. Early jets used thin engines that pushed all the air through a hot core. Today, airliners use huge, round engines with a giant fan at the front. These are called high-bypass turbofans."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is how a turbofan works. The large fan at the front pulls in a huge amount of air. Only a small part goes into the core, where it is compressed, mixed with fuel and burned. The hot gas spins turbines, which drive the fan. Most of the air, however, flows around the core. It bypasses it."
+  },
+  {
+   "speaker": "A",
+   "text": "The bypass ratio compares these two flows. Early turbofans had a ratio of about one to one. Modern engines can have ratios of ten to one or even higher. That means ten times more air goes around the core than through it."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is this better? It is more efficient to move a lot of air a little faster than a small amount of air very fast. A big, slow-moving stream of air also makes much less noise."
+  },
+  {
+   "speaker": "A",
+   "text": "Engineers measure efficiency with specific fuel consumption, the amount of fuel needed to produce a certain amount of thrust. Each new generation of engines has improved it significantly."
+  },
+  {
+   "speaker": "A",
+   "text": "The challenge is size. Bigger fans need more space under the wing, which is one reason aircraft and engines are designed together."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Modern jet engines look very different from the engines of the nineteen fifties.",
+   "start": 0.0,
+   "end": 4.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Early jets used thin engines that pushed all the air through a hot core.",
+   "start": 5.55,
+   "end": 10.55,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, airliners use huge, round engines with a giant fan at the front.",
+   "start": 11.1,
+   "end": 16.3,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These are called high-bypass turbofans.",
+   "start": 16.81,
+   "end": 19.53,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is how a turbofan works.",
+   "start": 20.05,
+   "end": 21.97,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The large fan at the front pulls in a huge amount of air.",
+   "start": 22.64,
+   "end": 26.56,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Only a small part goes into the core, where it is compressed, mixed with fuel and burned.",
+   "start": 27.23,
+   "end": 32.79,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The hot gas spins turbines, which drive the fan.",
+   "start": 33.5,
+   "end": 36.82,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Most of the air, however, flows around the core.",
+   "start": 37.53,
+   "end": 40.53,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It bypasses it.",
+   "start": 41.08,
+   "end": 42.28,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The bypass ratio compares these two flows.",
+   "start": 42.8,
+   "end": 45.92,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Early turbofans had a ratio of about one to one.",
+   "start": 46.59,
+   "end": 49.87,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Modern engines can have ratios of ten to one or even higher.",
+   "start": 50.86,
+   "end": 54.54,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That means ten times more air goes around the core than through it.",
+   "start": 55.53,
+   "end": 59.85,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is this better?",
+   "start": 60.37,
+   "end": 61.41,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It is more efficient to move a lot of air a little faster than a small amount of air very fast.",
+   "start": 62.4,
+   "end": 68.24,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A big, slow-moving stream of air also makes much less noise.",
+   "start": 69.23,
+   "end": 73.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Engineers measure efficiency with specific fuel consumption, the amount of fuel needed to produce a certain amount of thrust.",
+   "start": 74.39,
+   "end": 81.67,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Each new generation of engines has improved it significantly.",
+   "start": 82.74,
+   "end": 86.34,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The challenge is size.",
+   "start": 86.86,
+   "end": 88.82,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Bigger fans need more space under the wing, which is one reason aircraft and engines are designed together.",
+   "start": 89.45,
+   "end": 95.93,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 230,
+ "duration": 95.8,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:52"
+}

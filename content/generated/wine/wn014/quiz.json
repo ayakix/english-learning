@@ -1,0 +1,114 @@
+{
+ "id": "wn014",
+ "author": "claude",
+ "summary_ja": "2018年から日本のワイン表示ルールができ、日本産ブドウ100%で日本で造ったものだけが「日本ワイン」と名乗れる。輸入果汁などで造ったワインはその旨を表示する。地名を表示するには85%以上がその地域のブドウで、その地域で造る必要がある。地理的表示（GI）は地名を法的に守る制度で、山梨が最初に認められた。",
+ "listening": [
+  {
+   "q": "「日本ワイン」と名乗れる条件は？",
+   "options": [
+    "日本で売ること",
+    "日本人が造ること",
+    "日本産ブドウ100%で、日本で造ること",
+    "日本語のラベルがあること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"only wine made from one hundred percent domestic grapes, and produced in Japan, can be called Japan Wine\"。"
+  },
+  {
+   "q": "ラベルに地域名を書くための条件は？",
+   "options": [
+    "その地域で売る",
+    "50%以上がその地域のブドウ",
+    "その地域の水を使う",
+    "85%以上がその地域のブドウで、その地域で造る"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"at least eighty-five percent of the grapes must come from that region, and the wine must be made there.\""
+  },
+  {
+   "q": "日本で最初に GI を受けたワイン産地は？",
+   "options": [
+    "北海道",
+    "山形",
+    "長野",
+    "山梨"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Yamanashi was the first wine region in Japan to receive one.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "長年、これは買い物客にとって紛らわしいものでした。",
+   "points_ja": "this was が「ジスワズ」、confusing for が続きます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "これらは販売できますが、日本ワインという名前は使えません。",
+   "points_ja": "can still be が続けて聞こえ、use the name の the は弱形です。"
+  },
+  {
+   "sentence": 16,
+   "ja": "これらのルールは飲む人にとっても造り手にとっても良いものです。",
+   "points_ja": "rules are がつながり、drinkers and producers の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "日本ワインはすべて山梨産",
+    "表示ルールによって、日本のワインの産地や原料が分かりやすくなった",
+    "ラベルは自由に書ける",
+    "輸入ワインは日本で売れない"
+   ],
+   "answer": 1,
+   "explanation_ja": "ルールの内容と、それが飲み手と造り手の両方に良いことを説明しています。"
+  },
+  {
+   "q": "domestic の意味は？",
+   "options": [
+    "古い",
+    "外国の",
+    "高価な",
+    "国内の"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Domestic means from inside the country.\""
+  },
+  {
+   "q": "輸入果汁で造ったワインについて正しいものは？",
+   "options": [
+    "販売はできるが、日本ワインとは名乗れない",
+    "ラベルを貼らなくてよい",
+    "日本ワインと名乗れる",
+    "販売できない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"These can still be sold, but they cannot use the name Japan Wine.\""
+  },
+  {
+   "q": "geographic indication の説明として正しいものは？",
+   "options": [
+    "ワイナリーの住所",
+    "ブドウの品種名",
+    "地名を法的に守る制度",
+    "ワインの値段の表示"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It is a legal protection for a place name, similar to the systems in Europe.\""
+  },
+  {
+   "q": "このルールができた年は？",
+   "options": [
+    "2008年",
+    "2020年",
+    "1998年",
+    "2018年"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"So in two thousand eighteen, Japan introduced clear labeling rules.\""
+  }
+ ]
+}

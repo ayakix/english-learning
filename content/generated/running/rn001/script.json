@@ -1,0 +1,208 @@
+{
+ "id": "rn001",
+ "author": "claude",
+ "category": "running",
+ "title": "Understanding the Marathon 'Wall': Glycogen Basics",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "muscle glycogen",
+  "carbohydrate oxidation",
+  "hitting the wall"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many marathon runners know the feeling. Around thirty kilometers, everything changes. Your legs feel heavy, your pace drops and even simple thoughts become difficult. Runners call this hitting the wall. To understand why it happens, we need to talk about fuel."
+  },
+  {
+   "speaker": "A",
+   "text": "Your muscles burn two main fuels during exercise: fat and carbohydrate. Carbohydrate is stored in your muscles and liver as glycogen. Muscle glycogen is a fast, efficient fuel. At marathon pace, your body relies heavily on carbohydrate oxidation, which means burning carbohydrates for energy."
+  },
+  {
+   "speaker": "A",
+   "text": "The problem is that glycogen stores are limited. A trained runner might store enough for roughly ninety minutes to two hours of hard running. Fat, on the other hand, is almost unlimited, even in very lean people. But the body cannot burn fat as quickly. So when glycogen runs low, your body is forced to slow down."
+  },
+  {
+   "speaker": "A",
+   "text": "The brain also depends on sugar in the blood. When blood sugar drops, you may feel confused, emotional or weak. That is why the wall feels both physical and mental."
+  },
+  {
+   "speaker": "A",
+   "text": "The good news is that the wall is not unavoidable. Runners can fill their glycogen stores before the race with a high-carbohydrate diet. During the race, they can take in carbohydrates from drinks, gels or other foods, often every twenty to thirty minutes. Starting at a sensible pace also saves glycogen for later."
+  },
+  {
+   "speaker": "A",
+   "text": "With the right plan, the last ten kilometers can feel hard, but not hopeless."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many marathon runners know the feeling.",
+   "start": 0.0,
+   "end": 2.4,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Around thirty kilometers, everything changes.",
+   "start": 2.99,
+   "end": 6.03,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Your legs feel heavy, your pace drops and even simple thoughts become difficult.",
+   "start": 6.78,
+   "end": 12.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Runners call this hitting the wall.",
+   "start": 13.13,
+   "end": 15.49,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To understand why it happens, we need to talk about fuel.",
+   "start": 16.12,
+   "end": 19.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Your muscles burn two main fuels during exercise: fat and carbohydrate.",
+   "start": 20.4,
+   "end": 26.16,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Carbohydrate is stored in your muscles and liver as glycogen.",
+   "start": 26.59,
+   "end": 30.59,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Muscle glycogen is a fast, efficient fuel.",
+   "start": 31.02,
+   "end": 34.38,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "At marathon pace, your body relies heavily on carbohydrate oxidation, which means burning carbohydrates for energy.",
+   "start": 34.81,
+   "end": 42.41,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The problem is that glycogen stores are limited.",
+   "start": 42.93,
+   "end": 46.29,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A trained runner might store enough for roughly ninety minutes to two hours of hard running.",
+   "start": 46.88,
+   "end": 52.56,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Fat, on the other hand, is almost unlimited, even in very lean people.",
+   "start": 52.99,
+   "end": 58.67,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But the body cannot burn fat as quickly.",
+   "start": 59.06,
+   "end": 61.98,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So when glycogen runs low, your body is forced to slow down.",
+   "start": 62.41,
+   "end": 66.97,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The brain also depends on sugar in the blood.",
+   "start": 67.49,
+   "end": 70.69,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When blood sugar drops, you may feel confused, emotional or weak.",
+   "start": 71.12,
+   "end": 76.32,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why the wall feels both physical and mental.",
+   "start": 76.75,
+   "end": 80.11,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The good news is that the wall is not unavoidable.",
+   "start": 80.63,
+   "end": 84.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Runners can fill their glycogen stores before the race with a high-carbohydrate diet.",
+   "start": 84.74,
+   "end": 90.1,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "During the race, they can take in carbohydrates from drinks, gels or other foods, often every twenty to thirty minutes.",
+   "start": 90.61,
+   "end": 98.45,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Starting at a sensible pace also saves glycogen for later.",
+   "start": 99.0,
+   "end": 102.72,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "With the right plan, the last ten kilometers can feel hard, but not hopeless.",
+   "start": 103.24,
+   "end": 108.68,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 239,
+ "duration": 108.6,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-03 23:55"
+}

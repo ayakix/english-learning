@@ -1,0 +1,201 @@
+{
+ "id": "rn013",
+ "author": "claude",
+ "category": "running",
+ "title": "HRV as an Objective Readiness Metric",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "heart rate variability",
+  "parasympathetic tone",
+  "autonomic nervous system"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you wear a smartwatch, you may have seen a number called HRV. It stands for heart rate variability. Many athletes now use it to decide whether they should train hard or rest. But what does it actually measure?"
+  },
+  {
+   "speaker": "A",
+   "text": "Your heart does not beat like a perfect metronome. Even at sixty beats per minute, the time between each beat is slightly different. One gap might be zero point nine seconds, the next one point one seconds. HRV measures how much these gaps vary."
+  },
+  {
+   "speaker": "A",
+   "text": "This variation is controlled by the autonomic nervous system, the part of the nervous system that works automatically. It has two sides. One side prepares the body for action and stress. The other side, often called the rest and digest system, helps the body relax and recover. Strong activity in this calming side is called high parasympathetic tone."
+  },
+  {
+   "speaker": "A",
+   "text": "In general, a higher HRV suggests that the body is relaxed and recovered. A lower HRV than usual can be a sign of stress, poor sleep, illness or heavy training."
+  },
+  {
+   "speaker": "A",
+   "text": "However, there are important details. HRV is very personal, so comparing your number with someone else's is not useful. Daily values also jump around. Experts recommend measuring at the same time each morning and looking at the trend over a week or more."
+  },
+  {
+   "speaker": "A",
+   "text": "Used wisely, HRV is a helpful readiness metric. It should support your feelings, not replace them."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you wear a smartwatch, you may have seen a number called HRV.",
+   "start": 0.0,
+   "end": 4.4,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It stands for heart rate variability.",
+   "start": 5.15,
+   "end": 7.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many athletes now use it to decide whether they should train hard or rest.",
+   "start": 8.22,
+   "end": 12.86,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But what does it actually measure?",
+   "start": 13.33,
+   "end": 15.45,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Your heart does not beat like a perfect metronome.",
+   "start": 15.97,
+   "end": 19.25,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Even at sixty beats per minute, the time between each beat is slightly different.",
+   "start": 19.72,
+   "end": 24.72,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One gap might be zero point nine seconds, the next one point one seconds.",
+   "start": 25.15,
+   "end": 30.27,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "HRV measures how much these gaps vary.",
+   "start": 30.7,
+   "end": 33.74,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This variation is controlled by the autonomic nervous system, the part of the nervous system that works automatically.",
+   "start": 34.26,
+   "end": 41.3,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It has two sides.",
+   "start": 41.73,
+   "end": 43.33,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One side prepares the body for action and stress.",
+   "start": 43.76,
+   "end": 47.2,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The other side, often called the rest and digest system, helps the body relax and recover.",
+   "start": 47.63,
+   "end": 53.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Strong activity in this calming side is called high parasympathetic tone.",
+   "start": 54.5,
+   "end": 59.26,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In general, a higher HRV suggests that the body is relaxed and recovered.",
+   "start": 59.78,
+   "end": 65.38,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A lower HRV than usual can be a sign of stress, poor sleep, illness or heavy training.",
+   "start": 65.81,
+   "end": 72.21,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "However, there are important details.",
+   "start": 72.81,
+   "end": 75.37,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "HRV is very personal, so comparing your number with someone else's is not useful.",
+   "start": 76.2,
+   "end": 81.72,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Daily values also jump around.",
+   "start": 82.63,
+   "end": 84.83,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Experts recommend measuring at the same time each morning and looking at the trend over a week or more.",
+   "start": 85.38,
+   "end": 91.54,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Used wisely, HRV is a helpful readiness metric.",
+   "start": 92.06,
+   "end": 96.1,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It should support your feelings, not replace them.",
+   "start": 96.65,
+   "end": 99.77,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 230,
+ "duration": 99.7,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:55"
+}

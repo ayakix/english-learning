@@ -1,0 +1,191 @@
+{
+ "id": "pa013",
+ "author": "claude",
+ "category": "parenting",
+ "title": "How Much Sleep Do Children Need?",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "sleep needs",
+  "nap",
+  "sleep debt"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Most parents know that sleep is important for children. But many are surprised by how much sleep children actually need, and how common sleep debt is."
+  },
+  {
+   "speaker": "A",
+   "text": "Sleep experts provide general guidelines. Babies between four months and one year need about twelve to sixteen hours in total, including naps. Children aged one to two need around eleven to fourteen hours. Preschoolers, aged three to five, need about ten to thirteen hours. Children aged six to twelve need around nine to twelve hours, and teenagers need about eight to ten."
+  },
+  {
+   "speaker": "A",
+   "text": "Naps are a normal part of young children's sleep. Most children stop napping between the ages of three and five. When naps disappear, nighttime sleep becomes even more important."
+  },
+  {
+   "speaker": "A",
+   "text": "When children regularly get less sleep than they need, they build up sleep debt, a shortage of sleep that adds up over time. Interestingly, tired children do not always look sleepy. Instead, they may become more active, emotional or easily frustrated. Some parents mistake a tired child for a naughty one."
+  },
+  {
+   "speaker": "A",
+   "text": "Research links insufficient sleep in children with problems in attention, memory, mood and learning. It may also affect growth and the immune system."
+  },
+  {
+   "speaker": "A",
+   "text": "Modern life makes sleep harder. Evening activities, homework and screens all push bedtimes later, while school start times stay early."
+  },
+  {
+   "speaker": "A",
+   "text": "Practical steps include a consistent bedtime, a calm routine, a dark and quiet bedroom, and keeping phones and tablets out of the bedroom at night."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Most parents know that sleep is important for children.",
+   "start": 0.0,
+   "end": 3.44,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But many are surprised by how much sleep children actually need, and how common sleep debt is.",
+   "start": 4.03,
+   "end": 10.35,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Sleep experts provide general guidelines.",
+   "start": 10.87,
+   "end": 13.71,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Babies between four months and one year need about twelve to sixteen hours in total, including naps.",
+   "start": 14.34,
+   "end": 20.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Children aged one to two need around eleven to fourteen hours.",
+   "start": 21.57,
+   "end": 25.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Preschoolers, aged three to five, need about ten to thirteen hours.",
+   "start": 26.48,
+   "end": 31.24,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Children aged six to twelve need around nine to twelve hours, and teenagers need about eight to ten.",
+   "start": 31.87,
+   "end": 38.43,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Naps are a normal part of young children's sleep.",
+   "start": 38.95,
+   "end": 41.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Most children stop napping between the ages of three and five.",
+   "start": 42.58,
+   "end": 46.34,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When naps disappear, nighttime sleep becomes even more important.",
+   "start": 47.17,
+   "end": 51.81,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When children regularly get less sleep than they need, they build up sleep debt, a shortage of sleep that adds up over time.",
+   "start": 52.41,
+   "end": 60.41,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Interestingly, tired children do not always look sleepy.",
+   "start": 61.12,
+   "end": 64.84,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead, they may become more active, emotional or easily frustrated.",
+   "start": 65.27,
+   "end": 70.39,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some parents mistake a tired child for a naughty one.",
+   "start": 70.82,
+   "end": 74.18,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Research links insufficient sleep in children with problems in attention, memory, mood and learning.",
+   "start": 74.7,
+   "end": 81.62,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It may also affect growth and the immune system.",
+   "start": 82.25,
+   "end": 85.45,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Modern life makes sleep harder.",
+   "start": 85.97,
+   "end": 88.05,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Evening activities, homework and screens all push bedtimes later, while school start times stay early.",
+   "start": 88.88,
+   "end": 95.84,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Practical steps include a consistent bedtime, a calm routine, a dark and quiet bedroom, and keeping phones and tablets out of the bedroom at night.",
+   "start": 96.44,
+   "end": 106.36,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 236,
+ "duration": 106.3,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 79,
+ "created": "2026-10-03 23:58"
+}

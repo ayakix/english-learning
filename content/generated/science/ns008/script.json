@@ -1,0 +1,212 @@
+{
+ "id": "ns008",
+ "author": "claude",
+ "category": "science",
+ "title": "What Causes Earthquakes",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "tectonic plate",
+  "fault",
+  "magnitude"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Japan experiences more than a thousand earthquakes that people can feel each year. Most are small, but some are very powerful. To understand why, we need to look deep beneath our feet."
+  },
+  {
+   "speaker": "A",
+   "text": "The Earth's outer layer is not one solid shell. It is broken into huge pieces called tectonic plates. These plates fit together like a giant puzzle, and they move very slowly, a few centimeters a year. That is about the speed your fingernails grow."
+  },
+  {
+   "speaker": "A",
+   "text": "Where plates meet, they push against each other, pull apart or slide past each other. But they do not move smoothly. Friction makes them stick. Stress builds up in the rock for years, even centuries."
+  },
+  {
+   "speaker": "A",
+   "text": "When the stress becomes too great, the rock suddenly breaks and slips along a crack called a fault. The stored energy is released as waves that travel through the ground. We feel these waves as an earthquake."
+  },
+  {
+   "speaker": "A",
+   "text": "Japan sits on the boundary of four major plates. This is why it has so many earthquakes, as well as volcanoes and hot springs."
+  },
+  {
+   "speaker": "A",
+   "text": "Scientists measure the size of an earthquake with magnitude. The scale is not simple. Each step up means much more energy. An earthquake of magnitude seven releases about thirty times more energy than one of magnitude six."
+  },
+  {
+   "speaker": "A",
+   "text": "Scientists cannot predict exactly when an earthquake will happen. That is why preparation, such as strong buildings and emergency plans, is so important."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Japan experiences more than a thousand earthquakes that people can feel each year.",
+   "start": 0.0,
+   "end": 5.44,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Most are small, but some are very powerful.",
+   "start": 5.95,
+   "end": 9.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To understand why, we need to look deep beneath our feet.",
+   "start": 9.7,
+   "end": 13.42,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The Earth's outer layer is not one solid shell.",
+   "start": 13.94,
+   "end": 17.38,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It is broken into huge pieces called tectonic plates.",
+   "start": 17.81,
+   "end": 21.81,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "These plates fit together like a giant puzzle, and they move very slowly, a few centimeters a year.",
+   "start": 22.28,
+   "end": 28.76,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "That is about the speed your fingernails grow.",
+   "start": 29.15,
+   "end": 31.71,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Where plates meet, they push against each other, pull apart or slide past each other.",
+   "start": 32.23,
+   "end": 37.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But they do not move smoothly.",
+   "start": 38.42,
+   "end": 40.58,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Friction makes them stick.",
+   "start": 40.97,
+   "end": 42.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Stress builds up in the rock for years, even centuries.",
+   "start": 43.36,
+   "end": 47.28,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When the stress becomes too great, the rock suddenly breaks and slips along a crack called a fault.",
+   "start": 47.8,
+   "end": 54.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The stored energy is released as waves that travel through the ground.",
+   "start": 54.63,
+   "end": 58.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "We feel these waves as an earthquake.",
+   "start": 59.34,
+   "end": 61.62,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Japan sits on the boundary of four major plates.",
+   "start": 62.14,
+   "end": 65.66,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This is why it has so many earthquakes, as well as volcanoes and hot springs.",
+   "start": 66.09,
+   "end": 70.89,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists measure the size of an earthquake with magnitude.",
+   "start": 71.41,
+   "end": 75.01,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The scale is not simple.",
+   "start": 75.6,
+   "end": 77.52,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Each step up means much more energy.",
+   "start": 77.99,
+   "end": 80.83,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "An earthquake of magnitude seven releases about thirty times more energy than one of magnitude six.",
+   "start": 81.26,
+   "end": 87.74,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists cannot predict exactly when an earthquake will happen.",
+   "start": 88.26,
+   "end": 92.34,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why preparation, such as strong buildings and emergency plans, is so important.",
+   "start": 92.77,
+   "end": 98.45,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 98.4,
+ "wpm": 142,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-04 00:00"
+}

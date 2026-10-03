@@ -1,0 +1,114 @@
+{
+ "id": "wt027",
+ "author": "claude",
+ "summary_ja": "機械式時計の油はほんの数滴だが欠かせない。こすれ合う場所（注油ポイント）ごとに、薄い油、濃い油やグリース、脱進機専用の油など合成油を使い分ける。オイラーという針のような道具でさし、多すぎても少なすぎてもいけない。穴の周りの小さなくぼみ（オイルシンク）が表面張力で油を留める。",
+ "listening": [
+  {
+   "q": "時計に使う油の量について正しいものは？",
+   "options": [
+    "使わない",
+    "ほとんど見えないほどごく少量",
+    "1回にコップ1杯",
+    "毎日さす"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the total amount is so small that you could barely see it.\""
+  },
+  {
+   "q": "1つの時計で油を使い分ける理由は？",
+   "options": [
+    "部品ごとに動きや負担が違うから",
+    "安くするため",
+    "においをつけるため",
+    "色を変えるため"
+   ],
+   "answer": 0,
+   "explanation_ja": "速い歯車には薄い油、重い負担の部分には濃い油など、\"Each one has its own needs.\""
+  },
+  {
+   "q": "オイルシンクの役割は？",
+   "options": [
+    "時計を冷やす",
+    "古い油を捨てる",
+    "ほこりを集める",
+    "表面張力で油をその場所に留める"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Surface tension holds the drop there, like water in a small dish.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "しかし、そのわずかな数滴が欠かせないのです。",
+   "points_ja": "Yet those の t は飲み込まれ、drops are がつながります。"
+  },
+  {
+   "sentence": 4,
+   "ja": "摩擦はエネルギーを無駄にし、摩耗を引き起こします。",
+   "points_ja": "energy and が「エナジーン」、causes wear の s が重なります。"
+  },
+  {
+   "sentence": 14,
+   "ja": "正しい場所に油をさすことは技術です。",
+   "points_ja": "Putting oil in が「プティンゴイリン」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ごく少量の油を、正しい種類で正しい場所にさすことが重要である",
+    "時計は油がなくても動く",
+    "油は多いほどよい",
+    "天然の油が最高である"
+   ],
+   "answer": 0,
+   "explanation_ja": "油の役割、使い分け、さし方を説明しています。"
+  },
+  {
+   "q": "lubrication points とは？",
+   "options": [
+    "時計の価格",
+    "ゼンマイの種類",
+    "時計師が油をさす場所",
+    "文字盤の印"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The places where a watchmaker adds oil are called lubrication points.\""
+  },
+  {
+   "q": "合成油の利点は？",
+   "options": [
+    "安い",
+    "長持ちし、天然の油より安定している",
+    "色がきれい",
+    "香りが良い"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"They last longer and stay more stable than natural oils.\""
+  },
+  {
+   "q": "油が多すぎるとどうなる？",
+   "options": [
+    "部品が光る",
+    "時計が速くなる",
+    "必要のない場所に広がる",
+    "防水性が上がる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Too much, and the oil spreads to places where it should not be.\""
+  },
+  {
+   "q": "oiler のたとえとして正しいものは？",
+   "options": [
+    "スプーンのような道具",
+    "小さな針のような道具",
+    "ブラシのような道具",
+    "スポンジのような道具"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"which is like a tiny needle.\""
+  }
+ ]
+}

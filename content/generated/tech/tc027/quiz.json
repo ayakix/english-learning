@@ -1,0 +1,114 @@
+{
+ "id": "tc027",
+ "author": "claude",
+ "summary_ja": "電子工作を本物の製品のように見せるため、B は基板にぴったり合うケース（エンクロージャー）を設計して自宅で3Dプリントする。CAD で基板やボタン、USB、LED の位置を測ってモデルを作る。最初は合わないことが多く、0.数ミリの隙間（公差）を足す。発熱には通気口、無線には金属を避ける。PLA は印刷しやすいが熱に弱く、PETG は熱に強い。数時間で試作できるのが魅力。",
+ "listening": [
+  {
+   "q": "B が作品を製品らしくする方法は？",
+   "options": [
+    "店で売る",
+    "色を塗る",
+    "基板にぴったりのケースを設計して3Dプリントする",
+    "高い部品を使う"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"I design a custom enclosure, a case that fits the circuit board exactly, and print it at home.\""
+  },
+  {
+   "q": "暑い車の中などで使う場合の素材は？",
+   "options": [
+    "紙",
+    "熱に強い PETG",
+    "木",
+    "PLA"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"For those cases, I use PETG, which handles heat better.\""
+  },
+  {
+   "q": "rapid manufacturing の魅力として話されているのは？",
+   "options": [
+    "手作業がいらない",
+    "安く大量生産できる",
+    "数時間で新しい版を印刷し、同じ日に試して改善できる",
+    "設計がいらない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"You can print a new version in a few hours, test it, and improve it the same day.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 7,
+   "ja": "まず、ボタン、USB ポート、LED の位置も含めて、基板を慎重に測ります。",
+   "points_ja": "measure the board がつながり、positions of buttons が「ポジションザヴボタンズ」と聞こえます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "プリンターは完全に正確ではないので、たいてい0.数ミリを足します。",
+   "points_ja": "aren't perfectly の t は飲み込まれ、tenths of a millimeter が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "熱くなる基板もあるので、ケースには空気のための小さな穴が必要です。",
+   "points_ja": "boards get warm がつながり、openings for air が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "3Dプリンターの選び方",
+    "電子部品の値段",
+    "3Dプリントで電子工作のケースを作る方法と注意点",
+    "工場の仕組み"
+   ],
+   "answer": 2,
+   "explanation_ja": "CAD、公差、熱、無線、素材、試作のしやすさを話しています。"
+  },
+  {
+   "q": "CAD の意味は？",
+   "options": [
+    "電池の種類",
+    "コンピューター支援設計",
+    "カード",
+    "プリンターの名前"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"CAD means computer-aided design.\""
+  },
+  {
+   "q": "tolerances とは？",
+   "options": [
+    "部品がはまるように加える小さな隙間",
+    "ケースの重さ",
+    "素材の色",
+    "プリンターの速さ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"You have to think about tolerances, small extra gaps so parts can fit together.\""
+  },
+  {
+   "q": "無線を使う機器で避けるべきものは？",
+   "options": [
+    "LED",
+    "穴",
+    "電波をさえぎる金属の部品",
+    "プラスチック"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"if the device uses wireless signals, you should avoid metal parts that block them.\""
+  },
+  {
+   "q": "PLA の弱点は？",
+   "options": [
+    "暑い車の中や日光のそばで柔らかくなる",
+    "印刷しにくい",
+    "重い",
+    "高価"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"PLA is easy to print, but it can soften in a hot car or near the sun.\""
+  }
+ ]
+}

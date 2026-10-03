@@ -1,0 +1,114 @@
+{
+ "id": "rn009",
+ "author": "claude",
+ "summary_ja": "カフェインは最もよく研究された合法の運動能力向上物質で、持久力を数%高めるとされる。疲れを感じさせるアデノシンの受容体を脳でブロックし、同じペースでも楽に感じる（主観的運動強度が下がる）。研究では体重1kgあたり3〜6mgを約1時間前にとることが多く、少量でも効く人がいる。手の震え、動悸、胃の不調、睡眠の悪化もあり、反応は人それぞれなので練習で試す。",
+ "listening": [
+  {
+   "q": "カフェインの効果として研究が示しているのは？",
+   "options": [
+    "筋肉を大きくする",
+    "持久系のパフォーマンスを数%高める",
+    "体重を減らす",
+    "効果はない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Research shows it can improve endurance performance by a few percent.\""
+  },
+  {
+   "q": "カフェインが疲れを感じにくくする仕組みは？",
+   "options": [
+    "血糖を上げる",
+    "脳のアデノシン受容体をブロックする",
+    "体温を下げる",
+    "筋肉を温める"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The main explanation involves adenosine receptors in the brain ... Caffeine blocks the receptors\"。"
+  },
+  {
+   "q": "カフェインの使い方についての B の注意は？",
+   "options": [
+    "毎日大量にとる",
+    "反応は人それぞれなので、本番ではなく練習で試す",
+    "本番で初めて使う",
+    "多いほど効く"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"people respond very differently. So test it carefully during training, not for the first time on race day.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "研究によると、持久系のパフォーマンスを数%向上させることがあります。",
+   "points_ja": "shows it can がつながり、by a few percent が続けて聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "同じペースが少し楽に感じるので、より強く、より長く頑張れます。",
+   "points_ja": "pace feels a little easier が続き、harder or longer の or は弱形です。"
+  },
+  {
+   "sentence": 21,
+   "ja": "レースの後の夜の睡眠を台無しにすることもあります。",
+   "points_ja": "can also ruin your がつながり、night after the race が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "コーヒーの淹れ方",
+    "カフェインが持久力を高める仕組み、量、注意点",
+    "睡眠の科学",
+    "アデノシンの発見"
+   ],
+   "answer": 1,
+   "explanation_ja": "効果、仕組み、量、副作用を話しています。"
+  },
+  {
+   "q": "ergogenic aids の意味は？",
+   "options": [
+    "パフォーマンスを高める助けになる物質",
+    "サプリの店",
+    "医薬品の一種",
+    "運動器具"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That means substances that help you perform better.\""
+  },
+  {
+   "q": "perceived exertion の意味は？",
+   "options": [
+    "走った距離",
+    "汗の量",
+    "心拍数",
+    "運動がどれだけきつく感じるか"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That's how hard the exercise feels.\""
+  },
+  {
+   "q": "研究でよく使われる量とタイミングは？",
+   "options": [
+    "1日1gを前日",
+    "体重1kgあたり50mgを直前",
+    "体重1kgあたり3〜6mgを、スタートの約1時間前",
+    "量は決まっていない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"about three to six milligrams per kilogram of body weight, often taken around an hour before the start.\""
+  },
+  {
+   "q": "濃いコーヒー1杯のカフェインの目安は？",
+   "options": [
+    "0mg",
+    "約100mg",
+    "約10mg",
+    "約1,000mg"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A strong cup of coffee might have around one hundred milligrams.\""
+  }
+ ]
+}

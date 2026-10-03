@@ -1,0 +1,180 @@
+{
+ "id": "wn014",
+ "author": "claude",
+ "category": "wine",
+ "title": "Japanese Wine Regulations and Labeling Rules",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "domestic grapes",
+  "geographic indication",
+  "origin label"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you visit a supermarket in Japan, you may see many bottles that look like Japanese wine. But not all of them are made from grapes grown in Japan. For many years, this was confusing for shoppers. So in two thousand eighteen, Japan introduced clear labeling rules."
+  },
+  {
+   "speaker": "A",
+   "text": "Under these rules, only wine made from one hundred percent domestic grapes, and produced in Japan, can be called Japan Wine, or Nihon wine in Japanese. Domestic means from inside the country."
+  },
+  {
+   "speaker": "A",
+   "text": "Some wines are made in Japan using imported grape juice or concentrate from other countries. These can still be sold, but they cannot use the name Japan Wine. Instead, their labels must show that they were produced in Japan from imported materials."
+  },
+  {
+   "speaker": "A",
+   "text": "The rules also control place names. If a label names a region, such as Nagano or Hokkaido, at least eighty-five percent of the grapes must come from that region, and the wine must be made there. This kind of origin label helps people trust what they are buying."
+  },
+  {
+   "speaker": "A",
+   "text": "In addition, some regions have a geographic indication, often shortened to GI. It is a legal protection for a place name, similar to the systems in Europe. Yamanashi was the first wine region in Japan to receive one. Others, such as Hokkaido, followed."
+  },
+  {
+   "speaker": "A",
+   "text": "These rules are good for both drinkers and producers. They help Japanese wine build a clear identity, at home and abroad."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you visit a supermarket in Japan, you may see many bottles that look like Japanese wine.",
+   "start": 0.0,
+   "end": 6.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But not all of them are made from grapes grown in Japan.",
+   "start": 6.51,
+   "end": 9.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For many years, this was confusing for shoppers.",
+   "start": 10.38,
+   "end": 13.58,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "So in two thousand eighteen, Japan introduced clear labeling rules.",
+   "start": 14.09,
+   "end": 18.97,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Under these rules, only wine made from one hundred percent domestic grapes, and produced in Japan, can be called Japan Wine, or Nihon wine in Japanese.",
+   "start": 19.49,
+   "end": 29.97,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Domestic means from inside the country.",
+   "start": 30.96,
+   "end": 33.92,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Some wines are made in Japan using imported grape juice or concentrate from other countries.",
+   "start": 34.44,
+   "end": 40.44,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "These can still be sold, but they cannot use the name Japan Wine.",
+   "start": 40.91,
+   "end": 45.51,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead, their labels must show that they were produced in Japan from imported materials.",
+   "start": 46.3,
+   "end": 51.62,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The rules also control place names.",
+   "start": 52.14,
+   "end": 54.86,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If a label names a region, such as Nagano or Hokkaido, at least eighty-five percent of the grapes must come from that region, and the wine must be made there.",
+   "start": 55.45,
+   "end": 66.33,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This kind of origin label helps people trust what they are buying.",
+   "start": 66.76,
+   "end": 70.6,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In addition, some regions have a geographic indication, often shortened to GI.",
+   "start": 71.12,
+   "end": 77.28,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a legal protection for a place name, similar to the systems in Europe.",
+   "start": 77.95,
+   "end": 82.19,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Yamanashi was the first wine region in Japan to receive one.",
+   "start": 83.1,
+   "end": 86.7,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Others, such as Hokkaido, followed.",
+   "start": 87.53,
+   "end": 90.09,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "These rules are good for both drinkers and producers.",
+   "start": 90.61,
+   "end": 93.89,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "They help Japanese wine build a clear identity, at home and abroad.",
+   "start": 94.48,
+   "end": 99.52,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 233,
+ "duration": 99.4,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:48"
+}

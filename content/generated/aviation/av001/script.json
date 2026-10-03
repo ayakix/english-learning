@@ -1,0 +1,180 @@
+{
+ "id": "av001",
+ "author": "claude",
+ "category": "aviation",
+ "title": "How ADS-B Out Broadcasts Aircraft Positions",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "ADS-B Out",
+  "Mode S transponder",
+  "1090 MHz"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When you open a flight tracking app and see hundreds of tiny planes moving across the map, much of that information comes from a system called ADS-B. The letters stand for Automatic Dependent Surveillance–Broadcast. That sounds complicated, but the idea is simple."
+  },
+  {
+   "speaker": "A",
+   "text": "First, the aircraft finds its own position using satellite navigation, such as GPS. Then it broadcasts that information by radio, again and again, about twice every second. This sending part is called ADS-B Out."
+  },
+  {
+   "speaker": "A",
+   "text": "Each message includes the plane's identity, its position, its altitude and its speed. The signal is sent on a radio frequency of ten ninety megahertz, using the same equipment that answers radar, called a Mode S transponder."
+  },
+  {
+   "speaker": "A",
+   "text": "Who receives these messages? Air traffic control ground stations, of course. But also other aircraft, and even hobbyists with cheap radio receivers at home. Because the messages are not encrypted, anyone with the right equipment can listen."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is this better than traditional radar? Radar measures where a plane is from the ground, and it updates only every few seconds. ADS-B gives a more precise position, more often. It also works in areas where building radar stations is difficult."
+  },
+  {
+   "speaker": "A",
+   "text": "Because of these benefits, ADS-B Out is now required for many aircraft in the United States, Europe and other regions. So the next time you watch planes on your phone, remember: those planes are telling the world exactly where they are."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When you open a flight tracking app and see hundreds of tiny planes moving across the map, much of that information comes from a system called ADS-B.",
+   "start": 0.0,
+   "end": 10.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The letters stand for Automatic Dependent Surveillance–Broadcast.",
+   "start": 10.75,
+   "end": 15.07,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That sounds complicated, but the idea is simple.",
+   "start": 16.06,
+   "end": 19.42,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "First, the aircraft finds its own position using satellite navigation, such as GPS.",
+   "start": 19.94,
+   "end": 26.1,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Then it broadcasts that information by radio, again and again, about twice every second.",
+   "start": 27.09,
+   "end": 33.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This sending part is called ADS-B Out.",
+   "start": 34.88,
+   "end": 38.56,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Each message includes the plane's identity, its position, its altitude and its speed.",
+   "start": 39.16,
+   "end": 45.56,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The signal is sent on a radio frequency of ten ninety megahertz, using the same equipment that answers radar, called a Mode S transponder.",
+   "start": 46.23,
+   "end": 56.07,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Who receives these messages?",
+   "start": 56.59,
+   "end": 58.55,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Air traffic control ground stations, of course.",
+   "start": 59.18,
+   "end": 61.94,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "But also other aircraft, and even hobbyists with cheap radio receivers at home.",
+   "start": 62.57,
+   "end": 68.09,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Because the messages are not encrypted, anyone with the right equipment can listen.",
+   "start": 68.6,
+   "end": 73.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is this better than traditional radar?",
+   "start": 73.92,
+   "end": 76.4,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Radar measures where a plane is from the ground, and it updates only every few seconds.",
+   "start": 77.39,
+   "end": 83.67,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "ADS-B gives a more precise position, more often.",
+   "start": 84.06,
+   "end": 88.3,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It also works in areas where building radar stations is difficult.",
+   "start": 88.73,
+   "end": 92.97,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Because of these benefits, ADS-B Out is now required for many aircraft in the United States, Europe and other regions.",
+   "start": 93.49,
+   "end": 101.97,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "So the next time you watch planes on your phone, remember: those planes are telling the world exactly where they are.",
+   "start": 102.64,
+   "end": 110.08,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 233,
+ "duration": 110.0,
+ "wpm": 127,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 79,
+ "created": "2026-10-03 23:51"
+}

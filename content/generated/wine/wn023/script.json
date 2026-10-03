@@ -1,0 +1,229 @@
+{
+ "id": "wn023",
+ "author": "claude",
+ "category": "wine",
+ "title": "Punch-down vs Pump-over Extraction Methods",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "punch-down",
+  "pump-over",
+  "cap management"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "During red wine fermentation, the skins float to the top of the tank. What happens then?"
+  },
+  {
+   "speaker": "B",
+   "text": "They form a thick layer called the cap. Carbon dioxide from fermentation pushes the skins up. If you leave the cap there, it dries out, and you don't get much color or flavor from it."
+  },
+  {
+   "speaker": "A",
+   "text": "So you have to mix it back in."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. That's called cap management. The two classic methods are punch-down and pump-over."
+  },
+  {
+   "speaker": "A",
+   "text": "What's the difference?"
+  },
+  {
+   "speaker": "B",
+   "text": "With a punch-down, you push the cap down into the juice, using a tool or sometimes even your feet. In French, it's called pigeage. It's very direct, and in small tanks it's easy to control."
+  },
+  {
+   "speaker": "A",
+   "text": "And pump-over?"
+  },
+  {
+   "speaker": "B",
+   "text": "With a pump-over, you pump juice from the bottom of the tank and spray it over the top of the cap. The French term is remontage. It's practical for large tanks, and it also adds a little oxygen, which helps the yeast."
+  },
+  {
+   "speaker": "A",
+   "text": "Do they produce different wines?"
+  },
+  {
+   "speaker": "B",
+   "text": "They can. The strength, frequency and timing all affect how much tannin is extracted. Many Burgundy producers prefer gentle punch-downs for delicate Pinot Noir, while Bordeaux estates often use pump-overs in big tanks. But in practice, many winemakers combine both and adjust day by day."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "During red wine fermentation, the skins float to the top of the tank.",
+   "start": 0.0,
+   "end": 4.76,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What happens then?",
+   "start": 5.39,
+   "end": 6.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They form a thick layer called the cap.",
+   "start": 7.31,
+   "end": 9.79,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Carbon dioxide from fermentation pushes the skins up.",
+   "start": 10.62,
+   "end": 14.5,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "If you leave the cap there, it dries out, and you don't get much color or flavor from it.",
+   "start": 15.13,
+   "end": 20.65,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So you have to mix it back in.",
+   "start": 21.37,
+   "end": 23.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 24.49,
+   "end": 25.49,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That's called cap management.",
+   "start": 26.04,
+   "end": 27.8,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The two classic methods are punch-down and pump-over.",
+   "start": 28.63,
+   "end": 32.31,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What's the difference?",
+   "start": 33.03,
+   "end": 34.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "With a punch-down, you push the cap down into the juice, using a tool or sometimes even your feet.",
+   "start": 35.11,
+   "end": 41.67,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "In French, it's called pigeage.",
+   "start": 42.58,
+   "end": 44.98,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It's very direct, and in small tanks it's easy to control.",
+   "start": 45.57,
+   "end": 49.57,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And pump-over?",
+   "start": 50.29,
+   "end": 51.57,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "With a pump-over, you pump juice from the bottom of the tank and spray it over the top of the cap.",
+   "start": 52.53,
+   "end": 58.69,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The French term is remontage.",
+   "start": 59.12,
+   "end": 61.68,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It's practical for large tanks, and it also adds a little oxygen, which helps the yeast.",
+   "start": 62.11,
+   "end": 67.55,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Do they produce different wines?",
+   "start": 68.35,
+   "end": 70.51,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "They can.",
+   "start": 71.23,
+   "end": 71.87,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "The strength, frequency and timing all affect how much tannin is extracted.",
+   "start": 72.46,
+   "end": 78.22,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Many Burgundy producers prefer gentle punch-downs for delicate Pinot Noir, while Bordeaux estates often use pump-overs in big tanks.",
+   "start": 78.65,
+   "end": 87.69,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But in practice, many winemakers combine both and adjust day by day.",
+   "start": 88.08,
+   "end": 93.0,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 204,
+ "duration": 92.9,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 64,
+ "created": "2026-10-03 23:49"
+}

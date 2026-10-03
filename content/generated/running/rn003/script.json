@@ -1,0 +1,194 @@
+{
+ "id": "rn003",
+ "author": "claude",
+ "category": "running",
+ "title": "Gut Training: Increasing Carb Absorption Capacity",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "gut training",
+  "gastrointestinal distress",
+  "transporter saturation"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many marathon runners know they should take in carbohydrates during a race. Yet many also experience stomach problems when they do. Cramps, nausea and urgent trips to the toilet are common. Scientists call these symptoms gastrointestinal distress."
+  },
+  {
+   "speaker": "A",
+   "text": "One reason is that the gut has limits. Carbohydrates from gels and drinks must pass through the wall of the small intestine into the blood. This happens through special proteins called transporters. Glucose uses one type of transporter, and research suggests it can handle roughly sixty grams per hour. If you take in more than that, the transporters become full. This is called transporter saturation. Extra sugar stays in the gut and can cause trouble."
+  },
+  {
+   "speaker": "A",
+   "text": "Interestingly, fructose, the sugar found in fruit, uses a different transporter. By combining glucose and fructose, athletes can absorb more carbohydrate per hour, sometimes up to around ninety grams."
+  },
+  {
+   "speaker": "A",
+   "text": "The second important idea is gut training. Just like your muscles, your digestive system can adapt. If you regularly practice eating and drinking during long training runs, the gut may become better at absorbing carbohydrates. Some studies show fewer symptoms after a few weeks of practice."
+  },
+  {
+   "speaker": "A",
+   "text": "In practice, this means treating fueling as part of training, not something you try for the first time on race day. Start with smaller amounts, increase gradually, and use the same products you will use in the race."
+  },
+  {
+   "speaker": "A",
+   "text": "Your stomach, it turns out, also needs to train for the marathon."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many marathon runners know they should take in carbohydrates during a race.",
+   "start": 0.0,
+   "end": 4.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Yet many also experience stomach problems when they do.",
+   "start": 5.39,
+   "end": 9.23,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Cramps, nausea and urgent trips to the toilet are common.",
+   "start": 9.9,
+   "end": 14.46,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists call these symptoms gastrointestinal distress.",
+   "start": 15.13,
+   "end": 18.97,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One reason is that the gut has limits.",
+   "start": 19.57,
+   "end": 22.53,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Carbohydrates from gels and drinks must pass through the wall of the small intestine into the blood.",
+   "start": 23.2,
+   "end": 29.4,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This happens through special proteins called transporters.",
+   "start": 30.11,
+   "end": 33.87,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Glucose uses one type of transporter, and research suggests it can handle roughly sixty grams per hour.",
+   "start": 34.54,
+   "end": 41.9,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If you take in more than that, the transporters become full.",
+   "start": 42.57,
+   "end": 46.17,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called transporter saturation.",
+   "start": 47.08,
+   "end": 50.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Extra sugar stays in the gut and can cause trouble.",
+   "start": 50.71,
+   "end": 54.31,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Interestingly, fructose, the sugar found in fruit, uses a different transporter.",
+   "start": 54.83,
+   "end": 61.07,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "By combining glucose and fructose, athletes can absorb more carbohydrate per hour, sometimes up to around ninety grams.",
+   "start": 61.5,
+   "end": 70.3,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The second important idea is gut training.",
+   "start": 70.82,
+   "end": 73.86,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Just like your muscles, your digestive system can adapt.",
+   "start": 74.85,
+   "end": 78.85,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If you regularly practice eating and drinking during long training runs, the gut may become better at absorbing carbohydrates.",
+   "start": 79.52,
+   "end": 88.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some studies show fewer symptoms after a few weeks of practice.",
+   "start": 88.87,
+   "end": 92.91,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In practice, this means treating fueling as part of training, not something you try for the first time on race day.",
+   "start": 93.43,
+   "end": 100.71,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Start with smaller amounts, increase gradually, and use the same products you will use in the race.",
+   "start": 101.78,
+   "end": 108.42,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Your stomach, it turns out, also needs to train for the marathon.",
+   "start": 108.94,
+   "end": 113.26,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 237,
+ "duration": 113.2,
+ "wpm": 126,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 82,
+ "created": "2026-10-03 23:55"
+}

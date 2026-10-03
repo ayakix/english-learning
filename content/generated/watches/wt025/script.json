@@ -1,0 +1,176 @@
+{
+ "id": "wt025",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Threat of Magnetic Fields",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "magnetization",
+  "hairspring",
+  "demagnetizer"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "One day, your reliable mechanical watch suddenly starts running fast. Not a few seconds a day, but several minutes. Before you panic, there is a very common cause you should check first. Your watch may be magnetized."
+  },
+  {
+   "speaker": "A",
+   "text": "At the center of a mechanical watch is the balance wheel, controlled by a very thin coiled spring called the hairspring. Traditionally, hairsprings are made of metal alloys that can be affected by magnets. When a strong magnetic field touches the watch, the coils of the spring can stick together slightly. The spring effectively becomes shorter, and the watch runs much faster."
+  },
+  {
+   "speaker": "A",
+   "text": "Today, we are surrounded by magnets. They are in phone cases, laptop speakers, tablet covers, handbag clasps and even some kitchen tools. Simply placing your watch next to your laptop overnight can be enough."
+  },
+  {
+   "speaker": "A",
+   "text": "The good news is that magnetization is easy to fix. A watchmaker uses a small device called a demagnetizer. You place the watch on it for a few seconds, and the magnetism is removed. Some collectors even buy their own demagnetizer, because they are not very expensive."
+  },
+  {
+   "speaker": "A",
+   "text": "Many modern watches also use new hairspring materials, such as silicon, which are not affected by magnets. But if you wear an older or traditional watch, a simple habit helps. Keep it away from speakers and magnetic clasps."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "One day, your reliable mechanical watch suddenly starts running fast.",
+   "start": 0.0,
+   "end": 5.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Not a few seconds a day, but several minutes.",
+   "start": 5.71,
+   "end": 8.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Before you panic, there is a very common cause you should check first.",
+   "start": 9.66,
+   "end": 14.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Your watch may be magnetized.",
+   "start": 14.69,
+   "end": 16.97,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "At the center of a mechanical watch is the balance wheel, controlled by a very thin coiled spring called the hairspring.",
+   "start": 17.49,
+   "end": 25.49,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Traditionally, hairsprings are made of metal alloys that can be affected by magnets.",
+   "start": 26.48,
+   "end": 31.6,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When a strong magnetic field touches the watch, the coils of the spring can stick together slightly.",
+   "start": 32.51,
+   "end": 38.59,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The spring effectively becomes shorter, and the watch runs much faster.",
+   "start": 39.5,
+   "end": 44.3,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, we are surrounded by magnets.",
+   "start": 44.82,
+   "end": 47.78,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They are in phone cases, laptop speakers, tablet covers, handbag clasps and even some kitchen tools.",
+   "start": 48.37,
+   "end": 55.69,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Simply placing your watch next to your laptop overnight can be enough.",
+   "start": 56.32,
+   "end": 60.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The good news is that magnetization is easy to fix.",
+   "start": 61.16,
+   "end": 65.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A watchmaker uses a small device called a demagnetizer.",
+   "start": 65.83,
+   "end": 70.23,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "You place the watch on it for a few seconds, and the magnetism is removed.",
+   "start": 70.9,
+   "end": 75.46,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some collectors even buy their own demagnetizer, because they are not very expensive.",
+   "start": 76.13,
+   "end": 81.41,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many modern watches also use new hairspring materials, such as silicon, which are not affected by magnets.",
+   "start": 81.93,
+   "end": 89.21,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But if you wear an older or traditional watch, a simple habit helps.",
+   "start": 89.88,
+   "end": 94.68,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Keep it away from speakers and magnetic clasps.",
+   "start": 95.67,
+   "end": 98.87,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 218,
+ "duration": 98.8,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:45"
+}

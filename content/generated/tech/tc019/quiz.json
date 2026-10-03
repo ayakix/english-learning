@@ -1,0 +1,114 @@
+{
+ "id": "tc019",
+ "author": "claude",
+ "summary_ja": "アプリの使われ方を知りたいが、ユーザーはプライバシーを心配する。鍵はプライバシー重視の分析で、改善に本当に必要なデータだけを集め、個人を特定しない。新機能の利用者数なら名前や場所は不要で、イベントを数えて合計を見る。他社のアプリやサイトをまたいで追跡するなら App Tracking Transparency で許可が必要で、全アプリにプライバシーラベルがある。正直なラベルは信頼につながる。",
+ "listening": [
+  {
+   "q": "privacy-first analytics の考え方は？",
+   "options": [
+    "できるだけ多くのデータを集める",
+    "データを売る",
+    "改善に本当に必要なデータだけを集め、個人を特定しない",
+    "分析をしない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"You collect only the data you really need to improve the app, and nothing that identifies a person.\""
+  },
+  {
+   "q": "他社のアプリやサイトをまたいで追跡する場合に必要なことは？",
+   "options": [
+    "何もしなくてよい",
+    "App Tracking Transparency で許可を求める",
+    "メールを送る",
+    "お金を払う"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"you have to ask permission through App Tracking Transparency.\""
+  },
+  {
+   "q": "B が信頼について言っていることは？",
+   "options": [
+    "一度失うと取り戻すのはとても難しい",
+    "すぐに取り戻せる",
+    "関係ない",
+    "お金で買える"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"And trust is very hard to win back once you lose it.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "しかし、多くのユーザーはプライバシーを心配しています。",
+   "points_ja": "many users worry about が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "「書き出しボタンが押された」のようなイベントを数えて、合計を見るだけです。",
+   "points_ja": "just count events がつながり、look at the totals が「ルカットザトータルズ」と聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "短く正直なラベルは、実はセールスポイントになり得ます。",
+   "points_ja": "honest label can がつながり、become a selling が「ビカマセリング」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "アプリの改善に必要なデータとユーザーのプライバシーのバランス",
+    "アプリの値段",
+    "データの売り方",
+    "広告の出し方"
+   ],
+   "answer": 0,
+   "explanation_ja": "必要最小限のデータ収集と、Apple のルール、信頼について話しています。"
+  },
+  {
+   "q": "新機能の利用者数を知るのに必要ないものとして B が挙げたのは？",
+   "options": [
+    "ボタンの名前",
+    "合計",
+    "イベントの数",
+    "名前、メール、位置情報"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"I don't need their name, email or location for that.\""
+  },
+  {
+   "q": "多くの従来の分析ツールの問題は？",
+   "options": [
+    "遅すぎる",
+    "開発者が実際に見る以上のデータを集めている",
+    "データが少なすぎる",
+    "高すぎる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Many traditional analytics tools collect much more telemetry than developers actually look at.\""
+  },
+  {
+   "q": "すべてのアプリに必要なものは？",
+   "options": [
+    "どんなデータを集めるかを示す App Store のプライバシーラベル",
+    "広告",
+    "有料版",
+    "ログイン機能"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"every app must show a privacy label on the App Store, explaining what data it collects.\""
+  },
+  {
+   "q": "\"selling point\" の意味は？",
+   "options": [
+    "欠点",
+    "販売場所",
+    "売りになる点、強み",
+    "値段"
+   ],
+   "answer": 2,
+   "explanation_ja": "正直なラベルがアプリの強みになり得る、という意味です。"
+  }
+ ]
+}

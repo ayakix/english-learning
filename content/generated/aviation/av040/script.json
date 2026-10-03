@@ -1,0 +1,183 @@
+{
+ "id": "av040",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Sustainable Aviation Fuel (SAF): Chemistry and Drop-In Use",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "sustainable aviation fuel (SAF)",
+  "drop-in fuel",
+  "lifecycle emissions"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Aviation is one of the hardest industries to make greener. Batteries are still too heavy for long flights, and hydrogen aircraft are many years away. For now, one of the most practical solutions is sustainable aviation fuel, or SAF."
+  },
+  {
+   "speaker": "A",
+   "text": "Normal jet fuel is made from crude oil. SAF can be made from many other sources, such as used cooking oil, animal fats, farm waste and wood waste. Some new methods even make fuel from carbon dioxide and hydrogen, using renewable electricity."
+  },
+  {
+   "speaker": "A",
+   "text": "The most important feature of SAF is that it is a drop-in fuel. This means it can be mixed with regular jet fuel and used in today's aircraft and airport fuel systems, without changing the engines. Current rules allow blends of up to fifty percent SAF, depending on the type."
+  },
+  {
+   "speaker": "A",
+   "text": "But wait, airplanes burning SAF still release carbon dioxide. So how is it greener? The answer is in lifecycle emissions. This means all emissions, from producing the raw material to burning the fuel. For example, plants absorb carbon dioxide as they grow. Using waste also avoids extra emissions. Over the full lifecycle, SAF can reduce emissions significantly compared with fossil jet fuel, often by more than half."
+  },
+  {
+   "speaker": "A",
+   "text": "The challenge is supply and cost. Today, SAF is only a small part of all jet fuel, and it is several times more expensive. Governments and airlines are now investing heavily to change that."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Aviation is one of the hardest industries to make greener.",
+   "start": 0.0,
+   "end": 3.6,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Batteries are still too heavy for long flights, and hydrogen aircraft are many years away.",
+   "start": 4.19,
+   "end": 9.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For now, one of the most practical solutions is sustainable aviation fuel, or SAF.",
+   "start": 10.38,
+   "end": 16.94,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Normal jet fuel is made from crude oil.",
+   "start": 17.46,
+   "end": 19.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "SAF can be made from many other sources, such as used cooking oil, animal fats, farm waste and wood waste.",
+   "start": 20.85,
+   "end": 28.53,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Some new methods even make fuel from carbon dioxide and hydrogen, using renewable electricity.",
+   "start": 28.96,
+   "end": 35.12,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The most important feature of SAF is that it is a drop-in fuel.",
+   "start": 35.64,
+   "end": 40.36,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This means it can be mixed with regular jet fuel and used in today's aircraft and airport fuel systems, without changing the engines.",
+   "start": 40.79,
+   "end": 48.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Current rules allow blends of up to fifty percent SAF, depending on the type.",
+   "start": 49.38,
+   "end": 54.26,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But wait, airplanes burning SAF still release carbon dioxide.",
+   "start": 54.78,
+   "end": 59.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So how is it greener?",
+   "start": 60.33,
+   "end": 62.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The answer is in lifecycle emissions.",
+   "start": 62.6,
+   "end": 65.32,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This means all emissions, from producing the raw material to burning the fuel.",
+   "start": 65.79,
+   "end": 70.55,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, plants absorb carbon dioxide as they grow.",
+   "start": 70.98,
+   "end": 74.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Using waste also avoids extra emissions.",
+   "start": 75.33,
+   "end": 78.45,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Over the full lifecycle, SAF can reduce emissions significantly compared with fossil jet fuel, often by more than half.",
+   "start": 78.92,
+   "end": 86.72,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The challenge is supply and cost.",
+   "start": 87.24,
+   "end": 89.96,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, SAF is only a small part of all jet fuel, and it is several times more expensive.",
+   "start": 90.55,
+   "end": 97.11,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Governments and airlines are now investing heavily to change that.",
+   "start": 97.54,
+   "end": 101.3,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 101.2,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-03 23:53"
+}

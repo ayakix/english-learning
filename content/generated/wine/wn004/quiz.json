@@ -1,0 +1,114 @@
+{
+ "id": "wn004",
+ "author": "claude",
+ "summary_ja": "ピノ・ノワールは冷涼な気候と長い熟成期間を好む。暑い夏は糖度が早く上がり、酸が急に下がってバランスが崩れる。早く摘むと皮や種が未熟、待つと重いワインになる。糖が多いとアルコール度数も上がり、熟したジャムのような味になる。最近はより早く摘み、涼しい畑を探す生産者が多い。",
+ "listening": [
+  {
+   "q": "暑い年にブドウで起きることは？",
+   "options": [
+    "何も変わらない",
+    "糖度が早く上がり、酸が下がる",
+    "ブドウが小さくなる",
+    "糖度が下がり、酸が上がる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"In a hot year, sugar can rise very quickly while acidity falls.\""
+  },
+  {
+   "q": "暑い年のピノ・ノワールの味の特徴は？",
+   "options": [
+    "水っぽい",
+    "とても酸っぱい",
+    "熟していてやわらかく、ジャムや黒いチェリーのような風味",
+    "苦い"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"hot-year Pinot Noir often tastes riper and softer, with flavors of jam or dark cherries.\""
+  },
+  {
+   "q": "最近の生産者の対策は？",
+   "options": [
+    "早めに摘み、涼しい畑を探す",
+    "収穫を遅らせる",
+    "砂糖を加える",
+    "ピノ・ノワールをやめる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"many producers now pick earlier and look for cooler vineyard sites\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "ピノ・ノワールは繊細なブドウです。",
+   "points_ja": "Noir is a が「ノワーリザ」とつながります。"
+  },
+  {
+   "sentence": 7,
+   "ja": "涼しい年には、この2つの変化はバランスを保ちます。",
+   "points_ja": "cool year がつながり、stay in balance が続けて聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "この豊かなスタイルを楽しむ人もいます。",
+   "points_ja": "people enjoy がつながり、this generous の s が重なります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "アルコールは低いほどよい",
+    "ピノ・ノワールは暑さに強い",
+    "暑い年はピノ・ノワールの糖と酸のバランスが崩れやすく、生産者は難しい選択を迫られる",
+    "暑い年のワインが最高である"
+   ],
+   "answer": 2,
+   "explanation_ja": "暑さによる変化、生産者の選択、味の違い、対策を説明しています。"
+  },
+  {
+   "q": "sugar accumulation の意味は？",
+   "options": [
+    "ワインを甘くすること",
+    "ブドウの糖が増えること",
+    "砂糖を加えること",
+    "糖が減ること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Sugar accumulation increases, which means the grapes become sweeter.\""
+  },
+  {
+   "q": "糖が多いとアルコールが増える理由は？",
+   "options": [
+    "瓶の中で増えるから",
+    "砂糖にアルコールが入っているから",
+    "発酵で酵母が糖をアルコールに変えるから",
+    "暑さでアルコールができるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"During fermentation, yeast turns sugar into alcohol.\""
+  },
+  {
+   "q": "早く摘んだ場合の問題は？",
+   "options": [
+    "酸が足りない",
+    "色が濃すぎる",
+    "アルコールが高すぎる",
+    "皮や種が十分に熟していないかもしれない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the skins and seeds may not be fully ripe.\""
+  },
+  {
+   "q": "alcohol by volume とは？",
+   "options": [
+    "ワインの量",
+    "瓶の大きさ",
+    "ラベルに書かれたアルコールの割合",
+    "ブドウの重さ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"That is the percentage of alcohol you see on the label.\""
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "id": "ns006",
+ "author": "claude",
+ "category": "science",
+ "title": "How Birds Find Their Way",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "migration",
+  "magnetic field",
+  "navigation"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  },
+  "B": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every year, some birds fly thousands of kilometers between their summer and winter homes. How do they find their way?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's one of the great mysteries of biology, and we still don't fully understand it. But we know birds use several tools for navigation, not just one."
+  },
+  {
+   "speaker": "A",
+   "text": "What kind of tools?"
+  },
+  {
+   "speaker": "B",
+   "text": "One is the sun. Birds can use the sun's position as a compass. But the sun moves across the sky, so they also need an internal clock to correct for the time of day."
+  },
+  {
+   "speaker": "A",
+   "text": "What about birds that fly at night?"
+  },
+  {
+   "speaker": "B",
+   "text": "Many of them use the stars. Experiments in planetariums showed that young birds learn the pattern of stars rotating around the North Star. That fixed point tells them where north is."
+  },
+  {
+   "speaker": "A",
+   "text": "And cloudy nights?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's where the Earth's magnetic field comes in. Birds seem to sense it and use it like a built-in compass. One theory is that special molecules in their eyes react to the magnetic field, so they might even see it in some way."
+  },
+  {
+   "speaker": "A",
+   "text": "That sounds like science fiction."
+  },
+  {
+   "speaker": "B",
+   "text": "It does, but evidence is growing. Birds also use landmarks like coastlines and mountains, and some may use smell."
+  },
+  {
+   "speaker": "A",
+   "text": "Which bird travels the farthest?"
+  },
+  {
+   "speaker": "B",
+   "text": "The Arctic tern. It flies from the Arctic to the Antarctic and back every year. Over its lifetime, it may travel a distance equal to several trips to the moon and back."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every year, some birds fly thousands of kilometers between their summer and winter homes.",
+   "start": 0.0,
+   "end": 6.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How do they find their way?",
+   "start": 6.59,
+   "end": 8.03,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's one of the great mysteries of biology, and we still don't fully understand it.",
+   "start": 8.83,
+   "end": 14.27,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "But we know birds use several tools for navigation, not just one.",
+   "start": 14.66,
+   "end": 18.78,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What kind of tools?",
+   "start": 19.58,
+   "end": 21.18,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One is the sun.",
+   "start": 21.9,
+   "end": 23.18,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Birds can use the sun's position as a compass.",
+   "start": 24.09,
+   "end": 27.21,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "But the sun moves across the sky, so they also need an internal clock to correct for the time of day.",
+   "start": 27.6,
+   "end": 33.96,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What about birds that fly at night?",
+   "start": 34.68,
+   "end": 37.08,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many of them use the stars.",
+   "start": 37.8,
+   "end": 39.224,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Experiments in planetariums showed that young birds learn the pattern of stars rotating around the North Star.",
+   "start": 39.686,
+   "end": 47.19,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That fixed point tells them where north is.",
+   "start": 47.66,
+   "end": 50.42,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And cloudy nights?",
+   "start": 51.14,
+   "end": 52.74,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "That's where the Earth's magnetic field comes in.",
+   "start": 53.46,
+   "end": 56.02,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Birds seem to sense it and use it like a built-in compass.",
+   "start": 56.77,
+   "end": 60.13,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "One theory is that special molecules in their eyes react to the magnetic field, so they might even see it in some way.",
+   "start": 60.96,
+   "end": 68.08,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That sounds like science fiction.",
+   "start": 68.8,
+   "end": 70.96,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "It does, but evidence is growing.",
+   "start": 71.68,
+   "end": 74.56,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Birds also use landmarks like coastlines and mountains, and some may use smell.",
+   "start": 74.99,
+   "end": 80.35,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Which bird travels the farthest?",
+   "start": 81.07,
+   "end": 83.31,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "The Arctic tern.",
+   "start": 84.03,
+   "end": 85.23,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "It flies from the Arctic to the Antarctic and back every year.",
+   "start": 85.66,
+   "end": 90.3,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Over its lifetime, it may travel a distance equal to several trips to the moon and back.",
+   "start": 90.89,
+   "end": 96.41,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 230,
+ "duration": 96.3,
+ "wpm": 143,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-04 00:00"
+}

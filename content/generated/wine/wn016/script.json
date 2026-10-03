@@ -1,0 +1,201 @@
+{
+ "id": "wn016",
+ "author": "claude",
+ "category": "wine",
+ "title": "Evaluating Wine Clarity and Rim Variation",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "clarity",
+  "rim variation",
+  "meniscus"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Professional wine tasting starts before you smell or sip. It starts with the eyes. Two things that tasters often check are clarity and the color at the edge of the wine."
+  },
+  {
+   "speaker": "A",
+   "text": "To look properly, hold the glass by the stem and tilt it over a white surface, such as a napkin or a sheet of paper. First, check the clarity. A healthy wine is usually clear. If it looks cloudy or hazy, there may be a problem, although some natural wines are unfiltered and slightly hazy on purpose."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, look at the rim. When the glass is tilted, the wine forms a thin edge. Here, the color is lighter and easier to read. Tasters call the curved surface at the edge the meniscus."
+  },
+  {
+   "speaker": "A",
+   "text": "Rim variation, meaning the change in color from the center to the edge, can tell you a lot about age. A young red wine often has a purple or violet rim. As it ages, the rim becomes red, then garnet, and finally brick or orange. A wide, watery rim can also suggest a lighter wine or an older one."
+  },
+  {
+   "speaker": "A",
+   "text": "White wines change too. A young white may be pale lemon with green hints. With age, it often becomes deeper gold, and eventually amber."
+  },
+  {
+   "speaker": "A",
+   "text": "Of course, grape variety and winemaking also affect color. So the eye gives clues, not final answers. But a good taster uses these clues to make the first guess."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Professional wine tasting starts before you smell or sip.",
+   "start": 0.0,
+   "end": 3.84,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It starts with the eyes.",
+   "start": 4.51,
+   "end": 6.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Two things that tasters often check are clarity and the color at the edge of the wine.",
+   "start": 6.94,
+   "end": 12.14,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To look properly, hold the glass by the stem and tilt it over a white surface, such as a napkin or a sheet of paper.",
+   "start": 12.66,
+   "end": 20.18,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "First, check the clarity.",
+   "start": 20.73,
+   "end": 22.53,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A healthy wine is usually clear.",
+   "start": 22.92,
+   "end": 25.2,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If it looks cloudy or hazy, there may be a problem, although some natural wines are unfiltered and slightly hazy on purpose.",
+   "start": 25.63,
+   "end": 33.39,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Next, look at the rim.",
+   "start": 33.99,
+   "end": 35.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When the glass is tilted, the wine forms a thin edge.",
+   "start": 36.42,
+   "end": 39.78,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Here, the color is lighter and easier to read.",
+   "start": 40.53,
+   "end": 43.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Tasters call the curved surface at the edge the meniscus.",
+   "start": 44.08,
+   "end": 47.76,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Rim variation, meaning the change in color from the center to the edge, can tell you a lot about age.",
+   "start": 48.28,
+   "end": 54.76,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A young red wine often has a purple or violet rim.",
+   "start": 55.35,
+   "end": 58.71,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "As it ages, the rim becomes red, then garnet, and finally brick or orange.",
+   "start": 59.46,
+   "end": 64.74,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A wide, watery rim can also suggest a lighter wine or an older one.",
+   "start": 65.57,
+   "end": 70.45,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "White wines change too.",
+   "start": 70.97,
+   "end": 72.65,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A young white may be pale lemon with green hints.",
+   "start": 73.24,
+   "end": 76.4,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "With age, it often becomes deeper gold, and eventually amber.",
+   "start": 76.95,
+   "end": 81.35,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course, grape variety and winemaking also affect color.",
+   "start": 81.87,
+   "end": 85.87,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "So the eye gives clues, not final answers.",
+   "start": 86.3,
+   "end": 89.42,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "But a good taster uses these clues to make the first guess.",
+   "start": 89.81,
+   "end": 93.45,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 235,
+ "duration": 93.4,
+ "wpm": 151,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 67,
+ "created": "2026-10-03 23:48"
+}

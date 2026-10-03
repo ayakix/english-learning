@@ -1,0 +1,114 @@
+{
+ "id": "ns008",
+ "author": "claude",
+ "summary_ja": "日本では感じる地震が年に千回以上ある。地球の表面は一枚ではなく、巨大なプレートに分かれ、年に数cm（爪が伸びる速さ）動く。境界では押し合ったり離れたりすれ違ったりするが、摩擦で引っかかり、何年も何世紀も岩にひずみがたまる。限界を超えると岩が断層に沿って急にずれ、エネルギーが波として伝わる。日本は4つのプレートの境界にある。マグニチュードは1上がると約30倍のエネルギー。",
+ "listening": [
+  {
+   "q": "日本で人が感じる地震の数は？",
+   "options": [
+    "10年に1回",
+    "年に千回以上",
+    "年に10回",
+    "月に1回"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Japan experiences more than a thousand earthquakes that people can feel each year.\""
+  },
+  {
+   "q": "プレートが動く速さのたとえは？",
+   "options": [
+    "髪が伸びる速さ",
+    "爪が伸びる速さ",
+    "車の速さ",
+    "人が歩く速さ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That is about the speed your fingernails grow.\""
+  },
+  {
+   "q": "日本に地震が多い理由は？",
+   "options": [
+    "雨が多いから",
+    "島が小さいから",
+    "4つの主なプレートの境界にあるから",
+    "海に囲まれているから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Japan sits on the boundary of four major plates.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "ほとんどは小さいですが、とても強いものもあります。",
+   "points_ja": "Most are small がつながり、some are very powerful が続けて聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "何年も、何世紀にもわたって、岩にひずみがたまっていきます。",
+   "points_ja": "builds up in the rock が一続きに聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "科学者は地震がいつ起こるかを正確に予測することはできません。",
+   "points_ja": "cannot predict exactly がつながり、when an earthquake が「ウェナナースクェイク」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "プレートの動きでたまったひずみが断層で解放されると地震が起こる",
+    "日本の地震は少ない",
+    "地震は火山だけが原因",
+    "地震は予測できる"
+   ],
+   "answer": 0,
+   "explanation_ja": "プレート、ひずみ、断層、日本の位置、マグニチュードを説明しています。"
+  },
+  {
+   "q": "tectonic plates の説明は？",
+   "options": [
+    "地球の外側の層が分かれた巨大な板",
+    "地下の水",
+    "火山の溶岩",
+    "海の底の岩"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It is broken into huge pieces called tectonic plates.\""
+  },
+  {
+   "q": "fault とは？",
+   "options": [
+    "地震の波",
+    "海の溝",
+    "岩がずれる割れ目",
+    "火山の口"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the rock suddenly breaks and slips along a crack called a fault.\""
+  },
+  {
+   "q": "マグニチュード7は6と比べて？",
+   "options": [
+    "約2倍",
+    "約1,000倍",
+    "同じ",
+    "約30倍のエネルギー"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"An earthquake of magnitude seven releases about thirty times more energy than one of magnitude six.\""
+  },
+  {
+   "q": "地震への備えとして話し手が大切だと言うのは？",
+   "options": [
+    "地下に住むこと",
+    "地震を予知すること",
+    "強い建物と緊急時の計画",
+    "海から離れること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"That is why preparation, such as strong buildings and emergency plans, is so important.\""
+  }
+ ]
+}

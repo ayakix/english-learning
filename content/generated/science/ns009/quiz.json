@@ -1,0 +1,114 @@
+{
+ "id": "ns009",
+ "author": "claude",
+ "summary_ja": "ハワイ諸島はプレートの衝突ではなく、火山の噴火で何百万年もかけて作られた。地球の深くで特に熱い岩が上がってくる場所（ホットスポット）があり、圧力が下がって溶けたマグマが海底から噴出し、溶岩となって火山を作り、高くなると島になる。ホットスポットはほぼ動かず、上の太平洋プレートが北西に動くので、火山が運ばれ後ろに新しい火山ができて島が並ぶ。ハワイ島が最も若い。",
+ "listening": [
+  {
+   "q": "ハワイ諸島はどうやってできた？",
+   "options": [
+    "サンゴでできた",
+    "プレートの衝突で持ち上げられた",
+    "火山の噴火で層が重なってできた",
+    "人が作った"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"they were built by volcanoes, layer by layer, over millions of years.\""
+  },
+  {
+   "q": "島が一列に並ぶ理由は？",
+   "options": [
+    "火山が歩くから",
+    "海流で流されるから",
+    "地震で割れたから",
+    "ホットスポットは動かず、上のプレートが北西に動くから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The hot spot stays in roughly the same place, but the Pacific Plate above it slowly moves toward the northwest.\""
+  },
+  {
+   "q": "最も若いハワイの島は？",
+   "options": [
+    "ハワイ島（ビッグアイランド）",
+    "すべて同じ",
+    "マウイ島",
+    "最も北西の島"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The Big Island of Hawaii, which sits over the hot spot today, is the youngest\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 5,
+   "ja": "岩が上昇すると、圧力が下がって一部が溶けます。",
+   "points_ja": "As the rock rises が続き、part of it melts が「パーラヴィットメルツ」と聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "地表に達すると、それは溶岩と呼ばれます。",
+   "points_ja": "reaches the surface が続き、it is called lava がつながります。"
+  },
+  {
+   "sentence": 16,
+   "ja": "北西の島ほど古く、風や雨で削られています。",
+   "points_ja": "Islands to the northwest が続き、wind and rain の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ハワイは大陸の一部",
+    "ホットスポットとプレートの動きで、ハワイの島々が一列に生まれた",
+    "ハワイの火山はすべて消えた",
+    "島は海が引いてできた"
+   ],
+   "answer": 1,
+   "explanation_ja": "ホットスポット、マグマ、溶岩、プレートの動き、島の年齢を説明しています。"
+  },
+  {
+   "q": "hot spot の説明は？",
+   "options": [
+    "温泉",
+    "地球の深くで特に熱い岩が地表に向かって上がってくる場所",
+    "海の中の熱い水",
+    "暑い観光地"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"there are places where unusually hot rock rises toward the surface. These are called hot spots.\""
+  },
+  {
+   "q": "magma と lava の違いは？",
+   "options": [
+    "ラバは地下にある",
+    "同じもの",
+    "地下にある溶けた岩がマグマ、地表に出るとラバ",
+    "マグマは冷たい"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This melted rock underground is called magma ... When it reaches the surface, it is called lava.\""
+  },
+  {
+   "q": "北西の島ほど低く削れている理由は？",
+   "options": [
+    "古く、長い間風や雨で削られてきたから",
+    "雪が多いから",
+    "人が多いから",
+    "火山が大きいから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Islands to the northwest are older and more worn down by wind and rain.\""
+  },
+  {
+   "q": "ハワイ島の南東で起きていることは？",
+   "options": [
+    "島が沈んでいる",
+    "何も起きていない",
+    "大きな地震が続いている",
+    "海の下で新しい火山が育っている"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Southeast of the Big Island, a new volcano is already growing under the sea.\""
+  }
+ ]
+}

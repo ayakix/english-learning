@@ -1,0 +1,197 @@
+{
+ "id": "wt022",
+ "author": "claude",
+ "category": "watches",
+ "title": "Grand Feu Enamel Dials",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "Grand Feu enamel",
+  "kiln firing",
+  "imperishable color"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Some watch dials have a deep, glossy color that seems to glow from the inside. Many of them are made with a traditional technique called Grand Feu enamel. In French, Grand Feu means great fire."
+  },
+  {
+   "speaker": "A",
+   "text": "Enamel is basically glass. The craftsperson grinds colored glass into a fine powder and mixes it with water. This paste is then spread thinly onto a metal dial, usually made of gold or copper."
+  },
+  {
+   "speaker": "A",
+   "text": "Next comes the fire. The dial goes into a small oven, called a kiln, at a temperature of around eight hundred degrees Celsius or more. The powder melts and becomes a smooth layer of glass. But one layer is not enough. The process is repeated many times, layer after layer, with careful drying and firing each time."
+  },
+  {
+   "speaker": "A",
+   "text": "This is where things often go wrong. A tiny bubble, a speck of dust, or a small difference in temperature can create a crack or a mark. If that happens, the dial cannot be repaired. Many dials fail, which is one reason these watches are expensive."
+  },
+  {
+   "speaker": "A",
+   "text": "So why use this risky method? Because the result lasts. Grand Feu enamel is often described as having imperishable color. It does not fade in sunlight, and it looks the same after a hundred years as it did on the first day. Painted dials age. Enamel stays bright, almost forever."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Some watch dials have a deep, glossy color that seems to glow from the inside.",
+   "start": 0.0,
+   "end": 5.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many of them are made with a traditional technique called Grand Feu enamel.",
+   "start": 5.95,
+   "end": 10.27,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In French, Grand Feu means great fire.",
+   "start": 10.7,
+   "end": 13.98,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Enamel is basically glass.",
+   "start": 14.5,
+   "end": 16.78,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The craftsperson grinds colored glass into a fine powder and mixes it with water.",
+   "start": 17.41,
+   "end": 22.29,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This paste is then spread thinly onto a metal dial, usually made of gold or copper.",
+   "start": 23.28,
+   "end": 28.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Next comes the fire.",
+   "start": 29.32,
+   "end": 30.92,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The dial goes into a small oven, called a kiln, at a temperature of around eight hundred degrees Celsius or more.",
+   "start": 31.83,
+   "end": 38.39,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The powder melts and becomes a smooth layer of glass.",
+   "start": 39.38,
+   "end": 42.82,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But one layer is not enough.",
+   "start": 43.49,
+   "end": 45.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The process is repeated many times, layer after layer, with careful drying and firing each time.",
+   "start": 46.0,
+   "end": 52.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is where things often go wrong.",
+   "start": 53.16,
+   "end": 55.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A tiny bubble, a speck of dust, or a small difference in temperature can create a crack or a mark.",
+   "start": 55.99,
+   "end": 62.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If that happens, the dial cannot be repaired.",
+   "start": 63.3,
+   "end": 66.74,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many dials fail, which is one reason these watches are expensive.",
+   "start": 67.17,
+   "end": 70.77,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So why use this risky method?",
+   "start": 71.29,
+   "end": 73.73,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Because the result lasts.",
+   "start": 74.36,
+   "end": 76.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Grand Feu enamel is often described as having imperishable color.",
+   "start": 76.95,
+   "end": 80.71,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It does not fade in sunlight, and it looks the same after a hundred years as it did on the first day.",
+   "start": 81.62,
+   "end": 87.14,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Painted dials age.",
+   "start": 87.81,
+   "end": 89.41,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Enamel stays bright, almost forever.",
+   "start": 90.0,
+   "end": 92.8,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 222,
+ "duration": 92.8,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-03 23:45"
+}

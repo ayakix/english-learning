@@ -1,0 +1,114 @@
+{
+ "id": "tc034",
+ "author": "claude",
+ "summary_ja": "画像認識や音声理解などの機械学習は、以前はサーバーで行っていたが、今は Core ML で iPhone 上で動かせる（オンデバイス推論）。利点はプライバシー（写真や音声が端末から出ない）、速さ、オフラインで使えること、サーバー費がかからないこと。課題はサイズと電力で、量子化（数値を32ビットから8や4ビットで保存）でモデルを小さく速くできる。Neural Engine も助けになる。",
+ "listening": [
+  {
+   "q": "on-device inference とは？",
+   "options": [
+    "インターネットで検索すること",
+    "サーバーでモデルを学習すること",
+    "学習済みモデルを端末上で動かして予測すること",
+    "アプリをダウンロードすること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Running a trained model on the device itself is called on-device inference.\""
+  },
+  {
+   "q": "オンデバイス推論の利点として話されていないものは？",
+   "options": [
+    "プライバシー",
+    "モデルが大きくなる",
+    "オフラインで使える",
+    "速さ"
+   ],
+   "answer": 1,
+   "explanation_ja": "プライバシー、速さ、オフライン、サーバー費なしが挙げられています。"
+  },
+  {
+   "q": "量子化の効果は？",
+   "options": [
+    "モデルが小さく速くなり、精度の低下は少ないことが多い",
+    "モデルが大きくなる",
+    "電池を多く使う",
+    "精度が大きく上がる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The model becomes much smaller and faster, often with only a small loss in accuracy.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "アプリはデータをクラウドに送り、答えを待っていました。",
+   "points_ja": "send data to the cloud がつながり、wait for an answer が「ウェイフォラナンサー」と聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "写真や音声の録音がユーザーのスマホから出ることはありません。",
+   "points_ja": "Photos and voice の and は「ン」、leave the user's が続けて聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "最近の iPhone には、この種の作業のために設計された Neural Engine という特別なチップも入っています。",
+   "points_ja": "include a special がつながり、kind of work が「カインダヴワーク」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "クラウドは不要になった",
+    "機械学習はサーバーでしかできない",
+    "Core ML によるオンデバイスの機械学習には多くの利点があり、量子化などで課題も解決できる",
+    "iPhone は機械学習に向かない"
+   ],
+   "answer": 2,
+   "explanation_ja": "オンデバイス推論の利点、課題、量子化、Neural Engine を説明しています。"
+  },
+  {
+   "q": "inference の意味は？",
+   "options": [
+    "アプリを売ること",
+    "モデルを使って予測すること（写真に何が写っているか判断するなど）",
+    "データを集めること",
+    "モデルを作ること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Inference means using a model to make a prediction\"。"
+  },
+  {
+   "q": "プライバシーの利点の説明は？",
+   "options": [
+    "データが暗号化される",
+    "写真や音声がユーザーのスマホから出ない",
+    "パスワードが不要",
+    "広告が出ない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Photos and voice recordings never leave the user's phone.\""
+  },
+  {
+   "q": "quantization の説明として正しいものは？",
+   "options": [
+    "モデルを2つに分けること",
+    "データを増やすこと",
+    "画面を小さくすること",
+    "数値を32ビットではなく、8や4ビットなど少ないビットで保存すること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Quantization stores them with fewer bits, such as eight or even four.\""
+  },
+  {
+   "q": "最後の文が伝えていることは？",
+   "options": [
+    "iPhone は高い",
+    "機械学習は危険",
+    "適切な道具があれば、個人開発者でもプライベートで賢い機能を加えられる",
+    "大企業しか使えない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"even a solo developer can add impressive, private intelligence to an app.\""
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "rn019",
+ "author": "claude",
+ "summary_ja": "レース翌日の軽いジョグ（アクティブリカバリー）は人気だが、科学は複雑。昔は乳酸を流すと言われたが、乳酸は動いても休んでも約1時間で血液から除かれ、翌日の筋肉痛の主な原因でもない。それでも軽い運動は毛細血管への血流を増やし、栄養の運搬や他の老廃物の除去を助けるかもしれない。体の適応を促すシグナルという説もある。研究結果は混在し、本当に楽な強度が条件。",
+ "listening": [
+  {
+   "q": "アクティブリカバリーについての昔の説明は？",
+   "options": [
+    "乳酸を洗い流す",
+    "体重を減らす",
+    "筋肉を大きくする",
+    "心拍数を上げる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The traditional explanation was about lactic acid.\""
+  },
+  {
+   "q": "今分かっている乳酸の事実は？",
+   "options": [
+    "体に良い",
+    "何日も筋肉に残る",
+    "筋肉痛の唯一の原因",
+    "動いても休んでも約1時間ほどで血液から除かれ、翌日の筋肉痛の主な原因ではない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Lactate ... is mostly cleared from the blood within an hour or so after exercise, whether you move or rest. And it is not the main cause of next-day soreness.\""
+  },
+  {
+   "q": "アクティブリカバリーの条件として話されているのは？",
+   "options": [
+    "本当に楽な強度であること",
+    "坂を走ること",
+    "できるだけ長く走ること",
+    "速く走ること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Active recovery must be truly easy.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "きついレースの後、多くのランナーは翌日に軽いジョグに出かけます。",
+   "points_ja": "After a hard が続き、go for an easy が「ゴウフォラニーズィ」と聞こえます。"
+  },
+  {
+   "sentence": 3,
+   "ja": "人気がありますが、その裏にある科学は多くの人が思うより複雑です。",
+   "points_ja": "It is popular が続き、behind it is が「ビハインディティズ」と聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "さらに、多くのアスリートは、やさしく体を動かした後に単純に気分がよくなります。",
+   "points_ja": "In addition がつながり、feel better mentally after が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "アクティブリカバリーは危険",
+    "休みは不要",
+    "アクティブリカバリーの昔の説明は誤りで、効果は小さいが楽な強度なら役立つ可能性がある",
+    "乳酸は筋肉痛の原因"
+   ],
+   "answer": 2,
+   "explanation_ja": "昔の説明の誤り、考えられる効果、研究結果の混在、強度の大切さを説明しています。"
+  },
+  {
+   "q": "capillary perfusion の意味は？",
+   "options": [
+    "汗をかくこと",
+    "筋肉の最も細い血管を血液が流れること",
+    "呼吸すること",
+    "水を飲むこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"capillary perfusion, meaning blood moving through the smallest blood vessels in the muscles.\""
+  },
+  {
+   "q": "新しい考え方として紹介されているのは？",
+   "options": [
+    "運動は体を壊す",
+    "休むと体が弱くなる",
+    "軽い運動が体の適応と修復を促す細胞のシグナルとして働く",
+    "乳酸が体を治す"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Easy exercise may act as a cellular signal, encouraging the body to adapt and repair.\""
+  },
+  {
+   "q": "研究結果についての記述は？",
+   "options": [
+    "結果は混在していて、効果は小さいようだ",
+    "研究されていない",
+    "まったく効果がない",
+    "大きな効果が証明された"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"However, the research results are mixed. The benefits seem small\"。"
+  },
+  {
+   "q": "アクティブリカバリーが本当の練習になってしまうとどうなる？",
+   "options": [
+    "けがが治る",
+    "より早く回復する",
+    "疲労を減らすどころか増やす",
+    "速くなる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"If it becomes real training, it adds fatigue instead of reducing it.\""
+  }
+ ]
+}

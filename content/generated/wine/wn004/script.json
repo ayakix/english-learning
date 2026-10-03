@@ -1,0 +1,201 @@
+{
+ "id": "wn004",
+ "author": "claude",
+ "category": "wine",
+ "title": "Sun, Heat, and Alcohol in Warm Burgundy Vintages",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "sugar accumulation",
+  "acid drop",
+  "alcohol by volume"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Pinot Noir is a delicate grape. It loves a cool climate and a long, slow ripening season. So what happens when Burgundy has a very hot summer?"
+  },
+  {
+   "speaker": "A",
+   "text": "As grapes ripen, two important changes happen at the same time. Sugar accumulation increases, which means the grapes become sweeter. At the same time, the acid drops. The sharp acids in the grape slowly break down, especially in hot weather."
+  },
+  {
+   "speaker": "A",
+   "text": "In a cool year, these two changes stay in balance. In a hot year, sugar can rise very quickly while acidity falls. Winemakers then face a difficult choice. If they pick early, the grapes may have good acidity, but the skins and seeds may not be fully ripe. If they wait, the wine may become heavy."
+  },
+  {
+   "speaker": "A",
+   "text": "More sugar also means more alcohol. During fermentation, yeast turns sugar into alcohol. So hot vintages can produce wines with a higher alcohol by volume. That is the percentage of alcohol you see on the label. A Burgundy that is usually around thirteen percent may reach fourteen or more."
+  },
+  {
+   "speaker": "A",
+   "text": "In the glass, hot-year Pinot Noir often tastes riper and softer, with flavors of jam or dark cherries. Some people enjoy this generous style. Others miss the freshness that makes Burgundy special."
+  },
+  {
+   "speaker": "A",
+   "text": "As summers become warmer, many producers now pick earlier and look for cooler vineyard sites to protect that balance."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Pinot Noir is a delicate grape.",
+   "start": 0.0,
+   "end": 2.32,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It loves a cool climate and a long, slow ripening season.",
+   "start": 2.83,
+   "end": 6.99,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "So what happens when Burgundy has a very hot summer?",
+   "start": 7.9,
+   "end": 11.42,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "As grapes ripen, two important changes happen at the same time.",
+   "start": 11.94,
+   "end": 16.18,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Sugar accumulation increases, which means the grapes become sweeter.",
+   "start": 17.01,
+   "end": 21.09,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "At the same time, the acid drops.",
+   "start": 21.92,
+   "end": 24.4,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The sharp acids in the grape slowly break down, especially in hot weather.",
+   "start": 25.15,
+   "end": 29.95,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In a cool year, these two changes stay in balance.",
+   "start": 30.47,
+   "end": 33.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In a hot year, sugar can rise very quickly while acidity falls.",
+   "start": 34.34,
+   "end": 38.9,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Winemakers then face a difficult choice.",
+   "start": 39.73,
+   "end": 42.41,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If they pick early, the grapes may have good acidity, but the skins and seeds may not be fully ripe.",
+   "start": 42.96,
+   "end": 49.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If they wait, the wine may become heavy.",
+   "start": 49.87,
+   "end": 52.67,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "More sugar also means more alcohol.",
+   "start": 53.19,
+   "end": 55.91,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "During fermentation, yeast turns sugar into alcohol.",
+   "start": 56.74,
+   "end": 60.26,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So hot vintages can produce wines with a higher alcohol by volume.",
+   "start": 61.01,
+   "end": 65.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is the percentage of alcohol you see on the label.",
+   "start": 66.0,
+   "end": 68.72,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A Burgundy that is usually around thirteen percent may reach fourteen or more.",
+   "start": 69.55,
+   "end": 74.51,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In the glass, hot-year Pinot Noir often tastes riper and softer, with flavors of jam or dark cherries.",
+   "start": 75.03,
+   "end": 82.95,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people enjoy this generous style.",
+   "start": 83.38,
+   "end": 85.78,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Others miss the freshness that makes Burgundy special.",
+   "start": 86.33,
+   "end": 89.41,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "As summers become warmer, many producers now pick earlier and look for cooler vineyard sites to protect that balance.",
+   "start": 89.93,
+   "end": 97.29,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 223,
+ "duration": 97.2,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:47"
+}

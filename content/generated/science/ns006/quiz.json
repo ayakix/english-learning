@@ -1,0 +1,114 @@
+{
+ "id": "ns006",
+ "author": "claude",
+ "summary_ja": "渡り鳥が何千kmも迷わず飛ぶ仕組みはまだ完全には分かっていないが、複数の道具を使うことが分かっている。太陽をコンパスにし、時間による位置の変化を体内時計で補正する。夜に飛ぶ鳥は北極星の周りを回る星の並びを覚える。曇りの夜は地球の磁場を感じ取り、目の分子が磁場に反応して見えている可能性もある。海岸線や山、においも使う。キョクアジサシは北極と南極を毎年往復する。",
+ "listening": [
+  {
+   "q": "鳥が使う道具として話されていないものは？",
+   "options": [
+    "地球の磁場",
+    "星",
+    "太陽",
+    "人工衛星の電波"
+   ],
+   "answer": 3,
+   "explanation_ja": "太陽、星、磁場、目印、においが挙げられています。"
+  },
+  {
+   "q": "夜に飛ぶ鳥が星で北を知る方法は？",
+   "options": [
+    "星を数える",
+    "北極星の周りを回る星の並びを覚える",
+    "月を見る",
+    "一番明るい星を追う"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"young birds learn the pattern of stars rotating around the North Star. That fixed point tells them where north is.\""
+  },
+  {
+   "q": "最も遠くまで旅する鳥は？",
+   "options": [
+    "ハト",
+    "ツバメ",
+    "ペンギン",
+    "キョクアジサシ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The Arctic tern. It flies from the Arctic to the Antarctic and back every year.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "それは生物学の大きな謎の一つで、まだ完全には分かっていません。",
+   "points_ja": "one of the great mysteries of が続き、understand it が「アンダースタンディット」と聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "しかし太陽は空を移動するので、時間帯に合わせて補正する体内時計も必要です。",
+   "points_ja": "moves across the sky がつながり、time of day が「タイマヴデイ」と聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "鳥は海岸線や山などの目印も使い、においを使う鳥もいるかもしれません。",
+   "points_ja": "also use landmarks がつながり、coastlines and mountains の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "鳥の飼い方",
+    "渡り鳥が長い距離を迷わず飛ぶための複数の方法",
+    "北極の気候",
+    "飛行機の航法"
+   ],
+   "answer": 1,
+   "explanation_ja": "太陽、星、磁場、目印、においについて話しています。"
+  },
+  {
+   "q": "太陽をコンパスにするとき、体内時計が必要な理由は？",
+   "options": [
+    "眠らないため",
+    "雲が多いから",
+    "夜に飛ぶから",
+    "太陽は空を移動するので、時間帯で補正する必要があるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the sun moves across the sky, so they also need an internal clock to correct for the time of day.\""
+  },
+  {
+   "q": "星の使い方を示した実験はどこで行われた？",
+   "options": [
+    "研究室の暗室",
+    "山の上",
+    "海の上",
+    "プラネタリウム"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Experiments in planetariums showed that young birds learn the pattern of stars\"。"
+  },
+  {
+   "q": "磁場についての理論は？",
+   "options": [
+    "耳で聞く",
+    "羽で感じる",
+    "目の特別な分子が磁場に反応し、ある意味で見えているかもしれない",
+    "くちばしに磁石がある"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"special molecules in their eyes react to the magnetic field, so they might even see it in some way.\""
+  },
+  {
+   "q": "キョクアジサシが一生に飛ぶ距離のたとえは？",
+   "options": [
+    "日本からアメリカまで",
+    "月まで往復する旅の数回分",
+    "地球1周",
+    "100km"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"it may travel a distance equal to several trips to the moon and back.\""
+  }
+ ]
+}

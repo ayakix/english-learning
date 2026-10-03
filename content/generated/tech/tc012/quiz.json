@@ -1,0 +1,114 @@
+{
+ "id": "tc012",
+ "author": "claude",
+ "summary_ja": "個人開発でよくある失敗は、何でもイエスと言うこと。妥当に見える要望を一つずつ足すと、アプリが焦点を失い（フィーチャー・クリープ）、ボタンだらけで新規ユーザーが迷う（UX の肥大化）。B は全てのメッセージを読むが、要望を作業ではなく情報として扱い、本当の問題を考える。何人の役に立つか、主目的に合うか、作って保守する手間はどうかの3つで判断する。",
+ "listening": [
+  {
+   "q": "B が考える個人開発者の一番の失敗は？",
+   "options": [
+    "デザインを気にしすぎること",
+    "広告を出さないこと",
+    "何にでもイエスと言うこと",
+    "メールを読まないこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Honestly, saying yes to everything.\""
+  },
+  {
+   "q": "B は要望をどう扱う？",
+   "options": [
+    "すべてすぐに実装する",
+    "無視する",
+    "作業ではなく情報として扱い、本当の問題を考える",
+    "有料にする"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"I don't treat a request as a task. I treat it as information.\""
+  },
+  {
+   "q": "人気があっても B がノーと言うのはどんなアイデア？",
+   "options": [
+    "無料のもの",
+    "多くの人の役に立つもの",
+    "作るのが簡単なもの",
+    "アプリの主な目的に合わないもの"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"If an idea fails the second question, I say no, even if it's popular.\" 2つ目の質問は主目的に合うかどうかです。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "どの要望ももっともらしく聞こえるので、追加してしまいます。",
+   "points_ja": "Each request sounds の t は飲み込まれ、add it が「アディット」と聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "画面はボタンだらけで、新しいユーザーはどこから始めればいいか分かりません。",
+   "points_ja": "full of buttons が「フラヴボタンズ」、where to start の to は弱形です。"
+  },
+  {
+   "sentence": 26,
+   "ja": "でも、シンプルなアプリのほうが好きになってもらいやすく、保守もずっと楽です。",
+   "points_ja": "simple app is がつながり、easier to love の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ユーザーの要望は無視すべき",
+    "機能は多いほど良い",
+    "要望を何でも足さず、明確な基準で優先順位をつけて、アプリをシンプルに保つ",
+    "メールの返し方"
+   ],
+   "answer": 2,
+   "explanation_ja": "フィーチャー・クリープの問題と、B の判断基準を話しています。"
+  },
+  {
+   "q": "feature creep の意味は？",
+   "options": [
+    "バグが増えること",
+    "アプリが速くなること",
+    "機能がなくなること",
+    "新しい機能が少しずつ入り込み、アプリが焦点を失うこと"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"New features slowly creep in, one by one, until the app loses its focus.\""
+  },
+  {
+   "q": "UX bloat の結果として話されているのは？",
+   "options": [
+    "アプリが軽くなる",
+    "画面がボタンだらけで、新規ユーザーが迷う",
+    "広告が増える",
+    "色が増える"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The screen is full of buttons, and new users don't know where to start.\""
+  },
+  {
+   "q": "B の3つの質問に含まれないものは？",
+   "options": [
+    "作って保守する手間はどうか",
+    "アプリの主な目的に合うか",
+    "何人のユーザーに役立つか",
+    "競合が持っているか"
+   ],
+   "answer": 3,
+   "explanation_ja": "3つの質問に競合は含まれていません。"
+  },
+  {
+   "q": "\"a simple app is easier to love\" の理由として推測できることは？",
+   "options": [
+    "何をするアプリかが分かりやすく、使いやすいから",
+    "色が少ないから",
+    "安いから",
+    "広告がないから"
+   ],
+   "answer": 0,
+   "explanation_ja": "焦点がはっきりしたシンプルなアプリのほうが、ユーザーが価値を感じやすいという意味です。"
+  }
+ ]
+}

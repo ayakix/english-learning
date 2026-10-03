@@ -1,0 +1,201 @@
+{
+ "id": "pa007",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Picky Eaters and How Tastes Develop",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "picky eater",
+  "exposure",
+  "taste buds"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many parents worry when their child refuses vegetables or eats only a few favorite foods. Picky eating is very common, especially between the ages of two and six. Understanding why it happens can make mealtimes less stressful."
+  },
+  {
+   "speaker": "A",
+   "text": "One reason is called food neophobia, a fear of new foods. Scientists think it may have protected young children in the past. A child who started walking and exploring might put dangerous plants in their mouth. A natural fear of unfamiliar food helped keep them safe."
+  },
+  {
+   "speaker": "A",
+   "text": "Children's taste buds are also different from adults'. Many children are more sensitive to bitter flavors, which are common in vegetables like broccoli and spinach. Sweet foods, on the other hand, are naturally attractive."
+  },
+  {
+   "speaker": "A",
+   "text": "The good news is that tastes can change through exposure. Exposure means experiencing something again and again. Research suggests that a child may need to try a new food many times, sometimes ten or fifteen times, before accepting it. Even just seeing and touching the food can help."
+  },
+  {
+   "speaker": "A",
+   "text": "So what can parents do? Offer small amounts of new foods together with familiar ones. Eat the same foods yourself and show that you enjoy them. Let children help with shopping or cooking. And avoid forcing or bribing, because pressure often makes children resist even more."
+  },
+  {
+   "speaker": "A",
+   "text": "Most picky eaters gradually expand their diet. Patience is often the most important ingredient."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many parents worry when their child refuses vegetables or eats only a few favorite foods.",
+   "start": 0.0,
+   "end": 6.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Picky eating is very common, especially between the ages of two and six.",
+   "start": 6.91,
+   "end": 12.07,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Understanding why it happens can make mealtimes less stressful.",
+   "start": 12.7,
+   "end": 16.78,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One reason is called food neophobia, a fear of new foods.",
+   "start": 17.3,
+   "end": 22.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists think it may have protected young children in the past.",
+   "start": 23.33,
+   "end": 27.33,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A child who started walking and exploring might put dangerous plants in their mouth.",
+   "start": 27.76,
+   "end": 32.88,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A natural fear of unfamiliar food helped keep them safe.",
+   "start": 33.31,
+   "end": 37.31,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Children's taste buds are also different from adults'.",
+   "start": 37.83,
+   "end": 41.19,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many children are more sensitive to bitter flavors, which are common in vegetables like broccoli and spinach.",
+   "start": 41.86,
+   "end": 48.58,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Sweet foods, on the other hand, are naturally attractive.",
+   "start": 49.09,
+   "end": 52.45,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The good news is that tastes can change through exposure.",
+   "start": 52.97,
+   "end": 57.05,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Exposure means experiencing something again and again.",
+   "start": 57.48,
+   "end": 61.72,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Research suggests that a child may need to try a new food many times, sometimes ten or fifteen times, before accepting it.",
+   "start": 62.15,
+   "end": 70.63,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Even just seeing and touching the food can help.",
+   "start": 71.06,
+   "end": 74.18,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So what can parents do?",
+   "start": 74.7,
+   "end": 76.66,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Offer small amounts of new foods together with familiar ones.",
+   "start": 77.29,
+   "end": 81.21,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Eat the same foods yourself and show that you enjoy them.",
+   "start": 81.8,
+   "end": 85.16,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Let children help with shopping or cooking.",
+   "start": 85.75,
+   "end": 88.23,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "And avoid forcing or bribing, because pressure often makes children resist even more.",
+   "start": 88.82,
+   "end": 94.9,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Most picky eaters gradually expand their diet.",
+   "start": 95.42,
+   "end": 99.1,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Patience is often the most important ingredient.",
+   "start": 99.61,
+   "end": 102.65,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 225,
+ "duration": 102.6,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:57"
+}

@@ -1,0 +1,243 @@
+{
+ "id": "pa003",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Screen Time: What Research Says",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "screen time",
+  "co-viewing",
+  "passive watching"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Parents often feel guilty about screen time. How much is too much?"
+  },
+  {
+   "speaker": "B",
+   "text": "There's no single perfect number, but there are some guidelines. Many pediatric organizations suggest avoiding screens for babies under about eighteen months, except for video calls with family. For children aged two to five, they often recommend around one hour a day of high-quality content."
+  },
+  {
+   "speaker": "A",
+   "text": "Does the type of content matter?"
+  },
+  {
+   "speaker": "B",
+   "text": "A lot. Research suggests that what children watch and how they watch it can matter as much as how long. A slow, educational program is very different from fast videos that autoplay one after another."
+  },
+  {
+   "speaker": "A",
+   "text": "What do you mean by how they watch?"
+  },
+  {
+   "speaker": "B",
+   "text": "One important idea is co-viewing. That means a parent watches together with the child and talks about it. 'Why do you think he's sad?' or 'Can you count the ducks?' That turns passive watching into a learning conversation."
+  },
+  {
+   "speaker": "A",
+   "text": "So passive watching is the problem?"
+  },
+  {
+   "speaker": "B",
+   "text": "Mostly, yes. When children just stare at a screen alone for long periods, they miss other activities, like playing, talking and moving their bodies. It can also affect sleep, especially in the evening."
+  },
+  {
+   "speaker": "A",
+   "text": "Any practical advice for busy parents?"
+  },
+  {
+   "speaker": "B",
+   "text": "Be realistic. Sometimes you need twenty minutes to cook dinner, and that's fine. Choose good content, avoid screens during meals and before bed, and keep devices out of the bedroom. Small habits make a big difference."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Parents often feel guilty about screen time.",
+   "start": 0.0,
+   "end": 2.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How much is too much?",
+   "start": 3.47,
+   "end": 5.23,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "There's no single perfect number, but there are some guidelines.",
+   "start": 5.95,
+   "end": 10.15,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Many pediatric organizations suggest avoiding screens for babies under about eighteen months, except for video calls with family.",
+   "start": 10.78,
+   "end": 18.66,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "For children aged two to five, they often recommend around one hour a day of high-quality content.",
+   "start": 19.29,
+   "end": 25.69,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Does the type of content matter?",
+   "start": 26.41,
+   "end": 28.65,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A lot.",
+   "start": 29.37,
+   "end": 30.17,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Research suggests that what children watch and how they watch it can matter as much as how long.",
+   "start": 30.6,
+   "end": 36.92,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "A slow, educational program is very different from fast videos that autoplay one after another.",
+   "start": 37.75,
+   "end": 44.47,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What do you mean by how they watch?",
+   "start": 45.19,
+   "end": 47.99,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "One important idea is co-viewing.",
+   "start": 48.71,
+   "end": 51.51,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That means a parent watches together with the child and talks about it.",
+   "start": 51.94,
+   "end": 56.26,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "'Why do you think he's sad?'",
+   "start": 56.663,
+   "end": 58.37,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "or 'Can you count the ducks?'",
+   "start": 58.84,
+   "end": 60.96,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That turns passive watching into a learning conversation.",
+   "start": 61.39,
+   "end": 64.91,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So passive watching is the problem?",
+   "start": 65.63,
+   "end": 68.11,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Mostly, yes.",
+   "start": 68.83,
+   "end": 70.51,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "When children just stare at a screen alone for long periods, they miss other activities, like playing, talking and moving their bodies.",
+   "start": 71.1,
+   "end": 79.82,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It can also affect sleep, especially in the evening.",
+   "start": 80.25,
+   "end": 83.69,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Any practical advice for busy parents?",
+   "start": 84.41,
+   "end": 87.21,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Be realistic.",
+   "start": 87.93,
+   "end": 88.97,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Sometimes you need twenty minutes to cook dinner, and that's fine.",
+   "start": 89.4,
+   "end": 93.88,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Choose good content, avoid screens during meals and before bed, and keep devices out of the bedroom.",
+   "start": 94.55,
+   "end": 101.15,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Small habits make a big difference.",
+   "start": 101.78,
+   "end": 104.34,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 225,
+ "duration": 104.3,
+ "wpm": 129,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-03 23:57"
+}

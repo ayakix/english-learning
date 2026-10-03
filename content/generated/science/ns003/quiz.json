@@ -1,0 +1,114 @@
+{
+ "id": "ns003",
+ "author": "claude",
+ "summary_ja": "季節は地球が太陽に近いか遠いかで決まるのではない（地球が太陽に最も近いのは1月上旬で、日本は冬）。本当の理由は地軸の約23.5度の傾き。公転中も傾きの向きは変わらないので、北半球が太陽に傾く時期と離れる時期がある。太陽に傾くと太陽が高く、光が地面に直接当たってエネルギーが集中し、昼も長いので夏になる。日本が夏のときオーストラリアは冬。",
+ "listening": [
+  {
+   "q": "季節の本当の理由は？",
+   "options": [
+    "地軸の傾き",
+    "月の位置",
+    "太陽との距離",
+    "海の温度"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The real reason for the seasons is the tilt of the Earth's axis.\""
+  },
+  {
+   "q": "地球が太陽に最も近いのはいつ？",
+   "options": [
+    "7月",
+    "4月",
+    "1月上旬",
+    "10月"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the Earth is closest to the sun in early January, during winter in Japan.\""
+  },
+  {
+   "q": "日本が夏のとき、オーストラリアは？",
+   "options": [
+    "夏",
+    "冬",
+    "秋",
+    "春"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That is why, when Japan is enjoying summer, Australia is in winter.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "理にかなっているように聞こえますが、正しくありません。",
+   "points_ja": "sounds logical がつながり、it is not correct が続けて聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "この地軸は約23.5度傾いています。",
+   "points_ja": "axis is tilted がつながり、twenty-three and a half が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "6か月後、あなたのいる半球は太陽から離れる向きに傾きます。",
+   "points_ja": "Six months later がつながり、leans away が「リーンザウェイ」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "季節は太陽との距離で決まる",
+    "季節は世界中で同じ",
+    "季節は太陽との距離ではなく、地軸の傾きによって生まれる",
+    "地球は傾いていない"
+   ],
+   "answer": 2,
+   "explanation_ja": "よくある誤解と、地軸の傾きによる説明をしています。"
+  },
+  {
+   "q": "axis の説明は？",
+   "options": [
+    "赤道",
+    "北極と南極を通る、地球が回る想像上の線",
+    "地球の外側",
+    "太陽の通り道"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The axis is an imaginary line through the North and South Poles, around which the Earth spins.\""
+  },
+  {
+   "q": "hemisphere の意味は？",
+   "options": [
+    "地球の半分",
+    "地球の中心",
+    "太陽の半分",
+    "空の半分"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A hemisphere is half of the Earth.\""
+  },
+  {
+   "q": "夏に暑くなる理由として書かれているのは？",
+   "options": [
+    "風が吹かないから",
+    "雨が少ないから",
+    "太陽に近いから",
+    "太陽が高く、光が直接当たってエネルギーが集中し、昼も長いから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the sun rises higher in the sky ... The energy is concentrated ... Second, days are longer\"。"
+  },
+  {
+   "q": "冬の特徴として書かれているのは？",
+   "options": [
+    "太陽が低く、光が広がり、昼が短い",
+    "昼が長い",
+    "太陽が見えない",
+    "太陽が高い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The sun stays low, its light is spread out, and the days are short.\""
+  }
+ ]
+}

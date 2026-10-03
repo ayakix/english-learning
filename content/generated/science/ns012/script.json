@@ -1,0 +1,212 @@
+{
+ "id": "ns012",
+ "author": "claude",
+ "category": "science",
+ "title": "Where Clouds and Rain Come From",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "water cycle",
+  "evaporation",
+  "condensation"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "The water you drink today may once have been part of a cloud, an ocean or even a glacier. Water on Earth is always moving, changing form and returning again. This endless journey is called the water cycle."
+  },
+  {
+   "speaker": "A",
+   "text": "It begins with the sun. Heat from the sun warms oceans, lakes and rivers, and some of the water turns into an invisible gas called water vapor. This process is called evaporation. Plants also release water vapor through their leaves."
+  },
+  {
+   "speaker": "A",
+   "text": "Warm, moist air rises. As it goes higher, it cools. Cold air cannot hold as much water vapor, so the vapor turns back into tiny liquid droplets. This is called condensation. The droplets form around very small particles in the air, such as dust, salt from the sea or smoke."
+  },
+  {
+   "speaker": "A",
+   "text": "Billions of these droplets together make a cloud. At first, they are so small and light that they float in the air."
+  },
+  {
+   "speaker": "A",
+   "text": "Inside the cloud, droplets bump into each other and join together. Slowly, they become larger and heavier. When they are too heavy to stay in the air, they fall as rain. If the air is cold enough, they fall as snow or hail."
+  },
+  {
+   "speaker": "A",
+   "text": "Some of this water flows into rivers and back to the sea. Some soaks into the ground and becomes groundwater. Then the sun warms it again, and the journey continues."
+  },
+  {
+   "speaker": "A",
+   "text": "So every rainy day is just one chapter in a story that has been going on for billions of years."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "The water you drink today may once have been part of a cloud, an ocean or even a glacier.",
+   "start": 0.0,
+   "end": 5.92,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Water on Earth is always moving, changing form and returning again.",
+   "start": 6.35,
+   "end": 10.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This endless journey is called the water cycle.",
+   "start": 11.18,
+   "end": 13.74,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It begins with the sun.",
+   "start": 14.26,
+   "end": 15.98,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Heat from the sun warms oceans, lakes and rivers, and some of the water turns into an invisible gas called water vapor.",
+   "start": 16.61,
+   "end": 24.13,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This process is called evaporation.",
+   "start": 24.6,
+   "end": 27.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Plants also release water vapor through their leaves.",
+   "start": 27.47,
+   "end": 30.27,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Warm, moist air rises.",
+   "start": 30.79,
+   "end": 32.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "As it goes higher, it cools.",
+   "start": 33.5,
+   "end": 35.74,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Cold air cannot hold as much water vapor, so the vapor turns back into tiny liquid droplets.",
+   "start": 36.37,
+   "end": 41.89,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called condensation.",
+   "start": 42.48,
+   "end": 44.16,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The droplets form around very small particles in the air, such as dust, salt from the sea or smoke.",
+   "start": 45.07,
+   "end": 51.15,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Billions of these droplets together make a cloud.",
+   "start": 51.67,
+   "end": 54.95,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "At first, they are so small and light that they float in the air.",
+   "start": 55.38,
+   "end": 59.14,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Inside the cloud, droplets bump into each other and join together.",
+   "start": 59.66,
+   "end": 64.06,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Slowly, they become larger and heavier.",
+   "start": 64.57,
+   "end": 67.21,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When they are too heavy to stay in the air, they fall as rain.",
+   "start": 67.64,
+   "end": 71.16,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If the air is cold enough, they fall as snow or hail.",
+   "start": 71.59,
+   "end": 74.71,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some of this water flows into rivers and back to the sea.",
+   "start": 75.23,
+   "end": 78.35,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Some soaks into the ground and becomes groundwater.",
+   "start": 79.26,
+   "end": 82.06,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Then the sun warms it again, and the journey continues.",
+   "start": 82.89,
+   "end": 86.17,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "So every rainy day is just one chapter in a story that has been going on for billions of years.",
+   "start": 86.69,
+   "end": 93.09,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 243,
+ "duration": 93.0,
+ "wpm": 157,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-04 00:00"
+}

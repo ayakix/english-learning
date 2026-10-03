@@ -1,0 +1,114 @@
+{
+ "id": "wt011",
+ "author": "claude",
+ "summary_ja": "スケルトン（オープンワーク）時計は、機械を動かしたまま地板や受けの金属をできるだけ削り、中が透けて見えるようにしたもの。削りすぎると強度が落ちて動かなくなる。新しくできた縁もすべて仕上げが必要。好みは分かれるが、職人の技がよく分かる。",
+ "listening": [
+  {
+   "q": "スケルトン時計とはどんな時計？",
+   "options": [
+    "電池で動く時計",
+    "針がない時計",
+    "文字盤から中の機械が透けて見える時計",
+    "骨の形をした時計"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Some watches let you see straight through the dial ... These are called openworked, or skeletonized, watches.\""
+  },
+  {
+   "q": "金属を削りすぎるとどうなる？",
+   "options": [
+    "強度が落ちて、わずかに曲がり、止まることがある",
+    "光らなくなる",
+    "音が大きくなる",
+    "重くなる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If you remove too much, the movement loses its structural rigidity ... Even a tiny bend can stop a watch.\""
+  },
+  {
+   "q": "スケルトン時計に対する意見として話されているのは？",
+   "options": [
+    "子ども向けである",
+    "誰もが嫌っている",
+    "ごちゃごちゃして読みにくいと思う人もいれば、動く彫刻として愛する人もいる",
+    "最も正確な時計である"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Some people think skeleton watches are too busy and hard to read. Others love them as moving sculpture.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 5,
+   "ja": "残るのは、空気と光に満ちた繊細な構造です。",
+   "points_ja": "What remains の t はほとんど聞こえず、full of air が「フラヴェア」とつながります。"
+  },
+  {
+   "sentence": 12,
+   "ja": "切り抜いた後には、さらに多くの作業があります。",
+   "points_ja": "After the の the は弱く、there is が「ゼアリズ」とつながります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "見える表面がとても多いので、1つの傷でもすぐ目に入ります。",
+   "points_ja": "there is so が続けて聞こえ、easy to see の to は「タ」と弱くなります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "時計の金属は多いほどよい",
+    "スケルトン時計は安い",
+    "スケルトン加工は強度とのバランスが難しく、手間のかかる技術である",
+    "スケルトン時計は読みやすい"
+   ],
+   "answer": 2,
+   "explanation_ja": "削る量と強度のバランス、仕上げの手間について説明しています。"
+  },
+  {
+   "q": "structural rigidity の意味に近いのは？",
+   "options": [
+    "時計の重さ",
+    "部品の色",
+    "構造の硬さ・強さ",
+    "表面のつや"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"In other words, it becomes too weak and may bend slightly.\" と言い換えています。"
+  },
+  {
+   "q": "金属の部分が持つ役割として書かれているのは？",
+   "options": [
+    "歯車を固定し、正しい距離に保つ",
+    "音を出す",
+    "時刻を表示する",
+    "時計を光らせる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It holds wheels in place and keeps them at the right distance.\""
+  },
+  {
+   "q": "最高級のスケルトン時計の仕上げとして書かれていないものは？",
+   "options": [
+    "面取り",
+    "彫刻",
+    "研磨",
+    "塗装"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"beveled and polished, and sometimes engraved\" で、塗装はありません。"
+  },
+  {
+   "q": "最後の文から分かることは？",
+   "options": [
+    "スケルトン時計は作るのが簡単だ",
+    "よくできたスケルトン時計は、普通の機械に隠れた技を見せてくれる",
+    "スケルトン時計は普通の時計より正確だ",
+    "普通の時計には技術がない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a well-made openworked watch shows how much skill hides inside an ordinary movement.\""
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "pa001",
+ "author": "claude",
+ "summary_ja": "2歳前後の子どもは「イヤ」をよく言う。これは自分で決めたい気持ち（自律性）の芽生えで、自分は別の人間で自分の考えがあると理解し始めている。大人が決めることばかりなので小さな争いが大切に感じられる。親は押し合いの「力の争い」に陥りがち。「着替える？」ではなく「赤と青どっちのシャツ？」と簡単な選択肢を与えるとよい。強いノーは安全など大事なことにとっておく。",
+ "listening": [
+  {
+   "q": "子どもがイヤとよく言う理由として話されているのは？",
+   "options": [
+    "自分で決めたいという自律性が芽生えているから",
+    "病気だから",
+    "親が嫌いだから",
+    "眠いから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Psychologists explain that toddlers are discovering autonomy.\""
+  },
+  {
+   "q": "話し手が勧める方法は？",
+   "options": [
+    "大きな声で叱る",
+    "無視する",
+    "何でも言うことを聞く",
+    "簡単な選択肢を与える"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"One helpful strategy is to offer simple choices.\""
+  },
+  {
+   "q": "強い「ダメ」をとっておくべき場面は？",
+   "options": [
+    "安全など本当に大事なこと",
+    "毎回の食事",
+    "遊びの時間",
+    "服の色"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It also helps to save your firm no for things that really matter, like safety.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 7,
+   "ja": "親にとって、この時期はとても疲れることがあります。",
+   "points_ja": "this stage can be が続き、exhausting の x は「グズ」に近く聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "大人が、いつ食べるか、寝るか、公園を出るかを決めます。",
+   "points_ja": "decide when they eat がつながり、sleep and leave の and は「ン」です。"
+  },
+  {
+   "sentence": 22,
+   "ja": "子どもは結局着替えますが、自分で決めていると感じます。",
+   "points_ja": "still gets dressed がつながり、feels in control が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "イヤイヤ期は発達の大切な一歩で、選択肢を与える接し方が役立つ",
+    "子どもの意見は聞かなくてよい",
+    "イヤイヤ期は一生続く",
+    "子どもは叱るべき"
+   ],
+   "answer": 0,
+   "explanation_ja": "自律性の芽生えと、親の接し方を説明しています。"
+  },
+  {
+   "q": "autonomy の意味は？",
+   "options": [
+    "自分で選び、自分で行動する力",
+    "友だちと遊ぶこと",
+    "親に従うこと",
+    "言葉を話すこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Autonomy means the ability to make your own choices and act on your own.\""
+  },
+  {
+   "q": "小さな争いが子どもにとって大切に感じられる理由は？",
+   "options": [
+    "退屈だから",
+    "大人をまねているから",
+    "自分でコントロールできることがとても少ないから",
+    "争うのが好きだから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Toddlers also want control, but they have very little of it.\""
+  },
+  {
+   "q": "power struggle とは？",
+   "options": [
+    "電力の不足",
+    "体力の比べ合い",
+    "スポーツの試合",
+    "両者が押し合い、どちらも譲らない状況"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That is a situation where both sides keep pushing, and nobody wants to give up.\""
+  },
+  {
+   "q": "最後の文が伝えていることは？",
+   "options": [
+    "今イヤと言える子は、自信のある人へと育っていく",
+    "イヤと言う子は問題がある",
+    "親は我慢すべき",
+    "この時期は戻らない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A child who can say no today is learning to become a confident person tomorrow.\""
+  }
+ ]
+}

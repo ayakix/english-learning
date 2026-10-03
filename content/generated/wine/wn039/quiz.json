@@ -1,0 +1,114 @@
+{
+ "id": "wn039",
+ "author": "claude",
+ "summary_ja": "ブラインドテイスティングは魔法ではなく演繹的な推理。色調から始め、淡い赤ならピノ・ノワール、黒に近ければシラーやカベルネと推測。香りでは赤い果実か黒い果実か、樽や土の香りを見る。口では酸・タンニン・アルコール・ボディの構造で判断する。手がかりを組み合わせて論理的に結論を出し、間違えたときに一番学べる。",
+ "listening": [
+  {
+   "q": "ブラインドテイスティングで使う考え方は？",
+   "options": [
+    "勘で当てる",
+    "ラベルを見る",
+    "手がかりを集めてありえない答えを消していく推理",
+    "値段で判断する"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It's not magic. It's deductive tasting. You collect clues step by step and slowly remove the impossible answers.\""
+  },
+  {
+   "q": "淡く明るい赤色から推測される品種は？",
+   "options": [
+    "シラー",
+    "カベルネ・ソーヴィニヨン",
+    "メルロー",
+    "ピノ・ノワール"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A pale, light red might suggest a thin-skinned grape like Pinot Noir.\""
+  },
+  {
+   "q": "B によると、一番学べるのはどんなとき？",
+   "options": [
+    "間違えたとき",
+    "一人で飲んだとき",
+    "高いワインを飲んだとき",
+    "正解したとき"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"And when you're wrong, you learn the most.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "手がかりを一つずつ集めて、ありえない答えを少しずつ消していきます。",
+   "points_ja": "step by step が一続きに聞こえ、remove the impossible の the は「ジ」に近くなります。"
+  },
+  {
+   "sentence": 9,
+   "ja": "濃くほとんど黒い色なら、シラーかカベルネ・ソーヴィニヨンを示しているかもしれません。",
+   "points_ja": "could point to の d と t が飲み込まれ、Syrah or が続けて聞こえます。"
+  },
+  {
+   "sentence": 24,
+   "ja": "百パーセント確信がなくても、論理的な結論を出します。",
+   "points_ja": "make a logical が「メイカロジカル」、even if you're が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ワインの値段の当て方",
+    "ブドウの育て方",
+    "ワインの保存方法",
+    "色・香り・構造の手がかりを論理的に組み合わせて品種や産地を推理する方法"
+   ],
+   "answer": 3,
+   "explanation_ja": "演繹的テイスティングの手順を説明しています。"
+  },
+  {
+   "q": "香りで、赤い果実と黒い果実の違いが示すことは？",
+   "options": [
+    "ワインの年齢だけ",
+    "ワインの値段",
+    "何も示さない",
+    "それぞれ違うグループのブドウを示す"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Red fruits like cherry suggest one group of grapes, black fruits like blackcurrant suggest another.\""
+  },
+  {
+   "q": "structural markers として挙げられているのは？",
+   "options": [
+    "酸、タンニン、アルコール、ボディ",
+    "色、ラベル、値段",
+    "香り、温度、産地",
+    "瓶、コルク、グラス"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Acidity, tannin, alcohol and body.\""
+  },
+  {
+   "q": "高い酸と細かいタンニンと赤い果実から推測されるのは？",
+   "options": [
+    "冷涼な気候",
+    "甘口ワイン",
+    "暑い気候",
+    "古いワイン"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"high acidity and fine tannins with red fruit often suggest a cool climate.\""
+  },
+  {
+   "q": "会話の例（淡い色、高い酸、赤い果実、土の香り、軽いタンニン）の結論は？",
+   "options": [
+    "冷涼な地域のピノ・ノワール、たぶんブルゴーニュ",
+    "暑い地域のシラー",
+    "ボルドーのカベルネ",
+    "日本の甲州"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That points toward Pinot Noir from a cool region, maybe Burgundy.\""
+  }
+ ]
+}

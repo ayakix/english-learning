@@ -1,0 +1,258 @@
+{
+ "id": "fi019",
+ "author": "claude",
+ "category": "finance",
+ "title": "Planning for Retirement",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "retirement",
+  "withdrawal rate",
+  "4% rule"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "How much money do people need to retire comfortably? It feels impossible to answer."
+  },
+  {
+   "speaker": "B",
+   "text": "It's a difficult question, but there's a popular rule of thumb that helps people start thinking about it. It's called the four percent rule."
+  },
+  {
+   "speaker": "A",
+   "text": "How does it work?"
+  },
+  {
+   "speaker": "B",
+   "text": "The idea is that in your first year of retirement, you withdraw four percent of your savings. After that, you increase the amount each year to keep up with inflation. Research based on US market history found that this withdrawal rate usually lasted at least thirty years."
+  },
+  {
+   "speaker": "A",
+   "text": "So if I want two million yen a year, I need..."
+  },
+  {
+   "speaker": "B",
+   "text": "Twenty-five times that. Fifty million yen. Dividing by four percent is the same as multiplying by twenty-five."
+  },
+  {
+   "speaker": "A",
+   "text": "That's a lot. Is the rule reliable?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's a useful starting point, but it has limits. It's based mainly on past American markets. Future returns could be lower. And people are living longer, so thirty years might not be enough, especially in Japan."
+  },
+  {
+   "speaker": "A",
+   "text": "So some people use a lower rate?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, some people plan for three or three and a half percent to be safer. Others stay flexible, spending a bit less in years when markets fall."
+  },
+  {
+   "speaker": "A",
+   "text": "What else should people consider?"
+  },
+  {
+   "speaker": "B",
+   "text": "Public pensions, health costs and whether you want to work part-time. Retirement planning isn't one number. It's a plan that you adjust over time."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "How much money do people need to retire comfortably?",
+   "start": 0.0,
+   "end": 3.6,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It feels impossible to answer.",
+   "start": 4.03,
+   "end": 6.11,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's a difficult question, but there's a popular rule of thumb that helps people start thinking about it.",
+   "start": 6.83,
+   "end": 12.75,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's called the four percent rule.",
+   "start": 13.34,
+   "end": 15.66,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How does it work?",
+   "start": 16.38,
+   "end": 17.66,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The idea is that in your first year of retirement, you withdraw four percent of your savings.",
+   "start": 18.46,
+   "end": 24.46,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "After that, you increase the amount each year to keep up with inflation.",
+   "start": 24.97,
+   "end": 29.45,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Research based on US market history found that this withdrawal rate usually lasted at least thirty years.",
+   "start": 30.04,
+   "end": 36.6,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So if I want two million yen a year, I need...",
+   "start": 37.32,
+   "end": 41.24,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Twenty-five times that.",
+   "start": 41.96,
+   "end": 44.04,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Fifty million yen.",
+   "start": 44.47,
+   "end": 46.15,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Dividing by four percent is the same as multiplying by twenty-five.",
+   "start": 46.82,
+   "end": 51.22,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's a lot.",
+   "start": 51.94,
+   "end": 52.98,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Is the rule reliable?",
+   "start": 53.73,
+   "end": 55.33,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It's a useful starting point, but it has limits.",
+   "start": 56.05,
+   "end": 59.49,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It's based mainly on past American markets.",
+   "start": 60.08,
+   "end": 63.08,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Future returns could be lower.",
+   "start": 63.63,
+   "end": 65.39,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And people are living longer, so thirty years might not be enough, especially in Japan.",
+   "start": 66.14,
+   "end": 72.3,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So some people use a lower rate?",
+   "start": 73.02,
+   "end": 75.42,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes, some people plan for three or three and a half percent to be safer.",
+   "start": 76.14,
+   "end": 81.18,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Others stay flexible, spending a bit less in years when markets fall.",
+   "start": 81.61,
+   "end": 86.01,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "What else should people consider?",
+   "start": 86.73,
+   "end": 88.73,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Public pensions, health costs and whether you want to work part-time.",
+   "start": 89.53,
+   "end": 94.29,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Retirement planning isn't one number.",
+   "start": 94.92,
+   "end": 97.36,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a plan that you adjust over time.",
+   "start": 97.91,
+   "end": 100.47,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 223,
+ "duration": 100.4,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-04 00:03"
+}

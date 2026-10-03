@@ -1,0 +1,114 @@
+{
+ "id": "ns011",
+ "author": "claude",
+ "summary_ja": "夏の夜のホタルの光は、生き物が光を出す「生物発光」。体の下の方の特別な細胞で、ルシフェリンが酵素ルシフェラーゼの助けで酸素と結びつき、エネルギーを光として出す。電球と違いほぼすべてを光にするので熱くならない「冷たい光」。光るのは主に相手を見つけるためで、種ごとに光り方の暗号がある。別の種の光り方をまねてオスを呼び寄せて食べるメスもいる。",
+ "listening": [
+  {
+   "q": "ホタルが光る主な目的は？",
+   "options": [
+    "相手を見つけるため",
+    "体を温めるため",
+    "敵を驚かすため",
+    "道を照らすため"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Mainly to find a partner.\""
+  },
+  {
+   "q": "ホタルの光が「冷たい光」と呼ばれる理由は？",
+   "options": [
+    "青い光だから",
+    "エネルギーのほぼすべてを光にして、熱くならないから",
+    "冬に光るから",
+    "冷たい場所で光るから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Fireflies, however, turn almost all of the energy into light, so their bodies do not get hot.\""
+  },
+  {
+   "q": "一部のメスがする「暗い」使い方は？",
+   "options": [
+    "光を消して隠れる",
+    "他のメスを追い払う",
+    "卵を守る",
+    "別の種の光り方をまね、近づいたオスを食べる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"females copy the flash patterns of another species. When a male of that species comes closer ... she eats him.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "暖かい夏の夜、ホタルは小さな点滅する光で暗闇を満たします。",
+   "points_ja": "On a warm summer night が続き、fill the darkness with が続けて聞こえます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "その反応はエネルギーを光の形で放出します。",
+   "points_ja": "releases energy in the form of light が一続きに聞こえ、form of が「フォーマヴ」になります。"
+  },
+  {
+   "sentence": 17,
+   "ja": "オスは飛びながら光り、メスは草むらから応えます。",
+   "points_ja": "fly and flash の and は「ン」、answer from the grass が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ホタルは昼に光る",
+    "ホタルは化学反応で効率よく光を作り、光で仲間と交信している",
+    "ホタルの光は熱い",
+    "ホタルは電気で光る"
+   ],
+   "answer": 1,
+   "explanation_ja": "生物発光の仕組み、冷たい光、光の目的を説明しています。"
+  },
+  {
+   "q": "bioluminescence の意味は？",
+   "options": [
+    "太陽の光",
+    "光を反射すること",
+    "生き物が光を作り出す能力",
+    "電気の光"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The ability of living things to produce light is called bioluminescence.\""
+  },
+  {
+   "q": "enzyme の説明は？",
+   "options": [
+    "ホタルの羽",
+    "光る石",
+    "化学反応を速める天然の分子",
+    "栄養"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"An enzyme is a natural molecule that speeds up chemical reactions.\""
+  },
+  {
+   "q": "生物発光をする生き物として挙げられていないものは？",
+   "options": [
+    "クラゲ",
+    "キノコ",
+    "ネコ",
+    "一部の魚"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"including some fish, jellyfish and mushrooms.\""
+  },
+  {
+   "q": "種ごとの光り方は何にたとえられている？",
+   "options": [
+    "時計",
+    "地図",
+    "秘密の暗号",
+    "音楽"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Each species has its own pattern of flashes, a bit like a secret code.\""
+  }
+ ]
+}

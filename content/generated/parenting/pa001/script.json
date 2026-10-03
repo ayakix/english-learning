@@ -1,0 +1,236 @@
+{
+ "id": "pa001",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Why Toddlers Say \"No\" So Often",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "autonomy",
+  "toddler",
+  "power struggle"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Around the age of two, many children discover a powerful new word: no. Do you want to put on your shoes? No. Time for a bath? No. Even, Do you want ice cream? Sometimes, no. For parents, this stage can be exhausting. But it is also an important step in development."
+  },
+  {
+   "speaker": "A",
+   "text": "Psychologists explain that toddlers are discovering autonomy. Autonomy means the ability to make your own choices and act on your own. A toddler is starting to understand, I am a separate person, and I have my own ideas. Saying no is one of the easiest ways to test that idea."
+  },
+  {
+   "speaker": "A",
+   "text": "Toddlers also want control, but they have very little of it. Adults decide when they eat, sleep and leave the park. So small battles can feel very important to them."
+  },
+  {
+   "speaker": "A",
+   "text": "Parents often fall into a power struggle. That is a situation where both sides keep pushing, and nobody wants to give up. The parent gets angrier, and the child gets louder."
+  },
+  {
+   "speaker": "A",
+   "text": "One helpful strategy is to offer simple choices. Instead of asking, Do you want to get dressed? try, Do you want the red shirt or the blue shirt? The child still gets dressed, but feels in control."
+  },
+  {
+   "speaker": "A",
+   "text": "It also helps to save your firm no for things that really matter, like safety. And remember, this stage does not last forever. A child who can say no today is learning to become a confident person tomorrow."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Around the age of two, many children discover a powerful new word: no.",
+   "start": 0.0,
+   "end": 6.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Do you want to put on your shoes?",
+   "start": 6.75,
+   "end": 8.39,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "No.",
+   "start": 9.02,
+   "end": 9.58,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Time for a bath?",
+   "start": 10.17,
+   "end": 11.37,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "No.",
+   "start": 11.96,
+   "end": 12.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Even, Do you want ice cream?",
+   "start": 13.11,
+   "end": 14.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Sometimes, no.",
+   "start": 15.78,
+   "end": 17.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For parents, this stage can be exhausting.",
+   "start": 18.13,
+   "end": 21.17,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But it is also an important step in development.",
+   "start": 22.08,
+   "end": 25.36,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Psychologists explain that toddlers are discovering autonomy.",
+   "start": 25.88,
+   "end": 30.12,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Autonomy means the ability to make your own choices and act on your own.",
+   "start": 30.79,
+   "end": 35.63,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A toddler is starting to understand, I am a separate person, and I have my own ideas.",
+   "start": 36.34,
+   "end": 42.82,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Saying no is one of the easiest ways to test that idea.",
+   "start": 43.25,
+   "end": 47.09,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Toddlers also want control, but they have very little of it.",
+   "start": 47.61,
+   "end": 51.45,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Adults decide when they eat, sleep and leave the park.",
+   "start": 52.36,
+   "end": 56.0,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So small battles can feel very important to them.",
+   "start": 56.63,
+   "end": 60.07,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Parents often fall into a power struggle.",
+   "start": 60.59,
+   "end": 63.79,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is a situation where both sides keep pushing, and nobody wants to give up.",
+   "start": 64.22,
+   "end": 69.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The parent gets angrier, and the child gets louder.",
+   "start": 70.33,
+   "end": 73.69,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "One helpful strategy is to offer simple choices.",
+   "start": 74.21,
+   "end": 77.49,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of asking, Do you want to get dressed?",
+   "start": 78.32,
+   "end": 81.44,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "try, Do you want the red shirt or the blue shirt?",
+   "start": 81.87,
+   "end": 85.07,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The child still gets dressed, but feels in control.",
+   "start": 85.98,
+   "end": 89.42,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It also helps to save your firm no for things that really matter, like safety.",
+   "start": 89.94,
+   "end": 95.54,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "And remember, this stage does not last forever.",
+   "start": 96.21,
+   "end": 99.61,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "A child who can say no today is learning to become a confident person tomorrow.",
+   "start": 100.24,
+   "end": 105.52,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 237,
+ "duration": 105.4,
+ "wpm": 135,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:57"
+}

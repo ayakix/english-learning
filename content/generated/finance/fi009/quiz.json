@@ -1,0 +1,114 @@
+{
+ "id": "fi009",
+ "author": "claude",
+ "summary_ja": "投資を始める前に生活防衛資金（緊急資金）を作るべきと多くの専門家は言う。失業や急な医療費、車の故障などに備え、株ではなく普通預金など安全で引き出しやすい所に置く。目安は生活費の3〜6か月分。全財産が株だと、暴落と失業が重なったとき安値で売るしかなく、一時的な損が確定する。緊急資金があれば投資を放っておけ、ストレスも減る。退屈だが長期投資の土台。",
+ "listening": [
+  {
+   "q": "緊急資金を置くべき場所は？",
+   "options": [
+    "普通預金など、安全ですぐ引き出せる所",
+    "金",
+    "株式市場",
+    "海外の銀行"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It should be kept somewhere safe and easy to access, like a savings account, not invested in the stock market.\""
+  },
+  {
+   "q": "緊急資金の目安は？",
+   "options": [
+    "生活費の3〜6か月分",
+    "1週間分",
+    "10年分",
+    "給料1日分"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A common guideline is three to six months of living expenses.\""
+  },
+  {
+   "q": "緊急資金の心理的な利点は？",
+   "options": [
+    "安全網があると分かるとストレスが減り、落ち着いて判断できる",
+    "投資がうまくなる",
+    "お金が増える",
+    "税金が減る"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Knowing that you have a safety net reduces stress and helps you make calmer decisions.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "投資にわくわくすると、すぐに始めたくなることが多いです。",
+   "points_ja": "get excited about がつながり、start right away が「スタートライタウェイ」と聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "仕事が不安定だったり、家族を養っていたりするなら、もっと必要かもしれません。",
+   "points_ja": "job is unstable がつながり、support a family が続けて聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "緊急資金を作るのは退屈に感じるかもしれません。",
+   "points_ja": "Building an emergency が「ビルディンガネマージェンシー」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "緊急資金は不要",
+    "投資の前に緊急資金を作ることが、長期投資の土台になる",
+    "すべてを株にすべき",
+    "緊急資金は株で持つ"
+   ],
+   "answer": 1,
+   "explanation_ja": "緊急資金の意味、目安、投資家にとっての重要性を説明しています。"
+  },
+  {
+   "q": "living expenses の例として挙げられているのは？",
+   "options": [
+    "旅行、外食、服",
+    "車の購入",
+    "株、債券",
+    "家賃、食費、光熱費、交通費"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"such as rent, food, utilities and transportation.\""
+  },
+  {
+   "q": "緊急資金がないと、暴落と失業が重なったときどうなる？",
+   "options": [
+    "株が上がる",
+    "何も問題ない",
+    "銀行が助けてくれる",
+    "家賃のために安値で投資を売るしかなく、一時的な損が確定する"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"You may be forced to sell your investments at a very low price just to pay rent. A loss that might have been temporary becomes permanent.\""
+  },
+  {
+   "q": "緊急資金があれば投資をどうできる？",
+   "options": [
+    "投資をやめられる",
+    "毎日売買できる",
+    "すべて引き出せる",
+    "悪い時期も放っておいて、回復を待てる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"you can leave your investments alone during bad times and give them a chance to recover.\""
+  },
+  {
+   "q": "最後の文の \"foundation\" が意味するものは？",
+   "options": [
+    "会社の設立",
+    "家の基礎",
+    "長期投資を可能にする土台",
+    "ファンドの名前"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"But it is the foundation that makes long-term investing possible.\""
+  }
+ ]
+}

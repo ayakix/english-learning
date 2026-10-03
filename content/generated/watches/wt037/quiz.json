@@ -1,0 +1,114 @@
+{
+ "id": "wt037",
+ "author": "claude",
+ "summary_ja": "自社製ムーブメント（インハウス）は独立性と技術の証で宣伝にもなる。自社で作らないブランドは専門メーカーから基本の機械（エボーシュ）を買い、装飾や調整、機能の追加をする。エボーシュは何十年も使われ信頼性が高く修理しやすい。自社製は独創的だが修理費が高く、ブランドしか直せないこともある。",
+ "listening": [
+  {
+   "q": "in-house caliber とは？",
+   "options": [
+    "電池式の時計",
+    "ブランドが自分で設計・製造したムーブメント",
+    "家で作った時計",
+    "古い時計"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"An in-house caliber means the company designed and makes its own movement.\""
+  },
+  {
+   "q": "ébauche とは？",
+   "options": [
+    "フランスの時計店",
+    "時計の箱",
+    "専門メーカーから買う、仕上げ前の基本の機械",
+    "時計の修理道具"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It's a French word for an unfinished movement, a kind of starting point.\""
+  },
+  {
+   "q": "B が時計を買う人に勧めていることは？",
+   "options": [
+    "古い時計だけを買う",
+    "一番安いものを買う",
+    "ムーブメントの出どころだけでなく、手入れのしやすさも聞く",
+    "自社製だけを買う"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"it's worth asking not only where the movement comes from, but how easy it will be to look after.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "それは独立性と技術力の証なので、宣伝にも役立ちます。",
+   "points_ja": "sign of が「サイナヴ」、good for が「グッフォー」とつながります。"
+  },
+  {
+   "sentence": 11,
+   "ja": "装飾したり、より精密に調整したり、日付やクロノグラフなどの機能を上に追加したりすることもあります。",
+   "points_ja": "decorate it が「デコレイティット」、add a が「アダ」とつながります。"
+  },
+  {
+   "sentence": 16,
+   "ja": "交換部品も見つけやすいです。",
+   "points_ja": "parts are がつながり、easy to find の to は「タ」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "時計の値段の比較",
+    "自社製ムーブメントと汎用ムーブメントの、それぞれの長所と短所",
+    "スイスの観光",
+    "時計の歴史"
+   ],
+   "answer": 1,
+   "explanation_ja": "両方の利点と欠点を比べています。"
+  },
+  {
+   "q": "スイスで一般的なこととして話されているのは？",
+   "options": [
+    "専門メーカーから基本の機械を買うこと",
+    "電池式だけを作ること",
+    "すべて自社で作ること",
+    "日本から部品を買うこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"it usually buys a base movement from a specialist supplier. In Switzerland, that's very common.\""
+  },
+  {
+   "q": "汎用ムーブメントの長所として挙げられていないものは？",
+   "options": [
+    "信頼性が高い",
+    "部品が見つけやすい",
+    "修理しやすい",
+    "とても独創的"
+   ],
+   "answer": 3,
+   "explanation_ja": "独創的なのは自社製の長所として話されています。"
+  },
+  {
+   "q": "自社製ムーブメントの欠点は？",
+   "options": [
+    "重い",
+    "見た目が悪い",
+    "修理費が高く、ブランドしか修理できない場合がある",
+    "精度が悪い"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"sometimes they're expensive to repair, and only the brand can service them.\""
+  },
+  {
+   "q": "\"look after\" の意味は？",
+   "options": [
+    "後ろを見る",
+    "探す",
+    "待つ",
+    "手入れする・世話をする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"how easy it will be to look after\" は「どれだけ手入れしやすいか」という意味です。"
+  }
+ ]
+}

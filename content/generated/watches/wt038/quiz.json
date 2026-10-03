@@ -1,0 +1,114 @@
+{
+ "id": "wt038",
+ "author": "claude",
+ "summary_ja": "トロピカルダイヤルは、もとは黒かった文字盤が年月を経てチョコレート色などの茶色に変わったもの。名前は暑い国で起きたという昔の考えから来ているが、今は紫外線と当時の塗料・ラッカーが主な原因と考えられている。一つひとつ色が違い、有名なモデルでは高値がつくが、偽物もあるので履歴が分かるものが好まれる。",
+ "listening": [
+  {
+   "q": "トロピカルダイヤルとは？",
+   "options": [
+    "防水の文字盤",
+    "緑色の文字盤",
+    "黒い文字盤が年月で茶色に変わったもの",
+    "熱帯の絵が描かれた文字盤"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Fifty years later, the dial is a warm chocolate brown ... These dials are known as tropical dials.\""
+  },
+  {
+   "q": "色が変わる主な原因と今考えられているのは？",
+   "options": [
+    "海水",
+    "持ち主の汗",
+    "紫外線と、当時の塗料やラッカー",
+    "時計の電池"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the main causes are UV exposure ... and the paints and lacquers used at the time.\""
+  },
+  {
+   "q": "経験のある買い手が好むものは？",
+   "options": [
+    "色が派手な時計",
+    "履歴がはっきりした時計",
+    "一番安い時計",
+    "新品の時計"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"they prefer watches with a clear history.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "ある人には、これは欠陥のように聞こえます。",
+   "points_ja": "sounds like a がつながり、like a の a はほとんど聞こえません。"
+  },
+  {
+   "sentence": 11,
+   "ja": "その変化は計画されたものではなく、制御することもできません。",
+   "points_ja": "planned and が「プランドン」、cannot be が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "もちろん、これは偽物も呼び寄せます。",
+   "points_ja": "Of course が「アヴコース」、attracts fakes の s が重なります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "熱帯では時計が使えない",
+    "偶然の色の変化が、一つひとつ違う魅力として高く評価されている",
+    "黒い文字盤はすぐに壊れる",
+    "茶色の文字盤は偽物である"
+   ],
+   "answer": 1,
+   "explanation_ja": "色の変化の原因、魅力、価値、偽物への注意を説明しています。"
+  },
+  {
+   "q": "tropical という名前の由来は？",
+   "options": [
+    "果物の色に似ているから",
+    "発明者の名前",
+    "暑く日差しの強い場所で起きたという昔の考え",
+    "南の島で作られたから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The name comes from an old idea that the color change happened to watches worn in hot, sunny places.\""
+  },
+  {
+   "q": "UV exposure の説明として正しいものは？",
+   "options": [
+    "磁石に近づくこと",
+    "水に浸かること",
+    "落とすこと",
+    "太陽の紫外線を浴びること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"UV exposure, which means ultraviolet light from the sun\"。"
+  },
+  {
+   "q": "コレクターが求める色の変化は？",
+   "options": [
+    "均一で自然で、しみや傷のないもの",
+    "まだらでしみのあるもの",
+    "人工的に作ったもの",
+    "黒のままのもの"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Collectors look for a color change that is even and natural, without spots or damage.\""
+  },
+  {
+   "q": "\"Each watch tells its own story.\" の意味は？",
+   "options": [
+    "時計に説明書がある",
+    "時計が話す",
+    "一本一本が違う変化をしていて、それぞれに個性がある",
+    "時計の歴史が同じ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"every one is different\" という説明の後のまとめです。"
+  }
+ ]
+}

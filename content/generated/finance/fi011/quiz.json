@@ -1,0 +1,114 @@
+{
+ "id": "fi011",
+ "author": "claude",
+ "summary_ja": "数年ごとに株式市場は大きく下がるが、多くの場合最善の行動は何もしないこと。暴落は怖く、ニュースがさらに怖くするが、慌てて売ると損失が確定し、回復を逃す。市場で最も良い日の多くは最悪の日のすぐ後に来る。幅広い市場はこれまでの大暴落から回復してきたが、何年もかかったこともある。2020年はパンデミック初期に急落し数か月で回復。緊急資金を持ち、耐えられるリスクを選び、目標を思い出す。",
+ "listening": [
+  {
+   "q": "株価が大きく下がったときの最善の行動として B が言うのは？",
+   "options": [
+    "借金して買う",
+    "すぐに全部売る",
+    "銀行に預ける",
+    "多くの場合、何もしないこと"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Often, the best action is no action.\""
+  },
+  {
+   "q": "慌てて売ることが悪い理由は？",
+   "options": [
+    "手数料が高いから",
+    "損失が確定し、その後の回復を逃すから",
+    "法律違反だから",
+    "税金がかかるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Because you lock in your losses ... you miss the recovery.\""
+  },
+  {
+   "q": "2020年の市場について話されていることは？",
+   "options": [
+    "変化がなかった",
+    "10年間下がり続けた",
+    "取引が止まった",
+    "パンデミックの初めに急落し、数か月で回復した"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In twenty twenty, for example, global stocks fell very quickly at the start of the pandemic, and then recovered within months.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "暴落は怖く感じ、ニュースがそれをさらに怖くします。",
+   "points_ja": "market crash feels scary が続き、makes it even scarier がつながります。"
+  },
+  {
+   "sentence": 8,
+   "ja": "市場で最も良い日の多くは、最悪の日のすぐ後にやって来ます。",
+   "points_ja": "Many of the best days が続き、shortly after the worst days がつながります。"
+  },
+  {
+   "sentence": 22,
+   "ja": "その時はそう感じられないだけです。",
+   "points_ja": "just doesn't feel が続き、that way at the time が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "パンデミックの歴史",
+    "ニュースの見方",
+    "株の買い方",
+    "暴落時に慌てて売らないことの大切さと、そのための準備"
+   ],
+   "answer": 3,
+   "explanation_ja": "パニック売りの害、回復の歴史、準備、長期投資家の考え方を話しています。"
+  },
+  {
+   "q": "panic selling の問題として話されていないものは？",
+   "options": [
+    "損失が確定する",
+    "税金が安くなる",
+    "最も良い日を逃す",
+    "回復を逃す"
+   ],
+   "answer": 1,
+   "explanation_ja": "損失の確定、回復や最良の日を逃すことが挙げられています。"
+  },
+  {
+   "q": "市場の回復について B の慎重な言い方は？",
+   "options": [
+    "必ず1週間で回復する",
+    "これまでは回復してきたが、どれだけかかるかの保証はない",
+    "もう暴落しない",
+    "回復しない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"But there's no guarantee about how long a recovery will take.\""
+  },
+  {
+   "q": "冷静でいるための準備として挙げられていないものは？",
+   "options": [
+    "毎日ニュースを見る",
+    "緊急資金を持つ",
+    "投資した理由を思い出す",
+    "耐えられるリスクを選ぶ"
+   ],
+   "answer": 0,
+   "explanation_ja": "緊急資金、リスク、目標を思い出すことが挙げられています。"
+  },
+  {
+   "q": "長期投資家にとって暴落が機会になりうる理由は？",
+   "options": [
+    "積立を続ければ、安い価格でより多く買えるから",
+    "株が無料になるから",
+    "税金がなくなるから",
+    "国からお金がもらえるから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If you keep investing regularly, you buy more shares at lower prices.\""
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "id": "wt020",
+ "author": "claude",
+ "category": "watches",
+ "title": "Saxon Minimalism vs Swiss Classicism",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "Saxon design",
+  "Swiss classicism",
+  "austere beauty"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "People often say German watches and Swiss watches have a different character. Can you describe the difference?"
+  },
+  {
+   "speaker": "B",
+   "text": "I'll try. Watches from Saxony, especially from Glashütte, usually feel calm and serious. You see large plates, like the three-quarter plate, untreated German silver and gold chatons with blue screws."
+  },
+  {
+   "speaker": "A",
+   "text": "It sounds quite practical."
+  },
+  {
+   "speaker": "B",
+   "text": "It is. Some people call it austere beauty. Austere means plain and strict, without unnecessary decoration. The beauty comes from proportion, quality and careful finishing."
+  },
+  {
+   "speaker": "A",
+   "text": "And Swiss classicism?"
+  },
+  {
+   "speaker": "B",
+   "text": "Classic Swiss movements often use many separate bridges with elegant curves. You'll see Geneva stripes, polished bevels and a more open, flowing layout. It feels a bit more like jewelry."
+  },
+  {
+   "speaker": "A",
+   "text": "So which is better?"
+  },
+  {
+   "speaker": "B",
+   "text": "Neither, really. It's a question of taste. Some collectors love the strong, solid feeling of Saxon design. Others prefer the lightness and grace of Swiss work."
+  },
+  {
+   "speaker": "A",
+   "text": "Do the styles ever mix?"
+  },
+  {
+   "speaker": "B",
+   "text": "All the time. Many modern makers borrow ideas from both traditions. But when you turn over a watch and see that wide, golden plate, you still know immediately that you're looking at a German way of thinking."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "People often say German watches and Swiss watches have a different character.",
+   "start": 0.0,
+   "end": 4.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Can you describe the difference?",
+   "start": 5.55,
+   "end": 7.15,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "I'll try.",
+   "start": 7.95,
+   "end": 8.67,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Watches from Saxony, especially from Glashütte, usually feel calm and serious.",
+   "start": 9.1,
+   "end": 15.66,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "You see large plates, like the three-quarter plate, untreated German silver and gold chatons with blue screws.",
+   "start": 16.25,
+   "end": 23.37,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It sounds quite practical.",
+   "start": 24.09,
+   "end": 25.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It is.",
+   "start": 26.73,
+   "end": 27.37,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Some people call it austere beauty.",
+   "start": 27.96,
+   "end": 30.52,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Austere means plain and strict, without unnecessary decoration.",
+   "start": 31.35,
+   "end": 35.83,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The beauty comes from proportion, quality and careful finishing.",
+   "start": 36.66,
+   "end": 40.9,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And Swiss classicism?",
+   "start": 41.62,
+   "end": 43.38,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Classic Swiss movements often use many separate bridges with elegant curves.",
+   "start": 44.1,
+   "end": 49.3,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "You'll see Geneva stripes, polished bevels and a more open, flowing layout.",
+   "start": 49.69,
+   "end": 54.85,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It feels a bit more like jewelry.",
+   "start": 55.28,
+   "end": 57.36,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So which is better?",
+   "start": 58.08,
+   "end": 59.76,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Neither, really.",
+   "start": 60.48,
+   "end": 61.6,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a question of taste.",
+   "start": 62.27,
+   "end": 63.55,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Some collectors love the strong, solid feeling of Saxon design.",
+   "start": 64.38,
+   "end": 68.86,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Others prefer the lightness and grace of Swiss work.",
+   "start": 69.45,
+   "end": 72.73,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Do the styles ever mix?",
+   "start": 73.45,
+   "end": 75.37,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "All the time.",
+   "start": 76.09,
+   "end": 77.13,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Many modern makers borrow ideas from both traditions.",
+   "start": 77.56,
+   "end": 81.64,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But when you turn over a watch and see that wide, golden plate, you still know immediately that you're looking at a German way of thinking.",
+   "start": 82.23,
+   "end": 90.47,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 181,
+ "duration": 90.4,
+ "wpm": 120,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 60,
+ "created": "2026-10-03 23:44"
+}

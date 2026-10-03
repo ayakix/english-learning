@@ -1,0 +1,194 @@
+{
+ "id": "rn024",
+ "author": "claude",
+ "category": "running",
+ "title": "Foam Rolling and Self-Myofascial Release",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "myofascial release",
+  "range of motion",
+  "neural inhibition"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Walk into any gym, and you will probably see people rolling their legs on a foam cylinder. Foam rolling has become a common part of warming up and recovering. But what does it actually do?"
+  },
+  {
+   "speaker": "A",
+   "text": "Foam rolling is a type of self-myofascial release. Fascia is the thin connective tissue that surrounds muscles and other parts of the body, a bit like plastic wrap. Myofascial means muscle and fascia together. The idea is that by pressing and rolling, you can release tight areas in these tissues."
+  },
+  {
+   "speaker": "A",
+   "text": "Research shows a clear short-term benefit. After a few minutes of rolling, people often have a better range of motion, meaning they can move a joint further. Importantly, unlike long static stretching, foam rolling does not seem to reduce strength or speed. That makes it useful before a workout."
+  },
+  {
+   "speaker": "A",
+   "text": "However, the explanation has changed. Early on, people believed rolling physically broke up knots or stretched the fascia. Scientists now think this is unlikely, because fascia is very strong. Instead, the effect is probably mostly in the nervous system. The pressure may reduce muscle tension and pain signals for a while. This is described as neural inhibition."
+  },
+  {
+   "speaker": "A",
+   "text": "Foam rolling may also reduce the feeling of soreness after hard training."
+  },
+  {
+   "speaker": "A",
+   "text": "A few practical tips: roll slowly, focus on each area for about thirty to sixty seconds, and avoid rolling directly on joints or bones. It should feel strong, but not painful."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Walk into any gym, and you will probably see people rolling their legs on a foam cylinder.",
+   "start": 0.0,
+   "end": 5.92,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Foam rolling has become a common part of warming up and recovering.",
+   "start": 6.35,
+   "end": 10.35,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But what does it actually do?",
+   "start": 10.9,
+   "end": 12.94,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Foam rolling is a type of self-myofascial release.",
+   "start": 13.46,
+   "end": 17.22,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Fascia is the thin connective tissue that surrounds muscles and other parts of the body, a bit like plastic wrap.",
+   "start": 17.65,
+   "end": 24.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Myofascial means muscle and fascia together.",
+   "start": 25.36,
+   "end": 29.12,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The idea is that by pressing and rolling, you can release tight areas in these tissues.",
+   "start": 29.55,
+   "end": 34.99,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Research shows a clear short-term benefit.",
+   "start": 35.59,
+   "end": 38.87,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "After a few minutes of rolling, people often have a better range of motion, meaning they can move a joint further.",
+   "start": 39.34,
+   "end": 46.26,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Importantly, unlike long static stretching, foam rolling does not seem to reduce strength or speed.",
+   "start": 46.81,
+   "end": 53.89,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That makes it useful before a workout.",
+   "start": 54.32,
+   "end": 56.48,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "However, the explanation has changed.",
+   "start": 57.0,
+   "end": 60.04,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Early on, people believed rolling physically broke up knots or stretched the fascia.",
+   "start": 60.55,
+   "end": 66.23,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists now think this is unlikely, because fascia is very strong.",
+   "start": 66.66,
+   "end": 71.54,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead, the effect is probably mostly in the nervous system.",
+   "start": 72.33,
+   "end": 76.21,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The pressure may reduce muscle tension and pain signals for a while.",
+   "start": 76.64,
+   "end": 80.88,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is described as neural inhibition.",
+   "start": 81.31,
+   "end": 83.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Foam rolling may also reduce the feeling of soreness after hard training.",
+   "start": 84.39,
+   "end": 88.79,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A few practical tips: roll slowly, focus on each area for about thirty to sixty seconds, and avoid rolling directly on joints or bones.",
+   "start": 89.31,
+   "end": 100.19,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It should feel strong, but not painful.",
+   "start": 100.62,
+   "end": 103.42,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 234,
+ "duration": 103.3,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-03 23:56"
+}

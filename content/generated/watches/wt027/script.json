@@ -1,0 +1,190 @@
+{
+ "id": "wt027",
+ "author": "claude",
+ "category": "watches",
+ "title": "Synthetic Oils and Lubrication Points",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "synthetic oil",
+  "lubrication points",
+  "oil sink"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A mechanical watch has dozens of moving parts, but it uses only a few drops of oil. In fact, the total amount is so small that you could barely see it. Yet those tiny drops are essential."
+  },
+  {
+   "speaker": "A",
+   "text": "Wherever two parts move against each other, there is friction. Friction wastes energy and causes wear. Oil reduces both. The places where a watchmaker adds oil are called lubrication points. Each one has its own needs."
+  },
+  {
+   "speaker": "A",
+   "text": "For example, the pivots of fast-moving wheels need a very thin oil. Parts that carry heavy loads, like the mainspring, need thicker oils or greases. The escapement, which works thousands of times every hour, often needs a special oil of its own. So one watch may use four or five different synthetic oils. Synthetic oils are made in a laboratory. They last longer and stay more stable than natural oils."
+  },
+  {
+   "speaker": "A",
+   "text": "Putting oil in the right place is a skill. The watchmaker uses a tool called an oiler, which is like a tiny needle. Too little oil, and the part wears out. Too much, and the oil spreads to places where it should not be."
+  },
+  {
+   "speaker": "A",
+   "text": "To help keep the oil in place, many jewel holes have a small cup shape around them, called an oil sink. Surface tension holds the drop there, like water in a small dish."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "A mechanical watch has dozens of moving parts, but it uses only a few drops of oil.",
+   "start": 0.0,
+   "end": 6.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In fact, the total amount is so small that you could barely see it.",
+   "start": 6.43,
+   "end": 10.99,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Yet those tiny drops are essential.",
+   "start": 11.54,
+   "end": 14.14,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Wherever two parts move against each other, there is friction.",
+   "start": 14.66,
+   "end": 18.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Friction wastes energy and causes wear.",
+   "start": 19.09,
+   "end": 21.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Oil reduces both.",
+   "start": 22.56,
+   "end": 24.28,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The places where a watchmaker adds oil are called lubrication points.",
+   "start": 24.91,
+   "end": 29.23,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Each one has its own needs.",
+   "start": 29.82,
+   "end": 31.9,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, the pivots of fast-moving wheels need a very thin oil.",
+   "start": 32.42,
+   "end": 37.38,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Parts that carry heavy loads, like the mainspring, need thicker oils or greases.",
+   "start": 37.97,
+   "end": 42.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The escapement, which works thousands of times every hour, often needs a special oil of its own.",
+   "start": 43.52,
+   "end": 50.0,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So one watch may use four or five different synthetic oils.",
+   "start": 50.47,
+   "end": 54.27,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Synthetic oils are made in a laboratory.",
+   "start": 55.18,
+   "end": 57.82,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They last longer and stay more stable than natural oils.",
+   "start": 58.25,
+   "end": 61.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Putting oil in the right place is a skill.",
+   "start": 62.29,
+   "end": 65.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The watchmaker uses a tool called an oiler, which is like a tiny needle.",
+   "start": 65.76,
+   "end": 70.16,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Too little oil, and the part wears out.",
+   "start": 70.99,
+   "end": 73.63,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Too much, and the oil spreads to places where it should not be.",
+   "start": 74.06,
+   "end": 77.98,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "To help keep the oil in place, many jewel holes have a small cup shape around them, called an oil sink.",
+   "start": 78.5,
+   "end": 84.98,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Surface tension holds the drop there, like water in a small dish.",
+   "start": 85.89,
+   "end": 90.13,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 220,
+ "duration": 90.0,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 65,
+ "created": "2026-10-03 23:45"
+}

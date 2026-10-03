@@ -1,0 +1,114 @@
+{
+ "id": "wt014",
+ "author": "claude",
+ "summary_ja": "ジャーマンシルバーは銅・ニッケル・亜鉛の合金で、銀は入っていない。多くの機械はメッキをするが、無処理のまま使う時計もあり、自然な酸化で年月とともに金色を帯びていく。メッキがないので指紋さえ消えない跡になり、手袋をして扱う。",
+ "listening": [
+  {
+   "q": "ジャーマンシルバーに含まれるものは？",
+   "options": [
+    "銀と金",
+    "アルミと銅",
+    "鉄と炭素",
+    "銅・ニッケル・亜鉛"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It's an alloy of copper, nickel and zinc.\""
+  },
+  {
+   "q": "無処理のジャーマンシルバーは時間とともにどうなる？",
+   "options": [
+    "白くなる",
+    "黒くさびる",
+    "変化しない",
+    "自然な酸化で暗く、金色っぽくなる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Through natural oxidation, the surface slowly becomes darker and more golden.\""
+  },
+  {
+   "q": "時計師にとって大変な点は？",
+   "options": [
+    "メッキがないので、指紋でさえ消えない跡になる",
+    "重すぎる",
+    "削れない",
+    "材料がとても高い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Without plating, there's nothing to hide mistakes. Even a fingerprint can leave a mark that never disappears.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 5,
+   "ja": "その名前は銀色の見た目から来ていて、中身から来ているのではありません。",
+   "points_ja": "comes from its がつながり、not from の t はほとんど聞こえません。"
+  },
+  {
+   "sentence": 17,
+   "ja": "それは空気、温度、時計をどれくらいの頻度で開けるかによります。",
+   "points_ja": "depends on the がつながり、how often の often は t を発音しない人も多いです。"
+  },
+  {
+   "sentence": 24,
+   "ja": "その特別な気配りが、これらの機械を特別なものにしている理由の一つです。",
+   "points_ja": "part of what が「パーラヴワット」に近く、makes these の s が重なります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主な内容は？",
+   "options": [
+    "時計の電池",
+    "メッキの方法",
+    "銀の価格",
+    "無処理のジャーマンシルバーの性質と魅力・難しさ"
+   ],
+   "answer": 3,
+   "explanation_ja": "名前の由来、経年変化、扱いの難しさを話しています。"
+  },
+  {
+   "q": "maillechort とは？",
+   "options": [
+    "メッキの種類",
+    "工房の名前",
+    "ジャーマンシルバーのフランス語名",
+    "時計の部品名"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The French call it maillechort.\""
+  },
+  {
+   "q": "時計師がジャーマンシルバーを好む理由として挙げられているのは？",
+   "options": [
+    "安定していて加工しやすく、温かみのある見た目",
+    "磁石に強いから",
+    "最も安い金属だから",
+    "光るから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It's stable and pleasant to work with, and it has a warm look.\""
+  },
+  {
+   "q": "経年変化を革のかばんにたとえているのはなぜ？",
+   "options": [
+    "どちらも壊れやすいから",
+    "どちらも高価だから",
+    "どちらも革でできているから",
+    "使うほど味わいが出るものとして、持ち主が変化を楽しむから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Owners often enjoy watching that change, like a leather bag getting a nice patina.\""
+  },
+  {
+   "q": "finger cots の役割として推測できるのは？",
+   "options": [
+    "ネジを回す",
+    "指紋がつかないように指を覆う",
+    "部品を磨く",
+    "時計を温める"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"handled with gloves and finger cots\" とあり、指紋を防ぐためのものです。"
+  }
+ ]
+}

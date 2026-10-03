@@ -1,0 +1,183 @@
+{
+ "id": "wt023",
+ "author": "claude",
+ "category": "watches",
+ "title": "Proper Cloth Care: Microfiber vs Chamois",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "microfiber cloth",
+  "chamois leather",
+  "hairline scratch"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Most people clean their watch with whatever is nearby, like a shirt sleeve or a paper tissue. It seems harmless, but over time it can leave fine marks called hairline scratches. These are very thin lines that you mainly notice on polished surfaces when light hits them."
+  },
+  {
+   "speaker": "A",
+   "text": "The main cause is not the cloth itself, but dust. Tiny particles of sand and grit sit on the watch. When you rub them across the surface, they act like sandpaper. So the first rule of watch care is to remove dust before you wipe anything. You can use a soft brush or a gentle blow of air. If the watch has good water resistance, a short rinse with fresh water also works."
+  },
+  {
+   "speaker": "A",
+   "text": "After that, choose the right cloth. A microfiber cloth is excellent for glass and polished steel. Its extremely fine fibers lift oil and fingerprints without pushing particles into the surface. Wash it regularly, because a dirty cloth just moves the dirt around."
+  },
+  {
+   "speaker": "A",
+   "text": "Chamois leather is a traditional choice. It is soft and slightly oily, and many collectors like it for polished metal and gold cases. It gives a warm shine."
+  },
+  {
+   "speaker": "A",
+   "text": "Finally, be careful with polishing cloths that contain chemicals. They remove scratches by removing a thin layer of metal. Used too often, they can soften sharp edges and change the shape of the case."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Most people clean their watch with whatever is nearby, like a shirt sleeve or a paper tissue.",
+   "start": 0.0,
+   "end": 6.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It seems harmless, but over time it can leave fine marks called hairline scratches.",
+   "start": 6.55,
+   "end": 12.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These are very thin lines that you mainly notice on polished surfaces when light hits them.",
+   "start": 12.98,
+   "end": 18.54,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The main cause is not the cloth itself, but dust.",
+   "start": 19.06,
+   "end": 22.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Tiny particles of sand and grit sit on the watch.",
+   "start": 23.57,
+   "end": 27.09,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When you rub them across the surface, they act like sandpaper.",
+   "start": 27.68,
+   "end": 31.52,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So the first rule of watch care is to remove dust before you wipe anything.",
+   "start": 31.95,
+   "end": 37.07,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "You can use a soft brush or a gentle blow of air.",
+   "start": 37.5,
+   "end": 40.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If the watch has good water resistance, a short rinse with fresh water also works.",
+   "start": 41.37,
+   "end": 46.41,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "After that, choose the right cloth.",
+   "start": 47.01,
+   "end": 49.33,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A microfiber cloth is excellent for glass and polished steel.",
+   "start": 50.16,
+   "end": 54.32,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Its extremely fine fibers lift oil and fingerprints without pushing particles into the surface.",
+   "start": 54.91,
+   "end": 60.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Wash it regularly, because a dirty cloth just moves the dirt around.",
+   "start": 61.82,
+   "end": 65.98,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Chamois leather is a traditional choice.",
+   "start": 66.58,
+   "end": 69.3,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It is soft and slightly oily, and many collectors like it for polished metal and gold cases.",
+   "start": 69.69,
+   "end": 75.97,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It gives a warm shine.",
+   "start": 76.4,
+   "end": 78.08,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Finally, be careful with polishing cloths that contain chemicals.",
+   "start": 78.6,
+   "end": 83.08,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They remove scratches by removing a thin layer of metal.",
+   "start": 83.51,
+   "end": 87.19,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Used too often, they can soften sharp edges and change the shape of the case.",
+   "start": 87.62,
+   "end": 92.66,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 224,
+ "duration": 92.6,
+ "wpm": 145,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:45"
+}

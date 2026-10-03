@@ -1,0 +1,190 @@
+{
+ "id": "wt010",
+ "author": "claude",
+ "category": "watches",
+ "title": "Flame-Blued Screws",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "heat-blued screw",
+  "temper color",
+  "oxidation layer"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Look inside a fine watch, and you may see a few screws with a deep, beautiful blue color. They are not painted. They get their color from heat. These are called heat-blued, or flame-blued, screws."
+  },
+  {
+   "speaker": "A",
+   "text": "The process starts with polished steel. The watchmaker places the screws on a small metal plate, often filled with brass shavings so the heat spreads evenly. Then the plate is slowly heated over a flame."
+  },
+  {
+   "speaker": "A",
+   "text": "As the temperature rises, a very thin oxidation layer forms on the surface of the steel. Oxidation is the same kind of reaction that causes rust, but here it is controlled and extremely thin. Light reflects from this layer, and we see color. These colors are called temper colors."
+  },
+  {
+   "speaker": "A",
+   "text": "First, the steel turns pale yellow, then gold, then brown and purple. Finally, at around three hundred degrees Celsius, it becomes blue. At that moment, the watchmaker must remove the screws immediately. A few seconds too long, and the color turns pale gray."
+  },
+  {
+   "speaker": "A",
+   "text": "Because the color depends on perfect polishing and careful timing, every batch is a small test of skill. Today, some companies use cheaper chemical methods to make steel blue. But experts say the color is flatter. Heat-blued steel has a richer glow that changes with the light. It is a small detail that many collectors love."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Look inside a fine watch, and you may see a few screws with a deep, beautiful blue color.",
+   "start": 0.0,
+   "end": 5.84,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They are not painted.",
+   "start": 6.75,
+   "end": 7.71,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They get their color from heat.",
+   "start": 8.54,
+   "end": 10.3,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These are called heat-blued, or flame-blued, screws.",
+   "start": 10.97,
+   "end": 14.41,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The process starts with polished steel.",
+   "start": 14.93,
+   "end": 17.33,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The watchmaker places the screws on a small metal plate, often filled with brass shavings so the heat spreads evenly.",
+   "start": 18.32,
+   "end": 25.48,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Then the plate is slowly heated over a flame.",
+   "start": 26.19,
+   "end": 29.55,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "As the temperature rises, a very thin oxidation layer forms on the surface of the steel.",
+   "start": 30.07,
+   "end": 35.91,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Oxidation is the same kind of reaction that causes rust, but here it is controlled and extremely thin.",
+   "start": 36.58,
+   "end": 43.62,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Light reflects from this layer, and we see color.",
+   "start": 44.29,
+   "end": 47.13,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "These colors are called temper colors.",
+   "start": 47.76,
+   "end": 50.4,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "First, the steel turns pale yellow, then gold, then brown and purple.",
+   "start": 50.92,
+   "end": 56.76,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Finally, at around three hundred degrees Celsius, it becomes blue.",
+   "start": 57.39,
+   "end": 61.83,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "At that moment, the watchmaker must remove the screws immediately.",
+   "start": 62.3,
+   "end": 66.42,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A few seconds too long, and the color turns pale gray.",
+   "start": 66.85,
+   "end": 70.37,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Because the color depends on perfect polishing and careful timing, every batch is a small test of skill.",
+   "start": 70.89,
+   "end": 78.13,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, some companies use cheaper chemical methods to make steel blue.",
+   "start": 78.92,
+   "end": 83.2,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But experts say the color is flatter.",
+   "start": 83.83,
+   "end": 86.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Heat-blued steel has a richer glow that changes with the light.",
+   "start": 86.98,
+   "end": 90.9,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a small detail that many collectors love.",
+   "start": 91.57,
+   "end": 94.77,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 218,
+ "duration": 94.7,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:43"
+}

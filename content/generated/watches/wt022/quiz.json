@@ -1,0 +1,114 @@
+{
+ "id": "wt022",
+ "author": "claude",
+ "summary_ja": "グラン・フー・エナメルは、ガラスの粉を文字盤に塗り、約800度以上の窯で何度も焼き重ねる技法。気泡やほこり、温度の違いでひびが入ると修理できず、多くが失敗する。そのぶん高価だが、色は日光で色あせず100年たっても変わらない。",
+ "listening": [
+  {
+   "q": "エナメルの正体は？",
+   "options": [
+    "金属",
+    "ペンキ",
+    "ガラス",
+    "プラスチック"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Enamel is basically glass.\""
+  },
+  {
+   "q": "失敗の原因として話されているのは？",
+   "options": [
+    "針の重さ",
+    "小さな気泡、ほこり、温度のわずかな違い",
+    "強い光",
+    "湿気の多い日"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A tiny bubble, a speck of dust, or a small difference in temperature can create a crack or a mark.\""
+  },
+  {
+   "q": "この技法が選ばれる理由は？",
+   "options": [
+    "修理が簡単だから",
+    "軽いから",
+    "安く早く作れるから",
+    "色あせず、100年後も同じ色を保つから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It does not fade in sunlight, and it looks the same after a hundred years\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "時計の文字盤の中には、内側から光っているように見える深くつやのある色のものがあります。",
+   "points_ja": "have a deep がつながり、glow from the の the は弱形です。"
+  },
+  {
+   "sentence": 8,
+   "ja": "粉が溶けて、なめらかなガラスの層になります。",
+   "points_ja": "melts and が「メルツン」、layer of が「レイヤラヴ」とつながります。"
+  },
+  {
+   "sentence": 14,
+   "ja": "多くの文字盤が失敗します。これがこれらの時計が高価な理由の一つです。",
+   "points_ja": "which is one が続けて聞こえ、reason these の s が重なります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "グラン・フー・エナメルは失敗しやすいが、色が永遠に近く残る",
+    "エナメルは安価な塗装である",
+    "エナメルは100年で色が変わる",
+    "窯は時計の工場に必要ない"
+   ],
+   "answer": 0,
+   "explanation_ja": "製法の難しさと、色が長持ちするという価値を説明しています。"
+  },
+  {
+   "q": "Grand Feu の意味は？",
+   "options": [
+    "小さな窓",
+    "古い時計",
+    "大きな炎",
+    "青い空"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"In French, Grand Feu means great fire.\""
+  },
+  {
+   "q": "kiln とは？",
+   "options": [
+    "ガラスの粉",
+    "時計の箱",
+    "研磨の道具",
+    "小さな窯（オーブン）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The dial goes into a small oven, called a kiln\"。"
+  },
+  {
+   "q": "ひびが入った文字盤はどうなる？",
+   "options": [
+    "色を塗れば直る",
+    "修理できない",
+    "そのまま売られる",
+    "もう一度焼けば直る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"If that happens, the dial cannot be repaired.\""
+  },
+  {
+   "q": "imperishable color の意味に近いのは？",
+   "options": [
+    "金属の色",
+    "いつまでも消えない色",
+    "すぐに変わる色",
+    "暗い色"
+   ],
+   "answer": 1,
+   "explanation_ja": "色あせず100年後も同じ、という説明から「不滅の色」です。"
+  }
+ ]
+}

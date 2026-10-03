@@ -1,0 +1,114 @@
+{
+ "id": "ns010",
+ "author": "claude",
+ "summary_ja": "タコは背骨のない動物としてはとても賢く、約5億の神経細胞がある（犬に近い）。その約3分の2は腕にあり、腕ごとに味わったり触ったり判断したりできる。実験室で瓶を開け、夜に水槽を抜け出して他の水槽でおやつを食べて朝までに戻った例も。ココナッツの殻を運び、隠れ家にするタコもいて将来を計画している。1秒以内に色や肌の質感を変えるが、多くは色覚がないとされ、その仕組みはまだ謎。",
+ "listening": [
+  {
+   "q": "タコの神経細胞の数は？",
+   "options": [
+    "約5万",
+    "約5億",
+    "約500",
+    "約50億"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"An octopus has about five hundred million nerve cells.\""
+  },
+  {
+   "q": "タコの神経細胞の特徴として話されているのは？",
+   "options": [
+    "数がとても少ない",
+    "すべて頭にある",
+    "約3分の2が腕にあり、腕ごとに判断もできる",
+    "目にだけある"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"About two-thirds of those nerve cells are in the arms. Each arm can taste, touch and make some decisions on its own.\""
+  },
+  {
+   "q": "色を合わせる仕組みについて分かっていることは？",
+   "options": [
+    "まだ謎で、皮膚が光を直接感じるという説もある",
+    "目で色を見ている",
+    "仲間に聞く",
+    "脳が色を覚えている"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That's still a mystery. Some researchers think their skin may be able to sense light directly.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 8,
+   "ja": "それぞれの腕が、味わい、触り、自分である程度判断できます。",
+   "points_ja": "taste, touch and make が続き、decisions on its own が「ディシジョンゾニッツオウン」と聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "夜に水槽から抜け出し、他の水槽でおやつを食べ、朝までに戻ったタコもいます。",
+   "points_ja": "escaped from their tanks at night が続き、returned before morning がつながります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "隠れ場所が必要なとき、殻を合わせて中に隠れました。",
+   "points_ja": "needed shelter がつながり、put the shells together and hid inside が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "タコの驚くべき知能と、まだ解けない謎",
+    "タコの料理",
+    "海の生き物の一覧",
+    "水族館の仕事"
+   ],
+   "answer": 0,
+   "explanation_ja": "神経細胞、行動、道具の使用、カモフラージュについて話しています。"
+  },
+  {
+   "q": "実験室でタコが学んだこととして話されているのは？",
+   "options": [
+    "瓶を開けて中の食べ物を取る",
+    "言葉を話す",
+    "絵を描く",
+    "計算する"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"In laboratories, they've learned to open jars to get food inside.\""
+  },
+  {
+   "q": "ココナッツの殻の例が示していることは？",
+   "options": [
+    "タコは陸に住む",
+    "道具を使い、将来に備えて計画している",
+    "タコはココナッツを食べる",
+    "殻は重い"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That's planning for the future.\""
+  },
+  {
+   "q": "タコのカモフラージュの特徴は？",
+   "options": [
+    "変えられない",
+    "夜だけ変える",
+    "色だけゆっくり変える",
+    "1秒以内に色や肌の質感まで変えられる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"They can change color and even the texture of their skin in less than a second\"。"
+  },
+  {
+   "q": "最後の \"Every answer about octopuses seems to bring new questions.\" の意味は？",
+   "options": [
+    "タコはすべて分かっている",
+    "質問はしないほうがよい",
+    "タコについて分かるたびに、新しい謎が出てくる",
+    "タコは質問に答える"
+   ],
+   "answer": 2,
+   "explanation_ja": "研究が進むほど新しい疑問が生まれる、という意味です。"
+  }
+ ]
+}

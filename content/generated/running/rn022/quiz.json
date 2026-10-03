@@ -1,0 +1,114 @@
+{
+ "id": "rn022",
+ "author": "claude",
+ "summary_ja": "アイスバス（冷水浴）は血管を収縮させ（血管収縮）、腫れや炎症を減らし、痛みを和らげるかもしれない。ただし練習のたびに使うと、特に筋トレ後は適応の一部を妨げる（適応の鈍化）可能性がある。炎症は体に修復と強化を促すシグナルでもあるから。大会や連日のレースなど翌日に力を出す必要があるときに戦略的に使い、普段は睡眠と食事と楽な日で回復する。10〜15℃で約10分が研究での目安。",
+ "listening": [
+  {
+   "q": "冷水に入ると血管はどうなる？",
+   "options": [
+    "太くなる",
+    "細くなる（血管収縮）",
+    "破れる",
+    "変わらない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When you sit in cold water, your blood vessels narrow. This is called vasoconstriction.\""
+  },
+  {
+   "q": "毎回の練習後のアイスバスが勧められない理由は？",
+   "options": [
+    "寒くて風邪をひくから",
+    "練習の効果の一部を減らすかもしれないから",
+    "時間がかかるから",
+    "お金がかかるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"regular ice baths after training might reduce some of the benefits of that training.\""
+  },
+  {
+   "q": "研究でよく使われる条件は？",
+   "options": [
+    "5℃で30分",
+    "10〜15℃で約10分",
+    "0℃で1時間",
+    "20℃で1分"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Studies often use around ten to fifteen degrees Celsius for about ten minutes.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 5,
+   "ja": "腫れや炎症を減らすかもしれず、多くの人は後で痛みが少なく感じます。",
+   "points_ja": "reduce swelling and inflammation が続き、feel less sore が続けて聞こえます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "それは体に修復して強くなるよう伝えるシグナルの一部です。",
+   "points_ja": "part of the が「パーラヴザ」、repair and get stronger の and は「ン」です。"
+  },
+  {
+   "sentence": 19,
+   "ja": "ほとんどの場合、自然な回復で十分です。",
+   "points_ja": "Most of the time が「モウスタヴザタイム」、recovery is enough がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "水泳の練習",
+    "アイスバスの効果とトレードオフ、使い分け方",
+    "冷たい飲み物の効果",
+    "お風呂の温度"
+   ],
+   "answer": 1,
+   "explanation_ja": "効果、適応の鈍化、戦略的な使い方を話しています。"
+  },
+  {
+   "q": "blunted adaptation の意味は？",
+   "options": [
+    "けがをすること",
+    "筋肉が硬くなること",
+    "体がすぐ適応すること",
+    "練習による体の適応が弱まること"
+   ],
+   "answer": 3,
+   "explanation_ja": "冷水浴で練習の効果の一部が減ることを \"blunted adaptation\" と呼んでいます。"
+  },
+  {
+   "q": "炎症について B が言っていることは？",
+   "options": [
+    "すぐに止めるべき",
+    "常に悪い",
+    "必ずしも悪いものではなく、修復と強化のシグナルでもある",
+    "関係ない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Inflammation is not always bad. It's part of the signal that tells the body to repair and get stronger.\""
+  },
+  {
+   "q": "アイスバスを戦略的に使う例として挙げられているのは？",
+   "options": [
+    "大会やステージレース中で、翌日にまた力を出す必要があるとき",
+    "休みの日",
+    "毎日の練習後",
+    "冬だけ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"during a tournament or stage race, when you need to perform again the next day.\""
+  },
+  {
+   "q": "\"Colder isn't necessarily better.\" の意味は？",
+   "options": [
+    "冷たければ冷たいほど良いわけではない",
+    "冷たいほうが常に良い",
+    "温かいほうが良い",
+    "温度は関係ない"
+   ],
+   "answer": 0,
+   "explanation_ja": "研究の目安の温度を示した後の注意です。"
+  }
+ ]
+}

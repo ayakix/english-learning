@@ -13,13 +13,14 @@ export const SKILLS: { skill: Skill; label: string; color: string }[] = [
   { skill: "listening", label: "リスニング", color: "var(--series-2)" },
   { skill: "writing", label: "ライティング", color: "var(--series-3)" },
   { skill: "reading", label: "リーディング", color: "var(--series-4)" },
+  { skill: "voa", label: "教材", color: "var(--series-5)" },
 ];
 
 const W = 760;
 const H = 260;
 const PAD = { l: 36, r: 96, t: 12, b: 28 };
 
-/** 進捗：4 技能の週ごとの平均スコア */
+/** 進捗：4 技能と教材リスニングの週ごとの平均スコア */
 export function ProgressPage() {
   const toast = useToast();
   const active = useContext(PageActive);
@@ -67,7 +68,7 @@ export function ProgressPage() {
           ))}
         </div>
         <div className="chart">
-          <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label="4 技能の週ごとの平均スコアの推移" onMouseLeave={() => setHover(null)}>
+          <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label="技能ごとの週の平均スコアの推移" onMouseLeave={() => setHover(null)}>
             {[0, 25, 50, 75, 100].map((v) => (
               <g key={v}>
                 <line x1={PAD.l} x2={W - PAD.r} y1={y(v)} y2={y(v)} className="grid" />

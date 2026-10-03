@@ -1,0 +1,114 @@
+{
+ "id": "pa006",
+ "author": "claude",
+ "summary_ja": "赤ちゃんは1歳ごろに最初の言葉を話すが、言語の学習はずっと前、生まれる前から始まっているかもしれない。新生児は母親の声や胎内で聞いた言語を好み、世界中の多くの音を聞き分けられる。1歳近くになると自分の言語の音に敏感になり、聞かない音には鈍くなる（日本の赤ちゃんは R と L が難しくなる）。6か月ごろ喃語が始まる。大人の高く歌うような「赤ちゃん向けの話し方」や、やり取りの会話が発達を助ける。",
+ "listening": [
+  {
+   "q": "言語の学習が始まる時期として話されているのは？",
+   "options": [
+    "1歳から",
+    "3歳から",
+    "生まれる前から始まっているかもしれない",
+    "学校に入ってから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"In fact, it may begin even before birth.\""
+  },
+  {
+   "q": "1歳近くになると起きる変化は？",
+   "options": [
+    "すべての音を聞き分けられるようになる",
+    "音が聞こえにくくなる",
+    "変化はない",
+    "自分の言語の音に敏感になり、あまり聞かない音には鈍くなる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Babies become more sensitive to the sounds of their own language and less sensitive to sounds they rarely hear.\""
+  },
+  {
+   "q": "言語の発達に最も大切かもしれないこととして話されているのは？",
+   "options": [
+    "文字を教えること",
+    "赤ちゃんと親の、テニスのようなやり取りの会話",
+    "テレビを見せること",
+    "静かな部屋"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Perhaps most important is conversation ... it is like a game of tennis.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "赤ちゃんはたいてい1歳の誕生日のころに最初の言葉を話します。",
+   "points_ja": "say their first words がつながり、around their first birthday が続けて聞こえます。"
+  },
+  {
+   "sentence": 4,
+   "ja": "最初の数か月で、赤ちゃんは周りの音のパターンを注意深く聞きます。",
+   "points_ja": "Over the first months が続き、patterns around them が続けて聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "それは口と舌の練習で、少しずつ家族の言語のように聞こえ始めます。",
+   "points_ja": "practice for the mouth and tongue が続き、sound like the family's が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "言語は学校で学ぶ",
+    "赤ちゃんは話し始める前から、音を聞き分け、大人とのやり取りで言葉を学んでいる",
+    "赤ちゃんは1歳まで何も学ばない",
+    "赤ちゃん言葉は使ってはいけない"
+   ],
+   "answer": 1,
+   "explanation_ja": "新生児の聞き分け、音への特化、喃語、大人の話し方、会話を説明しています。"
+  },
+  {
+   "q": "新生児が好むものとして書かれているのは？",
+   "options": [
+    "母親の声と、胎内で聞いた言語の音",
+    "外国語",
+    "音楽だけ",
+    "大きな音"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Newborn babies already prefer their mother's voice and the sound of the language they heard in the womb.\""
+  },
+  {
+   "q": "babbling とは？",
+   "options": [
+    "笑うこと",
+    "最初の言葉",
+    "バ・バ・バなどの繰り返しの音",
+    "泣くこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Babbling is repeated sounds like ba-ba-ba or da-da-da.\""
+  },
+  {
+   "q": "infant-directed speech の特徴は？",
+   "options": [
+    "高く音楽的な声、ゆっくりした話し方、はっきり繰り返す言葉",
+    "小さな声",
+    "難しい言葉",
+    "早口"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a higher, more musical voice, slower speech and clear, repeated words.\""
+  },
+  {
+   "q": "日本の赤ちゃんの例が示していることは？",
+   "options": [
+    "日本語は難しい",
+    "R と L は同じ音",
+    "あまり聞かない音（R と L の違い）は聞き分けにくくなる",
+    "英語は聞こえない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Japanese babies gradually find it harder to hear the difference between the English sounds R and L.\""
+  }
+ ]
+}

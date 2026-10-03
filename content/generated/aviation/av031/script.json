@@ -1,0 +1,173 @@
+{
+ "id": "av031",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Wake Turbulence Categories and Aircraft Separation",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "wake turbulence",
+  "wingtip vortex",
+  "aircraft separation minima"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every airplane leaves an invisible trail behind it. As a wing creates lift, air spins off each wingtip and forms a swirling tube of air called a wingtip vortex. Together, these vortices create wake turbulence."
+  },
+  {
+   "speaker": "A",
+   "text": "Wake turbulence can be strong. It is strongest behind aircraft that are heavy, slow and flying with a clean wing, such as during takeoff and landing. The vortices slowly sink and spread out, and they can last for a few minutes in calm air."
+  },
+  {
+   "speaker": "A",
+   "text": "For a small airplane that flies into the wake of a big jet, this can be dangerous. The spinning air can roll the smaller plane to one side, sometimes more than the pilot can correct."
+  },
+  {
+   "speaker": "A",
+   "text": "To prevent this, air traffic control uses aircraft separation minima. These are the minimum distances or times required between aircraft. Aircraft are divided into wake turbulence categories, based mostly on their weight. For example, there are categories for light, medium and heavy aircraft, and a special category for the giant Airbus A380."
+  },
+  {
+   "speaker": "A",
+   "text": "A light aircraft landing behind a heavy jet must keep a larger gap than a heavy jet behind another heavy jet. That is why you sometimes hear controllers say, \"Caution, wake turbulence.\""
+  },
+  {
+   "speaker": "A",
+   "text": "Weather also matters. Wind can blow the vortices away from the runway, while calm air lets them stay longer. Researchers are now using new data to adjust separation more precisely and allow more flights safely."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every airplane leaves an invisible trail behind it.",
+   "start": 0.0,
+   "end": 3.12,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "As a wing creates lift, air spins off each wingtip and forms a swirling tube of air called a wingtip vortex.",
+   "start": 3.95,
+   "end": 11.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Together, these vortices create wake turbulence.",
+   "start": 12.54,
+   "end": 16.06,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Wake turbulence can be strong.",
+   "start": 16.58,
+   "end": 18.74,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It is strongest behind aircraft that are heavy, slow and flying with a clean wing, such as during takeoff and landing.",
+   "start": 19.33,
+   "end": 27.01,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The vortices slowly sink and spread out, and they can last for a few minutes in calm air.",
+   "start": 28.0,
+   "end": 33.76,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "For a small airplane that flies into the wake of a big jet, this can be dangerous.",
+   "start": 34.28,
+   "end": 39.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The spinning air can roll the smaller plane to one side, sometimes more than the pilot can correct.",
+   "start": 40.47,
+   "end": 46.63,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "To prevent this, air traffic control uses aircraft separation minima.",
+   "start": 47.15,
+   "end": 51.63,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "These are the minimum distances or times required between aircraft.",
+   "start": 52.06,
+   "end": 56.94,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Aircraft are divided into wake turbulence categories, based mostly on their weight.",
+   "start": 57.85,
+   "end": 62.65,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, there are categories for light, medium and heavy aircraft, and a special category for the giant Airbus A380.",
+   "start": 63.56,
+   "end": 72.68,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A light aircraft landing behind a heavy jet must keep a larger gap than a heavy jet behind another heavy jet.",
+   "start": 73.2,
+   "end": 80.4,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why you sometimes hear controllers say, \"Caution, wake turbulence.\"",
+   "start": 81.07,
+   "end": 86.03,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Weather also matters.",
+   "start": 86.55,
+   "end": 88.15,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Wind can blow the vortices away from the runway, while calm air lets them stay longer.",
+   "start": 88.98,
+   "end": 94.26,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Researchers are now using new data to adjust separation more precisely and allow more flights safely.",
+   "start": 95.25,
+   "end": 102.05,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 233,
+ "duration": 102.0,
+ "wpm": 137,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:52"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wt024",
+ "author": "claude",
+ "summary_ja": "「30m防水」は実際に30m潜れるという意味ではなく、実験室での圧力の数値。日常の水しぶき程度で、泳ぐなら100m以上が目安。現実には腕の動きやお湯で圧力や温度が急に変わる。水を防ぐパッキンは劣化するので1〜2年ごとの検査がよく、濡れたままリューズを引かない。",
+ "listening": [
+  {
+   "q": "「30m防水」の本当の意味は？",
+   "options": [
+    "30回洗える",
+    "30分間水中で使える",
+    "実験室の圧力試験の数値で、水しぶきや雨に耐える程度",
+    "30mまで潜れる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The number refers to pressure in a laboratory test, not a real depth\"、\"it can handle splashes and rain\"。"
+  },
+  {
+   "q": "水を防いでいる部品は？",
+   "options": [
+    "金属のベルト",
+    "針",
+    "ゴムのパッキン（ガスケット）",
+    "ガラスの厚さ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Small rubber rings called gaskets.\""
+  },
+  {
+   "q": "B の最後のアドバイスは？",
+   "options": [
+    "お湯で洗う",
+    "濡れているときにリューズを引かない",
+    "毎日泳ぐ",
+    "パッキンを外す"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"never pull out the crown when the watch is wet.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "それは最もよくある誤解の一つです。",
+   "points_ja": "one of the が「ワナヴザ」とつながり、most common の t は聞こえません。"
+  },
+  {
+   "sentence": 7,
+   "ja": "泳ぐなら、多くの専門家は少なくとも100mを勧めます。",
+   "points_ja": "suggest at least が「サジェスタットリースト」とつながります。"
+  },
+  {
+   "sentence": 17,
+   "ja": "特に熱や石けんで、乾いて形が崩れます。",
+   "points_ja": "dry out and が続き、heat and soap の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "水着の選び方",
+    "時計の電池交換",
+    "ダイビングの方法",
+    "防水表示の誤解と、防水性を保つための注意"
+   ],
+   "answer": 3,
+   "explanation_ja": "表示の意味と、パッキンの劣化・検査の大切さを話しています。"
+  },
+  {
+   "q": "試験と現実が違う理由は？",
+   "options": [
+    "試験は海水で行うから",
+    "現実の水はきれいだから",
+    "試験は時計を使わないから",
+    "試験は静かな水で行うが、現実では圧力や温度が急に変わるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the test is done in still water. In real life ... create sudden changes in pressure and temperature.\""
+  },
+  {
+   "q": "パッキンを傷める原因として挙げられているのは？",
+   "options": [
+    "砂と土",
+    "光と風",
+    "寒さと雪",
+    "熱と石けん"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"especially with heat and soap.\""
+  },
+  {
+   "q": "勧められている検査の頻度は？",
+   "options": [
+    "1〜2年ごと",
+    "検査は不要",
+    "毎月",
+    "10年ごと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"have it pressure tested every year or two.\""
+  },
+  {
+   "q": "\"a watch that was water resistant years ago might not be now\" の理由は？",
+   "options": [
+    "防水の規則が変わったから",
+    "パッキンが年月とともに劣化するから",
+    "時計が軽くなるから",
+    "ガラスが厚くなるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "パッキンが \"get old\" して乾き、形が崩れるためです。"
+  }
+ ]
+}

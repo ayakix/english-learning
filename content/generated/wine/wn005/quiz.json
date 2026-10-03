@@ -1,0 +1,114 @@
+{
+ "id": "wn005",
+ "author": "claude",
+ "summary_ja": "若い赤ワインは紫色、古いワインは縁がオレンジやレンガ色で、口当たりもやわらかい。色素のアントシアニンと渋みのタンニンが熟成中に結びついて大きな分子になる（重合）ため、色が変わりタンニンがなめらかになる。さらに大きく重くなると溶けていられず、瓶の底に沈殿物として落ちる。沈殿は欠陥ではない。",
+ "listening": [
+  {
+   "q": "若いワインと古いワインの色の違いは？",
+   "options": [
+    "若いワインは紫、古いワインは縁がオレンジやレンガ色",
+    "古いワインは透明",
+    "若いワインは茶色、古いワインは紫",
+    "どちらも同じ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The young wine is deep purple. The old wine is lighter, with an orange or brick color at the edge.\""
+  },
+  {
+   "q": "熟成中に起きる変化は？",
+   "options": [
+    "糖が増える",
+    "水が蒸発する",
+    "アルコールが増える",
+    "色素とタンニンが結びついて大きな分子になる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"As wine ages, these compounds slowly join together. Scientists call this process polymerization.\""
+  },
+  {
+   "q": "沈殿物について話し手は何と言っている？",
+   "options": [
+    "欠陥ではなく、長年変化してきた証",
+    "飲むと危険",
+    "偽物の証拠",
+    "すぐに捨てるべき"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"when you see sediment, it is not a defect. It is a sign that the wine has been changing\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "口の中でも、古いワインのほうがやわらかく感じます。",
+   "points_ja": "In your mouth が続き、wine also がつながります。"
+  },
+  {
+   "sentence": 8,
+   "ja": "それらはブドウの皮から来ます。",
+   "points_ja": "come from the が続けて聞こえ、grape skins の p は軽くなります。"
+  },
+  {
+   "sentence": 16,
+   "ja": "多くの人は、熟成したタンニンをよりなめらかで刺激が少ないと表現します。",
+   "points_ja": "describe older がつながり、smoother and が「スムーザン」と短くなります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "タンニンは熟成で強くなる",
+    "沈殿物は悪いワインの印である",
+    "アントシアニンとタンニンの結合が、熟成による色と口当たりの変化を生む",
+    "ワインは古いほど紫になる"
+   ],
+   "answer": 2,
+   "explanation_ja": "重合による色・渋み・沈殿物の変化を説明しています。"
+  },
+  {
+   "q": "anthocyanins とは？",
+   "options": [
+    "渋みの成分",
+    "酵母の一種",
+    "赤ワインの色のもとになる色素",
+    "アルコールの種類"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"These are the pigments that give red wine its color.\""
+  },
+  {
+   "q": "タンニンの役割は？",
+   "options": [
+    "口の中を乾いたように感じさせる",
+    "香りを出す",
+    "泡を作る",
+    "甘さを出す"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"tannins, which create the drying feeling in your mouth.\""
+  },
+  {
+   "q": "polymerization の説明として正しいものは？",
+   "options": [
+    "色が消えること",
+    "分子が分解すること",
+    "水が蒸発すること",
+    "小さな分子がつながって大きな鎖になること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Small molecules connect to form larger chains.\""
+  },
+  {
+   "q": "沈殿物ができる理由は？",
+   "options": [
+    "分子の鎖が大きく重くなり、溶けていられなくなるから",
+    "瓶が古いから",
+    "温度が高いから",
+    "砂が入るから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"they can no longer stay dissolved in the wine. They fall to the bottom of the bottle as sediment.\""
+  }
+ ]
+}

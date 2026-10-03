@@ -1,0 +1,212 @@
+{
+ "id": "ns011",
+ "author": "claude",
+ "category": "science",
+ "title": "How Fireflies Make Light",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "bioluminescence",
+  "chemical reaction",
+  "signal"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "On a warm summer night, fireflies fill the darkness with tiny flashing lights. In Japan, watching them is a seasonal tradition. But how does an insect make light, and why?"
+  },
+  {
+   "speaker": "A",
+   "text": "The ability of living things to produce light is called bioluminescence. It is found in many creatures, including some fish, jellyfish and mushrooms. In fireflies, the light comes from special cells in the lower part of the body."
+  },
+  {
+   "speaker": "A",
+   "text": "Inside these cells, a chemical reaction takes place. A substance called luciferin combines with oxygen, with the help of an enzyme called luciferase. An enzyme is a natural molecule that speeds up chemical reactions. The reaction releases energy in the form of light."
+  },
+  {
+   "speaker": "A",
+   "text": "Firefly light is often called cold light. A normal light bulb wastes much of its energy as heat. Fireflies, however, turn almost all of the energy into light, so their bodies do not get hot."
+  },
+  {
+   "speaker": "A",
+   "text": "So why do they glow? Mainly to find a partner. The flashes are a signal. Each species has its own pattern of flashes, a bit like a secret code. Males fly and flash, and females answer from the grass."
+  },
+  {
+   "speaker": "A",
+   "text": "Some fireflies use this system in a darker way. In certain species, females copy the flash patterns of another species. When a male of that species comes closer, expecting to meet a partner, she eats him."
+  },
+  {
+   "speaker": "A",
+   "text": "So the beautiful lights of summer are also messages of love, competition and sometimes danger."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "On a warm summer night, fireflies fill the darkness with tiny flashing lights.",
+   "start": 0.0,
+   "end": 5.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In Japan, watching them is a seasonal tradition.",
+   "start": 6.27,
+   "end": 9.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But how does an insect make light, and why?",
+   "start": 10.14,
+   "end": 13.42,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The ability of living things to produce light is called bioluminescence.",
+   "start": 13.94,
+   "end": 18.78,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It is found in many creatures, including some fish, jellyfish and mushrooms.",
+   "start": 19.41,
+   "end": 24.29,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In fireflies, the light comes from special cells in the lower part of the body.",
+   "start": 25.36,
+   "end": 30.32,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Inside these cells, a chemical reaction takes place.",
+   "start": 30.84,
+   "end": 34.4,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A substance called luciferin combines with oxygen, with the help of an enzyme called luciferase.",
+   "start": 35.03,
+   "end": 41.51,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "An enzyme is a natural molecule that speeds up chemical reactions.",
+   "start": 41.94,
+   "end": 46.5,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The reaction releases energy in the form of light.",
+   "start": 46.89,
+   "end": 49.81,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Firefly light is often called cold light.",
+   "start": 50.41,
+   "end": 53.53,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A normal light bulb wastes much of its energy as heat.",
+   "start": 54.2,
+   "end": 57.72,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Fireflies, however, turn almost all of the energy into light, so their bodies do not get hot.",
+   "start": 58.39,
+   "end": 64.47,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So why do they glow?",
+   "start": 64.99,
+   "end": 66.71,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Mainly to find a partner.",
+   "start": 67.34,
+   "end": 69.34,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The flashes are a signal.",
+   "start": 69.73,
+   "end": 71.61,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Each species has its own pattern of flashes, a bit like a secret code.",
+   "start": 72.04,
+   "end": 76.84,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Males fly and flash, and females answer from the grass.",
+   "start": 77.27,
+   "end": 81.43,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some fireflies use this system in a darker way.",
+   "start": 81.95,
+   "end": 85.27,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "In certain species, females copy the flash patterns of another species.",
+   "start": 85.9,
+   "end": 90.46,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "When a male of that species comes closer, expecting to meet a partner, she eats him.",
+   "start": 91.29,
+   "end": 96.73,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "So the beautiful lights of summer are also messages of love, competition and sometimes danger.",
+   "start": 97.25,
+   "end": 104.21,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 236,
+ "duration": 104.1,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-04 00:00"
+}

@@ -1,0 +1,215 @@
+{
+ "id": "fi008",
+ "author": "claude",
+ "category": "finance",
+ "title": "What Is an ETF?",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "ETF",
+  "fund",
+  "trading"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In recent years, ETFs have become one of the most popular ways to invest. The letters stand for exchange-traded fund. But what exactly is an ETF?"
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the word fund. A fund collects money from many investors and uses it to buy a large group of investments, such as stocks or bonds. Each investor owns a small share of the whole collection. This is an easy way to get diversification."
+  },
+  {
+   "speaker": "A",
+   "text": "Traditional mutual funds are usually bought and sold only once a day, at a price calculated after the market closes. An ETF is different. It is traded on a stock exchange, just like a company's shares. You can buy or sell it at any time while the market is open, at the current price. That is what exchange-traded means."
+  },
+  {
+   "speaker": "A",
+   "text": "Most ETFs follow an index. For example, an ETF might track a broad stock market index, a bond index, gold or even a specific industry like technology."
+  },
+  {
+   "speaker": "A",
+   "text": "Why are they so popular? First, many ETFs have very low fees. Second, they are transparent. You can usually see exactly what the fund holds. Third, they are flexible, since you can trade them like stocks."
+  },
+  {
+   "speaker": "A",
+   "text": "There are some cautions. Trading easily can tempt people to buy and sell too often, which usually hurts returns. Some ETFs also use complicated strategies that are not suitable for beginners. For most long-term investors, a simple, low-cost ETF that tracks a broad market is a good place to start."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In recent years, ETFs have become one of the most popular ways to invest.",
+   "start": 0.0,
+   "end": 5.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The letters stand for exchange-traded fund.",
+   "start": 5.71,
+   "end": 8.91,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But what exactly is an ETF?",
+   "start": 9.42,
+   "end": 11.9,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Let's start with the word fund.",
+   "start": 12.42,
+   "end": 14.34,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A fund collects money from many investors and uses it to buy a large group of investments, such as stocks or bonds.",
+   "start": 15.33,
+   "end": 22.97,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Each investor owns a small share of the whole collection.",
+   "start": 23.68,
+   "end": 27.12,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is an easy way to get diversification.",
+   "start": 27.79,
+   "end": 30.59,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Traditional mutual funds are usually bought and sold only once a day, at a price calculated after the market closes.",
+   "start": 31.11,
+   "end": 38.75,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "An ETF is different.",
+   "start": 39.46,
+   "end": 41.06,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It is traded on a stock exchange, just like a company's shares.",
+   "start": 41.97,
+   "end": 45.49,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "You can buy or sell it at any time while the market is open, at the current price.",
+   "start": 46.48,
+   "end": 51.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That is what exchange-traded means.",
+   "start": 52.11,
+   "end": 54.75,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Most ETFs follow an index.",
+   "start": 55.27,
+   "end": 57.67,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, an ETF might track a broad stock market index, a bond index, gold or even a specific industry like technology.",
+   "start": 58.26,
+   "end": 67.54,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Why are they so popular?",
+   "start": 68.06,
+   "end": 69.34,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "First, many ETFs have very low fees.",
+   "start": 69.77,
+   "end": 74.09,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, they are transparent.",
+   "start": 74.84,
+   "end": 76.68,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "You can usually see exactly what the fund holds.",
+   "start": 77.11,
+   "end": 80.39,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Third, they are flexible, since you can trade them like stocks.",
+   "start": 81.14,
+   "end": 84.58,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "There are some cautions.",
+   "start": 85.1,
+   "end": 86.54,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Trading easily can tempt people to buy and sell too often, which usually hurts returns.",
+   "start": 87.53,
+   "end": 93.61,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Some ETFs also use complicated strategies that are not suitable for beginners.",
+   "start": 94.36,
+   "end": 99.52,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "For most long-term investors, a simple, low-cost ETF that tracks a broad market is a good place to start.",
+   "start": 100.23,
+   "end": 107.35,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 244,
+ "duration": 107.3,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-04 00:02"
+}

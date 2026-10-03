@@ -1,0 +1,194 @@
+{
+ "id": "wn010",
+ "author": "claude",
+ "category": "wine",
+ "title": "Bordeaux 2010 vs 2007: Structure Breakdown",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "tannic spine",
+  "vintage variation",
+  "longevity"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Wine critics often compare vintages, the years in which the grapes were picked. In Bordeaux, two years offer a clear contrast: two thousand ten and two thousand seven."
+  },
+  {
+   "speaker": "A",
+   "text": "Two thousand ten is widely considered a classic, great vintage. The summer was dry and sunny, but the nights were cool. The grapes ripened fully while keeping good acidity. The wines were deep in color, rich in fruit and full of strong tannins."
+  },
+  {
+   "speaker": "A",
+   "text": "Critics often say these wines have a tannic spine. This means the tannins form a firm structure, like a backbone, that holds the wine together. When they were young, many two thousand ten wines felt powerful and closed. They needed many years in the bottle. This is a sign of longevity, the ability to age for a long time."
+  },
+  {
+   "speaker": "A",
+   "text": "Two thousand seven was very different. The weather was cooler and less stable, and the grapes did not ripen as easily. The wines were lighter, with softer tannins and more delicate fruit. They were pleasant to drink when young, but most were not made to last for decades."
+  },
+  {
+   "speaker": "A",
+   "text": "Does this mean two thousand seven was a bad year? Not exactly. It produced charming, easy wines at lower prices, which were ready sooner."
+  },
+  {
+   "speaker": "A",
+   "text": "This kind of vintage variation is part of what makes Bordeaux interesting. The same estate, on the same land, can make quite different wines, depending on the weather."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Wine critics often compare vintages, the years in which the grapes were picked.",
+   "start": 0.0,
+   "end": 4.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In Bordeaux, two years offer a clear contrast: two thousand ten and two thousand seven.",
+   "start": 5.31,
+   "end": 11.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Two thousand ten is widely considered a classic, great vintage.",
+   "start": 11.83,
+   "end": 16.27,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The summer was dry and sunny, but the nights were cool.",
+   "start": 16.9,
+   "end": 20.34,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The grapes ripened fully while keeping good acidity.",
+   "start": 21.01,
+   "end": 24.21,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The wines were deep in color, rich in fruit and full of strong tannins.",
+   "start": 24.64,
+   "end": 29.2,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Critics often say these wines have a tannic spine.",
+   "start": 29.72,
+   "end": 33.08,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This means the tannins form a firm structure, like a backbone, that holds the wine together.",
+   "start": 33.75,
+   "end": 38.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When they were young, many two thousand ten wines felt powerful and closed.",
+   "start": 40.18,
+   "end": 45.06,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They needed many years in the bottle.",
+   "start": 45.49,
+   "end": 47.81,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is a sign of longevity, the ability to age for a long time.",
+   "start": 48.24,
+   "end": 52.4,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Two thousand seven was very different.",
+   "start": 52.92,
+   "end": 55.44,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The weather was cooler and less stable, and the grapes did not ripen as easily.",
+   "start": 56.07,
+   "end": 60.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The wines were lighter, with softer tannins and more delicate fruit.",
+   "start": 61.3,
+   "end": 65.54,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "They were pleasant to drink when young, but most were not made to last for decades.",
+   "start": 65.93,
+   "end": 70.29,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Does this mean two thousand seven was a bad year?",
+   "start": 70.81,
+   "end": 73.77,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Not exactly.",
+   "start": 74.44,
+   "end": 75.6,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It produced charming, easy wines at lower prices, which were ready sooner.",
+   "start": 76.23,
+   "end": 80.79,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This kind of vintage variation is part of what makes Bordeaux interesting.",
+   "start": 81.31,
+   "end": 85.71,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The same estate, on the same land, can make quite different wines, depending on the weather.",
+   "start": 86.14,
+   "end": 91.26,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 230,
+ "duration": 91.2,
+ "wpm": 151,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:47"
+}

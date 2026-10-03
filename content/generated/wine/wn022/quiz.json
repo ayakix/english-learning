@@ -1,0 +1,114 @@
+{
+ "id": "wn022",
+ "author": "claude",
+ "summary_ja": "コールドソーク（低温浸漬）は、破砕したブドウを10〜15℃以下に冷やし、発酵が始まる前に数日間皮を果汁に浸ける技法。アルコールがない水の中での抽出なので、色素や香りは溶け出すが、種の荒いタンニンは出にくい。皮の薄いピノ・ノワールで人気。効果の大きさは研究で意見が分かれ、温度管理を誤ると雑菌のリスクがある。",
+ "listening": [
+  {
+   "q": "コールドソークで、発酵が始まらない理由は？",
+   "options": [
+    "低温で酵母が働けないから",
+    "酸素がないから",
+    "皮を取り除くから",
+    "砂糖がないから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"At this temperature, the yeast cannot start fermentation yet.\""
+  },
+  {
+   "q": "コールドソークの狙いは？",
+   "options": [
+    "泡を作る",
+    "荒いタンニンを抑えつつ、色と果実の香りを増やす",
+    "甘くする",
+    "アルコールを強くする"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"So a cold soak can increase color depth and fruit aromas without making the wine too tough.\""
+  },
+  {
+   "q": "効果について話し手は何と言っている？",
+   "options": [
+    "必ず大きな効果がある",
+    "禁止されている",
+    "まったく効果がない",
+    "研究によって明らかな効果も小さな効果もあり、意見が分かれる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Some studies show clear benefits, while others show only small effects.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "抽出をコントロールする技法の一つがコールドソークです。",
+   "points_ja": "technique to の to は弱形、control extraction がつながります。"
+  },
+  {
+   "sentence": 6,
+   "ja": "皮はただ果汁に浸かり、たいてい数日間続きます。",
+   "points_ja": "soak in the がつながり、usually for several が続けて聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "多くの醸造の選択と同じように、それは道具であって規則ではありません。",
+   "points_ja": "it is a が「イティザ」、not a rule が「ナラルール」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "コールドソークは必須の工程",
+    "皮は使わないほうがよい",
+    "ワインは冷やして飲むべき",
+    "コールドソークは色や香りを引き出す道具の一つで、効果には議論がある"
+   ],
+   "answer": 3,
+   "explanation_ja": "仕組み、狙い、議論とリスクを説明しています。"
+  },
+  {
+   "q": "extraction の意味は？",
+   "options": [
+    "皮から色や風味、タンニンを果汁に移すこと",
+    "ワインを瓶に詰めること",
+    "ブドウを摘むこと",
+    "ワインを冷やすこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The process of getting these out of the skins and into the juice is called extraction.\""
+  },
+  {
+   "q": "aqueous extraction の意味は？",
+   "options": [
+    "アルコールでの抽出",
+    "水の中での抽出",
+    "熱による抽出",
+    "空気中での抽出"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"This is called aqueous extraction, meaning extraction in water.\""
+  },
+  {
+   "q": "荒いタンニンは主にどこから来て、何に溶けやすい？",
+   "options": [
+    "皮から来て、水に溶けやすい",
+    "樽から来て、酸に溶けやすい",
+    "茎から来て、糖に溶けやすい",
+    "種から来て、アルコールに溶けやすい"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many harsh tannins, especially those from the seeds, dissolve more easily in alcohol.\""
+  },
+  {
+   "q": "リスクとして挙げられているのは？",
+   "options": [
+    "温度を低く保たないと望ましくない細菌が増える",
+    "皮が溶ける",
+    "ワインが凍る",
+    "色が抜ける"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"There are also risks, such as unwanted bacteria if the temperature is not kept low.\""
+  }
+ ]
+}

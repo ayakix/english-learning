@@ -1,0 +1,194 @@
+{
+ "id": "rn027",
+ "author": "claude",
+ "category": "running",
+ "title": "Dynamic Warm-ups vs. Static Stretching",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "dynamic warm-up",
+  "static stretching",
+  "neuromuscular readiness"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many runners grew up stretching before exercise. They would stand still and hold each stretch for thirty seconds or more. This is called static stretching. Today, many coaches recommend a different approach before running: the dynamic warm-up."
+  },
+  {
+   "speaker": "A",
+   "text": "A dynamic warm-up uses movement instead of holding positions. It includes easy jogging, leg swings, walking lunges, high knees and short, relaxed accelerations called strides. The goal is to prepare the body for the specific movements of running."
+  },
+  {
+   "speaker": "A",
+   "text": "Why the change? Research suggests that long static stretches just before exercise can temporarily reduce muscle power and speed. The effect is usually small, and short stretches seem less of a problem. But for a race or speed session, many athletes prefer not to take the risk."
+  },
+  {
+   "speaker": "A",
+   "text": "Dynamic movement, on the other hand, raises body temperature and increases blood flow to the muscles. It also wakes up the connection between the brain and the muscles. Coaches call this neuromuscular readiness. Your legs feel lighter, and your first fast steps feel smoother."
+  },
+  {
+   "speaker": "A",
+   "text": "Does this mean static stretching is bad? Not at all. It can still help improve flexibility over time, and many people enjoy it after running or in the evening, when the muscles are warm and power is not needed."
+  },
+  {
+   "speaker": "A",
+   "text": "A simple routine before a hard workout might be ten minutes of easy jogging, five minutes of dynamic drills and a few strides. Your body will be ready to go."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many runners grew up stretching before exercise.",
+   "start": 0.0,
+   "end": 2.8,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They would stand still and hold each stretch for thirty seconds or more.",
+   "start": 3.63,
+   "end": 7.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called static stretching.",
+   "start": 8.46,
+   "end": 10.3,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, many coaches recommend a different approach before running: the dynamic warm-up.",
+   "start": 11.21,
+   "end": 16.73,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A dynamic warm-up uses movement instead of holding positions.",
+   "start": 17.25,
+   "end": 21.25,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It includes easy jogging, leg swings, walking lunges, high knees and short, relaxed accelerations called strides.",
+   "start": 21.84,
+   "end": 29.68,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The goal is to prepare the body for the specific movements of running.",
+   "start": 30.59,
+   "end": 34.35,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Why the change?",
+   "start": 34.87,
+   "end": 35.75,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Research suggests that long static stretches just before exercise can temporarily reduce muscle power and speed.",
+   "start": 36.18,
+   "end": 44.1,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The effect is usually small, and short stretches seem less of a problem.",
+   "start": 44.77,
+   "end": 48.85,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But for a race or speed session, many athletes prefer not to take the risk.",
+   "start": 49.68,
+   "end": 54.24,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Dynamic movement, on the other hand, raises body temperature and increases blood flow to the muscles.",
+   "start": 54.76,
+   "end": 61.0,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It also wakes up the connection between the brain and the muscles.",
+   "start": 61.39,
+   "end": 65.27,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Coaches call this neuromuscular readiness.",
+   "start": 65.66,
+   "end": 68.66,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Your legs feel lighter, and your first fast steps feel smoother.",
+   "start": 69.09,
+   "end": 73.25,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Does this mean static stretching is bad?",
+   "start": 73.77,
+   "end": 76.41,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Not at all.",
+   "start": 76.84,
+   "end": 77.72,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It can still help improve flexibility over time, and many people enjoy it after running or in the evening, when the muscles are warm and power is not needed.",
+   "start": 78.31,
+   "end": 87.03,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A simple routine before a hard workout might be ten minutes of easy jogging, five minutes of dynamic drills and a few strides.",
+   "start": 87.55,
+   "end": 95.31,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Your body will be ready to go.",
+   "start": 96.14,
+   "end": 98.06,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 235,
+ "duration": 98.0,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 78,
+ "created": "2026-10-03 23:56"
+}

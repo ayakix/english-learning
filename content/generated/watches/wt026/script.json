@@ -1,0 +1,244 @@
+{
+ "id": "wt026",
+ "author": "claude",
+ "category": "watches",
+ "title": "Inside a Complete Overhaul",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "complete overhaul",
+  "ultrasonic cleaning",
+  "timing machine"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "My watchmaker told me my watch needs a complete overhaul. What exactly happens during that?"
+  },
+  {
+   "speaker": "B",
+   "text": "Basically, the watch is taken completely apart. Every screw, every wheel, every spring. A typical movement can have more than a hundred parts."
+  },
+  {
+   "speaker": "A",
+   "text": "Then what?"
+  },
+  {
+   "speaker": "B",
+   "text": "The parts are cleaned, often with ultrasonic cleaning. That means the parts sit in a special liquid, and high-frequency sound waves shake dirt and old oil out of the tiniest holes."
+  },
+  {
+   "speaker": "A",
+   "text": "So old oil is the main problem?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's a big one. Over the years, oil dries out or becomes sticky. When that happens, parts rub directly against each other and slowly wear down. An overhaul stops that damage before it becomes serious."
+  },
+  {
+   "speaker": "A",
+   "text": "Are parts replaced as well?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, if they're worn. The mainspring, gaskets and sometimes certain wheels. Then the watchmaker reassembles everything and adds fresh oil, in tiny amounts, at exactly the right points."
+  },
+  {
+   "speaker": "A",
+   "text": "And how do they know it's working well afterwards?"
+  },
+  {
+   "speaker": "B",
+   "text": "They use a timing machine. It listens to the ticking and shows how fast or slow the watch runs, and how strongly the balance swings. They test it in several positions, like dial up or crown down, and adjust it."
+  },
+  {
+   "speaker": "A",
+   "text": "How often should this be done?"
+  },
+  {
+   "speaker": "B",
+   "text": "It depends on the watch, but many brands suggest every five to ten years."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "My watchmaker told me my watch needs a complete overhaul.",
+   "start": 0.0,
+   "end": 3.8,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What exactly happens during that?",
+   "start": 4.43,
+   "end": 6.35,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Basically, the watch is taken completely apart.",
+   "start": 7.07,
+   "end": 10.39,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Every screw, every wheel, every spring.",
+   "start": 10.94,
+   "end": 14.22,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "A typical movement can have more than a hundred parts.",
+   "start": 14.81,
+   "end": 17.93,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Then what?",
+   "start": 18.65,
+   "end": 19.61,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The parts are cleaned, often with ultrasonic cleaning.",
+   "start": 20.33,
+   "end": 23.85,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That means the parts sit in a special liquid, and high-frequency sound waves shake dirt and old oil out of the tiniest holes.",
+   "start": 24.44,
+   "end": 32.52,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So old oil is the main problem?",
+   "start": 33.24,
+   "end": 35.96,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It's a big one.",
+   "start": 36.68,
+   "end": 37.64,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Over the years, oil dries out or becomes sticky.",
+   "start": 38.07,
+   "end": 41.99,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "When that happens, parts rub directly against each other and slowly wear down.",
+   "start": 42.82,
+   "end": 47.86,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "An overhaul stops that damage before it becomes serious.",
+   "start": 48.45,
+   "end": 52.37,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Are parts replaced as well?",
+   "start": 53.09,
+   "end": 55.09,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes, if they're worn.",
+   "start": 55.81,
+   "end": 57.77,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The mainspring, gaskets and sometimes certain wheels.",
+   "start": 58.32,
+   "end": 62.12,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Then the watchmaker reassembles everything and adds fresh oil, in tiny amounts, at exactly the right points.",
+   "start": 62.75,
+   "end": 69.95,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And how do they know it's working well afterwards?",
+   "start": 70.67,
+   "end": 73.71,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "They use a timing machine.",
+   "start": 74.43,
+   "end": 76.03,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It listens to the ticking and shows how fast or slow the watch runs, and how strongly the balance swings.",
+   "start": 76.78,
+   "end": 83.74,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "They test it in several positions, like dial up or crown down, and adjust it.",
+   "start": 84.33,
+   "end": 89.61,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "How often should this be done?",
+   "start": 90.41,
+   "end": 92.41,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "It depends on the watch, but many brands suggest every five to ten years.",
+   "start": 93.13,
+   "end": 98.17,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 215,
+ "duration": 98.1,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:45"
+}

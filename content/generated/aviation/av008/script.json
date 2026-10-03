@@ -1,0 +1,194 @@
+{
+ "id": "av008",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Space-Based ADS-B: Tracking Planes Over Oceans",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "space-based ADS-B",
+  "low Earth orbit (LEO)",
+  "oceanic airspace"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "For a long time, there was a big gap in air traffic surveillance. Over land, radar and ground stations can follow planes closely. But over the middle of the oceans, there are no radar stations. Controllers had to rely on position reports that came only every several minutes. So they kept planes very far apart, just in case."
+  },
+  {
+   "speaker": "A",
+   "text": "Today, a new technology is filling that gap: space-based ADS-B."
+  },
+  {
+   "speaker": "A",
+   "text": "Remember that modern airliners constantly broadcast their position by radio. Normally, these signals are received by stations on the ground. In space-based systems, the receivers are placed on satellites instead."
+  },
+  {
+   "speaker": "A",
+   "text": "These satellites fly in low Earth orbit, often shortened to LEO. That means they circle the Earth at a height of several hundred kilometers, much lower than many communication satellites. Being closer helps them pick up the relatively weak signals from aircraft. A large network of these satellites can cover the whole planet, including the poles."
+  },
+  {
+   "speaker": "A",
+   "text": "The result is near real-time tracking over oceanic airspace. Controllers can see where planes are almost as clearly as over land."
+  },
+  {
+   "speaker": "A",
+   "text": "This brings several benefits. Planes can fly closer together safely, so more flights can use the best routes and winds. That saves fuel and time. It also helps in emergencies, because controllers know exactly where an aircraft was if something goes wrong. Interest in global flight tracking grew strongly after a passenger jet disappeared over the Indian Ocean in twenty fourteen."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "For a long time, there was a big gap in air traffic surveillance.",
+   "start": 0.0,
+   "end": 4.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Over land, radar and ground stations can follow planes closely.",
+   "start": 4.91,
+   "end": 9.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But over the middle of the oceans, there are no radar stations.",
+   "start": 10.06,
+   "end": 14.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Controllers had to rely on position reports that came only every several minutes.",
+   "start": 14.89,
+   "end": 19.77,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "So they kept planes very far apart, just in case.",
+   "start": 20.28,
+   "end": 24.12,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, a new technology is filling that gap: space-based ADS-B.",
+   "start": 24.64,
+   "end": 30.64,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Remember that modern airliners constantly broadcast their position by radio.",
+   "start": 31.16,
+   "end": 36.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Normally, these signals are received by stations on the ground.",
+   "start": 36.95,
+   "end": 40.79,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In space-based systems, the receivers are placed on satellites instead.",
+   "start": 41.22,
+   "end": 46.02,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "These satellites fly in low Earth orbit, often shortened to LEO.",
+   "start": 46.54,
+   "end": 51.74,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That means they circle the Earth at a height of several hundred kilometers, much lower than many communication satellites.",
+   "start": 52.73,
+   "end": 60.49,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Being closer helps them pick up the relatively weak signals from aircraft.",
+   "start": 61.0,
+   "end": 66.04,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A large network of these satellites can cover the whole planet, including the poles.",
+   "start": 66.47,
+   "end": 71.59,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The result is near real-time tracking over oceanic airspace.",
+   "start": 72.11,
+   "end": 76.63,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Controllers can see where planes are almost as clearly as over land.",
+   "start": 77.26,
+   "end": 81.82,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This brings several benefits.",
+   "start": 82.42,
+   "end": 84.42,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Planes can fly closer together safely, so more flights can use the best routes and winds.",
+   "start": 85.01,
+   "end": 91.05,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "That saves fuel and time.",
+   "start": 91.68,
+   "end": 93.88,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It also helps in emergencies, because controllers know exactly where an aircraft was if something goes wrong.",
+   "start": 94.51,
+   "end": 101.31,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Interest in global flight tracking grew strongly after a passenger jet disappeared over the Indian Ocean in twenty fourteen.",
+   "start": 101.98,
+   "end": 109.74,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 236,
+ "duration": 109.7,
+ "wpm": 129,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 80,
+ "created": "2026-10-03 23:51"
+}

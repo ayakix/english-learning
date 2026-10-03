@@ -1,0 +1,265 @@
+{
+ "id": "rn036",
+ "author": "claude",
+ "category": "running",
+ "title": "Heavy Strength Training for Distance Runners",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "neural adaptation",
+  "rate of force development",
+  "tendon stiffness"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  },
+  "B": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many distance runners avoid heavy weights because they don't want to get bulky. Is that a real concern?"
+  },
+  {
+   "speaker": "B",
+   "text": "Mostly not. When you run a lot, it's actually hard to build big muscles. And research shows that heavy strength training can make runners faster and more efficient."
+  },
+  {
+   "speaker": "A",
+   "text": "How does lifting weights help running?"
+  },
+  {
+   "speaker": "B",
+   "text": "A lot of the early benefit comes from neural adaptation. Your nervous system learns to use more muscle fibers at the same time and to fire them more effectively. You get stronger without much change in muscle size."
+  },
+  {
+   "speaker": "A",
+   "text": "And that helps with each step?"
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. When your foot hits the ground, you only have a fraction of a second to push off. Strength training improves your rate of force development, how quickly you can produce force."
+  },
+  {
+   "speaker": "A",
+   "text": "I've also heard about tendons."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. Heavy lifting can increase tendon stiffness. That sounds bad, but in this case it's good. A stiffer tendon works like a better spring. It stores and returns energy more effectively, which improves running economy."
+  },
+  {
+   "speaker": "A",
+   "text": "What kind of training do you recommend?"
+  },
+  {
+   "speaker": "B",
+   "text": "Exercises like squats, deadlifts and lunges, with fairly heavy weights and low repetitions, maybe three to six. Two sessions a week is a good start. And learn proper technique first, ideally with a coach."
+  },
+  {
+   "speaker": "A",
+   "text": "Is it also good for preventing injuries?"
+  },
+  {
+   "speaker": "B",
+   "text": "Many experts believe so. Stronger muscles and tendons can handle the repeated impact of running better."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many distance runners avoid heavy weights because they don't want to get bulky.",
+   "start": 0.0,
+   "end": 4.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is that a real concern?",
+   "start": 5.07,
+   "end": 6.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Mostly not.",
+   "start": 7.39,
+   "end": 8.43,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "When you run a lot, it's actually hard to build big muscles.",
+   "start": 9.34,
+   "end": 12.98,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "And research shows that heavy strength training can make runners faster and more efficient.",
+   "start": 13.61,
+   "end": 19.13,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How does lifting weights help running?",
+   "start": 19.85,
+   "end": 22.41,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A lot of the early benefit comes from neural adaptation.",
+   "start": 23.13,
+   "end": 27.05,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Your nervous system learns to use more muscle fibers at the same time and to fire them more effectively.",
+   "start": 27.52,
+   "end": 33.933,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "You get stronger without much change in muscle size.",
+   "start": 34.337,
+   "end": 37.59,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And that helps with each step?",
+   "start": 38.31,
+   "end": 40.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 41.11,
+   "end": 41.91,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "When your foot hits the ground, you only have a fraction of a second to push off.",
+   "start": 42.66,
+   "end": 47.62,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Strength training improves your rate of force development, how quickly you can produce force.",
+   "start": 48.17,
+   "end": 53.65,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "I've also heard about tendons.",
+   "start": 54.37,
+   "end": 56.77,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 57.49,
+   "end": 57.97,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Heavy lifting can increase tendon stiffness.",
+   "start": 58.72,
+   "end": 61.52,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That sounds bad, but in this case it's good.",
+   "start": 62.11,
+   "end": 65.19,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "A stiffer tendon works like a better spring.",
+   "start": 65.82,
+   "end": 68.54,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It stores and returns energy more effectively, which improves running economy.",
+   "start": 69.29,
+   "end": 74.25,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "What kind of training do you recommend?",
+   "start": 75.05,
+   "end": 77.29,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Exercises like squats, deadlifts and lunges, with fairly heavy weights and low repetitions, maybe three to six.",
+   "start": 78.01,
+   "end": 86.01,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Two sessions a week is a good start.",
+   "start": 86.84,
+   "end": 89.08,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And learn proper technique first, ideally with a coach.",
+   "start": 89.67,
+   "end": 93.59,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Is it also good for preventing injuries?",
+   "start": 94.31,
+   "end": 97.03,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Many experts believe so.",
+   "start": 97.75,
+   "end": 99.71,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Stronger muscles and tendons can handle the repeated impact of running better.",
+   "start": 100.34,
+   "end": 105.22,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 232,
+ "duration": 105.1,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-03 23:57"
+}

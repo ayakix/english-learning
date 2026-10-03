@@ -1,0 +1,114 @@
+{
+ "id": "ns019",
+ "author": "claude",
+ "summary_ja": "腸には何兆もの微生物がいて、その全体と遺伝子をマイクロバイオームと呼ぶ。人が分解できない野菜や穀物の食物繊維を細菌が分解し、腸の細胞の栄養になる物質を作る。幼いころの免疫の訓練や、有害な細菌から場所と食べ物を奪って守る働きもある。腸と脳の関係の研究もあるがまだ初期で動物実験が多い。野菜、果物、豆、全粒穀物の多様な食事、ヨーグルトや納豆などの発酵食品がよく、抗生物質は必要な時だけ。",
+ "listening": [
+  {
+   "q": "microbiome とは？",
+   "options": [
+    "胃の名前",
+    "腸の長さ",
+    "消化の薬",
+    "腸の微生物とその遺伝子の全体"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Together, all these microbes and their genes are called the microbiome.\""
+  },
+  {
+   "q": "腸と気分の関係について B の意見は？",
+   "options": [
+    "興味深い研究はあるが、まだ初期で動物の研究が多いので慎重に",
+    "腸が気分を決めている",
+    "完全に証明されている",
+    "関係はない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"But it's still early, and many results come from studies on animals. So we should be careful about big claims.\""
+  },
+  {
+   "q": "腸内細菌を健康に保つ最も確かな方法は？",
+   "options": [
+    "肉だけを食べる",
+    "何も食べない",
+    "毎日抗生物質を飲む",
+    "食物繊維の多い多様な食事"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The best evidence points to a varied diet with lots of fiber\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "科学者は、私たちの腸には何兆もの微生物がすんでいると推定しています。",
+   "points_ja": "estimate there are がつながり、trillions of microbes が「トリリオンザヴマイクロウブズ」と聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "私たちの体は、野菜や穀物に含まれる一部の食物繊維を分解できません。",
+   "points_ja": "can't break down の t は飲み込まれ、types of fiber が「タイプサヴファイバー」と聞こえます。"
+  },
+  {
+   "sentence": 24,
+   "ja": "だから、本当に必要なときだけ使うべきです。",
+   "points_ja": "should only be used が続き、really needed がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "抗生物質の歴史",
+    "ヨーグルトの作り方",
+    "腸の病気の治し方",
+    "腸内細菌の働きと、健康に保つ方法"
+   ],
+   "answer": 3,
+   "explanation_ja": "消化、免疫、防御、腸と脳、食事、抗生物質について話しています。"
+  },
+  {
+   "q": "腸内細菌が食物繊維を分解するとどうなる？",
+   "options": [
+    "毒ができる",
+    "何も起きない",
+    "腸の細胞の栄養になる役立つ物質ができる",
+    "細菌が消える"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When they do, they produce useful substances that feed the cells of our intestines.\""
+  },
+  {
+   "q": "腸内細菌の働きとして挙げられていないものは？",
+   "options": [
+    "骨を作る",
+    "消化を助ける",
+    "免疫を訓練する",
+    "有害な細菌から守る"
+   ],
+   "answer": 0,
+   "explanation_ja": "消化、免疫の訓練、防御が挙げられています。"
+  },
+  {
+   "q": "発酵食品の例として挙げられているのは？",
+   "options": [
+    "パン、米、麺",
+    "ヨーグルト、納豆、キムチ",
+    "果物、野菜、豆",
+    "肉、魚、卵"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Fermented foods, such as yogurt, natto and kimchi, may also help.\""
+  },
+  {
+   "q": "抗生物質についての注意は？",
+   "options": [
+    "役立つ細菌もたくさん殺すので、本当に必要なときだけ使う",
+    "毎日飲むべき",
+    "腸に良い",
+    "使ってはいけない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"they can also kill many helpful bacteria. So they should only be used when they're really needed.\""
+  }
+ ]
+}

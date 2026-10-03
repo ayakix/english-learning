@@ -1,0 +1,114 @@
+{
+ "id": "tc037",
+ "author": "claude",
+ "summary_ja": "多言語対応は新しいユーザーを得る簡単な方法。国際化（i18n）はコード側の準備で、文字列を直接書かずキーで翻訳を参照し、日付・数字・通貨はシステムの機能で整形する。ローカライズは特定の言語・地域に合わせることで、翻訳が中心だが画像やスクリーンショットも含む。Xcode 15 の String Catalog で管理しやすくなった。ドイツ語の長さ、アラビア語の右から左、機械翻訳の不自然さに注意。",
+ "listening": [
+  {
+   "q": "internationalization とは？",
+   "options": [
+    "翻訳すること",
+    "海外旅行",
+    "海外で会社を作ること",
+    "さまざまな言語や地域に対応できるよう、コードを準備すること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Internationalization means preparing your app so that it can support different languages and regions. You do this in the code.\""
+  },
+  {
+   "q": "String Catalog について正しいものは？",
+   "options": [
+    "フォントの一覧",
+    "Xcode 15 で導入され、アプリの文字列を一か所にまとめて管理できる",
+    "辞書アプリ",
+    "画像の管理ツール"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Apple has made this easier with String Catalogs, introduced in Xcode fifteen.\""
+  },
+  {
+   "q": "注意点として話されていないものは？",
+   "options": [
+    "機械翻訳は不自然なことがある",
+    "日本語はアプリで使えない",
+    "アラビア語は右から左に書く",
+    "ドイツ語は英語よりずっと長い"
+   ],
+   "answer": 1,
+   "explanation_ja": "ドイツ語、アラビア語、機械翻訳が挙げられています。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "アプリを多くの言語で公開するのは、新しいユーザーに届く最も簡単な方法の一つです。",
+   "points_ja": "Releasing your app in more が一続きに聞こえ、one of the が「ワナヴザ」になります。"
+  },
+  {
+   "sentence": 5,
+   "ja": "代わりに、翻訳を指し示すキーを使います。",
+   "points_ja": "use keys that がつながり、point to translations の t は飲み込まれます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "そして機械翻訳は不自然に聞こえることがあるので、ネイティブスピーカーに確認を頼む価値があります。",
+   "points_ja": "can sound unnatural がつながり、worth asking が「ワースアスキング」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "国際化とローカライズの違いと、多言語対応のコツ",
+    "翻訳者になる方法",
+    "外国語の勉強法",
+    "Xcode の歴史"
+   ],
+   "answer": 0,
+   "explanation_ja": "2つの概念、String Catalog、よくある落とし穴を説明しています。"
+  },
+  {
+   "q": "日付や通貨をシステムの機能で整形すべき理由は？",
+   "options": [
+    "見た目がよいから",
+    "法律で決まっているから",
+    "速いから",
+    "国によって書き方が違うから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"because every country writes them differently.\""
+  },
+  {
+   "q": "localization に含まれるものとして書かれているのは？",
+   "options": [
+    "アプリの値段だけ",
+    "翻訳、画像、例、App Store のスクリーンショット",
+    "コードの書き方だけ",
+    "サーバーの場所"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Translation is the biggest part, but localization can also include images, examples and even App Store screenshots.\""
+  },
+  {
+   "q": "ドイツ語で起こりやすい問題は？",
+   "options": [
+    "ボタンの中に文字が収まらなくなる",
+    "文字が逆になる",
+    "数字が使えない",
+    "アプリが落ちる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Some languages, such as German, are much longer than English, so buttons may run out of space.\""
+  },
+  {
+   "q": "最後の文が伝えたいことは？",
+   "options": [
+    "英語だけで十分",
+    "ローカライズは高い",
+    "上手なローカライズは、その国のユーザーのために作ったと伝える",
+    "翻訳は不要"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"this app was made with you in mind.\""
+  }
+ ]
+}

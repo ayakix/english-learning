@@ -1,0 +1,114 @@
+{
+ "id": "rn018",
+ "author": "claude",
+ "summary_ja": "回復の多くは睡眠中に起こり、睡眠が悪いと練習の効果も落ちる。大学のバスケットボール選手が数週間10時間眠ろうとした研究で、スプリントとシュートの精度が上がった（睡眠延長）。10時間は難しくても30〜60分増やすだけで助けになる。気づかないうちに疲労が積み重なることも。8時間未満の睡眠が続く選手はけがが多いという研究もある。就寝時刻を一定にし、夜の画面やカフェインを避ける。",
+ "listening": [
+  {
+   "q": "B が睡眠をもっと重視すべきだと考える理由は？",
+   "options": [
+    "時間が余るから",
+    "回復の多くが睡眠中に起こるから",
+    "体重が減るから",
+    "夢を見るから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Because recovery happens mostly while we sleep.\""
+  },
+  {
+   "q": "バスケットボール選手の研究で改善したのは？",
+   "options": [
+    "スプリントのタイムとシュートの精度",
+    "体重",
+    "視力",
+    "身長"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Their sprint times and shooting accuracy improved.\""
+  },
+  {
+   "q": "仕事がある人への B の提案は？",
+   "options": [
+    "週末だけ寝る",
+    "昼寝はしない",
+    "30〜60分増やすだけでも役に立つ",
+    "必ず10時間眠る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"But even adding thirty to sixty minutes can help.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "そのときに体は筋肉を修復し、脳は学んだことを整理します。",
+   "points_ja": "body repairs muscles がつながり、what we've learned が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "多くの人が、気づかないうちに疲労を積み重ねています。",
+   "points_ja": "building up が「ビルディンガップ」、noticing it が「ノウティシンギット」と聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "疲れている人は反応が遅く、集中力も弱くなります。",
+   "points_ja": "Tired people の d は飲み込まれ、reactions and weaker の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "睡眠が回復とパフォーマンス、けがの予防に大きく関わる",
+    "夢の意味",
+    "夜の練習の方法",
+    "ベッドの選び方"
+   ],
+   "answer": 0,
+   "explanation_ja": "睡眠延長の研究、累積疲労、けが、実践のコツを話しています。"
+  },
+  {
+   "q": "sleep extension の意味は？",
+   "options": [
+    "夜更かしすること",
+    "早く起きること",
+    "睡眠時間を延ばすこと",
+    "昼寝をすること"
+   ],
+   "answer": 2,
+   "explanation_ja": "研究で選手に約10時間眠るよう求めた方法を指しています。"
+  },
+  {
+   "q": "cumulative fatigue の説明として正しいものは？",
+   "options": [
+    "朝の眠気",
+    "何晩もかけて積み重なる疲れ",
+    "筋肉痛",
+    "1回の練習の疲れ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That's tiredness that adds up over many nights.\""
+  },
+  {
+   "q": "睡眠不足がけがのリスクを高める理由は？",
+   "options": [
+    "体重が増えるから",
+    "筋肉が大きくなるから",
+    "疲れていると反応が遅く、集中力が弱くなるから",
+    "靴が合わなくなるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Tired people have slower reactions and weaker concentration. That increases injury vulnerability.\""
+  },
+  {
+   "q": "実践的なコツとして挙げられていないものは？",
+   "options": [
+    "20分の短い昼寝",
+    "週末も就寝時刻を一定にする",
+    "夜遅くの画面とカフェインを避ける",
+    "寝る前に激しい運動をする"
+   ],
+   "answer": 3,
+   "explanation_ja": "就寝時刻、画面とカフェイン、早めの就寝、20分の昼寝が挙げられています。"
+  }
+ ]
+}

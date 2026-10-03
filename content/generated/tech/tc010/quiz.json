@@ -1,0 +1,114 @@
+{
+ "id": "tc010",
+ "author": "claude",
+ "summary_ja": "アクセシビリティは最後に足すものではなく、最初から設計すれば簡単で安く、皆にとって良いアプリになる。まず VoiceOver（画面読み上げ）で自分のアプリを試すと、アイコンだけのボタンにラベルがないと分かる。文字を大きくする Dynamic Type でもレイアウトが崩れないか確認する。Xcode の Accessibility Inspector で監査でき、ビジネスにも良い。",
+ "listening": [
+  {
+   "q": "アクセシビリティについて B の考えは？",
+   "options": [
+    "最後に足せばよい",
+    "最初から設計すれば簡単で安く、皆にとって良いアプリになる",
+    "必要ない",
+    "大企業だけがやるべき"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"If you design for accessibility from the start, it's much easier and cheaper.\""
+  },
+  {
+   "q": "VoiceOver で試すとよく分かる問題は？",
+   "options": [
+    "アイコンだけのボタンにラベルがないこと",
+    "色が派手すぎること",
+    "アプリが重いこと",
+    "音が大きいこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Buttons with only an icon and no label. VoiceOver might just say 'button'\"。"
+  },
+  {
+   "q": "アクセシビリティがビジネスにも良い理由は？",
+   "options": [
+    "アプリが安く作れるから",
+    "政府からお金がもらえるから",
+    "広告が出せるから",
+    "多くの人が毎日使い、うまく動くと良いレビューを書く忠実なユーザーが多いから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many of them are loyal users and leave great reviews when an app works well for them.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "そして、たいていアプリを皆にとってより良いものにします。",
+   "points_ja": "makes the app がつながり、better for everyone が続けて聞こえます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "はっきりしたラベルを付けるのは、コード1行です。",
+   "points_ja": "Adding a clear がつながり、line of code が「ラインナヴコード」と聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "文字が大きくなったときにレイアウトが崩れると、そうしたユーザーは困ります。",
+   "points_ja": "layout breaks の t は飲み込まれ、text gets bigger が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "iPhone の使い方",
+    "アクセシビリティを最初から考えることの大切さと、具体的な確認方法",
+    "アプリの値段の決め方",
+    "デザインの流行"
+   ],
+   "answer": 1,
+   "explanation_ja": "VoiceOver、Dynamic Type、監査ツール、ビジネス面の利点を話しています。"
+  },
+  {
+   "q": "VoiceOver とは？",
+   "options": [
+    "iOS に内蔵された画面読み上げ機能",
+    "音楽アプリ",
+    "通話機能",
+    "録音アプリ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It's the screen reader built into iOS.\""
+  },
+  {
+   "q": "Dynamic Type に関して勧められている確認は？",
+   "options": [
+    "最小の文字サイズだけ試す",
+    "文字を使わない",
+    "最大の文字サイズで画面を試す",
+    "フォントを変える"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"So test your screens with the largest sizes.\""
+  },
+  {
+   "q": "accessibility audit でチェックされるものとして挙げられていないものは？",
+   "options": [
+    "小さなタッチ領域",
+    "低いコントラスト",
+    "ラベルの欠落",
+    "アプリの売上"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"missing labels, small touch targets and low color contrast\"。"
+  },
+  {
+   "q": "最後の \"It's simply good design.\" の意味は？",
+   "options": [
+    "アクセシビリティは特別なことではなく、良いデザインそのもの",
+    "見た目だけが大切",
+    "デザインは不要",
+    "デザインは簡単"
+   ],
+   "answer": 0,
+   "explanation_ja": "皆にとって良いアプリになる、という主張のまとめです。"
+  }
+ ]
+}

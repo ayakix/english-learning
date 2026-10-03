@@ -1,0 +1,114 @@
+{
+ "id": "fi010",
+ "author": "claude",
+ "summary_ja": "ファンドを選ぶとき過去のリターンを見がちだが、将来の結果を最もよく予測するものの一つは手数料。経費率は毎年投資額の何%かを払うもので、上がっても下がってもかかる。1%は小さく聞こえるが、税引き前5%で手数料1%と0.1%のファンドを比べると、100万円は30年後に約100万円の差に。払った手数料はその後の年月の成長も失うから（複利）。手数料は自分でコントロールできる。",
+ "listening": [
+  {
+   "q": "expense ratio とは？",
+   "options": [
+    "利息",
+    "1回だけの購入手数料",
+    "毎年、投資額の何%かを払う手数料",
+    "税金"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Most funds charge an annual fee called the expense ratio.\""
+  },
+  {
+   "q": "30年後の例で、手数料の違いによる差は？",
+   "options": [
+    "約10万円",
+    "約1万円",
+    "約100万円",
+    "差はない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"an investment of one million yen in the cheaper fund could be worth roughly a million yen more\"。"
+  },
+  {
+   "q": "投資家がコントロールできるものとして話されているのは？",
+   "options": [
+    "インフレ",
+    "市場の動き",
+    "金利",
+    "自分が払う手数料"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"But investors cannot control what the market does. They can control what they pay.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "投資信託を選ぶとき、多くの人はまず過去のリターンを見ます。",
+   "points_ja": "choosing an investment が「チューズィンガニンヴェストメント」、look first at past が続けて聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "それはその後のすべての年に成長することもやめてしまいます。",
+   "points_ja": "stops growing for all the years が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "手数料が安いからといって、リターンが良いとは限りません。",
+   "points_ja": "Lower fees do not が続き、guarantee better returns がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "過去のリターンが一番大切",
+    "高い手数料のファンドが良い",
+    "手数料は気にしなくてよい",
+    "小さな手数料の差も、複利で長期では大きな差になる"
+   ],
+   "answer": 3,
+   "explanation_ja": "経費率、長期の差、複利、確認すべきことを説明しています。"
+  },
+  {
+   "q": "経費率1%の意味は？",
+   "options": [
+    "上がっても下がっても、毎年投資額の1%を払う",
+    "もうけの1%を払う",
+    "損したときだけ払う",
+    "1回だけ1%払う"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"you pay one percent of your investment every year, whether the fund goes up or down.\""
+  },
+  {
+   "q": "手数料の差が大きくなる理由は？",
+   "options": [
+    "払った手数料はその後の年月の成長も失うから（複利）",
+    "手数料が毎年上がるから",
+    "税金がかかるから",
+    "インフレのため"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Because of compounding. The money you pay in fees is not only lost. It also stops growing\"。"
+  },
+  {
+   "q": "多くの専門家が出発点として勧めるのは？",
+   "options": [
+    "高い手数料のファンド",
+    "個別株",
+    "低コストのインデックスファンド",
+    "金"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"many experts recommend low-cost index funds as a starting point.\""
+  },
+  {
+   "q": "投資前に確認すべきものとして挙げられていないものは？",
+   "options": [
+    "経費率",
+    "口座手数料",
+    "ファンドマネージャーの年齢",
+    "購入手数料"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"check the expense ratio, as well as any purchase fees and account fees.\""
+  }
+ ]
+}

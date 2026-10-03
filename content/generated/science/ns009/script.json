@@ -1,0 +1,187 @@
+{
+ "id": "ns009",
+ "author": "claude",
+ "category": "science",
+ "title": "How Volcanoes Build Islands",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "hot spot",
+  "lava",
+  "magma"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "The Hawaiian Islands sit in the middle of the Pacific Ocean, thousands of kilometers from the nearest continent. They were not pushed up from the sea floor by colliding plates. Instead, they were built by volcanoes, layer by layer, over millions of years."
+  },
+  {
+   "speaker": "A",
+   "text": "Deep inside the Earth, there are places where unusually hot rock rises toward the surface. These are called hot spots. As the rock rises, the pressure decreases and part of it melts. This melted rock underground is called magma."
+  },
+  {
+   "speaker": "A",
+   "text": "Magma pushes up through cracks in the ocean floor and erupts. When it reaches the surface, it is called lava. Over countless eruptions, the lava builds a volcano on the sea floor. Eventually, if it grows tall enough, it breaks through the ocean surface and becomes an island."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is the clever part. The hot spot stays in roughly the same place, but the Pacific Plate above it slowly moves toward the northwest. So each volcano is carried away from the hot spot over time, and a new volcano begins to form behind it."
+  },
+  {
+   "speaker": "A",
+   "text": "The result is a chain of islands. The Big Island of Hawaii, which sits over the hot spot today, is the youngest and still has active volcanoes. Islands to the northwest are older and more worn down by wind and rain."
+  },
+  {
+   "speaker": "A",
+   "text": "Southeast of the Big Island, a new volcano is already growing under the sea. One day, perhaps in tens of thousands of years, it may become the next Hawaiian island."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "The Hawaiian Islands sit in the middle of the Pacific Ocean, thousands of kilometers from the nearest continent.",
+   "start": 0.0,
+   "end": 7.2,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They were not pushed up from the sea floor by colliding plates.",
+   "start": 7.59,
+   "end": 11.23,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead, they were built by volcanoes, layer by layer, over millions of years.",
+   "start": 11.86,
+   "end": 17.58,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Deep inside the Earth, there are places where unusually hot rock rises toward the surface.",
+   "start": 18.1,
+   "end": 24.26,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "These are called hot spots.",
+   "start": 25.25,
+   "end": 26.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "As the rock rises, the pressure decreases and part of it melts.",
+   "start": 27.84,
+   "end": 32.24,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This melted rock underground is called magma.",
+   "start": 33.15,
+   "end": 36.67,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Magma pushes up through cracks in the ocean floor and erupts.",
+   "start": 37.19,
+   "end": 41.19,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When it reaches the surface, it is called lava.",
+   "start": 42.1,
+   "end": 44.98,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Over countless eruptions, the lava builds a volcano on the sea floor.",
+   "start": 45.89,
+   "end": 50.21,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Eventually, if it grows tall enough, it breaks through the ocean surface and becomes an island.",
+   "start": 51.12,
+   "end": 57.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is the clever part.",
+   "start": 57.64,
+   "end": 59.08,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The hot spot stays in roughly the same place, but the Pacific Plate above it slowly moves toward the northwest.",
+   "start": 59.51,
+   "end": 67.27,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So each volcano is carried away from the hot spot over time, and a new volcano begins to form behind it.",
+   "start": 68.18,
+   "end": 75.38,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The result is a chain of islands.",
+   "start": 75.98,
+   "end": 78.38,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The Big Island of Hawaii, which sits over the hot spot today, is the youngest and still has active volcanoes.",
+   "start": 78.97,
+   "end": 86.65,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Islands to the northwest are older and more worn down by wind and rain.",
+   "start": 87.08,
+   "end": 92.04,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Southeast of the Big Island, a new volcano is already growing under the sea.",
+   "start": 92.56,
+   "end": 98.08,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "One day, perhaps in tens of thousands of years, it may become the next Hawaiian island.",
+   "start": 98.51,
+   "end": 104.83,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 247,
+ "duration": 104.8,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-04 00:00"
+}

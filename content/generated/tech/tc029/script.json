@@ -1,0 +1,258 @@
+{
+ "id": "tc029",
+ "author": "claude",
+ "category": "tech",
+ "title": "Building a DIY Smart Desk Lamp",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "relay module",
+  "pulse-width modulation",
+  "home assistant"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Your latest project is a smart desk lamp. Why build one when you can buy one?"
+  },
+  {
+   "speaker": "B",
+   "text": "Mostly for fun and learning. I also wanted it to work exactly the way I like. It turns on when I sit down, and it changes brightness depending on the time of day."
+  },
+  {
+   "speaker": "A",
+   "text": "How do you control the light?"
+  },
+  {
+   "speaker": "B",
+   "text": "There are two common ways. For a normal lamp plugged into the wall, you can use a relay module. A relay is basically a switch controlled by a small electrical signal from the microcontroller."
+  },
+  {
+   "speaker": "A",
+   "text": "That sounds simple."
+  },
+  {
+   "speaker": "B",
+   "text": "It is, but I have to add a warning. Wall power is dangerous. If you're a beginner, it's much safer to avoid it completely."
+  },
+  {
+   "speaker": "A",
+   "text": "So what did you do?"
+  },
+  {
+   "speaker": "B",
+   "text": "I used a low-voltage LED strip instead. To change the brightness, I used pulse-width modulation, or PWM. The microcontroller switches the LEDs on and off very quickly. If they're on half the time, they look about half as bright. Our eyes don't notice the flickering."
+  },
+  {
+   "speaker": "A",
+   "text": "And the smart part?"
+  },
+  {
+   "speaker": "B",
+   "text": "I connected it to Home Assistant, an open-source system for controlling smart home devices. Now the lamp can react to my calendar, my phone's location and a motion sensor."
+  },
+  {
+   "speaker": "A",
+   "text": "Was it worth the effort?"
+  },
+  {
+   "speaker": "B",
+   "text": "Absolutely. I learned about electronics, networking and safety, and I use it every single day."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Your latest project is a smart desk lamp.",
+   "start": 0.0,
+   "end": 2.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why build one when you can buy one?",
+   "start": 3.39,
+   "end": 5.47,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Mostly for fun and learning.",
+   "start": 6.19,
+   "end": 7.87,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "I also wanted it to work exactly the way I like.",
+   "start": 8.62,
+   "end": 11.66,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It turns on when I sit down, and it changes brightness depending on the time of day.",
+   "start": 12.49,
+   "end": 17.13,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How do you control the light?",
+   "start": 17.93,
+   "end": 19.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "There are two common ways.",
+   "start": 20.49,
+   "end": 22.09,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "For a normal lamp plugged into the wall, you can use a relay module.",
+   "start": 22.68,
+   "end": 27.16,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "A relay is basically a switch controlled by a small electrical signal from the microcontroller.",
+   "start": 27.99,
+   "end": 33.75,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That sounds simple.",
+   "start": 34.47,
+   "end": 35.75,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is, but I have to add a warning.",
+   "start": 36.55,
+   "end": 39.63,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Wall power is dangerous.",
+   "start": 40.26,
+   "end": 42.5,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "If you're a beginner, it's much safer to avoid it completely.",
+   "start": 42.93,
+   "end": 46.69,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So what did you do?",
+   "start": 47.49,
+   "end": 49.09,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "I used a low-voltage LED strip instead.",
+   "start": 49.81,
+   "end": 52.69,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "To change the brightness, I used pulse-width modulation, or PWM.",
+   "start": 53.52,
+   "end": 58.48,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The microcontroller switches the LEDs on and off very quickly.",
+   "start": 59.31,
+   "end": 63.39,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If they're on half the time, they look about half as bright.",
+   "start": 64.3,
+   "end": 67.42,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Our eyes don't notice the flickering.",
+   "start": 68.25,
+   "end": 70.41,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And the smart part?",
+   "start": 71.13,
+   "end": 72.41,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "I connected it to Home Assistant, an open-source system for controlling smart home devices.",
+   "start": 73.21,
+   "end": 78.49,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Now the lamp can react to my calendar, my phone's location and a motion sensor.",
+   "start": 79.32,
+   "end": 84.68,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Was it worth the effort?",
+   "start": 85.4,
+   "end": 87.08,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Absolutely.",
+   "start": 87.8,
+   "end": 88.76,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "I learned about electronics, networking and safety, and I use it every single day.",
+   "start": 89.51,
+   "end": 95.19,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 219,
+ "duration": 95.1,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:54"
+}

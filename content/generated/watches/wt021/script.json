@@ -1,0 +1,183 @@
+{
+ "id": "wt021",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Hack-Seconds Function",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "hack seconds",
+  "stop-seconds",
+  "balance brake"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine you want to set your watch exactly to the second, using a time signal on your phone. You pull out the crown, but the seconds hand keeps moving. By the time you push the crown back in, you are already a few seconds off. This is annoying. The solution is a function called hack seconds."
+  },
+  {
+   "speaker": "A",
+   "text": "With hack seconds, also known as stop-seconds, the seconds hand stops the moment you pull the crown out to the time-setting position. You can then move the hands to the right time, wait for the exact second, and push the crown in. The watch starts again at precisely the right moment."
+  },
+  {
+   "speaker": "A",
+   "text": "How does it work? Inside the movement, pulling the crown moves a small lever. One end of this lever gently touches the balance wheel and holds it still. Because the balance is the part that controls the speed of the watch, everything else stops too. This little lever is sometimes called a balance brake."
+  },
+  {
+   "speaker": "A",
+   "text": "It seems like a small feature, but it was very important in history. Soldiers and pilots needed their watches to show exactly the same time, so they could act together. That is why many military watches had hack seconds."
+  },
+  {
+   "speaker": "A",
+   "text": "Today, most modern mechanical watches include it. But some vintage and traditional watches do not. If you own one, you simply learn to be patient."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine you want to set your watch exactly to the second, using a time signal on your phone.",
+   "start": 0.0,
+   "end": 5.8,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You pull out the crown, but the seconds hand keeps moving.",
+   "start": 6.43,
+   "end": 10.11,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "By the time you push the crown back in, you are already a few seconds off.",
+   "start": 10.7,
+   "end": 15.26,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This is annoying.",
+   "start": 15.85,
+   "end": 16.89,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The solution is a function called hack seconds.",
+   "start": 17.72,
+   "end": 21.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "With hack seconds, also known as stop-seconds, the seconds hand stops the moment you pull the crown out to the time-setting position.",
+   "start": 21.68,
+   "end": 30.56,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "You can then move the hands to the right time, wait for the exact second, and push the crown in.",
+   "start": 31.15,
+   "end": 36.99,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The watch starts again at precisely the right moment.",
+   "start": 37.58,
+   "end": 40.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "How does it work?",
+   "start": 41.46,
+   "end": 42.5,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Inside the movement, pulling the crown moves a small lever.",
+   "start": 43.41,
+   "end": 47.57,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One end of this lever gently touches the balance wheel and holds it still.",
+   "start": 48.24,
+   "end": 52.68,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Because the balance is the part that controls the speed of the watch, everything else stops too.",
+   "start": 53.31,
+   "end": 59.07,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This little lever is sometimes called a balance brake.",
+   "start": 59.54,
+   "end": 62.86,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It seems like a small feature, but it was very important in history.",
+   "start": 63.38,
+   "end": 68.26,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Soldiers and pilots needed their watches to show exactly the same time, so they could act together.",
+   "start": 68.69,
+   "end": 74.93,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why many military watches had hack seconds.",
+   "start": 75.4,
+   "end": 78.72,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, most modern mechanical watches include it.",
+   "start": 79.32,
+   "end": 82.28,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But some vintage and traditional watches do not.",
+   "start": 82.71,
+   "end": 86.59,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If you own one, you simply learn to be patient.",
+   "start": 87.22,
+   "end": 90.42,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 225,
+ "duration": 90.3,
+ "wpm": 149,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:44"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "av019",
+ "author": "claude",
+ "summary_ja": "飛行機はゲートから自分で後退せず、トーイングトラクターが前輪をつないで押し出す（プッシュバック）。前輪は普段は油圧でパイロットが操舵するので、事前にバイパスピンを入れて操舵を切り離す。忘れると前脚を壊すので確認し、外したピンはパイロットに見せる。到着時に棒で手信号を送るのがマーシャリング。電子誘導も増えたが小さな空港ではまだ重要。",
+ "listening": [
+  {
+   "q": "ゲートから飛行機を後ろに動かす方法は？",
+   "options": [
+    "トーイングトラクターが押し出す",
+    "逆噴射を使う",
+    "人が押す",
+    "パイロットがバックギアを入れる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Instead, a pushback tractor pushes them back.\""
+  },
+  {
+   "q": "bypass pin の役割は？",
+   "options": [
+    "前輪の操舵装置を切り離し、トラクターが自由に向きを変えられるようにする",
+    "ドアを閉める",
+    "燃料を止める",
+    "エンジンを始動する"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"This disconnects the steering system, so the tractor can turn the wheel freely.\""
+  },
+  {
+   "q": "オレンジの棒を持った人がすることは？",
+   "options": [
+    "乗客を案内する",
+    "荷物を運ぶ",
+    "標準の手信号で飛行機を誘導する",
+    "給油する"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The marshaller uses standard signals to say move forward, turn left or stop.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "とても低く、とても力の強い車両で、前輪につながります。",
+   "points_ja": "very low, very powerful が同じリズムで続き、connects to the が続けて聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "前脚を傷めることがあるので、必ず慎重に確認されます。",
+   "points_ja": "can damage the がつながり、checked carefully の d は飲み込まれます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "多くの空港は今ではゲートに電子誘導システムを使っていますが、特に小さな空港ではマーシャラーはまだ重要です。",
+   "points_ja": "systems at the gate がつながり、marshallers are still が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "滑走路の長さ",
+    "空港の建設",
+    "飛行機の運転免許",
+    "プッシュバックとマーシャリングの仕組み"
+   ],
+   "answer": 3,
+   "explanation_ja": "ゲートからの出発と到着時の誘導について話しています。"
+  },
+  {
+   "q": "ゲートで逆噴射を使わない理由は？",
+   "options": [
+    "法律がないから",
+    "後ろが見えないから",
+    "燃料がないから",
+    "危険で騒音も大きいから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"it's not done at gates because it's dangerous and noisy.\""
+  },
+  {
+   "q": "プッシュバックの後、ピンはどうする？",
+   "options": [
+    "外してパイロットに見せる",
+    "そのまま付けておく",
+    "捨てる",
+    "管制塔に送る"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the pin is removed and shown to the pilots, so they know the steering is back to normal.\""
+  },
+  {
+   "q": "パイロットと地上係員の連絡方法として話されているのは？",
+   "options": [
+    "機首に差し込んだヘッドセット",
+    "メール",
+    "旗",
+    "携帯電話"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Often with a headset plugged into the nose of the aircraft.\""
+  },
+  {
+   "q": "aircraft marshalling の意味は？",
+   "options": [
+    "飛行機を売ること",
+    "飛行機を洗うこと",
+    "飛行機を修理すること",
+    "手信号で飛行機を誘導すること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"you'll sometimes see someone guiding the plane with hand signals. That's aircraft marshalling.\""
+  }
+ ]
+}

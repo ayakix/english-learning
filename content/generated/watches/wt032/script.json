@@ -1,0 +1,236 @@
+{
+ "id": "wt032",
+ "author": "claude",
+ "category": "watches",
+ "title": "Daily Beater vs Safe Queen",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "daily beater",
+  "safe queen",
+  "collector mindset"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Collectors often talk about a daily beater and a safe queen. What do those terms mean?"
+  },
+  {
+   "speaker": "B",
+   "text": "A daily beater is a watch you wear every day without worrying. You wear it to work, to the gym, maybe even while gardening. If it gets a scratch, that's fine."
+  },
+  {
+   "speaker": "A",
+   "text": "And a safe queen?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's a watch that spends most of its life in a safe or a box. It's usually expensive, rare or very important to its owner. It only comes out for special occasions."
+  },
+  {
+   "speaker": "A",
+   "text": "It sounds a little sad for the watch."
+  },
+  {
+   "speaker": "B",
+   "text": "A lot of people feel that way. A watch is made to be worn. If you never wear it, you lose the joy of having it on your wrist."
+  },
+  {
+   "speaker": "A",
+   "text": "But I understand the fear. If a watch is very valuable, every scratch hurts."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. That's the collector mindset. You're always balancing two things: enjoying the watch now, and protecting its condition and value for the future."
+  },
+  {
+   "speaker": "A",
+   "text": "So what do you do?"
+  },
+  {
+   "speaker": "B",
+   "text": "I try to wear everything at least sometimes. I also remind myself that small marks tell a story. Years later, a scratch can remind you of a trip or a special day. A perfect watch in a safe doesn't have any stories."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Collectors often talk about a daily beater and a safe queen.",
+   "start": 0.0,
+   "end": 3.84,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What do those terms mean?",
+   "start": 4.67,
+   "end": 6.19,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A daily beater is a watch you wear every day without worrying.",
+   "start": 6.91,
+   "end": 11.07,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "You wear it to work, to the gym, maybe even while gardening.",
+   "start": 11.5,
+   "end": 15.34,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "If it gets a scratch, that's fine.",
+   "start": 15.73,
+   "end": 17.85,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "And a safe queen?",
+   "start": 18.65,
+   "end": 20.25,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That's a watch that spends most of its life in a safe or a box.",
+   "start": 20.97,
+   "end": 25.05,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's usually expensive, rare or very important to its owner.",
+   "start": 25.64,
+   "end": 29.96,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It only comes out for special occasions.",
+   "start": 30.55,
+   "end": 33.11,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It sounds a little sad for the watch.",
+   "start": 33.83,
+   "end": 36.71,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A lot of people feel that way.",
+   "start": 37.43,
+   "end": 39.11,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "A watch is made to be worn.",
+   "start": 39.94,
+   "end": 41.94,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "If you never wear it, you lose the joy of having it on your wrist.",
+   "start": 42.37,
+   "end": 46.21,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But I understand the fear.",
+   "start": 46.93,
+   "end": 48.53,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "If a watch is very valuable, every scratch hurts.",
+   "start": 49.28,
+   "end": 52.88,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 53.6,
+   "end": 54.4,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That's the collector mindset.",
+   "start": 55.15,
+   "end": 56.67,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "You're always balancing two things: enjoying the watch now, and protecting its condition and value for the future.",
+   "start": 57.42,
+   "end": 64.54,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So what do you do?",
+   "start": 65.26,
+   "end": 66.94,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "I try to wear everything at least sometimes.",
+   "start": 67.66,
+   "end": 70.7,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "I also remind myself that small marks tell a story.",
+   "start": 71.29,
+   "end": 75.29,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Years later, a scratch can remind you of a trip or a special day.",
+   "start": 75.72,
+   "end": 80.12,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A perfect watch in a safe doesn't have any stories.",
+   "start": 80.71,
+   "end": 84.23,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 204,
+ "duration": 84.2,
+ "wpm": 145,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 58,
+ "created": "2026-10-03 23:45"
+}

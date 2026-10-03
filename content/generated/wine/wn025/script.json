@@ -1,0 +1,205 @@
+{
+ "id": "wn025",
+ "author": "claude",
+ "category": "wine",
+ "title": "Sulfites in Winemaking: Preservation and Limits",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "sulfur dioxide",
+  "antioxidant",
+  "antimicrobial"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many wine labels say contains sulfites. Some people worry about this, but sulfites have been part of winemaking for a very long time. To understand why, we need to look at what they do."
+  },
+  {
+   "speaker": "A",
+   "text": "The main compound is sulfur dioxide, often written as SO two. Winemakers add it in small amounts at different stages. It has two important jobs."
+  },
+  {
+   "speaker": "A",
+   "text": "First, it is an antioxidant. It protects wine from oxygen, which can make wine brown and flat. Second, it is antimicrobial. It stops unwanted bacteria and wild yeasts from growing and spoiling the wine."
+  },
+  {
+   "speaker": "A",
+   "text": "Interestingly, yeast also produces a small amount of sulfites naturally during fermentation. So almost no wine is completely free of them."
+  },
+  {
+   "speaker": "A",
+   "text": "There are legal limits on how much can be added. In general, sweet wines are allowed more, because sugar makes them easier for microbes to spoil. Red wines usually need less than whites, because their tannins also help protect them."
+  },
+  {
+   "speaker": "A",
+   "text": "Do sulfites cause headaches? Some people, especially those with asthma, can be sensitive to them. But for most people, research suggests that other things, such as alcohol itself, are more likely to cause headaches. Many dried fruits contain far more sulfites than a glass of wine."
+  },
+  {
+   "speaker": "A",
+   "text": "Some natural winemakers try to use very little or none. Their wines can be exciting, but they also need more careful storage."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many wine labels say contains sulfites.",
+   "start": 0.0,
+   "end": 3.2,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people worry about this, but sulfites have been part of winemaking for a very long time.",
+   "start": 3.79,
+   "end": 9.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To understand why, we need to look at what they do.",
+   "start": 10.3,
+   "end": 13.5,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The main compound is sulfur dioxide, often written as SO two.",
+   "start": 14.02,
+   "end": 18.82,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Winemakers add it in small amounts at different stages.",
+   "start": 19.65,
+   "end": 23.05,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It has two important jobs.",
+   "start": 23.6,
+   "end": 25.84,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "First, it is an antioxidant.",
+   "start": 26.36,
+   "end": 27.816,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It protects wine from oxygen, which can make wine brown and flat.",
+   "start": 28.262,
+   "end": 33.05,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, it is antimicrobial.",
+   "start": 33.5,
+   "end": 36.67,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It stops unwanted bacteria and wild yeasts from growing and spoiling the wine.",
+   "start": 37.07,
+   "end": 42.61,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Interestingly, yeast also produces a small amount of sulfites naturally during fermentation.",
+   "start": 43.13,
+   "end": 49.503,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So almost no wine is completely free of them.",
+   "start": 49.987,
+   "end": 53.08,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "There are legal limits on how much can be added.",
+   "start": 53.6,
+   "end": 56.72,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "In general, sweet wines are allowed more, because sugar makes them easier for microbes to spoil.",
+   "start": 57.15,
+   "end": 63.55,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Red wines usually need less than whites, because their tannins also help protect them.",
+   "start": 63.98,
+   "end": 69.34,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Do sulfites cause headaches?",
+   "start": 69.86,
+   "end": 72.02,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people, especially those with asthma, can be sensitive to them.",
+   "start": 72.77,
+   "end": 77.17,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "But for most people, research suggests that other things, such as alcohol itself, are more likely to cause headaches.",
+   "start": 77.6,
+   "end": 85.36,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Many dried fruits contain far more sulfites than a glass of wine.",
+   "start": 85.87,
+   "end": 90.03,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Some natural winemakers try to use very little or none.",
+   "start": 90.55,
+   "end": 94.51,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Their wines can be exciting, but they also need more careful storage.",
+   "start": 95.14,
+   "end": 99.94,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 222,
+ "duration": 99.9,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:49"
+}

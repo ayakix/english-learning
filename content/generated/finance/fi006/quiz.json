@@ -1,0 +1,114 @@
+{
+ "id": "fi006",
+ "author": "claude",
+ "summary_ja": "株は会社の所有権の一部を買うことで、会社が成長すれば値上がりし配当もあるが、業績が悪ければ大きく下がり、最悪倒産もある。債券は政府や会社にお金を貸すことで、定期的な利息と満期日に元本が返ってくる。株は値動きが大きいが期待リターンが高く、債券は安定しているがリターンは低い（リスクとリターンのトレードオフ）。金利が上がると既存の債券価格は下がる。若い人は株を多く、退職が近い人は債券を増やす。",
+ "listening": [
+  {
+   "q": "株を買うとは？",
+   "options": [
+    "会社の所有権の一部を買うこと",
+    "会社にお金を貸すこと",
+    "会社で働くこと",
+    "銀行に預けること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"When you buy a stock, you buy a small piece of ownership in a company.\""
+  },
+  {
+   "q": "債券を買うとは？",
+   "options": [
+    "不動産を買うこと",
+    "会社を所有すること",
+    "金を買うこと",
+    "政府や会社にお金を貸すこと"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"When you buy a bond, you are lending money, usually to a government or a company.\""
+  },
+  {
+   "q": "退職が近い人がよくすることは？",
+   "options": [
+    "株を増やす",
+    "借金をする",
+    "債券を増やして、悪い時期の大きな損失のリスクを減らす",
+    "すべて現金にする"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"People closer to retirement often increase their bonds to reduce the risk of a big loss at the wrong time.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "会社が成長して利益が増えれば、あなたの株の価値は上がることがあります。",
+   "points_ja": "grows and earns more profit が続き、value of your share が「ヴァリュアヴユアシェア」と聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "借り手が支払いに失敗しない限り、何を受け取れるかが分かります。",
+   "points_ja": "As long as the borrower が続き、know what you will receive が続けて聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "何年も先がある若い人は、株を多く持つことがよくあります。",
+   "points_ja": "many years ahead がつながり、hold more stocks が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "若い人は投資すべきでない",
+    "株と債券の違いと、リスクとリターンの関係、両方を持つ意味",
+    "株だけを持つべき",
+    "債券は安全なので損はない"
+   ],
+   "answer": 1,
+   "explanation_ja": "株と債券の仕組み、トレードオフ、債券のリスク、年齢による配分を説明しています。"
+  },
+  {
+   "q": "maturity date とは？",
+   "options": [
+    "利息を払う日",
+    "お金が返ってくる決まった日",
+    "株を買う日",
+    "会社ができた日"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"return your money on a fixed date, called the maturity date.\""
+  },
+  {
+   "q": "金利が上がると既存の債券価格が下がる理由は？",
+   "options": [
+    "会社が倒産するから",
+    "税金が上がるから",
+    "新しい債券のほうが多く利息を払うから",
+    "人気がなくなるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"If interest rates rise, the prices of existing bonds usually fall, because new bonds pay more.\""
+  },
+  {
+   "q": "dividends とは？",
+   "options": [
+    "銀行の手数料",
+    "債券の利息",
+    "株の値上がり",
+    "会社が利益の一部を株主に払うもの"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Some companies also pay part of their profit to shareholders as dividends.\""
+  },
+  {
+   "q": "若い人が株を多く持つことが多い理由として推測できるのは？",
+   "options": [
+    "法律で決まっているから",
+    "何年も先があり、値下がりから回復する時間があるから",
+    "債券が買えないから",
+    "株が安いから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Young people with many years ahead often hold more stocks.\""
+  }
+ ]
+}

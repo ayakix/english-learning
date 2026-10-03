@@ -1,0 +1,114 @@
+{
+ "id": "wt032",
+ "author": "claude",
+ "summary_ja": "「デイリービーター」は傷を気にせず毎日着ける時計、「セーフクイーン」は金庫や箱にしまって特別な日だけ出す時計。高価な時計ほど傷が気になるが、着けなければ楽しめない。B は全部の時計をときどき着けるようにしていて、小さな傷も思い出の物語になると考えている。",
+ "listening": [
+  {
+   "q": "daily beater とは？",
+   "options": [
+    "傷を気にせず毎日着ける時計",
+    "金庫にしまう時計",
+    "壊れた時計",
+    "子ども用の時計"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A daily beater is a watch you wear every day without worrying.\""
+  },
+  {
+   "q": "safe queen とは？",
+   "options": [
+    "女性用の時計",
+    "防水の時計",
+    "普段は金庫や箱にあり、特別な日だけ出す時計",
+    "一番安い時計"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"a watch that spends most of its life in a safe or a box ... It only comes out for special occasions.\""
+  },
+  {
+   "q": "B が傷について考えていることは？",
+   "options": [
+    "価値がゼロになる",
+    "すぐに修理すべきだ",
+    "隠すべきだ",
+    "小さな傷も旅や特別な日の思い出になる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"small marks tell a story. Years later, a scratch can remind you of a trip or a special day.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "仕事にもジムにも着けていきますし、庭仕事のときでさえ着けるかもしれません。",
+   "points_ja": "wear it to が「ウェアリットゥ」とつながり、to the gym の to は弱形です。"
+  },
+  {
+   "sentence": 8,
+   "ja": "それは特別な場合にしか出てきません。",
+   "points_ja": "comes out for がつながり「カムザウトフォー」になります。"
+  },
+  {
+   "sentence": 19,
+   "ja": "私はすべての時計を少なくともときどきは着けるようにしています。",
+   "points_ja": "try to wear の to は「タ」、at least が「アットリースト」と続きます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ジムでの時計の使い方",
+    "金庫の選び方",
+    "時計の値段の上がり方",
+    "時計を使って楽しむことと、状態や価値を守ることのバランス"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"You're always balancing two things\" と、使う楽しみと保護のバランスを話しています。"
+  },
+  {
+   "q": "safe queen について「少し悲しい」と言う人が多い理由は？",
+   "options": [
+    "女性用だから",
+    "時計が古いから",
+    "金庫が高いから",
+    "時計は着けるために作られているのに、着けないから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A watch is made to be worn. If you never wear it, you lose the joy\"。"
+  },
+  {
+   "q": "collector mindset の説明として正しいものは？",
+   "options": [
+    "時計を売ってもうける考え方",
+    "安い時計しか買わない考え方",
+    "できるだけ多く買う考え方",
+    "今楽しむことと、将来のために状態と価値を守ることのバランスをとる考え方"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"enjoying the watch now, and protecting its condition and value for the future.\""
+  },
+  {
+   "q": "\"every scratch hurts\" の意味は？",
+   "options": [
+    "傷が手を痛める",
+    "時計が痛む音を出す",
+    "傷がつくたびに心が痛む",
+    "傷は痛くない"
+   ],
+   "answer": 2,
+   "explanation_ja": "高価な時計ほど傷がつくとつらい、という気持ちを表しています。"
+  },
+  {
+   "q": "最後の文 \"A perfect watch in a safe doesn't have any stories.\" が伝えたいことは？",
+   "options": [
+    "金庫の時計が一番価値がある",
+    "物語のある時計は安い",
+    "しまっておくだけでは思い出が生まれない",
+    "完璧な時計は存在しない"
+   ],
+   "answer": 2,
+   "explanation_ja": "着けて使うことで思い出が生まれる、という考えを表しています。"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wn035",
+ "author": "claude",
+ "summary_ja": "提供温度はワインの香りと味を大きく変える。温かいと香りの分子がよく揮発して香りが強くなるが、アルコールも揮発して熱く重く感じる。冷たいと香りが控えめになり、タンニンは硬く苦く、酸はより新鮮に感じる。目安はスパークリング6〜8℃、軽い白8〜10℃、軽い赤12〜14℃、重い赤15〜18℃。暑い部屋では赤も少し冷やすとよい。",
+ "listening": [
+  {
+   "q": "ワインが温かいと香りはどうなる？",
+   "options": [
+    "変わらない",
+    "香りが消える",
+    "香りが甘くなる",
+    "香りの分子が多く揮発して強くなる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"When wine is warmer, more molecules evaporate, so the aroma becomes stronger.\""
+  },
+  {
+   "q": "冷たいワインでタンニンはどう感じる？",
+   "options": [
+    "泡のように感じる",
+    "やわらかく甘く感じる",
+    "硬く苦く感じる",
+    "感じなくなる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"In cold wine, tannins feel harder and more bitter.\""
+  },
+  {
+   "q": "重い赤ワインの提供温度の目安は？",
+   "options": [
+    "15〜18℃",
+    "6〜8℃",
+    "25℃以上",
+    "8〜10℃"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Full-bodied reds are usually served at around fifteen to eighteen degrees.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "同じワインでも、ある温度では平板に、別の温度ではすばらしく感じられることがあります。",
+   "points_ja": "seem flat at one がつながり、wonderful at another が「ワンダフラタナザー」と聞こえます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "また、締まりがなく平板な味にもなります。",
+   "points_ja": "can also がつながり、soft and flat の and は「ン」です。"
+  },
+  {
+   "sentence": 15,
+   "ja": "スパークリングワインは、6〜8℃くらいのかなり冷たい温度が一番です。",
+   "points_ja": "wines are best がつながり、six to eight の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "温度は関係ない",
+    "赤ワインは常に室温で",
+    "ワインはすべて冷やすべき",
+    "温度によって香りや味の感じ方が変わるので、ワインに合った温度で出すのがよい"
+   ],
+   "answer": 3,
+   "explanation_ja": "温度が香り・アルコール・タンニン・酸に与える影響と目安を説明しています。"
+  },
+  {
+   "q": "aromatic volatility の説明として正しいものは？",
+   "options": [
+    "ワインの色の変化",
+    "ワインの泡立ち",
+    "ワインの重さ",
+    "香りの分子がワインから蒸発して鼻に届く性質"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Aromas are small molecules that evaporate from the wine and reach your nose.\""
+  },
+  {
+   "q": "赤ワインを温かすぎる温度で出すとどうなる？",
+   "options": [
+    "香りが消える",
+    "とても新鮮になる",
+    "アルコールが果実を隠し、熱く重く感じる",
+    "色が薄くなる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A red wine served too warm can smell hot and heavy, with alcohol hiding the fruit.\""
+  },
+  {
+   "q": "冷たい温度が白やスパークリングに合う理由は？",
+   "options": [
+    "アルコールが強くなるから",
+    "酸がより新鮮に感じられるから",
+    "タンニンがやわらぐから",
+    "色が濃くなるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"cold temperatures make acidity feel fresher, which works well for white and sparkling wines.\""
+  },
+  {
+   "q": "「赤は室温で」という古い助言について本文の説明は？",
+   "options": [
+    "白ワインのための助言",
+    "日本で生まれた",
+    "今でも完全に正しい",
+    "涼しいヨーロッパの家から生まれたので、暖かい部屋では少し冷やすとよい"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"old advice to serve reds at room temperature came from cooler European houses.\""
+  }
+ ]
+}

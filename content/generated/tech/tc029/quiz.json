@@ -1,0 +1,114 @@
+{
+ "id": "tc029",
+ "author": "claude",
+ "summary_ja": "B は自作のスマートデスクランプを作った。座ると点き、時間帯で明るさが変わる。壁のコンセントのランプはリレーモジュールで制御できるが、家庭用電源は危険で初心者は避けるべき。B は低電圧の LED テープを使い、PWM（高速で点滅させ、点灯時間の割合で明るさを変える）で調光した。オープンソースの Home Assistant につないで、予定や位置、人感センサーに反応させている。",
+ "listening": [
+  {
+   "q": "リレーモジュールとは？",
+   "options": [
+    "電池",
+    "センサー",
+    "LED の種類",
+    "マイコンからの小さな電気信号で操作するスイッチ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A relay is basically a switch controlled by a small electrical signal from the microcontroller.\""
+  },
+  {
+   "q": "B が初心者に警告していることは？",
+   "options": [
+    "電池は使わない",
+    "家庭用の電源は危険なので、避けるほうがずっと安全",
+    "LED は危険",
+    "インターネットにつながない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Wall power is dangerous. If you're a beginner, it's much safer to avoid it completely.\""
+  },
+  {
+   "q": "ランプが反応するものとして話されていないものは？",
+   "options": [
+    "スマホの位置",
+    "天気予報",
+    "人感センサー",
+    "カレンダー"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"my calendar, my phone's location and a motion sensor\" で、天気予報はありません。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "座ると点灯し、時間帯によって明るさが変わります。",
+   "points_ja": "turns on when I sit down が一続きに聞こえ、time of day が「タイマヴデイ」と聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "半分の時間点いていれば、だいたい半分の明るさに見えます。",
+   "points_ja": "they're on half the がつながり、about half as bright が続けて聞こえます。"
+  },
+  {
+   "sentence": 24,
+   "ja": "電子工作、ネットワーク、安全について学び、毎日使っています。",
+   "points_ja": "learned about が「ラーンダバウト」、use it every が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "スマートデスクランプを自作した方法と、そこから学んだこと",
+    "電気代の節約",
+    "ランプの選び方",
+    "家の掃除"
+   ],
+   "answer": 0,
+   "explanation_ja": "照明の制御方法、安全、PWM、スマートホーム連携について話しています。"
+  },
+  {
+   "q": "自作した理由は？",
+   "options": [
+    "仕事のため",
+    "安いから",
+    "主に楽しさと学びのため、そして自分好みの動きにしたかった",
+    "店に売っていないから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Mostly for fun and learning. I also wanted it to work exactly the way I like.\""
+  },
+  {
+   "q": "PWM の仕組みは？",
+   "options": [
+    "電圧を上げる",
+    "LED の色を変える",
+    "電池を替える",
+    "LED をとても速く点けたり消したりし、点いている時間の割合で明るさを変える"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The microcontroller switches the LEDs on and off very quickly.\""
+  },
+  {
+   "q": "ちらつきに気づかない理由は？",
+   "options": [
+    "LED が消えないから",
+    "目を閉じているから",
+    "部屋が明るいから",
+    "点滅が速すぎて目が気づかないから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Our eyes don't notice the flickering.\""
+  },
+  {
+   "q": "Home Assistant とは？",
+   "options": [
+    "音声アシスタントの会社",
+    "ランプの部品",
+    "電気屋",
+    "スマートホーム機器を制御するオープンソースのシステム"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"an open-source system for controlling smart home devices.\""
+  }
+ ]
+}

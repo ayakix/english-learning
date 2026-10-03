@@ -1,0 +1,114 @@
+{
+ "id": "wn025",
+ "author": "claude",
+ "summary_ja": "ラベルの「亜硫酸塩含有」の亜硫酸（SO2）は昔からワイン造りに使われ、酸化防止（ワインを茶色く平板にする酸素から守る）と抗菌（雑菌や野生酵母を抑える）の役割がある。発酵中に酵母も少量作るので完全にゼロのワインはほぼない。甘口は多く、赤は白より少なくてすむ。頭痛の原因は多くの人にとってアルコールの可能性が高い。",
+ "listening": [
+  {
+   "q": "亜硫酸の2つの役割は？",
+   "options": [
+    "甘味と香り",
+    "アルコールと酸",
+    "色と泡",
+    "酸化防止と抗菌"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"First, it is an antioxidant ... Second, it is antimicrobial.\""
+  },
+  {
+   "q": "亜硫酸がまったくないワインがほぼない理由は？",
+   "options": [
+    "発酵中に酵母が自然に少量作るから",
+    "瓶から溶け出すから",
+    "ブドウの皮に多いから",
+    "法律で必ず入れるから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"yeast also produces a small amount of sulfites naturally during fermentation.\""
+  },
+  {
+   "q": "頭痛について研究が示していることは？",
+   "options": [
+    "白ワインは頭痛を治す",
+    "亜硫酸が必ず原因",
+    "多くの人にとってはアルコールなど他の原因の可能性が高い",
+    "赤ワインだけが原因"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"for most people, research suggests that other things, such as alcohol itself, are more likely to cause headaches.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "これを心配する人もいますが、亜硫酸塩はとても長い間ワイン造りの一部でした。",
+   "points_ja": "worry about this がつながり、part of winemaking が「パーラヴワインメイキング」と聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "それはワインを酸素から守ります。酸素はワインを茶色く平板にすることがあります。",
+   "points_ja": "protects wine from が続き、brown and flat の and は「ン」です。"
+  },
+  {
+   "sentence": 20,
+   "ja": "そのワインは刺激的なこともありますが、より注意深い保管も必要です。",
+   "points_ja": "can be exciting がつながり、need more の d は飲み込まれます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "亜硫酸塩は危険なので禁止すべき",
+    "亜硫酸塩は甘味料である",
+    "自然派ワインには必ず亜硫酸塩が多い",
+    "亜硫酸塩はワインを守るために昔から使われ、多くの心配は誤解に近い"
+   ],
+   "answer": 3,
+   "explanation_ja": "役割、自然に含まれること、法的な上限、頭痛の誤解を説明しています。"
+  },
+  {
+   "q": "antimicrobial の意味として本文に合うのは？",
+   "options": [
+    "酸素を加える",
+    "色を濃くする",
+    "望ましくない細菌や野生酵母の増殖を止める",
+    "甘くする"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It stops unwanted bacteria and wild yeasts from growing and spoiling the wine.\""
+  },
+  {
+   "q": "甘口ワインに多く認められている理由は？",
+   "options": [
+    "糖があると微生物がワインをだめにしやすいから",
+    "香りを強くするため",
+    "色を守るため",
+    "甘さを増すため"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"because sugar makes them easier for microbes to spoil.\""
+  },
+  {
+   "q": "赤ワインが白より少なくてすむ理由は？",
+   "options": [
+    "赤ワインは早く飲むから",
+    "赤ワインは冷やすから",
+    "タンニンもワインを守るから",
+    "赤ワインには糖がないから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"because their tannins also help protect them.\""
+  },
+  {
+   "q": "本文によると、亜硫酸塩がワインよりはるかに多い食品は？",
+   "options": [
+    "野菜",
+    "牛乳",
+    "パン",
+    "多くのドライフルーツ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many dried fruits contain far more sulfites than a glass of wine.\""
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "id": "wt012",
+ "author": "claude",
+ "category": "watches",
+ "title": "Hand-Engraved Balance Cocks",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "balance cock",
+  "burin",
+  "freehand engraving"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "There's one part of a German watch that collectors always look at first. It's a small bridge near the balance wheel, isn't it?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, it's called the balance cock. It holds the top of the balance wheel in place. In Glashütte watches, it's often covered with a hand-engraved pattern of leaves and flowers."
+  },
+  {
+   "speaker": "A",
+   "text": "Hand-engraved? On something so small?"
+  },
+  {
+   "speaker": "B",
+   "text": "Absolutely. The engraver works under a microscope or a strong magnifying glass. The main tool is called a burin. It's a small steel tool with a very sharp point that cuts tiny lines into the metal."
+  },
+  {
+   "speaker": "A",
+   "text": "Do they follow a drawing?"
+  },
+  {
+   "speaker": "B",
+   "text": "There's a general design, but the cutting is done freehand. That means there's no machine guiding the tool. The engraver controls every line with their own hand."
+  },
+  {
+   "speaker": "A",
+   "text": "So no two are exactly the same."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the beauty of it. If you put two balance cocks side by side, you'll see small differences. Some people say they can even recognize which engraver made a piece, just by the style."
+  },
+  {
+   "speaker": "A",
+   "text": "Isn't it a little strange to put so much work into a part most people never see?"
+  },
+  {
+   "speaker": "B",
+   "text": "Maybe. But many owners turn the watch over and look through the case back every day. For them, that tiny engraved bridge is the signature of the watch. It shows a human being was there."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "There's one part of a German watch that collectors always look at first.",
+   "start": 0.0,
+   "end": 4.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's a small bridge near the balance wheel, isn't it?",
+   "start": 5.11,
+   "end": 8.27,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes, it's called the balance cock.",
+   "start": 8.99,
+   "end": 11.23,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It holds the top of the balance wheel in place.",
+   "start": 11.66,
+   "end": 14.62,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "In Glashütte watches, it's often covered with a hand-engraved pattern of leaves and flowers.",
+   "start": 15.53,
+   "end": 21.29,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Hand-engraved?",
+   "start": 22.01,
+   "end": 23.21,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "On something so small?",
+   "start": 23.72,
+   "end": 25.4,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Absolutely.",
+   "start": 26.12,
+   "end": 27.08,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The engraver works under a microscope or a strong magnifying glass.",
+   "start": 27.91,
+   "end": 32.51,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The main tool is called a burin.",
+   "start": 33.14,
+   "end": 35.38,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a small steel tool with a very sharp point that cuts tiny lines into the metal.",
+   "start": 36.21,
+   "end": 42.13,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Do they follow a drawing?",
+   "start": 42.85,
+   "end": 44.61,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "There's a general design, but the cutting is done freehand.",
+   "start": 45.33,
+   "end": 49.25,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That means there's no machine guiding the tool.",
+   "start": 49.68,
+   "end": 52.8,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "The engraver controls every line with their own hand.",
+   "start": 53.19,
+   "end": 56.59,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So no two are exactly the same.",
+   "start": 57.31,
+   "end": 60.27,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "That's the beauty of it.",
+   "start": 60.99,
+   "end": 62.59,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If you put two balance cocks side by side, you'll see small differences.",
+   "start": 63.18,
+   "end": 68.06,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Some people say they can even recognize which engraver made a piece, just by the style.",
+   "start": 68.73,
+   "end": 74.25,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Isn't it a little strange to put so much work into a part most people never see?",
+   "start": 74.97,
+   "end": 80.33,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Maybe.",
+   "start": 81.05,
+   "end": 81.61,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But many owners turn the watch over and look through the case back every day.",
+   "start": 82.04,
+   "end": 87.2,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "For them, that tiny engraved bridge is the signature of the watch.",
+   "start": 87.83,
+   "end": 92.15,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It shows a human being was there.",
+   "start": 92.98,
+   "end": 95.14,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 219,
+ "duration": 95.1,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:44"
+}

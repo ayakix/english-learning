@@ -1,0 +1,243 @@
+{
+ "id": "wn027",
+ "author": "claude",
+ "category": "wine",
+ "title": "Rainfall at Harvest: Dilution and Botrytis Risks",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "berry splitting",
+  "dilution",
+  "botrytis cinerea"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Winemakers always seem nervous about the weather just before harvest. Why is rain at that moment such a problem?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because the grapes are almost ready, and they're full of sugar and flavor. When heavy rain comes, the vines take up a lot of water very quickly. That water goes into the berries."
+  },
+  {
+   "speaker": "A",
+   "text": "So the grapes get bigger?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, and that leads to dilution. The same amount of flavor and sugar is spread through more water. The wine can taste thin and less concentrated."
+  },
+  {
+   "speaker": "A",
+   "text": "Is that the only risk?"
+  },
+  {
+   "speaker": "B",
+   "text": "No. Sometimes the berries swell so fast that the skins crack. We call that berry splitting. Once the skin is broken, juice leaks out, and that attracts insects and disease."
+  },
+  {
+   "speaker": "A",
+   "text": "What kind of disease?"
+  },
+  {
+   "speaker": "B",
+   "text": "The big one is a fungus called Botrytis cinerea. In wet, warm conditions, it causes grey rot. It can destroy a lot of fruit and give the wine moldy flavors."
+  },
+  {
+   "speaker": "A",
+   "text": "But isn't botrytis also used to make sweet wines?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's right, and it's a great example of nature's two faces. In places like Sauternes, misty mornings and dry afternoons let the same fungus become noble rot. It concentrates the sugar in white grapes and creates famous sweet wines. But for red wine, it's almost always bad news. That's why growers watch the forecast so closely."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Winemakers always seem nervous about the weather just before harvest.",
+   "start": 0.0,
+   "end": 4.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is rain at that moment such a problem?",
+   "start": 5.31,
+   "end": 7.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Because the grapes are almost ready, and they're full of sugar and flavor.",
+   "start": 8.67,
+   "end": 13.71,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "When heavy rain comes, the vines take up a lot of water very quickly.",
+   "start": 14.38,
+   "end": 19.34,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "That water goes into the berries.",
+   "start": 19.81,
+   "end": 21.85,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So the grapes get bigger?",
+   "start": 22.57,
+   "end": 24.57,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes, and that leads to dilution.",
+   "start": 25.29,
+   "end": 28.05,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The same amount of flavor and sugar is spread through more water.",
+   "start": 28.68,
+   "end": 32.92,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The wine can taste thin and less concentrated.",
+   "start": 33.35,
+   "end": 36.63,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Is that the only risk?",
+   "start": 37.35,
+   "end": 39.27,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "No.",
+   "start": 39.99,
+   "end": 40.47,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Sometimes the berries swell so fast that the skins crack.",
+   "start": 41.06,
+   "end": 45.14,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "We call that berry splitting.",
+   "start": 45.97,
+   "end": 47.81,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Once the skin is broken, juice leaks out, and that attracts insects and disease.",
+   "start": 48.72,
+   "end": 54.32,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "What kind of disease?",
+   "start": 55.04,
+   "end": 56.8,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "The big one is a fungus called Botrytis cinerea.",
+   "start": 57.6,
+   "end": 60.8,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "In wet, warm conditions, it causes grey rot.",
+   "start": 61.63,
+   "end": 65.07,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It can destroy a lot of fruit and give the wine moldy flavors.",
+   "start": 65.66,
+   "end": 69.82,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "But isn't botrytis also used to make sweet wines?",
+   "start": 70.54,
+   "end": 74.38,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "That's right, and it's a great example of nature's two faces.",
+   "start": 75.1,
+   "end": 79.26,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "In places like Sauternes, misty mornings and dry afternoons let the same fungus become noble rot.",
+   "start": 80.17,
+   "end": 87.37,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It concentrates the sugar in white grapes and creates famous sweet wines.",
+   "start": 87.8,
+   "end": 92.76,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But for red wine, it's almost always bad news.",
+   "start": 93.19,
+   "end": 96.79,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That's why growers watch the forecast so closely.",
+   "start": 97.22,
+   "end": 100.34,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 217,
+ "duration": 100.3,
+ "wpm": 130,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:49"
+}

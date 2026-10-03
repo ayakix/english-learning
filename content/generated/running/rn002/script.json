@@ -1,0 +1,251 @@
+{
+ "id": "rn002",
+ "author": "claude",
+ "category": "running",
+ "title": "Carbo-Loading Protocols: The 48-Hour Window",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "glycogen supercompensation",
+  "tapering",
+  "grams per kilogram"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Before a marathon, many runners eat lots of pasta. Is carbo-loading really necessary?"
+  },
+  {
+   "speaker": "B",
+   "text": "For races longer than about ninety minutes, it can make a real difference. The goal is to fill your muscles with as much glycogen as possible. Scientists call this glycogen supercompensation."
+  },
+  {
+   "speaker": "A",
+   "text": "How long before the race should you start?"
+  },
+  {
+   "speaker": "B",
+   "text": "Modern advice usually suggests the last thirty-six to forty-eight hours. Older methods included a few days of very low carbs first, but most runners don't do that anymore."
+  },
+  {
+   "speaker": "A",
+   "text": "And how much should you eat?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's often described in grams per kilogram of body weight. A common target is around eight to twelve grams of carbohydrate per kilogram per day. For a sixty-kilogram runner, that's about five hundred to seven hundred grams."
+  },
+  {
+   "speaker": "A",
+   "text": "That's a lot of rice."
+  },
+  {
+   "speaker": "B",
+   "text": "It is. That's why many runners also choose easy foods like white bread, bananas, juice and sports drinks. And they reduce fat and fiber, so the stomach stays comfortable."
+  },
+  {
+   "speaker": "A",
+   "text": "Does training matter during these days?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. Carbo-loading works together with tapering. You run much less before the race, so your muscles can store the carbs instead of burning them."
+  },
+  {
+   "speaker": "A",
+   "text": "Anything else to expect?"
+  },
+  {
+   "speaker": "B",
+   "text": "You'll probably feel heavier. Glycogen is stored with water, so gaining one or two kilograms is normal. That's actually a good sign."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Before a marathon, many runners eat lots of pasta.",
+   "start": 0.0,
+   "end": 3.6,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is carbo-loading really necessary?",
+   "start": 4.43,
+   "end": 6.75,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For races longer than about ninety minutes, it can make a real difference.",
+   "start": 7.47,
+   "end": 12.07,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The goal is to fill your muscles with as much glycogen as possible.",
+   "start": 12.7,
+   "end": 16.54,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Scientists call this glycogen supercompensation.",
+   "start": 17.45,
+   "end": 20.81,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How long before the race should you start?",
+   "start": 21.53,
+   "end": 24.01,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Modern advice usually suggests the last thirty-six to forty-eight hours.",
+   "start": 24.73,
+   "end": 29.93,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Older methods included a few days of very low carbs first, but most runners don't do that anymore.",
+   "start": 30.36,
+   "end": 36.84,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And how much should you eat?",
+   "start": 37.64,
+   "end": 39.48,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It's often described in grams per kilogram of body weight.",
+   "start": 40.2,
+   "end": 43.96,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "A common target is around eight to twelve grams of carbohydrate per kilogram per day.",
+   "start": 44.55,
+   "end": 50.39,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "For a sixty-kilogram runner, that's about five hundred to seven hundred grams.",
+   "start": 50.82,
+   "end": 55.78,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's a lot of rice.",
+   "start": 56.5,
+   "end": 58.42,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It is.",
+   "start": 59.22,
+   "end": 59.86,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That's why many runners also choose easy foods like white bread, bananas, juice and sports drinks.",
+   "start": 60.61,
+   "end": 67.89,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And they reduce fat and fiber, so the stomach stays comfortable.",
+   "start": 68.32,
+   "end": 72.32,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Does training matter during these days?",
+   "start": 73.04,
+   "end": 75.52,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 76.24,
+   "end": 76.72,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Carbo-loading works together with tapering.",
+   "start": 77.27,
+   "end": 80.19,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "You run much less before the race, so your muscles can store the carbs instead of burning them.",
+   "start": 80.78,
+   "end": 86.62,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Anything else to expect?",
+   "start": 87.34,
+   "end": 88.94,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "You'll probably feel heavier.",
+   "start": 89.66,
+   "end": 91.7,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Glycogen is stored with water, so gaining one or two kilograms is normal.",
+   "start": 92.33,
+   "end": 96.89,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "That's actually a good sign.",
+   "start": 97.72,
+   "end": 99.48,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 213,
+ "duration": 99.4,
+ "wpm": 129,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:55"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wt018",
+ "author": "claude",
+ "summary_ja": "スワンネック緩急針は、白鳥の首のように曲がったばねで緩急針を押さえ、反対側の微調整ネジで少しずつ動かす仕組み。緩急針はわずかに動かすだけで1日に数秒変わるため、精密な調整（ファインレギュレーション）ができ、衝撃でずれにくい。",
+ "listening": [
+  {
+   "q": "スワンネックという名前の由来は？",
+   "options": [
+    "白鳥の羽の模様",
+    "白い色",
+    "発明者の名前",
+    "白鳥の首のように曲がったばねの形"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"a thin, curved spring that looks like the neck of a swan.\""
+  },
+  {
+   "q": "普通の緩急針の問題として話されているのは？",
+   "options": [
+    "わずかな動きで大きく変わるので、動かしすぎやすい",
+    "錆びやすい",
+    "重すぎる",
+    "見えない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"With a simple arm, it is easy to push too far.\""
+  },
+  {
+   "q": "スワンネックの利点として話されていないものは？",
+   "options": [
+    "電池が長持ちする",
+    "精密な調整ができる",
+    "見た目が美しい",
+    "衝撃でずれにくい"
+   ],
+   "answer": 0,
+   "explanation_ja": "精密な調整、ずれにくさ、形の美しさは出てきますが、電池の話はありません。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "この部品はスワンネック緩急針と呼ばれ、便利で美しいものです。",
+   "points_ja": "called a がつながり、useful and が「ユースフルン」と短くなります。"
+  },
+  {
+   "sentence": 6,
+   "ja": "難しいのは、必要な動きがとても小さいことです。",
+   "points_ja": "challenge is がつながり、that the の that は弱く短くなります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "それはまた、時計が衝撃を受けたときに緩急針がずれるのを防ぎます。",
+   "points_ja": "keeps the arm from が続けて聞こえ、receives a の a はほとんど聞こえません。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ヒゲゼンマイは短いほどよい",
+    "緩急針は不要である",
+    "白鳥は時計の象徴である",
+    "スワンネック緩急針は精密な調整を可能にする、機能的で美しい部品である"
+   ],
+   "answer": 3,
+   "explanation_ja": "仕組み・利点・今も使われる理由を説明しています。"
+  },
+  {
+   "q": "緩急針（regulator）の役割は？",
+   "options": [
+    "日付を変える",
+    "ゼンマイを巻く",
+    "時刻を表示する",
+    "ヒゲゼンマイの有効な長さを変えて進み遅れを調整する"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A small arm called the regulator can make the active part of the hairspring a little longer or shorter.\""
+  },
+  {
+   "q": "micrometric screw の働きは？",
+   "options": [
+    "ベルトをつなぐ",
+    "針を固定する",
+    "ケースを閉める",
+    "回すと緩急針がごくわずかに決まった量だけ動く"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"When the watchmaker turns this screw, the arm moves forward by a very small, controlled amount.\""
+  },
+  {
+   "q": "\"a fraction of a millimeter\" を動かすと何が起こる？",
+   "options": [
+    "1日に数秒、時間が変わる",
+    "針が外れる",
+    "何も変わらない",
+    "時計が止まる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"can change the timing by several seconds a day.\""
+  },
+  {
+   "q": "最後の文から分かることは？",
+   "options": [
+    "ドイツだけで使われている",
+    "最も安い方式である",
+    "今では使われていない",
+    "機能と形の両方を大切にした証として今も人気がある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"because it shows that someone cared about both function and form.\""
+  }
+ ]
+}

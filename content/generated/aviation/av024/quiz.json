@@ -1,0 +1,114 @@
+{
+ "id": "av024",
+ "author": "claude",
+ "summary_ja": "初期の飛行機は操縦桿と舵面をケーブルやロッドで直接つないでいたが、現代の多くの旅客機はフライ・バイ・ワイヤ（FBW）。操縦の動きをセンサーが電気信号にし、飛行制御コンピューターが舵面の動かし方を決める。電線は軽く、細かい調整で滑らかになり、最も重要なのは安全で、飛行包囲保護により失速や過速、急すぎる旋回を防ぐ。最初は1980年代後半のA320。",
+ "listening": [
+  {
+   "q": "フライ・バイ・ワイヤでは、パイロットの操作はどう伝わる？",
+   "options": [
+    "センサーが電気信号にし、コンピューターが舵面の動きを決める",
+    "無線で地上へ",
+    "油圧だけで",
+    "ケーブルで直接"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"sensors turn that movement into electrical signals. These signals go to a flight control computer.\""
+  },
+  {
+   "q": "コンピューターを入れる最も重要な理由は？",
+   "options": [
+    "静かさ",
+    "安全",
+    "見た目",
+    "安さ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The most important reason is safety.\""
+  },
+  {
+   "q": "完全なデジタル FBW を初めて採用した旅客機は？",
+   "options": [
+    "ボーイング747",
+    "エアバス A320",
+    "ボーイング787",
+    "コンコルド"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The Airbus A320, introduced in the late nineteen eighties, was the first airliner with a full digital fly-by-wire system.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "その後、油圧システムがこれらの重い舵面を動かすのを助けました。",
+   "points_ja": "hydraulic systems helped がつながり、move these の z と ð が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "コンピューターが舵面の動かし方を決め、それから舵面に指令を送ります。",
+   "points_ja": "decides how to move the が続き、sends commands to them が「センズコマンズトゥゼム」と聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "今日では、ほとんどすべての新しい旅客機が何らかの形でそれを使っています。",
+   "points_ja": "almost all new がつながり、some form of it が「サムフォーマヴィット」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "パイロットの給料",
+    "コンピューターの作り方",
+    "飛行機の歴史全体",
+    "フライ・バイ・ワイヤの仕組みと、軽さ・精密さ・安全という利点"
+   ],
+   "answer": 3,
+   "explanation_ja": "仕組みと3つの利点、導入の歴史を説明しています。"
+  },
+  {
+   "q": "初期の飛行機の操縦の仕組みは？",
+   "options": [
+    "操縦桿と舵面をケーブルやロッドで直接つないでいた",
+    "無線操縦",
+    "コンピューター",
+    "自動操縦だけ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Cables and rods connected the control stick to the moving surfaces on the wings and tail.\""
+  },
+  {
+   "q": "精密さについての説明は？",
+   "options": [
+    "パイロットが正確に操縦する",
+    "地図が正確",
+    "時計が正確",
+    "コンピューターが1秒に何度も細かく調整し、飛行を滑らかにする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The computer can make many small adjustments every second, making the flight smoother.\""
+  },
+  {
+   "q": "flight envelope の意味は？",
+   "options": [
+    "安全に飛べる速度・角度・力の範囲",
+    "飛行ルート",
+    "飛行機の封筒",
+    "燃料の量"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The flight envelope is the range of speeds, angles and forces in which the aircraft can fly safely.\""
+  },
+  {
+   "q": "Boeing で FBW を採用した機体として挙げられているのは？",
+   "options": [
+    "777",
+    "737 Classic",
+    "747",
+    "727"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Boeing followed with the 777.\""
+  }
+ ]
+}

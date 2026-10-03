@@ -1,0 +1,229 @@
+{
+ "id": "pa019",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Answering Endless \"Why?\" Questions",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "curiosity",
+  "open-ended question",
+  "wonder"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Why is the sky blue? Why do dogs bark? Why do I have to go to bed? Around the age of three or four, many children ask why questions all day long. Some parents feel exhausted. But these questions are a sign of a powerful learning engine: curiosity."
+  },
+  {
+   "speaker": "A",
+   "text": "Children ask why because they are trying to understand how the world works. Researchers have found that young children often ask many questions per hour in conversation with adults. And they are not just asking to keep talking. Studies suggest they are often looking for real explanations, and they ask again when the answer does not satisfy them."
+  },
+  {
+   "speaker": "A",
+   "text": "Parents do not need to know every answer. In fact, saying I don't know. Let's find out together, is a wonderful response. It shows that not knowing is normal and that finding answers can be fun."
+  },
+  {
+   "speaker": "A",
+   "text": "Another useful strategy is to ask an open-ended question in return. That is a question without a simple yes or no answer. For example, What do you think? or Why do you think the leaves fall? This encourages children to think and form their own ideas."
+  },
+  {
+   "speaker": "A",
+   "text": "It also helps to share your own sense of wonder. When adults show excitement about the moon, insects or how machines work, children learn that curiosity is valued."
+  },
+  {
+   "speaker": "A",
+   "text": "Of course, sometimes a parent needs a break. It is fine to say, That's a great question. Let's talk about it after dinner. The important thing is that children feel their questions are welcome."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Why is the sky blue?",
+   "start": 0.0,
+   "end": 2.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why do dogs bark?",
+   "start": 2.43,
+   "end": 4.11,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why do I have to go to bed?",
+   "start": 4.54,
+   "end": 6.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Around the age of three or four, many children ask why questions all day long.",
+   "start": 6.89,
+   "end": 12.57,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Some parents feel exhausted.",
+   "start": 13.0,
+   "end": 15.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But these questions are a sign of a powerful learning engine: curiosity.",
+   "start": 15.51,
+   "end": 20.47,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Children ask why because they are trying to understand how the world works.",
+   "start": 20.99,
+   "end": 25.63,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Researchers have found that young children often ask many questions per hour in conversation with adults.",
+   "start": 26.3,
+   "end": 32.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "And they are not just asking to keep talking.",
+   "start": 33.29,
+   "end": 35.81,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Studies suggest they are often looking for real explanations, and they ask again when the answer does not satisfy them.",
+   "start": 36.44,
+   "end": 43.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Parents do not need to know every answer.",
+   "start": 44.32,
+   "end": 47.28,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In fact, saying I don't know.",
+   "start": 47.71,
+   "end": 50.19,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Let's find out together, is a wonderful response.",
+   "start": 50.62,
+   "end": 53.98,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It shows that not knowing is normal and that finding answers can be fun.",
+   "start": 54.41,
+   "end": 59.05,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Another useful strategy is to ask an open-ended question in return.",
+   "start": 59.57,
+   "end": 64.21,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is a question without a simple yes or no answer.",
+   "start": 64.88,
+   "end": 68.64,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, What do you think?",
+   "start": 69.47,
+   "end": 71.67,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "or Why do you think the leaves fall?",
+   "start": 72.22,
+   "end": 74.78,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This encourages children to think and form their own ideas.",
+   "start": 75.45,
+   "end": 79.37,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It also helps to share your own sense of wonder.",
+   "start": 79.89,
+   "end": 82.69,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When adults show excitement about the moon, insects or how machines work, children learn that curiosity is valued.",
+   "start": 83.6,
+   "end": 91.52,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course, sometimes a parent needs a break.",
+   "start": 92.04,
+   "end": 95.0,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It is fine to say, That's a great question.",
+   "start": 95.59,
+   "end": 98.55,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Let's talk about it after dinner.",
+   "start": 98.98,
+   "end": 100.62,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The important thing is that children feel their questions are welcome.",
+   "start": 101.25,
+   "end": 105.17,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 250,
+ "duration": 105.2,
+ "wpm": 143,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 78,
+ "created": "2026-10-03 23:59"
+}

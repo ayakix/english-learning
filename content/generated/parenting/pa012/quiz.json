@@ -1,0 +1,114 @@
+{
+ "id": "pa012",
+ "author": "claude",
+ "summary_ja": "お金の教育は思ったより早く、4、5歳でも始められる。お小遣いは子ども自身が管理する少額の定期的なお金で、本当に自分で決めることが大切。お菓子に使い切って欲しいおもちゃが買えない失敗も、7歳の少額で学ぶほうが25歳のクレジットカードよりずっと良い。使う・貯める・分けるの3つの瓶に分ける。貯めることで「満足の先延ばし」を学ぶ。お金の話をオープンにする。",
+ "listening": [
+  {
+   "q": "お金の教育を始められる年齢として話されているのは？",
+   "options": [
+    "10歳から",
+    "4、5歳でも始められる",
+    "大人になってから",
+    "高校生から"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Even children of four or five can understand simple ideas\"。"
+  },
+  {
+   "q": "お小遣いで大切なこととして B が言うのは？",
+   "options": [
+    "毎日渡すこと",
+    "子どもが本当に自分で決めること",
+    "多く渡すこと",
+    "親が使い道を決めること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The important thing is that they make real decisions with it.\""
+  },
+  {
+   "q": "3つの瓶の使い道は？",
+   "options": [
+    "親・子・祖父母",
+    "使う・貯める・分ける（人にあげる）",
+    "朝・昼・夜",
+    "お菓子・おもちゃ・本"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"one for spending, one for saving and one for sharing or giving to others.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 5,
+   "ja": "お小遣いとは、子どもが自分で管理できる少額の定期的なお金です。",
+   "points_ja": "allowance is a small がつながり、amount of money が「アマウンタヴマニー」と聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "お金が入ると、子どもはそれを瓶に分けます。",
+   "points_ja": "money comes in がつながり、divides it between が続けて聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "値段を比べたり予算を立てたりする姿を子どもに見せましょう。",
+   "points_ja": "Let children see you が続き、plan a budget が「プランナバジェット」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "銀行口座の作り方",
+    "子どもの貯金箱の選び方",
+    "クレジットカードの使い方",
+    "お小遣いを通して、子どもにお金の管理を早くから教える方法"
+   ],
+   "answer": 3,
+   "explanation_ja": "お小遣い、失敗から学ぶこと、3つの瓶、満足の先延ばし、オープンな話し合いを話しています。"
+  },
+  {
+   "q": "お菓子に全部使って後悔する経験について B は？",
+   "options": [
+    "とても価値のある学び",
+    "罰を与えるべき",
+    "避けるべき失敗",
+    "親が止めるべき"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Especially those. If a child spends everything on candy and then can't buy a toy they want, that's a valuable lesson.\""
+  },
+  {
+   "q": "delayed gratification の意味は？",
+   "options": [
+    "すぐに使うこと",
+    "お金を借りること",
+    "プレゼントをもらうこと",
+    "今の小さなご褒美より、後の大きなご褒美を待つこと"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That means waiting for a bigger reward later instead of taking a smaller one now.\""
+  },
+  {
+   "q": "お金が秘密だと子どもはどう学ぶ？",
+   "options": [
+    "何も学ばない",
+    "お金は大切だと学ぶ",
+    "お金はストレスの多いものだと学ぶ",
+    "お金は簡単だと学ぶ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"If money is a secret, children learn that it's stressful.\""
+  },
+  {
+   "q": "\"much better to learn that with a small amount at age seven than with a credit card at twenty-five\" が伝えたいことは？",
+   "options": [
+    "25歳まで教えなくてよい",
+    "小さいうちに少額で失敗するほうが、大人になって大きく失敗するよりずっと良い",
+    "お金は使わないほうがよい",
+    "7歳でクレジットカードを持つべき"
+   ],
+   "answer": 1,
+   "explanation_ja": "早いうちの小さな失敗の価値を表しています。"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wt021",
+ "author": "claude",
+ "summary_ja": "ハック機能（秒針停止機能）は、リューズを引くと秒針が止まり、秒単位で時刻を合わせられる仕組み。リューズを引くと小さなレバーがテンプに触れて止める。兵士やパイロットが時刻をそろえるために重要で、今の機械式時計の多くに付いている。",
+ "listening": [
+  {
+   "q": "ハック機能があると何ができる？",
+   "options": [
+    "暗闇で光る",
+    "日付が自動で変わる",
+    "秒単位で正確に時刻を合わせられる",
+    "アラームが鳴る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The watch starts again at precisely the right moment.\""
+  },
+  {
+   "q": "秒針を止める仕組みは？",
+   "options": [
+    "針を手で押さえる",
+    "ゼンマイを切る",
+    "電池を外す",
+    "小さなレバーがテンプに触れて止める"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"One end of this lever gently touches the balance wheel and holds it still.\""
+  },
+  {
+   "q": "歴史的に重要だった理由は？",
+   "options": [
+    "時計が高かったから",
+    "水中で使うため",
+    "夜に使うため",
+    "兵士やパイロットが同じ時刻にそろえて行動する必要があったから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Soldiers and pilots needed their watches to show exactly the same time, so they could act together.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "リューズを引いても、秒針は動き続けます。",
+   "points_ja": "pull out the がつながり、keeps moving の s が重なります。"
+  },
+  {
+   "sentence": 11,
+   "ja": "テンプは時計の速さを制御する部品なので、他のすべても止まります。",
+   "points_ja": "part that の t は飲み込まれ、speed of the が「スピーダヴザ」とつながります。"
+  },
+  {
+   "sentence": 16,
+   "ja": "今日では、ほとんどの現代の機械式時計に付いています。",
+   "points_ja": "most modern の t は聞こえず、include it が「インクルーディット」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "リューズの交換方法",
+    "時刻合わせの歴史全体",
+    "ハック機能の仕組みと、その歴史的な重要性",
+    "軍用時計の値段"
+   ],
+   "answer": 2,
+   "explanation_ja": "仕組みと、兵士・パイロットにとっての重要性を説明しています。"
+  },
+  {
+   "q": "stop-seconds は何の別名？",
+   "options": [
+    "日付表示",
+    "ハック機能",
+    "クロノグラフ",
+    "パワーリザーブ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"With hack seconds, also known as stop-seconds\"。"
+  },
+  {
+   "q": "balance brake と呼ばれるものは？",
+   "options": [
+    "秒針の先",
+    "ベルトの留め具",
+    "リューズのネジ",
+    "テンプを止める小さなレバー"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"This little lever is sometimes called a balance brake.\""
+  },
+  {
+   "q": "冒頭の例で困っていることは？",
+   "options": [
+    "秒針が見えない",
+    "電話の電波がない",
+    "時計が止まってしまう",
+    "リューズを戻すころには数秒ずれている"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"By the time you push the crown back in, you are already a few seconds off.\""
+  },
+  {
+   "q": "ハック機能がない時計を持っている人へのアドバイスは？",
+   "options": [
+    "すぐに修理に出す",
+    "電池式に変える",
+    "使うのをやめる",
+    "辛抱強くなることを学ぶ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"If you own one, you simply learn to be patient.\""
+  }
+ ]
+}

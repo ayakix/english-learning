@@ -1,0 +1,201 @@
+{
+ "id": "rn014",
+ "author": "claude",
+ "category": "running",
+ "title": "Negative Split Strategy: Aerobic Efficiency",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "negative split",
+  "glycogen preservation",
+  "pacing strategy"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine two runners in a marathon. The first starts fast, feels great for the first half, then slows down a lot. The second starts a little slower, then runs the second half faster than the first. The second runner has run a negative split. Many coaches say this is the smartest way to race."
+  },
+  {
+   "speaker": "A",
+   "text": "A negative split means that the second half of a race is faster than the first. An even split, with both halves at the same pace, is also a good result. The opposite, a positive split, means slowing down in the second half. This is the most common pattern among recreational runners."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is starting slower better? One reason is glycogen preservation. When you run too fast early, you burn your limited carbohydrate stores quickly. By starting at a controlled pace, you save fuel for the end of the race."
+  },
+  {
+   "speaker": "A",
+   "text": "Another reason is aerobic efficiency. At a sustainable pace, your body produces energy mainly with oxygen, which is efficient. If you go too fast, more energy comes from systems that cause fatigue to build up faster."
+  },
+  {
+   "speaker": "A",
+   "text": "A good pacing strategy also helps mentally. Passing other runners in the last ten kilometers feels wonderful. Being passed feels terrible."
+  },
+  {
+   "speaker": "A",
+   "text": "In practice, a slight negative split is a good goal. Start a few seconds per kilometer slower than your target pace, and speed up gradually once you feel settled."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine two runners in a marathon.",
+   "start": 0.0,
+   "end": 2.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The first starts fast, feels great for the first half, then slows down a lot.",
+   "start": 2.91,
+   "end": 8.83,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The second starts a little slower, then runs the second half faster than the first.",
+   "start": 9.26,
+   "end": 14.62,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The second runner has run a negative split.",
+   "start": 15.05,
+   "end": 18.01,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many coaches say this is the smartest way to race.",
+   "start": 18.44,
+   "end": 21.8,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A negative split means that the second half of a race is faster than the first.",
+   "start": 22.32,
+   "end": 27.44,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "An even split, with both halves at the same pace, is also a good result.",
+   "start": 27.91,
+   "end": 32.91,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The opposite, a positive split, means slowing down in the second half.",
+   "start": 33.34,
+   "end": 38.06,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is the most common pattern among recreational runners.",
+   "start": 38.49,
+   "end": 41.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is starting slower better?",
+   "start": 42.45,
+   "end": 44.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One reason is glycogen preservation.",
+   "start": 45.6,
+   "end": 48.04,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When you run too fast early, you burn your limited carbohydrate stores quickly.",
+   "start": 48.67,
+   "end": 53.91,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "By starting at a controlled pace, you save fuel for the end of the race.",
+   "start": 54.54,
+   "end": 59.02,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Another reason is aerobic efficiency.",
+   "start": 59.54,
+   "end": 61.86,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "At a sustainable pace, your body produces energy mainly with oxygen, which is efficient.",
+   "start": 62.29,
+   "end": 68.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If you go too fast, more energy comes from systems that cause fatigue to build up faster.",
+   "start": 69.2,
+   "end": 74.88,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A good pacing strategy also helps mentally.",
+   "start": 75.4,
+   "end": 78.68,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Passing other runners in the last ten kilometers feels wonderful.",
+   "start": 79.19,
+   "end": 83.27,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Being passed feels terrible.",
+   "start": 83.78,
+   "end": 86.02,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "In practice, a slight negative split is a good goal.",
+   "start": 86.54,
+   "end": 90.18,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Start a few seconds per kilometer slower than your target pace, and speed up gradually once you feel settled.",
+   "start": 90.81,
+   "end": 97.29,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 230,
+ "duration": 97.2,
+ "wpm": 142,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:56"
+}

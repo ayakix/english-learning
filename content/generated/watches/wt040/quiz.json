@@ -1,0 +1,114 @@
+{
+ "id": "wt040",
+ "author": "claude",
+ "summary_ja": "グレイルウォッチは、値段や希少さで手が届きそうにない「夢の時計」。名前は伝説の聖杯から。何年も貯金して買う人もいれば、買わない人もいる。エグジットウォッチは、他を全部売っても残す最後の一本。好みは変わるもので、収集の旅で出会う物語や人や時計こそが一番楽しいと多くのコレクターは言う。",
+ "listening": [
+  {
+   "q": "grail watch とは？",
+   "options": [
+    "最初に買った時計",
+    "手が届きそうにない夢の時計",
+    "一番安い時計",
+    "壊れた時計"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It's the watch you dream about. The one that feels almost out of reach\"。"
+  },
+  {
+   "q": "exit watch とは？",
+   "options": [
+    "旅行用の時計",
+    "他を全部売っても残す一本で、収集の旅を終える時計",
+    "出口に飾る時計",
+    "壊れたら捨てる時計"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"An exit watch is the one watch you'd keep if you sold everything else.\""
+  },
+  {
+   "q": "B のグレイルはどう変わった？",
+   "options": [
+    "ずっと同じ",
+    "時計に興味がなくなった",
+    "有名なスポーツウォッチから、小さな独立系の作り手へ好みが変わった",
+    "安い時計が好きになった"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When I started, my grail was a famous sports watch. Later, I discovered small independent makers\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "その名前は古い伝説の聖杯から来ています。人々が一生をかけて探し求めるものです。",
+   "points_ja": "comes from the がつながり、search for all が「サーチフォーロール」と続きます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "ときには、時計を持つことより夢のほうが大切なこともあります。",
+   "points_ja": "dream is more がつながり、owning the の the は弱形です。"
+  },
+  {
+   "sentence": 19,
+   "ja": "人気のあるものではなく、自分が本当に好きなものが分かってきます。",
+   "points_ja": "learn what you が「ラーンワッチュ」、not just の t はほとんど聞こえません。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "コレクターにとって大切なのは、夢の時計に届くことより収集の旅そのもの",
+    "伝説の聖杯の話",
+    "時計の売り方",
+    "高い時計を買う方法"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the best part isn't reaching the grail. It's the stories, the people and the watches you meet along the way.\""
+  },
+  {
+   "q": "\"out of reach\" の意味は？",
+   "options": [
+    "人気がない",
+    "すぐ近くにある",
+    "壊れている",
+    "手が届かない"
+   ],
+   "answer": 3,
+   "explanation_ja": "値段や希少さで、簡単には手に入らないという意味です。"
+  },
+  {
+   "q": "グレイルを買わない人について B はどう言っている？",
+   "options": [
+    "失敗している",
+    "それでも構わない。夢のほうが大切なこともある",
+    "時計が嫌いになる",
+    "後で必ず後悔する"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Others never do, and that's okay too. Sometimes the dream is more important\"。"
+  },
+  {
+   "q": "\"collecting journey\" という表現が意味するのは？",
+   "options": [
+    "時計を運ぶこと",
+    "時計店を回る旅",
+    "時計を集めていく過程・経験",
+    "時計を持って旅行すること"
+   ],
+   "answer": 2,
+   "explanation_ja": "収集を旅にたとえ、その過程を表しています。"
+  },
+  {
+   "q": "好みが変わることについて話の内容に合うのは？",
+   "options": [
+    "珍しいことである",
+    "悪いことである",
+    "お金の無駄である",
+    "本当に好きなものを学んでいく過程である"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"You learn what you really like, not just what's popular.\""
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "pa007",
+ "author": "claude",
+ "summary_ja": "子どもの好き嫌いは2〜6歳でとてもよくある。理由の一つは新しい食べ物を怖がる「食物新奇性恐怖」で、昔は危険な植物を口にしないよう守ってくれたと考えられる。子どもは苦味に敏感で、野菜は苦く感じやすい。味は何度も触れること（10〜15回）で変わる。新しいものを少量、慣れたものと一緒に出し、親もおいしそうに食べ、買い物や料理に参加させ、無理強いやご褒美は避ける。",
+ "listening": [
+  {
+   "q": "好き嫌いが特によく見られる年齢は？",
+   "options": [
+    "2〜6歳",
+    "大人",
+    "10〜15歳",
+    "0〜1歳"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Picky eating is very common, especially between the ages of two and six.\""
+  },
+  {
+   "q": "新しい食べ物を受け入れるまでに必要なことがあるのは？",
+   "options": [
+    "100回以上",
+    "試さないこと",
+    "10〜15回ほど試すこと",
+    "1回で十分"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"a child may need to try a new food many times, sometimes ten or fifteen times, before accepting it.\""
+  },
+  {
+   "q": "避けたほうがよいこととして話されているのは？",
+   "options": [
+    "料理を手伝わせること",
+    "無理に食べさせたり、ご褒美でつったりすること",
+    "少量出すこと",
+    "親が一緒に食べること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"avoid forcing or bribing, because pressure often makes children resist even more.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "なぜ起こるのかを理解すると、食事の時間のストレスが減ります。",
+   "points_ja": "why it happens がつながり、make mealtimes less が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "子どもの味覚も大人とは違います。",
+   "points_ja": "taste buds are also がつながり、different from adults' が続けて聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "自分も同じものを食べて、楽しんでいる様子を見せましょう。",
+   "points_ja": "Eat the same foods yourself が続き、enjoy them が「エンジョイゼム」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "好き嫌いの理由を理解し、根気よく関わると、多くの子は食べられるものが増える",
+    "無理に食べさせるべき",
+    "好き嫌いは病気",
+    "子どもは野菜を食べなくてよい"
+   ],
+   "answer": 0,
+   "explanation_ja": "好き嫌いの理由と、親ができることを説明しています。"
+  },
+  {
+   "q": "food neophobia の意味と、昔の役割は？",
+   "options": [
+    "新しい食べ物への恐れで、危険な植物を口にしないよう守っていた",
+    "食べすぎること",
+    "食べ物のアレルギー",
+    "甘いものが好きなこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"food neophobia, a fear of new foods ... A natural fear of unfamiliar food helped keep them safe.\""
+  },
+  {
+   "q": "子どもが野菜を嫌いやすい理由として書かれているのは？",
+   "options": [
+    "苦味に敏感だから",
+    "色が嫌いだから",
+    "においがないから",
+    "野菜が固いから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Many children are more sensitive to bitter flavors, which are common in vegetables like broccoli and spinach.\""
+  },
+  {
+   "q": "exposure の意味は？",
+   "options": [
+    "料理を写真に撮ること",
+    "何度も繰り返し経験すること",
+    "食べ物を捨てること",
+    "外で食べること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Exposure means experiencing something again and again.\""
+  },
+  {
+   "q": "最後の文 \"Patience is often the most important ingredient.\" の意味は？",
+   "options": [
+    "忍耐が最も大切",
+    "材料が大切",
+    "料理の腕が大切",
+    "時間をかけて料理すべき"
+   ],
+   "answer": 0,
+   "explanation_ja": "料理の「材料」にたとえて、忍耐の大切さを表しています。"
+  }
+ ]
+}

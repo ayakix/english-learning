@@ -1,0 +1,114 @@
+{
+ "id": "fi019",
+ "author": "claude",
+ "summary_ja": "老後に必要なお金を考える目安に「4%ルール」がある。退職1年目に資産の4%を引き出し、その後はインフレに合わせて増やす。米国市場の歴史では、この引き出し率で多くの場合30年以上もった。年200万円欲しいならその25倍の5,000万円。ただし主に過去の米国市場に基づき、将来のリターンは低いかもしれず、長生きで30年では足りないことも（特に日本）。3〜3.5%で計画する人や、下落年に支出を減らす人もいる。",
+ "listening": [
+  {
+   "q": "4%ルールの内容は？",
+   "options": [
+    "4%の利息の預金",
+    "4年で使い切る",
+    "毎年4%ずつ貯める",
+    "退職1年目に資産の4%を引き出し、その後はインフレに合わせて増やす"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"in your first year of retirement, you withdraw four percent of your savings. After that, you increase the amount each year to keep up with inflation.\""
+  },
+  {
+   "q": "年200万円欲しい場合に必要な資産は？",
+   "options": [
+    "1億円",
+    "800万円",
+    "5,000万円",
+    "2,000万円"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Twenty-five times that. Fifty million yen.\""
+  },
+  {
+   "q": "ルールの限界として話されていないものは？",
+   "options": [
+    "長生きで30年では足りないかもしれない",
+    "日本では法律で禁止されている",
+    "主に過去の米国市場に基づいている",
+    "将来のリターンが低いかもしれない"
+   ],
+   "answer": 1,
+   "explanation_ja": "法律については話されていません。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "難しい質問ですが、考え始めるのに役立つ人気の目安があります。",
+   "points_ja": "difficult question がつながり、rule of thumb が「ルーラヴサム」と聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "4%で割ることは、25を掛けることと同じです。",
+   "points_ja": "Dividing by four percent が続き、same as multiplying が続けて聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "柔軟に対応し、市場が下がった年には少し支出を減らす人もいます。",
+   "points_ja": "stay flexible がつながり、spending a bit less が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "4%ルールという老後資金の目安と、その限界",
+    "株の選び方",
+    "退職の年齢",
+    "年金の受け取り方"
+   ],
+   "answer": 0,
+   "explanation_ja": "ルールの内容、計算、限界、調整の方法を話しています。"
+  },
+  {
+   "q": "withdrawal rate の意味は？",
+   "options": [
+    "手数料の割合",
+    "税金の割合",
+    "資産から毎年引き出す割合",
+    "利息の割合"
+   ],
+   "answer": 2,
+   "explanation_ja": "4%ルールの「4%」を指す言葉として使われています。"
+  },
+  {
+   "q": "安全のために一部の人が使う割合は？",
+   "options": [
+    "3〜3.5%",
+    "6%",
+    "10%",
+    "1%"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"some people plan for three or three and a half percent to be safer.\""
+  },
+  {
+   "q": "日本で30年では足りないかもしれない理由は？",
+   "options": [
+    "物価が高いから",
+    "人々が長生きしているから",
+    "株がないから",
+    "年金がないから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"people are living longer, so thirty years might not be enough, especially in Japan.\""
+  },
+  {
+   "q": "他に考えるべきこととして挙げられていないものは？",
+   "options": [
+    "公的年金",
+    "医療費",
+    "パートで働くかどうか",
+    "宝くじに当たる確率"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Public pensions, health costs and whether you want to work part-time.\""
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "fi014",
+ "author": "claude",
+ "summary_ja": "外国の株や債券に投資すると為替リスクがある。1ドル150円で100万円を米国株に投資すると約6,600ドル。1年後に株価が同じでも1ドル130円になれば、円に戻すと約86万円で、株は下がっていないのに損をする。逆に円安なら円で見た価値は上がり、最近の円安は日本の投資家の外国資産のリターンを押し上げた。為替は予測できない。為替ヘッジでリスクを減らせるがコストがかかる。",
+ "listening": [
+  {
+   "q": "この話で例に出ている損の原因は？",
+   "options": [
+    "手数料",
+    "株価の下落",
+    "税金",
+    "円高（1ドル150円から130円）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The stocks have not changed at all ... But now one dollar is worth only one hundred thirty yen.\""
+  },
+  {
+   "q": "最近の円安が日本の投資家に与えた影響は？",
+   "options": [
+    "損をさせた",
+    "外国資産のリターンを押し上げた",
+    "投資を禁止した",
+    "影響はなかった"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"In recent years, the weak yen has boosted the returns of many Japanese investors holding foreign assets.\""
+  },
+  {
+   "q": "currency hedging の説明として話されているのは？",
+   "options": [
+    "金融契約で為替の動きから守る方法で、安定するがコストがかかる",
+    "外国の通貨を貯めること",
+    "手数料が無料になること",
+    "為替を予測すること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Hedging means using financial contracts to protect against currency movements. It makes returns more stable, but it has a cost.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "1ドルが150円のときに、100万円をアメリカの株に投資したと想像してください。",
+   "points_ja": "invest one million yen in が続き、dollar is worth が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "株は下がっていないのに、お金を失ったのです。",
+   "points_ja": "lost money がつながり、even though the stocks did not fall が続けて聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "それは金利、貿易、経済ニュースの影響を受けて毎日動きます。",
+   "points_ja": "moves every day が続き、trade and economic news の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "外国への投資には為替リスクがあり、円高・円安でリターンが変わる",
+    "外国株は危険なので買うべきでない",
+    "為替は予測できる",
+    "円高は投資家に得"
+   ],
+   "answer": 0,
+   "explanation_ja": "為替リスクの例、円安の影響、為替の動き、ヘッジ、長期の考え方を説明しています。"
+  },
+  {
+   "q": "exchange rate の意味は？",
+   "options": [
+    "ある通貨と別の通貨の交換の比率",
+    "株の値段",
+    "銀行の利率",
+    "手数料の割合"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The value of one currency compared with another is called the exchange rate.\""
+  },
+  {
+   "q": "為替に影響するものとして挙げられていないものは？",
+   "options": [
+    "貿易",
+    "金利",
+    "天気予報",
+    "経済ニュース"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"influenced by interest rates, trade and economic news.\""
+  },
+  {
+   "q": "円安になると外国の投資は円で見てどうなる？",
+   "options": [
+    "価値が下がる",
+    "価値が上がる",
+    "変わらない",
+    "なくなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"If the yen becomes weaker, your foreign investments become worth more in yen.\""
+  },
+  {
+   "q": "長期投資家への多くの専門家の考えは？",
+   "options": [
+    "現金だけにする",
+    "国内と外国の資産を混ぜて持つのは妥当",
+    "外国だけにする",
+    "国内だけにする"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"holding a mix of domestic and foreign assets is reasonable.\""
+  }
+ ]
+}

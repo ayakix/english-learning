@@ -1,0 +1,114 @@
+{
+ "id": "tc020",
+ "author": "claude",
+ "summary_ja": "どれだけテストしてもクラッシュは起きる。大事なのは早く見つけて直すこと。クラッシュ時には実行中の関数の一覧（スタックトレース）を含むクラッシュログが残るが、リリース版ではメモリアドレスで読めない。dSYM ファイルを使って関数名や行番号に戻すのがシンボリケーション。Xcode Organizer などで集約し、影響の大きいものから直す。レビューや問い合わせも含めたフィードバックループを速く回すことが大切。",
+ "listening": [
+  {
+   "q": "話し手がクラッシュについて言っていることは？",
+   "options": [
+    "気にしなくてよい",
+    "テストすれば起きない",
+    "ユーザーのせい",
+    "起きるかどうかではなく、どれだけ早く見つけて直せるかが問題"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The question is not whether crashes will happen, but how quickly you can find and fix them.\""
+  },
+  {
+   "q": "symbolication とは？",
+   "options": [
+    "アイコンを作ること",
+    "コードを暗号化すること",
+    "メモリアドレスを読める関数名や行番号に戻すこと",
+    "アプリを翻訳すること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Turning these addresses back into readable function names and line numbers is called symbolication.\""
+  },
+  {
+   "q": "クラッシュ報告ツールで開発者ができることは？",
+   "options": [
+    "最も多くのユーザーに影響するクラッシュから直せる",
+    "ユーザーに謝る",
+    "アプリを削除する",
+    "クラッシュを自動で直す"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Developers can see which crash affects the most users and fix that first.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "アプリがクラッシュすると、システムがクラッシュログを記録します。",
+   "points_ja": "app crashes がつながり、records a crash が「レコーズァクラッシュ」と聞こえます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "これを行うには、アプリのビルド時に作られる特別なファイル、いわゆる dSYM ファイルが必要です。",
+   "points_ja": "need special の d は飲み込まれ、app is built が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "このループが速く回るほど、アプリは良くなります。",
+   "points_ja": "The faster ... the better の比較の形。loop runs がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "テストは不要",
+    "レビューは無視してよい",
+    "クラッシュは起きないようにできる",
+    "クラッシュ報告とフィードバックループを速く回すことで、アプリが良くなる"
+   ],
+   "answer": 3,
+   "explanation_ja": "クラッシュログ、シンボリケーション、ツール、フィードバックループを説明しています。"
+  },
+  {
+   "q": "stack trace とは？",
+   "options": [
+    "ユーザーの一覧",
+    "売上の記録",
+    "クラッシュの瞬間に実行されていた関数の一覧",
+    "アプリのアイコン"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"including a list of functions that were running. This list is called a stack trace.\""
+  },
+  {
+   "q": "リリース版のクラッシュログが読みにくい理由は？",
+   "options": [
+    "英語で書かれているから",
+    "長すぎるから",
+    "関数名ではなく、人には意味のない長い数字（メモリアドレス）が表示されるから",
+    "暗号化されているから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Instead of function names, it often shows memory addresses, long numbers that mean nothing to humans.\""
+  },
+  {
+   "q": "feedback loop の説明として正しいものは？",
+   "options": [
+    "アプリの読み込み",
+    "広告の表示",
+    "リリース、情報収集、学習、改善のサイクル",
+    "音声の反響"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A feedback loop is a cycle: you release, collect information, learn and improve.\""
+  },
+  {
+   "q": "報告した問題がすぐ直されるとユーザーはどうする？",
+   "options": [
+    "忠誠心と良い評価で応えることが多い",
+    "文句を言う",
+    "何も気にしない",
+    "アプリを削除する"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"they often reward that attention with loyalty and good ratings.\""
+  }
+ ]
+}

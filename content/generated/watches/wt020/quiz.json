@@ -1,0 +1,114 @@
+{
+ "id": "wt020",
+ "author": "claude",
+ "summary_ja": "ザクセン（グラスヒュッテ）の時計は、3/4プレートや無処理のジャーマンシルバー、ゴールドシャトンなど、落ち着いて真面目な印象で「質実な美しさ」がある。スイスの古典的な機械は曲線的な受けやジュネーブ・ストライプで軽やかで宝飾品に近い。どちらが上ではなく好みの問題。",
+ "listening": [
+  {
+   "q": "ザクセンの時計の印象として話されているのは？",
+   "options": [
+    "派手で華やか",
+    "落ち着いていて真面目",
+    "古くて壊れやすい",
+    "安くて軽い"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Watches from Saxony ... usually feel calm and serious.\""
+  },
+  {
+   "q": "スイスの古典的な機械の特徴は？",
+   "options": [
+    "曲線のある受けが多く、ジュネーブ・ストライプがあり、宝飾品のよう",
+    "大きな1枚のプレート",
+    "装飾がまったくない",
+    "プラスチック製"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"many separate bridges with elegant curves ... It feels a bit more like jewelry.\""
+  },
+  {
+   "q": "どちらが優れているかについて B の答えは？",
+   "options": [
+    "スイスが上",
+    "ザクセンが上",
+    "新しい時計が上",
+    "どちらでもなく好みの問題"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Neither, really. It's a question of taste.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 9,
+   "ja": "その美しさは、比率、品質、丁寧な仕上げから生まれます。",
+   "points_ja": "comes from が続き、quality and careful の and はほとんど「ン」です。"
+  },
+  {
+   "sentence": 17,
+   "ja": "ザクセンのデザインの力強く、しっかりした感じを好むコレクターもいます。",
+   "points_ja": "feeling of が「フィーリンガヴ」とつながります。"
+  },
+  {
+   "sentence": 21,
+   "ja": "多くの現代の作り手は、両方の伝統からアイデアを借りています。",
+   "points_ja": "borrow ideas がつながり、from both の from は弱く短くなります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ザクセンとスイスの時計の性格の違い",
+    "ドイツ旅行のおすすめ",
+    "時計の値段の比べ方",
+    "時計の修理方法"
+   ],
+   "answer": 0,
+   "explanation_ja": "2つの伝統の特徴と、好みの問題であることを話しています。"
+  },
+  {
+   "q": "austere の意味として会話で説明されているのは？",
+   "options": [
+    "高価で派手",
+    "明るくて楽しい",
+    "古くて壊れやすい",
+    "簡素で厳格、不要な装飾がない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Austere means plain and strict, without unnecessary decoration.\""
+  },
+  {
+   "q": "ザクセンの美しさが生まれる要素として挙げられていないものは？",
+   "options": [
+    "宝石の数",
+    "比率",
+    "丁寧な仕上げ",
+    "品質"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"proportion, quality and careful finishing\" で、宝石の数はありません。"
+  },
+  {
+   "q": "現代の作り手について話されていることは？",
+   "options": [
+    "両方の伝統からアイデアを借りることが多い",
+    "どちらかの伝統しか使わない",
+    "伝統を無視している",
+    "スイスだけを真似している"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Many modern makers borrow ideas from both traditions.\""
+  },
+  {
+   "q": "最後の文で、裏ぶたを開けて「広い金色のプレート」を見ると分かるのは？",
+   "options": [
+    "偽物だということ",
+    "古い時計だということ",
+    "ドイツ的な考え方の時計だということ",
+    "スイス製だということ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"you still know immediately that you're looking at a German way of thinking.\""
+  }
+ ]
+}

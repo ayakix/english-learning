@@ -1,0 +1,114 @@
+{
+ "id": "ns002",
+ "author": "claude",
+ "summary_ja": "海が満ちたり引いたりする潮は、主に月の引力が原因。月に面した側は引力が少し強く、水が月の方へ膨らんで満潮になる。反対側にも満潮があるのは、月が地球自体を反対側の水より強く引くので、その水が取り残されるから。地球が回るので多くの海岸は約24時間50分で2回の満潮と干潮がある。太陽の影響もあり、新月と満月に一直線になると大潮になる。",
+ "listening": [
+  {
+   "q": "潮の満ち引きの主な原因は？",
+   "options": [
+    "月の引力",
+    "風",
+    "川の水",
+    "地震"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The main cause is the moon.\""
+  },
+  {
+   "q": "月と反対側にも満潮がある理由は？",
+   "options": [
+    "海が深いから",
+    "太陽が引くから",
+    "風が吹くから",
+    "月が地球自体を反対側の水より強く引くので、その水が取り残されるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the moon pulls the Earth itself more strongly than the water on the far side.\""
+  },
+  {
+   "q": "大潮が起きるのはいつ？",
+   "options": [
+    "冬だけ",
+    "新月と満月で、太陽・月・地球が一直線になるとき",
+    "半月のとき",
+    "毎日正午"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When the sun, moon and Earth line up, at new moon and full moon ... These are called spring tides.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "ある時間には、水が砂の上の方まで来ます。",
+   "points_ja": "In some hours が続き、comes high up the sand が続けて聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "月の引力は、海を含む地球上のすべてのものを引っ張ります。",
+   "points_ja": "pulls on everything on Earth が一続きに聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "つまり、岸に届くすべての波は、空の月と静かにつながっているのです。",
+   "points_ja": "every wave that reaches the shore が続き、connected to the moon above が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "月の引力が地球の両側に膨らみを作り、潮の満ち引きが起こる",
+    "満潮は1日1回",
+    "太陽は潮に関係ない",
+    "潮は風によって起こる"
+   ],
+   "answer": 0,
+   "explanation_ja": "月の引力、2つの膨らみ、1日2回の潮、太陽の影響を説明しています。"
+  },
+  {
+   "q": "月に面した側で満潮になる理由は？",
+   "options": [
+    "その側は月の引力を少し強く受け、水が月の方へ膨らむから",
+    "風が強いから",
+    "海が浅いから",
+    "暖かいから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The side of the Earth facing the moon feels a slightly stronger pull, so the water there bulges toward the moon.\""
+  },
+  {
+   "q": "多くの海岸での満潮と干潮の回数は？",
+   "options": [
+    "1日1回ずつ",
+    "月に1回",
+    "約24時間50分で満潮2回、干潮2回",
+    "1週間に1回"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"many places have two high tides and two low tides roughly every twenty-four hours and fifty minutes.\""
+  },
+  {
+   "q": "太陽の潮への影響が月より小さい理由は？",
+   "options": [
+    "回っていないから",
+    "小さいから",
+    "熱いから",
+    "とても遠いから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The sun also affects tides, but less strongly, because it is so far away.\""
+  },
+  {
+   "q": "太陽と月が直角の方向に引くときは？",
+   "options": [
+    "潮がなくなる",
+    "津波になる",
+    "大潮になる",
+    "満潮と干潮の差が小さくなる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"When the sun and moon pull at right angles, the difference is smaller.\""
+  }
+ ]
+}

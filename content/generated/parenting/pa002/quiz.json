@@ -1,0 +1,114 @@
+{
+ "id": "pa002",
+ "author": "claude",
+ "summary_ja": "寝る時間は大変だが、毎晩同じ順番で落ち着いた活動をする「寝る前のルーティン」が役立つ（お風呂、パジャマ、歯みがき、絵本、今日の話、消灯など）。予測できると安心し、体と脳がゆっくり落ち着く。暗くなるとメラトニンが出るが、画面の明るい光は遅らせるので寝る1時間前に画面を消すとよい。ルーティンがある子は寝つきが早く夜中に起きにくい。20〜30分で十分。",
+ "listening": [
+  {
+   "q": "bedtime routine とは？",
+   "options": [
+    "毎晩同じ順番で行う落ち着いた活動",
+    "寝る前のゲーム",
+    "決まった時間に起きること",
+    "昼寝のこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A bedtime routine is a set of calm activities done in the same order every night.\""
+  },
+  {
+   "q": "専門家が勧める画面の使い方は？",
+   "options": [
+    "暗い部屋で見る",
+    "寝る直前まで見る",
+    "寝る約1時間前に画面を消す",
+    "朝だけ見る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"many experts suggest turning off screens about an hour before bedtime.\""
+  },
+  {
+   "q": "ルーティンの長さについて話し手は？",
+   "options": [
+    "5分以内",
+    "2時間必要",
+    "20〜30分で十分なことが多い",
+    "長いほどよい"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Twenty to thirty minutes is often enough.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "どんな活動をするかより、それを一貫して行うことのほうが大切です。",
+   "points_ja": "exact activities are がつながり、doing them consistently が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "次に何が来るか分かっていれば、言い争うことが減ります。",
+   "points_ja": "know what comes next がつながり、less to argue about が続けて聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "最も大切なのは、落ち着き、温かさ、そして繰り返しです。",
+   "points_ja": "What matters most が続き、warmth and repetition の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "絵本は寝る前に読まないほうがよい",
+    "子どもは遅く寝るほうがよい",
+    "毎晩同じ落ち着いたルーティンが、子どもの寝つきを良くする",
+    "メラトニンは薬である"
+   ],
+   "answer": 2,
+   "explanation_ja": "ルーティンの効果と、その理由、画面の注意を説明しています。"
+  },
+  {
+   "q": "ルーティンが効く理由として書かれているのは？",
+   "options": [
+    "疲れるから",
+    "部屋が暗いから",
+    "予測できると安心し、体と脳が落ち着く準備をするから",
+    "お腹がいっぱいになるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"predictability makes children feel safe ... the routine helps the body and brain wind down\"。"
+  },
+  {
+   "q": "wind down の意味は？",
+   "options": [
+    "ゆっくりリラックスして眠る準備をする",
+    "時計を巻く",
+    "急いで片付ける",
+    "風が吹く"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"wind down, meaning slowly relax and prepare for sleep.\""
+  },
+  {
+   "q": "melatonin の役割は？",
+   "options": [
+    "成長を止めるホルモン",
+    "体に寝る時間だと伝えるホルモン",
+    "目を覚ますホルモン",
+    "食欲のホルモン"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Melatonin tells the body it is time to sleep.\""
+  },
+  {
+   "q": "研究で、ルーティンがある子どもについて分かったことは？",
+   "options": [
+    "寝つきが早く、夜中に起きることが少ない",
+    "勉強が嫌いになる",
+    "早起きできない",
+    "身長が高くなる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"children with regular bedtime routines tend to fall asleep faster and wake up less during the night.\""
+  }
+ ]
+}

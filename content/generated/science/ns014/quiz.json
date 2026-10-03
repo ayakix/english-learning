@@ -1,0 +1,114 @@
+{
+ "id": "ns014",
+ "author": "claude",
+ "summary_ja": "なぜ夢を見るのかに一つの答えはまだない。物語のような鮮やかな夢はたいてい REM 睡眠（目が素早く動く睡眠）中に起き、夜の間に約90分ごとに訪れ、朝に近づくほど長くなる。主な説は、日中に学んだことを整理・保存する記憶の過程の副産物、感情の処理、脅威への対応の練習、睡眠中のランダムな脳活動から物語を作ろうとしたもの、など。複数の目的があるのかもしれない。",
+ "listening": [
+  {
+   "q": "鮮やかで物語のような夢を見るのは主にいつ？",
+   "options": [
+    "眠り始めの数分",
+    "昼寝のときだけ",
+    "目が覚めている間",
+    "REM 睡眠中"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"our most vivid, story-like dreams usually happen during REM sleep.\""
+  },
+  {
+   "q": "朝起きる直前の夢をよく覚えている理由は？",
+   "options": [
+    "夜は夢を見ないから",
+    "REM の時間が朝に向かって長くなるから",
+    "目覚まし時計のせい",
+    "朝は脳が元気だから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The REM periods get longer toward the morning. That's why we often remember dreams just before we wake up.\""
+  },
+  {
+   "q": "どの説が正しいかについての B の答えは？",
+   "options": [
+    "いくつかが正しいかもしれず、夢には複数の目的があるかもしれない",
+    "すでに解明された",
+    "どれも間違い",
+    "記憶の説だけが正しい"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Possibly several of them. Dreaming may have more than one purpose.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 7,
+   "ja": "夜の間に周期的に、約90分ごとです。",
+   "points_ja": "In cycles through the night が続き、about every ninety が続けて聞こえます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "睡眠中、脳は日中に学んだことを整理して保存しているようです。",
+   "points_ja": "sort and store what we learned が続けて聞こえます。"
+  },
+  {
+   "sentence": 24,
+   "ja": "それは神経科学で最も魅力的な未解決の問いの一つです。",
+   "points_ja": "one of the most fascinating が続き、open questions in neuroscience が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "夢占い",
+    "悪夢の止め方",
+    "夢を見る理由についての科学者のいくつかの考え",
+    "よく眠る方法"
+   ],
+   "answer": 2,
+   "explanation_ja": "REM 睡眠と、記憶・感情・脅威の練習・ランダムな活動という説を話しています。"
+  },
+  {
+   "q": "REM は何の略？",
+   "options": [
+    "rapid eye movement（素早い眼球運動）",
+    "real emotion memory",
+    "relaxed early morning",
+    "rest every minute"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"REM stands for rapid eye movement\"。"
+  },
+  {
+   "q": "夢が奇妙なことを説明する説は？",
+   "options": [
+    "食べ物のせい",
+    "テレビのせい",
+    "記憶の整理の副産物として、新しい記憶と古い記憶が混ざる",
+    "脳が疲れている"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Dreams might be a side effect of that process, mixing new and old memories.\""
+  },
+  {
+   "q": "emotional processing の説の内容は？",
+   "options": [
+    "夢は楽しいだけ",
+    "夢で感情がなくなる",
+    "夢が恐れや悲しみなどの強い感情を安全な環境で扱う助けになる",
+    "感情は夢に関係ない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Dreams may help us deal with strong feelings, like fear or sadness, in a safe environment.\""
+  },
+  {
+   "q": "悪夢についての一部の研究者の考えは？",
+   "options": [
+    "悪夢は病気",
+    "悪夢は意味がない",
+    "夢で脅威への対応を練習している",
+    "悪夢は子どもだけ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Some researchers think dreams let us practice responding to threats.\""
+  }
+ ]
+}

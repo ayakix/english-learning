@@ -1,0 +1,114 @@
+{
+ "id": "rn035",
+ "author": "claude",
+ "summary_ja": "ケイデンスは1分あたりの歩数。理想は180という説はオリンピックのエリート選手の観察から広まったが、速度や身長、脚の長さで変わり、全員に合う数字はない。足が体のずっと前に着地するオーバーストライドはブレーキになり膝や股関節に負担がかかる。ケイデンスを5〜10%上げると歩幅が短くなり足が体の下に近づく。上下動（垂直振動）が大きいとエネルギーが上に逃げる。変えるなら週単位で少しずつ。",
+ "listening": [
+  {
+   "q": "cadence とは？",
+   "options": [
+    "1分あたりの歩数",
+    "走る速さ",
+    "1歩の長さ",
+    "心拍数"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Cadence is the number of steps you take per minute while running.\""
+  },
+  {
+   "q": "「理想は180」という説への話し手の意見は？",
+   "options": [
+    "速度や身長などで変わるので、全員に合う数字はない",
+    "全員が180を目指すべき",
+    "200が理想",
+    "数字は関係ない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"So there is no single perfect number for everyone.\""
+  },
+  {
+   "q": "ケイデンスを変える方法として勧められているのは？",
+   "options": [
+    "レースで試す",
+    "メトロノームアプリを短時間使い、何週間もかけて体を慣らす",
+    "何もしない",
+    "1日で大きく変える"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Try running with a metronome app for short periods, and let your body adjust over weeks, not days.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "多くのスポーツウォッチが自動で測るようになったこともあり、人気の話題になっています。",
+   "points_ja": "has become a popular がつながり、measure it automatically が続けて聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "ケイデンスは速度とともに自然に上がり、身長や脚の長さにもよります。",
+   "points_ja": "increases with speed がつながり、height and leg length の and は「ン」です。"
+  },
+  {
+   "sentence": 15,
+   "ja": "効率のよいランナーの多くは、上下動が比較的小さいです。",
+   "points_ja": "efficient runners have がつながり、relatively low が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "スポーツウォッチは不要",
+    "歩幅は大きいほどよい",
+    "ケイデンスや上下動は役立つ指標だが、全員に合う理想の数字はなく、変化は少しずつ",
+    "180歩が全員の理想"
+   ],
+   "answer": 2,
+   "explanation_ja": "ケイデンス、オーバーストライド、上下動、変え方を説明しています。"
+  },
+  {
+   "q": "overstriding とは？",
+   "options": [
+    "歩幅が短すぎること",
+    "歩くこと",
+    "つま先で走ること",
+    "足が体のずっと前に着地する長い歩幅"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many recreational runners take long steps with their foot landing far in front of their body. This is called overstriding.\""
+  },
+  {
+   "q": "ケイデンスを5〜10%上げる効果は？",
+   "options": [
+    "速く疲れる",
+    "歩幅が短くなり、足が体の下に近づく",
+    "上下動が増える",
+    "体重が増える"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Increasing cadence by about five to ten percent often shortens the step and brings the foot closer under the body.\""
+  },
+  {
+   "q": "vertical oscillation が大きいとどうなる？",
+   "options": [
+    "速くなる",
+    "エネルギーが前ではなく上に使われる",
+    "けがをしない",
+    "呼吸が楽になる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A lot of bouncing means energy is going upward instead of forward.\""
+  },
+  {
+   "q": "ground reaction force とは？",
+   "options": [
+    "足が着地したときに地面が押し返す力",
+    "重力",
+    "空気抵抗",
+    "靴の重さ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the force the ground pushes back with when your foot lands.\""
+  }
+ ]
+}

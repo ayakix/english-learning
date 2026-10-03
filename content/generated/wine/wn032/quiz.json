@@ -1,0 +1,114 @@
+{
+ "id": "wn032",
+ "author": "claude",
+ "summary_ja": "フィニッシュ（余韻）は飲み込んだ後に口に残る風味。秒数を数える人もいて、フランス語では1秒を1コーダリーと呼ぶ。シンプルなワインは数秒、偉大なワインは15〜20秒以上続き、品質の印とされる。ただし長さだけでなく質も大切で、アルコールの熱さや苦味だけが残るのは良い余韻ではない。息を鼻からゆっくり吐いて数える練習がよい。",
+ "listening": [
+  {
+   "q": "caudalie とは？",
+   "options": [
+    "ワインの温度の単位",
+    "ワインの量の単位",
+    "ブドウの品種",
+    "余韻1秒を表す単位"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"One caudalie is one second of flavor.\""
+  },
+  {
+   "q": "偉大なワインの余韻の長さとして話されているのは？",
+   "options": [
+    "3秒",
+    "15秒、20秒、それ以上",
+    "1分ちょうど",
+    "1秒"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A great wine can last fifteen, twenty, or even longer.\""
+  },
+  {
+   "q": "余韻を練習する方法は？",
+   "options": [
+    "早く次の一口を飲む",
+    "グラスを回す",
+    "水を飲む",
+    "飲み込んだ後、鼻からゆっくり息を吐いて数える"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"After you swallow, breathe out slowly through your nose and count.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "フィニッシュとは、ワインを飲み込むか吐き出した後に口の中に残る風味です。",
+   "points_ja": "flavor that stays がつながり、swallow or spit の or は弱形です。"
+  },
+  {
+   "sentence": 10,
+   "ja": "この風味の持続は、一般に品質の印と見なされています。",
+   "points_ja": "persistence is がつながり、sign of quality が「サイナヴクオリティ」と聞こえます。"
+  },
+  {
+   "sentence": 21,
+   "ja": "これを2つのワインを並べて行うと、違いがとてもはっきりします。",
+   "points_ja": "Doing this with が続き、side by side が一続きに聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "フランス語の勉強",
+    "ワインの値段の決め方",
+    "余韻の長さと質の測り方",
+    "ワインの保存方法"
+   ],
+   "answer": 2,
+   "explanation_ja": "余韻の測り方、長さと質の両方の大切さを話しています。"
+  },
+  {
+   "q": "長い余韻が必ずしも良くない例は？",
+   "options": [
+    "20秒後にアルコールの熱さや苦味だけが残る",
+    "スパイスが残る",
+    "ゆっくり消える",
+    "果実の香りが残る"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If the only thing you feel after twenty seconds is the burning of alcohol or a bitter taste, that's not a good finish.\""
+  },
+  {
+   "q": "良い余韻の特徴は？",
+   "options": [
+    "ワインの個性を保ち、歌の終わりのようにゆっくり消える",
+    "急に消える",
+    "苦味が強い",
+    "まったく残らない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A great finish keeps the character of the wine ... and it fades slowly and gently, like the end of a song.\""
+  },
+  {
+   "q": "flavor persistence の意味は？",
+   "options": [
+    "風味の強さ",
+    "風味の持続",
+    "風味の種類",
+    "風味の変化"
+   ],
+   "answer": 1,
+   "explanation_ja": "余韻の長さを指す言葉として使われています。"
+  },
+  {
+   "q": "余韻の練習で勧められている比較のしかたは？",
+   "options": [
+    "同じワインを毎日飲む",
+    "1日に1杯だけ飲む",
+    "2つのワインを並べて試す",
+    "高いワインだけを飲む"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Doing this with two wines side by side makes the difference very clear.\""
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "id": "wt014",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Warmth of Untreated German Silver",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "German silver",
+  "Maillechort",
+  "natural oxidation"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  },
+  "B": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many high-end German watches use a metal called German silver for their plates. But I've heard there's actually no silver in it."
+  },
+  {
+   "speaker": "B",
+   "text": "That's true. It's an alloy of copper, nickel and zinc. The French call it maillechort. The name comes from its silvery color, not from what's inside."
+  },
+  {
+   "speaker": "A",
+   "text": "Why do watchmakers like it?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's stable and pleasant to work with, and it has a warm look. Most movements are coated with a thin plating to protect them. But some makers leave German silver untreated."
+  },
+  {
+   "speaker": "A",
+   "text": "Untreated? Doesn't it change over time?"
+  },
+  {
+   "speaker": "B",
+   "text": "It does, and that's the point. Through natural oxidation, the surface slowly becomes darker and more golden. After some years, the plate has a soft, honey-like color."
+  },
+  {
+   "speaker": "A",
+   "text": "So every watch ages a little differently."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. It depends on the air, the temperature and how often the watch is opened. Owners often enjoy watching that change, like a leather bag getting a nice patina."
+  },
+  {
+   "speaker": "A",
+   "text": "It sounds hard for the watchmaker, though."
+  },
+  {
+   "speaker": "B",
+   "text": "It is. Without plating, there's nothing to hide mistakes. Even a fingerprint can leave a mark that never disappears. So the plates are handled with gloves and finger cots from start to finish. That extra care is part of what makes these movements special."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many high-end German watches use a metal called German silver for their plates.",
+   "start": 0.0,
+   "end": 4.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But I've heard there's actually no silver in it.",
+   "start": 5.47,
+   "end": 8.03,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That's true.",
+   "start": 8.83,
+   "end": 9.75,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's an alloy of copper, nickel and zinc.",
+   "start": 10.3,
+   "end": 13.1,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The French call it maillechort.",
+   "start": 13.69,
+   "end": 15.53,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The name comes from its silvery color, not from what's inside.",
+   "start": 16.28,
+   "end": 20.12,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Why do watchmakers like it?",
+   "start": 20.84,
+   "end": 22.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It's stable and pleasant to work with, and it has a warm look.",
+   "start": 23.56,
+   "end": 27.72,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Most movements are coated with a thin plating to protect them.",
+   "start": 28.39,
+   "end": 31.83,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "But some makers leave German silver untreated.",
+   "start": 32.42,
+   "end": 35.46,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Untreated?",
+   "start": 36.18,
+   "end": 37.1,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Doesn't it change over time?",
+   "start": 37.65,
+   "end": 39.41,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It does, and that's the point.",
+   "start": 40.13,
+   "end": 42.33,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Through natural oxidation, the surface slowly becomes darker and more golden.",
+   "start": 42.96,
+   "end": 48.16,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "After some years, the plate has a soft, honey-like color.",
+   "start": 48.67,
+   "end": 52.27,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So every watch ages a little differently.",
+   "start": 52.99,
+   "end": 56.19,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 56.91,
+   "end": 57.83,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It depends on the air, the temperature and how often the watch is opened.",
+   "start": 58.38,
+   "end": 62.94,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Owners often enjoy watching that change, like a leather bag getting a nice patina.",
+   "start": 63.37,
+   "end": 68.65,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It sounds hard for the watchmaker, though.",
+   "start": 69.37,
+   "end": 71.85,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "It is.",
+   "start": 72.81,
+   "end": 73.45,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Without plating, there's nothing to hide mistakes.",
+   "start": 74.0,
+   "end": 77.16,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Even a fingerprint can leave a mark that never disappears.",
+   "start": 77.75,
+   "end": 81.15,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So the plates are handled with gloves and finger cots from start to finish.",
+   "start": 81.78,
+   "end": 86.1,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That extra care is part of what makes these movements special.",
+   "start": 86.69,
+   "end": 90.37,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 204,
+ "duration": 90.3,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 63,
+ "created": "2026-10-03 23:44"
+}

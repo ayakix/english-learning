@@ -1,0 +1,169 @@
+{
+ "id": "wt004",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Art of Hand Anglage",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "anglage",
+  "chamfering",
+  "inward angle"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you look closely at a fine watch movement, you may notice that the edges of the metal parts shine like tiny mirrors. This is not an accident. It is the result of a finishing technique called anglage."
+  },
+  {
+   "speaker": "A",
+   "text": "Anglage means cutting a small slope along the edge of a part. In English, this is also called chamfering, or beveling. Instead of a sharp ninety-degree corner, the edge gets a narrow flat surface, usually at about forty-five degrees. Then the craftsperson polishes that surface until it reflects the light."
+  },
+  {
+   "speaker": "A",
+   "text": "Machines can do simple anglage on straight edges. But the best work is done by hand, with files, wooden sticks and polishing pastes. It can take many hours to finish just one bridge."
+  },
+  {
+   "speaker": "A",
+   "text": "The hardest part is called an inward angle. This is a corner that points into the metal, like the inside of a letter V. A spinning machine tool simply cannot reach into such a sharp corner. Only a person with a hand tool can create it."
+  },
+  {
+   "speaker": "A",
+   "text": "That is why collectors love to count inward angles. When they see many of them, especially sharp and clean ones, they know that a skilled person has spent a long time on the movement. It is a small detail, but it tells you a lot about the watch."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you look closely at a fine watch movement, you may notice that the edges of the metal parts shine like tiny mirrors.",
+   "start": 0.0,
+   "end": 7.2,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This is not an accident.",
+   "start": 7.67,
+   "end": 9.47,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is the result of a finishing technique called anglage.",
+   "start": 9.86,
+   "end": 13.1,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Anglage means cutting a small slope along the edge of a part.",
+   "start": 13.62,
+   "end": 17.7,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In English, this is also called chamfering, or beveling.",
+   "start": 18.13,
+   "end": 21.97,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of a sharp ninety-degree corner, the edge gets a narrow flat surface, usually at about forty-five degrees.",
+   "start": 22.48,
+   "end": 29.44,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Then the craftsperson polishes that surface until it reflects the light.",
+   "start": 29.87,
+   "end": 33.79,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Machines can do simple anglage on straight edges.",
+   "start": 34.31,
+   "end": 37.23,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But the best work is done by hand, with files, wooden sticks and polishing pastes.",
+   "start": 37.78,
+   "end": 43.3,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It can take many hours to finish just one bridge.",
+   "start": 43.69,
+   "end": 46.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The hardest part is called an inward angle.",
+   "start": 47.45,
+   "end": 50.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is a corner that points into the metal, like the inside of a letter V.",
+   "start": 50.76,
+   "end": 54.76,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A spinning machine tool simply cannot reach into such a sharp corner.",
+   "start": 55.59,
+   "end": 59.27,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Only a person with a hand tool can create it.",
+   "start": 60.1,
+   "end": 62.58,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why collectors love to count inward angles.",
+   "start": 63.1,
+   "end": 66.18,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When they see many of them, especially sharp and clean ones, they know that a skilled person has spent a long time on the movement.",
+   "start": 66.73,
+   "end": 74.25,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a small detail, but it tells you a lot about the watch.",
+   "start": 74.64,
+   "end": 78.12,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 215,
+ "duration": 78.1,
+ "wpm": 165,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 64,
+ "created": "2026-10-03 23:43"
+}

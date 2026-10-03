@@ -1,0 +1,244 @@
+{
+ "id": "fi015",
+ "author": "claude",
+ "category": "finance",
+ "title": "Tax-Advantaged Accounts",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "tax-advantaged account",
+  "capital gains",
+  "tax-free"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many countries offer special investment accounts with tax benefits. Why do governments do that?"
+  },
+  {
+   "speaker": "B",
+   "text": "Mainly to encourage people to save and invest for the long term, especially for retirement. If people have more savings, they depend less on public support later."
+  },
+  {
+   "speaker": "A",
+   "text": "How do these accounts work?"
+  },
+  {
+   "speaker": "B",
+   "text": "It depends on the country, but the basic idea is similar. Normally, when you sell an investment for a profit, you pay tax on that gain. That's called capital gains tax. In Japan, it's about twenty percent."
+  },
+  {
+   "speaker": "A",
+   "text": "And in a tax-advantaged account?"
+  },
+  {
+   "speaker": "B",
+   "text": "The gains, and often dividends too, can be tax-free, or the tax is delayed until much later. Japan's NISA is one example, and other countries have their own versions."
+  },
+  {
+   "speaker": "A",
+   "text": "Does twenty percent really make a big difference?"
+  },
+  {
+   "speaker": "B",
+   "text": "Over a long time, a very big one. Without tax, all your gains stay invested and keep compounding. Over twenty or thirty years, the difference can be huge."
+  },
+  {
+   "speaker": "A",
+   "text": "Are there any downsides?"
+  },
+  {
+   "speaker": "B",
+   "text": "There are usually rules. There might be a yearly limit on how much you can put in, or restrictions on when you can take money out. In some accounts, losses can't be used to reduce other taxes."
+  },
+  {
+   "speaker": "A",
+   "text": "So what's your advice?"
+  },
+  {
+   "speaker": "B",
+   "text": "If you're investing for the long term, it usually makes sense to use these accounts first. But check the current rules carefully, because they can change."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many countries offer special investment accounts with tax benefits.",
+   "start": 0.0,
+   "end": 4.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why do governments do that?",
+   "start": 4.75,
+   "end": 6.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Mainly to encourage people to save and invest for the long term, especially for retirement.",
+   "start": 7.23,
+   "end": 12.83,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "If people have more savings, they depend less on public support later.",
+   "start": 13.5,
+   "end": 17.82,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How do these accounts work?",
+   "start": 18.62,
+   "end": 20.54,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It depends on the country, but the basic idea is similar.",
+   "start": 21.26,
+   "end": 25.18,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Normally, when you sell an investment for a profit, you pay tax on that gain.",
+   "start": 25.77,
+   "end": 30.73,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That's called capital gains tax.",
+   "start": 31.16,
+   "end": 33.72,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "In Japan, it's about twenty percent.",
+   "start": 34.11,
+   "end": 36.39,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And in a tax-advantaged account?",
+   "start": 37.11,
+   "end": 39.51,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The gains, and often dividends too, can be tax-free, or the tax is delayed until much later.",
+   "start": 40.23,
+   "end": 47.19,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Japan's NISA is one example, and other countries have their own versions.",
+   "start": 47.86,
+   "end": 52.34,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Does twenty percent really make a big difference?",
+   "start": 53.06,
+   "end": 56.18,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Over a long time, a very big one.",
+   "start": 56.9,
+   "end": 59.62,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Without tax, all your gains stay invested and keep compounding.",
+   "start": 60.45,
+   "end": 64.61,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Over twenty or thirty years, the difference can be huge.",
+   "start": 65.2,
+   "end": 68.88,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Are there any downsides?",
+   "start": 69.6,
+   "end": 71.52,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "There are usually rules.",
+   "start": 72.24,
+   "end": 74.08,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "There might be a yearly limit on how much you can put in, or restrictions on when you can take money out.",
+   "start": 74.67,
+   "end": 80.11,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "In some accounts, losses can't be used to reduce other taxes.",
+   "start": 81.1,
+   "end": 85.26,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So what's your advice?",
+   "start": 85.98,
+   "end": 88.06,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "If you're investing for the long term, it usually makes sense to use these accounts first.",
+   "start": 88.78,
+   "end": 93.66,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "But check the current rules carefully, because they can change.",
+   "start": 94.57,
+   "end": 98.17,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 224,
+ "duration": 98.1,
+ "wpm": 137,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-04 00:02"
+}

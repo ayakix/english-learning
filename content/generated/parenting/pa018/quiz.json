@@ -1,0 +1,114 @@
+{
+ "id": "pa018",
+ "author": "claude",
+ "summary_ja": "スポーツは体力、チームワーク、自信を育てるが、大人が勝ちにこだわりすぎると子どもは楽しめなくなる。やめる理由で多いのは「楽しくなくなった」。一つの競技に一年中打ち込むと燃え尽き（バーンアウト）や使いすぎのけがのリスク。活動そのものが楽しいという内発的動機づけを持つ子は長く続ける。小さいうちは複数の競技を試し、試合後は「楽しかった？」と聞き、「プレーを見るのが大好き」と伝える。",
+ "listening": [
+  {
+   "q": "子どもがスポーツをやめる理由で最も多いものとして話されているのは？",
+   "options": [
+    "楽しくなくなった",
+    "お金がかかる",
+    "時間がない",
+    "けがをした"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"One of the most common reasons they give is simple: it stopped being fun.\""
+  },
+  {
+   "q": "一つの競技に一年中打ち込む子どものリスクは？",
+   "options": [
+    "勉強ができない",
+    "友だちが増える",
+    "背が伸びない",
+    "燃え尽きや使いすぎのけが"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Young athletes who train intensely in one sport all year round may be at higher risk of burnout and overuse injuries.\""
+  },
+  {
+   "q": "試合の後に親が聞くとよい質問は？",
+   "options": [
+    "「なぜ負けたの？」",
+    "「何点取った？」",
+    "「楽しかった？」「何を学んだ？」",
+    "「勝った？」"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"parents can ask, Did you have fun? or What did you learn? rather than Did you win?\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "体力、チームワーク、自信を育てるのに役立ちます。",
+   "points_ja": "help build fitness が続き、teamwork and confidence の and は「ン」です。"
+  },
+  {
+   "sentence": 3,
+   "ja": "スポーツを始めた子どもの多くは、やがてやめてしまいます。",
+   "points_ja": "start a sport がつながり、eventually quit が続けて聞こえます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "強い内発的動機づけを持つ子どもは、何年も続ける可能性が高いです。",
+   "points_ja": "intrinsic motivation are がつながり、keep playing for many years が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "スポーツは勝つことがすべて",
+    "子どものスポーツは勝ち負けより楽しさを大切にしたほうが長く続く",
+    "子どもにスポーツは不要",
+    "子どもは一つの競技に絞るべき"
+   ],
+   "answer": 1,
+   "explanation_ja": "楽しさ、燃え尽き、内発的動機づけ、親の関わり方を説明しています。"
+  },
+  {
+   "q": "burnout の意味は？",
+   "options": [
+    "勝利",
+    "長期間の過度なプレッシャーや練習による心身の疲れ果て",
+    "けが",
+    "火事"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Burnout means physical and emotional exhaustion after too much pressure or training over a long time.\""
+  },
+  {
+   "q": "intrinsic motivation の説明として正しいものは？",
+   "options": [
+    "お金のため",
+    "親に言われてやること",
+    "活動そのものが楽しい・意味があるという内側からの動機",
+    "トロフィーやほめ言葉などの外からのご褒美"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This is motivation that comes from inside, because the activity itself is enjoyable or meaningful.\""
+  },
+  {
+   "q": "extrinsic motivation の例として挙げられているのは？",
+   "options": [
+    "トロフィーやほめ言葉",
+    "楽しさ",
+    "好奇心",
+    "達成感"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"extrinsic motivation, which comes from outside rewards, like trophies or praise.\""
+  },
+  {
+   "q": "試合後に親が言うとよい一言は？",
+   "options": [
+    "「残念だったね」",
+    "「もっと練習しなさい」",
+    "「プレーを見るのが大好き」",
+    "「次は勝ってね」"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"I love watching you play.\""
+  }
+ ]
+}

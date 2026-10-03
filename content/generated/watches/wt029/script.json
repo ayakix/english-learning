@@ -1,0 +1,222 @@
+{
+ "id": "wt029",
+ "author": "claude",
+ "category": "watches",
+ "title": "Watch Winders: Convenience vs Wear",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "watch winder",
+  "turns per day",
+  "mechanical wear"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you own several automatic watches, someone will probably suggest buying a watch winder. Is it a good idea?"
+  },
+  {
+   "speaker": "B",
+   "text": "It depends on who you ask. A watch winder is a small box that slowly turns your watch, so the automatic rotor keeps the mainspring wound while you're not wearing it."
+  },
+  {
+   "speaker": "A",
+   "text": "What's the main benefit?"
+  },
+  {
+   "speaker": "B",
+   "text": "Convenience. When you pick up the watch, it's already running and shows the right time. For watches with a perpetual calendar or a moon phase, that's a big advantage, because setting them again can take a while."
+  },
+  {
+   "speaker": "A",
+   "text": "And the downside?"
+  },
+  {
+   "speaker": "B",
+   "text": "Mechanical wear. A watch that runs all the time is using its parts all the time. Over the years, the gears and the winding system wear a little faster, and you may need service sooner."
+  },
+  {
+   "speaker": "A",
+   "text": "Can you reduce that?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. Most winders let you choose the number of turns per day, often written as TPD. If you set it too high, the watch keeps winding when it's already full. Good winders also rest between turns."
+  },
+  {
+   "speaker": "A",
+   "text": "So what's your advice?"
+  },
+  {
+   "speaker": "B",
+   "text": "If your watch has a complicated calendar, a winder can save you time and frustration. For a simple watch, it's fine to let it stop and set it when you wear it. There's no single right answer."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you own several automatic watches, someone will probably suggest buying a watch winder.",
+   "start": 0.0,
+   "end": 5.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is it a good idea?",
+   "start": 6.59,
+   "end": 7.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It depends on who you ask.",
+   "start": 8.59,
+   "end": 10.39,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "A watch winder is a small box that slowly turns your watch, so the automatic rotor keeps the mainspring wound while you're not wearing it.",
+   "start": 11.02,
+   "end": 19.18,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What's the main benefit?",
+   "start": 19.9,
+   "end": 21.66,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Convenience.",
+   "start": 22.38,
+   "end": 23.18,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "When you pick up the watch, it's already running and shows the right time.",
+   "start": 24.09,
+   "end": 28.09,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "For watches with a perpetual calendar or a moon phase, that's a big advantage, because setting them again can take a while.",
+   "start": 28.92,
+   "end": 36.28,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And the downside?",
+   "start": 37.0,
+   "end": 38.28,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Mechanical wear.",
+   "start": 39.08,
+   "end": 40.12,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "A watch that runs all the time is using its parts all the time.",
+   "start": 41.11,
+   "end": 44.55,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Over the years, the gears and the winding system wear a little faster, and you may need service sooner.",
+   "start": 45.46,
+   "end": 51.78,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Can you reduce that?",
+   "start": 52.5,
+   "end": 54.1,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 54.82,
+   "end": 55.3,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Most winders let you choose the number of turns per day, often written as TPD.",
+   "start": 55.89,
+   "end": 61.65,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If you set it too high, the watch keeps winding when it's already full.",
+   "start": 62.32,
+   "end": 66.52,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Good winders also rest between turns.",
+   "start": 67.15,
+   "end": 69.95,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So what's your advice?",
+   "start": 70.67,
+   "end": 72.59,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "If your watch has a complicated calendar, a winder can save you time and frustration.",
+   "start": 73.31,
+   "end": 79.23,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "For a simple watch, it's fine to let it stop and set it when you wear it.",
+   "start": 79.62,
+   "end": 83.9,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "There's no single right answer.",
+   "start": 84.29,
+   "end": 86.41,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 210,
+ "duration": 86.3,
+ "wpm": 146,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 63,
+ "created": "2026-10-03 23:45"
+}

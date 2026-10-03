@@ -1,0 +1,187 @@
+{
+ "id": "pa002",
+ "author": "claude",
+ "category": "parenting",
+ "title": "The Science of Bedtime Routines",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "bedtime routine",
+  "melatonin",
+  "wind down"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Bedtime can be one of the hardest parts of the day with young children. Many parents find that a simple bedtime routine makes a big difference. A bedtime routine is a set of calm activities done in the same order every night."
+  },
+  {
+   "speaker": "A",
+   "text": "For example, a routine might be: bath, pajamas, brushing teeth, reading a book, a short talk about the day, and then lights out. The exact activities are less important than doing them consistently."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does this work? First, predictability makes children feel safe. When they know what comes next, there is less to argue about. Second, the routine helps the body and brain wind down, meaning slowly relax and prepare for sleep."
+  },
+  {
+   "speaker": "A",
+   "text": "Biology also plays a role. As evening comes and the lights get dimmer, the body produces a hormone called melatonin. Melatonin tells the body it is time to sleep. Bright light, especially from screens, can delay this process. That is why many experts suggest turning off screens about an hour before bedtime."
+  },
+  {
+   "speaker": "A",
+   "text": "Research has found that children with regular bedtime routines tend to fall asleep faster and wake up less during the night. Some studies even suggest benefits for language and behavior, perhaps because of the reading and talking that are often part of the routine."
+  },
+  {
+   "speaker": "A",
+   "text": "The routine does not need to be long. Twenty to thirty minutes is often enough. What matters most is calm, warmth and repetition."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Bedtime can be one of the hardest parts of the day with young children.",
+   "start": 0.0,
+   "end": 3.76,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many parents find that a simple bedtime routine makes a big difference.",
+   "start": 4.59,
+   "end": 8.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A bedtime routine is a set of calm activities done in the same order every night.",
+   "start": 9.58,
+   "end": 14.86,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, a routine might be: bath, pajamas, brushing teeth, reading a book, a short talk about the day, and then lights out.",
+   "start": 15.38,
+   "end": 24.82,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The exact activities are less important than doing them consistently.",
+   "start": 25.65,
+   "end": 29.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Why does this work?",
+   "start": 30.41,
+   "end": 31.45,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "First, predictability makes children feel safe.",
+   "start": 32.36,
+   "end": 36.04,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When they know what comes next, there is less to argue about.",
+   "start": 36.47,
+   "end": 39.91,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, the routine helps the body and brain wind down, meaning slowly relax and prepare for sleep.",
+   "start": 40.34,
+   "end": 47.7,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Biology also plays a role.",
+   "start": 48.22,
+   "end": 50.14,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "As evening comes and the lights get dimmer, the body produces a hormone called melatonin.",
+   "start": 50.89,
+   "end": 56.49,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Melatonin tells the body it is time to sleep.",
+   "start": 57.32,
+   "end": 60.12,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Bright light, especially from screens, can delay this process.",
+   "start": 60.95,
+   "end": 64.95,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why many experts suggest turning off screens about an hour before bedtime.",
+   "start": 65.78,
+   "end": 70.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Research has found that children with regular bedtime routines tend to fall asleep faster and wake up less during the night.",
+   "start": 71.42,
+   "end": 78.86,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some studies even suggest benefits for language and behavior, perhaps because of the reading and talking that are often part of the routine.",
+   "start": 79.33,
+   "end": 86.97,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The routine does not need to be long.",
+   "start": 87.49,
+   "end": 89.89,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Twenty to thirty minutes is often enough.",
+   "start": 90.36,
+   "end": 92.72,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "What matters most is calm, warmth and repetition.",
+   "start": 93.15,
+   "end": 97.23,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 233,
+ "duration": 97.2,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:57"
+}

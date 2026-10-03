@@ -1,0 +1,114 @@
+{
+ "id": "pa009",
+ "author": "claude",
+ "summary_ja": "かんしゃくは、子どもが強い感情を持つのに、それを落ち着かせる脳の部分（感情の調整）がまだゆっくり発達中だから起きる。わざとではなく、疲れや空腹、伝えられないもどかしさで圧倒されている。親はまず自分が落ち着き、安全を確保し、低くゆっくり話す。感情に名前をつけるのは役立つが、長い説明は届かない。欲しいものを与えるとかんしゃくが効くと学ぶので、優しく限度を守る。落ち着いたら抱きしめて話す。",
+ "listening": [
+  {
+   "q": "かんしゃくが起きる理由として話されているのは？",
+   "options": [
+    "強い感情を持つが、それを調整する力がまだ発達中だから",
+    "親を困らせたいから",
+    "病気だから",
+    "わがままだから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Young children feel very strong emotions, but they don't have the skills to manage them yet.\""
+  },
+  {
+   "q": "かんしゃくの最中に最も大切なことは？",
+   "options": [
+    "親自身が落ち着いていること",
+    "欲しいものを与えること",
+    "長く説明すること",
+    "大声で叱ること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The most important thing is staying calm yourself.\""
+  },
+  {
+   "q": "話し合うのに最適なときは？",
+   "options": [
+    "寝る直前",
+    "子どもが落ち着いた後",
+    "次の日",
+    "かんしゃくの最中"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That's the best time to talk. Once they calm down\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 8,
+   "ja": "疲れていたり、お腹が空いていたり、欲しいものを説明できずにいらだっていたりするのかもしれません。",
+   "points_ja": "might be tired の t は飲み込まれ、explain what they want が続けて聞こえます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "子どもが安全であることを確かめ、声を低くゆっくり保ちましょう。",
+   "points_ja": "Make sure the child is safe が続き、low and slow の and は「ン」です。"
+  },
+  {
+   "sentence": 20,
+   "ja": "そうしたくなりますが、かんしゃくは効くと教えてしまうことがあります。",
+   "points_ja": "It's tempting が続き、teach them that tantrums work が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "子どもの叱り方",
+    "おやつの選び方",
+    "スーパーでの買い物",
+    "かんしゃくの理由と、親の落ち着いた対応のしかた"
+   ],
+   "answer": 3,
+   "explanation_ja": "原因、最中の対応、限度、後の話し合いを話しています。"
+  },
+  {
+   "q": "emotional regulation の意味は？",
+   "options": [
+    "感情をコントロールし落ち着かせること",
+    "泣くこと",
+    "感情を表に出すこと",
+    "笑うこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"emotional regulation, controlling and calming our feelings\"。"
+  },
+  {
+   "q": "親が叫ぶとどうなりやすい？",
+   "options": [
+    "子どもの感情がさらに大きくなる",
+    "子どもが笑う",
+    "何も変わらない",
+    "子どもがすぐ落ち着く"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If the parent shouts, the child's emotions usually get even bigger.\""
+  },
+  {
+   "q": "感情に名前をつける例は？",
+   "options": [
+    "「もう帰るよ」",
+    "「泣くのをやめなさい」",
+    "「お菓子が買えないから、本当に怒っているんだね」",
+    "「恥ずかしい」"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"'You're really angry because we can't buy the candy.'\""
+  },
+  {
+   "q": "長期的に子どもが学ぶこととして話されているのは？",
+   "options": [
+    "我慢すること",
+    "親に従うこと",
+    "叫ぶ代わりに気持ちを言葉にすること",
+    "泣かないこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Over time, children learn to put feelings into words instead of screaming.\""
+  }
+ ]
+}

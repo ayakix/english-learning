@@ -1,0 +1,114 @@
+{
+ "id": "ns007",
+ "author": "claude",
+ "summary_ja": "春と夏の葉は緑の色素クロロフィルでいっぱいで、日光を受けて光合成で木の栄養を作る。秋に日が短く涼しくなると、毎年葉を落とす落葉樹は冬に備えてクロロフィルを作らなくなり、古いものは分解され、栄養は木に回収される。緑が消えると、夏の間からあった黄色やオレンジのカロテノイドが見える。赤や紫はアントシアニンで秋に作られる。晴れた日と涼しい夜で鮮やかな赤になる。",
+ "listening": [
+  {
+   "q": "夏の葉が緑色である理由は？",
+   "options": [
+    "緑の色素クロロフィルがたくさんあるから",
+    "黄色い色素がないから",
+    "日光が緑だから",
+    "雨が多いから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"leaves are full of a green pigment called chlorophyll ... There is so much chlorophyll that it hides other colors\"。"
+  },
+  {
+   "q": "秋に黄色やオレンジが見える理由は？",
+   "options": [
+    "夏の間からあったカロテノイドが、緑が消えて見えるようになるから",
+    "虫が色をつけるから",
+    "寒さで色が変わるから",
+    "秋に新しく作られるから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"As the green disappears, yellow and orange pigments called carotenoids become visible. These pigments were in the leaf all summer.\""
+  },
+  {
+   "q": "鮮やかな赤い葉になりやすい天気は？",
+   "options": [
+    "暖かく雨の多い秋",
+    "雪の日",
+    "曇りの日",
+    "晴れた日と涼しい夜"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"sunny days and cool nights can create spectacular red leaves.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "それは1年で最も美しい景色の一つです。",
+   "points_ja": "It is one of the most が一続きに聞こえ、sights of the year が「サイツァヴザイヤー」と聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "木は葉が落ちる前に、役に立つ栄養も葉から取り戻します。",
+   "points_ja": "takes back useful が続き、before they fall が続けて聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "天気は、色がどれだけ鮮やかになるかに影響します。",
+   "points_ja": "Weather affects how が続き、colors become がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "葉は秋に塗られる",
+    "秋の紅葉は、葉の色素の変化によって起こる",
+    "紅葉は寒さだけで起こる",
+    "常緑樹も紅葉する"
+   ],
+   "answer": 1,
+   "explanation_ja": "クロロフィル、カロテノイド、アントシアニンの変化を説明しています。"
+  },
+  {
+   "q": "chlorophyll の役割は？",
+   "options": [
+    "葉を赤くする",
+    "日光を受けて光合成で木の栄養を作る",
+    "木を冷やす",
+    "虫を追い払う"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"it captures sunlight to make food for the tree through photosynthesis.\""
+  },
+  {
+   "q": "deciduous trees とは？",
+   "options": [
+    "毎年葉を落とす木",
+    "高い木",
+    "一年中緑の木",
+    "果物の木"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Deciduous trees, trees that lose their leaves every year\"。"
+  },
+  {
+   "q": "carotenoids と同じ種類の色素は何の色？",
+   "options": [
+    "血の赤",
+    "草の緑",
+    "にんじんのオレンジ",
+    "空の青"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"They are the same type of pigment that makes carrots orange.\""
+  },
+  {
+   "q": "anthocyanins についての説明として正しいものは？",
+   "options": [
+    "緑色の色素",
+    "木の幹にある",
+    "夏からずっとある",
+    "多くの木で秋に作られ、回復中の葉を守っているかもしれない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"they come from pigments called anthocyanins, which are actually produced in autumn ... they may protect the leaf\"。"
+  }
+ ]
+}

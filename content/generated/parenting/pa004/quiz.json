@@ -1,0 +1,114 @@
+{
+ "id": "pa004",
+ "author": "claude",
+ "summary_ja": "家庭で2つの言語を使って子育てする人に聞く。「1人の親が1つの言語」の方法で、私は日本語、夫は英語で話す。混乱するという心配は研究では支持されず、子どもの脳は2言語を扱うのが得意。最初は語彙が2つに分かれて片方が遅く見えても、合わせれば順調。1文の中で混ぜるコードスイッチングは大人もする普通のこと。学校が始まると少数言語を保つのが難しく、本や番組、家族訪問で両方を生かす。",
+ "listening": [
+  {
+   "q": "この家庭で使っている方法は？",
+   "options": [
+    "日によって言語を変える",
+    "学校で英語だけ学ぶ",
+    "親が2言語を混ぜる",
+    "1人の親が1つの言語で話す"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"We use a method called one parent, one language.\""
+  },
+  {
+   "q": "子どもが混乱するという心配について B は？",
+   "options": [
+    "研究はそれを支持していない",
+    "3歳までは混乱する",
+    "必ず混乱する",
+    "分からない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That's a very common worry, but research doesn't support it.\""
+  },
+  {
+   "q": "一番大変なこととして話されているのは？",
+   "options": [
+    "夫婦で話すこと",
+    "本を探すこと",
+    "2つの言語を教えること",
+    "学校が始まると少数言語を保つこと"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Keeping the minority language strong. When kids start school, they often prefer the main language of the country.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "そうすれば、子どもは両方の言語に定期的に触れられます。",
+   "points_ja": "That way がつながり、input in both が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "子どもの脳は2つの言語を扱うのがとても得意です。",
+   "points_ja": "very good at handling が「ヴェリグッダットハンドリング」と聞こえます。"
+  },
+  {
+   "sentence": 23,
+   "ja": "愛情や遊びと結びついた言語は、ずっと保ちやすいです。",
+   "points_ja": "connected to love and play が続き、easier to keep の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "日本の学校制度",
+    "英語の文法の教え方",
+    "外国での暮らし",
+    "家庭でのバイリンガル子育ての方法と、よくある心配への答え"
+   ],
+   "answer": 3,
+   "explanation_ja": "方法、心配、コードスイッチング、難しさ、助言を話しています。"
+  },
+  {
+   "q": "バイリンガルの子どもの話し始めについて正しいものは？",
+   "options": [
+    "必ず早い",
+    "必ず遅れる",
+    "話せない",
+    "片方では少し遅く見えることがあるが、両方の語数を合わせれば順調なことが多い"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"if you count the words in both languages together, they're usually on track.\""
+  },
+  {
+   "q": "code-switching とは？",
+   "options": [
+    "1つの文の中で2つの言語を混ぜること",
+    "プログラミング",
+    "暗号を使うこと",
+    "言語を忘れること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It's called code-switching, and even adult bilinguals do it.\""
+  },
+  {
+   "q": "少数言語を保つためにしていることとして挙げられていないものは？",
+   "options": [
+    "本を読む",
+    "家族を訪ねる",
+    "番組を見る",
+    "塾に通わせる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"we read books, watch shows and visit family\"。"
+  },
+  {
+   "q": "B の最後の助言は？",
+   "options": [
+    "早く始めすぎない",
+    "1つの言語に絞る",
+    "一貫性、忍耐、そして楽しく",
+    "厳しく教える"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Be consistent, be patient and make it fun.\""
+  }
+ ]
+}

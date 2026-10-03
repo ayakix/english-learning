@@ -1,0 +1,114 @@
+{
+ "id": "pa008",
+ "author": "claude",
+ "summary_ja": "今の子どもは水泳、ピアノ、英語など予定が多い。大人が導く習い事も価値があるが、子どもが自分で選び導く「自由遊び」が失われつつあると専門家は心配する。自由遊びは創造力、問題解決力（崩れる砦の改良）、社会性（ルール作り、交渉、妥協）を育てる。木登りのような少しのリスクで自分の限界と自信を学ぶ。予定のない時間を残し、箱やブロックを用意し、すぐに口を出さない。",
+ "listening": [
+  {
+   "q": "free play とは？",
+   "options": [
+    "お金のかからない遊び",
+    "大人が教える習い事",
+    "子どもが自分で選び、自分で進める遊び",
+    "学校の体育"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Free play is play that children choose and direct themselves.\""
+  },
+  {
+   "q": "自由遊びで育つ力として話されていないものは？",
+   "options": [
+    "問題解決力",
+    "計算の速さ",
+    "創造力",
+    "社会性"
+   ],
+   "answer": 1,
+   "explanation_ja": "創造力、問題解決力、社会性、自信が挙げられています。"
+  },
+  {
+   "q": "親ができることとして話されているのは？",
+   "options": [
+    "毎日習い事を入れる",
+    "予定のない時間を残し、簡単な材料を用意し、すぐに口を出さない",
+    "遊び方を細かく教える",
+    "ゲームを買う"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Leave some time in the week with no plans. Provide simple materials ... And try not to step in too quickly.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "大人が導くこうした決まった活動にも価値があります。",
+   "points_ja": "structured activities がつながり、led by adults の d は飲み込まれます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "砦が何度も崩れると、子どもはもっと良い作り方を考えなければなりません。",
+   "points_ja": "keeps falling down がつながり、figure out a better が「フィギャラウタベター」と聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "言い争いすぎると遊びが止まるので、妥協することを学びます。",
+   "points_ja": "argue too much がつながり、learn to compromise の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "習い事は不要",
+    "子どもは一人で遊ぶべき",
+    "遊びは危険",
+    "大人が決めない自由遊びは、子どもの多くの力を育てる大切な時間"
+   ],
+   "answer": 3,
+   "explanation_ja": "自由遊びの価値と、親の支え方を説明しています。"
+  },
+  {
+   "q": "自由遊びの例として挙げられていないものは？",
+   "options": [
+    "先生と英語の練習",
+    "クッションで砦を作る",
+    "葉っぱのお金でレストランごっこ",
+    "公園で遊びを考える"
+   ],
+   "answer": 0,
+   "explanation_ja": "先生と練習するのは大人が導く活動です。"
+  },
+  {
+   "q": "大人がいない遊びで社会性が育つ理由は？",
+   "options": [
+    "大人が見ていないから",
+    "楽しいから",
+    "ルールを作り、分け合い、交渉し、争いを解決しなければならないから",
+    "自由だから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"they have to make rules, share, negotiate and solve conflicts.\""
+  },
+  {
+   "q": "少しのリスクのある遊びの効果は？",
+   "options": [
+    "自分の限界を知り、自信をつける",
+    "けがをするだけ",
+    "効果はない",
+    "怖がりになる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"this helps children learn their own limits and build confidence.\""
+  },
+  {
+   "q": "最後の文が伝えていることは？",
+   "options": [
+    "時には親が一歩下がり、子どもに任せるのが一番",
+    "親が遊びを主導すべき",
+    "子どもを一人にすべき",
+    "親も遊ぶべきではない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Sometimes, the best thing a parent can do is sit back and let the children lead.\""
+  }
+ ]
+}

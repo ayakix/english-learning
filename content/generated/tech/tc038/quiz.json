@@ -1,0 +1,114 @@
+{
+ "id": "tc038",
+ "author": "claude",
+ "summary_ja": "ハプティクス（振動フィードバック）はアプリを物理的で生き生きと感じさせる。スイッチを切り替えて小さなクリックを感じると、何かが起きたと安心できる。iOS では Core Haptics で振動パターンを設計でき、短く鋭い一回の「トランジェント」と、長く続く「コンティニュアス」があり、強さと鋭さも調整できる。意味のある場面だけに使い、動作に合った感触にし、実機で試すことが大切。",
+ "listening": [
+  {
+   "q": "良いハプティクスの効果として話されているのは？",
+   "options": [
+    "アプリが物理的で生き生きと感じられ、操作に自信が持てる",
+    "画面が明るくなる",
+    "音が大きくなる",
+    "電池が長持ちする"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Because good haptics make an app feel more physical and alive.\""
+  },
+  {
+   "q": "transient event とは？",
+   "options": [
+    "クリックのような短く鋭い振動",
+    "音",
+    "長く続く柔らかい振動",
+    "光"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A transient event is a short, sharp tap, like a click.\""
+  },
+  {
+   "q": "B の最も重要なルールは？",
+   "options": [
+    "振動は使わない",
+    "すべての操作で振動させる",
+    "最も強い振動を使う",
+    "意味のある場面でハプティクスを使う"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"But the most important rule is to use haptics with meaning.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "スイッチを切り替えて小さなクリックを感じると、何かが起きたという安心感が得られます。",
+   "points_ja": "toggle a switch がつながり、gives you confidence が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "それを使うと、正確なタイミングで振動のパターンを設計できます。",
+   "points_ja": "lets you design が続き、patterns of vibration が「パターンザヴヴァイブレーション」と聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "何でも振動すると、人はいらいらし、フィードバックは価値を失います。",
+   "points_ja": "everything vibrates がつながり、loses its value が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "スマホの振動モーターの作り方",
+    "音楽アプリの作り方",
+    "ハプティクスの価値と、Core Haptics での設計、上手な使い方",
+    "ゲームの遊び方"
+   ],
+   "answer": 2,
+   "explanation_ja": "触覚フィードバックの意味、パターンの種類、使い方のルールを話しています。"
+  },
+  {
+   "q": "tactile feedback の意味は？",
+   "options": [
+    "触覚を通して感じるフィードバック",
+    "音声の通知",
+    "メール",
+    "画面の表示"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That's tactile feedback, feedback you feel through touch.\""
+  },
+  {
+   "q": "Core Haptics で調整できるものとして挙げられているのは？",
+   "options": [
+    "大きさと重さ",
+    "色と形",
+    "音量と音程",
+    "強さ（intensity）と鋭さ（sharpness）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"You can also control intensity, how strong it feels, and sharpness, how crisp or soft it feels.\""
+  },
+  {
+   "q": "動作に合った振動の例として話されているのは？",
+   "options": [
+    "エラーにだけ振動",
+    "小さな選択には軽いタップ、成功やエラーにはより強いもの",
+    "すべて同じ強さ",
+    "成功にだけ振動"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A light tap for small selections, something stronger for success or errors.\""
+  },
+  {
+   "q": "実機で試すべき理由は？",
+   "options": [
+    "シミュレーターではハプティクスを感じられないから",
+    "実機のほうが速いから",
+    "シミュレーターは高いから",
+    "法律で決まっているから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"You can't feel haptics in the simulator.\""
+  }
+ ]
+}

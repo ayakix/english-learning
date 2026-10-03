@@ -1,0 +1,222 @@
+{
+ "id": "rn020",
+ "author": "claude",
+ "category": "running",
+ "title": "Post-Run Protein-Carbohydrate Window",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "glycogen resynthesis",
+  "muscle protein synthesis",
+  "insulin response"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "After a long run, you often hear that you have thirty minutes to eat, or you'll miss the window. Is that true?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's partly true, but it's not as strict as people used to think. The idea comes from glycogen resynthesis, rebuilding your carbohydrate stores. Your muscles are especially ready to store glycogen right after exercise."
+  },
+  {
+   "speaker": "A",
+   "text": "So eating carbs quickly matters."
+  },
+  {
+   "speaker": "B",
+   "text": "It matters most if you train again soon, like a second session the same day or a hard workout the next morning. If your next run is in two days, total daily food is more important than exact timing."
+  },
+  {
+   "speaker": "A",
+   "text": "What about protein?"
+  },
+  {
+   "speaker": "B",
+   "text": "Protein supports muscle protein synthesis, which means building and repairing muscle tissue. Many experts suggest about twenty to thirty grams after training. That could be a glass of milk with a sandwich, or yogurt with fruit."
+  },
+  {
+   "speaker": "A",
+   "text": "Why combine carbs and protein?"
+  },
+  {
+   "speaker": "B",
+   "text": "Carbohydrates create an insulin response. Insulin helps move sugar into the muscles and also supports repair. Together, they work well, and it's an easy habit."
+  },
+  {
+   "speaker": "A",
+   "text": "Do you need special recovery drinks?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not really. Normal food works fine. Chocolate milk is a classic choice because it has carbs, protein and fluid, and it tastes good. The best recovery meal is one you'll actually eat."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "After a long run, you often hear that you have thirty minutes to eat, or you'll miss the window.",
+   "start": 0.0,
+   "end": 5.76,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is that true?",
+   "start": 6.19,
+   "end": 7.07,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's partly true, but it's not as strict as people used to think.",
+   "start": 7.79,
+   "end": 12.11,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The idea comes from glycogen resynthesis, rebuilding your carbohydrate stores.",
+   "start": 12.54,
+   "end": 18.14,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Your muscles are especially ready to store glycogen right after exercise.",
+   "start": 18.57,
+   "end": 22.97,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So eating carbs quickly matters.",
+   "start": 23.69,
+   "end": 26.41,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It matters most if you train again soon, like a second session the same day or a hard workout the next morning.",
+   "start": 27.13,
+   "end": 34.41,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "If your next run is in two days, total daily food is more important than exact timing.",
+   "start": 34.84,
+   "end": 40.44,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What about protein?",
+   "start": 41.16,
+   "end": 42.6,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Protein supports muscle protein synthesis, which means building and repairing muscle tissue.",
+   "start": 43.32,
+   "end": 48.84,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Many experts suggest about twenty to thirty grams after training.",
+   "start": 49.75,
+   "end": 53.51,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That could be a glass of milk with a sandwich, or yogurt with fruit.",
+   "start": 54.34,
+   "end": 58.1,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Why combine carbs and protein?",
+   "start": 58.82,
+   "end": 61.22,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Carbohydrates create an insulin response.",
+   "start": 61.94,
+   "end": 64.9,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Insulin helps move sugar into the muscles and also supports repair.",
+   "start": 65.37,
+   "end": 69.73,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Together, they work well, and it's an easy habit.",
+   "start": 70.16,
+   "end": 73.68,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Do you need special recovery drinks?",
+   "start": 74.4,
+   "end": 76.72,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Not really.",
+   "start": 77.44,
+   "end": 78.32,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Normal food works fine.",
+   "start": 78.87,
+   "end": 80.63,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Chocolate milk is a classic choice because it has carbs, protein and fluid, and it tastes good.",
+   "start": 81.18,
+   "end": 87.02,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "The best recovery meal is one you'll actually eat.",
+   "start": 87.85,
+   "end": 91.21,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 207,
+ "duration": 91.1,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 12,
+ "created": "2026-10-03 23:59"
+}

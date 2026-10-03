@@ -1,0 +1,114 @@
+{
+ "id": "fi007",
+ "author": "claude",
+ "summary_ja": "リスク許容度は投資の上下にどれだけ耐えられるか（お金の面と気持ちの面）。100万円が1年で70万円になったら売るか、何もしないか、買い増すかを考えると分かる。年齢は投資期間（お金が必要になるまでの期間）に関係する。30歳の老後資金なら何十年も回復の時間があるが、2年後に家を買うなら大きな下落は大打撃。若い人は値動き（ボラティリティ）が大きいが成長が期待できる株を多くできる。続けられる計画が一番。",
+ "listening": [
+  {
+   "q": "risk tolerance とは？",
+   "options": [
+    "保険の種類",
+    "投資の値動きにお金と気持ちの面でどれだけ耐えられるか",
+    "銀行の安全性",
+    "どれだけもうけたいか"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It's how much ups and downs in your investments you can handle, both financially and emotionally.\""
+  },
+  {
+   "q": "自分のリスク許容度を知る方法として話されているのは？",
+   "options": [
+    "占いをする",
+    "友だちに聞く",
+    "悪い年を想像し、売るか、何もしないか、買い増すかを考える",
+    "株を全部買う"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"One way is to imagine a bad year ... Would you sell everything, do nothing, or buy more?\""
+  },
+  {
+   "q": "若い人がより低リスクの計画を選ぶことについて B は？",
+   "options": [
+    "選ぶべきでない",
+    "もったいない",
+    "違法",
+    "まったく問題ない。続けられる計画が一番"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Absolutely. The best plan is the one you can stick with.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "資産が20%下がっても落ち着いていられる人もいます。",
+   "points_ja": "watch their portfolio fall が続き、twenty percent and stay calm が続けて聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "30歳で老後のために貯めているなら、暴落から回復する時間が何十年もあります。",
+   "points_ja": "saving for retirement がつながり、recover from a crash が続けて聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "最善の計画とは、続けられる計画です。",
+   "points_ja": "best plan is the one が続き、stick with の k と w が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "リスク許容度と投資期間に合わせて、続けられる投資計画を選ぶ",
+    "すぐにもうける方法",
+    "投資は年齢と関係ない",
+    "若い人は必ず高リスクにすべき"
+   ],
+   "answer": 0,
+   "explanation_ja": "リスク許容度、投資期間、年齢、続けられる計画について話しています。"
+  },
+  {
+   "q": "time horizon の意味は？",
+   "options": [
+    "退職の年齢",
+    "投資を始めた日",
+    "株の取引時間",
+    "お金が必要になるまでの期間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That's how long until you need the money.\""
+  },
+  {
+   "q": "2年後に家を買うお金を投資している場合の問題は？",
+   "options": [
+    "大きな下落があると大打撃になる",
+    "手数料が高い",
+    "税金が高い",
+    "利息がつかない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If you need the money in two years for a house, a big drop could be a disaster.\""
+  },
+  {
+   "q": "volatility の意味は？",
+   "options": [
+    "値動きの大きさ",
+    "人気",
+    "手数料",
+    "安全性"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"volatility, meaning bigger price swings\"。"
+  },
+  {
+   "q": "攻めすぎた計画の問題として推測できることは？",
+   "options": [
+    "もうけすぎる",
+    "問題はない",
+    "暴落時に慌てて売ってしまうかもしれない",
+    "税金が安い"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"an aggressive one that you sell in a panic\" と、パニック売りの危険を指摘しています。"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wn007",
+ "author": "claude",
+ "summary_ja": "樽で熟成する理由は香りだけではない。木は完全には密閉されず、木目や板の継ぎ目からごく微量の酸素が入る（マイクロオキシジェネーション）。少しずつの酸素はタンニンと色素の結合を助け、色を安定させ、渋みをやわらかくする。オーク由来のエラジタンニンは酸化から守る働きもある。安価な代替として、タンクに微量の酸素を加える方法もある。",
+ "listening": [
+  {
+   "q": "樽を使う隠れた理由は？",
+   "options": [
+    "ワインがゆっくり呼吸できるから",
+    "軽くするため",
+    "冷やすため",
+    "色を消すため"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Barrels let the wine breathe, very slowly.\""
+  },
+  {
+   "q": "少量の酸素が赤ワインにもたらす効果は？",
+   "options": [
+    "泡が出る",
+    "色が安定し、タンニンがやわらかくなる",
+    "酢のような味になる",
+    "甘くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the color becomes more stable and the tannins often feel softer and smoother.\""
+  },
+  {
+   "q": "最近のワイナリーの代替方法は？",
+   "options": [
+    "瓶に穴をあける",
+    "ワインを凍らせる",
+    "ステンレスタンクのワインに微量の酸素を加える",
+    "樽を冷やす"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"some wineries also use modern equipment to add tiny amounts of oxygen to wine in steel tanks.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 6,
+   "ja": "木目を通して、また板と板の継ぎ目を通して、ごく少量の酸素がワインに入ります。",
+   "points_ja": "Through the の the は弱く、amounts of oxygen が「アマウンツァヴオキシジェン」とつながります。"
+  },
+  {
+   "sentence": 13,
+   "ja": "ワインの口当たりがより丸くなります。",
+   "points_ja": "texture of the が「テクスチャラヴザ」とつながります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "これらはワインに溶け込む木由来のタンニンです。",
+   "points_ja": "These are が「ジーザー」、dissolve into the が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "樽はワインを冷やすために使う",
+    "樽はごく微量の酸素を通し、ワインの色や口当たりを整える",
+    "ステンレスのほうが樽より優れている",
+    "酸素はワインに常に悪い"
+   ],
+   "answer": 1,
+   "explanation_ja": "マイクロオキシジェネーションの仕組みと効果を説明しています。"
+  },
+  {
+   "q": "micro-oxygenation の説明として正しいものは？",
+   "options": [
+    "空気とのゆっくりした接触",
+    "ワインを加熱すること",
+    "酸素を完全に遮断すること",
+    "ワインを泡立てること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"This slow contact with air is called micro-oxygenation.\""
+  },
+  {
+   "q": "酸素が多すぎるとどうなる？",
+   "options": [
+    "果実の風味が平らになり、最後には酢のような味になる",
+    "長持ちする",
+    "色が濃くなる",
+    "甘くなる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It turns fruit flavors flat and can eventually make the wine taste like vinegar.\""
+  },
+  {
+   "q": "ellagitannins の役割として書かれているのは？",
+   "options": [
+    "ワインを甘くする",
+    "泡を作る",
+    "酸素と反応し、過度な酸化から守る",
+    "アルコールを増やす"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"They can react with oxygen and help protect the wine from too much oxidation.\""
+  },
+  {
+   "q": "多くのワイン生産者が信じていることは？",
+   "options": [
+    "樽は安い",
+    "良い樽のゆっくりした呼吸に代わるものはない",
+    "タンクのほうが必ず良い",
+    "酸素は不要"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"many winemakers still believe nothing replaces the slow breathing of a good barrel.\""
+  }
+ ]
+}

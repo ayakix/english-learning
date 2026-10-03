@@ -1,0 +1,208 @@
+{
+ "id": "pa014",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Helping Children Name Their Feelings",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "emotions",
+  "label feelings",
+  "empathy"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine a child crying because their block tower fell down. A parent might say, It's okay, don't cry. But another approach is often more helpful: You're really frustrated. You worked hard on that tower."
+  },
+  {
+   "speaker": "A",
+   "text": "Helping children label feelings, or put them into words, is an important part of emotional development. Young children experience strong emotions, but they often don't know what to call them. Everything might simply feel bad."
+  },
+  {
+   "speaker": "A",
+   "text": "When an adult names the emotion, the child begins to understand it. Sad, angry, disappointed, scared, jealous. Each word gives the child a tool. Over time, a child who can say I'm angry may be less likely to hit or scream."
+  },
+  {
+   "speaker": "A",
+   "text": "There is also some interesting brain research. In studies with adults, simply putting a feeling into words seemed to reduce activity in a part of the brain linked to strong emotional reactions. Some experts describe this with the phrase name it to tame it."
+  },
+  {
+   "speaker": "A",
+   "text": "Naming feelings also builds empathy, the ability to understand how other people feel. A child who knows what sadness feels like can more easily notice it in a friend."
+  },
+  {
+   "speaker": "A",
+   "text": "Parents can practice in many ways. Talk about characters' feelings when reading books. Share your own emotions simply: I'm feeling tired today, so I'm going to rest for a minute. And accept all feelings, even when you set limits on behavior. Feelings are always okay. Some actions are not."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine a child crying because their block tower fell down.",
+   "start": 0.0,
+   "end": 3.92,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A parent might say, It's okay, don't cry.",
+   "start": 4.35,
+   "end": 7.71,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But another approach is often more helpful: You're really frustrated.",
+   "start": 8.1,
+   "end": 12.54,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You worked hard on that tower.",
+   "start": 12.97,
+   "end": 14.73,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Helping children label feelings, or put them into words, is an important part of emotional development.",
+   "start": 15.25,
+   "end": 21.57,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Young children experience strong emotions, but they often don't know what to call them.",
+   "start": 22.16,
+   "end": 26.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Everything might simply feel bad.",
+   "start": 27.55,
+   "end": 30.11,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When an adult names the emotion, the child begins to understand it.",
+   "start": 30.63,
+   "end": 34.63,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Sad, angry, disappointed, scared, jealous.",
+   "start": 35.46,
+   "end": 40.42,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Each word gives the child a tool.",
+   "start": 41.01,
+   "end": 43.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Over time, a child who can say I'm angry may be less likely to hit or scream.",
+   "start": 43.84,
+   "end": 49.44,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "There is also some interesting brain research.",
+   "start": 49.96,
+   "end": 52.68,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In studies with adults, simply putting a feeling into words seemed to reduce activity in a part of the brain linked to strong emotional reactions.",
+   "start": 53.27,
+   "end": 62.39,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some experts describe this with the phrase name it to tame it.",
+   "start": 62.86,
+   "end": 66.82,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Naming feelings also builds empathy, the ability to understand how other people feel.",
+   "start": 67.34,
+   "end": 73.5,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A child who knows what sadness feels like can more easily notice it in a friend.",
+   "start": 73.93,
+   "end": 78.81,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Parents can practice in many ways.",
+   "start": 79.33,
+   "end": 81.73,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Talk about characters' feelings when reading books.",
+   "start": 82.2,
+   "end": 85.12,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Share your own emotions simply: I'm feeling tired today, so I'm going to rest for a minute.",
+   "start": 85.55,
+   "end": 91.39,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "And accept all feelings, even when you set limits on behavior.",
+   "start": 91.82,
+   "end": 95.98,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Feelings are always okay.",
+   "start": 96.41,
+   "end": 98.49,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Some actions are not.",
+   "start": 98.92,
+   "end": 100.52,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 100.4,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-03 23:58"
+}

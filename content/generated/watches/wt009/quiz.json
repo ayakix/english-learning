@@ -1,0 +1,114 @@
+{
+ "id": "wt009",
+ "author": "claude",
+ "summary_ja": "多くの時計は緩急針でヒゲゼンマイの長さを変えて調整するが、フリースプラングでは緩急針がない。テンプの縁の小さなおもり（マスロット）を回して慣性を変え、歩度を調整する。等時性と衝撃への強さが利点で、調整には技術と道具がいる。",
+ "listening": [
+  {
+   "q": "フリースプラングてんぷの特徴は？",
+   "options": [
+    "電子制御である",
+    "ヒゲゼンマイがない",
+    "緩急針がなく、ヒゲゼンマイが自由に動く",
+    "テンプが2つある"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Here, there is no regulator arm at all. The hairspring swings completely free\"。"
+  },
+  {
+   "q": "フリースプラングでの調整方法は？",
+   "options": [
+    "ゼンマイを巻き直す",
+    "ヒゲゼンマイを切る",
+    "テンプの縁のおもりを回して慣性を変える",
+    "針を動かす"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"By turning them slightly outward or inward, the watchmaker changes the wheel's inertia\"。"
+  },
+  {
+   "q": "欠点として挙げられているのは？",
+   "options": [
+    "調整に技術と専用の道具が必要",
+    "見た目が悪い",
+    "精度が低い",
+    "すぐに壊れる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The downside is that adjustment needs more skill and special tools.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 9,
+   "ja": "ばねを変える代わりに、テンプそのものを変えます。",
+   "points_ja": "Instead of の of は「ア」と弱く、changing the の the も弱形です。"
+  },
+  {
+   "sentence": 15,
+   "ja": "つまり、振れ幅が大きくても小さくても、テンプが1回振れるのに同じ時間がかかるということです。",
+   "points_ja": "takes the same が続けて聞こえ、whether the swing の the も弱くなります。"
+  },
+  {
+   "sentence": 19,
+   "ja": "欠点は、調整にもっと技術と専用の道具が必要なことです。",
+   "points_ja": "skill and special が「スキルンスペシャル」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "緩急針は最新の技術である",
+    "フリースプラングは緩急針を使わず、テンプのおもりで調整する高度な方式である",
+    "時計は衝撃に弱い",
+    "ヒゲゼンマイは不要である"
+   ],
+   "answer": 1,
+   "explanation_ja": "通常の緩急針との違いと利点・欠点を説明しています。"
+  },
+  {
+   "q": "通常の緩急針で、ヒゲゼンマイを短くするとどうなる？",
+   "options": [
+    "時計が止まる",
+    "時計が速く進む",
+    "変化しない",
+    "時計が遅れる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A shorter spring makes the watch run faster.\""
+  },
+  {
+   "q": "masselottes とは？",
+   "options": [
+    "ネジの名前",
+    "テンプの縁にある調整用のおもり",
+    "ゼンマイの種類",
+    "文字盤の飾り"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"small adjustable weights, often called masselottes\"。"
+  },
+  {
+   "q": "isochronism の意味は？",
+   "options": [
+    "振動が大きいこと",
+    "時計が光ること",
+    "時刻合わせができること",
+    "振れ幅に関係なく、1回の振動にかかる時間が同じであること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the balance takes the same time for each swing, whether the swing is large or small.\""
+  },
+  {
+   "q": "衝撃に強い理由は？",
+   "options": [
+    "ずれてしまう緩急針そのものがないから",
+    "ばねが2本あるから",
+    "おもりが重いから",
+    "ケースが厚いから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A sharp knock cannot push a regulator arm out of place, because there isn't one.\""
+  }
+ ]
+}

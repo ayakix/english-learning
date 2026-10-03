@@ -1,0 +1,114 @@
+{
+ "id": "av005",
+ "author": "claude",
+ "summary_ja": "航空管制の無線は、ルールを知れば理解しやすい。音声通信は主に118〜137MHz の VHF 帯で行われ、電波はほぼ直進する。雑音や多国籍の話し手に対応するため「標準用語」を使う。roger は受信、wilco は従う、say again はもう一度。文字は ICAO フォネティック（Alpha, Bravo...）、数字は1つずつ読み、9 は niner と言う。",
+ "listening": [
+  {
+   "q": "航空無線の音声通信に主に使われる周波数帯は？",
+   "options": [
+    "携帯電話の電波",
+    "VHF（約118〜137MHz）",
+    "テレビの電波",
+    "AM ラジオ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"roughly between one hundred eighteen and one hundred thirty-seven megahertz. VHF means very high frequency.\""
+  },
+  {
+   "q": "wilco の意味は？",
+   "options": [
+    "さようなら",
+    "指示に従います",
+    "もう一度言ってください",
+    "受信しました"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"'Wilco' means I will comply.\""
+  },
+  {
+   "q": "話し手がこの言葉づかいを学ぶことを勧める理由は？",
+   "options": [
+    "無料だから",
+    "パイロットになれるから",
+    "簡単だから",
+    "速いが同じパターンが繰り返されるので、良い聞き取り練習になる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Learning this style is a great listening exercise. The speech is fast, but the patterns repeat again and again.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "しかし明確なルールがあり、それを知ればずっと理解しやすくなります。",
+   "points_ja": "follows clear がつながり、know them が「ノウゼム」と聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "これらは決まった意味を持つ固定の言葉や言い回しです。",
+   "points_ja": "These are が「ジーザー」、words and phrases の and は「ン」です。"
+  },
+  {
+   "sentence": 11,
+   "ja": "これにより、BとDのように似た音の文字の混同を避けます。",
+   "points_ja": "avoids confusion がつながり、like B and D が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "航空無線は決まったルールで話されており、それを知れば理解しやすい",
+    "パイロットは英語を使わない",
+    "航空無線は秘密で聞いてはいけない",
+    "無線は昼間しか使えない"
+   ],
+   "answer": 0,
+   "explanation_ja": "周波数帯、標準用語、フォネティックアルファベット、数字の読み方を説明しています。"
+  },
+  {
+   "q": "standard phraseology を使う理由は？",
+   "options": [
+    "パイロットが話すのが苦手だから",
+    "短く話すと料金が安いから",
+    "法律で英語が禁止されているから",
+    "無線は雑音が多く、話し手の国もさまざまだから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Because radio can be noisy, and speakers come from many countries, aviation uses standard phraseology.\""
+  },
+  {
+   "q": "\"say again\" の意味は？",
+   "options": [
+    "さようなら",
+    "もう一度言ってください",
+    "従います",
+    "了解しました"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"'Say again' means please repeat.\""
+  },
+  {
+   "q": "数字の読み方として正しいものは？",
+   "options": [
+    "1つずつ読み、9 は niner と言う",
+    "数字は使わない",
+    "日本語で読む",
+    "まとめて読む"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Numbers are spoken one by one. Some are even changed ... such as 'niner' for nine.\""
+  },
+  {
+   "q": "例の \"climb flight level three five zero\" の意味は？",
+   "options": [
+    "350マイル飛べ",
+    "35番滑走路を使え",
+    "約3万5千フィートまで上昇せよ",
+    "3時50分に着陸せよ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"tells one specific flight to climb to about thirty-five thousand feet.\""
+  }
+ ]
+}

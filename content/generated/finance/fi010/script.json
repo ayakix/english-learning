@@ -1,0 +1,194 @@
+{
+ "id": "fi010",
+ "author": "claude",
+ "category": "finance",
+ "title": "Why Small Fees Matter",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "fee",
+  "expense ratio",
+  "long term"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When choosing an investment fund, many people look first at past returns. But one of the most reliable predictors of future results is something much less exciting: the fee."
+  },
+  {
+   "speaker": "A",
+   "text": "Most funds charge an annual fee called the expense ratio. It is shown as a percentage of the money you invest. For example, an expense ratio of one percent means you pay one percent of your investment every year, whether the fund goes up or down."
+  },
+  {
+   "speaker": "A",
+   "text": "One percent sounds small. But over the long term, it can make a huge difference. Imagine two funds that both earn five percent a year before fees. One charges one percent, the other charges zero point one percent. After thirty years, an investment of one million yen in the cheaper fund could be worth roughly a million yen more than in the expensive fund."
+  },
+  {
+   "speaker": "A",
+   "text": "Why such a big gap? Because of compounding. The money you pay in fees is not only lost. It also stops growing for all the years that follow."
+  },
+  {
+   "speaker": "A",
+   "text": "Lower fees do not guarantee better returns. But investors cannot control what the market does. They can control what they pay. That is why many experts recommend low-cost index funds as a starting point."
+  },
+  {
+   "speaker": "A",
+   "text": "So before you invest, check the expense ratio, as well as any purchase fees and account fees. A few minutes of checking can save a large amount of money over your lifetime."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When choosing an investment fund, many people look first at past returns.",
+   "start": 0.0,
+   "end": 4.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But one of the most reliable predictors of future results is something much less exciting: the fee.",
+   "start": 5.31,
+   "end": 11.47,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Most funds charge an annual fee called the expense ratio.",
+   "start": 11.99,
+   "end": 16.23,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It is shown as a percentage of the money you invest.",
+   "start": 16.62,
+   "end": 19.78,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, an expense ratio of one percent means you pay one percent of your investment every year, whether the fund goes up or down.",
+   "start": 20.17,
+   "end": 28.77,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One percent sounds small.",
+   "start": 29.29,
+   "end": 30.97,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But over the long term, it can make a huge difference.",
+   "start": 31.88,
+   "end": 35.2,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Imagine two funds that both earn five percent a year before fees.",
+   "start": 35.91,
+   "end": 40.39,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One charges one percent, the other charges zero point one percent.",
+   "start": 40.82,
+   "end": 45.46,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "After thirty years, an investment of one million yen in the cheaper fund could be worth roughly a million yen more than in the expensive fund.",
+   "start": 46.01,
+   "end": 53.89,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why such a big gap?",
+   "start": 54.41,
+   "end": 55.97,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Because of compounding.",
+   "start": 56.6,
+   "end": 57.88,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The money you pay in fees is not only lost.",
+   "start": 58.71,
+   "end": 61.27,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It also stops growing for all the years that follow.",
+   "start": 62.02,
+   "end": 65.14,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Lower fees do not guarantee better returns.",
+   "start": 65.66,
+   "end": 68.74,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But investors cannot control what the market does.",
+   "start": 69.37,
+   "end": 72.33,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They can control what they pay.",
+   "start": 72.92,
+   "end": 75.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why many experts recommend low-cost index funds as a starting point.",
+   "start": 75.75,
+   "end": 80.15,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So before you invest, check the expense ratio, as well as any purchase fees and account fees.",
+   "start": 80.67,
+   "end": 87.15,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "A few minutes of checking can save a large amount of money over your lifetime.",
+   "start": 87.58,
+   "end": 91.5,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 233,
+ "duration": 91.4,
+ "wpm": 153,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-04 00:02"
+}

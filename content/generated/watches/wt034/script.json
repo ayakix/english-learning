@@ -1,0 +1,190 @@
+{
+ "id": "wt034",
+ "author": "claude",
+ "category": "watches",
+ "title": "Understanding New Old Stock",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "New Old Stock",
+  "unworn condition",
+  "box and papers"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In the world of vintage watches, you will often see the letters NOS. They stand for New Old Stock. It describes an old watch that has never been sold to a customer."
+  },
+  {
+   "speaker": "A",
+   "text": "How is that possible? Sometimes a watch shop closes, and its unsold stock is stored away for decades. Sometimes a distributor forgets a box of watches in a warehouse. Years later, these watches are found in perfect, unworn condition, sometimes still with their original stickers."
+  },
+  {
+   "speaker": "A",
+   "text": "For collectors, this is exciting. Most vintage watches have been worn for many years. They have scratches, polished cases, or replaced parts. A New Old Stock watch shows exactly how it looked when it left the factory. That is why it often sells for a much higher price."
+  },
+  {
+   "speaker": "A",
+   "text": "Even better is a watch with its original box and papers. Papers usually include the warranty card and documents from the time of sale. They help prove that the watch is genuine and confirm its history."
+  },
+  {
+   "speaker": "A",
+   "text": "However, there are two warnings. First, the term is sometimes used too freely by sellers, so you should check carefully. Second, unworn does not mean ready to wear. Even if a watch has never been used, its oils dry out and its gaskets get old. So a New Old Stock watch usually needs a service before you can enjoy it every day."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In the world of vintage watches, you will often see the letters NOS.",
+   "start": 0.0,
+   "end": 4.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They stand for New Old Stock.",
+   "start": 5.55,
+   "end": 7.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It describes an old watch that has never been sold to a customer.",
+   "start": 8.62,
+   "end": 12.38,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How is that possible?",
+   "start": 12.9,
+   "end": 14.1,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Sometimes a watch shop closes, and its unsold stock is stored away for decades.",
+   "start": 15.09,
+   "end": 21.33,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Sometimes a distributor forgets a box of watches in a warehouse.",
+   "start": 22.0,
+   "end": 25.76,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Years later, these watches are found in perfect, unworn condition, sometimes still with their original stickers.",
+   "start": 26.27,
+   "end": 33.39,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "For collectors, this is exciting.",
+   "start": 33.91,
+   "end": 36.43,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Most vintage watches have been worn for many years.",
+   "start": 37.06,
+   "end": 39.94,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They have scratches, polished cases, or replaced parts.",
+   "start": 40.69,
+   "end": 44.13,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A New Old Stock watch shows exactly how it looked when it left the factory.",
+   "start": 45.12,
+   "end": 49.44,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why it often sells for a much higher price.",
+   "start": 50.43,
+   "end": 53.55,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Even better is a watch with its original box and papers.",
+   "start": 54.07,
+   "end": 57.83,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Papers usually include the warranty card and documents from the time of sale.",
+   "start": 58.5,
+   "end": 63.3,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "They help prove that the watch is genuine and confirm its history.",
+   "start": 63.73,
+   "end": 67.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "However, there are two warnings.",
+   "start": 68.17,
+   "end": 70.37,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "First, the term is sometimes used too freely by sellers, so you should check carefully.",
+   "start": 71.0,
+   "end": 76.84,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, unworn does not mean ready to wear.",
+   "start": 77.39,
+   "end": 80.95,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Even if a watch has never been used, its oils dry out and its gaskets get old.",
+   "start": 81.62,
+   "end": 86.98,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So a New Old Stock watch usually needs a service before you can enjoy it every day.",
+   "start": 87.49,
+   "end": 92.61,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 223,
+ "duration": 92.5,
+ "wpm": 145,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-03 23:46"
+}

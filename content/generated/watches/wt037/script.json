@@ -1,0 +1,222 @@
+{
+ "id": "wt037",
+ "author": "claude",
+ "category": "watches",
+ "title": "In-House Calibers vs Ébauches",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "in-house caliber",
+  "ébauche",
+  "base movement"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Watch brands love to say their watches have an in-house caliber. Why is that such a big deal?"
+  },
+  {
+   "speaker": "B",
+   "text": "An in-house caliber means the company designed and makes its own movement. It's a sign of independence and technical skill, so it's good for marketing."
+  },
+  {
+   "speaker": "A",
+   "text": "And if a brand doesn't make its own movement?"
+  },
+  {
+   "speaker": "B",
+   "text": "Then it usually buys a base movement from a specialist supplier. In Switzerland, that's very common. Traditionally, these were called ébauches. It's a French word for an unfinished movement, a kind of starting point."
+  },
+  {
+   "speaker": "A",
+   "text": "So the brand finishes it?"
+  },
+  {
+   "speaker": "B",
+   "text": "Often, yes. They may decorate it, adjust it more precisely, or add a complication like a date or a chronograph on top."
+  },
+  {
+   "speaker": "A",
+   "text": "Is that worse than an in-house movement?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not necessarily. Many of these base movements have been made for decades. They're reliable, well tested and easy for watchmakers to service. Spare parts are easy to find."
+  },
+  {
+   "speaker": "A",
+   "text": "And in-house movements?"
+  },
+  {
+   "speaker": "B",
+   "text": "They can be more original and exciting. But sometimes they're expensive to repair, and only the brand can service them. So when you buy a watch, it's worth asking not only where the movement comes from, but how easy it will be to look after."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Watch brands love to say their watches have an in-house caliber.",
+   "start": 0.0,
+   "end": 4.24,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is that such a big deal?",
+   "start": 4.67,
+   "end": 6.43,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "An in-house caliber means the company designed and makes its own movement.",
+   "start": 7.15,
+   "end": 12.11,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a sign of independence and technical skill, so it's good for marketing.",
+   "start": 12.5,
+   "end": 17.34,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "And if a brand doesn't make its own movement?",
+   "start": 18.06,
+   "end": 20.78,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Then it usually buys a base movement from a specialist supplier.",
+   "start": 21.5,
+   "end": 25.66,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "In Switzerland, that's very common.",
+   "start": 26.09,
+   "end": 28.57,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Traditionally, these were called ébauches.",
+   "start": 29.04,
+   "end": 31.88,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a French word for an unfinished movement, a kind of starting point.",
+   "start": 32.31,
+   "end": 36.63,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So the brand finishes it?",
+   "start": 37.35,
+   "end": 39.27,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Often, yes.",
+   "start": 39.99,
+   "end": 41.43,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "They may decorate it, adjust it more precisely, or add a complication like a date or a chronograph on top.",
+   "start": 42.02,
+   "end": 48.9,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Is that worse than an in-house movement?",
+   "start": 49.62,
+   "end": 52.18,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Not necessarily.",
+   "start": 52.98,
+   "end": 54.18,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Many of these base movements have been made for decades.",
+   "start": 54.61,
+   "end": 58.17,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "They're reliable, well tested and easy for watchmakers to service.",
+   "start": 58.72,
+   "end": 63.2,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Spare parts are easy to find.",
+   "start": 63.79,
+   "end": 65.87,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And in-house movements?",
+   "start": 66.59,
+   "end": 68.43,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "They can be more original and exciting.",
+   "start": 69.15,
+   "end": 71.79,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But sometimes they're expensive to repair, and only the brand can service them.",
+   "start": 72.22,
+   "end": 77.34,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So when you buy a watch, it's worth asking not only where the movement comes from, but how easy it will be to look after.",
+   "start": 77.77,
+   "end": 85.05,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 196,
+ "duration": 85.0,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 59,
+ "created": "2026-10-03 23:46"
+}

@@ -1,0 +1,194 @@
+{
+ "id": "pa018",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Kids and Sports: Fun Before Winning",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "youth sports",
+  "burnout",
+  "intrinsic motivation"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Sports can be wonderful for children. They help build fitness, teamwork and confidence. But sometimes, adults focus so much on winning that children stop enjoying the sport."
+  },
+  {
+   "speaker": "A",
+   "text": "Many children who start a sport eventually quit. One of the most common reasons they give is simple: it stopped being fun. Pressure from parents and coaches, too much criticism and too much time spent sitting on the bench can all take the joy away."
+  },
+  {
+   "speaker": "A",
+   "text": "Another concern is burnout. Burnout means physical and emotional exhaustion after too much pressure or training over a long time. Young athletes who train intensely in one sport all year round may be at higher risk of burnout and overuse injuries."
+  },
+  {
+   "speaker": "A",
+   "text": "Experts often talk about intrinsic motivation. This is motivation that comes from inside, because the activity itself is enjoyable or meaningful. The opposite is extrinsic motivation, which comes from outside rewards, like trophies or praise. Children with strong intrinsic motivation are more likely to keep playing for many years."
+  },
+  {
+   "speaker": "A",
+   "text": "So how can parents help? Many experts suggest encouraging children to try several sports when they are young, instead of choosing one too early. After games, parents can ask, Did you have fun? or What did you learn? rather than Did you win?"
+  },
+  {
+   "speaker": "A",
+   "text": "Finally, a simple sentence can mean a lot after a game: I love watching you play. It reminds children that sport is about joy, effort and growth, not only results."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Sports can be wonderful for children.",
+   "start": 0.0,
+   "end": 2.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They help build fitness, teamwork and confidence.",
+   "start": 2.83,
+   "end": 5.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But sometimes, adults focus so much on winning that children stop enjoying the sport.",
+   "start": 6.38,
+   "end": 11.58,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many children who start a sport eventually quit.",
+   "start": 12.1,
+   "end": 15.14,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One of the most common reasons they give is simple: it stopped being fun.",
+   "start": 15.57,
+   "end": 19.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Pressure from parents and coaches, too much criticism and too much time spent sitting on the bench can all take the joy away.",
+   "start": 20.44,
+   "end": 27.12,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Another concern is burnout.",
+   "start": 27.64,
+   "end": 29.68,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Burnout means physical and emotional exhaustion after too much pressure or training over a long time.",
+   "start": 30.31,
+   "end": 36.63,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Young athletes who train intensely in one sport all year round may be at higher risk of burnout and overuse injuries.",
+   "start": 37.06,
+   "end": 44.02,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Experts often talk about intrinsic motivation.",
+   "start": 44.54,
+   "end": 47.5,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is motivation that comes from inside, because the activity itself is enjoyable or meaningful.",
+   "start": 48.09,
+   "end": 53.61,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The opposite is extrinsic motivation, which comes from outside rewards, like trophies or praise.",
+   "start": 54.44,
+   "end": 60.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Children with strong intrinsic motivation are more likely to keep playing for many years.",
+   "start": 61.03,
+   "end": 66.31,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So how can parents help?",
+   "start": 66.83,
+   "end": 68.35,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many experts suggest encouraging children to try several sports when they are young, instead of choosing one too early.",
+   "start": 69.18,
+   "end": 75.7,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "After games, parents can ask, Did you have fun?",
+   "start": 76.33,
+   "end": 79.29,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "or What did you learn?",
+   "start": 79.76,
+   "end": 81.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "rather than Did you win?",
+   "start": 81.75,
+   "end": 83.51,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Finally, a simple sentence can mean a lot after a game: I love watching you play.",
+   "start": 84.03,
+   "end": 89.47,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It reminds children that sport is about joy, effort and growth, not only results.",
+   "start": 90.3,
+   "end": 95.74,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 235,
+ "duration": 95.7,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 78,
+ "created": "2026-10-03 23:59"
+}

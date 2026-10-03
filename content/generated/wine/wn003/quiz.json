@@ -1,0 +1,114 @@
+{
+ "id": "wn003",
+ "author": "claude",
+ "summary_ja": "ボルドーの冷涼な年は、晩熟のカベルネ・ソーヴィニヨンが秋の雨の前に熟しきれないことが課題。糖度だけでなく、皮や種の「フェノールの成熟」が大切で、未熟だと渋く苦い「青いタンニン」やピーマンのような香りが出る。一方で酸が高く保たれ、新鮮でエレガントなワインになることも。暑い年は力強さ、涼しい年は新鮮さと精密さ。",
+ "listening": [
+  {
+   "q": "冷涼な年の一番の課題は？",
+   "options": [
+    "ブドウが大きすぎること",
+    "ブドウが十分に熟すこと",
+    "収穫が早すぎること",
+    "雨が降らないこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Well, the biggest challenge is ripeness.\""
+  },
+  {
+   "q": "green tannins の特徴は？",
+   "options": [
+    "ざらざらしてやや苦く、ピーマンのような香りがすることも",
+    "香りがまったくない",
+    "甘くてやわらかい",
+    "泡のような口当たり"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Green tannins feel rough and slightly bitter, and you might even smell something like green pepper.\""
+  },
+  {
+   "q": "会話の結論は？",
+   "options": [
+    "涼しい年は常に悪い",
+    "暑い年は飲めない",
+    "良い年・悪い年というより、スタイルの違い",
+    "ボルドーは毎年同じ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"So it's less about good years and bad years, and more about style.\" \"Exactly.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "カベルネ・ソーヴィニヨンは熟すのが遅いので、涼しい年には秋の雨が来る前に完全に熟すのに苦労することがあります。",
+   "points_ja": "ripens late がつながり、struggle to get の to は弱形です。"
+  },
+  {
+   "sentence": 11,
+   "ja": "タンニンは口の中を乾いたように感じさせるもので、濃い紅茶に少し似ています。",
+   "points_ja": "what make が「ワッメイク」、a bit like が続けて聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "暖かいヴィンテージは力強さを与えてくれます。",
+   "points_ja": "gives you が「ギヴズユ」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "冷涼な年のボルドーで起きることと、そのワインの魅力",
+    "ボルドーの観光",
+    "雨の降り方",
+    "白ワインの作り方"
+   ],
+   "answer": 0,
+   "explanation_ja": "熟度の課題、青いタンニン、酸の高さによる魅力を話しています。"
+  },
+  {
+   "q": "phenolic ripeness とは？",
+   "options": [
+    "糖度の高さ",
+    "ブドウの大きさ",
+    "アルコールの強さ",
+    "タンニンや色のもとになる皮と種の成熟"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That's the ripeness of the skins and seeds, where the tannins and color come from.\""
+  },
+  {
+   "q": "astringency の意味は？",
+   "options": [
+    "香り",
+    "甘さ",
+    "口の中が乾くような渋み",
+    "酸っぱさ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"That drying feeling is called astringency.\""
+  },
+  {
+   "q": "涼しい年の良い点として話されているのは？",
+   "options": [
+    "アルコールが高くなる",
+    "酸が高く保たれ、新鮮でエレガントな味になる",
+    "甘くなる",
+    "色が濃くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"In a cool year, the acidity stays higher, so the wines can taste fresh and elegant.\""
+  },
+  {
+   "q": "\"ripe just means sweet\" という A の考えに対する B の答えは？",
+   "options": [
+    "答えていない",
+    "まったく違う",
+    "完全に正しい",
+    "それは半分だけ正しい"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That's only half the story.\""
+  }
+ ]
+}

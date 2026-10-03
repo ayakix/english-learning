@@ -1,0 +1,265 @@
+{
+ "id": "rn012",
+ "author": "claude",
+ "category": "running",
+ "title": "Heart Rate Zones: Polarized Training (80/20)",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "polarized training",
+  "zone 2 running",
+  "aerobic base building"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many runners believe that to get faster, they have to run hard every day. But you recommend the opposite, right?"
+  },
+  {
+   "speaker": "B",
+   "text": "Mostly, yes. Many top endurance athletes follow polarized training. It's often called the eighty twenty rule. About eighty percent of training is easy, and about twenty percent is hard."
+  },
+  {
+   "speaker": "A",
+   "text": "How easy is easy?"
+  },
+  {
+   "speaker": "B",
+   "text": "Very easy. Many people call it zone two running. You should be able to talk in full sentences. For many runners, that feels almost too slow at first."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is easy running so important?"
+  },
+  {
+   "speaker": "B",
+   "text": "It builds your aerobic system. Your heart becomes stronger, your muscles develop more small blood vessels, and they get better at using oxygen and fat. Coaches call this aerobic base building."
+  },
+  {
+   "speaker": "A",
+   "text": "And the twenty percent?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's for intervals, tempo runs and races. Because the easy days are truly easy, you can really push hard on those days."
+  },
+  {
+   "speaker": "A",
+   "text": "What's the most common mistake?"
+  },
+  {
+   "speaker": "B",
+   "text": "Running in the middle all the time. Not easy enough to recover, not hard enough to improve speed. Some coaches call it the gray zone. You feel tired, but you don't get much faster."
+  },
+  {
+   "speaker": "A",
+   "text": "So slowing down can make you faster."
+  },
+  {
+   "speaker": "B",
+   "text": "For most recreational runners, yes. It's one of the most surprising lessons in endurance training."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many runners believe that to get faster, they have to run hard every day.",
+   "start": 0.0,
+   "end": 5.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But you recommend the opposite, right?",
+   "start": 5.63,
+   "end": 8.03,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Mostly, yes.",
+   "start": 8.83,
+   "end": 10.03,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Many top endurance athletes follow polarized training.",
+   "start": 10.94,
+   "end": 14.46,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's often called the eighty twenty rule.",
+   "start": 15.05,
+   "end": 17.37,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "About eighty percent of training is easy, and about twenty percent is hard.",
+   "start": 18.2,
+   "end": 22.84,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How easy is easy?",
+   "start": 23.56,
+   "end": 25.8,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Very easy.",
+   "start": 26.52,
+   "end": 27.4,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Many people call it zone two running.",
+   "start": 28.23,
+   "end": 30.71,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "You should be able to talk in full sentences.",
+   "start": 31.3,
+   "end": 34.02,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "For many runners, that feels almost too slow at first.",
+   "start": 34.61,
+   "end": 38.29,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Why is easy running so important?",
+   "start": 39.01,
+   "end": 41.81,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It builds your aerobic system.",
+   "start": 42.53,
+   "end": 44.61,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Your heart becomes stronger, your muscles develop more small blood vessels, and they get better at using oxygen and fat.",
+   "start": 45.2,
+   "end": 52.6,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Coaches call this aerobic base building.",
+   "start": 53.23,
+   "end": 56.03,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And the twenty percent?",
+   "start": 56.83,
+   "end": 58.43,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "That's for intervals, tempo runs and races.",
+   "start": 59.15,
+   "end": 62.39,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Because the easy days are truly easy, you can really push hard on those days.",
+   "start": 63.02,
+   "end": 68.46,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "What's the most common mistake?",
+   "start": 69.18,
+   "end": 71.34,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Running in the middle all the time.",
+   "start": 72.06,
+   "end": 74.22,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Not easy enough to recover, not hard enough to improve speed.",
+   "start": 75.05,
+   "end": 79.21,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Some coaches call it the gray zone.",
+   "start": 79.88,
+   "end": 82.12,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "You feel tired, but you don't get much faster.",
+   "start": 82.87,
+   "end": 85.91,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So slowing down can make you faster.",
+   "start": 86.63,
+   "end": 89.75,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "For most recreational runners, yes.",
+   "start": 90.47,
+   "end": 93.19,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "It's one of the most surprising lessons in endurance training.",
+   "start": 93.78,
+   "end": 97.22,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 205,
+ "duration": 97.1,
+ "wpm": 127,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 65,
+ "created": "2026-10-03 23:55"
+}

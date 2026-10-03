@@ -1,0 +1,114 @@
+{
+ "id": "pa019",
+ "author": "claude",
+ "summary_ja": "3、4歳ごろの子どもは一日中「なんで？」と聞く。これは好奇心という強力な学びのエンジン。子どもは世界の仕組みを理解しようとしており、本当の説明を求めて、納得しないとまた聞く。親がすべての答えを知る必要はなく「分からない。一緒に調べよう」は素晴らしい答え。「どう思う？」などの開かれた質問を返すのもよい。大人が驚きを見せると好奇心が大切にされると学ぶ。休みが必要なら「夕食の後に話そう」でよい。",
+ "listening": [
+  {
+   "q": "子どもが「なんで？」と聞く理由として話されているのは？",
+   "options": [
+    "世界の仕組みを理解しようとしているから",
+    "親を困らせたいから",
+    "退屈だから",
+    "話し続けたいだけだから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Children ask why because they are trying to understand how the world works.\""
+  },
+  {
+   "q": "答えが分からないときの良い返し方は？",
+   "options": [
+    "「静かにして」",
+    "「大きくなったら分かる」",
+    "「分からない。一緒に調べよう」",
+    "適当に答える"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"saying I don't know. Let's find out together, is a wonderful response.\""
+  },
+  {
+   "q": "親が休みたいときの言い方として話されているのは？",
+   "options": [
+    "「いい質問だね。夕食の後に話そう」",
+    "「もう聞かないで」",
+    "無視する",
+    "「知らない」"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That's a great question. Let's talk about it after dinner.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 10,
+   "ja": "親がすべての答えを知っている必要はありません。",
+   "points_ja": "do not need to know が「ドゥナッニートゥノウ」と聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "自分自身の驚きの気持ちを共有することも役立ちます。",
+   "points_ja": "also helps to share がつながり、sense of wonder が「センサヴワンダー」と聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "大人が月や虫、機械の仕組みにわくわくする様子を見せると、子どもは好奇心が大切にされると学びます。",
+   "points_ja": "show excitement about the が続き、curiosity is valued がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "質問には必ず正しく答えるべき",
+    "質問は止めさせるべき",
+    "子どもの「なんで？」は好奇心の表れで、上手に関わると学びが育つ",
+    "好奇心は年齢とともに消える"
+   ],
+   "answer": 2,
+   "explanation_ja": "好奇心の意味と、親の関わり方を説明しています。"
+  },
+  {
+   "q": "研究で分かった子どもの質問の特徴は？",
+   "options": [
+    "本当の説明を求め、納得しないとまた聞く",
+    "大人に聞かない",
+    "答えには興味がない",
+    "同じ質問しかしない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"they are often looking for real explanations, and they ask again when the answer does not satisfy them.\""
+  },
+  {
+   "q": "open-ended question とは？",
+   "options": [
+    "テストの質問",
+    "答えのない質問",
+    "はい・いいえで答えられない質問",
+    "簡単な質問"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"That is a question without a simple yes or no answer.\""
+  },
+  {
+   "q": "「分からない」と言うことの良い点は？",
+   "options": [
+    "子どもが質問をやめる",
+    "知らないのは普通で、答えを探すのは楽しいと示せる",
+    "親の権威が下がる",
+    "時間が節約できる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It shows that not knowing is normal and that finding answers can be fun.\""
+  },
+  {
+   "q": "\"a powerful learning engine\" が指すものは？",
+   "options": [
+    "インターネット",
+    "学校",
+    "好奇心",
+    "エンジンのおもちゃ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"these questions are a sign of a powerful learning engine: curiosity.\""
+  }
+ ]
+}

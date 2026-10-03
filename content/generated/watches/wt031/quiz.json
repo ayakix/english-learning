@@ -1,0 +1,114 @@
+{
+ "id": "wt031",
+ "author": "claude",
+ "summary_ja": "ねじ込み式リューズは、ねじって締めることでパッキンに押し付け、水の侵入を防ぐ。ねじ山が細かいので、斜めに噛み合わせて締めるとねじ山がつぶれる（クロススレッド）。軽く押し当て、カチッと感じるまで逆に回してから順方向に回し、締めすぎないこと。",
+ "listening": [
+  {
+   "q": "ねじ込み式リューズの目的は？",
+   "options": [
+    "時刻を自動で合わせる",
+    "光らせる",
+    "時計を軽くする",
+    "パッキンに押し付けて水が入らないようにする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"This design presses the crown firmly against a gasket and helps keep water out.\""
+  },
+  {
+   "q": "最もよくある失敗は？",
+   "options": [
+    "リューズを外すこと",
+    "ねじ山が斜めに噛み合ったまま回してしまうこと",
+    "リューズを引きすぎること",
+    "毎日回すこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The most common mistake is cross-threading.\""
+  },
+  {
+   "q": "締めるときの正しいコツは？",
+   "options": [
+    "軽く押し当てて逆に回し、カチッとしたら順方向に軽く回す",
+    "回さずに押すだけ",
+    "引っ張りながら回す",
+    "強く速く回す"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"turn it slowly backward ... until you feel a tiny click ... Now turn it forward, clockwise, with light pressure.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "時刻を合わせ終えたら、ねじって元に戻します。",
+   "points_ja": "setting the の t は軽く「セリン」に近く、screw it back in がつながります。"
+  },
+  {
+   "sentence": 6,
+   "ja": "リューズとパイプのねじ山はとても細かいので、注意しないと傷つくことがあります。",
+   "points_ja": "threads on the がつながり、can be damaged if you are not が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "最もよくある失敗はクロススレッドです。",
+   "points_ja": "most common の t は聞こえず、mistake is がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "防水性はリューズと関係ない",
+    "リューズは強く締めるほどよい",
+    "ねじ込み式リューズは壊れやすいので使わない",
+    "ねじ込み式リューズは正しい手順で扱えば長く時計を守ってくれる"
+   ],
+   "answer": 3,
+   "explanation_ja": "仕組み、失敗の例、正しい締め方を説明しています。"
+  },
+  {
+   "q": "crown tube とは？",
+   "options": [
+    "ゼンマイの筒",
+    "ケースの横にある、リューズがねじ込まれる小さなパイプ",
+    "ベルトの穴",
+    "時計の箱"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"This pipe is called the crown tube.\""
+  },
+  {
+   "q": "クロススレッドを起こすとどうなる可能性がある？",
+   "options": [
+    "日付が変わらない",
+    "リューズが動かなくなったり、密閉できなくなったりする",
+    "時計が速く進む",
+    "文字盤が光る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the crown may become stuck or stop sealing properly.\""
+  },
+  {
+   "q": "逆に回したときの「カチッ」は何を意味する？",
+   "options": [
+    "ねじ山の位置がそろったこと",
+    "締め終わったこと",
+    "電池が入ったこと",
+    "壊れたこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That click means the threads are lined up.\""
+  },
+  {
+   "q": "\"The gasket does the sealing, not your strength.\" の意味は？",
+   "options": [
+    "パッキンは不要",
+    "強く締めるほど防水になる",
+    "力を入れて回すべき",
+    "密閉するのはパッキンで、力いっぱい締める必要はない"
+   ],
+   "answer": 3,
+   "explanation_ja": "締めすぎないように、という注意の理由です。"
+  }
+ ]
+}

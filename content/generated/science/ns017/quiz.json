@@ -1,0 +1,114 @@
+{
+ "id": "ns017",
+ "author": "claude",
+ "summary_ja": "オーロラは太陽から始まる。太陽は荷電粒子の流れ（太陽風）を出し、一部が地球に届くが、地球の磁場が守り、多くの粒子を北極と南極の周りに導く。粒子が上空約100km以上の気体に当たってエネルギーを与えると、気体が光を出す。酸素は緑（高い所では赤）、窒素は青や紫。日本では北海道でまれに見え、2024年の強い太陽嵐では各地で赤いオーロラが見えた。太陽活動は約11年周期。",
+ "listening": [
+  {
+   "q": "オーロラが極地の近くで見られる理由は？",
+   "options": [
+    "極地は空気がないから",
+    "極地は暗いから",
+    "地球の磁場が粒子を北極と南極の周りに導くから",
+    "極地は寒いから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It guides many of the particles toward the regions around the North and South Poles.\""
+  },
+  {
+   "q": "よく見られる緑色の光を出すのは？",
+   "options": [
+    "二酸化炭素",
+    "水素",
+    "窒素",
+    "酸素"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Oxygen usually creates the common green light.\""
+  },
+  {
+   "q": "2024年に日本で起きたことは？",
+   "options": [
+    "強い太陽嵐で、いくつかの場所で赤いオーロラが見えた",
+    "緑のオーロラが東京で見えた",
+    "オーロラが見えなくなった",
+    "オーロラが毎日見えた"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"In twenty twenty-four, people saw red auroras from several places in Japan.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "太陽は常に荷電粒子の流れを宇宙に送り出しています。",
+   "points_ja": "sends out a stream of が一続きに聞こえ、charged particles into space が続きます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "しかし、地球には私たちを守る磁場があります。",
+   "points_ja": "Earth has a magnetic がつながり、field that protects us が続けて聞こえます。"
+  },
+  {
+   "sentence": 24,
+   "ja": "ノルウェー、フィンランド、アイスランド、カナダなどでの、暗く晴れた冬の夜です。",
+   "points_ja": "Dark, clear winter nights が同じリズムで続き、Iceland or Canada の or は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "太陽の大きさ",
+    "冬の天気",
+    "オーロラができる仕組みと、色の違い、見られる場所",
+    "北欧旅行の計画"
+   ],
+   "answer": 2,
+   "explanation_ja": "太陽風、磁場、気体、色、見える場所と時期を話しています。"
+  },
+  {
+   "q": "solar wind とは？",
+   "options": [
+    "太陽の熱",
+    "太陽が絶えず宇宙に出している荷電粒子の流れ",
+    "宇宙の雲",
+    "地球の風"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The sun constantly sends out a stream of charged particles into space. This is called the solar wind.\""
+  },
+  {
+   "q": "気体が光を出す仕組みは？",
+   "options": [
+    "粒子が当たってエネルギーを得た気体が、それを光として出す",
+    "気体が燃える",
+    "雷が起きる",
+    "太陽の光を反射する"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"they give those gases energy. The gases then release that energy as light.\""
+  },
+  {
+   "q": "窒素が加える色は？",
+   "options": [
+    "黄",
+    "青や紫",
+    "赤",
+    "緑"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Nitrogen can add blue and purple.\""
+  },
+  {
+   "q": "太陽活動の周期は？",
+   "options": [
+    "約100年",
+    "約11年",
+    "約1か月",
+    "約1年"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Solar activity also follows a cycle of about eleven years.\""
+  }
+ ]
+}

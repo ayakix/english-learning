@@ -1,0 +1,114 @@
+{
+ "id": "pa010",
+ "author": "claude",
+ "summary_ja": "きょうだいげんかは家族の普通の一部（きょうだい間の対抗心）。親の注意や愛情の取り合い、性格の違い、疲れや退屈が原因。全員を全く同じに扱おうとしがちだが、年齢もニーズも違うので、それぞれに必要なものを与える「ニーズに基づく公平」がよい。一人ずつと過ごす短い時間（1対1の時間）で安心させる。比べるのは避ける。けんかは分け合い、交渉し、仲直りを学ぶ場でもある。",
+ "listening": [
+  {
+   "q": "きょうだいげんかの原因として話されていないものは？",
+   "options": [
+    "性格の違い",
+    "天気",
+    "疲れや退屈",
+    "親の注意や愛情の取り合い"
+   ],
+   "answer": 1,
+   "explanation_ja": "注意の取り合い、性格、自由や贈り物の差、疲れや退屈が挙げられています。"
+  },
+  {
+   "q": "話し手が勧める公平の考え方は？",
+   "options": [
+    "それぞれに必要なものを与える",
+    "年上を優先する",
+    "年下を優先する",
+    "全員に全く同じものを与える"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A more helpful idea is fairness based on needs.\""
+  },
+  {
+   "q": "避けるべきこととして話されているのは？",
+   "options": [
+    "けんかを見守ること",
+    "話を聞くこと",
+    "1対1の時間を作ること",
+    "きょうだいを比べること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Parents can also avoid comparing siblings\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "子どもたちは親の注意と愛情を取り合います。",
+   "points_ja": "compete for their が続き、attention and love の and は「ン」です。"
+  },
+  {
+   "sentence": 9,
+   "ja": "しかし、子どもたちは年齢が違い、必要なものも違います。",
+   "points_ja": "different ages and have が続けて聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "安心している子どもは、あまり張り合わないことが多いです。",
+   "points_ja": "feel secure often がつながり、compete less が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "きょうだいは別々に育てるべき",
+    "きょうだいげんかは普通のことで、ニーズに応じた関わりと1対1の時間が役立つ",
+    "けんかはすぐに止めるべき",
+    "全員を同じに扱うべき"
+   ],
+   "answer": 1,
+   "explanation_ja": "原因、公平の考え方、1対1の時間、比較の害、けんかの意味を説明しています。"
+  },
+  {
+   "q": "ニーズに基づく公平の例として挙げられているのは？",
+   "options": [
+    "年上だけにお小遣い",
+    "全員に同じ就寝時間",
+    "全員に同じおもちゃ",
+    "10代には宿題の手伝い、幼児には着替えの手伝い"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"a teenager may need help with homework, while a toddler needs help getting dressed.\""
+  },
+  {
+   "q": "one-on-one time の説明として正しいものは？",
+   "options": [
+    "1時間ずつ順番に遊ぶこと",
+    "他のきょうだいなしで、一人ずつと定期的に短く過ごす時間",
+    "一人で過ごす時間",
+    "家族全員で過ごす時間"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"This means spending a short, regular time with each child alone, without siblings.\""
+  },
+  {
+   "q": "比較の害として書かれているのは？",
+   "options": [
+    "すぐに忘れられる",
+    "長く続く恨みを生むことがある",
+    "効果はない",
+    "やる気が出る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Comparisons can create long-lasting resentment.\""
+  },
+  {
+   "q": "最後の段落で、きょうだいの関係は何にたとえられている？",
+   "options": [
+    "練習の場",
+    "戦場",
+    "遊園地",
+    "学校"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Finally, remember that sibling relationships are training grounds.\""
+  }
+ ]
+}

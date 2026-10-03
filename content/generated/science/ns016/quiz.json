@@ -1,0 +1,114 @@
+{
+ "id": "ns016",
+ "author": "claude",
+ "summary_ja": "サンゴ礁は植物ではなく小さな動物が作る。サンゴは数mmのポリプという生き物の集まりで、海水のカルシウムで石灰岩の骨格を作り、死ぬと上に新しいポリプが育ち、何千年もかけて巨大なサンゴ礁になる。体内には小さな藻がすみ、光合成で作った栄養をサンゴに分け、サンゴは住みかを与える。藻はサンゴの色の元でもある。水温が高い状態が続くとサンゴは藻を追い出して白くなる（白化）。",
+ "listening": [
+  {
+   "q": "サンゴ礁を作っているのは？",
+   "options": [
+    "小さな動物（ポリプ）",
+    "岩",
+    "魚",
+    "海藻"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"But they are not made of plants. They are built by tiny animals.\""
+  },
+  {
+   "q": "サンゴと藻の関係は？",
+   "options": [
+    "藻は光合成の栄養を分け、サンゴは安全な住みかを与える",
+    "関係はない",
+    "藻はサンゴを食べる",
+    "サンゴは藻を食べる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"they share much of this food with the coral. In return, the coral gives the algae a safe home.\""
+  },
+  {
+   "q": "coral bleaching が起きる原因は？",
+   "options": [
+    "魚が多すぎること",
+    "日光が少ないこと",
+    "水温が高すぎる状態が長く続くこと",
+    "水が冷たすぎること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When the water becomes too warm for too long, the coral becomes stressed and pushes out the algae.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "サンゴ礁は、魚やほかの生き物でいっぱいの、色とりどりの海中の森のように見えます。",
+   "points_ja": "look like colorful がつながり、full of fish and other life が続けて聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "それらが死ぬと、上に新しいポリプが育ちます。",
+   "points_ja": "When they die が続き、grow on top がつながります。"
+  },
+  {
+   "sentence": 18,
+   "ja": "水がすぐに冷えれば、藻は戻ってくることができます。",
+   "points_ja": "cools down quickly がつながり、algae can return が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "小さな動物と藻の共生がサンゴ礁を作り、その関係は水温に敏感",
+    "サンゴ礁は1年でできる",
+    "サンゴは植物",
+    "白化したサンゴはすぐに死ぬ"
+   ],
+   "answer": 0,
+   "explanation_ja": "ポリプ、骨格、共生、白化、保護の大切さを説明しています。"
+  },
+  {
+   "q": "polyp の説明として正しいものは？",
+   "options": [
+    "口の周りに触手がある、数mmのやわらかい生き物",
+    "海藻の一種",
+    "岩の名前",
+    "大きな魚"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Each polyp is soft, with a mouth surrounded by tentacles, and is often only a few millimeters wide.\""
+  },
+  {
+   "q": "サンゴ礁が大きくなる仕組みは？",
+   "options": [
+    "人が作る",
+    "海の底から岩が上がる",
+    "藻が石になる",
+    "死んだポリプの骨格の上に新しいポリプが育ち、何千年も積み重なる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"When they die, new polyps grow on top. Over thousands of years, these skeletons pile up\"。"
+  },
+  {
+   "q": "白化したサンゴについて正しいものは？",
+   "options": [
+    "すぐに死ぬわけではないが、熱が長く続くと飢えて死ぬことがある",
+    "すでに死んでいる",
+    "色を塗れば戻る",
+    "白いほうが健康"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Bleached coral is not immediately dead ... But if the heat lasts too long, the coral may starve and die.\""
+  },
+  {
+   "q": "最後の段落が伝えていることは？",
+   "options": [
+    "サンゴ礁は海の小さな部分だが多くの生命を支え、守ることは大きな課題",
+    "サンゴ礁は海の大部分",
+    "サンゴ礁は不要",
+    "サンゴ礁は増えている"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Coral reefs cover a small part of the ocean, but they support a large share of marine life.\""
+  }
+ ]
+}

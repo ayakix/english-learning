@@ -1,0 +1,173 @@
+{
+ "id": "tc037",
+ "author": "claude",
+ "category": "tech",
+ "title": "Localization and Multi-Language Launch",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "localization",
+  "String Catalog",
+  "internationalization"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Releasing your app in more languages is one of the easiest ways to reach new users. But to do it well, you need to understand two related ideas: internationalization and localization."
+  },
+  {
+   "speaker": "A",
+   "text": "Internationalization means preparing your app so that it can support different languages and regions. You do this in the code. For example, you should never write text directly inside your interface code. Instead, you use keys that point to translations. You should also use system tools to format dates, numbers and currencies, because every country writes them differently."
+  },
+  {
+   "speaker": "A",
+   "text": "Localization is the next step. It means actually adapting the app for a specific language and region. Translation is the biggest part, but localization can also include images, examples and even App Store screenshots."
+  },
+  {
+   "speaker": "A",
+   "text": "Apple has made this easier with String Catalogs, introduced in Xcode fifteen. A String Catalog collects all the text in your app in one place, shows which translations are missing and helps you manage plural forms."
+  },
+  {
+   "speaker": "A",
+   "text": "There are a few common traps. Some languages, such as German, are much longer than English, so buttons may run out of space. Others, like Arabic, are written from right to left, so layouts must flip. And machine translation can sound unnatural, so it is worth asking native speakers to check."
+  },
+  {
+   "speaker": "A",
+   "text": "Done well, localization tells users in every country: this app was made with you in mind."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Releasing your app in more languages is one of the easiest ways to reach new users.",
+   "start": 0.0,
+   "end": 5.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But to do it well, you need to understand two related ideas: internationalization and localization.",
+   "start": 5.63,
+   "end": 12.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Internationalization means preparing your app so that it can support different languages and regions.",
+   "start": 13.27,
+   "end": 19.23,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "You do this in the code.",
+   "start": 19.86,
+   "end": 21.3,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, you should never write text directly inside your interface code.",
+   "start": 22.21,
+   "end": 26.85,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead, you use keys that point to translations.",
+   "start": 27.68,
+   "end": 30.96,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "You should also use system tools to format dates, numbers and currencies, because every country writes them differently.",
+   "start": 31.87,
+   "end": 39.15,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Localization is the next step.",
+   "start": 39.67,
+   "end": 41.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It means actually adapting the app for a specific language and region.",
+   "start": 42.42,
+   "end": 46.7,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Translation is the biggest part, but localization can also include images, examples and even App Store screenshots.",
+   "start": 47.33,
+   "end": 55.25,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Apple has made this easier with String Catalogs, introduced in Xcode fifteen.",
+   "start": 55.77,
+   "end": 60.93,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A String Catalog collects all the text in your app in one place, shows which translations are missing and helps you manage plural forms.",
+   "start": 61.56,
+   "end": 70.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "There are a few common traps.",
+   "start": 70.72,
+   "end": 72.92,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some languages, such as German, are much longer than English, so buttons may run out of space.",
+   "start": 73.55,
+   "end": 79.83,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Others, like Arabic, are written from right to left, so layouts must flip.",
+   "start": 80.46,
+   "end": 85.7,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "And machine translation can sound unnatural, so it is worth asking native speakers to check.",
+   "start": 86.33,
+   "end": 92.41,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Done well, localization tells users in every country: this app was made with you in mind.",
+   "start": 92.93,
+   "end": 99.97,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 226,
+ "duration": 99.9,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-03 23:54"
+}

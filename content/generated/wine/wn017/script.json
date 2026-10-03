@@ -1,0 +1,215 @@
+{
+ "id": "wn017",
+ "author": "claude",
+ "category": "wine",
+ "title": "Viscosity and Wine Tears: Alcohol and Sugar",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "viscosity",
+  "legs or tears",
+  "Marangoni effect"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "After you swirl a glass of wine, look at the inside of the glass. You may see drops forming and slowly running down. People call these legs or tears. Many believe they show the quality of a wine. In fact, they mostly show something else."
+  },
+  {
+   "speaker": "A",
+   "text": "The physics behind wine tears is known as the Marangoni effect. Wine is a mixture of mainly water and alcohol. When you swirl it, a thin layer of wine coats the glass. Alcohol evaporates faster than water. So at the top of this thin layer, the alcohol level drops quickly."
+  },
+  {
+   "speaker": "A",
+   "text": "This creates a difference in surface tension. Surface tension is the force that makes the surface of a liquid act like a thin skin. Water has stronger surface tension than alcohol. So the more watery liquid at the top pulls more wine upward. The liquid gathers, becomes heavy, and falls back down as tears."
+  },
+  {
+   "speaker": "A",
+   "text": "Because of this, wines with more alcohol usually show more tears. Sugar also plays a role. Sweet wines have higher viscosity, which means they are thicker. Their tears tend to move more slowly."
+  },
+  {
+   "speaker": "A",
+   "text": "So what do tears tell you about quality? Almost nothing. A simple wine with high alcohol can have beautiful legs, while a great wine with lower alcohol may show very few."
+  },
+  {
+   "speaker": "A",
+   "text": "Still, watching them is fun, and now you can explain the science at the dinner table."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "After you swirl a glass of wine, look at the inside of the glass.",
+   "start": 0.0,
+   "end": 4.36,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You may see drops forming and slowly running down.",
+   "start": 4.99,
+   "end": 8.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "People call these legs or tears.",
+   "start": 9.18,
+   "end": 12.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many believe they show the quality of a wine.",
+   "start": 12.65,
+   "end": 15.45,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In fact, they mostly show something else.",
+   "start": 15.92,
+   "end": 18.92,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The physics behind wine tears is known as the Marangoni effect.",
+   "start": 19.44,
+   "end": 23.6,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Wine is a mixture of mainly water and alcohol.",
+   "start": 24.59,
+   "end": 27.63,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When you swirl it, a thin layer of wine coats the glass.",
+   "start": 28.46,
+   "end": 32.14,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Alcohol evaporates faster than water.",
+   "start": 33.05,
+   "end": 35.53,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So at the top of this thin layer, the alcohol level drops quickly.",
+   "start": 36.36,
+   "end": 40.52,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This creates a difference in surface tension.",
+   "start": 41.12,
+   "end": 43.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Surface tension is the force that makes the surface of a liquid act like a thin skin.",
+   "start": 44.19,
+   "end": 49.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Water has stronger surface tension than alcohol.",
+   "start": 50.54,
+   "end": 53.34,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So the more watery liquid at the top pulls more wine upward.",
+   "start": 54.25,
+   "end": 58.49,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The liquid gathers, becomes heavy, and falls back down as tears.",
+   "start": 59.4,
+   "end": 64.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Because of this, wines with more alcohol usually show more tears.",
+   "start": 64.64,
+   "end": 69.52,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Sugar also plays a role.",
+   "start": 70.19,
+   "end": 72.19,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Sweet wines have higher viscosity, which means they are thicker.",
+   "start": 72.62,
+   "end": 76.78,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Their tears tend to move more slowly.",
+   "start": 77.21,
+   "end": 79.61,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So what do tears tell you about quality?",
+   "start": 80.13,
+   "end": 83.33,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Almost nothing.",
+   "start": 83.92,
+   "end": 85.0,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A simple wine with high alcohol can have beautiful legs, while a great wine with lower alcohol may show very few.",
+   "start": 85.63,
+   "end": 93.23,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Still, watching them is fun, and now you can explain the science at the dinner table.",
+   "start": 93.75,
+   "end": 99.27,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 229,
+ "duration": 99.2,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:48"
+}

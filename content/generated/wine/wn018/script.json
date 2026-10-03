@@ -1,0 +1,236 @@
+{
+ "id": "wn018",
+ "author": "claude",
+ "category": "wine",
+ "title": "Decoding Pyrazines: The Bell Pepper Aroma",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "methoxypyrazines",
+  "vegetal note",
+  "canopy management"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  },
+  "B": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Sometimes a red wine smells a little like green bell pepper. Is that a good thing or a bad thing?"
+  },
+  {
+   "speaker": "B",
+   "text": "It depends on how strong it is. That smell comes from compounds called methoxypyrazines. People often just call them pyrazines."
+  },
+  {
+   "speaker": "A",
+   "text": "Where do they come from?"
+  },
+  {
+   "speaker": "B",
+   "text": "From the grapes themselves. Some varieties naturally have a lot of them, especially Cabernet Sauvignon, Cabernet Franc and Sauvignon Blanc."
+  },
+  {
+   "speaker": "A",
+   "text": "So it's normal for those grapes."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. In small amounts, it can add freshness and a pleasant herbal note. But if it's very strong, the wine can taste unripe and green. Tasters call this a vegetal note."
+  },
+  {
+   "speaker": "A",
+   "text": "Can growers control it?"
+  },
+  {
+   "speaker": "B",
+   "text": "They can. Pyrazines break down when grapes get sunlight and warmth. So growers use canopy management. The canopy is the leaves of the vine. By removing some leaves around the grapes, they let in more light."
+  },
+  {
+   "speaker": "A",
+   "text": "And in a cool, cloudy year?"
+  },
+  {
+   "speaker": "B",
+   "text": "Then pyrazines often stay higher, and the wine may taste greener. That's one reason why bell pepper notes were more common in Bordeaux in the past. Better vineyard work and warmer summers have changed that a lot."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Sometimes a red wine smells a little like green bell pepper.",
+   "start": 0.0,
+   "end": 4.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is that a good thing or a bad thing?",
+   "start": 4.83,
+   "end": 7.15,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It depends on how strong it is.",
+   "start": 7.95,
+   "end": 9.99,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "That smell comes from compounds called methoxypyrazines.",
+   "start": 10.62,
+   "end": 14.26,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "People often just call them pyrazines.",
+   "start": 14.81,
+   "end": 17.13,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Where do they come from?",
+   "start": 17.85,
+   "end": 19.37,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "From the grapes themselves.",
+   "start": 20.09,
+   "end": 21.85,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Some varieties naturally have a lot of them, especially Cabernet Sauvignon, Cabernet Franc and Sauvignon Blanc.",
+   "start": 22.44,
+   "end": 29.64,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So it's normal for those grapes.",
+   "start": 30.36,
+   "end": 32.76,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 33.48,
+   "end": 33.96,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "In small amounts, it can add freshness and a pleasant herbal note.",
+   "start": 34.51,
+   "end": 39.03,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But if it's very strong, the wine can taste unripe and green.",
+   "start": 39.62,
+   "end": 43.62,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Tasters call this a vegetal note.",
+   "start": 44.45,
+   "end": 46.93,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Can growers control it?",
+   "start": 47.65,
+   "end": 49.41,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "They can.",
+   "start": 50.13,
+   "end": 50.77,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Pyrazines break down when grapes get sunlight and warmth.",
+   "start": 51.36,
+   "end": 55.52,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So growers use canopy management.",
+   "start": 55.99,
+   "end": 58.67,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The canopy is the leaves of the vine.",
+   "start": 59.1,
+   "end": 61.74,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "By removing some leaves around the grapes, they let in more light.",
+   "start": 62.17,
+   "end": 65.85,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And in a cool, cloudy year?",
+   "start": 66.65,
+   "end": 69.05,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Then pyrazines often stay higher, and the wine may taste greener.",
+   "start": 69.77,
+   "end": 74.37,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That's one reason why bell pepper notes were more common in Bordeaux in the past.",
+   "start": 75.0,
+   "end": 79.44,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Better vineyard work and warmer summers have changed that a lot.",
+   "start": 80.07,
+   "end": 83.83,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 185,
+ "duration": 83.7,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 57,
+ "created": "2026-10-03 23:48"
+}

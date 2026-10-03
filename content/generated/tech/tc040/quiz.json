@@ -1,0 +1,114 @@
+{
+ "id": "tc040",
+ "author": "claude",
+ "summary_ja": "B のアプリは去年 App Store でフィーチャーされ、ダウンロードが普段の20倍に。Apple の知り合いはおらず、App Store の編集チームが選んだ。滑らかなアニメーション、読みやすい文字、ダークモードや Dynamic Type への対応など細部を磨き、一つの問題をよく解決する明確な物語があった。大型アップデートの数週間前に編集者へ情報を送った。フィーチャー目当てではなく、大切に思えるものを作り、何百万人に見られるつもりで磨くことが助言。",
+ "listening": [
+  {
+   "q": "フィーチャーされた朝に起きたことは？",
+   "options": [
+    "サーバーが止まった",
+    "ダウンロードが普段の20倍になった",
+    "アプリが削除された",
+    "何も変わらなかった"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"my downloads were twenty times higher than usual.\""
+  },
+  {
+   "q": "B がフィーチャーされた理由として考えていることは？",
+   "options": [
+    "無料にしたこと",
+    "細部のデザインを磨き、一つの問題をよく解決する明確な物語があったこと",
+    "Apple の知り合いがいたこと",
+    "広告費を払ったこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"I spent a lot of time on design refinement ... It solved one problem very well.\""
+  },
+  {
+   "q": "フィーチャーの後どうなった？",
+   "options": [
+    "全員がやめた",
+    "ずっと20倍のまま",
+    "アプリをやめた",
+    "ダウンロードは減ったが、多くの新規ユーザーが残り、続ける自信になった"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Downloads dropped again, of course. But many new users stayed\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "ある朝起きたら、ダウンロード数が普段の20倍になっていました。",
+   "points_ja": "woke up one morning が一続きに聞こえ、twenty times higher than usual が続きます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "彼らはよくデザインされた面白いアプリを探しています。",
+   "points_ja": "look for apps that are が続けて聞こえ、designed and interesting の and は「ン」です。"
+  },
+  {
+   "sentence": 22,
+   "ja": "でも、何百万人に見られるかもしれないつもりで磨きましょう。",
+   "points_ja": "polish it like it might be が一続きに聞こえ、millions of people が「ミリオンザヴピープル」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "Apple に就職する方法",
+    "個人開発のアプリが App Store でフィーチャーされた経験と、そこからの助言",
+    "アプリの値段の決め方",
+    "広告の出し方"
+   ],
+   "answer": 1,
+   "explanation_ja": "フィーチャーの経緯、理由、助言、その後を話しています。"
+  },
+  {
+   "q": "editorial feature の意味は？",
+   "options": [
+    "広告",
+    "ランキング",
+    "編集チームがアプリを選んで紹介すること",
+    "レビュー"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"An editorial feature means they choose your app and write about it.\""
+  },
+  {
+   "q": "design refinement の例として挙げられていないものは？",
+   "options": [
+    "滑らかなアニメーション",
+    "読みやすい文字",
+    "ダークモード対応",
+    "派手な広告"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"smooth animations, clear text and support for features like Dark Mode and Dynamic Type\"。"
+  },
+  {
+   "q": "B が大型アップデートの前にしたことは？",
+   "options": [
+    "広告を出した",
+    "数週間前に編集者へ情報を送り、なぜ特別か説明した",
+    "値下げした",
+    "Apple に電話した"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"I did that a few weeks before a big update, and explained why it was special.\""
+  },
+  {
+   "q": "indie showcases が好むものは？",
+   "options": [
+    "個人的な物語",
+    "機能の多さ",
+    "安さ",
+    "大企業のアプリ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Indie showcases love personal stories, so share why you made it.\""
+  }
+ ]
+}

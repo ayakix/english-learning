@@ -1,0 +1,211 @@
+{
+ "id": "wt001",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Philosophy of the AHCI",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "independent watchmaker",
+  "atelier",
+  "horological philosophy"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Most famous watch brands are large companies. Hundreds of people design, build and sell their watches. But there is another world in watchmaking. It belongs to independent watchmakers. These are people who design and make watches in their own small workshops, often under their own names."
+  },
+  {
+   "speaker": "A",
+   "text": "In nineteen eighty-five, two watchmakers, Svend Andersen and Vincent Calabrese, started a group to support people like them. It is called the AHCI. The letters come from a French name that means the Academy of Independent Watchmakers. Today, its members come from many countries."
+  },
+  {
+   "speaker": "A",
+   "text": "What do these watchmakers have in common? First, they are creators. They do not simply put together parts made by others. They invent new mechanisms and new ways to show the time. Second, they work in a small atelier. That is a French word for a workshop or studio. Some make only ten or twenty watches a year."
+  },
+  {
+   "speaker": "A",
+   "text": "You could call it a horological philosophy. Horology is the science and art of measuring time. For these makers, a watch is not a product. It is a personal idea, made real with their own hands."
+  },
+  {
+   "speaker": "A",
+   "text": "This is why collectors often wait years for one of their watches. They are not just buying a way to tell the time. They are buying a piece of someone's life's work."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Most famous watch brands are large companies.",
+   "start": 0.0,
+   "end": 3.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Hundreds of people design, build and sell their watches.",
+   "start": 3.79,
+   "end": 7.47,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But there is another world in watchmaking.",
+   "start": 8.38,
+   "end": 10.7,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It belongs to independent watchmakers.",
+   "start": 11.53,
+   "end": 14.25,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These are people who design and make watches in their own small workshops, often under their own names.",
+   "start": 14.92,
+   "end": 21.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In nineteen eighty-five, two watchmakers, Svend Andersen and Vincent Calabrese, started a group to support people like them.",
+   "start": 22.0,
+   "end": 30.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It is called the AHCI.",
+   "start": 31.19,
+   "end": 33.95,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The letters come from a French name that means the Academy of Independent Watchmakers.",
+   "start": 34.38,
+   "end": 39.9,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, its members come from many countries.",
+   "start": 40.45,
+   "end": 43.37,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "What do these watchmakers have in common?",
+   "start": 43.89,
+   "end": 46.21,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "First, they are creators.",
+   "start": 47.2,
+   "end": 49.32,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They do not simply put together parts made by others.",
+   "start": 49.95,
+   "end": 52.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They invent new mechanisms and new ways to show the time.",
+   "start": 53.82,
+   "end": 57.5,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, they work in a small atelier.",
+   "start": 58.49,
+   "end": 61.45,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That is a French word for a workshop or studio.",
+   "start": 62.04,
+   "end": 64.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some make only ten or twenty watches a year.",
+   "start": 65.75,
+   "end": 68.87,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "You could call it a horological philosophy.",
+   "start": 69.39,
+   "end": 72.67,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Horology is the science and art of measuring time.",
+   "start": 73.14,
+   "end": 76.94,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For these makers, a watch is not a product.",
+   "start": 77.37,
+   "end": 80.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a personal idea, made real with their own hands.",
+   "start": 80.96,
+   "end": 85.0,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is why collectors often wait years for one of their watches.",
+   "start": 85.6,
+   "end": 90.0,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They are not just buying a way to tell the time.",
+   "start": 90.43,
+   "end": 93.23,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They are buying a piece of someone's life's work.",
+   "start": 93.66,
+   "end": 96.78,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 216,
+ "duration": 96.7,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-03 23:43"
+}

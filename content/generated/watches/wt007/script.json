@@ -1,0 +1,183 @@
+{
+ "id": "wt007",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Remontoire d'Égalité",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "constant force",
+  "remontoire",
+  "torque drop"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A mechanical watch gets its energy from a coiled spring called the mainspring. When you wind the watch, the spring is tight and pushes hard. As the hours pass, it slowly relaxes and pushes less. This change in force is called torque drop."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does this matter? The heart of the watch, the balance wheel, swings back and forth at a steady rate. But if the force behind it changes, the swings can become a little smaller or larger. That can make the watch run slightly faster or slower over the day."
+  },
+  {
+   "speaker": "A",
+   "text": "Watchmakers have tried many ways to solve this problem. One of the most elegant is the remontoire. The word comes from French and means something like \"rewinder.\" The full name, remontoire d'égalité, can be translated as a device for equal force."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is the idea. Instead of sending the mainspring's force directly to the escapement, the watch uses a second, very small spring. The mainspring rewinds this small spring again and again, often every second or every few seconds. The small spring then delivers the same gentle push every time."
+  },
+  {
+   "speaker": "A",
+   "text": "In other words, the escapement always receives constant force, whether the mainspring is full or nearly empty. It is a clever solution, but it adds many parts. That is why you mostly find it in high-end, handmade watches."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "A mechanical watch gets its energy from a coiled spring called the mainspring.",
+   "start": 0.0,
+   "end": 5.44,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When you wind the watch, the spring is tight and pushes hard.",
+   "start": 5.87,
+   "end": 9.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "As the hours pass, it slowly relaxes and pushes less.",
+   "start": 10.38,
+   "end": 14.94,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This change in force is called torque drop.",
+   "start": 15.37,
+   "end": 18.41,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why does this matter?",
+   "start": 18.93,
+   "end": 20.05,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The heart of the watch, the balance wheel, swings back and forth at a steady rate.",
+   "start": 20.96,
+   "end": 26.0,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "But if the force behind it changes, the swings can become a little smaller or larger.",
+   "start": 26.91,
+   "end": 32.67,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "That can make the watch run slightly faster or slower over the day.",
+   "start": 33.5,
+   "end": 37.82,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Watchmakers have tried many ways to solve this problem.",
+   "start": 38.34,
+   "end": 41.74,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One of the most elegant is the remontoire.",
+   "start": 42.37,
+   "end": 45.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The word comes from French and means something like \"rewinder.\"",
+   "start": 45.76,
+   "end": 49.68,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The full name, remontoire d'égalité, can be translated as a device for equal force.",
+   "start": 50.43,
+   "end": 56.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is the idea.",
+   "start": 57.51,
+   "end": 58.55,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of sending the mainspring's force directly to the escapement, the watch uses a second, very small spring.",
+   "start": 59.46,
+   "end": 67.14,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The mainspring rewinds this small spring again and again, often every second or every few seconds.",
+   "start": 67.57,
+   "end": 74.61,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The small spring then delivers the same gentle push every time.",
+   "start": 75.0,
+   "end": 79.36,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In other words, the escapement always receives constant force, whether the mainspring is full or nearly empty.",
+   "start": 79.88,
+   "end": 87.48,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a clever solution, but it adds many parts.",
+   "start": 87.87,
+   "end": 91.99,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why you mostly find it in high-end, handmade watches.",
+   "start": 92.42,
+   "end": 96.34,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 220,
+ "duration": 96.3,
+ "wpm": 137,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:43"
+}

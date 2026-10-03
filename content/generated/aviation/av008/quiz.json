@@ -1,0 +1,114 @@
+{
+ "id": "av008",
+ "author": "claude",
+ "summary_ja": "海の上にはレーダー局がなく、以前は数分ごとの位置報告に頼り、航空機の間隔を大きく空けていた。今は宇宙から ADS-B を受信する技術がある。受信機を数百kmの低軌道（LEO）の衛星に載せ、弱い信号を拾い、極地を含む地球全体をカバーする。安全に間隔を詰められ、燃料と時間を節約でき、緊急時の位置も分かる。",
+ "listening": [
+  {
+   "q": "以前、海の上で問題だったことは？",
+   "options": [
+    "レーダー局がなく、位置報告が数分ごとしか来なかった",
+    "燃料が高かった",
+    "飛行機が少なかった",
+    "無線が使えなかった"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"over the middle of the oceans, there are no radar stations. Controllers had to rely on position reports that came only every several minutes.\""
+  },
+  {
+   "q": "宇宙からの ADS-B では、受信機をどこに置く？",
+   "options": [
+    "島の山頂",
+    "船",
+    "飛行機の尾翼",
+    "衛星"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In space-based systems, the receivers are placed on satellites instead.\""
+  },
+  {
+   "q": "この技術の利点として話されていないものは？",
+   "options": [
+    "緊急時に位置が分かる",
+    "安全に間隔を詰められる",
+    "機内でインターネットが無料になる",
+    "燃料と時間の節約"
+   ],
+   "answer": 2,
+   "explanation_ja": "インターネットについては触れていません。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "そのため、念のために飛行機同士の間隔をとても大きく空けていました。",
+   "points_ja": "kept planes の t は飲み込まれ、far apart が「ファーラパート」とつながります。"
+  },
+  {
+   "sentence": 11,
+   "ja": "近くにいることで、航空機からの比較的弱い信号を拾いやすくなります。",
+   "points_ja": "helps them pick up the が続き、signals from aircraft がつながります。"
+  },
+  {
+   "sentence": 14,
+   "ja": "管制官は、陸の上とほぼ同じくらいはっきりと飛行機の位置を見ることができます。",
+   "points_ja": "planes are almost がつながり、as clearly as over が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "レーダーを海に建てた",
+    "海の上ではもう飛ばない",
+    "人工衛星は航空に関係ない",
+    "衛星で ADS-B を受信することで、海の上でも航空機をほぼリアルタイムで追跡できるようになった"
+   ],
+   "answer": 3,
+   "explanation_ja": "以前の問題と、宇宙からの受信という解決策、その利点を説明しています。"
+  },
+  {
+   "q": "low Earth orbit について正しいものは？",
+   "options": [
+    "地上1万kmの軌道",
+    "地上の基地",
+    "月の近く",
+    "地上数百kmの比較的低い軌道"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"they circle the Earth at a height of several hundred kilometers\"。"
+  },
+  {
+   "q": "低い軌道が有利な理由は？",
+   "options": [
+    "安く打ち上げられるから",
+    "航空機の比較的弱い信号を拾いやすいから",
+    "雲がないから",
+    "電気が多いから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Being closer helps them pick up the relatively weak signals from aircraft.\""
+  },
+  {
+   "q": "間隔を詰められることの利点は？",
+   "options": [
+    "空港が小さくなる",
+    "より多くの便が最良のルートや風を使え、燃料と時間を節約できる",
+    "乗客が増える",
+    "パイロットが減る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"more flights can use the best routes and winds. That saves fuel and time.\""
+  },
+  {
+   "q": "世界的なフライト追跡への関心が大きく高まったきっかけは？",
+   "options": [
+    "燃料が値上がりしたこと",
+    "新しい空港ができたこと",
+    "2014年にインド洋上で旅客機が行方不明になったこと",
+    "宇宙旅行が始まったこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Interest in global flight tracking grew strongly after a passenger jet disappeared over the Indian Ocean in twenty fourteen.\""
+  }
+ ]
+}

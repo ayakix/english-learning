@@ -1,0 +1,114 @@
+{
+ "id": "wn031",
+ "author": "claude",
+ "summary_ja": "口に含んだワインはアタック、ミッドパレット、フィニッシュの3つに分けられる。ミッドパレットは口いっぱいに広がる数秒で、品質がよく表れる。重さ（軽い牛乳と濃い牛乳の違い）、密度（風味の凝縮感）、口当たり（なめらかか、ざらつくか）を見る。真ん中が空っぽな「ホロウ」なワインは、ブドウの凝縮が足りないことが多い。",
+ "listening": [
+  {
+   "q": "ワインを口に含んだ体験の3つの段階は？",
+   "options": [
+    "甘い、酸っぱい、苦い",
+    "若い、熟成、衰退",
+    "色、香り、味",
+    "アタック、ミッドパレット、フィニッシュ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the attack, the mid-palate and the finish.\""
+  },
+  {
+   "q": "ミッドパレットで見るポイントとして挙げられていないものは？",
+   "options": [
+    "口当たり",
+    "ラベルのデザイン",
+    "密度",
+    "重さ"
+   ],
+   "answer": 1,
+   "explanation_ja": "重さ・密度・口当たりが挙げられています。"
+  },
+  {
+   "q": "hollow mid-palate のワインについて話されていることは？",
+   "options": [
+    "ブドウが十分に凝縮していなかった印のことが多い",
+    "熟成が進んだ印",
+    "甘口の印",
+    "最高級の印"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It is often a sign that the grapes were not fully concentrated.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "アタックとは、ワインが舌に触れた瞬間の最初の印象です。",
+   "points_ja": "attack is your がつながり、just as the が続けて聞こえます。"
+  },
+  {
+   "sentence": 4,
+   "ja": "多くの専門家は、この中間の部分にワインの本当の品質が表れると考えています。",
+   "points_ja": "middle part shows の t は飲み込まれ、quality of a wine が「クオリティアヴァワイン」とつながります。"
+  },
+  {
+   "sentence": 21,
+   "ja": "時間がたつと、ワインを表現するためのはっきりした語彙が身につきます。",
+   "points_ja": "Over time が続き、build a clear が「ビルダクリア」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "アタックが一番大切",
+    "ワインは飲み込まずに評価する",
+    "ミッドパレットの重さ・密度・口当たりに注目すると、ワインの品質を表現できる",
+    "口当たりは関係ない"
+   ],
+   "answer": 2,
+   "explanation_ja": "ミッドパレットの見方と練習方法を説明しています。"
+  },
+  {
+   "q": "weight のたとえとして使われているのは？",
+   "options": [
+    "水と油の違い",
+    "熱いと冷たいの違い",
+    "砂糖と塩の違い",
+    "低脂肪乳と全乳の違い"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"a bit like the difference between skim milk and whole milk.\""
+  },
+  {
+   "q": "mouthfeel の意味は？",
+   "options": [
+    "ワインの物理的な口当たり・質感",
+    "ワインの香り",
+    "ワインの色",
+    "ワインの値段"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"mouthfeel, the physical texture of the wine.\""
+  },
+  {
+   "q": "口当たりに影響するものとして挙げられているのは？",
+   "options": [
+    "ラベル",
+    "瓶の形",
+    "タンニン、酸、アルコール、糖",
+    "グラスの色"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Tannins, acidity, alcohol and sugar all affect this.\""
+  },
+  {
+   "q": "練習方法として勧められていることは？",
+   "options": [
+    "香りだけを嗅ぐ",
+    "評論家の点数を覚える",
+    "少量を数秒口に含み、重さ・強さ・質感の3つを自分に問う",
+    "一気に飲む"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Take a small sip, keep it in your mouth for a few seconds and ask yourself three questions\"。"
+  }
+ ]
+}

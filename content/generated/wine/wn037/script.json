@@ -1,0 +1,243 @@
+{
+ "id": "wn037",
+ "author": "claude",
+ "category": "wine",
+ "title": "Interview: Crafting Cool-Climate Japanese Merlot",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "rain shelter",
+  "leaf thinning",
+  "hang time"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Today, I'm talking with a winemaker who grows Merlot in Japan. Japan is quite rainy. Isn't that a problem for growing grapes?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's our biggest challenge. Rain and humidity increase disease, and they can stop the grapes from ripening fully. So we have to work hard in the vineyard."
+  },
+  {
+   "speaker": "A",
+   "text": "What kind of work?"
+  },
+  {
+   "speaker": "B",
+   "text": "One thing is rain shelters. Some growers put small paper or plastic covers over each bunch, like tiny umbrellas. Others cover the rows with long strips of plastic. They keep the grapes dry when it rains."
+  },
+  {
+   "speaker": "A",
+   "text": "That sounds like a lot of work."
+  },
+  {
+   "speaker": "B",
+   "text": "It is, but it makes a big difference. We also do leaf thinning. We remove some of the leaves around the grapes, so air can move through and the bunches dry quickly after rain."
+  },
+  {
+   "speaker": "A",
+   "text": "And for ripeness?"
+  },
+  {
+   "speaker": "B",
+   "text": "We try to extend the hang time. That's the time the grapes stay on the vine before harvest. A longer hang time can give riper tannins and deeper flavors. But it's a risk, because a typhoon can come in September."
+  },
+  {
+   "speaker": "A",
+   "text": "So you're always watching the sky."
+  },
+  {
+   "speaker": "B",
+   "text": "Always. But I think this challenge creates a Japanese style of Merlot. It's not as powerful as Bordeaux, but it can be elegant, fresh and very food-friendly."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Today, I'm talking with a winemaker who grows Merlot in Japan.",
+   "start": 0.0,
+   "end": 4.4,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Japan is quite rainy.",
+   "start": 5.31,
+   "end": 6.99,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Isn't that a problem for growing grapes?",
+   "start": 7.74,
+   "end": 10.06,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's our biggest challenge.",
+   "start": 10.78,
+   "end": 12.38,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Rain and humidity increase disease, and they can stop the grapes from ripening fully.",
+   "start": 13.13,
+   "end": 18.49,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So we have to work hard in the vineyard.",
+   "start": 18.96,
+   "end": 21.56,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What kind of work?",
+   "start": 22.28,
+   "end": 23.8,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One thing is rain shelters.",
+   "start": 24.52,
+   "end": 26.44,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Some growers put small paper or plastic covers over each bunch, like tiny umbrellas.",
+   "start": 27.27,
+   "end": 32.79,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Others cover the rows with long strips of plastic.",
+   "start": 33.62,
+   "end": 36.58,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "They keep the grapes dry when it rains.",
+   "start": 37.33,
+   "end": 39.65,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That sounds like a lot of work.",
+   "start": 40.37,
+   "end": 42.77,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is, but it makes a big difference.",
+   "start": 43.57,
+   "end": 46.69,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "We also do leaf thinning.",
+   "start": 47.12,
+   "end": 48.96,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "We remove some of the leaves around the grapes, so air can move through and the bunches dry quickly after rain.",
+   "start": 49.39,
+   "end": 55.71,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And for ripeness?",
+   "start": 56.43,
+   "end": 58.11,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "We try to extend the hang time.",
+   "start": 58.83,
+   "end": 60.91,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That's the time the grapes stay on the vine before harvest.",
+   "start": 61.58,
+   "end": 64.7,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "A longer hang time can give riper tannins and deeper flavors.",
+   "start": 65.29,
+   "end": 69.45,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "But it's a risk, because a typhoon can come in September.",
+   "start": 70.04,
+   "end": 73.56,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So you're always watching the sky.",
+   "start": 74.28,
+   "end": 76.84,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Always.",
+   "start": 77.56,
+   "end": 78.44,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But I think this challenge creates a Japanese style of Merlot.",
+   "start": 79.03,
+   "end": 82.55,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It's not as powerful as Bordeaux, but it can be elegant, fresh and very food-friendly.",
+   "start": 83.3,
+   "end": 89.14,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 206,
+ "duration": 89.1,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 63,
+ "created": "2026-10-03 23:50"
+}

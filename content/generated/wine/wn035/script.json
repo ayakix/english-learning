@@ -1,0 +1,201 @@
+{
+ "id": "wn035",
+ "author": "claude",
+ "category": "wine",
+ "title": "Wine Serving Temperatures and Volatility",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "aromatic volatility",
+  "temperature impact",
+  "tannin perception"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Serving temperature has a huge effect on how wine smells and tastes. The same wine can seem flat at one temperature and wonderful at another."
+  },
+  {
+   "speaker": "A",
+   "text": "The main reason is aromatic volatility. Aromas are small molecules that evaporate from the wine and reach your nose. When wine is warmer, more molecules evaporate, so the aroma becomes stronger. When it is colder, fewer molecules evaporate, and the aroma becomes quiet."
+  },
+  {
+   "speaker": "A",
+   "text": "So why not serve everything warm? Because alcohol also evaporates more easily. A red wine served too warm can smell hot and heavy, with alcohol hiding the fruit. It can also taste soft and flat."
+  },
+  {
+   "speaker": "A",
+   "text": "Temperature also changes tannin perception. In cold wine, tannins feel harder and more bitter. That is why most red wines are served warmer than whites. On the other hand, cold temperatures make acidity feel fresher, which works well for white and sparkling wines."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is a simple guide. Sparkling wines are best quite cold, around six to eight degrees Celsius. Light whites like around eight to ten degrees, and fuller whites a little warmer. Light reds, such as Pinot Noir, often taste best at around twelve to fourteen degrees. Full-bodied reds are usually served at around fifteen to eighteen degrees."
+  },
+  {
+   "speaker": "A",
+   "text": "Note that old advice to serve reds at room temperature came from cooler European houses. In a warm modern room, a few minutes in the refrigerator can help."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Serving temperature has a huge effect on how wine smells and tastes.",
+   "start": 0.0,
+   "end": 4.6,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The same wine can seem flat at one temperature and wonderful at another.",
+   "start": 5.23,
+   "end": 10.11,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The main reason is aromatic volatility.",
+   "start": 10.63,
+   "end": 13.59,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Aromas are small molecules that evaporate from the wine and reach your nose.",
+   "start": 14.26,
+   "end": 18.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When wine is warmer, more molecules evaporate, so the aroma becomes stronger.",
+   "start": 19.57,
+   "end": 25.05,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When it is colder, fewer molecules evaporate, and the aroma becomes quiet.",
+   "start": 25.68,
+   "end": 30.72,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So why not serve everything warm?",
+   "start": 31.24,
+   "end": 33.56,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Because alcohol also evaporates more easily.",
+   "start": 34.15,
+   "end": 37.31,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A red wine served too warm can smell hot and heavy, with alcohol hiding the fruit.",
+   "start": 37.94,
+   "end": 43.54,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It can also taste soft and flat.",
+   "start": 44.37,
+   "end": 46.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Temperature also changes tannin perception.",
+   "start": 47.45,
+   "end": 50.49,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In cold wine, tannins feel harder and more bitter.",
+   "start": 50.96,
+   "end": 54.76,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why most red wines are served warmer than whites.",
+   "start": 55.19,
+   "end": 58.95,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "On the other hand, cold temperatures make acidity feel fresher, which works well for white and sparkling wines.",
+   "start": 59.34,
+   "end": 66.26,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is a simple guide.",
+   "start": 66.78,
+   "end": 68.22,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Sparkling wines are best quite cold, around six to eight degrees Celsius.",
+   "start": 69.21,
+   "end": 74.25,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Light whites like around eight to ten degrees, and fuller whites a little warmer.",
+   "start": 74.92,
+   "end": 80.16,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Light reds, such as Pinot Noir, often taste best at around twelve to fourteen degrees.",
+   "start": 80.95,
+   "end": 86.63,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Full-bodied reds are usually served at around fifteen to eighteen degrees.",
+   "start": 87.14,
+   "end": 91.46,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Note that old advice to serve reds at room temperature came from cooler European houses.",
+   "start": 91.98,
+   "end": 97.62,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "In a warm modern room, a few minutes in the refrigerator can help.",
+   "start": 98.25,
+   "end": 102.17,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 231,
+ "duration": 102.1,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-03 23:50"
+}

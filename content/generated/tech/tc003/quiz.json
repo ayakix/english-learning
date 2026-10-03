@@ -1,0 +1,114 @@
+{
+ "id": "tc003",
+ "author": "claude",
+ "summary_ja": "UIKit では「ラベルを作る、文字を設定する、データが変わったら探して更新する」と手順を書く（命令的）。2019年の SwiftUI は宣言的 UI で、今のデータでの画面の見た目を記述する。状態（データ）が変わると SwiftUI が自動で必要な部分を描き直す。画面とデータが常に一致するのが利点だが、状態の置き場所と流れを理解しないと性能が落ちる。",
+ "listening": [
+  {
+   "q": "UIKit の書き方の特徴は？",
+   "options": [
+    "コードを書かない",
+    "音声で作る",
+    "画面の変え方を一つずつ指示する命令的なスタイル",
+    "見た目だけを記述する"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"In UIKit, you write step-by-step instructions ... This style is called imperative programming.\""
+  },
+  {
+   "q": "SwiftUI で状態が変わるとどうなる？",
+   "options": [
+    "アプリが再起動する",
+    "何も起きない",
+    "SwiftUI が自動で必要な変更を計算し、画面を更新する",
+    "開発者が手で更新する"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When the state changes, SwiftUI automatically calculates what needs to change and updates the screen.\""
+  },
+  {
+   "q": "SwiftUI の課題として話されているのは？",
+   "options": [
+    "iPhone で動かない",
+    "状態の置き場所と流れを理解しないと、不要な再描画で遅くなる",
+    "古い技術",
+    "画面が作れない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Poorly organized state can cause unnecessary re-rendering and slow performance.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "データが変わったら、ラベルを探して、もう一度文字を更新します。",
+   "points_ja": "data changes がつながり、find the label and update the が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "状態が変わると、SwiftUI は何を変える必要があるかを自動で計算し、画面を更新します。",
+   "points_ja": "state changes がつながり、what needs to change の to は弱形です。"
+  },
+  {
+   "sentence": 18,
+   "ja": "宣言的なコードでは、画面は常に今の状態を反映します。",
+   "points_ja": "In declarative がつながり、reflects the current の t は飲み込まれます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "UIKit のほうが優れている",
+    "ボタンの作り方",
+    "iOS の歴史",
+    "SwiftUI の宣言的な書き方と、その利点と課題"
+   ],
+   "answer": 3,
+   "explanation_ja": "命令的と宣言的の違い、状態駆動、利点と課題を説明しています。"
+  },
+  {
+   "q": "declarative UI の考え方は？",
+   "options": [
+    "UI を使わない",
+    "今のデータで画面がどう見えるべきかを記述する",
+    "画面の変え方を一つずつ書く",
+    "画面を手で描く"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"you describe what the screen should look like for the current data.\""
+  },
+  {
+   "q": "state の説明として正しいものは？",
+   "options": [
+    "アプリの値段",
+    "画面の大きさ",
+    "国の名前",
+    "画面の見た目を決めるデータ（ユーザー名、リスト、トグルの状態など）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The state is the data that decides how the screen looks\"。"
+  },
+  {
+   "q": "命令的なコードで起こりやすい問題は？",
+   "options": [
+    "アプリが速すぎる",
+    "色が変わる",
+    "ラベルの更新を忘れて、画面とデータが合わなくなる",
+    "コードが短すぎる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"it is easy to forget to update one label, so the screen and the data no longer match.\""
+  },
+  {
+   "q": "最後の文 \"once the idea clicks\" の意味は？",
+   "options": [
+    "考え方が腑に落ちると",
+    "ボタンを押すと",
+    "マウスをクリックすると",
+    "アプリが完成すると"
+   ],
+   "answer": 0,
+   "explanation_ja": "click には「ぴんとくる、分かる」という意味があります。"
+  }
+ ]
+}

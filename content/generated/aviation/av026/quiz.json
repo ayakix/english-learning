@@ -1,0 +1,114 @@
+{
+ "id": "av026",
+ "author": "claude",
+ "summary_ja": "濃霧で滑走路が見えなくても着陸できるのは計器着陸装置（ILS）のおかげ。地上からの電波で見えない進入経路を作る。ローカライザーは滑走路中心線より左右どちらにいるかを、グライドスロープは約3度の降下角に対して高いか低いかを示す。両方を中央に保てば正確に降りられ、自動操縦が従うことも多い。設備の整った空港と認証機ではオートランドも可能。",
+ "listening": [
+  {
+   "q": "ILS の localizer が示すのは？",
+   "options": [
+    "速度",
+    "滑走路中心線より左右どちらにいるか",
+    "燃料の量",
+    "高すぎるか低すぎるか"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It tells the pilots whether they are left or right of the runway centerline.\""
+  },
+  {
+   "q": "グライドパスの角度は通常？",
+   "options": [
+    "約45度",
+    "約10度",
+    "約3度",
+    "約30度"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The glide path is usually about three degrees.\""
+  },
+  {
+   "q": "autoland とは？",
+   "options": [
+    "視界が非常に悪くても、自動操縦が自動で着陸させること",
+    "パイロットが手で着陸すること",
+    "自動で離陸すること",
+    "滑走路を自動で掃除すること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the autopilot can even land the airplane automatically in very low visibility. This is called autoland.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "ILS は地上からの電波を使って、滑走路への見えない経路に沿って飛行機を導きます。",
+   "points_ja": "uses radio signals がつながり、along an invisible が「アロンガニンヴィジブル」と聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "そのアンテナは通常、滑走路の向こう端の先に置かれています。",
+   "points_ja": "antennas are usually がつながり、end of the runway が「エンダヴザランウェイ」と聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "両方の表示を中央に保つことで、パイロットは滑走路まで正確な経路を飛びます。",
+   "points_ja": "keeping both の g と b が続き、fly a precise が「フライアプリサイス」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ILS の2つの部分が、見えなくても正確に着陸できる経路を示す",
+    "霧の発生の仕組み",
+    "自動操縦の歴史",
+    "滑走路の作り方"
+   ],
+   "answer": 0,
+   "explanation_ja": "ローカライザーとグライドスロープ、自動操縦、オートランドを説明しています。"
+  },
+  {
+   "q": "glide slope が導く方向は？",
+   "options": [
+    "前後の速度",
+    "左右",
+    "風向き",
+    "上下（垂直方向）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The second is the glide slope, which guides the aircraft vertically.\""
+  },
+  {
+   "q": "約3度の降下角とは？",
+   "options": [
+    "3海里ごとに1,000フィート",
+    "まっすぐ落ちる",
+    "1分ごとに3フィート下がる",
+    "1海里進むごとに約300フィート下がる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"losing around three hundred feet for every nautical mile it travels.\""
+  },
+  {
+   "q": "オートランドに必要な条件は？",
+   "options": [
+    "夜間",
+    "小さな飛行機",
+    "最も進んだ設備の空港と、認証された機体",
+    "晴れた日"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"At airports with the most advanced equipment, and on aircraft certified for it\"。"
+  },
+  {
+   "q": "最後の段落で話し手が言っていることは？",
+   "options": [
+    "ILS はもう使われていない",
+    "新しい衛星方式も増えているが、ILS は特に悪天候の日に信頼されている",
+    "衛星方式は危険",
+    "ILS は晴れの日だけ使う"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the ILS remains one of the most trusted tools in aviation, especially on bad-weather days.\""
+  }
+ ]
+}

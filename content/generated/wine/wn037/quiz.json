@@ -1,0 +1,114 @@
+{
+ "id": "wn037",
+ "author": "claude",
+ "summary_ja": "日本で雨に耐えてメルローを育てる醸造家へのインタビュー。雨と湿気は病気を増やし完熟を妨げる。房に小さな紙やビニールの傘をかけたり、列をビニールで覆ったりする「雨よけ」、空気を通すための「除葉」、収穫を遅らせて実を木に長く置く「ハングタイム」で工夫する。9月の台風はリスク。ボルドーほど力強くないが、上品で新鮮、食事に合う日本らしいメルロー。",
+ "listening": [
+  {
+   "q": "日本でブドウを育てる一番の課題は？",
+   "options": [
+    "寒さ",
+    "土地の値段",
+    "雨と湿気",
+    "日照不足"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It's our biggest challenge. Rain and humidity increase disease\"。"
+  },
+  {
+   "q": "rain shelters として話されているのは？",
+   "options": [
+    "畑に屋根の建物を建てる",
+    "房に小さな紙やビニールの傘をかける、列をビニールで覆う",
+    "ブドウを室内で育てる",
+    "雨の日に収穫する"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Some growers put small paper or plastic covers over each bunch ... Others cover the rows with long strips of plastic.\""
+  },
+  {
+   "q": "醸造家が考える日本のメルローの特徴は？",
+   "options": [
+    "白ワインのよう",
+    "とても甘い",
+    "ボルドーほど力強くないが、上品で新鮮で食事に合う",
+    "ボルドーより力強い"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It's not as powerful as Bordeaux, but it can be elegant, fresh and very food-friendly.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "雨と湿気は病気を増やし、ブドウが完全に熟すのを妨げることがあります。",
+   "points_ja": "Rain and が「レイナン」、stop the grapes from が続けて聞こえます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "そうですが、大きな違いを生みます。",
+   "points_ja": "It is が「イティズ」、makes a big が「メイクサビッグ」とつながります。"
+  },
+  {
+   "sentence": 18,
+   "ja": "ハングタイムが長いと、より熟したタンニンと深い風味が得られます。",
+   "points_ja": "hang time can がつながり、tannins and deeper の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "このインタビューの主旨は？",
+   "options": [
+    "メルローの歴史",
+    "雨の多い日本でメルローを完熟させるための畑の工夫",
+    "ワインの販売方法",
+    "台風の仕組み"
+   ],
+   "answer": 1,
+   "explanation_ja": "雨よけ、除葉、ハングタイムなどの工夫を話しています。"
+  },
+  {
+   "q": "leaf thinning の目的は？",
+   "options": [
+    "収穫を早める",
+    "鳥から守る",
+    "空気を通し、雨の後に房を早く乾かす",
+    "ブドウを甘くする"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"so air can move through and the bunches dry quickly after rain.\""
+  },
+  {
+   "q": "hang time とは？",
+   "options": [
+    "雨が降る時間",
+    "ワインを樽に入れる時間",
+    "瓶を吊るす時間",
+    "収穫前にブドウが木についている時間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That's the time the grapes stay on the vine before harvest.\""
+  },
+  {
+   "q": "ハングタイムを延ばすことのリスクは？",
+   "options": [
+    "色が抜ける",
+    "ブドウが小さくなる",
+    "ブドウが凍る",
+    "9月に台風が来ることがある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"it's a risk, because a typhoon can come in September.\""
+  },
+  {
+   "q": "醸造家が「この課題が日本らしいメルローを生む」と考える理由として推測できるのは？",
+   "options": [
+    "ボルドーの真似をしているから",
+    "厳しい条件への工夫が、力強さより上品さのある独自のスタイルにつながるから",
+    "日本のブドウが一番だから",
+    "雨がワインを甘くするから"
+   ],
+   "answer": 1,
+   "explanation_ja": "課題への工夫の結果として、エレガントで新鮮なスタイルができると述べています。"
+  }
+ ]
+}

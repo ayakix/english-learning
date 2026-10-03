@@ -1,0 +1,257 @@
+{
+ "id": "wn039",
+ "author": "claude",
+ "category": "wine",
+ "title": "Blind Tasting: Deductive Logic from Color to Variety",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "deductive tasting",
+  "color hue",
+  "structural markers"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In blind tasting, you try a wine without knowing what it is. How do professionals guess the grape and region so well?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's not magic. It's deductive tasting. You collect clues step by step and slowly remove the impossible answers."
+  },
+  {
+   "speaker": "A",
+   "text": "Where do you start?"
+  },
+  {
+   "speaker": "B",
+   "text": "With the eyes. The color hue gives the first clues. A pale, light red might suggest a thin-skinned grape like Pinot Noir. A deep, almost black color could point to Syrah or Cabernet Sauvignon."
+  },
+  {
+   "speaker": "A",
+   "text": "Then the nose?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. Fruit character helps a lot. Red fruits like cherry suggest one group of grapes, black fruits like blackcurrant suggest another. Oak, earth or herbal notes add more clues about winemaking and age."
+  },
+  {
+   "speaker": "A",
+   "text": "And in the mouth?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's where structural markers are important. Acidity, tannin, alcohol and body. For example, high acidity and fine tannins with red fruit often suggest a cool climate. Ripe fruit with high alcohol suggests a warmer region."
+  },
+  {
+   "speaker": "A",
+   "text": "So you combine everything."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. You might say: light color, high acidity, red fruit, earthy notes, light tannin. That points toward Pinot Noir from a cool region, maybe Burgundy. You make a logical conclusion, even if you're not one hundred percent sure. And when you're wrong, you learn the most."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In blind tasting, you try a wine without knowing what it is.",
+   "start": 0.0,
+   "end": 4.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How do professionals guess the grape and region so well?",
+   "start": 4.91,
+   "end": 8.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's not magic.",
+   "start": 9.23,
+   "end": 10.51,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's deductive tasting.",
+   "start": 11.02,
+   "end": 12.54,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "You collect clues step by step and slowly remove the impossible answers.",
+   "start": 13.29,
+   "end": 18.49,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Where do you start?",
+   "start": 19.21,
+   "end": 20.65,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "With the eyes.",
+   "start": 21.37,
+   "end": 22.41,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The color hue gives the first clues.",
+   "start": 22.84,
+   "end": 25.48,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "A pale, light red might suggest a thin-skinned grape like Pinot Noir.",
+   "start": 26.23,
+   "end": 30.79,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "A deep, almost black color could point to Syrah or Cabernet Sauvignon.",
+   "start": 31.54,
+   "end": 36.5,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Then the nose?",
+   "start": 37.22,
+   "end": 38.66,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 39.38,
+   "end": 39.86,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Fruit character helps a lot.",
+   "start": 40.37,
+   "end": 42.13,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Red fruits like cherry suggest one group of grapes, black fruits like blackcurrant suggest another.",
+   "start": 42.96,
+   "end": 48.96,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Oak, earth or herbal notes add more clues about winemaking and age.",
+   "start": 49.79,
+   "end": 54.75,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And in the mouth?",
+   "start": 55.47,
+   "end": 56.75,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "That's where structural markers are important.",
+   "start": 57.55,
+   "end": 59.95,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Acidity, tannin, alcohol and body.",
+   "start": 60.62,
+   "end": 63.66,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "For example, high acidity and fine tannins with red fruit often suggest a cool climate.",
+   "start": 64.49,
+   "end": 70.41,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Ripe fruit with high alcohol suggests a warmer region.",
+   "start": 71.32,
+   "end": 75.0,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So you combine everything.",
+   "start": 75.72,
+   "end": 77.88,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 78.6,
+   "end": 79.4,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "You might say: light color, high acidity, red fruit, earthy notes, light tannin.",
+   "start": 80.15,
+   "end": 86.39,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That points toward Pinot Noir from a cool region, maybe Burgundy.",
+   "start": 87.3,
+   "end": 90.98,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "You make a logical conclusion, even if you're not one hundred percent sure.",
+   "start": 91.89,
+   "end": 95.97,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And when you're wrong, you learn the most.",
+   "start": 96.72,
+   "end": 99.36,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 203,
+ "duration": 99.3,
+ "wpm": 123,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 65,
+ "created": "2026-10-03 23:50"
+}

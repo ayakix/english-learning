@@ -1,0 +1,251 @@
+{
+ "id": "pa020",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Balancing Work and Family Time",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "work-life balance",
+  "quality time",
+  "flexible schedule"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "You both work full-time and have two young children. How do you manage work-life balance?"
+  },
+  {
+   "speaker": "B",
+   "text": "Honestly, we don't always manage it. Some weeks feel balanced, and others are chaos. But we've learned a few things."
+  },
+  {
+   "speaker": "A",
+   "text": "What has helped the most?"
+  },
+  {
+   "speaker": "B",
+   "text": "A flexible schedule. My company lets me start early and finish early. So I can pick up the kids from nursery, and my partner works later and does the morning routine."
+  },
+  {
+   "speaker": "A",
+   "text": "Not every company allows that."
+  },
+  {
+   "speaker": "B",
+   "text": "That's true, and I know we're lucky. But even small changes, like working from home one day a week, can make a big difference. It's worth asking."
+  },
+  {
+   "speaker": "A",
+   "text": "Many parents feel guilty about not spending enough time with their kids."
+  },
+  {
+   "speaker": "B",
+   "text": "I feel that too. What helps me is focusing on quality time, not just the number of hours. Twenty minutes of really playing together, with phones away, can mean more than three hours in the same room while I'm checking email."
+  },
+  {
+   "speaker": "A",
+   "text": "How do you share housework?"
+  },
+  {
+   "speaker": "B",
+   "text": "We sat down and made a list of everything, even small tasks like buying birthday presents. Seeing it on paper helped us divide it more fairly."
+  },
+  {
+   "speaker": "A",
+   "text": "And time for yourselves?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's the hardest part. We try to give each other one free evening a week. It sounds small, but having time to recharge makes us better parents."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "You both work full-time and have two young children.",
+   "start": 0.0,
+   "end": 3.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How do you manage work-life balance?",
+   "start": 3.71,
+   "end": 5.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Honestly, we don't always manage it.",
+   "start": 6.59,
+   "end": 8.99,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Some weeks feel balanced, and others are chaos.",
+   "start": 9.74,
+   "end": 12.82,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "But we've learned a few things.",
+   "start": 13.37,
+   "end": 14.97,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What has helped the most?",
+   "start": 15.69,
+   "end": 17.45,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A flexible schedule.",
+   "start": 18.17,
+   "end": 19.53,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "My company lets me start early and finish early.",
+   "start": 20.36,
+   "end": 23.56,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So I can pick up the kids from nursery, and my partner works later and does the morning routine.",
+   "start": 24.03,
+   "end": 29.11,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Not every company allows that.",
+   "start": 29.83,
+   "end": 31.99,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That's true, and I know we're lucky.",
+   "start": 32.71,
+   "end": 35.27,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But even small changes, like working from home one day a week, can make a big difference.",
+   "start": 36.02,
+   "end": 41.54,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It's worth asking.",
+   "start": 41.97,
+   "end": 43.25,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Many parents feel guilty about not spending enough time with their kids.",
+   "start": 43.97,
+   "end": 48.21,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "I feel that too.",
+   "start": 49.01,
+   "end": 50.05,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "What helps me is focusing on quality time, not just the number of hours.",
+   "start": 50.48,
+   "end": 55.56,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Twenty minutes of really playing together, with phones away, can mean more than three hours in the same room while I'm checking email.",
+   "start": 56.11,
+   "end": 63.47,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "How do you share housework?",
+   "start": 64.19,
+   "end": 66.03,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "We sat down and made a list of everything, even small tasks like buying birthday presents.",
+   "start": 66.75,
+   "end": 72.27,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Seeing it on paper helped us divide it more fairly.",
+   "start": 72.86,
+   "end": 75.9,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And time for yourselves?",
+   "start": 76.62,
+   "end": 78.46,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "That's the hardest part.",
+   "start": 79.18,
+   "end": 80.74,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "We try to give each other one free evening a week.",
+   "start": 81.29,
+   "end": 84.05,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "It sounds small, but having time to recharge makes us better parents.",
+   "start": 84.6,
+   "end": 89.08,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 218,
+ "duration": 89.0,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 65,
+ "created": "2026-10-03 23:59"
+}

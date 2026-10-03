@@ -1,0 +1,264 @@
+{
+ "id": "tc012",
+ "author": "claude",
+ "category": "tech",
+ "title": "Avoiding Feature Creep in Indie Apps",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "feature creep",
+  "UX bloat",
+  "prioritization framework"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  },
+  "B": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "You've been building your own app for three years. What's the biggest mistake you see indie developers make?"
+  },
+  {
+   "speaker": "B",
+   "text": "Honestly, saying yes to everything. Every week, users send emails asking for new features. Each request sounds reasonable, so you add it. Then one day you open your app and it feels heavy."
+  },
+  {
+   "speaker": "A",
+   "text": "Is there a name for that?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, it's called feature creep. New features slowly creep in, one by one, until the app loses its focus. Designers sometimes call the result UX bloat. The screen is full of buttons, and new users don't know where to start."
+  },
+  {
+   "speaker": "A",
+   "text": "But you don't want to ignore your users, right?"
+  },
+  {
+   "speaker": "B",
+   "text": "No, of course not. I read every message. But I don't treat a request as a task. I treat it as information. I ask myself, what problem is this person really trying to solve?"
+  },
+  {
+   "speaker": "A",
+   "text": "So how do you decide what to build?"
+  },
+  {
+   "speaker": "B",
+   "text": "I use a simple prioritization framework. For each idea, I ask three questions. How many users does it help? Does it fit the main purpose of the app? And how much work is it to build and maintain? If an idea fails the second question, I say no, even if it's popular."
+  },
+  {
+   "speaker": "A",
+   "text": "That sounds hard."
+  },
+  {
+   "speaker": "B",
+   "text": "It is. But a simple app is easier to love, and much easier to maintain."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "You've been building your own app for three years.",
+   "start": 0.0,
+   "end": 3.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What's the biggest mistake you see indie developers make?",
+   "start": 3.71,
+   "end": 6.83,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Honestly, saying yes to everything.",
+   "start": 7.55,
+   "end": 10.63,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Every week, users send emails asking for new features.",
+   "start": 11.42,
+   "end": 15.1,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Each request sounds reasonable, so you add it.",
+   "start": 15.69,
+   "end": 18.89,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Then one day you open your app and it feels heavy.",
+   "start": 19.4,
+   "end": 22.76,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Is there a name for that?",
+   "start": 23.48,
+   "end": 25.24,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes, it's called feature creep.",
+   "start": 26.04,
+   "end": 28.56,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "New features slowly creep in, one by one, until the app loses its focus.",
+   "start": 29.19,
+   "end": 34.59,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Designers sometimes call the result UX bloat.",
+   "start": 35.22,
+   "end": 38.62,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The screen is full of buttons, and new users don't know where to start.",
+   "start": 39.25,
+   "end": 43.49,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "But you don't want to ignore your users, right?",
+   "start": 44.21,
+   "end": 47.41,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "No, of course not.",
+   "start": 48.13,
+   "end": 49.89,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "I read every message.",
+   "start": 50.32,
+   "end": 51.88,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But I don't treat a request as a task.",
+   "start": 52.51,
+   "end": 55.15,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "I treat it as information.",
+   "start": 55.58,
+   "end": 57.5,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "I ask myself, what problem is this person really trying to solve?",
+   "start": 57.93,
+   "end": 62.25,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So how do you decide what to build?",
+   "start": 62.97,
+   "end": 65.53,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "I use a simple prioritization framework.",
+   "start": 66.25,
+   "end": 68.89,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "For each idea, I ask three questions.",
+   "start": 69.72,
+   "end": 72.28,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "How many users does it help?",
+   "start": 73.11,
+   "end": 74.79,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Does it fit the main purpose of the app?",
+   "start": 75.7,
+   "end": 77.78,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And how much work is it to build and maintain?",
+   "start": 78.53,
+   "end": 81.41,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If an idea fails the second question, I say no, even if it's popular.",
+   "start": 82.32,
+   "end": 87.12,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That sounds hard.",
+   "start": 87.84,
+   "end": 89.6,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "It is.",
+   "start": 90.4,
+   "end": 91.04,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But a simple app is easier to love, and much easier to maintain.",
+   "start": 91.79,
+   "end": 96.51,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 218,
+ "duration": 96.4,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 63,
+ "created": "2026-10-03 23:28"
+}

@@ -16,7 +16,7 @@ from pathlib import Path
 from .config import settings
 from .http import ApiError
 
-SKILLS = ("speaking", "listening", "writing", "reading")
+SKILLS = ("speaking", "listening", "writing", "reading", "voa")
 
 # 同じ session.json を複数のリクエストが同時に読み書きしても壊れないようにする
 lock = threading.Lock()

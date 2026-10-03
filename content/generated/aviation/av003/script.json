@@ -1,0 +1,184 @@
+{
+ "id": "av003",
+ "author": "claude",
+ "category": "aviation",
+ "title": "The Meaning of Squawk 7700 and Transponder Codes",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "squawk code",
+  "transponder",
+  "emergency code"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every airliner carries a transponder, a radio device that answers signals from air traffic control radar. When it answers, it sends a four-digit number called a squawk code. This code helps controllers identify each aircraft on their screens."
+  },
+  {
+   "speaker": "A",
+   "text": "Normally, the controller gives each flight its own code, and the pilots enter it on a small panel in the cockpit. The digits only go from zero to seven, so a code might be something like four six two one."
+  },
+  {
+   "speaker": "A",
+   "text": "A few codes, however, have special meanings that are recognized around the world. They are used to communicate problems quickly, even without words."
+  },
+  {
+   "speaker": "A",
+   "text": "The most famous is seven seven zero zero. It is the general emergency code. A pilot might use it for an engine failure, a medical problem on board or a pressurization issue. On radar screens, the aircraft is immediately highlighted, and controllers give it priority."
+  },
+  {
+   "speaker": "A",
+   "text": "Code seven six zero zero means the aircraft has lost radio communication. Controllers then know that the pilots cannot hear them, and they follow standard procedures to keep other traffic clear."
+  },
+  {
+   "speaker": "A",
+   "text": "Code seven five zero zero is the most serious. It indicates unlawful interference, which usually means a hijacking."
+  },
+  {
+   "speaker": "A",
+   "text": "Because flight tracking apps also show squawk codes, aviation fans sometimes notice a seven seven zero zero before the news does. It does not always mean danger, though. Many emergencies are handled calmly, and the plane lands safely."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every airliner carries a transponder, a radio device that answers signals from air traffic control radar.",
+   "start": 0.0,
+   "end": 6.68,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When it answers, it sends a four-digit number called a squawk code.",
+   "start": 7.31,
+   "end": 11.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This code helps controllers identify each aircraft on their screens.",
+   "start": 12.3,
+   "end": 16.54,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Normally, the controller gives each flight its own code, and the pilots enter it on a small panel in the cockpit.",
+   "start": 17.06,
+   "end": 24.18,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The digits only go from zero to seven, so a code might be something like four six two one.",
+   "start": 24.61,
+   "end": 31.33,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A few codes, however, have special meanings that are recognized around the world.",
+   "start": 31.85,
+   "end": 36.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They are used to communicate problems quickly, even without words.",
+   "start": 37.56,
+   "end": 41.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The most famous is seven seven zero zero.",
+   "start": 42.16,
+   "end": 45.68,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It is the general emergency code.",
+   "start": 46.07,
+   "end": 48.35,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A pilot might use it for an engine failure, a medical problem on board or a pressurization issue.",
+   "start": 48.78,
+   "end": 55.18,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "On radar screens, the aircraft is immediately highlighted, and controllers give it priority.",
+   "start": 55.61,
+   "end": 61.29,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Code seven six zero zero means the aircraft has lost radio communication.",
+   "start": 61.81,
+   "end": 67.49,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Controllers then know that the pilots cannot hear them, and they follow standard procedures to keep other traffic clear.",
+   "start": 68.16,
+   "end": 74.64,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Code seven five zero zero is the most serious.",
+   "start": 75.16,
+   "end": 79.0,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It indicates unlawful interference, which usually means a hijacking.",
+   "start": 79.43,
+   "end": 84.23,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Because flight tracking apps also show squawk codes, aviation fans sometimes notice a seven seven zero zero before the news does.",
+   "start": 84.75,
+   "end": 93.47,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It does not always mean danger, though.",
+   "start": 93.9,
+   "end": 96.3,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Many emergencies are handled calmly, and the plane lands safely.",
+   "start": 96.73,
+   "end": 100.81,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 233,
+ "duration": 100.7,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-03 23:51"
+}

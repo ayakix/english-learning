@@ -1,0 +1,114 @@
+{
+ "id": "wn013",
+ "author": "claude",
+ "summary_ja": "北海道はピノ・ノワールの産地としても知られ始めている。ピノ・ノワールは冷涼な気候を好み、余市などは夏が穏やかで梅雨がない。一方、季節は短く、芽吹き（萌芽）が遅く、秋の寒さの前に熟す必要がある。淡い色、クランベリーなどの酸味のある赤い果実、新鮮な酸が特徴。ブルゴーニュの有名生産者も道南でワイナリーを始めた。",
+ "listening": [
+  {
+   "q": "北海道がピノ・ノワールに向いている理由は？",
+   "options": [
+    "夏が穏やかで、本州のような強い梅雨がない",
+    "とても暑い",
+    "冬が短い",
+    "雨が多い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Summers there are mild, and the island has no strong rainy season like the rest of Japan.\""
+  },
+  {
+   "q": "北海道での難しさは？",
+   "options": [
+    "季節が短く、秋の寒さの前に熟す必要がある",
+    "土が悪い",
+    "暑すぎる",
+    "人がいない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the season is short ... hope the grapes ripen before autumn cold arrives.\""
+  },
+  {
+   "q": "北海道のピノ・ノワールの味の特徴は？",
+   "options": [
+    "淡い色、酸味のある赤い果実、新鮮な酸",
+    "濃い色と強いタンニン",
+    "甘くて重い",
+    "苦くて渋い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"wine with delicate color, tart red fruit such as cranberry and red cherry, and fresh acidity.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "ピノ・ノワールは難しいことで有名です。",
+   "points_ja": "famous for が「フェイマスフォー」と続き、being difficult がつながります。"
+  },
+  {
+   "sentence": 12,
+   "ja": "冬は長く雪が多く、ブドウの木には保護が必要です。",
+   "points_ja": "long and snowy の and は「ン」、vines need の s が軽くつながります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "海外からの関心も高まっています。",
+   "points_ja": "Interest from abroad がつながり、abroad is が「アブローディズ」になります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "冷涼な北海道はピノ・ノワールの産地として可能性があり、注目が高まっている",
+    "北海道はワインに向かない",
+    "ピノ・ノワールは暑い場所で育つ",
+    "北海道は海産物だけが有名"
+   ],
+   "answer": 0,
+   "explanation_ja": "気候の利点と難しさ、評価の高まりを説明しています。"
+  },
+  {
+   "q": "viticulture の意味は？",
+   "options": [
+    "ワインの販売",
+    "ブドウ栽培の科学",
+    "ワインの試飲",
+    "樽の作り方"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Viticulture is the science of growing grapes.\""
+  },
+  {
+   "q": "budbreak とは？",
+   "options": [
+    "春に最初の小さな葉が出る瞬間",
+    "冬の休眠",
+    "花が散ること",
+    "ブドウの収穫"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the moment in spring when the first small leaves appear\"。"
+  },
+  {
+   "q": "暖かい場所でのピノ・ノワールの問題は？",
+   "options": [
+    "収穫量が減る",
+    "病気になる",
+    "色が薄くなりすぎる",
+    "繊細な香りをすぐに失う"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In warm places, it quickly loses its delicate aromas.\""
+  },
+  {
+   "q": "最後の段落から推測できることは？",
+   "options": [
+    "ピノ・ノワールは絶滅する",
+    "温暖化は関係ない",
+    "北海道のワインは今後減る",
+    "温暖化が進むと、北海道のような涼しい地域の重要性が増すかもしれない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"As the global climate becomes warmer, cool regions like Hokkaido may become even more important\"。"
+  }
+ ]
+}

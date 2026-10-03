@@ -1,0 +1,114 @@
+{
+ "id": "rn012",
+ "author": "claude",
+ "summary_ja": "毎日ハードに走れば速くなるわけではなく、多くの一流選手はポラライズドトレーニング（80/20）に従う。約80%は会話できるほど楽なゾーン2、約20%はインターバルやレースなどの強い練習。楽なランは心臓を強くし、筋肉の毛細血管を増やし、酸素や脂肪を使う力を高める（有酸素ベースづくり）。よくある失敗は中間の強さばかりで走る「グレーゾーン」。",
+ "listening": [
+  {
+   "q": "80/20 の 80% にあたる練習は？",
+   "options": [
+    "筋トレ",
+    "レース",
+    "会話できるほど楽なラン",
+    "全力のインターバル"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"About eighty percent of training is easy ... You should be able to talk in full sentences.\""
+  },
+  {
+   "q": "楽なランで起きる体の変化として話されていないものは？",
+   "options": [
+    "心臓が強くなる",
+    "筋肉の小さな血管が増える",
+    "体重が急に増える",
+    "酸素や脂肪を使う力が高まる"
+   ],
+   "answer": 2,
+   "explanation_ja": "心臓、血管、酸素と脂肪の利用が挙げられています。"
+  },
+  {
+   "q": "最もよくある失敗は？",
+   "options": [
+    "レースに出ること",
+    "楽すぎるランをすること",
+    "休みをとること",
+    "いつも中間の強さで走ること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Running in the middle all the time. Not easy enough to recover, not hard enough to improve speed.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "多くのトップの持久系アスリートは、ポラライズドトレーニングに従っています。",
+   "points_ja": "top endurance athletes がつながり、follow polarized が続けて聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "多くのランナーにとって、最初はほとんど遅すぎるように感じます。",
+   "points_ja": "feels almost too slow がつながり、at first が「アットファースト」と聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "楽な日が本当に楽だからこそ、その日は本当にハードに頑張れます。",
+   "points_ja": "easy days are truly がつながり、push hard on those days が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "毎日全力で走るべき",
+    "楽な練習を中心に、少しの強い練習を組み合わせると速くなる",
+    "楽なランは意味がない",
+    "練習は短いほどよい"
+   ],
+   "answer": 1,
+   "explanation_ja": "80/20 の考え方と、グレーゾーンの問題を話しています。"
+  },
+  {
+   "q": "zone two running の目安は？",
+   "options": [
+    "息ができないくらい",
+    "全力疾走",
+    "歩くよりも遅い",
+    "完全な文で話せるくらいの楽さ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many people call it zone two running. You should be able to talk in full sentences.\""
+  },
+  {
+   "q": "20% の練習の例として挙げられているのは？",
+   "options": [
+    "散歩",
+    "ストレッチ",
+    "インターバル、テンポ走、レース",
+    "睡眠"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"That's for intervals, tempo runs and races.\""
+  },
+  {
+   "q": "gray zone の問題は？",
+   "options": [
+    "疲れるのに、あまり速くならない",
+    "楽しすぎる",
+    "時間がかからない",
+    "けがをしない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"You feel tired, but you don't get much faster.\""
+  },
+  {
+   "q": "最後の \"slowing down can make you faster\" の意味は？",
+   "options": [
+    "楽なペースで走ることが、結果的に速さにつながる",
+    "速く走ってはいけない",
+    "レースでゆっくり走るべき",
+    "遅く走るとすぐ速くなる"
+   ],
+   "answer": 0,
+   "explanation_ja": "多くの市民ランナーにとって、楽な練習の割合を増やすことが速さにつながるという意味です。"
+  }
+ ]
+}

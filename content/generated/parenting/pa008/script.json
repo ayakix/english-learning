@@ -1,0 +1,201 @@
+{
+ "id": "pa008",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Why Free Play Matters",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "free play",
+  "creativity",
+  "structured activities"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many children today have busy schedules: swimming on Monday, piano on Tuesday, English on Wednesday. These structured activities, led by adults, can be valuable. But many experts worry that children are losing something just as important: free play."
+  },
+  {
+   "speaker": "A",
+   "text": "Free play is play that children choose and direct themselves. There are no adults setting rules or goals. It might be building a fort from cushions, inventing a game in the park or pretending to run a restaurant with leaves as money."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does it matter? Free play encourages creativity. Children imagine new worlds, invent stories and use objects in unexpected ways. It also builds problem-solving skills. When the fort keeps falling down, children must figure out a better design."
+  },
+  {
+   "speaker": "A",
+   "text": "Free play also develops social skills. When children play together without adults, they have to make rules, share, negotiate and solve conflicts. If they argue too much, the game stops, so they learn to compromise."
+  },
+  {
+   "speaker": "A",
+   "text": "Some free play includes a little risk, such as climbing trees or balancing on a wall. With reasonable safety, this helps children learn their own limits and build confidence."
+  },
+  {
+   "speaker": "A",
+   "text": "So how can parents support free play? Leave some time in the week with no plans. Provide simple materials, like boxes, blocks and art supplies. And try not to step in too quickly. Sometimes, the best thing a parent can do is sit back and let the children lead."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many children today have busy schedules: swimming on Monday, piano on Tuesday, English on Wednesday.",
+   "start": 0.0,
+   "end": 6.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These structured activities, led by adults, can be valuable.",
+   "start": 7.71,
+   "end": 11.71,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But many experts worry that children are losing something just as important: free play.",
+   "start": 12.14,
+   "end": 17.66,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Free play is play that children choose and direct themselves.",
+   "start": 18.18,
+   "end": 21.54,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "There are no adults setting rules or goals.",
+   "start": 21.97,
+   "end": 24.882,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It might be building a fort from cushions, inventing a game in the park or pretending to run a restaurant with leaves as money.",
+   "start": 25.328,
+   "end": 33.28,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Why does it matter?",
+   "start": 33.8,
+   "end": 34.68,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Free play encourages creativity.",
+   "start": 35.11,
+   "end": 37.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Children imagine new worlds, invent stories and use objects in unexpected ways.",
+   "start": 38.82,
+   "end": 44.34,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It also builds problem-solving skills.",
+   "start": 45.01,
+   "end": 47.33,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When the fort keeps falling down, children must figure out a better design.",
+   "start": 47.92,
+   "end": 52.08,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Free play also develops social skills.",
+   "start": 52.6,
+   "end": 55.28,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When children play together without adults, they have to make rules, share, negotiate and solve conflicts.",
+   "start": 55.91,
+   "end": 62.39,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If they argue too much, the game stops, so they learn to compromise.",
+   "start": 63.3,
+   "end": 67.46,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some free play includes a little risk, such as climbing trees or balancing on a wall.",
+   "start": 67.98,
+   "end": 73.82,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "With reasonable safety, this helps children learn their own limits and build confidence.",
+   "start": 74.25,
+   "end": 79.21,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So how can parents support free play?",
+   "start": 79.73,
+   "end": 82.05,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Leave some time in the week with no plans.",
+   "start": 83.04,
+   "end": 85.44,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Provide simple materials, like boxes, blocks and art supplies.",
+   "start": 86.03,
+   "end": 90.39,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "And try not to step in too quickly.",
+   "start": 90.94,
+   "end": 93.02,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Sometimes, the best thing a parent can do is sit back and let the children lead.",
+   "start": 93.85,
+   "end": 98.49,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 231,
+ "duration": 98.4,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-03 23:58"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "ns001",
+ "author": "claude",
+ "summary_ja": "日光は虹のすべての色が混ざったもので、色ごとに波長が違う。大気の気体分子に当たると光は四方に散る（散乱）。短い波長ほど強く散乱するので、青い光が空全体に広がる。紫はさらに短いが、日光に少なく上空で吸収され、目も青に敏感なので空は紫に見えない。夕方は光が通る空気が長くなり、青はほとんど散ってしまい、オレンジや赤が残る。",
+ "listening": [
+  {
+   "q": "空が青く見える理由は？",
+   "options": [
+    "空気が青いから",
+    "太陽が青いから",
+    "短い波長の青い光が大気で強く散乱され、空全体に広がるから",
+    "海の色が映っているから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Short wavelengths are scattered much more strongly than long ones. So blue light is spread across the whole sky\"。"
+  },
+  {
+   "q": "夕焼けが赤い理由は？",
+   "options": [
+    "雲が赤いから",
+    "太陽が赤くなるから",
+    "光が通る空気が長くなり、青い光がほとんど散ってしまうから",
+    "空気が熱くなるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"its light must travel through much more air ... most of the blue light is scattered out of the path. What remains is mainly orange and red light.\""
+  },
+  {
+   "q": "青い空と赤い夕焼けの違いのまとめは？",
+   "options": [
+    "空気の色",
+    "季節",
+    "光が通る距離だけ",
+    "太陽の種類"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The only difference is the distance the light travels.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "同じ空で、同じ太陽です。",
+   "points_ja": "same sky and the same sun が同じリズムで続きます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "赤い光は波長が長く、青や紫の光は波長が短いです。",
+   "points_ja": "Red light has a long がつながり、blue and violet の and は「ン」です。"
+  },
+  {
+   "sentence": 17,
+   "ja": "私たちの目も青により敏感です。",
+   "points_ja": "eyes are also がつながり、sensitive to blue が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "空は海を映している",
+    "空の青と夕焼けの赤は、同じ光の散乱という仕組みから生まれる",
+    "空気には色がある",
+    "太陽の色が変わる"
+   ],
+   "answer": 1,
+   "explanation_ja": "散乱の仕組みと、距離による違いを説明しています。"
+  },
+  {
+   "q": "日光についての正しい説明は？",
+   "options": [
+    "色がない",
+    "青だけ",
+    "黄色だけ",
+    "白く見えるが、虹のすべての色が混ざっている"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Sunlight looks white, but it is actually a mixture of all the colors of the rainbow.\""
+  },
+  {
+   "q": "scattering の意味は？",
+   "options": [
+    "光が止まること",
+    "光が吸収されること",
+    "光が強くなること",
+    "光が四方に散らばること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"These molecules send light off in all directions. This is called scattering.\""
+  },
+  {
+   "q": "空が紫に見えない理由として挙げられていないものは？",
+   "options": [
+    "上空で一部が吸収される",
+    "目が青に敏感",
+    "紫は散乱しない",
+    "日光に紫が少ない"
+   ],
+   "answer": 2,
+   "explanation_ja": "紫は青よりさらに短い波長で、散乱しないわけではありません。"
+  },
+  {
+   "q": "atmosphere の説明は？",
+   "options": [
+    "地球の周りの空気の層",
+    "海",
+    "雲",
+    "宇宙"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the atmosphere, the layer of air around the Earth\"。"
+  }
+ ]
+}

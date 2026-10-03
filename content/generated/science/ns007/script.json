@@ -1,0 +1,194 @@
+{
+ "id": "ns007",
+ "author": "claude",
+ "category": "science",
+ "title": "Why Leaves Change Color",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "chlorophyll",
+  "pigment",
+  "deciduous"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In autumn, many trees change from green to bright yellow, orange and red. It is one of the most beautiful sights of the year. But what is actually happening inside the leaves?"
+  },
+  {
+   "speaker": "A",
+   "text": "During spring and summer, leaves are full of a green pigment called chlorophyll. A pigment is a substance that gives color. Chlorophyll is essential because it captures sunlight to make food for the tree through photosynthesis. There is so much chlorophyll that it hides other colors in the leaf."
+  },
+  {
+   "speaker": "A",
+   "text": "In autumn, the days become shorter and cooler. Deciduous trees, trees that lose their leaves every year, prepare for winter. They stop making new chlorophyll, and the old chlorophyll breaks down. The tree also takes back useful nutrients from the leaves before they fall."
+  },
+  {
+   "speaker": "A",
+   "text": "As the green disappears, yellow and orange pigments called carotenoids become visible. These pigments were in the leaf all summer. They are the same type of pigment that makes carrots orange."
+  },
+  {
+   "speaker": "A",
+   "text": "Red and purple colors work differently. In many trees, they come from pigments called anthocyanins, which are actually produced in autumn. Bright, sunny days and cool nights can increase them. Scientists think they may protect the leaf while the tree recovers nutrients."
+  },
+  {
+   "speaker": "A",
+   "text": "Weather affects how brilliant the colors become. A warm, wet autumn often produces duller colors, while sunny days and cool nights can create spectacular red leaves."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In autumn, many trees change from green to bright yellow, orange and red.",
+   "start": 0.0,
+   "end": 5.68,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is one of the most beautiful sights of the year.",
+   "start": 6.07,
+   "end": 8.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But what is actually happening inside the leaves?",
+   "start": 9.58,
+   "end": 12.78,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "During spring and summer, leaves are full of a green pigment called chlorophyll.",
+   "start": 13.3,
+   "end": 18.58,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A pigment is a substance that gives color.",
+   "start": 19.01,
+   "end": 21.97,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Chlorophyll is essential because it captures sunlight to make food for the tree through photosynthesis.",
+   "start": 22.4,
+   "end": 28.32,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "There is so much chlorophyll that it hides other colors in the leaf.",
+   "start": 28.75,
+   "end": 32.83,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In autumn, the days become shorter and cooler.",
+   "start": 33.35,
+   "end": 36.67,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Deciduous trees, trees that lose their leaves every year, prepare for winter.",
+   "start": 37.3,
+   "end": 42.1,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They stop making new chlorophyll, and the old chlorophyll breaks down.",
+   "start": 42.93,
+   "end": 47.13,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The tree also takes back useful nutrients from the leaves before they fall.",
+   "start": 47.76,
+   "end": 52.32,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "As the green disappears, yellow and orange pigments called carotenoids become visible.",
+   "start": 52.84,
+   "end": 58.44,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "These pigments were in the leaf all summer.",
+   "start": 59.11,
+   "end": 61.43,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "They are the same type of pigment that makes carrots orange.",
+   "start": 62.18,
+   "end": 65.54,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Red and purple colors work differently.",
+   "start": 66.06,
+   "end": 68.66,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "In many trees, they come from pigments called anthocyanins, which are actually produced in autumn.",
+   "start": 69.29,
+   "end": 75.29,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Bright, sunny days and cool nights can increase them.",
+   "start": 75.96,
+   "end": 79.0,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists think they may protect the leaf while the tree recovers nutrients.",
+   "start": 79.83,
+   "end": 84.15,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Weather affects how brilliant the colors become.",
+   "start": 84.67,
+   "end": 87.39,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "A warm, wet autumn often produces duller colors, while sunny days and cool nights can create spectacular red leaves.",
+   "start": 88.22,
+   "end": 96.46,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 224,
+ "duration": 96.4,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-04 00:00"
+}

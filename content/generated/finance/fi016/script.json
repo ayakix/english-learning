@@ -1,0 +1,180 @@
+{
+ "id": "fi016",
+ "author": "claude",
+ "category": "finance",
+ "title": "Reading a Company's Earnings",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "earnings report",
+  "revenue",
+  "profit"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Several times a year, public companies release their earnings report. This report shows how the business performed over the past quarter or year. Investors watch these reports closely, and share prices can move sharply on the day they are published."
+  },
+  {
+   "speaker": "A",
+   "text": "The first important number is revenue. This is the total amount of money the company received from selling its products or services. Revenue is sometimes called the top line, because it appears at the top of the income statement."
+  },
+  {
+   "speaker": "A",
+   "text": "Next comes profit. A company can have large revenue but still lose money if its costs are too high. Operating profit shows how much the core business earns after normal costs. Net profit, also called the bottom line, is what remains after all expenses, including interest and taxes."
+  },
+  {
+   "speaker": "A",
+   "text": "Many investors also look at earnings per share, which divides net profit by the number of shares. This makes it easier to compare companies of different sizes."
+  },
+  {
+   "speaker": "A",
+   "text": "Perhaps the most important part is often not the past, but the future. Many companies give guidance, their own forecast for the coming months. If a company says it expects weaker sales, its share price may fall, even if recent results were strong."
+  },
+  {
+   "speaker": "A",
+   "text": "This leads to a surprising point. Share prices react not only to whether results are good or bad, but to whether they are better or worse than expected. A company can report record profits and still see its stock fall, simply because investors expected even more."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Several times a year, public companies release their earnings report.",
+   "start": 0.0,
+   "end": 4.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This report shows how the business performed over the past quarter or year.",
+   "start": 4.59,
+   "end": 8.99,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Investors watch these reports closely, and share prices can move sharply on the day they are published.",
+   "start": 9.54,
+   "end": 15.26,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The first important number is revenue.",
+   "start": 15.78,
+   "end": 18.02,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is the total amount of money the company received from selling its products or services.",
+   "start": 18.93,
+   "end": 24.21,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Revenue is sometimes called the top line, because it appears at the top of the income statement.",
+   "start": 24.8,
+   "end": 30.0,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Next comes profit.",
+   "start": 30.52,
+   "end": 32.36,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A company can have large revenue but still lose money if its costs are too high.",
+   "start": 32.79,
+   "end": 38.07,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Operating profit shows how much the core business earns after normal costs.",
+   "start": 38.66,
+   "end": 43.54,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Net profit, also called the bottom line, is what remains after all expenses, including interest and taxes.",
+   "start": 43.97,
+   "end": 51.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many investors also look at earnings per share, which divides net profit by the number of shares.",
+   "start": 51.61,
+   "end": 57.77,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This makes it easier to compare companies of different sizes.",
+   "start": 58.36,
+   "end": 61.8,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Perhaps the most important part is often not the past, but the future.",
+   "start": 62.32,
+   "end": 67.12,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many companies give guidance, their own forecast for the coming months.",
+   "start": 67.55,
+   "end": 71.79,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If a company says it expects weaker sales, its share price may fall, even if recent results were strong.",
+   "start": 72.22,
+   "end": 78.78,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This leads to a surprising point.",
+   "start": 79.3,
+   "end": 81.58,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Share prices react not only to whether results are good or bad, but to whether they are better or worse than expected.",
+   "start": 82.21,
+   "end": 89.49,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "A company can report record profits and still see its stock fall, simply because investors expected even more.",
+   "start": 89.88,
+   "end": 97.2,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 243,
+ "duration": 97.1,
+ "wpm": 150,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 80,
+ "created": "2026-10-04 00:03"
+}

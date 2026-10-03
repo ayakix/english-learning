@@ -1,0 +1,114 @@
+{
+ "id": "wt030",
+ "author": "claude",
+ "summary_ja": "時計は湿気・日光・温度変化の影響を受ける。湿度が高いと古いパッキンから湿気が入り、錆や文字盤のしみの原因になる。シリカゲルなどの乾燥剤を箱に入れるとよいが、乾燥しすぎると革ベルトやパッキンが硬くなるので湿度40〜50%程度が目安。暗く静かな引き出しが最適。",
+ "listening": [
+  {
+   "q": "時計の保管で一番の敵として話されているのは？",
+   "options": [
+    "空気中の湿気",
+    "音",
+    "暗さ",
+    "寒さ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The main enemy is moisture in the air.\""
+  },
+  {
+   "q": "乾燥剤について正しいものは？",
+   "options": [
+    "時計を温める",
+    "水を出す材料",
+    "光を出す",
+    "シリカゲルが一般的で、箱に入れると空気を乾いた状態に保てる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The most common one is silica gel ... Placing a packet in your watch box helps keep the air dry.\""
+  },
+  {
+   "q": "乾燥しすぎるとどうなる？",
+   "options": [
+    "革ベルトやゴムのパッキンが硬くなる",
+    "時計が速くなる",
+    "文字盤が光る",
+    "ガラスが曇る"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Extremely dry air can harden leather straps and rubber gaskets.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "主な敵は空気中の湿気です。",
+   "points_ja": "moisture in the がつながり、in the の the は弱形です。"
+  },
+  {
+   "sentence": 8,
+   "ja": "乾燥剤とは湿気を吸収する素材のことです。",
+   "points_ja": "desiccant is a が「デシカンティザ」とつながります。"
+  },
+  {
+   "sentence": 12,
+   "ja": "しかし、多ければよいとは限りません。",
+   "points_ja": "more is not が続けて聞こえ、not always の t は弱くなります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "時計は冷蔵庫で保管する",
+    "時計は毎日使わないと壊れる",
+    "乾燥剤は多いほどよい",
+    "湿気・日光・温度に気をつけ、適度な湿度で保管するのがよい"
+   ],
+   "answer": 3,
+   "explanation_ja": "湿気の害、乾燥剤の使い方、適度な湿度、保管場所を説明しています。"
+  },
+  {
+   "q": "relative humidity の説明として正しいものは？",
+   "options": [
+    "水温",
+    "その温度で空気が含める最大量に対する水蒸気の割合",
+    "雨の量",
+    "時計の重さ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the amount of water vapor in the air, compared to the maximum the air can hold at that temperature.\""
+  },
+  {
+   "q": "湿気が時計の中に入るとどうなる可能性がある？",
+   "options": [
+    "時計が正確になる",
+    "針が光る",
+    "時計が軽くなる",
+    "鋼の部品が錆びたり、文字盤にしみができたりする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"it can cause rust on steel parts or marks on the dial.\""
+  },
+  {
+   "q": "色が変わるシリカゲルの利点は？",
+   "options": [
+    "においがする",
+    "いっぱいになったら交換や乾燥のタイミングが分かる",
+    "時計を守る力が強くなる",
+    "見た目がきれい"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Some packets change color when they are full, so you know when to replace or dry them.\""
+  },
+  {
+   "q": "最適な保管場所として書かれているのは？",
+   "options": [
+    "車の中",
+    "暗く静かな引き出し",
+    "浴室",
+    "窓辺"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A quiet, dark drawer is often the best place.\""
+  }
+ ]
+}

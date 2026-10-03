@@ -1,0 +1,208 @@
+{
+ "id": "pa005",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Praise the Effort, Not the Talent",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "growth mindset",
+  "praise",
+  "resilience"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When a child does well, most parents want to give praise. Wow, you're so smart! It seems like a nice thing to say. But research suggests that the type of praise we use can shape how children think about challenges."
+  },
+  {
+   "speaker": "A",
+   "text": "Psychologist Carol Dweck and her colleagues studied this for many years. In one famous experiment, children solved puzzles. Some were praised for their intelligence: You must be smart at this. Others were praised for their effort: You must have worked hard."
+  },
+  {
+   "speaker": "A",
+   "text": "Then the children were offered a choice between an easy puzzle and a harder one. Many children praised for intelligence chose the easy one. They seemed afraid of failing and losing the label of smart. Many children praised for effort chose the harder puzzle, because they wanted to learn."
+  },
+  {
+   "speaker": "A",
+   "text": "This connects to the idea of a growth mindset. A growth mindset is the belief that abilities can grow with effort and practice. The opposite, a fixed mindset, is the belief that abilities are mostly fixed from birth."
+  },
+  {
+   "speaker": "A",
+   "text": "Praising effort, strategies and progress helps build resilience. Resilience is the ability to keep going and recover after difficulties. Instead of, You're a natural, a parent might say, I saw you try three different ways. That was great thinking."
+  },
+  {
+   "speaker": "A",
+   "text": "Of course, praise should also be honest. Children can tell when words are empty. The goal is to notice the process, not just the result."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When a child does well, most parents want to give praise.",
+   "start": 0.0,
+   "end": 3.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Wow, you're so smart!",
+   "start": 4.27,
+   "end": 6.43,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It seems like a nice thing to say.",
+   "start": 7.02,
+   "end": 8.9,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But research suggests that the type of praise we use can shape how children think about challenges.",
+   "start": 9.53,
+   "end": 15.69,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Psychologist Carol Dweck and her colleagues studied this for many years.",
+   "start": 16.21,
+   "end": 20.81,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In one famous experiment, children solved puzzles.",
+   "start": 21.44,
+   "end": 25.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Some were praised for their intelligence: You must be smart at this.",
+   "start": 25.71,
+   "end": 30.03,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Others were praised for their effort: You must have worked hard.",
+   "start": 30.86,
+   "end": 34.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Then the children were offered a choice between an easy puzzle and a harder one.",
+   "start": 35.46,
+   "end": 40.5,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many children praised for intelligence chose the easy one.",
+   "start": 41.33,
+   "end": 45.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They seemed afraid of failing and losing the label of smart.",
+   "start": 45.52,
+   "end": 49.6,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many children praised for effort chose the harder puzzle, because they wanted to learn.",
+   "start": 50.19,
+   "end": 55.15,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This connects to the idea of a growth mindset.",
+   "start": 55.67,
+   "end": 58.63,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A growth mindset is the belief that abilities can grow with effort and practice.",
+   "start": 59.3,
+   "end": 64.62,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The opposite, a fixed mindset, is the belief that abilities are mostly fixed from birth.",
+   "start": 65.01,
+   "end": 70.77,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Praising effort, strategies and progress helps build resilience.",
+   "start": 71.29,
+   "end": 76.01,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Resilience is the ability to keep going and recover after difficulties.",
+   "start": 76.68,
+   "end": 81.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of, You're a natural, a parent might say, I saw you try three different ways.",
+   "start": 81.99,
+   "end": 88.07,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That was great thinking.",
+   "start": 88.58,
+   "end": 90.18,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course, praise should also be honest.",
+   "start": 90.7,
+   "end": 93.7,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Children can tell when words are empty.",
+   "start": 94.33,
+   "end": 96.89,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The goal is to notice the process, not just the result.",
+   "start": 97.32,
+   "end": 101.16,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 101.1,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:57"
+}

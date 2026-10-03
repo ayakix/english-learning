@@ -1,0 +1,114 @@
+{
+ "id": "av013",
+ "author": "claude",
+ "summary_ja": "787 や A350 で疲れにくいのは工学的な理由がある。古い機体の客室気圧は標高約2,400m 相当だが、新しい機体は約1,800m 相当で、血液に酸素が少し多く運ばれ、頭痛や疲労が減るとされる。複合材の胴体は高い気圧に耐えやすい。また、アルミ機は腐食を防ぐため湿度を低くするが、複合材は腐食に強いので湿度を少し上げられる。",
+ "listening": [
+  {
+   "q": "787 や A350 の客室気圧は標高何メートル相当？",
+   "options": [
+    "約1,800m",
+    "約2,400m",
+    "海抜0m",
+    "約500m"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"On the 787 and A350, it's closer to one thousand eight hundred meters\"。"
+  },
+  {
+   "q": "古い機体がこの気圧にしなかった理由は？",
+   "options": [
+    "燃料がかかるから",
+    "高い気圧は胴体に大きな負担をかけるから",
+    "法律で禁止されていたから",
+    "乗客が嫌がるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Because higher pressure puts more stress on the fuselage.\""
+  },
+  {
+   "q": "新しい機体で湿度を上げられる理由は？",
+   "options": [
+    "窓が大きいから",
+    "加湿器が安くなったから",
+    "複合材は腐食に強いから",
+    "乗客が少ないから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Composites have much better corrosion resistance, so the cabin can be a bit more humid.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "巡航高度では外の空気が薄すぎて呼吸できないので、客室は与圧されています。",
+   "points_ja": "air outside is がつながり、too thin to breathe の to は弱形です。"
+  },
+  {
+   "sentence": 10,
+   "ja": "客室の高度が低いほど、血液は少し多くの酸素を運びます。",
+   "points_ja": "blood carries a little more が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "新しい複合材の構造は、それをより楽に耐えられるほど強いのです。",
+   "points_ja": "strong enough to がつながり、handle it more が「ハンドリットモア」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "新しい機体の客室気圧と湿度の改善と、その理由",
+    "空港の空気",
+    "飛行機の座席の選び方",
+    "時差ぼけの治し方"
+   ],
+   "answer": 0,
+   "explanation_ja": "気圧と湿度の違いを、複合材の性質と関連づけて話しています。"
+  },
+  {
+   "q": "cabin pressurization が必要な理由は？",
+   "options": [
+    "音を静かにするため",
+    "巡航高度の外の空気は薄すぎて呼吸できないから",
+    "燃料を節約するため",
+    "暖かくするため"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the air outside is too thin to breathe, so the cabin is pressurized.\""
+  },
+  {
+   "q": "低い客室高度の効果として研究が示しているのは？",
+   "options": [
+    "食欲が増える",
+    "長いフライトでの頭痛や疲労が減る",
+    "耳が痛くなる",
+    "眠くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Studies suggest that people feel less headache and fatigue on long flights.\""
+  },
+  {
+   "q": "アルミ機で湿度を低く保つ理由は？",
+   "options": [
+    "湿気で腐食が起きるから",
+    "乗客が快適だから",
+    "電気が節約できるから",
+    "窓が曇るから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"In aluminum planes, moisture can cause corrosion, so humidity levels are kept very low.\""
+  },
+  {
+   "q": "最後に B が言っていることは？",
+   "options": [
+    "変化はない",
+    "湿度が高すぎる",
+    "家よりはまだ乾燥しているが、12時間のフライトでは明らかな改善",
+    "家と同じ湿度になった"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It's still drier than at home, but it's a noticeable improvement on a twelve-hour flight.\""
+  }
+ ]
+}

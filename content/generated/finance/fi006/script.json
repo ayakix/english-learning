@@ -1,0 +1,180 @@
+{
+ "id": "fi006",
+ "author": "claude",
+ "category": "finance",
+ "title": "Stocks and Bonds: What's the Difference?",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "stock",
+  "bond",
+  "return"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Two of the most common types of investments are stocks and bonds. They are very different, and understanding the difference is key to building a balanced portfolio."
+  },
+  {
+   "speaker": "A",
+   "text": "When you buy a stock, you buy a small piece of ownership in a company. If the company grows and earns more profit, the value of your share can rise. Some companies also pay part of their profit to shareholders as dividends. But if the company performs badly, the share price can fall sharply, and in the worst case, the company can go bankrupt."
+  },
+  {
+   "speaker": "A",
+   "text": "When you buy a bond, you are lending money, usually to a government or a company. In return, the borrower promises to pay you regular interest and return your money on a fixed date, called the maturity date. As long as the borrower does not fail to pay, you know what you will receive."
+  },
+  {
+   "speaker": "A",
+   "text": "So stocks usually offer higher potential return, but with more ups and downs. Bonds usually offer lower return, but more stability. Investors describe this as the trade-off between risk and return."
+  },
+  {
+   "speaker": "A",
+   "text": "Bonds are not completely safe, though. If interest rates rise, the prices of existing bonds usually fall, because new bonds pay more. And if the borrower runs into financial trouble, it might not pay."
+  },
+  {
+   "speaker": "A",
+   "text": "Many investors hold both. Young people with many years ahead often hold more stocks. People closer to retirement often increase their bonds to reduce the risk of a big loss at the wrong time."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Two of the most common types of investments are stocks and bonds.",
+   "start": 0.0,
+   "end": 4.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They are very different, and understanding the difference is key to building a balanced portfolio.",
+   "start": 4.55,
+   "end": 9.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When you buy a stock, you buy a small piece of ownership in a company.",
+   "start": 10.39,
+   "end": 14.71,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If the company grows and earns more profit, the value of your share can rise.",
+   "start": 15.14,
+   "end": 20.02,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Some companies also pay part of their profit to shareholders as dividends.",
+   "start": 20.49,
+   "end": 24.69,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "But if the company performs badly, the share price can fall sharply, and in the worst case, the company can go bankrupt.",
+   "start": 25.12,
+   "end": 32.88,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When you buy a bond, you are lending money, usually to a government or a company.",
+   "start": 33.4,
+   "end": 38.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In return, the borrower promises to pay you regular interest and return your money on a fixed date, called the maturity date.",
+   "start": 38.95,
+   "end": 46.39,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "As long as the borrower does not fail to pay, you know what you will receive.",
+   "start": 46.82,
+   "end": 50.98,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So stocks usually offer higher potential return, but with more ups and downs.",
+   "start": 51.5,
+   "end": 56.3,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Bonds usually offer lower return, but more stability.",
+   "start": 57.21,
+   "end": 60.33,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Investors describe this as the trade-off between risk and return.",
+   "start": 61.16,
+   "end": 65.0,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Bonds are not completely safe, though.",
+   "start": 65.6,
+   "end": 68.16,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If interest rates rise, the prices of existing bonds usually fall, because new bonds pay more.",
+   "start": 68.59,
+   "end": 74.75,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "And if the borrower runs into financial trouble, it might not pay.",
+   "start": 75.22,
+   "end": 78.86,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many investors hold both.",
+   "start": 79.38,
+   "end": 81.22,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Young people with many years ahead often hold more stocks.",
+   "start": 81.81,
+   "end": 85.21,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "People closer to retirement often increase their bonds to reduce the risk of a big loss at the wrong time.",
+   "start": 85.76,
+   "end": 91.68,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 244,
+ "duration": 91.6,
+ "wpm": 160,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-04 00:02"
+}

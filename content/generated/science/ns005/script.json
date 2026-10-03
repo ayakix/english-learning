@@ -1,0 +1,170 @@
+{
+ "id": "ns005",
+ "author": "claude",
+ "category": "science",
+ "title": "Tardigrades: Earth's Toughest Animals",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "tardigrade",
+  "dormant state",
+  "extreme conditions"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If there were a contest for the toughest animal on Earth, the winner might be very small. Tardigrades, also called water bears, are only about half a millimeter long. Under a microscope, they look like tiny, chubby bears with eight legs."
+  },
+  {
+   "speaker": "A",
+   "text": "Tardigrades live almost everywhere: in moss, in soil, in the deep sea and on mountains. But what makes them famous is their ability to survive extreme conditions."
+  },
+  {
+   "speaker": "A",
+   "text": "When their environment dries out, tardigrades can enter a dormant state. They pull in their legs, lose almost all the water in their bodies and curl into a small, dry ball called a tun. In this state, their metabolism almost stops."
+  },
+  {
+   "speaker": "A",
+   "text": "As a tun, tardigrades can survive conditions that would kill most living things. In experiments, they have survived extreme cold close to absolute zero, high heat for short periods, high levels of radiation and enormous pressure."
+  },
+  {
+   "speaker": "A",
+   "text": "In two thousand seven, scientists even sent tardigrades into space on a satellite and exposed them to the vacuum of space. Some of them survived and later had healthy babies."
+  },
+  {
+   "speaker": "A",
+   "text": "When water returns, the tardigrade slowly rehydrates and starts moving again, sometimes after many years."
+  },
+  {
+   "speaker": "A",
+   "text": "However, they are not truly indestructible. Active tardigrades are much more fragile. Scientists study them because their survival tricks may help protect medicines, or even human cells, in the future."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If there were a contest for the toughest animal on Earth, the winner might be very small.",
+   "start": 0.0,
+   "end": 6.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Tardigrades, also called water bears, are only about half a millimeter long.",
+   "start": 7.15,
+   "end": 13.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Under a microscope, they look like tiny, chubby bears with eight legs.",
+   "start": 13.74,
+   "end": 18.62,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Tardigrades live almost everywhere: in moss, in soil, in the deep sea and on mountains.",
+   "start": 19.14,
+   "end": 26.5,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "But what makes them famous is their ability to survive extreme conditions.",
+   "start": 27.17,
+   "end": 32.21,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When their environment dries out, tardigrades can enter a dormant state.",
+   "start": 32.73,
+   "end": 37.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They pull in their legs, lose almost all the water in their bodies and curl into a small, dry ball called a tun.",
+   "start": 38.4,
+   "end": 47.08,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In this state, their metabolism almost stops.",
+   "start": 47.51,
+   "end": 50.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "As a tun, tardigrades can survive conditions that would kill most living things.",
+   "start": 51.47,
+   "end": 57.15,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In experiments, they have survived extreme cold close to absolute zero, high heat for short periods, high levels of radiation and enormous pressure.",
+   "start": 57.54,
+   "end": 68.7,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In two thousand seven, scientists even sent tardigrades into space on a satellite and exposed them to the vacuum of space.",
+   "start": 69.22,
+   "end": 77.94,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some of them survived and later had healthy babies.",
+   "start": 79.01,
+   "end": 82.85,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When water returns, the tardigrade slowly rehydrates and starts moving again, sometimes after many years.",
+   "start": 83.37,
+   "end": 91.85,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "However, they are not truly indestructible.",
+   "start": 92.37,
+   "end": 95.25,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Active tardigrades are much more fragile.",
+   "start": 96.16,
+   "end": 99.36,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists study them because their survival tricks may help protect medicines, or even human cells, in the future.",
+   "start": 100.07,
+   "end": 107.39,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 220,
+ "duration": 107.3,
+ "wpm": 123,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-04 00:00"
+}

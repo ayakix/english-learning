@@ -1,0 +1,114 @@
+{
+ "id": "wt015",
+ "author": "claude",
+ "summary_ja": "高級な機械では、ルビーの軸受けを金の輪（シャトン）に入れ、青いネジで留めることがある。昔は石の取り付けや交換が難しく、シャトンにすると交換しやすかった。今は機械で直接圧入できるので不要だが、伝統と美しさのためにグラスヒュッテなどで使われ続けている。",
+ "listening": [
+  {
+   "q": "ゴールドシャトンとは？",
+   "options": [
+    "金の文字盤",
+    "金の針",
+    "金のベルト",
+    "軸受けの石を入れる金の輪"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Each one sits inside a small gold ring ... These gold rings are called chatons.\""
+  },
+  {
+   "q": "昔シャトンが使われた理由は？",
+   "options": [
+    "防水のため",
+    "安かったから",
+    "軽かったから",
+    "石の取り付け・調整・交換がしやすかったから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Setting a jewel in a separate gold chaton made it easier to install, adjust and replace.\""
+  },
+  {
+   "q": "今もシャトンが使われる理由は？",
+   "options": [
+    "法律で必要だから",
+    "精度が大きく上がるから",
+    "機械では作れないから",
+    "伝統と美しさのため"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The answer is tradition and beauty.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "時計の歯車はとても細い軸の上で回ります。",
+   "points_ja": "turn on がつながり「ターノン」になります。"
+  },
+  {
+   "sentence": 8,
+   "ja": "昔、これらの石は作るのも取り付けるのも難しいものでした。",
+   "points_ja": "difficult to の to は弱く、make and が「メイクン」と短くなります。"
+  },
+  {
+   "sentence": 13,
+   "ja": "今日のほとんどの時計はそれらを使っていません。",
+   "points_ja": "Most watches の t は飲み込まれ、use them の them は「ゼム」と弱くなります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ゴールドシャトンは実用上は不要になったが、伝統と美しさのために使われている",
+    "シャトンは最新技術である",
+    "ルビーは時計に向かない",
+    "ネジは青いほど強い"
+   ],
+   "answer": 0,
+   "explanation_ja": "歴史的な役割と、今も使われる理由を説明しています。"
+  },
+  {
+   "q": "jewel bearings に硬い石を使う理由は？",
+   "options": [
+    "音を消すため",
+    "摩擦を減らし、時計を何十年も長持ちさせるため",
+    "時計を重くするため",
+    "見た目を派手にするため"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"They reduce friction and help the watch last for decades.\""
+  },
+  {
+   "q": "今日の時計の石として一般的なものは？",
+   "options": [
+    "人工ルビー",
+    "ガラス",
+    "天然のダイヤモンド",
+    "プラスチック"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"today usually synthetic rubies\"。"
+  },
+  {
+   "q": "石が割れたとき、シャトンならどうする？",
+   "options": [
+    "そのまま使う",
+    "ネジを外してシャトンごと交換する",
+    "接着剤で直す",
+    "時計全体を捨てる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the watchmaker could simply take out the screws and change the whole chaton.\""
+  },
+  {
+   "q": "色の組み合わせとして書かれているのは？",
+   "options": [
+    "白・青・金",
+    "温かみのある金・深い赤の石・青焼きのネジ",
+    "銀・緑・黒",
+    "黒・赤・銀"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The warm gold, the deep red stone and the blued steel screws\"。"
+  }
+ ]
+}

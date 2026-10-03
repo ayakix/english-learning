@@ -8,9 +8,10 @@ class ApiError(Exception):
         self.status = status
 
 
-def request(method: str, url: str, *, headers=None, json=None, params=None, timeout: float = 90) -> httpx.Response:
+def request(method: str, url: str, *, headers=None, json=None, params=None, data=None, files=None,
+            timeout: float = 90) -> httpx.Response:
     try:
-        r = httpx.request(method, url, headers=headers, json=json, params=params,
+        r = httpx.request(method, url, headers=headers, json=json, params=params, data=data, files=files,
                           timeout=timeout, follow_redirects=True)
     except httpx.HTTPError as e:
         raise ApiError("接続エラー (%s): %s" % (url, e), 502)

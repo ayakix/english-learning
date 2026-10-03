@@ -1,0 +1,114 @@
+{
+ "id": "av021",
+ "author": "claude",
+ "summary_ja": "昔は東京からロンドンへの長距離便は747など4発機が多かったが、今は787、777、A350などの双発機が中心。理由はエンジンの信頼性（1基でも近くの空港まで安全に飛べ、厳しい安全基準を満たせば洋上の長距離も可）、エンジンの高出力化、燃料消費の少なさ、整備費の安さ。多くの航空会社が747やA380を退役させた。",
+ "listening": [
+  {
+   "q": "長距離便の主流はどう変わった？",
+   "options": [
+    "プロペラ機へ",
+    "変わっていない",
+    "4発機から双発機へ",
+    "双発機から4発機へ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Today, you are much more likely to fly on a twin-engine aircraft\"。"
+  },
+  {
+   "q": "双発機が長距離を飛べるようになった一番の要因は？",
+   "options": [
+    "燃料の値下がり",
+    "空港の増加",
+    "乗客の減少",
+    "エンジンの信頼性"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The biggest factor is engine reliability.\""
+  },
+  {
+   "q": "多くの航空会社が退役させた機体は？",
+   "options": [
+    "787 と A350",
+    "747 と A380",
+    "777 と A320",
+    "すべての双発機"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"many airlines have retired their quad-jets ... such as the 747 and the Airbus A380.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 5,
+   "ja": "故障したときでも、双発機は1基のエンジンで近くの空港まで安全に飛び続けられます。",
+   "points_ja": "When they do の do が強めに、continue flying on one engine が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "最新のエンジン1基で、古いエンジン2基の代わりになるだけの推力を出せます。",
+   "points_ja": "produce enough がつながり、replace two older の two は「トゥ」と短くなります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "エンジン2基のほうが、4基より単純に整備費が安くすみます。",
+   "points_ja": "cost less to maintain が続き、than four の than は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "4発機のほうが安全",
+    "信頼性、出力、燃費、整備費の理由で、長距離便は双発機が主流になった",
+    "飛行機のエンジンは増え続けている",
+    "747 は今も主流"
+   ],
+   "answer": 1,
+   "explanation_ja": "変化の理由を4つ挙げて説明しています。"
+  },
+  {
+   "q": "4発機の燃料面での不利は？",
+   "options": [
+    "特別な燃料が必要",
+    "燃料タンクが小さい",
+    "燃料を入れにくい",
+    "小さなエンジン4基は、大きく効率的な2基より燃料を多く使い、重さと抵抗も増える"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Four smaller engines usually burn more fuel than two large, efficient engines. They also add weight and drag.\""
+  },
+  {
+   "q": "quad-jets の意味は？",
+   "options": [
+    "4人乗りのジェット機",
+    "4つのエンジンを持つ航空機",
+    "4か国で作るジェット機",
+    "4時間飛ぶジェット機"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"quad-jets, meaning aircraft with four engines\"。"
+  },
+  {
+   "q": "双発機が洋上の長距離を飛ぶ条件は？",
+   "options": [
+    "夜だけ飛ぶこと",
+    "必ず4人のパイロットが乗ること",
+    "燃料を2倍積むこと",
+    "厳しい安全基準を満たすこと"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Special rules ... allow twin-engine planes to fly long routes far from land, as long as they meet strict safety standards.\""
+  },
+  {
+   "q": "747 や A380 について本文で言っていることは？",
+   "options": [
+    "危険な飛行機だった",
+    "乗客や航空ファンにはまだ愛されている",
+    "誰も乗らなかった",
+    "今も最新の機体"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"These giant planes are still loved by passengers and aviation fans.\""
+  }
+ ]
+}

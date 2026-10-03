@@ -1,0 +1,180 @@
+{
+ "id": "pa015",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Outdoor Time and Children's Eyesight",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "nearsightedness",
+  "daylight",
+  "outdoor play"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Nearsightedness, or myopia, means that you can see things clearly up close, but distant objects look blurry. In many parts of the world, especially East Asia, the number of children with nearsightedness has increased dramatically over the past few decades."
+  },
+  {
+   "speaker": "A",
+   "text": "For a long time, people believed the main cause was reading too much or looking at screens too closely. Close work may play a role. But research has found another important factor: time spent outdoors."
+  },
+  {
+   "speaker": "A",
+   "text": "Several large studies have shown that children who spend more time outside are less likely to develop nearsightedness. Some school programs that added extra outdoor time found fewer new cases among students. Many experts now recommend that children spend around two hours a day outdoors."
+  },
+  {
+   "speaker": "A",
+   "text": "Why would being outside help? Scientists believe the key is daylight. Even on a cloudy day, outdoor light is much brighter than indoor light. One theory is that bright light increases the release of a chemical called dopamine in the eye, which may slow the growth of the eyeball. When the eyeball grows too long, nearsightedness develops."
+  },
+  {
+   "speaker": "A",
+   "text": "Interestingly, the activity itself does not seem to matter much. It is not necessary to play sports. Simply being outside, walking, playing or even reading on a bench seems to help."
+  },
+  {
+   "speaker": "A",
+   "text": "This gives parents a simple, healthy goal: more outdoor play. It is good for the eyes, and also for the body, sleep and mood."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Nearsightedness, or myopia, means that you can see things clearly up close, but distant objects look blurry.",
+   "start": 0.0,
+   "end": 8.32,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In many parts of the world, especially East Asia, the number of children with nearsightedness has increased dramatically over the past few decades.",
+   "start": 8.83,
+   "end": 17.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For a long time, people believed the main cause was reading too much or looking at screens too closely.",
+   "start": 18.31,
+   "end": 25.07,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Close work may play a role.",
+   "start": 25.7,
+   "end": 27.7,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "But research has found another important factor: time spent outdoors.",
+   "start": 28.37,
+   "end": 33.57,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Several large studies have shown that children who spend more time outside are less likely to develop nearsightedness.",
+   "start": 34.09,
+   "end": 41.57,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some school programs that added extra outdoor time found fewer new cases among students.",
+   "start": 42.28,
+   "end": 48.24,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many experts now recommend that children spend around two hours a day outdoors.",
+   "start": 48.95,
+   "end": 54.47,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why would being outside help?",
+   "start": 54.99,
+   "end": 57.15,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists believe the key is daylight.",
+   "start": 57.82,
+   "end": 60.74,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Even on a cloudy day, outdoor light is much brighter than indoor light.",
+   "start": 61.37,
+   "end": 66.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "One theory is that bright light increases the release of a chemical called dopamine in the eye, which may slow the growth of the eyeball.",
+   "start": 67.0,
+   "end": 75.56,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When the eyeball grows too long, nearsightedness develops.",
+   "start": 75.99,
+   "end": 79.83,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Interestingly, the activity itself does not seem to matter much.",
+   "start": 80.35,
+   "end": 84.59,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is not necessary to play sports.",
+   "start": 85.18,
+   "end": 87.26,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Simply being outside, walking, playing or even reading on a bench seems to help.",
+   "start": 88.09,
+   "end": 93.61,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This gives parents a simple, healthy goal: more outdoor play.",
+   "start": 94.13,
+   "end": 98.89,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It is good for the eyes, and also for the body, sleep and mood.",
+   "start": 99.52,
+   "end": 103.92,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 103.9,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-03 23:58"
+}

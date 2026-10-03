@@ -1,0 +1,201 @@
+{
+ "id": "av023",
+ "author": "claude",
+ "category": "aviation",
+ "title": "De-icing Operations Before Takeoff in Winter",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "de-icing fluid",
+  "anti-icing",
+  "holdover time"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "On a cold winter morning, you may see trucks spraying colored liquid onto your airplane before takeoff. This is not cleaning. It is a critical safety step called de-icing."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is ice so dangerous? Wings are carefully shaped to make air flow smoothly over them. Even a thin layer of frost or ice can make the surface rough. This disturbs the airflow, reduces lift and increases drag. In serious cases, a plane may not be able to climb properly after takeoff."
+  },
+  {
+   "speaker": "A",
+   "text": "The process usually has two steps. The first is de-icing. Workers spray hot de-icing fluid, often orange in color, to melt and remove snow and ice. It is a mixture of water and a type of glycol, similar to car antifreeze."
+  },
+  {
+   "speaker": "A",
+   "text": "The second step is anti-icing. If snow is still falling, a thicker fluid, often green, is applied. It sticks to the wings and prevents new ice from forming for a limited time. When the plane speeds up on the runway, the fluid flows off the wings."
+  },
+  {
+   "speaker": "A",
+   "text": "That limited time is called the holdover time. It depends on the type of fluid, the temperature and the type of snow or rain. If the plane waits too long and the holdover time runs out, it must return for another treatment."
+  },
+  {
+   "speaker": "A",
+   "text": "This is why winter delays happen. It may be frustrating, but it is one of the most important steps in keeping winter flights safe."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "On a cold winter morning, you may see trucks spraying colored liquid onto your airplane before takeoff.",
+   "start": 0.0,
+   "end": 7.12,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This is not cleaning.",
+   "start": 7.67,
+   "end": 9.55,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a critical safety step called de-icing.",
+   "start": 9.98,
+   "end": 13.5,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is ice so dangerous?",
+   "start": 14.1,
+   "end": 16.18,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Wings are carefully shaped to make air flow smoothly over them.",
+   "start": 16.61,
+   "end": 22.33,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Even a thin layer of frost or ice can make the surface rough.",
+   "start": 22.8,
+   "end": 27.48,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This disturbs the airflow, reduces lift and increases drag.",
+   "start": 27.95,
+   "end": 33.11,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In serious cases, a plane may not be able to climb properly after takeoff.",
+   "start": 33.58,
+   "end": 38.54,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The process usually has two steps.",
+   "start": 39.06,
+   "end": 41.94,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The first is de-icing.",
+   "start": 42.37,
+   "end": 44.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Workers spray hot de-icing fluid, often orange in color, to melt and remove snow and ice.",
+   "start": 45.2,
+   "end": 52.48,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a mixture of water and a type of glycol, similar to car antifreeze.",
+   "start": 52.87,
+   "end": 57.87,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The second step is anti-icing.",
+   "start": 58.39,
+   "end": 60.79,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If snow is still falling, a thicker fluid, often green, is applied.",
+   "start": 61.78,
+   "end": 66.82,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It sticks to the wings and prevents new ice from forming for a limited time.",
+   "start": 67.49,
+   "end": 72.29,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When the plane speeds up on the runway, the fluid flows off the wings.",
+   "start": 72.96,
+   "end": 77.36,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That limited time is called the holdover time.",
+   "start": 77.96,
+   "end": 81.0,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It depends on the type of fluid, the temperature and the type of snow or rain.",
+   "start": 81.91,
+   "end": 87.03,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If the plane waits too long and the holdover time runs out, it must return for another treatment.",
+   "start": 87.7,
+   "end": 94.34,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This is why winter delays happen.",
+   "start": 94.86,
+   "end": 97.3,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It may be frustrating, but it is one of the most important steps in keeping winter flights safe.",
+   "start": 97.93,
+   "end": 104.65,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 234,
+ "duration": 104.6,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:52"
+}

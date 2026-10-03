@@ -1,0 +1,114 @@
+{
+ "id": "wn024",
+ "author": "claude",
+ "summary_ja": "発酵には酵母が必要で、2つの選択肢がある。皮や畑、ワイナリーに自然にいる「野生酵母」と、研究室で選抜・培養された「培養酵母」。野生酵母は多くの種が順に働き複雑な風味や土地の個性が出るとされるが、発酵が止まる（スタック）など予測しにくい。培養酵母は信頼性が高く、香りや高アルコールへの耐性で選べる。",
+ "listening": [
+  {
+   "q": "ambient yeast とは？",
+   "options": [
+    "死んだ酵母",
+    "皮や畑、ワイナリーに自然にいる酵母",
+    "パン用の酵母",
+    "研究室で作った酵母"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"These yeasts live naturally on grape skins, in the vineyard and in the winery.\""
+  },
+  {
+   "q": "野生酵母の欠点は？",
+   "options": [
+    "香りがない",
+    "違法である",
+    "予測しにくく、発酵が途中で止まることがある",
+    "とても高価"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"it is less predictable. Fermentation may start slowly, or even stop before all the sugar is gone.\""
+  },
+  {
+   "q": "大きなワイナリーが培養酵母を好む理由は？",
+   "options": [
+    "香りが強いから",
+    "安いから",
+    "伝統だから",
+    "安全性（予測しやすさ）のため"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"many large wineries prefer cultured yeast for safety.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "すべてのワインの発酵には酵母が必要です。酵母は糖をアルコールに変える小さな生き物です。",
+   "points_ja": "needs yeast がつながり、turn sugar into alcohol が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "醸造家はそれを果汁に加えて、管理された方法で発酵を始めます。",
+   "points_ja": "adds them to the が続き、in a controlled が「イナコントロールド」とつながります。"
+  },
+  {
+   "sentence": 11,
+   "ja": "これがより複雑な風味を生み、土地の個性を表すと信じる人もいます。",
+   "points_ja": "creates more の s が重なり、character of the が「キャラクタラヴザ」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "野生酵母は常に失敗する",
+    "酵母はワインに不要",
+    "培養酵母は使ってはいけない",
+    "野生酵母と培養酵母にはそれぞれ利点があり、選択が味を形づくる"
+   ],
+   "answer": 3,
+   "explanation_ja": "2つの選択肢の利点と欠点を説明しています。"
+  },
+  {
+   "q": "inoculated yeast の別名は？",
+   "options": [
+    "wild yeast",
+    "cultured yeast",
+    "native yeast",
+    "dead yeast"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"inoculated yeast, also called cultured yeast.\""
+  },
+  {
+   "q": "stuck fermentation の意味は？",
+   "options": [
+    "糖が残ったまま発酵が止まること",
+    "ワインが凍ること",
+    "発酵が早すぎること",
+    "酵母が増えすぎること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Fermentation may start slowly, or even stop before all the sugar is gone. This is called a stuck fermentation.\""
+  },
+  {
+   "q": "fermentation kinetics の説明は？",
+   "options": [
+    "発酵の温度",
+    "発酵の費用",
+    "発酵の速さとパターン",
+    "発酵の場所"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Its fermentation kinetics, meaning the speed and pattern of fermentation\"。"
+  },
+  {
+   "q": "培養酵母を選ぶときに選べることとして書かれているのは？",
+   "options": [
+    "色を変える",
+    "ワインを甘くする",
+    "泡を出す",
+    "特定の香りを引き立てる、高いアルコールに耐える"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"strains that enhance certain aromas or handle high alcohol well.\""
+  }
+ ]
+}

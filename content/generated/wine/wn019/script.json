@@ -1,0 +1,194 @@
+{
+ "id": "wn019",
+ "author": "claude",
+ "category": "wine",
+ "title": "Detecting Cork Taint (TCA) in Tasting",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "trichloroanisole",
+  "corked wine",
+  "masking fruit"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Sometimes you open a bottle and something is wrong. Instead of fruit, the wine smells like wet cardboard, a damp basement or an old newspaper. The fruit seems to have disappeared. This wine is probably corked."
+  },
+  {
+   "speaker": "A",
+   "text": "Corked wine is caused by a chemical compound called trichloroanisole, usually shortened to TCA. It can form when certain molds come into contact with chlorine-based chemicals, for example in cork bark, wooden structures or cleaning products. The cork stopper is the most common source, which is where the name comes from."
+  },
+  {
+   "speaker": "A",
+   "text": "TCA is incredibly powerful. Humans can detect it at extremely low levels, around a few parts per trillion. That is like a few drops in an Olympic swimming pool."
+  },
+  {
+   "speaker": "A",
+   "text": "At strong levels, the musty smell is obvious. But at low levels, TCA can be harder to spot. It may simply cause masking of fruit. The wine is not clearly faulty, but it seems flat, dull and less aromatic than expected. Many people then think the wine is just poor quality."
+  },
+  {
+   "speaker": "A",
+   "text": "The good news is that TCA is not harmful to your health. It simply ruins the experience."
+  },
+  {
+   "speaker": "A",
+   "text": "If you suspect a corked wine in a restaurant, it is completely acceptable to ask the staff to smell it. A good sommelier will replace it. Today, cork producers use better cleaning and testing, and the problem has become less common than before."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Sometimes you open a bottle and something is wrong.",
+   "start": 0.0,
+   "end": 3.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of fruit, the wine smells like wet cardboard, a damp basement or an old newspaper.",
+   "start": 4.11,
+   "end": 10.23,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The fruit seems to have disappeared.",
+   "start": 10.86,
+   "end": 12.9,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This wine is probably corked.",
+   "start": 13.53,
+   "end": 15.69,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Corked wine is caused by a chemical compound called trichloroanisole, usually shortened to TCA.",
+   "start": 16.29,
+   "end": 23.49,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It can form when certain molds come into contact with chlorine-based chemicals, for example in cork bark, wooden structures or cleaning products.",
+   "start": 24.16,
+   "end": 33.44,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The cork stopper is the most common source, which is where the name comes from.",
+   "start": 34.11,
+   "end": 38.43,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "TCA is incredibly powerful.",
+   "start": 38.95,
+   "end": 41.59,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Humans can detect it at extremely low levels, around a few parts per trillion.",
+   "start": 42.18,
+   "end": 47.3,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That is like a few drops in an Olympic swimming pool.",
+   "start": 47.89,
+   "end": 51.25,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "At strong levels, the musty smell is obvious.",
+   "start": 51.77,
+   "end": 55.13,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "But at low levels, TCA can be harder to spot.",
+   "start": 55.72,
+   "end": 59.16,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It may simply cause masking of fruit.",
+   "start": 59.75,
+   "end": 62.47,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The wine is not clearly faulty, but it seems flat, dull and less aromatic than expected.",
+   "start": 62.9,
+   "end": 69.38,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many people then think the wine is just poor quality.",
+   "start": 69.81,
+   "end": 73.01,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The good news is that TCA is not harmful to your health.",
+   "start": 73.53,
+   "end": 77.45,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It simply ruins the experience.",
+   "start": 77.88,
+   "end": 80.04,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If you suspect a corked wine in a restaurant, it is completely acceptable to ask the staff to smell it.",
+   "start": 80.56,
+   "end": 87.12,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "A good sommelier will replace it.",
+   "start": 87.55,
+   "end": 89.95,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, cork producers use better cleaning and testing, and the problem has become less common than before.",
+   "start": 90.5,
+   "end": 96.62,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 227,
+ "duration": 96.5,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:48"
+}

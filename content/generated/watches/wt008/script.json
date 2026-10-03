@@ -1,0 +1,229 @@
+{
+ "id": "wt008",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Tourbillon: Art vs Function",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "tourbillon",
+  "carriage",
+  "positional error"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "The tourbillon is probably the most famous complication in watchmaking. But what does it actually do?"
+  },
+  {
+   "speaker": "B",
+   "text": "It was invented by Abraham-Louis Breguet, and he patented it in eighteen oh one. Back then, people carried pocket watches, usually standing up in a vest pocket."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is that important?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because gravity pulls on the balance wheel and its spring. When a watch stays in one position for hours, gravity can make it run a little fast or slow. Watchmakers call this positional error."
+  },
+  {
+   "speaker": "A",
+   "text": "And the tourbillon fixes it?"
+  },
+  {
+   "speaker": "B",
+   "text": "It tries to. The balance and escapement are put inside a small rotating cage called a carriage. Usually it turns once a minute. So the errors in different positions cancel each other out, more or less."
+  },
+  {
+   "speaker": "A",
+   "text": "But today we wear watches on our wrists, and our wrists move all the time."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the big debate. Many experts say a wristwatch changes position so often that the tourbillon isn't really necessary. A well-made watch without one can be just as accurate."
+  },
+  {
+   "speaker": "A",
+   "text": "So why are they so popular?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because it's beautiful to watch. You see that tiny cage spinning through a window in the dial. It shows great skill. For most buyers today, the tourbillon is more art than function, and that's perfectly fine."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "The tourbillon is probably the most famous complication in watchmaking.",
+   "start": 0.0,
+   "end": 4.4,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But what does it actually do?",
+   "start": 4.91,
+   "end": 6.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It was invented by Abraham-Louis Breguet, and he patented it in eighteen oh one.",
+   "start": 7.31,
+   "end": 13.07,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Back then, people carried pocket watches, usually standing up in a vest pocket.",
+   "start": 13.5,
+   "end": 18.78,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Why is that important?",
+   "start": 19.5,
+   "end": 21.02,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Because gravity pulls on the balance wheel and its spring.",
+   "start": 21.74,
+   "end": 25.02,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "When a watch stays in one position for hours, gravity can make it run a little fast or slow.",
+   "start": 25.93,
+   "end": 32.17,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Watchmakers call this positional error.",
+   "start": 32.84,
+   "end": 35.56,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And the tourbillon fixes it?",
+   "start": 36.28,
+   "end": 38.28,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It tries to.",
+   "start": 39.0,
+   "end": 40.04,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "The balance and escapement are put inside a small rotating cage called a carriage.",
+   "start": 40.47,
+   "end": 45.99,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Usually it turns once a minute.",
+   "start": 46.98,
+   "end": 48.98,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So the errors in different positions cancel each other out, more or less.",
+   "start": 49.89,
+   "end": 54.29,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But today we wear watches on our wrists, and our wrists move all the time.",
+   "start": 55.01,
+   "end": 59.81,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "That's the big debate.",
+   "start": 60.53,
+   "end": 62.17,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Many experts say a wristwatch changes position so often that the tourbillon isn't really necessary.",
+   "start": 62.8,
+   "end": 69.28,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "A well-made watch without one can be just as accurate.",
+   "start": 70.19,
+   "end": 73.55,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So why are they so popular?",
+   "start": 74.27,
+   "end": 76.35,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Because it's beautiful to watch.",
+   "start": 77.07,
+   "end": 79.43,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "You see that tiny cage spinning through a window in the dial.",
+   "start": 80.06,
+   "end": 83.9,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It shows great skill.",
+   "start": 84.33,
+   "end": 86.33,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "For most buyers today, the tourbillon is more art than function, and that's perfectly fine.",
+   "start": 86.76,
+   "end": 92.76,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 208,
+ "duration": 92.7,
+ "wpm": 135,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:43"
+}

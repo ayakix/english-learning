@@ -1,0 +1,114 @@
+{
+ "id": "tc021",
+ "author": "claude",
+ "summary_ja": "自作ガジェットの入門には ESP32 が人気。Wi-Fi と Bluetooth を内蔵した安価なマイコンで、開発ボードは数ドル。Bluetooth Low Energy（BLE）は省電力で、温度などの少量データをスマホへ送るのに向く。BLE では周辺機器（ペリフェラル）が存在を知らせ、スマホ（セントラル）が接続する。データはサービスとキャラクタリスティックで整理される。最初は温度センサーの値をアプリに表示するのが定番。",
+ "listening": [
+  {
+   "q": "ESP32 とは？",
+   "options": [
+    "スマホのアプリ",
+    "Wi-Fi と Bluetooth を内蔵した安価なマイコン",
+    "高価なパソコン",
+    "電池の種類"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It is a small, inexpensive microcontroller ... that includes both Wi-Fi and Bluetooth.\""
+  },
+  {
+   "q": "典型的なプロジェクトで ESP32 と iPhone の役割は？",
+   "options": [
+    "役割はない",
+    "どちらもセントラル",
+    "ESP32 がセントラル、iPhone がペリフェラル",
+    "ESP32 がペリフェラル、iPhone がセントラル"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In a typical project, the ESP32 is the peripheral and your iPhone app is the central.\""
+  },
+  {
+   "q": "最初の定番プロジェクトとして話されているのは？",
+   "options": [
+    "温度センサーの値をアプリに表示する",
+    "ゲームを作る",
+    "ロボットを作る",
+    "ドローンを飛ばす"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"connect a temperature sensor to an ESP32 and show the value in your app.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "名前のとおり、BLE はとても少ない電力で使えるように設計されています。",
+   "points_ja": "As the name suggests が続き、designed to use の to は弱形です。"
+  },
+  {
+   "sentence": 7,
+   "ja": "ペリフェラルモードの機器は、自分の存在を知らせます。",
+   "points_ja": "device in peripheral がつながり、advertises its presence が続けて聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "小さく聞こえますが、ハードウェア、無線通信、アプリ開発の基本を一度に教えてくれます。",
+   "points_ja": "teaches you the basics of が続き、all at once が「オーラットワンス」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "電子工作の危険",
+    "ESP32 と BLE の基本と、最初のプロジェクトの勧め",
+    "スマホの選び方",
+    "Wi-Fi の仕組み"
+   ],
+   "answer": 1,
+   "explanation_ja": "ESP32、BLE、役割、データの構造、入門プロジェクトを説明しています。"
+  },
+  {
+   "q": "microcontroller の説明として本文にあるのは？",
+   "options": [
+    "大きなサーバー",
+    "プリンター",
+    "1つのチップに載った小さなコンピューター",
+    "スマホの画面"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"a microcontroller, a tiny computer on a single chip\"。"
+  },
+  {
+   "q": "BLE が向いている用途は？",
+   "options": [
+    "動画を送ること",
+    "電話をかけること",
+    "大きなファイルを保存すること",
+    "温度やボタンなど少量のデータをスマホに送ること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It is perfect for sending small amounts of data, such as temperature readings or button presses\"。"
+  },
+  {
+   "q": "service と characteristic の関係は？",
+   "options": [
+    "関係ない",
+    "サービスは関連データのまとまり、キャラクタリスティックはその中の1つの値",
+    "同じもの",
+    "サービスは値段、キャラクタリスティックは名前"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A service is a group of related data ... A characteristic is a single value inside it\"。"
+  },
+  {
+   "q": "スマホがキャラクタリスティックに対してできることとして書かれていないものは？",
+   "options": [
+    "削除して作り直す",
+    "読む",
+    "書き込む",
+    "変化を通知してもらう"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"read a characteristic, write to it or ask to be notified when it changes.\""
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wn038",
+ "author": "claude",
+ "summary_ja": "「ヴィエイユ・ヴィーニュ（古木）」はフランスでは法的な定義がなく、生産者の誠実さ次第。それでも古木は収量が減り、房も実も小さくなるため、皮の割合が増えて凝縮したワインになりやすい。根は深く、主根が数メートル伸びて干ばつや大雨の影響を受けにくい。収量が少なく弱ることもあるので、古木を守るのは品質と伝統への投資。",
+ "listening": [
+  {
+   "q": "Vieilles Vignes の意味は？",
+   "options": [
+    "新しい畑",
+    "高い山",
+    "白ワイン",
+    "古木（古いブドウの木）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In English, this means old vines.\""
+  },
+  {
+   "q": "古木の実が凝縮した味になりやすい理由は？",
+   "options": [
+    "実が大きいから",
+    "実が小さく、果汁に対して皮の割合が多いから",
+    "水を多く吸うから",
+    "甘い品種だから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Smaller berries have more skin compared to juice.\""
+  },
+  {
+   "q": "すべてのワイナリーが古木を残さない理由は？",
+   "options": [
+    "古木は違法だから",
+    "味が悪いから",
+    "見た目が悪いから",
+    "収量が少なく売るワインが減り、弱ることもあるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Because lower yields mean less wine to sell. Old vines can also be more fragile\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "多くのワイン好きは、この言葉をより深く凝縮したワインの約束と見なします。",
+   "points_ja": "see these words as a が続き、promise of a deeper が「プロミサヴァディーパー」とつながります。"
+  },
+  {
+   "sentence": 5,
+   "ja": "ある生産者は30年で古木と呼び、別の生産者は60年以上でなければ呼びません。",
+   "points_ja": "call vines old at がつながり、sixty or more の or は弱形です。"
+  },
+  {
+   "sentence": 16,
+   "ja": "これは、天候が極端なときにも古木がバランスを保つ助けになります。",
+   "points_ja": "helps old がつながり、weather is extreme が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "若い木のほうが常に良い",
+    "古木には法的な定義はないが、収量や根の深さによる品質上の利点がある",
+    "古木はすべて同じ年齢",
+    "古木はワインに使えない"
+   ],
+   "answer": 1,
+   "explanation_ja": "定義がないこと、利点、残すことの難しさを説明しています。"
+  },
+  {
+   "q": "古木の言葉について注意すべき点は？",
+   "options": [
+    "法的な定義がないので、生産者の誠実さによる",
+    "白ワインだけに使う",
+    "政府が検査している",
+    "必ず100年以上の木"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"there is no legal definition in France ... So the term depends on the producer's honesty.\""
+  },
+  {
+   "q": "taproot とは？",
+   "options": [
+    "ブドウの茎",
+    "地中深くに伸びる強い主根",
+    "畑の水道",
+    "葉の一部"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a strong main root, called a taproot, that can grow several meters into the ground.\""
+  },
+  {
+   "q": "深い根の利点は？",
+   "options": [
+    "乾いた年に水に届き、地表の大雨の影響も受けにくい",
+    "実が大きくなる",
+    "病気にならない",
+    "早く熟す"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Deep roots can reach water in dry years and are less affected by heavy rain near the surface.\""
+  },
+  {
+   "q": "berry concentration の説明として正しいものは？",
+   "options": [
+    "実が大きいこと",
+    "実が甘いこと",
+    "小さな実で皮の割合が多く、色・タンニン・風味が凝縮していること",
+    "実の数が多いこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "皮に色やタンニン、風味が多いため、小さな実ほど凝縮した味になると説明されています。"
+  }
+ ]
+}

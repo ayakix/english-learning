@@ -1,0 +1,114 @@
+{
+ "id": "tc014",
+ "author": "claude",
+ "summary_ja": "課金方法はサブスクか買い切りか。サブスクは毎月の安定収入で、サーバー費や継続的な追加がある場合に良いが、音楽や動画などで「サブスク疲れ」があり、単純な道具には嫌がられる。買い切りは尊重されていると感じられるが、新規購入がないと収入が止まる。比較には顧客生涯価値（LTV）が役立つ。月額・年額・買い切りを並べ、選び方から学ぶ開発者も多い。",
+ "listening": [
+  {
+   "q": "サブスクに向いているアプリは？",
+   "options": [
+    "ゲームだけ",
+    "サーバー費などの継続費用があったり、新しいコンテンツを追加し続けたりするアプリ",
+    "一度作れば終わりのアプリ",
+    "無料のアプリ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That's great if your app has ongoing costs, like servers, or if you keep adding new content.\""
+  },
+  {
+   "q": "subscription fatigue とは？",
+   "options": [
+    "サブスクのアプリが重いこと",
+    "すでに多くの月額料金を払っていて、新しいサブスクに慎重になること",
+    "開発者が疲れること",
+    "サブスクを解約する手続きが大変なこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"They already pay for music, video and cloud storage, so they're careful about adding another monthly fee\"。"
+  },
+  {
+   "q": "多くの開発者がとっている方法は？",
+   "options": [
+    "月額、年額、買い切りの3つを用意する",
+    "広告だけにする",
+    "毎回価格を変える",
+    "無料だけにする"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"They offer a monthly plan, a yearly plan and a higher one-time price for lifetime access.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "サブスクモデルは毎月定期的な収入をもたらします。",
+   "points_ja": "model gives you がつながり、regular income every が続けて聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "ユーザーは一度払えば、永遠に自分のものになります。",
+   "points_ja": "pay once and own it forever が一続きに聞こえます。"
+  },
+  {
+   "sentence": 22,
+   "ja": "ユーザーは自分に合うものを選び、あなたはその選択から多くを学べます。",
+   "points_ja": "what feels right がつながり、learn a lot from が「ラーナラッフロム」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "アプリの作り方",
+    "サブスクと買い切りの長所と短所、その比べ方",
+    "音楽アプリの選び方",
+    "税金の払い方"
+   ],
+   "answer": 1,
+   "explanation_ja": "両方の利点と欠点、LTV、組み合わせについて話しています。"
+  },
+  {
+   "q": "買い切りの欠点は？",
+   "options": [
+    "値段が安すぎる",
+    "法律で禁止されている",
+    "ユーザーが嫌がる",
+    "新しい人が買い続けないと収入が止まる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"But for the developer, the income stops unless new people keep buying.\""
+  },
+  {
+   "q": "customer lifetime value の意味は？",
+   "options": [
+    "アプリの寿命",
+    "1人のユーザーがアプリを使う全期間にもたらす合計金額",
+    "サーバーの費用",
+    "ユーザーの年齢"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That's the total money one user brings you over the whole time they use your app.\""
+  },
+  {
+   "q": "小さなサブスクが買い切りより少ない収入になるのはどんなとき？",
+   "options": [
+    "値段が高い場合",
+    "3年使い続ける場合",
+    "広告がある場合",
+    "ユーザーがすぐに解約する場合"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Or it might not, if people cancel quickly.\""
+  },
+  {
+   "q": "買い切りがユーザーに与える印象は？",
+   "options": [
+    "不安を感じる",
+    "尊重されていると感じる",
+    "だまされたと感じる",
+    "何も感じない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"They feel respected.\""
+  }
+ ]
+}

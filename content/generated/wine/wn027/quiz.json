@@ -1,0 +1,114 @@
+{
+ "id": "wn027",
+ "author": "claude",
+ "summary_ja": "収穫直前の雨は大きな問題。ブドウが急に水を吸って膨らみ、風味と糖が薄まる（希釈）。急に膨らむと皮が裂け（裂果）、果汁がもれて虫や病気を呼ぶ。暖かく湿った条件では灰色かび病（ボトリティス）が広がる。同じ菌がソーテルヌでは霧の朝と乾いた午後で貴腐になり甘口ワインを生むが、赤ワインにはほぼ悪い知らせ。",
+ "listening": [
+  {
+   "q": "収穫直前の大雨で起きることは？",
+   "options": [
+    "ブドウが水を吸い、風味や糖が薄まる",
+    "ブドウが甘くなる",
+    "皮が厚くなる",
+    "収穫が楽になる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That water goes into the berries ... that leads to dilution.\""
+  },
+  {
+   "q": "berry splitting とは？",
+   "options": [
+    "実を半分に切ること",
+    "房を分けること",
+    "実が急に膨らんで皮が裂けること",
+    "種を取ること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Sometimes the berries swell so fast that the skins crack. We call that berry splitting.\""
+  },
+  {
+   "q": "ボトリティスが甘口ワインに役立つのはどこ？",
+   "options": [
+    "ソーテルヌ",
+    "長野",
+    "シャブリ",
+    "ブルゴーニュ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"In places like Sauternes, misty mornings and dry afternoons let the same fungus become noble rot.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "ブドウはほぼ収穫の準備ができていて、糖と風味がたっぷりだからです。",
+   "points_ja": "grapes are almost がつながり、full of sugar が「フラヴシュガー」と聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "ワインは薄く、凝縮感が少なく感じられることがあります。",
+   "points_ja": "can taste thin がつながり、thin and less の and は「ン」です。"
+  },
+  {
+   "sentence": 16,
+   "ja": "湿って暖かい条件では、灰色かび病を引き起こします。",
+   "points_ja": "warm conditions がつながり、causes grey の z と g が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "雨の降る仕組み",
+    "収穫前の雨がブドウとワインに与える悪影響と、例外",
+    "白ワインの作り方",
+    "ソーテルヌの観光"
+   ],
+   "answer": 1,
+   "explanation_ja": "希釈、裂果、ボトリティス、そして貴腐という例外を話しています。"
+  },
+  {
+   "q": "dilution の意味として会話に合うのは？",
+   "options": [
+    "ワインに水を加えること",
+    "同じ量の風味や糖が、より多くの水に広がること",
+    "樽で熟成すること",
+    "ブドウを乾かすこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The same amount of flavor and sugar is spread through more water.\""
+  },
+  {
+   "q": "皮が裂けると何が起こる？",
+   "options": [
+    "色が濃くなる",
+    "ブドウが甘くなる",
+    "何も起こらない",
+    "果汁がもれて虫や病気を呼ぶ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"juice leaks out, and that attracts insects and disease.\""
+  },
+  {
+   "q": "noble rot が生まれる条件は？",
+   "options": [
+    "強風",
+    "霧の朝と乾いた午後",
+    "雪と寒さ",
+    "大雨と暑さ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"misty mornings and dry afternoons let the same fungus become noble rot.\""
+  },
+  {
+   "q": "\"nature's two faces\" が表していることは？",
+   "options": [
+    "ブドウに2種類ある",
+    "同じ菌が、ある場所では害に、別の場所では恵みになる",
+    "畑に2つの斜面がある",
+    "天気が変わりやすい"
+   ],
+   "answer": 1,
+   "explanation_ja": "灰色かび病と貴腐という、同じ菌の2つの面を指しています。"
+  }
+ ]
+}

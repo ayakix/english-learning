@@ -1,0 +1,114 @@
+{
+ "id": "wn021",
+ "author": "claude",
+ "summary_ja": "ピノ・ノワールの醸造では、茎を残すか取り除くかを選ぶ。多くは除梗して純粋な果実味を出す。全房発酵（茎ごと発酵）では、紅茶やバラ、白胡椒などのスパイシーでハーブのような香り（ハーベイシャスリフト）と、絹のような細かいタンニンが加わる。茎が未熟だと苦く青くなるので、良い年に向く。どちらが正しいかではなくスタイルの問題。",
+ "listening": [
+  {
+   "q": "destemming とは？",
+   "options": [
+    "種を取ること",
+    "機械で茎を取り除くこと",
+    "皮をむくこと",
+    "茎ごと発酵すること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Most wineries remove the stems with a machine. This is called destemming.\""
+  },
+  {
+   "q": "全房発酵で加わる香りとして話されているのは？",
+   "options": [
+    "紅茶、バラの花びら、白胡椒",
+    "バター、バニラ",
+    "コーヒー",
+    "イチゴキャンディ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"such as tea, rose petals or white pepper.\""
+  },
+  {
+   "q": "全房発酵のリスクは？",
+   "options": [
+    "色が濃くなりすぎる",
+    "アルコールが消える",
+    "茎が未熟だと苦く青い味になる",
+    "甘くなりすぎる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"If the stems are not ripe, they can make the wine taste bitter and green.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "実だけがタンクに入ります。",
+   "points_ja": "go into the がつながり、tank alone が続けて聞こえます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "これは茎の使用とも呼ばれます。",
+   "points_ja": "also called の d は飲み込まれ、stem inclusion がつながります。"
+  },
+  {
+   "sentence": 19,
+   "ja": "どちらのやり方も正しいとも間違いとも言えません。",
+   "points_ja": "approach is がつながり、right or wrong の or は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "除梗は悪い方法である",
+    "茎は肥料になる",
+    "茎を残すか取るかでピノ・ノワールの香りや口当たりが変わり、どちらもスタイルの選択",
+    "茎は必ず使うべき"
+   ],
+   "answer": 2,
+   "explanation_ja": "除梗と全房発酵それぞれの特徴を説明し、スタイルの問題だとまとめています。"
+  },
+  {
+   "q": "除梗したワインの特徴は？",
+   "options": [
+    "スパイシーで青い",
+    "苦い",
+    "甘い",
+    "新鮮なサクランボやラズベリーのような純粋な果実味"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The result is often a wine with pure, clear fruit flavors, like fresh cherries and raspberries.\""
+  },
+  {
+   "q": "herbaceous lift の説明として正しいものは？",
+   "options": [
+    "香りを生き生きさせる、新鮮な青い香り",
+    "樽の香り",
+    "ブドウを持ち上げる道具",
+    "アルコールの強さ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a fresh green note that makes the aroma feel more lively.\""
+  },
+  {
+   "q": "全房発酵に向いているのは？",
+   "options": [
+    "雨の多い年",
+    "どの年でも同じ",
+    "早摘みの年",
+    "茎が茶色く木質化した良い年"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"whole clusters usually work best in good vintages, when stems have turned brown and woody.\""
+  },
+  {
+   "q": "茎がタンニンに与える影響は？",
+   "options": [
+    "重いではなく絹のような細かいタンニンを加える",
+    "タンニンを苦くするだけ",
+    "影響しない",
+    "タンニンをなくす"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"adding fine tannins that feel silky rather than heavy.\""
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wn016",
+ "author": "claude",
+ "summary_ja": "テイスティングは目から始まる。白い背景の上でグラスを傾け、まず清澄度（濁っていないか）を見る。次に縁（リム）の色を見る。若い赤ワインは紫、熟成すると赤、ガーネット、レンガ色に変わる。白ワインは淡いレモン色から金色、琥珀色へ。品種や醸造でも色は変わるので、目は答えではなく手がかりを与える。",
+ "listening": [
+  {
+   "q": "ワインの見た目を確認するとき、グラスをどうする？",
+   "options": [
+    "光にかざして振る",
+    "冷蔵庫で冷やす",
+    "上から覗き込む",
+    "白い背景の上で傾ける"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"hold the glass by the stem and tilt it over a white surface\"。"
+  },
+  {
+   "q": "若い赤ワインの縁の色は？",
+   "options": [
+    "紫やすみれ色",
+    "レンガやオレンジ",
+    "金色",
+    "透明"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A young red wine often has a purple or violet rim.\""
+  },
+  {
+   "q": "目で見ることについて話し手のまとめは？",
+   "options": [
+    "香りより大切",
+    "すべてが分かる",
+    "意味がない",
+    "最終的な答えではなく、手がかりを与える"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"So the eye gives clues, not final answers.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 9,
+   "ja": "ここでは色が薄く、読み取りやすくなります。",
+   "points_ja": "color is lighter がつながり、easier to read の to は弱形です。"
+  },
+  {
+   "sentence": 11,
+   "ja": "縁の色の変化、つまり中心から縁への色の変化から、年齢について多くのことが分かります。",
+   "points_ja": "change in color がつながり、tell you a lot about が「テリューアラタバウト」と一続きに聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "熟成すると、より深い金色になり、最終的には琥珀色になることが多いです。",
+   "points_ja": "With age がつながり、gold, and eventually の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ワインは色だけで評価できる",
+    "清澄度と縁の色から、ワインの年齢などの手がかりが得られる",
+    "白ワインは色が変わらない",
+    "濁ったワインはすべて悪い"
+   ],
+   "answer": 1,
+   "explanation_ja": "目で見るときのポイントと、それが手がかりになることを説明しています。"
+  },
+  {
+   "q": "濁ったワインについて正しいものは？",
+   "options": [
+    "必ず高級",
+    "必ず悪い",
+    "白ワインだけが濁る",
+    "問題があるかもしれないが、わざと濾過しない自然派ワインもある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"some natural wines are unfiltered and slightly hazy on purpose.\""
+  },
+  {
+   "q": "meniscus とは？",
+   "options": [
+    "ワインの泡",
+    "瓶の底",
+    "縁にできる曲がった表面",
+    "グラスの脚"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Tasters call the curved surface at the edge the meniscus.\""
+  },
+  {
+   "q": "熟成した赤ワインの縁の色として最も後の段階は？",
+   "options": [
+    "紫",
+    "淡いレモン色",
+    "レンガやオレンジ",
+    "すみれ色"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"red, then garnet, and finally brick or orange.\""
+  },
+  {
+   "q": "広く水っぽい縁から推測できることは？",
+   "options": [
+    "泡のあるワイン",
+    "甘いワイン",
+    "軽いワインか、古いワインかもしれない",
+    "新しい白ワイン"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A wide, watery rim can also suggest a lighter wine or an older one.\""
+  }
+ ]
+}

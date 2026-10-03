@@ -1,0 +1,243 @@
+{
+ "id": "rn007",
+ "author": "claude",
+ "category": "running",
+ "title": "Real Food vs. Gels in Ultramarathons",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "flavor fatigue",
+  "solid food digestion",
+  "ultra-endurance nutrition"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  },
+  "B": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Ultramarathon runners spend many hours on the trail. Do they just eat energy gels all day?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some do at the beginning, but most can't continue for ten or twenty hours. One big problem is flavor fatigue. After the fifth or sixth sweet gel, many runners simply can't face another one."
+  },
+  {
+   "speaker": "A",
+   "text": "So what do they eat instead?"
+  },
+  {
+   "speaker": "B",
+   "text": "Real food. Things like potatoes with salt, rice balls, sandwiches, bananas and even soup. At aid stations in long races, you'll often see a small buffet."
+  },
+  {
+   "speaker": "A",
+   "text": "But isn't solid food harder to digest while running?"
+  },
+  {
+   "speaker": "B",
+   "text": "It can be, especially at high intensity. Solid food digestion needs blood flow to the stomach. When you run fast, more blood goes to the muscles. But ultra runners usually move more slowly, and they walk on steep hills. That gives the gut more time to work."
+  },
+  {
+   "speaker": "A",
+   "text": "Is there anything special about real food?"
+  },
+  {
+   "speaker": "B",
+   "text": "Savory food helps a lot. After hours of sweating, many runners crave salt. It also feels comforting mentally. A warm bowl of noodles at night can change your mood completely."
+  },
+  {
+   "speaker": "A",
+   "text": "So what's the best strategy?"
+  },
+  {
+   "speaker": "B",
+   "text": "Most experts in ultra-endurance nutrition recommend a mix. Gels and drinks for fast energy, and real food for variety and comfort. And like everything else, practice it during long training runs before race day."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Ultramarathon runners spend many hours on the trail.",
+   "start": 0.0,
+   "end": 3.12,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Do they just eat energy gels all day?",
+   "start": 3.87,
+   "end": 6.43,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Some do at the beginning, but most can't continue for ten or twenty hours.",
+   "start": 7.15,
+   "end": 12.47,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "One big problem is flavor fatigue.",
+   "start": 13.18,
+   "end": 15.98,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "After the fifth or sixth sweet gel, many runners simply can't face another one.",
+   "start": 16.65,
+   "end": 22.25,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So what do they eat instead?",
+   "start": 22.97,
+   "end": 25.29,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Real food.",
+   "start": 26.01,
+   "end": 26.89,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Things like potatoes with salt, rice balls, sandwiches, bananas and even soup.",
+   "start": 27.8,
+   "end": 34.04,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "At aid stations in long races, you'll often see a small buffet.",
+   "start": 35.03,
+   "end": 39.43,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "But isn't solid food harder to digest while running?",
+   "start": 40.15,
+   "end": 43.67,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It can be, especially at high intensity.",
+   "start": 44.39,
+   "end": 47.35,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Solid food digestion needs blood flow to the stomach.",
+   "start": 48.42,
+   "end": 51.78,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "When you run fast, more blood goes to the muscles.",
+   "start": 52.61,
+   "end": 55.89,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But ultra runners usually move more slowly, and they walk on steep hills.",
+   "start": 56.8,
+   "end": 61.76,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That gives the gut more time to work.",
+   "start": 62.67,
+   "end": 65.07,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Is there anything special about real food?",
+   "start": 65.79,
+   "end": 68.59,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Savory food helps a lot.",
+   "start": 69.31,
+   "end": 71.31,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "After hours of sweating, many runners crave salt.",
+   "start": 71.9,
+   "end": 76.02,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It also feels comforting mentally.",
+   "start": 76.65,
+   "end": 79.21,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "A warm bowl of noodles at night can change your mood completely.",
+   "start": 79.64,
+   "end": 83.64,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So what's the best strategy?",
+   "start": 84.36,
+   "end": 86.6,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Most experts in ultra-endurance nutrition recommend a mix.",
+   "start": 87.32,
+   "end": 91.56,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Gels and drinks for fast energy, and real food for variety and comfort.",
+   "start": 92.23,
+   "end": 97.35,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And like everything else, practice it during long training runs before race day.",
+   "start": 98.34,
+   "end": 103.54,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 214,
+ "duration": 103.5,
+ "wpm": 124,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-03 23:55"
+}

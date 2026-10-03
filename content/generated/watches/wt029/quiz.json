@@ -1,0 +1,114 @@
+{
+ "id": "wt029",
+ "author": "claude",
+ "summary_ja": "ワインディングマシーンは自動巻き時計を回してゼンマイを巻いておく箱。すぐに使えて、永久カレンダーなど設定し直すのが大変な時計に便利。一方、ずっと動かすと部品の摩耗が早まる。1日の回転数（TPD）を設定でき、良いものは休みを入れる。単純な時計なら止めておいてもよい。",
+ "listening": [
+  {
+   "q": "ワインディングマシーンとは？",
+   "options": [
+    "自動巻き時計をゆっくり回してゼンマイを巻いておく箱",
+    "時計の修理道具",
+    "時計を磨く機械",
+    "時計を冷やす箱"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a small box that slowly turns your watch, so the automatic rotor keeps the mainspring wound\"。"
+  },
+  {
+   "q": "特に便利なのはどんな時計？",
+   "options": [
+    "永久カレンダーやムーンフェイズ付きの時計",
+    "古い懐中時計",
+    "安い時計",
+    "電池式の時計"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"For watches with a perpetual calendar or a moon phase, that's a big advantage\"。"
+  },
+  {
+   "q": "B の結論は？",
+   "options": [
+    "全員が必ず買うべき",
+    "複雑なカレンダーなら便利、単純な時計なら止めて使うときに合わせればよい",
+    "時計は毎日着けるべき",
+    "絶対に使ってはいけない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"If your watch has a complicated calendar, a winder can save you time ... For a simple watch, it's fine to let it stop\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "誰に聞くかによります。",
+   "points_ja": "depends on が「ディペンゾン」とつながり、who you が続けて聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "何年もたつと、歯車や巻き上げ機構が少し早く摩耗し、点検が早めに必要になるかもしれません。",
+   "points_ja": "Over the が続き、wear a little がつながります。winding の i は「アイ」です。"
+  },
+  {
+   "sentence": 16,
+   "ja": "良いワインダーは、回転の合間に休みも入れます。",
+   "points_ja": "Good winders の d は飲み込まれ、rest between の t も聞こえません。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ワインディングマシーンの利点と欠点",
+    "自動巻きの発明の歴史",
+    "時計の正しい置き方",
+    "ゼンマイの交換方法"
+   ],
+   "answer": 0,
+   "explanation_ja": "便利さと摩耗のトレードオフを話しています。"
+  },
+  {
+   "q": "mechanical wear とは？",
+   "options": [
+    "時計の値段",
+    "時計の重さ",
+    "時計の見た目",
+    "使い続けることで部品がすり減ること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A watch that runs all the time is using its parts all the time.\""
+  },
+  {
+   "q": "TPD は何の略？",
+   "options": [
+    "time per dial",
+    "turns per day（1日の回転数）",
+    "total power design",
+    "turn and pause duration"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the number of turns per day, often written as TPD.\""
+  },
+  {
+   "q": "回転数を高く設定しすぎるとどうなる？",
+   "options": [
+    "すでにいっぱいなのに巻き続ける",
+    "電池が切れる",
+    "日付が変わらない",
+    "時計が止まる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If you set it too high, the watch keeps winding when it's already full.\""
+  },
+  {
+   "q": "\"There's no single right answer\" の意味は？",
+   "options": [
+    "人や時計によって最適な選択は違う",
+    "答えは一つだけ",
+    "質問が間違っている",
+    "誰も知らない"
+   ],
+   "answer": 0,
+   "explanation_ja": "時計の種類や使い方によって選び方が変わる、という結論です。"
+  }
+ ]
+}

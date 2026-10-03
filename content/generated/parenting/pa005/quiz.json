@@ -1,0 +1,114 @@
+{
+ "id": "pa005",
+ "author": "claude",
+ "summary_ja": "子どもをほめるとき「頭がいいね」より「よく頑張ったね」のほうが挑戦する気持ちが育つという研究がある。キャロル・ドゥエックらの実験で、知能をほめられた子は簡単なパズルを選び、努力をほめられた子は難しいパズルを選んだ。能力は努力で伸びるという「成長マインドセット」につながる。努力や工夫、進歩をほめると立ち直る力（レジリエンス）が育つ。ほめ言葉は正直に。",
+ "listening": [
+  {
+   "q": "この研究を行った心理学者は？",
+   "options": [
+    "キャロル・ドゥエック",
+    "ルドルフ・シュタイナー",
+    "カール・フォン・フリッシュ",
+    "ダニエル・カーネマン"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Psychologist Carol Dweck and her colleagues studied this for many years.\""
+  },
+  {
+   "q": "知能をほめられた子どもの多くが選んだのは？",
+   "options": [
+    "簡単なパズル",
+    "難しいパズル",
+    "友だちと交換した",
+    "パズルをやめた"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Many children praised for intelligence chose the easy one.\""
+  },
+  {
+   "q": "努力をほめる言い方の例として話されているのは？",
+   "options": [
+    "「一番だね」",
+    "「3つの違うやり方を試したね。いい考えだった」",
+    "「やっぱり頭がいい」",
+    "「天才だね」"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a parent might say, I saw you try three different ways. That was great thinking.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "言ってあげるのに良いことのように思えます。",
+   "points_ja": "seems like a nice が続き、thing to say の to は弱形です。"
+  },
+  {
+   "sentence": 10,
+   "ja": "彼らは失敗して「頭がいい」というレッテルを失うことを恐れているようでした。",
+   "points_ja": "afraid of failing が「アフレイダヴフェイリング」、label of smart が続けて聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "もちろん、ほめ言葉は正直でもあるべきです。",
+   "points_ja": "Of course が「アヴコース」、should also be が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "知能は生まれつき決まっている",
+    "結果や才能より、努力や工夫をほめると、挑戦する力が育つ",
+    "子どもはほめないほうがよい",
+    "パズルは子どもに向かない"
+   ],
+   "answer": 1,
+   "explanation_ja": "研究の内容と、成長マインドセット、ほめ方のコツを説明しています。"
+  },
+  {
+   "q": "growth mindset の意味は？",
+   "options": [
+    "能力は努力や練習で伸びるという考え",
+    "体が成長すること",
+    "お金を増やす考え",
+    "能力は生まれつき決まっているという考え"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A growth mindset is the belief that abilities can grow with effort and practice.\""
+  },
+  {
+   "q": "fixed mindset の意味は？",
+   "options": [
+    "能力はほぼ生まれつき決まっているという考え",
+    "変化を好む考え",
+    "固定された予定",
+    "決めたことを守る考え"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a fixed mindset, is the belief that abilities are mostly fixed from birth.\""
+  },
+  {
+   "q": "resilience の意味は？",
+   "options": [
+    "体の強さ",
+    "困難の後も続け、立ち直る力",
+    "頭の良さ",
+    "素早さ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Resilience is the ability to keep going and recover after difficulties.\""
+  },
+  {
+   "q": "最後の文 \"The goal is to notice the process, not just the result.\" の意味は？",
+   "options": [
+    "何も見ない",
+    "結果だけを見る",
+    "結果だけでなく、過程に目を向けることが大切",
+    "過程は関係ない"
+   ],
+   "answer": 2,
+   "explanation_ja": "努力や工夫などの過程をほめよう、というまとめです。"
+  }
+ ]
+}

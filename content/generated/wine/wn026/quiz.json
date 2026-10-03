@@ -1,0 +1,114 @@
+{
+ "id": "wn026",
+ "author": "claude",
+ "summary_ja": "ブルゴーニュでは隣の畑でも品質と値段が違う。理由は向き（アスペクト）と斜面の位置。コート・ドールの多くは東〜南東向きで、朝日が土を温め露を乾かす。特級畑の多くは斜面の中腹にある。上は土が薄く風が強く涼しすぎ、下は土が深く水がたまり、夜に冷気が流れ込んで霜のリスクがある。中腹はその中間でバランスがよい。",
+ "listening": [
+  {
+   "q": "コート・ドールの多くの畑が向いている方角は？",
+   "options": [
+    "真南だけ",
+    "東〜南東",
+    "北",
+    "西"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Most of the famous Côte d'Or faces east or southeast.\""
+  },
+  {
+   "q": "特級畑（グラン・クリュ）が多い場所は？",
+   "options": [
+    "平地",
+    "斜面の下",
+    "斜面の中腹",
+    "丘の頂上"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Many grand cru vineyards ... are found on the mid-slope.\""
+  },
+  {
+   "q": "斜面の下の問題として話されていないものは？",
+   "options": [
+    "風が強すぎる",
+    "水がたまる",
+    "土が深く豊かで、ブドウの木が育ちすぎる",
+    "夜に冷気が集まり霜のリスクがある"
+   ],
+   "answer": 0,
+   "explanation_ja": "風が強いのは丘の上の特徴として話されています。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "ブルゴーニュでは、隣り合う2つの畑が、品質も値段もまったく違うワインを生むことがあります。",
+   "points_ja": "side by side が一続きに聞こえ、wines of very が「ワインザヴヴェリ」とつながります。"
+  },
+  {
+   "sentence": 5,
+   "ja": "ブドウの木はやわらかい朝日を受け、それが土を早く温め、ブドウの露を乾かします。",
+   "points_ja": "receive the の the は弱く、dries the dew from the が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "冷たい空気も夜に坂を下って低い場所にたまり、霜のリスクを高めます。",
+   "points_ja": "flows downhill at night がつながり、risk of frost が「リスカヴフロスト」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ブルゴーニュの畑はすべて同じ",
+    "平地の畑が一番良い",
+    "畑の向きと斜面の位置が、ブルゴーニュのワインの品質を左右している",
+    "修道士がワインを発明した"
+   ],
+   "answer": 2,
+   "explanation_ja": "アスペクトと中腹の利点を説明しています。"
+  },
+  {
+   "q": "aspect の意味は？",
+   "options": [
+    "斜面の向き",
+    "畑の広さ",
+    "土の色",
+    "ブドウの品種"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Aspect means the direction a slope faces.\""
+  },
+  {
+   "q": "朝日が良い理由として書かれているのは？",
+   "options": [
+    "虫を追い払う",
+    "ブドウを甘くしすぎない",
+    "雨を止める",
+    "土を早く温め、ブドウの露を乾かす"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"warms the soil early and dries the dew from the grapes.\""
+  },
+  {
+   "q": "丘の頂上の問題は？",
+   "options": [
+    "土が豊かすぎる",
+    "霜が降りやすい",
+    "土が薄く岩が多く、風が強く、熟すには涼しすぎることがある",
+    "水がたまる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the soil is often thin and rocky, and the wind is stronger. It can be too cool for full ripeness.\""
+  },
+  {
+   "q": "今使われている畑の地図はどのようにできた？",
+   "options": [
+    "くじ引き",
+    "何世紀にもわたり修道士や栽培者が観察した結果",
+    "政府が決めた",
+    "最近の人工衛星の調査"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Over centuries, monks and growers carefully observed which places gave the best wine.\""
+  }
+ ]
+}

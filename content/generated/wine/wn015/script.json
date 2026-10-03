@@ -1,0 +1,236 @@
+{
+ "id": "wn015",
+ "author": "claude",
+ "category": "wine",
+ "title": "Lees Stirring (Bâtonnage) in Japanese Chardonnay",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "lees stirring",
+  "batonnage",
+  "yeast autolysis"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many Japanese Chardonnay makers now talk about bâtonnage. What is that?"
+  },
+  {
+   "speaker": "B",
+   "text": "Bâtonnage is a French word. In English, we usually say lees stirring. After fermentation, dead yeast cells sink to the bottom of the barrel. These are called the lees."
+  },
+  {
+   "speaker": "A",
+   "text": "And you stir them back into the wine?"
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. The winemaker puts a stick into the barrel and gently mixes the lees through the wine, maybe once or twice a week, for some months."
+  },
+  {
+   "speaker": "A",
+   "text": "Why would you want dead yeast in your wine?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because they slowly break down and release interesting compounds. This process is called yeast autolysis. It gives the wine a rounder, creamier texture, and flavors like bread, nuts or biscuits."
+  },
+  {
+   "speaker": "A",
+   "text": "Is it especially useful in Japan?"
+  },
+  {
+   "speaker": "B",
+   "text": "It can be. In some years, Japanese Chardonnay can feel a little light, because of rain or cool weather. Lees stirring adds body and a gentle savory quality, a bit like umami. It also helps protect the wine from oxygen."
+  },
+  {
+   "speaker": "A",
+   "text": "Are there any risks?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. If you stir too much, the wine can become heavy and lose its freshness. It's about balance. The best winemakers taste the wine often and decide carefully when to stop."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many Japanese Chardonnay makers now talk about bâtonnage.",
+   "start": 0.0,
+   "end": 4.24,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What is that?",
+   "start": 4.67,
+   "end": 5.47,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Bâtonnage is a French word.",
+   "start": 6.27,
+   "end": 8.31,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "In English, we usually say lees stirring.",
+   "start": 8.94,
+   "end": 12.22,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "After fermentation, dead yeast cells sink to the bottom of the barrel.",
+   "start": 13.05,
+   "end": 17.45,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "These are called the lees.",
+   "start": 17.96,
+   "end": 19.48,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "And you stir them back into the wine?",
+   "start": 20.2,
+   "end": 22.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 23.24,
+   "end": 24.36,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The winemaker puts a stick into the barrel and gently mixes the lees through the wine, maybe once or twice a week, for some months.",
+   "start": 24.79,
+   "end": 32.63,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Why would you want dead yeast in your wine?",
+   "start": 33.35,
+   "end": 36.07,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Because they slowly break down and release interesting compounds.",
+   "start": 36.79,
+   "end": 41.03,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "This process is called yeast autolysis.",
+   "start": 41.5,
+   "end": 44.58,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It gives the wine a rounder, creamier texture, and flavors like bread, nuts or biscuits.",
+   "start": 45.01,
+   "end": 51.09,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Is it especially useful in Japan?",
+   "start": 51.81,
+   "end": 54.37,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It can be.",
+   "start": 55.09,
+   "end": 55.81,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "In some years, Japanese Chardonnay can feel a little light, because of rain or cool weather.",
+   "start": 56.44,
+   "end": 62.56,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Lees stirring adds body and a gentle savory quality, a bit like umami.",
+   "start": 63.31,
+   "end": 68.67,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It also helps protect the wine from oxygen.",
+   "start": 69.18,
+   "end": 71.74,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Are there any risks?",
+   "start": 72.46,
+   "end": 74.06,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 74.78,
+   "end": 75.26,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "If you stir too much, the wine can become heavy and lose its freshness.",
+   "start": 76.01,
+   "end": 80.65,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It's about balance.",
+   "start": 81.04,
+   "end": 82.6,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "The best winemakers taste the wine often and decide carefully when to stop.",
+   "start": 83.03,
+   "end": 87.67,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 194,
+ "duration": 87.6,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 60,
+ "created": "2026-10-03 23:48"
+}

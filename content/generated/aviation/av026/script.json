@@ -1,0 +1,191 @@
+{
+ "id": "av026",
+ "author": "claude",
+ "category": "aviation",
+ "title": "How the Instrument Landing System (ILS) Guides Planes",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "instrument landing system (ILS)",
+  "localizer",
+  "glide path"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine landing a large airplane in thick fog, when you cannot see the runway until the last moment. This is possible thanks to a system called the Instrument Landing System, or ILS. It has been helping pilots for decades."
+  },
+  {
+   "speaker": "A",
+   "text": "The ILS uses radio signals from the ground to guide the airplane along an invisible path to the runway. It has two main parts."
+  },
+  {
+   "speaker": "A",
+   "text": "The first is the localizer. Its antennas are usually placed beyond the far end of the runway. It tells the pilots whether they are left or right of the runway centerline. In the cockpit, a display shows a line that moves left or right."
+  },
+  {
+   "speaker": "A",
+   "text": "The second is the glide slope, which guides the aircraft vertically. The glide path is usually about three degrees. That means the plane descends gently, losing around three hundred feet for every nautical mile it travels. The display shows whether the plane is too high or too low."
+  },
+  {
+   "speaker": "A",
+   "text": "By keeping both indicators centered, pilots fly a precise path down to the runway. Often, the autopilot follows the signals instead."
+  },
+  {
+   "speaker": "A",
+   "text": "At airports with the most advanced equipment, and on aircraft certified for it, the autopilot can even land the airplane automatically in very low visibility. This is called autoland."
+  },
+  {
+   "speaker": "A",
+   "text": "Newer satellite-based approaches are becoming common. But the ILS remains one of the most trusted tools in aviation, especially on bad-weather days."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine landing a large airplane in thick fog, when you cannot see the runway until the last moment.",
+   "start": 0.0,
+   "end": 6.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This is possible thanks to a system called the Instrument Landing System, or ILS.",
+   "start": 7.11,
+   "end": 12.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It has been helping pilots for decades.",
+   "start": 13.06,
+   "end": 15.5,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The ILS uses radio signals from the ground to guide the airplane along an invisible path to the runway.",
+   "start": 16.02,
+   "end": 22.9,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It has two main parts.",
+   "start": 23.29,
+   "end": 25.09,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The first is the localizer.",
+   "start": 25.61,
+   "end": 27.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Its antennas are usually placed beyond the far end of the runway.",
+   "start": 28.2,
+   "end": 32.2,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It tells the pilots whether they are left or right of the runway centerline.",
+   "start": 32.63,
+   "end": 37.03,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In the cockpit, a display shows a line that moves left or right.",
+   "start": 37.42,
+   "end": 41.54,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The second is the glide slope, which guides the aircraft vertically.",
+   "start": 42.06,
+   "end": 46.46,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The glide path is usually about three degrees.",
+   "start": 46.85,
+   "end": 49.93,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That means the plane descends gently, losing around three hundred feet for every nautical mile it travels.",
+   "start": 50.36,
+   "end": 56.68,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The display shows whether the plane is too high or too low.",
+   "start": 57.07,
+   "end": 60.71,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "By keeping both indicators centered, pilots fly a precise path down to the runway.",
+   "start": 61.23,
+   "end": 67.15,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Often, the autopilot follows the signals instead.",
+   "start": 67.7,
+   "end": 70.86,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "At airports with the most advanced equipment, and on aircraft certified for it, the autopilot can even land the airplane automatically in very low visibility.",
+   "start": 71.38,
+   "end": 81.38,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called autoland.",
+   "start": 81.81,
+   "end": 83.65,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Newer satellite-based approaches are becoming common.",
+   "start": 84.17,
+   "end": 87.25,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "But the ILS remains one of the most trusted tools in aviation, especially on bad-weather days.",
+   "start": 87.8,
+   "end": 93.96,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 227,
+ "duration": 94.0,
+ "wpm": 145,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:52"
+}

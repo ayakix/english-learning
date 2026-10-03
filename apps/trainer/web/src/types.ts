@@ -1,6 +1,6 @@
 // サーバーの session.json と同じ形（src/trainer/ の各技能のモジュール）
 
-export type Skill = "speaking" | "listening" | "writing" | "reading";
+export type Skill = "speaking" | "listening" | "writing" | "reading" | "voa";
 
 export type Result = { score: number | null; details: Record<string, number | string | null> };
 
@@ -133,6 +133,57 @@ export type ReadingSession = Base & {
   glossary: Expression[];
   submission: { time: string; answers: number[]; correct: number; reading_seconds: number; wpm: number | null } | null;
 };
+
+// ---------------------------------------------------------------- voa
+export type VoaStage = "listening" | "dictation" | "reading" | "done";
+
+// 書き取る前は i / start / end / answer / plays だけが返る
+export type VoaDictation = {
+  i: number;
+  start: number;
+  end: number;
+  answer: string | null;
+  plays: number;
+  text?: string;
+  ja?: string;
+  points_ja?: string;
+  accuracy?: number;
+  diff?: DiffToken[];
+};
+
+export type VoaQuiz = { questions: Question[]; answers: number[] | null; correct: number | null };
+
+export type VoaSession = Base & {
+  stage: VoaStage;
+  source: {
+    site: string;
+    url: string | null;
+    title: string;
+    published: string;
+    credit: string;
+    license: string;
+    audio_url: string | null;
+    zone: string;
+    // AI 教材のときだけ
+    stock_id?: string;
+    level?: string;
+    format?: "monologue" | "dialogue";
+  };
+  // 本文・語彙は「読む」の段階になるまで空で返る
+  paragraphs: { text: string; heading: boolean }[];
+  glossary: { word: string; definition: string }[];
+  words: number;
+  duration: number;
+  audio_wpm: number | null;
+  summary_ja: string;
+  listening: VoaQuiz & { plays: number };
+  dictation: VoaDictation[];
+  reading: VoaQuiz & { reading_seconds: number | null; wpm: number | null };
+};
+
+export type VoaSource = "voa" | "ai";
+// left：AI 教材でまだ使っていない本数
+export type VoaZone = { key: string; name: string; left?: number };
 
 // ---------------------------------------------------------------- progress
 export type ProgressPoint = { date: string; skill: Skill; id: string; score: number; details: Result["details"] };

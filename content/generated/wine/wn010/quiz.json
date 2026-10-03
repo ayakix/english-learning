@@ -1,0 +1,114 @@
+{
+ "id": "wn010",
+ "author": "claude",
+ "summary_ja": "ボルドーの2010年は、乾燥して晴れた夏と涼しい夜で、熟度と酸のバランスがよい偉大な年。色が濃く、果実味と強いタンニンの骨格があり、長期熟成型。2007年は涼しく不安定な天候で、軽くやわらかく、若いうちに楽しめるワインが多かった。同じ畑でも天候で違うワインになるのがボルドーの面白さ。",
+ "listening": [
+  {
+   "q": "2010年のボルドーの天候は？",
+   "options": [
+    "乾燥して晴れた夏と涼しい夜",
+    "雨が多く寒い",
+    "とても暑い夜",
+    "雪が多い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The summer was dry and sunny, but the nights were cool.\""
+  },
+  {
+   "q": "2007年のワインの特徴は？",
+   "options": [
+    "力強く長期熟成型",
+    "色が非常に濃い",
+    "とても甘い",
+    "軽くやわらかく、若いうちに楽しめる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The wines were lighter, with softer tannins ... pleasant to drink when young\"。"
+  },
+  {
+   "q": "2007年は悪い年だったかという問いへの答えは？",
+   "options": [
+    "最悪の年だった",
+    "ワインが作られなかった",
+    "そうとも言えない。手頃で早く飲める魅力的なワインを生んだ",
+    "2010年より高価だった"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Not exactly. It produced charming, easy wines at lower prices\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "ワイン評論家はよくヴィンテージ、つまりブドウが収穫された年を比べます。",
+   "points_ja": "compare vintages がつながり、in which the が続けて聞こえます。"
+  },
+  {
+   "sentence": 4,
+   "ja": "ブドウは良い酸を保ったまま完全に熟しました。",
+   "points_ja": "ripened fully の d は飲み込まれ、keeping good の g が重なります。"
+  },
+  {
+   "sentence": 10,
+   "ja": "これは長命さ、つまり長く熟成できる力の印です。",
+   "points_ja": "sign of が「サイナヴ」、age for a が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "2007年は最高の年だった",
+    "ボルドーのワインは毎年同じ",
+    "同じ畑でも年の天候でワインが大きく変わる例として2つの年を比べている",
+    "ヴィンテージは関係ない"
+   ],
+   "answer": 2,
+   "explanation_ja": "2010年と2007年を比べ、ヴィンテージの違いの面白さを述べています。"
+  },
+  {
+   "q": "tannic spine の意味は？",
+   "options": [
+    "ワインの色",
+    "樽の形",
+    "タンニンが背骨のようにワインを支える骨格",
+    "ブドウの茎"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the tannins form a firm structure, like a backbone, that holds the wine together.\""
+  },
+  {
+   "q": "若い2010年のワインの印象は？",
+   "options": [
+    "甘すぎる",
+    "力強く閉じていて、何年も瓶熟成が必要",
+    "水っぽい",
+    "すぐに飲み頃"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"many two thousand ten wines felt powerful and closed. They needed many years in the bottle.\""
+  },
+  {
+   "q": "2007年のブドウが熟しにくかった理由は？",
+   "options": [
+    "天候が涼しく不安定だったから",
+    "雨が降らなかったから",
+    "虫が多かったから",
+    "暑すぎたから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The weather was cooler and less stable, and the grapes did not ripen as easily.\""
+  },
+  {
+   "q": "vintage variation の意味に近いのは？",
+   "options": [
+    "ブドウの品種の違い",
+    "国ごとの違い",
+    "年ごとのワインの違い",
+    "瓶の違い"
+   ],
+   "answer": 2,
+   "explanation_ja": "同じ畑でも年の天候でワインが変わることを指しています。"
+  }
+ ]
+}

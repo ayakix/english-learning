@@ -7,3 +7,8 @@
 | 2026-10-02 | the forward features house | the foreground features a house | 写真の「手前」は foreground。数えられる名詞 house には a |
 | 2026-10-02 | move other side | move to the other side | 方向の to と、特定の側を指す the |
 | 2026-10-02 | by using lift | by using a lift | lift は数えられる名詞なので a |
+
+## 2026-10-03（VOA サンプルのディクテーション）
+
+- 小説のあらすじは**現在形**で語る：They **work** very hard together and finally **make** enough money …（worked と書いた）
+- 冠詞の抜け：provided **the** subject matter / buy some land for **a** farm

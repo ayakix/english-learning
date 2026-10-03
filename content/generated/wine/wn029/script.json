@@ -1,0 +1,173 @@
+{
+ "id": "wn029",
+ "author": "claude",
+ "category": "wine",
+ "title": "Japanese Muscat Bailey A: Carbonic Maceration",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "carbonic maceration",
+  "intracellular fermentation",
+  "furaneol"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Muscat Bailey A is one of Japan's most important red grapes. It was created in the nineteen twenties by Zenbei Kawakami, often called the father of Japanese wine, in Niigata. He crossed different grape varieties to create a vine that could survive Japan's humid climate."
+  },
+  {
+   "speaker": "A",
+   "text": "The grape is known for a sweet, fruity aroma that many people compare to strawberry candy. Scientists have found that it contains a compound called furaneol, which is also found in strawberries and gives a sweet, caramel-like smell."
+  },
+  {
+   "speaker": "A",
+   "text": "To highlight this fruity character, some producers use a technique called carbonic maceration. It is famous in Beaujolais, in France."
+  },
+  {
+   "speaker": "A",
+   "text": "In normal red winemaking, grapes are crushed, and yeast ferments the juice. In carbonic maceration, whole, uncrushed grapes are placed in a closed tank filled with carbon dioxide. Without oxygen, something unusual happens inside each berry. Enzymes start to turn a small part of the sugar into alcohol. This is called intracellular fermentation, meaning fermentation inside the cells."
+  },
+  {
+   "speaker": "A",
+   "text": "After some days, the grapes are pressed and fermentation is finished in the normal way. The result is usually a light, low-tannin red wine with bright, juicy fruit and aromas like banana, bubblegum and red berries."
+  },
+  {
+   "speaker": "A",
+   "text": "For Muscat Bailey A, this method can create a fresh, easy-drinking style. Other producers choose oak aging to make deeper, more serious versions. The same grape can show many faces."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Muscat Bailey A is one of Japan's most important red grapes.",
+   "start": 0.0,
+   "end": 4.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It was created in the nineteen twenties by Zenbei Kawakami, often called the father of Japanese wine, in Niigata.",
+   "start": 5.15,
+   "end": 12.75,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "He crossed different grape varieties to create a vine that could survive Japan's humid climate.",
+   "start": 13.18,
+   "end": 18.54,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The grape is known for a sweet, fruity aroma that many people compare to strawberry candy.",
+   "start": 19.06,
+   "end": 25.06,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists have found that it contains a compound called furaneol, which is also found in strawberries and gives a sweet, caramel-like smell.",
+   "start": 25.49,
+   "end": 33.57,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "To highlight this fruity character, some producers use a technique called carbonic maceration.",
+   "start": 34.09,
+   "end": 40.41,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It is famous in Beaujolais, in France.",
+   "start": 40.8,
+   "end": 43.48,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In normal red winemaking, grapes are crushed, and yeast ferments the juice.",
+   "start": 44.0,
+   "end": 48.96,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In carbonic maceration, whole, uncrushed grapes are placed in a closed tank filled with carbon dioxide.",
+   "start": 49.55,
+   "end": 56.51,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Without oxygen, something unusual happens inside each berry.",
+   "start": 57.1,
+   "end": 61.34,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Enzymes start to turn a small part of the sugar into alcohol.",
+   "start": 62.17,
+   "end": 66.25,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called intracellular fermentation, meaning fermentation inside the cells.",
+   "start": 66.68,
+   "end": 72.44,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "After some days, the grapes are pressed and fermentation is finished in the normal way.",
+   "start": 72.96,
+   "end": 78.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The result is usually a light, low-tannin red wine with bright, juicy fruit and aromas like banana, bubblegum and red berries.",
+   "start": 78.71,
+   "end": 87.71,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "For Muscat Bailey A, this method can create a fresh, easy-drinking style.",
+   "start": 88.23,
+   "end": 93.83,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Other producers choose oak aging to make deeper, more serious versions.",
+   "start": 94.3,
+   "end": 99.14,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The same grape can show many faces.",
+   "start": 99.57,
+   "end": 101.97,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 227,
+ "duration": 101.9,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 78,
+ "created": "2026-10-03 23:49"
+}

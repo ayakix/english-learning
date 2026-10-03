@@ -1,0 +1,173 @@
+{
+ "id": "wt013",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Glashütte Three-Quarter Plate",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "three-quarter plate",
+  "wheel train",
+  "structural stability"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you turn over a watch from Glashütte, in eastern Germany, you will often see something unusual. Instead of many small bridges, a single large plate covers most of the movement. This is called a three-quarter plate."
+  },
+  {
+   "speaker": "A",
+   "text": "The design is usually linked to Ferdinand Adolph Lange, who helped build the watch industry in Glashütte in the nineteenth century. In the eighteen sixties, he developed this plate as a way to make his movements stronger and more reliable."
+  },
+  {
+   "speaker": "A",
+   "text": "To understand why, think about the wheel train. That is the chain of gears that carries energy from the mainspring to the escapement. Each wheel turns on tiny pivots that sit in holes in the plates. If the plates move even slightly, the wheels are no longer perfectly aligned."
+  },
+  {
+   "speaker": "A",
+   "text": "In a movement with many separate bridges, each bridge is fixed on its own. A three-quarter plate holds most of the wheels with one solid piece. This gives the movement excellent structural stability, which was important for watches that had to survive rough daily use."
+  },
+  {
+   "speaker": "A",
+   "text": "There is a price, however. Because one plate covers so much, a watchmaker must remove it to reach many parts. Assembly and service take more time. Some critics also say it hides too much of the movement."
+  },
+  {
+   "speaker": "A",
+   "text": "Still, for many collectors, the wide, calm surface of the three-quarter plate is the clearest symbol of the Saxon style."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you turn over a watch from Glashütte, in eastern Germany, you will often see something unusual.",
+   "start": 0.0,
+   "end": 6.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of many small bridges, a single large plate covers most of the movement.",
+   "start": 7.19,
+   "end": 12.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called a three-quarter plate.",
+   "start": 13.1,
+   "end": 15.34,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The design is usually linked to Ferdinand Adolph Lange, who helped build the watch industry in Glashütte in the nineteenth century.",
+   "start": 15.94,
+   "end": 23.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In the eighteen sixties, he developed this plate as a way to make his movements stronger and more reliable.",
+   "start": 24.37,
+   "end": 30.77,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "To understand why, think about the wheel train.",
+   "start": 31.29,
+   "end": 34.41,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That is the chain of gears that carries energy from the mainspring to the escapement.",
+   "start": 35.16,
+   "end": 40.04,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Each wheel turns on tiny pivots that sit in holes in the plates.",
+   "start": 40.47,
+   "end": 44.79,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If the plates move even slightly, the wheels are no longer perfectly aligned.",
+   "start": 45.22,
+   "end": 50.1,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In a movement with many separate bridges, each bridge is fixed on its own.",
+   "start": 50.62,
+   "end": 55.54,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A three-quarter plate holds most of the wheels with one solid piece.",
+   "start": 56.17,
+   "end": 60.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This gives the movement excellent structural stability, which was important for watches that had to survive rough daily use.",
+   "start": 61.0,
+   "end": 67.96,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "There is a price, however.",
+   "start": 68.48,
+   "end": 70.44,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Because one plate covers so much, a watchmaker must remove it to reach many parts.",
+   "start": 71.07,
+   "end": 76.67,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Assembly and service take more time.",
+   "start": 77.26,
+   "end": 79.5,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some critics also say it hides too much of the movement.",
+   "start": 80.41,
+   "end": 84.01,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Still, for many collectors, the wide, calm surface of the three-quarter plate is the clearest symbol of the Saxon style.",
+   "start": 84.61,
+   "end": 93.01,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 228,
+ "duration": 92.9,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:44"
+}

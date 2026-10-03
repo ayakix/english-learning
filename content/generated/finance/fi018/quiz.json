@@ -1,0 +1,114 @@
+{
+ "id": "fi018",
+ "author": "claude",
+ "summary_ja": "ブル（強気）相場は価格が上がり投資家が自信を持つ時期、ベア（弱気）相場は下落と悲観の時期で、直近の高値から20%以上の下落が一般的な定義。由来の一説は攻撃の仕方で、牛は角を上に突き上げ、熊は前足を振り下ろす。18世紀のロンドンで、熊を捕まえる前に毛皮を売った商人の話もある。ブル相場は長く続くことが多いがベア相場は速くつらい。強気・弱気を bullish・bearish と言う。どちらも永遠には続かない。",
+ "listening": [
+  {
+   "q": "bear market の一般的な定義は？",
+   "options": [
+    "5%の上昇",
+    "取引が止まること",
+    "1日で1%の下落",
+    "直近の高値から20%以上の下落"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A common definition of a bear market is a fall of at least twenty percent from a recent high.\""
+  },
+  {
+   "q": "名前の由来として人気の説明は？",
+   "options": [
+    "色の違い",
+    "牛と熊の数",
+    "動物園の話",
+    "牛は角を上に、熊は前足を下に振るという攻撃の仕方"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A bull thrusts its horns upward. A bear swipes its paws downward.\""
+  },
+  {
+   "q": "長期投資家への教訓は？",
+   "options": [
+    "強気相場も弱気相場も相場の普通の一部で、どちらも永遠には続かない",
+    "弱気相場では売るべき",
+    "相場は予測できる",
+    "強気相場は永遠に続く"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"both bulls and bears are a normal part of the market cycle. Neither lasts forever.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "金融ニュースでは、ブル相場やベア相場についてよく耳にします。",
+   "points_ja": "you often hear about が続き、bull markets and bear markets の and は「ン」です。"
+  },
+  {
+   "sentence": 12,
+   "ja": "こうした商人はベアと呼ばれるようになり、その言葉は価格の下落を予想する人々に広まりました。",
+   "points_ja": "became known as bears が続き、expected prices to go down が続けて聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "投資家は、価格の上昇を予想するなら bullish、下落を予想するなら bearish と呼ばれることがあります。",
+   "points_ja": "called bullish if they がつながり、expect a fall が「エクスペクタフォール」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "株の買い方",
+    "ロンドンの歴史",
+    "ブル相場とベア相場の意味と由来、どちらも相場の一部であること",
+    "動物の行動"
+   ],
+   "answer": 2,
+   "explanation_ja": "意味、由来の2つの説、期間の違い、形容詞の使い方を説明しています。"
+  },
+  {
+   "q": "bull market の意味は？",
+   "options": [
+    "価格が上がり、投資家が自信を持っている時期",
+    "取引が少ない時期",
+    "価格が下がる時期",
+    "牛の市場"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A bull market is a period when prices are rising, and investors feel confident.\""
+  },
+  {
+   "q": "18世紀のロンドンの話の内容は？",
+   "options": [
+    "牛の毛皮が高かった",
+    "熊を捕まえる前に毛皮を売り、価格が下がることを期待した商人がいた",
+    "銀行ができた",
+    "熊が市場に出た"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"some traders sold bearskins before they had actually caught the bears, hoping prices would fall.\""
+  },
+  {
+   "q": "ブル相場とベア相場の期間について正しいものは？",
+   "options": [
+    "ブル相場は長く続くことが多いが、ベア相場は速くつらいこともある",
+    "同じ長さ",
+    "どちらも1年",
+    "ベア相場のほうが長い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Bull markets usually last longer than bear markets, but bear markets can be fast and painful.\""
+  },
+  {
+   "q": "bearish の意味は？",
+   "options": [
+    "価格の上昇を予想している",
+    "落ち着いている",
+    "価格の下落を予想している",
+    "熊が好き"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"and bearish if they expect a fall.\""
+  }
+ ]
+}

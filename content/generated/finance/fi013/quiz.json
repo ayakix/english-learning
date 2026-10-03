@@ -1,0 +1,114 @@
+{
+ "id": "fi013",
+ "author": "claude",
+ "summary_ja": "利益の一部を株主に直接払うのが配当で、年1〜4回など。安定した成熟企業が多く、急成長企業は事業拡大に利益を使う。定期収入として退職者にも役立つ。ただし配当はただのお金ではなく、払うと株価もほぼ同じ額下がるので、値動きと配当を合わせた総リターンが大切。今収入が不要なら配当を再投資すると、新しい株がまた配当を生み、何十年で大きな複利になる。自動で再投資する「累積型」ファンドもある。",
+ "listening": [
+  {
+   "q": "配当を払うことが多い会社は？",
+   "options": [
+    "新しい会社だけ",
+    "急成長中の若い会社",
+    "安定した利益を出す成熟した会社",
+    "赤字の会社"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Dividends are often paid by mature, stable companies that make steady profits\"。"
+  },
+  {
+   "q": "配当が「ただのお金ではない」理由は？",
+   "options": [
+    "払うと会社の現金が出ていき、株価もほぼ同じ額下がるから",
+    "銀行が取るから",
+    "返さなければならないから",
+    "税金がかかるから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"When a company pays a dividend, the cash leaves the company, and the share price usually drops by about the same amount.\""
+  },
+  {
+   "q": "今収入が必要ない長期投資家に勧められていることは？",
+   "options": [
+    "配当のない株だけ買う",
+    "配当を再投資する",
+    "配当をすべて使う",
+    "株を売る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a powerful option is to reinvest dividends.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "利益の一部を、株を持っている人々に直接分配する会社もあります。",
+   "points_ja": "share part of their profits が続き、people who own their stock が続けて聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "退職した人の中には、生活費の支払いに配当を使う人もいます。",
+   "points_ja": "retired people use がつながり、help pay their living costs が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "何十年もかけて、これは強い複利効果を生みます。",
+   "points_ja": "Over decades が続き、creates a strong が「クリエイツァストロング」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "配当は必ずもうかる",
+    "株は短期で売るべき",
+    "配当の仕組みと、総リターンで考えることや再投資の力",
+    "配当のない株は悪い"
+   ],
+   "answer": 2,
+   "explanation_ja": "配当の意味、総リターン、再投資、累積型ファンドを説明しています。"
+  },
+  {
+   "q": "shareholder の意味は？",
+   "options": [
+    "銀行員",
+    "会社の社員",
+    "お客さん",
+    "会社の株を持っている人"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A shareholder, someone who owns shares in a company\"。"
+  },
+  {
+   "q": "急成長中の会社が配当をあまり払わない理由は？",
+   "options": [
+    "利益を事業拡大に使うから",
+    "利益がないから",
+    "株主がいないから",
+    "法律で禁止されているから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Young, fast-growing companies usually keep their profits to expand the business instead.\""
+  },
+  {
+   "q": "total return に含まれるものは？",
+   "options": [
+    "株価の変化と配当の両方",
+    "手数料",
+    "株価だけ",
+    "配当だけ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the total return, which includes both price changes and dividends.\""
+  },
+  {
+   "q": "accumulation 型ファンドの特徴は？",
+   "options": [
+    "株を持たない",
+    "ファンドの中で配当を自動的に再投資する",
+    "手数料がない",
+    "配当を毎月現金で払う"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Many funds offer accumulation versions, which automatically reinvest dividends inside the fund.\""
+  }
+ ]
+}

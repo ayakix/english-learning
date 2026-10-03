@@ -1,0 +1,194 @@
+{
+ "id": "tc025",
+ "author": "claude",
+ "category": "tech",
+ "title": "Power Optimization for Battery-Powered Sensors",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "deep sleep",
+  "power budget",
+  "duty cycle"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine a small sensor in your garden that measures soil moisture and sends the data to your phone. You do not want to change its battery every week. You want it to run for months, maybe a year. To do that, you need to think carefully about power."
+  },
+  {
+   "speaker": "A",
+   "text": "Start with a power budget. This is a simple calculation of how much energy each part uses and how long the battery can last. Wi-Fi radios, for example, use a lot of power when they are active. Sensors and the processor also use energy."
+  },
+  {
+   "speaker": "A",
+   "text": "The most important technique is deep sleep. Most of the time, the device does not need to do anything. In deep sleep, the microcontroller turns off almost everything, using only a tiny amount of current. A timer wakes it up at regular intervals."
+  },
+  {
+   "speaker": "A",
+   "text": "This leads to the idea of a duty cycle, the percentage of time the device is active. For example, the sensor might wake up for two seconds every ten minutes, take a reading, send it, and go back to sleep. That is a very low duty cycle, which means long battery life."
+  },
+  {
+   "speaker": "A",
+   "text": "Other tips help too. Send data less often, or send several readings at once. Turn off sensors and LEDs when they are not needed. Choose a low-power way to communicate."
+  },
+  {
+   "speaker": "A",
+   "text": "With careful design, a device that would die in a day can run for many months on the same battery."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine a small sensor in your garden that measures soil moisture and sends the data to your phone.",
+   "start": 0.0,
+   "end": 6.56,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You do not want to change its battery every week.",
+   "start": 6.99,
+   "end": 9.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You want it to run for months, maybe a year.",
+   "start": 10.38,
+   "end": 13.5,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To do that, you need to think carefully about power.",
+   "start": 13.93,
+   "end": 17.29,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Start with a power budget.",
+   "start": 17.81,
+   "end": 19.41,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is a simple calculation of how much energy each part uses and how long the battery can last.",
+   "start": 20.32,
+   "end": 26.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Wi-Fi radios, for example, use a lot of power when they are active.",
+   "start": 27.47,
+   "end": 31.79,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Sensors and the processor also use energy.",
+   "start": 32.7,
+   "end": 35.82,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The most important technique is deep sleep.",
+   "start": 36.34,
+   "end": 39.46,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Most of the time, the device does not need to do anything.",
+   "start": 40.13,
+   "end": 43.33,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In deep sleep, the microcontroller turns off almost everything, using only a tiny amount of current.",
+   "start": 44.32,
+   "end": 51.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A timer wakes it up at regular intervals.",
+   "start": 52.03,
+   "end": 54.91,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This leads to the idea of a duty cycle, the percentage of time the device is active.",
+   "start": 55.43,
+   "end": 60.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, the sensor might wake up for two seconds every ten minutes, take a reading, send it, and go back to sleep.",
+   "start": 61.7,
+   "end": 69.54,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is a very low duty cycle, which means long battery life.",
+   "start": 70.53,
+   "end": 74.93,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Other tips help too.",
+   "start": 75.45,
+   "end": 76.73,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Send data less often, or send several readings at once.",
+   "start": 77.4,
+   "end": 82.12,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Turn off sensors and LEDs when they are not needed.",
+   "start": 82.79,
+   "end": 86.19,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Choose a low-power way to communicate.",
+   "start": 86.82,
+   "end": 89.3,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "With careful design, a device that would die in a day can run for many months on the same battery.",
+   "start": 89.9,
+   "end": 96.46,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 237,
+ "duration": 96.4,
+ "wpm": 148,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:54"
+}

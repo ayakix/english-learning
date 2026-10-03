@@ -1,0 +1,114 @@
+{
+ "id": "wn008",
+ "author": "claude",
+ "summary_ja": "フレンチオークとアメリカンオークは樹種が違い、成分も違う。フレンチオークは木目が細かく、控えめなスパイスやトースト、少しのバニラと細かいタンニンを与える。アメリカンオークはラクトン（ココナッツ香）やバニリンが多く、甘く強い香り。樽を作るときの内側の焼き具合（トースト）でも香りが変わる。",
+ "listening": [
+  {
+   "q": "フレンチオークの特徴は？",
+   "options": [
+    "香りがまったくない",
+    "木目が細かく、控えめな香りと細かいタンニン",
+    "木目が粗い",
+    "ココナッツの強い香り"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"French oak usually has a tighter grain ... French oak tends to give more subtle flavors.\""
+  },
+  {
+   "q": "アメリカンオークに多い、ココナッツのような香りの成分は？",
+   "options": [
+    "酸",
+    "ラクトン",
+    "タンニン",
+    "アルコール"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It's rich in compounds called lactones, which can smell like coconut.\""
+  },
+  {
+   "q": "樽の内側を強く焼くとどんな香りになる？",
+   "options": [
+    "レモン",
+    "花やハーブ",
+    "何も変わらない",
+    "スモーキー、キャラメル、コーヒー"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A heavy toast creates smoky, caramel and coffee notes.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "それらは違う種類のオークの木から来ていて、木の化学的性質も違います。",
+   "points_ja": "species of oak が「スピーシーザヴオーク」とつながり、has a が「ハザ」になります。"
+  },
+  {
+   "sentence": 8,
+   "ja": "そして、細かくシルクのようなタンニンの骨格を加えることが多いです。",
+   "points_ja": "adds a fine がつながり、silky tannin が続けて聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "つまり、醸造家はほぼ風味を選べるということですね。",
+   "points_ja": "can almost がつながり、choose a が「チューザ」になります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ワインの保存方法",
+    "樽の木の種類と焼き具合がワインの香りに影響する",
+    "樽の値段の比較",
+    "フランスとアメリカの森"
+   ],
+   "answer": 1,
+   "explanation_ja": "フレンチとアメリカン、トーストの違いを話しています。"
+  },
+  {
+   "q": "フレンチオークの木目が細かい理由は？",
+   "options": [
+    "機械で加工するから",
+    "早く育つから",
+    "水が多いから",
+    "涼しい森でゆっくり育つから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"because the trees grow slowly in cooler forests.\""
+  },
+  {
+   "q": "vanillin はどこから来る？",
+   "options": [
+    "瓶から",
+    "ブドウの皮から",
+    "砂糖から",
+    "木そのものと、樽を作るときの焼き（トースト）から"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Partly from the wood itself, but also from the toast level.\""
+  },
+  {
+   "q": "軽いトーストの特徴は？",
+   "options": [
+    "コーヒーの香りが強くなる",
+    "木本来の個性が多く残る",
+    "スモーキーになる",
+    "香りがなくなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A light toast keeps more of the natural wood character.\""
+  },
+  {
+   "q": "伝統的にアメリカンオークを使ってきた例として挙げられているのは？",
+   "options": [
+    "ボルドー",
+    "シャンパーニュ",
+    "スペインのリオハ",
+    "ブルゴーニュ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Classic Spanish Rioja often used American oak\"。"
+  }
+ ]
+}

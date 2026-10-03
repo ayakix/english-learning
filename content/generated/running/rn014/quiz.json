@@ -1,0 +1,114 @@
+{
+ "id": "rn014",
+ "author": "claude",
+ "summary_ja": "前半を速く入って後半大きく失速するより、少し遅く入って後半を速く走る「ネガティブスプリット」が賢いとコーチは言う。後半が前半より速いのがネガティブ、同じならイーブン、遅いのがポジティブで市民ランナーに最も多い。遅めに入るとグリコーゲンを節約でき、効率のよい有酸素でエネルギーを作れる。最後に人を抜くのは気持ちよい。目標ペースより1kmあたり数秒遅く入り、徐々に上げる。",
+ "listening": [
+  {
+   "q": "negative split とは？",
+   "options": [
+    "途中で歩くこと",
+    "後半に失速すること",
+    "レースの後半を前半より速く走ること",
+    "前半と後半を同じペースで走ること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A negative split means that the second half of a race is faster than the first.\""
+  },
+  {
+   "q": "市民ランナーに最も多いパターンは？",
+   "options": [
+    "後半に遅くなるポジティブスプリット",
+    "途中棄権",
+    "イーブンスプリット",
+    "ネガティブスプリット"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The opposite, a positive split, means slowing down in the second half. This is the most common pattern among recreational runners.\""
+  },
+  {
+   "q": "実践的なアドバイスは？",
+   "options": [
+    "最初から全力",
+    "ペースを気にしない",
+    "目標ペースより1kmあたり数秒遅く入り、落ち着いたら徐々に上げる",
+    "後半に歩く"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Start a few seconds per kilometer slower than your target pace, and speed up gradually once you feel settled.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "1人目は速く入り、前半は気分よく走りますが、その後大きく失速します。",
+   "points_ja": "starts fast の s が重なり、slows down a lot が「スロウズダウナラット」と聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "前半と後半が同じペースのイーブンスプリットも、良い結果です。",
+   "points_ja": "even split がつながり、halves at the same が続けて聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "最後の10kmで他のランナーを抜くのは、すばらしい気分です。",
+   "points_ja": "Passing other runners in the が一続きに聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ペースは気にしなくてよい",
+    "前半で貯金を作るべき",
+    "後半は必ず失速する",
+    "レースは少し抑えて入り、後半に上げるネガティブスプリットが賢い"
+   ],
+   "answer": 3,
+   "explanation_ja": "スプリットの種類、遅めに入る理由、実践方法を説明しています。"
+  },
+  {
+   "q": "glycogen preservation が大切な理由は？",
+   "options": [
+    "脚が軽くなるから",
+    "速すぎる入りは限られた炭水化物の蓄えを早く使ってしまうから",
+    "汗をかかないから",
+    "体重が減るから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When you run too fast early, you burn your limited carbohydrate stores quickly.\""
+  },
+  {
+   "q": "aerobic efficiency の説明として正しいものは？",
+   "options": [
+    "息を止めて走ること",
+    "持続できるペースでは、主に酸素を使って効率よくエネルギーを作る",
+    "速く走るほど効率がよいこと",
+    "呼吸を速くすること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"At a sustainable pace, your body produces energy mainly with oxygen, which is efficient.\""
+  },
+  {
+   "q": "ペース戦略の精神面の利点は？",
+   "options": [
+    "景色が楽しめる",
+    "応援が増える",
+    "眠くならない",
+    "最後に人を抜くと気分がよく、抜かれるとつらい"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Passing other runners in the last ten kilometers feels wonderful. Being passed feels terrible.\""
+  },
+  {
+   "q": "話し手が目標として勧めるのは？",
+   "options": [
+    "毎回違うペース",
+    "わずかなネガティブスプリット",
+    "前半全力",
+    "大きなポジティブスプリット"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"In practice, a slight negative split is a good goal.\""
+  }
+ ]
+}

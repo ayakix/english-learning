@@ -1,0 +1,201 @@
+{
+ "id": "wn038",
+ "author": "claude",
+ "category": "wine",
+ "title": "Old Vines (Vieilles Vignes) and Root Depth",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "vieilles vignes",
+  "taproot",
+  "berry concentration"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Some wine labels in France say Vieilles Vignes. In English, this means old vines. Many wine lovers see these words as a promise of a deeper, more concentrated wine. But what exactly makes old vines special?"
+  },
+  {
+   "speaker": "A",
+   "text": "First, it is important to know that there is no legal definition in France. One producer may call vines old at thirty years, another only at sixty or more. So the term depends on the producer's honesty."
+  },
+  {
+   "speaker": "A",
+   "text": "Still, there are real differences. As vines get older, they usually produce fewer grapes. The bunches are smaller, and the berries are often small too. Smaller berries have more skin compared to juice. Since much of the color, tannin and flavor is in the skins, the wine can taste more concentrated. This is called berry concentration."
+  },
+  {
+   "speaker": "A",
+   "text": "Old vines also tend to have deep root systems. Many have a strong main root, called a taproot, that can grow several meters into the ground. Deep roots can reach water in dry years and are less affected by heavy rain near the surface. This helps old vines stay balanced when the weather is extreme."
+  },
+  {
+   "speaker": "A",
+   "text": "So why don't all wineries keep old vines? Because lower yields mean less wine to sell. Old vines can also be more fragile and may need replacing over time."
+  },
+  {
+   "speaker": "A",
+   "text": "For many growers, keeping old vines is an investment in quality and tradition."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Some wine labels in France say Vieilles Vignes.",
+   "start": 0.0,
+   "end": 3.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In English, this means old vines.",
+   "start": 3.71,
+   "end": 6.35,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many wine lovers see these words as a promise of a deeper, more concentrated wine.",
+   "start": 7.02,
+   "end": 12.38,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But what exactly makes old vines special?",
+   "start": 12.89,
+   "end": 15.53,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "First, it is important to know that there is no legal definition in France.",
+   "start": 16.05,
+   "end": 20.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One producer may call vines old at thirty years, another only at sixty or more.",
+   "start": 21.36,
+   "end": 26.72,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So the term depends on the producer's honesty.",
+   "start": 27.15,
+   "end": 29.71,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Still, there are real differences.",
+   "start": 30.23,
+   "end": 32.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "As vines get older, they usually produce fewer grapes.",
+   "start": 33.46,
+   "end": 37.3,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The bunches are smaller, and the berries are often small too.",
+   "start": 37.73,
+   "end": 40.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Smaller berries have more skin compared to juice.",
+   "start": 42.08,
+   "end": 45.48,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Since much of the color, tannin and flavor is in the skins, the wine can taste more concentrated.",
+   "start": 45.95,
+   "end": 52.15,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called berry concentration.",
+   "start": 52.54,
+   "end": 54.7,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Old vines also tend to have deep root systems.",
+   "start": 55.22,
+   "end": 58.26,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many have a strong main root, called a taproot, that can grow several meters into the ground.",
+   "start": 58.93,
+   "end": 65.25,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Deep roots can reach water in dry years and are less affected by heavy rain near the surface.",
+   "start": 65.68,
+   "end": 71.28,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This helps old vines stay balanced when the weather is extreme.",
+   "start": 71.71,
+   "end": 75.07,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So why don't all wineries keep old vines?",
+   "start": 75.59,
+   "end": 78.43,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Because lower yields mean less wine to sell.",
+   "start": 79.06,
+   "end": 82.18,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Old vines can also be more fragile and may need replacing over time.",
+   "start": 82.61,
+   "end": 86.77,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "For many growers, keeping old vines is an investment in quality and tradition.",
+   "start": 87.29,
+   "end": 92.41,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 226,
+ "duration": 92.4,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:50"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "wt015",
+ "author": "claude",
+ "category": "watches",
+ "title": "Screwed Gold Chatons",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "gold chaton",
+  "jewel bearing",
+  "blued steel screws"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In some fine movements, the red jewels are not simply pressed into the metal. Each one sits inside a small gold ring, held in place by two or three tiny blue screws. These gold rings are called chatons."
+  },
+  {
+   "speaker": "A",
+   "text": "To understand why, we need to talk about jewel bearings. Watch wheels turn on very thin pivots. If steel pivots turned directly in brass holes, both would wear down quickly. So watchmakers use hard stones, today usually synthetic rubies, as bearings. They reduce friction and help the watch last for decades."
+  },
+  {
+   "speaker": "A",
+   "text": "Long ago, these jewels were difficult to make and difficult to fit. Setting a jewel in a separate gold chaton made it easier to install, adjust and replace. If a jewel cracked, the watchmaker could simply take out the screws and change the whole chaton."
+  },
+  {
+   "speaker": "A",
+   "text": "Later, machines made it possible to press jewels directly into the plate with high precision. Gold chatons were no longer necessary. Most watches today do not use them."
+  },
+  {
+   "speaker": "A",
+   "text": "So why do some makers, especially in Glashütte, still use them? The answer is tradition and beauty. The warm gold, the deep red stone and the blued steel screws together create a rich, classic look. For collectors, gold chatons are a link to the history of fine watchmaking."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In some fine movements, the red jewels are not simply pressed into the metal.",
+   "start": 0.0,
+   "end": 4.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Each one sits inside a small gold ring, held in place by two or three tiny blue screws.",
+   "start": 5.63,
+   "end": 12.03,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These gold rings are called chatons.",
+   "start": 12.94,
+   "end": 15.26,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To understand why, we need to talk about jewel bearings.",
+   "start": 15.86,
+   "end": 19.86,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Watch wheels turn on very thin pivots.",
+   "start": 20.53,
+   "end": 23.49,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If steel pivots turned directly in brass holes, both would wear down quickly.",
+   "start": 24.08,
+   "end": 29.36,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So watchmakers use hard stones, today usually synthetic rubies, as bearings.",
+   "start": 29.79,
+   "end": 35.87,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "They reduce friction and help the watch last for decades.",
+   "start": 36.7,
+   "end": 40.3,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Long ago, these jewels were difficult to make and difficult to fit.",
+   "start": 40.9,
+   "end": 45.78,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Setting a jewel in a separate gold chaton made it easier to install, adjust and replace.",
+   "start": 46.21,
+   "end": 52.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If a jewel cracked, the watchmaker could simply take out the screws and change the whole chaton.",
+   "start": 52.96,
+   "end": 58.56,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Later, machines made it possible to press jewels directly into the plate with high precision.",
+   "start": 59.08,
+   "end": 65.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Gold chatons were no longer necessary.",
+   "start": 65.83,
+   "end": 68.71,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Most watches today do not use them.",
+   "start": 69.18,
+   "end": 71.46,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So why do some makers, especially in Glashütte, still use them?",
+   "start": 71.98,
+   "end": 76.5,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The answer is tradition and beauty.",
+   "start": 77.13,
+   "end": 79.89,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The warm gold, the deep red stone and the blued steel screws together create a rich, classic look.",
+   "start": 80.52,
+   "end": 87.76,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "For collectors, gold chatons are a link to the history of fine watchmaking.",
+   "start": 88.39,
+   "end": 93.43,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 210,
+ "duration": 93.3,
+ "wpm": 135,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:44"
+}

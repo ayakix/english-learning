@@ -1,0 +1,114 @@
+{
+ "id": "fi005",
+ "author": "claude",
+ "summary_ja": "引き出しに100万円を20年置いても100万円のままだが、損をしていないとは言えない。インフレ（物価の全体的な上昇）で、同じお金で買えるものが減る（購買力の低下）。年2%でも、今1,000円のものは約20年で約1,500円に、現金の実質価値は約35年で半分になる。日本は長く低インフレだったが、最近は食品やエネルギーが値上がりした。長期では株は一般にインフレより速く成長してきた。",
+ "listening": [
+  {
+   "q": "引き出しの現金が損をしていると言える理由は？",
+   "options": [
+    "泥棒に盗まれるから",
+    "お札が古くなるから",
+    "物価が上がり、同じお金で買えるものが減るから",
+    "税金がかかるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When prices rise, each yen buys a little less than before.\""
+  },
+  {
+   "q": "年2%のインフレで、今1,000円のものは約20年後に？",
+   "options": [
+    "約500円",
+    "約2,000円",
+    "約1,500円",
+    "約1,020円"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"something that costs one thousand yen today will cost about one thousand five hundred yen in around twenty years.\""
+  },
+  {
+   "q": "人々が投資する主な理由の一つとして話されているのは？",
+   "options": [
+    "銀行がないから",
+    "株は下がらないから",
+    "長期では株が一般にインフレより速く成長してきたから",
+    "現金が使えなくなるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Over long periods, stocks have generally grown faster than inflation\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "取り出したとき、まだ100万円あります。",
+   "points_ja": "take it out が「テイキタウト」、still have one million が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "お金に書かれた数字は同じですが、買えるものは少なくなります。",
+   "points_ja": "same number on it がつながり、buy fewer things が続けて聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "もちろん、誰でも日々の生活や緊急時のための現金は必要です。",
+   "points_ja": "Of course が「アヴコース」、daily life and emergencies の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "現金が一番安全",
+    "インフレでお金の価値は静かに下がるので、長く使わないお金は投資を考える価値がある",
+    "株は危険なのでやめるべき",
+    "物価は下がり続ける"
+   ],
+   "answer": 1,
+   "explanation_ja": "インフレ、購買力、日本の状況、投資の理由を説明しています。"
+  },
+  {
+   "q": "inflation の意味は？",
+   "options": [
+    "給料が上がること",
+    "時間とともに物価が全体的に上がること",
+    "物価が下がること",
+    "金利が上がること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Inflation is the general rise in prices over time.\""
+  },
+  {
+   "q": "purchasing power の意味は？",
+   "options": [
+    "店の数",
+    "給料の額",
+    "銀行の力",
+    "お金で買える力"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Economists call this the loss of purchasing power.\""
+  },
+  {
+   "q": "日本の最近の変化として書かれているのは？",
+   "options": [
+    "物価が下がり続けている",
+    "現金が使えなくなった",
+    "株が禁止された",
+    "食品、エネルギーなど多くのものの値段が上がった"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"But in recent years, prices of food, energy and many other goods have risen.\""
+  },
+  {
+   "q": "最後の段落の内容は？",
+   "options": [
+    "現金はすべて投資すべき",
+    "日常や緊急時の現金は必要だが、長く使わないお金は引き出しで価値を失うかもしれない",
+    "引き出しは安全",
+    "現金は不要"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"But money that you will not need for many years may lose value quietly if it just sits in a drawer.\""
+  }
+ ]
+}

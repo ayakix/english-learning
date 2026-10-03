@@ -1,0 +1,197 @@
+{
+ "id": "wt009",
+ "author": "claude",
+ "category": "watches",
+ "title": "Free-Sprung Balances Explained",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "free-sprung balance",
+  "masselottes",
+  "isochronism"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In most mechanical watches, there is a small arm near the balance wheel called the regulator. By moving this arm, a watchmaker changes the active length of the hairspring. A shorter spring makes the watch run faster. A longer one makes it run slower. It is simple and convenient."
+  },
+  {
+   "speaker": "A",
+   "text": "However, many top manufacturers prefer a different system called a free-sprung balance. Here, there is no regulator arm at all. The hairspring swings completely free, from its center to its outer end."
+  },
+  {
+   "speaker": "A",
+   "text": "So how do you adjust the timing? Instead of changing the spring, you change the balance wheel itself. On the rim of the wheel, there are small adjustable weights, often called masselottes. By turning them slightly outward or inward, the watchmaker changes the wheel's inertia, or how easily it starts and stops moving. This changes the rate."
+  },
+  {
+   "speaker": "A",
+   "text": "Why go to this trouble? One reason is isochronism. That means the balance takes the same time for each swing, whether the swing is large or small. A free hairspring can breathe more evenly, so it can keep better time. Another reason is stability. A sharp knock cannot push a regulator arm out of place, because there isn't one."
+  },
+  {
+   "speaker": "A",
+   "text": "The downside is that adjustment needs more skill and special tools. But for many collectors, a free-sprung balance is a clear sign of serious watchmaking."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In most mechanical watches, there is a small arm near the balance wheel called the regulator.",
+   "start": 0.0,
+   "end": 5.44,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "By moving this arm, a watchmaker changes the active length of the hairspring.",
+   "start": 6.27,
+   "end": 11.07,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A shorter spring makes the watch run faster.",
+   "start": 11.66,
+   "end": 14.38,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A longer one makes it run slower.",
+   "start": 14.97,
+   "end": 17.37,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is simple and convenient.",
+   "start": 17.8,
+   "end": 19.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "However, many top manufacturers prefer a different system called a free-sprung balance.",
+   "start": 20.4,
+   "end": 26.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Here, there is no regulator arm at all.",
+   "start": 27.47,
+   "end": 30.43,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The hairspring swings completely free, from its center to its outer end.",
+   "start": 30.86,
+   "end": 35.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So how do you adjust the timing?",
+   "start": 36.26,
+   "end": 38.34,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of changing the spring, you change the balance wheel itself.",
+   "start": 38.93,
+   "end": 43.41,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "On the rim of the wheel, there are small adjustable weights, often called masselottes.",
+   "start": 43.84,
+   "end": 49.36,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "By turning them slightly outward or inward, the watchmaker changes the wheel's inertia, or how easily it starts and stops moving.",
+   "start": 49.79,
+   "end": 58.35,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This changes the rate.",
+   "start": 58.86,
+   "end": 60.3,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why go to this trouble?",
+   "start": 60.82,
+   "end": 62.66,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "One reason is isochronism.",
+   "start": 63.09,
+   "end": 65.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That means the balance takes the same time for each swing, whether the swing is large or small.",
+   "start": 66.04,
+   "end": 72.24,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A free hairspring can breathe more evenly, so it can keep better time.",
+   "start": 72.67,
+   "end": 77.39,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Another reason is stability.",
+   "start": 77.94,
+   "end": 79.98,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A sharp knock cannot push a regulator arm out of place, because there isn't one.",
+   "start": 80.45,
+   "end": 85.61,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The downside is that adjustment needs more skill and special tools.",
+   "start": 86.13,
+   "end": 90.69,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But for many collectors, a free-sprung balance is a clear sign of serious watchmaking.",
+   "start": 91.28,
+   "end": 96.88,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 222,
+ "duration": 96.8,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:43"
+}

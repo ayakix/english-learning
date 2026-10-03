@@ -1,0 +1,114 @@
+{
+ "id": "fi008",
+ "author": "claude",
+ "summary_ja": "ETF（上場投資信託）は人気の投資方法。ファンドは多くの投資家のお金で株や債券などをまとめて買い、各人が全体の一部を持つので分散しやすい。従来の投資信託は1日1回、市場が閉まった後の価格で売買するが、ETF は株のように取引所で市場が開いている間いつでも今の価格で売買できる。多くは指数に連動。手数料が安く、中身が分かり、柔軟。売買しすぎや複雑な仕組みには注意。",
+ "listening": [
+  {
+   "q": "ETF は何の略？",
+   "options": [
+    "equity trust fund",
+    "exchange-traded fund（上場投資信託）",
+    "easy transfer fund",
+    "electronic trading fee"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The letters stand for exchange-traded fund.\""
+  },
+  {
+   "q": "ETF と従来の投資信託の違いは？",
+   "options": [
+    "ETF は銀行でしか買えない",
+    "ETF は取引所で市場が開いている間いつでも売買できる",
+    "ETF は1日1回しか売買できない",
+    "違いはない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It is traded on a stock exchange, just like a company's shares. You can buy or sell it at any time while the market is open\"。"
+  },
+  {
+   "q": "ETF の注意点として話されているのは？",
+   "options": [
+    "手数料がとても高い",
+    "株より危険",
+    "中身が分からない",
+    "簡単に売買できるので売買しすぎやすく、複雑な仕組みのものもある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Trading easily can tempt people to buy and sell too often ... Some ETFs also use complicated strategies\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "近年、ETF は最も人気のある投資方法の一つになりました。",
+   "points_ja": "In recent years が続き、one of the most popular が続けて聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "各投資家は、全体のまとまりの小さな一部を持っています。",
+   "points_ja": "Each investor owns a small が続き、share of the whole が「シェアラヴザホウル」と聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "たいてい、ファンドが何を持っているか正確に見ることができます。",
+   "points_ja": "see exactly what the fund holds が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "株の発明の歴史",
+    "銀行の選び方",
+    "ETF の仕組みと人気の理由、注意点",
+    "金の買い方"
+   ],
+   "answer": 2,
+   "explanation_ja": "ファンドの仕組み、取引所での売買、指数連動、利点と注意点を説明しています。"
+  },
+  {
+   "q": "fund の説明として正しいものは？",
+   "options": [
+    "銀行の預金",
+    "多くの投資家のお金を集め、まとめて投資するもの",
+    "会社の株",
+    "一人の投資家のお金"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A fund collects money from many investors and uses it to buy a large group of investments\"。"
+  },
+  {
+   "q": "多くの ETF が連動するものとして挙げられていないものは？",
+   "options": [
+    "株式指数",
+    "金",
+    "宝くじ",
+    "債券指数"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"a broad stock market index, a bond index, gold or even a specific industry\"。"
+  },
+  {
+   "q": "transparent の意味として本文に合うのは？",
+   "options": [
+    "色がない",
+    "すぐ売れる",
+    "ファンドが何を持っているか見られる",
+    "手数料がない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"You can usually see exactly what the fund holds.\""
+  },
+  {
+   "q": "長期の投資家への勧めは？",
+   "options": [
+    "毎日売買する",
+    "複雑な戦略の ETF",
+    "幅広い市場に連動する、シンプルで低コストの ETF",
+    "1つの業種だけ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"a simple, low-cost ETF that tracks a broad market is a good place to start.\""
+  }
+ ]
+}

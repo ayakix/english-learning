@@ -1,0 +1,190 @@
+{
+ "id": "wn001",
+ "author": "claude",
+ "category": "wine",
+ "title": "Bordeaux Left Bank vs Right Bank Soils",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "gravelly soil",
+  "clay-limestone",
+  "drainage"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Bordeaux is divided by rivers into two famous areas, the Left Bank and the Right Bank. They are only a short drive apart, but their wines taste quite different. One big reason is the soil."
+  },
+  {
+   "speaker": "A",
+   "text": "On the Left Bank, in places like the Médoc, many of the best vineyards sit on gravelly soil. These are deep layers of small stones left by ancient rivers. Gravel has two important qualities. First, it gives excellent drainage. Rainwater runs through it quickly, so the vine roots must go deep to find water. Second, the stones absorb heat during the day and release it at night. This helps a late-ripening grape: Cabernet Sauvignon."
+  },
+  {
+   "speaker": "A",
+   "text": "On the Right Bank, in areas like Saint-Émilion and Pomerol, there is much more clay and limestone. Clay holds water and stays cooler. Here, Merlot is the main grape. It ripens earlier than Cabernet Sauvignon, so it does well in cooler soils."
+  },
+  {
+   "speaker": "A",
+   "text": "You can taste the result. Left Bank wines, based on Cabernet Sauvignon, are often structured and firm, with strong tannins and flavors of blackcurrant and cedar. They usually need many years to soften. Right Bank wines, based on Merlot, are often rounder and softer, with plum and chocolate notes."
+  },
+  {
+   "speaker": "A",
+   "text": "Of course, both banks grow both grapes, and every estate is different. But if you remember gravel and Cabernet on the left, clay and Merlot on the right, you already understand a lot about Bordeaux."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Bordeaux is divided by rivers into two famous areas, the Left Bank and the Right Bank.",
+   "start": 0.0,
+   "end": 6.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They are only a short drive apart, but their wines taste quite different.",
+   "start": 6.59,
+   "end": 11.15,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One big reason is the soil.",
+   "start": 11.58,
+   "end": 13.74,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "On the Left Bank, in places like the Médoc, many of the best vineyards sit on gravelly soil.",
+   "start": 14.26,
+   "end": 20.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "These are deep layers of small stones left by ancient rivers.",
+   "start": 21.09,
+   "end": 25.41,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Gravel has two important qualities.",
+   "start": 25.84,
+   "end": 28.48,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "First, it gives excellent drainage.",
+   "start": 29.03,
+   "end": 31.51,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Rainwater runs through it quickly, so the vine roots must go deep to find water.",
+   "start": 31.9,
+   "end": 36.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, the stones absorb heat during the day and release it at night.",
+   "start": 37.37,
+   "end": 41.97,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This helps a late-ripening grape: Cabernet Sauvignon.",
+   "start": 42.36,
+   "end": 45.88,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "On the Right Bank, in areas like Saint-Émilion and Pomerol, there is much more clay and limestone.",
+   "start": 46.4,
+   "end": 52.92,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Clay holds water and stays cooler.",
+   "start": 53.55,
+   "end": 55.91,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Here, Merlot is the main grape.",
+   "start": 56.54,
+   "end": 58.78,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It ripens earlier than Cabernet Sauvignon, so it does well in cooler soils.",
+   "start": 59.53,
+   "end": 64.25,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "You can taste the result.",
+   "start": 64.77,
+   "end": 66.61,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Left Bank wines, based on Cabernet Sauvignon, are often structured and firm, with strong tannins and flavors of blackcurrant and cedar.",
+   "start": 67.28,
+   "end": 76.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "They usually need many years to soften.",
+   "start": 76.83,
+   "end": 79.63,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Right Bank wines, based on Merlot, are often rounder and softer, with plum and chocolate notes.",
+   "start": 80.06,
+   "end": 86.54,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course, both banks grow both grapes, and every estate is different.",
+   "start": 87.06,
+   "end": 91.54,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But if you remember gravel and Cabernet on the left, clay and Merlot on the right, you already understand a lot about Bordeaux.",
+   "start": 92.29,
+   "end": 100.37,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 235,
+ "duration": 100.3,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-03 23:47"
+}

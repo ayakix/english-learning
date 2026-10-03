@@ -1,0 +1,114 @@
+{
+ "id": "tc011",
+ "author": "claude",
+ "summary_ja": "プロダクト・マーケット・フィット（PMF）は、製品が特定の人々の本当の問題を解決し、使い続けて人に勧めたくなる状態。個人開発では特に重要で、全員向けにせず、登山家や看護師向けなどのニッチ市場を狙う。完璧を目指さず数週間で簡単な版を作り、実際のユーザーの使い方を見て改善を繰り返す（ラピッドプロトタイピング）。継続率や自発的な推薦が近づいているサイン。",
+ "listening": [
+  {
+   "q": "product-market fit とは？",
+   "options": [
+    "製品の値段が市場と同じこと",
+    "広告がうまくいくこと",
+    "アプリストアの上位に入ること",
+    "製品が特定の人々の本当の問題を解決し、使い続けて勧めたくなる状態"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It means your product clearly solves a real problem for a specific group of people, and they want it badly enough to keep using it and tell others.\""
+  },
+  {
+   "q": "個人開発者によくある失敗は？",
+   "options": [
+    "ニッチを選ぶこと",
+    "全員を相手にしようとすること",
+    "ユーザーの話を聞くこと",
+    "早く作ること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"One common mistake is trying to serve everyone.\""
+  },
+  {
+   "q": "PMF に近づいているサインとして話されていないものは？",
+   "options": [
+    "頼まれずに勧めるユーザーがいる",
+    "壊れると怒るユーザーがいる",
+    "継続率が高い",
+    "広告費が多い"
+   ],
+   "answer": 3,
+   "explanation_ja": "継続率、怒るユーザー、自発的な推薦が挙げられ、広告費は出てきません。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "個人開発者にとって、時間とエネルギーが限られているので、PMF を見つけることは特に重要です。",
+   "points_ja": "solo developer がつながり、time and energy are limited が続けて聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "完璧なアプリを作るのに1年かける代わりに、簡単な版を、たとえば数週間で素早く作りましょう。",
+   "points_ja": "Instead of が「インステダヴ」、build a simple が「ビルダシンプル」と聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "そうしたサインが現れたら、あなたはもう単にアプリを作っているだけではありません。",
+   "points_ja": "signals appear がつながり、building an app が「ビルディンガナップ」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "個人開発者はニッチを狙い、素早く作って改善しながら PMF を探すべき",
+    "完璧なアプリを1年かけて作るべき",
+    "大企業と競争すべき",
+    "ユーザーの声は聞かなくてよい"
+   ],
+   "answer": 0,
+   "explanation_ja": "PMF の意味、ニッチ市場、ラピッドプロトタイピング、サインを説明しています。"
+  },
+  {
+   "q": "niche market の説明として正しいものは？",
+   "options": [
+    "特別なニーズを持つ、小さいがはっきり定義された利用者のグループ",
+    "海外の市場",
+    "無料のアプリ",
+    "大きな市場"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a small but clearly defined group of users with special needs.\""
+  },
+  {
+   "q": "一般的なメモアプリより登山家向けのメモアプリのほうが有利な理由は？",
+   "options": [
+    "作るのが簡単だから",
+    "登山家はお金持ちだから",
+    "山では電波がないから",
+    "大手と直接競争せず、人々を深く理解でき、勧めてもらいやすいから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In a niche, you can understand people deeply, and they are more likely to notice and recommend your app.\""
+  },
+  {
+   "q": "rapid prototyping の進め方は？",
+   "options": [
+    "1年かけて完璧に作る",
+    "数週間で簡単な版を作り、ユーザーに見せて改善を繰り返す",
+    "他人のアプリを真似する",
+    "作らずに企画書だけ作る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"build a simple version quickly, maybe in a few weeks. Show it to real users ... Then improve it, again and again.\""
+  },
+  {
+   "q": "retention の意味は？",
+   "options": [
+    "ダウンロード数",
+    "1週間後や1か月後に戻ってくる人の割合",
+    "レビューの点数",
+    "アプリの容量"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Look at retention, meaning how many people come back after a week or a month.\""
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "rn002",
+ "author": "claude",
+ "summary_ja": "90分を超えるレースではカーボローディングが効果的。筋肉にできるだけグリコーゲンを蓄える（超回復）。今はレース前36〜48時間に行い、体重1kgあたり1日8〜12gの炭水化物が目安（60kgなら500〜700g）。白パンやバナナなど消化しやすい食品を選び、脂肪や食物繊維を減らす。テーパリングで練習量を減らす。グリコーゲンは水と一緒に蓄えられるので1〜2kg増えるのは良いサイン。",
+ "listening": [
+  {
+   "q": "カーボローディングが特に効果的なのは？",
+   "options": [
+    "5kmのレース",
+    "約90分を超えるレース",
+    "すべての運動",
+    "短距離走"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"For races longer than about ninety minutes, it can make a real difference.\""
+  },
+  {
+   "q": "今の一般的なアドバイスでは、いつ始める？",
+   "options": [
+    "レース前の36〜48時間",
+    "1週間前から断食",
+    "1か月前",
+    "レース当日の朝だけ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Modern advice usually suggests the last thirty-six to forty-eight hours.\""
+  },
+  {
+   "q": "体重が1〜2kg増えることについて B は何と言っている？",
+   "options": [
+    "走れなくなる",
+    "グリコーゲンは水と一緒に蓄えられるので、むしろ良いサイン",
+    "食べすぎの印",
+    "病気の印"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Glycogen is stored with water, so gaining one or two kilograms is normal. That's actually a good sign.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "目標は、筋肉をできるだけ多くのグリコーゲンで満たすことです。",
+   "points_ja": "fill your muscles がつながり、as much glycogen as possible が続けて聞こえます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "それはよく、体重1kgあたりのグラム数で表されます。",
+   "points_ja": "often described in がつながり、kilogram of body が「キログラマヴボディ」と聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "レース前は走る量を大きく減らすので、筋肉は炭水化物を燃やさずに蓄えられます。",
+   "points_ja": "run much less がつながり、instead of burning them が「インステダヴバーニンゼム」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "カーボローディングの時期、量、食べ物、テーパリングとの関係",
+    "ダイエットの方法",
+    "パスタの作り方",
+    "マラソンの歴史"
+   ],
+   "answer": 0,
+   "explanation_ja": "カーボローディングの具体的な方法を話しています。"
+  },
+  {
+   "q": "glycogen supercompensation の意味は？",
+   "options": [
+    "筋肉にグリコーゲンを通常より多く蓄えること",
+    "体重を減らすこと",
+    "水を多く飲むこと",
+    "筋肉を大きくすること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The goal is to fill your muscles with as much glycogen as possible. Scientists call this glycogen supercompensation.\""
+  },
+  {
+   "q": "古い方法との違いは？",
+   "options": [
+    "今は1週間かける",
+    "昔は何も食べなかった",
+    "違いはない",
+    "昔は最初に数日、炭水化物をとても少なくしていたが、今はあまりしない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Older methods included a few days of very low carbs first, but most runners don't do that anymore.\""
+  },
+  {
+   "q": "この期間に減らすべきものとして話されているのは？",
+   "options": [
+    "炭水化物",
+    "塩",
+    "脂肪と食物繊維",
+    "水"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"they reduce fat and fiber, so the stomach stays comfortable.\""
+  },
+  {
+   "q": "tapering がカーボローディングに役立つ理由は？",
+   "options": [
+    "よく眠れるから",
+    "走る量が減るので、筋肉が炭水化物を燃やさずに蓄えられるから",
+    "体重が減るから",
+    "食欲が増えるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"You run much less before the race, so your muscles can store the carbs instead of burning them.\""
+  }
+ ]
+}

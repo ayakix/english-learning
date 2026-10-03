@@ -1,0 +1,169 @@
+{
+ "id": "tc021",
+ "author": "claude",
+ "category": "tech",
+ "title": "Getting Started with ESP32 and BLE",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "ESP32",
+  "Bluetooth Low Energy",
+  "peripheral mode"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you want to build your own smart gadget, the ESP32 is one of the most popular places to start. It is a small, inexpensive microcontroller, a tiny computer on a single chip, that includes both Wi-Fi and Bluetooth. Development boards cost only a few dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "One of its most useful features is Bluetooth Low Energy, or BLE. As the name suggests, BLE is designed to use very little power. It is perfect for sending small amounts of data, such as temperature readings or button presses, to a smartphone."
+  },
+  {
+   "speaker": "A",
+   "text": "In BLE, devices play different roles. A device in peripheral mode advertises its presence. It is like saying, I am here, and I have data. A central device, usually a phone, scans for these advertisements and connects. In a typical project, the ESP32 is the peripheral and your iPhone app is the central."
+  },
+  {
+   "speaker": "A",
+   "text": "Data in BLE is organized into services and characteristics. A service is a group of related data, such as environmental sensing. A characteristic is a single value inside it, such as the current temperature. The phone can read a characteristic, write to it or ask to be notified when it changes."
+  },
+  {
+   "speaker": "A",
+   "text": "A classic first project is simple: connect a temperature sensor to an ESP32 and show the value in your app. It sounds small, but it teaches you the basics of hardware, wireless communication and app development all at once."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you want to build your own smart gadget, the ESP32 is one of the most popular places to start.",
+   "start": 0.0,
+   "end": 6.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a small, inexpensive microcontroller, a tiny computer on a single chip, that includes both Wi-Fi and Bluetooth.",
+   "start": 7.23,
+   "end": 15.35,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Development boards cost only a few dollars.",
+   "start": 15.98,
+   "end": 18.78,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One of its most useful features is Bluetooth Low Energy, or BLE.",
+   "start": 19.3,
+   "end": 24.62,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "As the name suggests, BLE is designed to use very little power.",
+   "start": 25.25,
+   "end": 29.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It is perfect for sending small amounts of data, such as temperature readings or button presses, to a smartphone.",
+   "start": 30.48,
+   "end": 36.88,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In BLE, devices play different roles.",
+   "start": 37.4,
+   "end": 40.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A device in peripheral mode advertises its presence.",
+   "start": 41.11,
+   "end": 44.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It is like saying, I am here, and I have data.",
+   "start": 45.54,
+   "end": 48.82,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A central device, usually a phone, scans for these advertisements and connects.",
+   "start": 49.65,
+   "end": 54.69,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In a typical project, the ESP32 is the peripheral and your iPhone app is the central.",
+   "start": 55.52,
+   "end": 61.68,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Data in BLE is organized into services and characteristics.",
+   "start": 62.2,
+   "end": 67.08,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A service is a group of related data, such as environmental sensing.",
+   "start": 67.75,
+   "end": 72.63,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A characteristic is a single value inside it, such as the current temperature.",
+   "start": 73.06,
+   "end": 78.18,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The phone can read a characteristic, write to it or ask to be notified when it changes.",
+   "start": 78.57,
+   "end": 84.21,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A classic first project is simple: connect a temperature sensor to an ESP32 and show the value in your app.",
+   "start": 84.73,
+   "end": 92.49,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It sounds small, but it teaches you the basics of hardware, wireless communication and app development all at once.",
+   "start": 92.92,
+   "end": 100.12,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 100.0,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:54"
+}

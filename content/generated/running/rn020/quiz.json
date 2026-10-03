@@ -1,0 +1,114 @@
+{
+ "id": "rn020",
+ "author": "claude",
+ "summary_ja": "長い練習の後「30分以内に食べないと手遅れ」と言われるが、思われていたほど厳密ではない。運動直後は筋肉がグリコーゲンを蓄えやすいので、同じ日や翌朝にまた練習するなら早めの炭水化物が大切。次が2日後なら1日の総量のほうが重要。タンパク質は筋肉の修復に役立ち、20〜30gが目安。炭水化物はインスリンを出して修復も助ける。特別なドリンクは不要で、チョコレートミルクは定番。",
+ "listening": [
+  {
+   "q": "「30分の窓」について B の意見は？",
+   "options": [
+    "15分以内が正しい",
+    "完全に間違い",
+    "一部は正しいが、昔考えられていたほど厳密ではない",
+    "完全に正しい"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It's partly true, but it's not as strict as people used to think.\""
+  },
+  {
+   "q": "早めの炭水化物が最も大切なのは？",
+   "options": [
+    "2日後に練習する場合",
+    "休みの日",
+    "レースの前日",
+    "同じ日や翌朝にまた練習する場合"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It matters most if you train again soon, like a second session the same day or a hard workout the next morning.\""
+  },
+  {
+   "q": "チョコレートミルクが定番の理由は？",
+   "options": [
+    "冷たいから",
+    "カフェインが多いから",
+    "安いから",
+    "炭水化物、タンパク質、水分があり、おいしいから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Chocolate milk is a classic choice because it has carbs, protein and fluid, and it tastes good.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "運動直後は、筋肉が特にグリコーゲンを蓄えやすい状態です。",
+   "points_ja": "especially ready to store が続き、right after exercise が「ライタフターエクササイズ」と聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "それは牛乳1杯とサンドイッチや、ヨーグルトと果物かもしれません。",
+   "points_ja": "could be a glass of milk が一続きに聞こえ、yogurt with fruit が続きます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "一緒にとるとよく働き、簡単な習慣になります。",
+   "points_ja": "work well がつながり、it's an easy habit が「イッツァンイーズィハビット」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "サプリの選び方",
+    "チョコレートの作り方",
+    "練習後の炭水化物とタンパク質のとり方と、タイミングの考え方",
+    "朝食の大切さ"
+   ],
+   "answer": 2,
+   "explanation_ja": "グリコーゲンの回復、タンパク質、インスリン、食事の選び方を話しています。"
+  },
+  {
+   "q": "glycogen resynthesis の意味は？",
+   "options": [
+    "脂肪を燃やすこと",
+    "筋肉を作ること",
+    "水分を補うこと",
+    "炭水化物の蓄えを作り直すこと"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"glycogen resynthesis, rebuilding your carbohydrate stores.\""
+  },
+  {
+   "q": "次の練習が2日後なら何が重要？",
+   "options": [
+    "タイミングより1日に食べる総量",
+    "何も食べないこと",
+    "タンパク質だけ",
+    "30分以内に食べること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If your next run is in two days, total daily food is more important than exact timing.\""
+  },
+  {
+   "q": "インスリンの働きとして話されているのは？",
+   "options": [
+    "脂肪を増やす",
+    "体温を上げる",
+    "糖を筋肉に運び、修復も助ける",
+    "眠くする"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Insulin helps move sugar into the muscles and also supports repair.\""
+  },
+  {
+   "q": "最後の \"The best recovery meal is one you'll actually eat.\" の意味は？",
+   "options": [
+    "実際に食べ続けられる食事こそが一番",
+    "量が多いほど一番",
+    "食べないほうがよい",
+    "高いものが一番"
+   ],
+   "answer": 0,
+   "explanation_ja": "特別なものより、実際に食べられる普通の食事が大切という意味です。"
+  }
+ ]
+}

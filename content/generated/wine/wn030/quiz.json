@@ -1,0 +1,114 @@
+{
+ "id": "wn030",
+ "author": "claude",
+ "summary_ja": "ビオディナミは1924年のルドルフ・シュタイナーの講義に始まる有機農法の一種で、化学農薬や肥料を使わず、特別な調合剤を使う。500番は牛の角に入れて冬に埋めた牛糞、501番は角に入れた石英の粉。土の微生物を活性化し植物を強くする考え。月の暦に従う人も多い。科学的根拠は限られるが、多くの名だたるワインがこの方法で造られている。",
+ "listening": [
+  {
+   "q": "ビオディナミの始まりは？",
+   "options": [
+    "1801年のブレゲの特許",
+    "フランス政府の法律",
+    "最近の科学研究",
+    "1924年のルドルフ・シュタイナーの講義"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Biodynamics is a type of organic farming that started with lectures by Rudolf Steiner in nineteen twenty-four.\""
+  },
+  {
+   "q": "調合剤500番とは？",
+   "options": [
+    "化学肥料",
+    "石英の粉",
+    "牛の角に入れて冬に埋めた牛糞",
+    "ワインの澱"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Preparation five hundred is cow manure, put inside a cow's horn and buried in the ground over the winter.\""
+  },
+  {
+   "q": "科学的な証拠について B が言っていることは？",
+   "options": [
+    "限られていて検証しにくい考えもあるが、畑への注意で土が健康になると栽培者は言う",
+    "まったく効果がない",
+    "危険である",
+    "完全に証明されている"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The evidence is limited ... But many growers say their soils become healthier because they pay such close attention\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "有機農法と同じく、化学農薬や化学肥料を使いません。",
+   "points_ja": "Like organic がつながり、pesticides and fertilizers の and は「ン」です。"
+  },
+  {
+   "sentence": 9,
+   "ja": "春に水と混ぜて、ごく少量を土にまきます。",
+   "points_ja": "mixed with water が続き、sprayed on the soil がつながります。"
+  },
+  {
+   "sentence": 16,
+   "ja": "剪定や瓶詰めなどの作業を、月や惑星に合わせて計画します。",
+   "points_ja": "plan work like が続き、according to the moon の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "牛の育て方",
+    "有機野菜の育て方",
+    "ビオディナミの考え方と、その評価",
+    "月の満ち欠けの科学"
+   ],
+   "answer": 2,
+   "explanation_ja": "特徴的な実践と、科学的根拠についての議論を話しています。"
+  },
+  {
+   "q": "調合剤501番はどこにまく？",
+   "options": [
+    "根",
+    "土",
+    "葉",
+    "ワイン"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"it's sprayed on the leaves.\""
+  },
+  {
+   "q": "soil microbiology の意味は？",
+   "options": [
+    "土の中の小さな生き物の働き",
+    "土の値段",
+    "土の色",
+    "土の重さ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the life of tiny organisms in the soil\"。"
+  },
+  {
+   "q": "ビオディナミで月の暦に合わせて行う作業の例は？",
+   "options": [
+    "畑の購入",
+    "ラベルの印刷",
+    "ワインの販売",
+    "剪定や瓶詰め"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"They plan work like pruning or bottling according to the moon and planets.\""
+  },
+  {
+   "q": "最後の文が伝えていることは？",
+   "options": [
+    "理由はどうあれ、尊敬される多くのワインがこの方法で造られている",
+    "誰もこの方法を使っていない",
+    "ビオディナミは禁止されている",
+    "ビオディナミのワインは安い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Whatever the reason, some of the world's most respected wines are made this way.\""
+  }
+ ]
+}

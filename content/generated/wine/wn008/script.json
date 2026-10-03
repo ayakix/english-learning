@@ -1,0 +1,229 @@
+{
+ "id": "wn008",
+ "author": "claude",
+ "category": "wine",
+ "title": "French Oak vs American Oak Chemistry",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "vanillin",
+  "lactones",
+  "toast level"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When winemakers talk about barrels, they often compare French oak and American oak. Do they really taste different?"
+  },
+  {
+   "speaker": "B",
+   "text": "They do. They come from different species of oak trees, and the wood has a different chemistry. French oak usually has a tighter grain, because the trees grow slowly in cooler forests."
+  },
+  {
+   "speaker": "A",
+   "text": "What does that mean for the wine?"
+  },
+  {
+   "speaker": "B",
+   "text": "French oak tends to give more subtle flavors. Gentle spice, toast, a little vanilla. And it often adds a fine, silky tannin structure."
+  },
+  {
+   "speaker": "A",
+   "text": "And American oak?"
+  },
+  {
+   "speaker": "B",
+   "text": "American oak is famous for stronger, sweeter aromas. It's rich in compounds called lactones, which can smell like coconut. It also gives clear notes of vanilla, from a compound called vanillin."
+  },
+  {
+   "speaker": "A",
+   "text": "Where does vanillin come from, exactly?"
+  },
+  {
+   "speaker": "B",
+   "text": "Partly from the wood itself, but also from the toast level. When a barrel is made, the inside is heated over a fire. A light toast keeps more of the natural wood character. A heavy toast creates smoky, caramel and coffee notes."
+  },
+  {
+   "speaker": "A",
+   "text": "So the winemaker can almost choose a flavor."
+  },
+  {
+   "speaker": "B",
+   "text": "To some extent, yes. That's why the choice of barrel is a serious decision. Classic Spanish Rioja often used American oak, while many Bordeaux and Burgundy producers prefer French oak."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When winemakers talk about barrels, they often compare French oak and American oak.",
+   "start": 0.0,
+   "end": 5.68,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Do they really taste different?",
+   "start": 6.11,
+   "end": 7.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They do.",
+   "start": 8.59,
+   "end": 8.83,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "They come from different species of oak trees, and the wood has a different chemistry.",
+   "start": 9.34,
+   "end": 14.78,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "French oak usually has a tighter grain, because the trees grow slowly in cooler forests.",
+   "start": 15.29,
+   "end": 20.97,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What does that mean for the wine?",
+   "start": 21.69,
+   "end": 23.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "French oak tends to give more subtle flavors.",
+   "start": 24.25,
+   "end": 27.17,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Gentle spice, toast, a little vanilla.",
+   "start": 27.72,
+   "end": 30.6,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And it often adds a fine, silky tannin structure.",
+   "start": 31.35,
+   "end": 34.87,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And American oak?",
+   "start": 35.59,
+   "end": 36.87,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "American oak is famous for stronger, sweeter aromas.",
+   "start": 37.67,
+   "end": 41.75,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It's rich in compounds called lactones, which can smell like coconut.",
+   "start": 42.18,
+   "end": 46.42,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It also gives clear notes of vanilla, from a compound called vanillin.",
+   "start": 46.85,
+   "end": 51.09,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Where does vanillin come from, exactly?",
+   "start": 51.81,
+   "end": 54.53,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Partly from the wood itself, but also from the toast level.",
+   "start": 55.25,
+   "end": 58.93,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "When a barrel is made, the inside is heated over a fire.",
+   "start": 59.52,
+   "end": 63.44,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "A light toast keeps more of the natural wood character.",
+   "start": 63.87,
+   "end": 67.23,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "A heavy toast creates smoky, caramel and coffee notes.",
+   "start": 67.66,
+   "end": 71.5,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So the winemaker can almost choose a flavor.",
+   "start": 72.22,
+   "end": 75.34,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "To some extent, yes.",
+   "start": 76.06,
+   "end": 77.98,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That's why the choice of barrel is a serious decision.",
+   "start": 78.57,
+   "end": 81.61,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Classic Spanish Rioja often used American oak, while many Bordeaux and Burgundy producers prefer French oak.",
+   "start": 82.2,
+   "end": 89.32,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 200,
+ "duration": 89.2,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 63,
+ "created": "2026-10-03 23:47"
+}

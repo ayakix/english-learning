@@ -1,0 +1,187 @@
+{
+ "id": "fi004",
+ "author": "claude",
+ "category": "finance",
+ "title": "Dollar-Cost Averaging",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "dollar-cost averaging",
+  "market timing",
+  "regular investment"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "One of the hardest questions for new investors is: when should I buy? If you invest today and the market falls tomorrow, you feel terrible. Trying to choose the perfect moment is called market timing, and it is extremely difficult, even for professionals."
+  },
+  {
+   "speaker": "A",
+   "text": "A popular way to avoid this problem is dollar-cost averaging. The idea is simple. Instead of investing a large amount at once, you invest the same fixed amount at regular intervals, for example, thirty thousand yen every month, no matter what the market is doing."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is the clever part. When prices are high, your fixed amount buys fewer shares. When prices are low, the same amount buys more shares. Over time, this can give you a reasonable average purchase price, without needing to predict the market."
+  },
+  {
+   "speaker": "A",
+   "text": "Dollar-cost averaging also makes investing a habit. Many people set up automatic regular investment from their bank account. They do not need to think about it, and they are less likely to panic when the news is bad. In fact, a falling market can feel like a sale."
+  },
+  {
+   "speaker": "A",
+   "text": "Is it always the best method? Not necessarily. Studies suggest that if you already have a large amount of money, investing it all at once has often produced higher returns on average, because markets tend to rise over time. But many people find a gradual approach easier emotionally."
+  },
+  {
+   "speaker": "A",
+   "text": "For people investing from their monthly salary, regular investing is simply the natural choice."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "One of the hardest questions for new investors is: when should I buy?",
+   "start": 0.0,
+   "end": 4.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "If you invest today and the market falls tomorrow, you feel terrible.",
+   "start": 5.07,
+   "end": 9.737,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Trying to choose the perfect moment is called market timing, and it is extremely difficult, even for professionals.",
+   "start": 10.193,
+   "end": 17.18,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A popular way to avoid this problem is dollar-cost averaging.",
+   "start": 17.7,
+   "end": 21.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The idea is simple.",
+   "start": 22.33,
+   "end": 23.81,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of investing a large amount at once, you invest the same fixed amount at regular intervals, for example, thirty thousand yen every month, no matter what the market is doing.",
+   "start": 24.36,
+   "end": 35.6,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is the clever part.",
+   "start": 36.12,
+   "end": 37.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When prices are high, your fixed amount buys fewer shares.",
+   "start": 38.07,
+   "end": 42.23,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When prices are low, the same amount buys more shares.",
+   "start": 42.9,
+   "end": 46.74,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Over time, this can give you a reasonable average purchase price, without needing to predict the market.",
+   "start": 47.33,
+   "end": 53.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Dollar-cost averaging also makes investing a habit.",
+   "start": 53.61,
+   "end": 57.45,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many people set up automatic regular investment from their bank account.",
+   "start": 57.92,
+   "end": 62.12,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "They do not need to think about it, and they are less likely to panic when the news is bad.",
+   "start": 62.55,
+   "end": 67.27,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In fact, a falling market can feel like a sale.",
+   "start": 67.7,
+   "end": 70.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Is it always the best method?",
+   "start": 71.42,
+   "end": 73.5,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Not necessarily.",
+   "start": 74.01,
+   "end": 75.13,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Studies suggest that if you already have a large amount of money, investing it all at once has often produced higher returns on average, because markets tend to rise over time.",
+   "start": 75.96,
+   "end": 86.84,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But many people find a gradual approach easier emotionally.",
+   "start": 87.27,
+   "end": 91.11,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "For people investing from their monthly salary, regular investing is simply the natural choice.",
+   "start": 91.63,
+   "end": 97.47,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 240,
+ "duration": 97.4,
+ "wpm": 148,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-04 00:01"
+}

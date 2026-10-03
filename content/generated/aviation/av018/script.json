@@ -1,0 +1,187 @@
+{
+ "id": "av018",
+ "author": "claude",
+ "category": "aviation",
+ "title": "How Turnaround Works: The 45-Minute Airport Pitstop",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "turnaround time",
+  "ramp handling",
+  "ground support equipment (GSE)"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "An airplane on the ground does not make money. That is why airlines, especially low-cost carriers, try to get their planes back in the air as quickly as possible. The time between arrival at the gate and departure is called the turnaround time. For many short flights, it can be less than forty-five minutes."
+  },
+  {
+   "speaker": "A",
+   "text": "The secret is doing many jobs at the same time. As soon as the aircraft stops, ground staff connect power and place safety cones. Passengers leave through the front door. At the same moment, baggage handlers open the cargo doors and start unloading bags."
+  },
+  {
+   "speaker": "A",
+   "text": "While the cabin crew and cleaners prepare the cabin, a catering truck lifts new food and drinks to the doors. A fuel truck connects to the wing and starts refueling. Engineers walk around the plane to check for any damage. Then new bags are loaded and new passengers board."
+  },
+  {
+   "speaker": "A",
+   "text": "All of this is called ramp handling, the work done on the area around parked aircraft. It requires many kinds of vehicles, known as ground support equipment, or GSE. These include belt loaders for bags, ground power units, catering trucks, water and waste service trucks and pushback tractors."
+  },
+  {
+   "speaker": "A",
+   "text": "Everything must happen in the right order and without accidents. If one task is late, the whole schedule can slip. One delayed turnaround in the morning can cause delays for the rest of the day."
+  },
+  {
+   "speaker": "A",
+   "text": "So next time you board quickly, remember the team working hard beneath you."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "An airplane on the ground does not make money.",
+   "start": 0.0,
+   "end": 3.12,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why airlines, especially low-cost carriers, try to get their planes back in the air as quickly as possible.",
+   "start": 3.55,
+   "end": 10.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The time between arrival at the gate and departure is called the turnaround time.",
+   "start": 11.1,
+   "end": 16.06,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For many short flights, it can be less than forty-five minutes.",
+   "start": 16.49,
+   "end": 19.85,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The secret is doing many jobs at the same time.",
+   "start": 20.37,
+   "end": 23.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "As soon as the aircraft stops, ground staff connect power and place safety cones.",
+   "start": 24.32,
+   "end": 29.36,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Passengers leave through the front door.",
+   "start": 29.83,
+   "end": 32.03,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "At the same moment, baggage handlers open the cargo doors and start unloading bags.",
+   "start": 32.46,
+   "end": 37.34,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "While the cabin crew and cleaners prepare the cabin, a catering truck lifts new food and drinks to the doors.",
+   "start": 37.86,
+   "end": 44.18,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A fuel truck connects to the wing and starts refueling.",
+   "start": 44.85,
+   "end": 47.97,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Engineers walk around the plane to check for any damage.",
+   "start": 48.64,
+   "end": 51.72,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Then new bags are loaded and new passengers board.",
+   "start": 52.35,
+   "end": 55.71,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "All of this is called ramp handling, the work done on the area around parked aircraft.",
+   "start": 56.23,
+   "end": 61.91,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It requires many kinds of vehicles, known as ground support equipment, or GSE.",
+   "start": 62.58,
+   "end": 67.7,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "These include belt loaders for bags, ground power units, catering trucks, water and waste service trucks and pushback tractors.",
+   "start": 68.69,
+   "end": 77.33,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Everything must happen in the right order and without accidents.",
+   "start": 77.85,
+   "end": 81.93,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If one task is late, the whole schedule can slip.",
+   "start": 82.4,
+   "end": 85.96,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "One delayed turnaround in the morning can cause delays for the rest of the day.",
+   "start": 86.39,
+   "end": 90.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So next time you board quickly, remember the team working hard beneath you.",
+   "start": 90.91,
+   "end": 95.71,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 243,
+ "duration": 95.6,
+ "wpm": 152,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-03 23:52"
+}

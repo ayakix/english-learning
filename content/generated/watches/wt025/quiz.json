@@ -1,0 +1,114 @@
+{
+ "id": "wt025",
+ "author": "claude",
+ "summary_ja": "機械式時計が急に1日数分も進むようになったら、磁気帯びを疑う。磁石の影響でヒゲゼンマイが少しくっつき、実質的に短くなって速く進む。スマホケースやPCのスピーカー、かばんの留め具など磁石は身近にある。脱磁器で数秒で直り、シリコン製のヒゲゼンマイは影響を受けない。",
+ "listening": [
+  {
+   "q": "磁気帯びした時計の症状は？",
+   "options": [
+    "音が大きくなる",
+    "完全に止まる",
+    "1日に数分も進む",
+    "針が逆に回る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"suddenly starts running fast. Not a few seconds a day, but several minutes.\""
+  },
+  {
+   "q": "速く進む理由は？",
+   "options": [
+    "ゼンマイが切れるから",
+    "ヒゲゼンマイが少しくっついて実質的に短くなるから",
+    "針が軽くなるから",
+    "電池が強くなるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the coils of the spring can stick together slightly. The spring effectively becomes shorter\"。"
+  },
+  {
+   "q": "磁気帯びの直し方は？",
+   "options": [
+    "水で洗う",
+    "脱磁器という装置に数秒置く",
+    "振る",
+    "冷蔵庫に入れる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A watchmaker uses a small device called a demagnetizer. You place the watch on it for a few seconds\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "慌てる前に、まず確認すべきとてもよくある原因があります。",
+   "points_ja": "there is a が「ゼアリザ」、check first の k はほとんど聞こえません。"
+  },
+  {
+   "sentence": 8,
+   "ja": "今日、私たちは磁石に囲まれています。",
+   "points_ja": "we are が「ウィア」と短く、surrounded by の d は飲み込まれます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "良い知らせは、磁気帯びは簡単に直せるということです。",
+   "points_ja": "news is that がつながり、easy to fix の to は「タ」と弱くなります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "時計は毎年交換すべきだ",
+    "磁石は時計を正確にする",
+    "スマホは時計の代わりになる",
+    "時計が急に進むときは磁気帯びが多く、簡単に直せる"
+   ],
+   "answer": 3,
+   "explanation_ja": "症状・原因・直し方・予防を説明しています。"
+  },
+  {
+   "q": "磁石がある場所として挙げられていないものは？",
+   "options": [
+    "スマホケース",
+    "ノートPCのスピーカー",
+    "かばんの留め具",
+    "木のテーブル"
+   ],
+   "answer": 3,
+   "explanation_ja": "phone cases, laptop speakers, tablet covers, handbag clasps などで、木のテーブルはありません。"
+  },
+  {
+   "q": "一晩でも磁気帯びの原因になりうる例は？",
+   "options": [
+    "時計を引き出しに入れる",
+    "時計を水で洗う",
+    "ノートPCの横に時計を置く",
+    "時計をつけて寝る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Simply placing your watch next to your laptop overnight can be enough.\""
+  },
+  {
+   "q": "silicon のヒゲゼンマイの特徴は？",
+   "options": [
+    "安く手に入る",
+    "すぐに錆びる",
+    "とても重い",
+    "磁石の影響を受けない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"new hairspring materials, such as silicon, which are not affected by magnets.\""
+  },
+  {
+   "q": "脱磁器について本文から分かることは？",
+   "options": [
+    "時計師しか買えない",
+    "とても高価である",
+    "個人で買うコレクターもいるほど、それほど高くない",
+    "時計に内蔵されている"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Some collectors even buy their own demagnetizer, because they are not very expensive.\""
+  }
+ ]
+}

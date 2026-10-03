@@ -1,0 +1,212 @@
+{
+ "id": "tc015",
+ "author": "claude",
+ "category": "tech",
+ "title": "Designing a Frictionless Onboarding UX",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "onboarding flow",
+  "time to value",
+  "churn reduction"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "The first few minutes after someone opens your app are critical. If they feel confused or bored, many will delete it and never return. That first experience is called the onboarding flow."
+  },
+  {
+   "speaker": "A",
+   "text": "A common mistake is making onboarding too long. Some apps show five or six screens explaining every feature before the user can do anything. Most people skip them or leave."
+  },
+  {
+   "speaker": "A",
+   "text": "A better goal is to shorten time to value. This means the time between opening the app and getting the first real benefit. For a to-do app, that could be adding the first task. For a photo app, editing the first picture. The sooner users feel, This is useful, the more likely they are to stay."
+  },
+  {
+   "speaker": "A",
+   "text": "Another tip is to ask for permissions in context. If your app needs notifications, do not ask the moment it opens. Ask when the user creates a reminder, and explain why. People say yes more often when the reason is clear."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, avoid asking for an account too early. If users can try the main feature first, they are more willing to sign up later."
+  },
+  {
+   "speaker": "A",
+   "text": "Good onboarding directly supports churn reduction. Churn means users who stop using an app. By measuring where people drop off during the first session, developers can find problems and fix them."
+  },
+  {
+   "speaker": "A",
+   "text": "In short, onboarding is not a tutorial. It is the first moment of value."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "The first few minutes after someone opens your app are critical.",
+   "start": 0.0,
+   "end": 3.76,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "If they feel confused or bored, many will delete it and never return.",
+   "start": 4.19,
+   "end": 8.99,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That first experience is called the onboarding flow.",
+   "start": 9.46,
+   "end": 12.7,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A common mistake is making onboarding too long.",
+   "start": 13.22,
+   "end": 16.54,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Some apps show five or six screens explaining every feature before the user can do anything.",
+   "start": 17.17,
+   "end": 23.17,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Most people skip them or leave.",
+   "start": 23.64,
+   "end": 25.76,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A better goal is to shorten time to value.",
+   "start": 26.28,
+   "end": 29.48,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This means the time between opening the app and getting the first real benefit.",
+   "start": 30.15,
+   "end": 34.39,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For a to-do app, that could be adding the first task.",
+   "start": 35.22,
+   "end": 38.1,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For a photo app, editing the first picture.",
+   "start": 38.77,
+   "end": 41.01,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The sooner users feel, This is useful, the more likely they are to stay.",
+   "start": 41.92,
+   "end": 46.88,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Another tip is to ask for permissions in context.",
+   "start": 47.4,
+   "end": 51.0,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If your app needs notifications, do not ask the moment it opens.",
+   "start": 51.43,
+   "end": 55.91,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Ask when the user creates a reminder, and explain why.",
+   "start": 56.34,
+   "end": 60.18,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "People say yes more often when the reason is clear.",
+   "start": 60.69,
+   "end": 63.65,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Also, avoid asking for an account too early.",
+   "start": 64.17,
+   "end": 67.77,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If users can try the main feature first, they are more willing to sign up later.",
+   "start": 68.2,
+   "end": 72.68,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Good onboarding directly supports churn reduction.",
+   "start": 73.2,
+   "end": 76.32,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Churn means users who stop using an app.",
+   "start": 77.23,
+   "end": 79.71,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "By measuring where people drop off during the first session, developers can find problems and fix them.",
+   "start": 80.54,
+   "end": 86.22,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "In short, onboarding is not a tutorial.",
+   "start": 86.74,
+   "end": 90.1,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It is the first moment of value.",
+   "start": 90.69,
+   "end": 93.09,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 228,
+ "duration": 93.0,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:53"
+}

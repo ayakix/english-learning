@@ -1,0 +1,114 @@
+{
+ "id": "fi016",
+ "author": "claude",
+ "summary_ja": "上場企業は年に数回決算を発表し、株価が大きく動くことも。売上高は商品やサービスを売って得た総額でトップライン。売上が大きくてもコストが高いと赤字になりうる。営業利益は本業の利益、純利益（ボトムライン）はすべての費用、利息や税金の後に残る額。1株あたり利益で規模の違う会社を比べられる。最も大事なのは今後の会社の見通し（ガイダンス）。株価は良し悪しより予想との比較で動く。",
+ "listening": [
+  {
+   "q": "revenue とは？",
+   "options": [
+    "商品やサービスを売って得た総額",
+    "株価",
+    "最終的な利益",
+    "税金"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"This is the total amount of money the company received from selling its products or services.\""
+  },
+  {
+   "q": "最も重要なことが多いとされる部分は？",
+   "options": [
+    "社員の数",
+    "社長の名前",
+    "過去の売上",
+    "会社自身の今後の見通し（ガイダンス）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Perhaps the most important part is often not the past, but the future. Many companies give guidance\"。"
+  },
+  {
+   "q": "過去最高益でも株価が下がることがある理由は？",
+   "options": [
+    "投資家がそれ以上を期待していたから",
+    "社長が辞めたから",
+    "利益が嘘だから",
+    "税金が上がったから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A company can report record profits and still see its stock fall, simply because investors expected even more.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "投資家はこうした報告を注意深く見ていて、発表の日に株価が大きく動くことがあります。",
+   "points_ja": "watch these reports closely が続き、on the day they are published が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "コストが高すぎると、売上が大きくても会社が赤字になることがあります。",
+   "points_ja": "can have large revenue が続き、lose money if its costs が続けて聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "これにより、規模の違う会社を比べやすくなります。",
+   "points_ja": "makes it easier to compare が続き、companies of different sizes が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "決算は株価と関係ない",
+    "決算の主な数字の読み方と、株価は期待との比較で動くこと",
+    "会社の作り方",
+    "株の税金"
+   ],
+   "answer": 1,
+   "explanation_ja": "売上、利益、1株あたり利益、ガイダンス、期待との比較を説明しています。"
+  },
+  {
+   "q": "top line と呼ばれるものは？",
+   "options": [
+    "売上高",
+    "株価",
+    "営業利益",
+    "純利益"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Revenue is sometimes called the top line, because it appears at the top of the income statement.\""
+  },
+  {
+   "q": "operating profit の説明は？",
+   "options": [
+    "売上の総額",
+    "すべての費用の後の利益",
+    "通常のコストを引いた後の本業の利益",
+    "株主への配当"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Operating profit shows how much the core business earns after normal costs.\""
+  },
+  {
+   "q": "net profit（bottom line）とは？",
+   "options": [
+    "本業の利益",
+    "投資の額",
+    "利息や税金を含むすべての費用の後に残る額",
+    "売上の総額"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Net profit, also called the bottom line, is what remains after all expenses, including interest and taxes.\""
+  },
+  {
+   "q": "earnings per share の計算は？",
+   "options": [
+    "売上を社員数で割る",
+    "純利益を株数で割る",
+    "株価を利益で割る",
+    "配当を株価で割る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"which divides net profit by the number of shares.\""
+  }
+ ]
+}

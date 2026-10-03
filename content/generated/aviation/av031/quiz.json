@@ -1,0 +1,114 @@
+{
+ "id": "av031",
+ "author": "claude",
+ "summary_ja": "揚力を生む翼の端からは空気が渦巻く管（翼端渦）が生まれ、後方乱気流となる。重く遅く、離着陸時のきれいな翼で最も強く、ゆっくり沈み広がり、静かな空気では数分残る。小さな機体が大型機の後方乱気流に入ると横に転がされることがある。そこで重さによる区分ごとに最低間隔を決め、軽い機体が重い機体の後ろに降りるときは大きく間隔をとる。",
+ "listening": [
+  {
+   "q": "後方乱気流が最も強いのは？",
+   "options": [
+    "軽い機体の巡航中",
+    "雨の日だけ",
+    "地上で止まっているとき",
+    "重く遅い機体の、離着陸時"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It is strongest behind aircraft that are heavy, slow and flying with a clean wing, such as during takeoff and landing.\""
+  },
+  {
+   "q": "小さな飛行機が大型機の後方乱気流に入るとどうなる？",
+   "options": [
+    "燃料が増える",
+    "渦で横に転がされることがある",
+    "速くなる",
+    "何も起こらない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The spinning air can roll the smaller plane to one side\"。"
+  },
+  {
+   "q": "風が後方乱気流に与える影響は？",
+   "options": [
+    "影響しない",
+    "渦を作る",
+    "渦を強くする",
+    "渦を滑走路から吹き飛ばすことがある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Wind can blow the vortices away from the runway, while calm air lets them stay longer.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "翼が揚力を生むとき、空気が翼端から回転しながら離れ、翼端渦と呼ばれる渦巻く空気の管を作ります。",
+   "points_ja": "spins off each がつながり、tube of air が「チューバヴエア」と聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "渦はゆっくり沈んで広がり、静かな空気の中では数分間残ることがあります。",
+   "points_ja": "sink and spread out が続き、last for a few が「ラストフォラフュー」と聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "だからこそ、管制官が「後方乱気流に注意」と言うのを時々聞くのです。",
+   "points_ja": "That is why が続き、hear controllers say がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "飛行機の翼の作り方",
+    "竜巻の仕組み",
+    "後方乱気流の危険と、それを防ぐための間隔の決め方",
+    "管制官の訓練"
+   ],
+   "answer": 2,
+   "explanation_ja": "翼端渦の性質、危険、区分と間隔を説明しています。"
+  },
+  {
+   "q": "wake turbulence はどうやってできる？",
+   "options": [
+    "地面の熱",
+    "エンジンの排気",
+    "雲の中の風",
+    "翼端から生まれる渦が合わさってできる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Together, these vortices create wake turbulence.\""
+  },
+  {
+   "q": "aircraft separation minima とは？",
+   "options": [
+    "飛行機の最小サイズ",
+    "最低の乗客数",
+    "最低の燃料量",
+    "航空機の間に必要な最低限の距離や時間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"These are the minimum distances or times required between aircraft.\""
+  },
+  {
+   "q": "区分の主な基準は？",
+   "options": [
+    "年数",
+    "主に重さ",
+    "色",
+    "国籍"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"based mostly on their weight.\""
+  },
+  {
+   "q": "研究者が今取り組んでいることは？",
+   "options": [
+    "管制官を減らす",
+    "滑走路を長くする",
+    "飛行機を軽くする",
+    "新しいデータで間隔をより精密に調整し、より多くの便を安全に飛ばす"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Researchers are now using new data to adjust separation more precisely and allow more flights safely.\""
+  }
+ ]
+}

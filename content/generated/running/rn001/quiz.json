@@ -1,0 +1,114 @@
+{
+ "id": "rn001",
+ "author": "claude",
+ "summary_ja": "マラソンの30km付近で脚が重くなり、ペースが落ち、考えるのも難しくなるのが「壁」。筋肉は脂肪と炭水化物を燃やし、炭水化物は筋肉や肝臓にグリコーゲンとして蓄えられる。マラソンペースでは炭水化物に大きく頼るが、蓄えは約90分〜2時間分しかない。脂肪はほぼ無限だが速く燃やせない。脳も血糖に頼る。事前のカーボローディング、レース中の補給、無理のないペースで防げる。",
+ "listening": [
+  {
+   "q": "「壁にぶつかる」のは、多くの場合どのあたり？",
+   "options": [
+    "スタート直後",
+    "ゴール直後",
+    "約30km",
+    "約5km"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Around thirty kilometers, everything changes.\""
+  },
+  {
+   "q": "壁の原因として話されているのは？",
+   "options": [
+    "限られたグリコーゲンが少なくなり、脂肪では速く走れないこと",
+    "水を飲みすぎること",
+    "気温が低いこと",
+    "靴が合わないこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"glycogen stores are limited ... the body cannot burn fat as quickly. So when glycogen runs low, your body is forced to slow down.\""
+  },
+  {
+   "q": "壁を防ぐ方法として話されていないものは？",
+   "options": [
+    "無理のないペースで始める",
+    "レース中に炭水化物を補給する",
+    "前日に長く走る",
+    "レース前に高炭水化物の食事をとる"
+   ],
+   "answer": 2,
+   "explanation_ja": "事前の食事、レース中の補給、ペース配分が挙げられています。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "脚が重く感じ、ペースが落ち、簡単なことを考えるのさえ難しくなります。",
+   "points_ja": "legs feel heavy がつながり、simple thoughts の s が重なります。"
+  },
+  {
+   "sentence": 11,
+   "ja": "一方、脂肪はとてもやせた人でもほぼ無限にあります。",
+   "points_ja": "on the other hand が一続きに聞こえ、even in very が続けて聞こえます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "無理のないペースで始めることも、後のためにグリコーゲンを節約します。",
+   "points_ja": "Starting at a が「スターティンガタ」、saves glycogen for later が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "マラソンの壁はグリコーゲンの不足で起き、準備と補給で防げる",
+    "脂肪はマラソンに不要",
+    "壁は避けられない",
+    "マラソンは30kmで終わるべき"
+   ],
+   "answer": 0,
+   "explanation_ja": "壁の原因と、その対策を説明しています。"
+  },
+  {
+   "q": "muscle glycogen の説明として正しいものは？",
+   "options": [
+    "筋肉に蓄えられた炭水化物で、速く効率的な燃料",
+    "血液の一種",
+    "水分",
+    "筋肉の脂肪"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Carbohydrate is stored in your muscles and liver as glycogen. Muscle glycogen is a fast, efficient fuel.\""
+  },
+  {
+   "q": "鍛えたランナーのグリコーゲンの蓄えの目安は？",
+   "options": [
+    "ハードに走って約90分〜2時間分",
+    "約1日分",
+    "約1週間分",
+    "約10分分"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"enough for roughly ninety minutes to two hours of hard running.\""
+  },
+  {
+   "q": "壁が身体だけでなく精神的にも感じられる理由は？",
+   "options": [
+    "音楽がないから",
+    "脳も血糖に頼っていて、血糖が下がると混乱したり弱気になったりするから",
+    "疲れると悲しくなるから",
+    "観客がいないから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The brain also depends on sugar in the blood. When blood sugar drops, you may feel confused, emotional or weak.\""
+  },
+  {
+   "q": "レース中の補給の頻度の目安は？",
+   "options": [
+    "1時間ごと",
+    "20〜30分ごと",
+    "5分ごと",
+    "ゴールの後"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"often every twenty to thirty minutes.\""
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "id": "av021",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Why Two Engines Replaced Four on Long-Haul Routes",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "twin-engine",
+  "fuel burn",
+  "quad-jet"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Not long ago, if you flew from Tokyo to London or New York, you probably flew on a plane with four engines, such as a Boeing 747. Today, you are much more likely to fly on a twin-engine aircraft, like a Boeing 787, 777 or an Airbus A350. What changed?"
+  },
+  {
+   "speaker": "A",
+   "text": "The biggest factor is engine reliability. Modern jet engines rarely fail. When they do, a twin-engine aircraft can safely continue flying on one engine to a nearby airport. Special rules, developed over many years, allow twin-engine planes to fly long routes far from land, as long as they meet strict safety standards."
+  },
+  {
+   "speaker": "A",
+   "text": "Engines have also become much more powerful. A single modern engine can produce enough thrust to replace two older ones."
+  },
+  {
+   "speaker": "A",
+   "text": "The next factor is fuel burn. Four smaller engines usually burn more fuel than two large, efficient engines. They also add weight and drag. With fuel being one of an airline's largest costs, this difference is huge."
+  },
+  {
+   "speaker": "A",
+   "text": "Maintenance is another reason. Every engine must be inspected and serviced. Two engines simply cost less to maintain than four."
+  },
+  {
+   "speaker": "A",
+   "text": "As a result, many airlines have retired their quad-jets, meaning aircraft with four engines, such as the 747 and the Airbus A380. These giant planes are still loved by passengers and aviation fans. But for most airlines, two engines are now the smarter choice."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Not long ago, if you flew from Tokyo to London or New York, you probably flew on a plane with four engines, such as a Boeing 747.",
+   "start": 0.0,
+   "end": 9.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, you are much more likely to fly on a twin-engine aircraft, like a Boeing 787, 777 or an Airbus A350.",
+   "start": 9.87,
+   "end": 19.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What changed?",
+   "start": 19.78,
+   "end": 20.7,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The biggest factor is engine reliability.",
+   "start": 21.22,
+   "end": 23.78,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Modern jet engines rarely fail.",
+   "start": 24.77,
+   "end": 26.85,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When they do, a twin-engine aircraft can safely continue flying on one engine to a nearby airport.",
+   "start": 27.68,
+   "end": 33.84,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Special rules, developed over many years, allow twin-engine planes to fly long routes far from land, as long as they meet strict safety standards.",
+   "start": 34.51,
+   "end": 43.79,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Engines have also become much more powerful.",
+   "start": 44.31,
+   "end": 47.23,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A single modern engine can produce enough thrust to replace two older ones.",
+   "start": 47.86,
+   "end": 52.9,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The next factor is fuel burn.",
+   "start": 53.42,
+   "end": 55.26,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Four smaller engines usually burn more fuel than two large, efficient engines.",
+   "start": 55.69,
+   "end": 61.21,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "They also add weight and drag.",
+   "start": 62.04,
+   "end": 64.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "With fuel being one of an airline's largest costs, this difference is huge.",
+   "start": 64.79,
+   "end": 69.67,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Maintenance is another reason.",
+   "start": 70.19,
+   "end": 71.79,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Every engine must be inspected and serviced.",
+   "start": 72.62,
+   "end": 75.26,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Two engines simply cost less to maintain than four.",
+   "start": 76.09,
+   "end": 79.37,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "As a result, many airlines have retired their quad-jets, meaning aircraft with four engines, such as the 747 and the Airbus A380.",
+   "start": 79.89,
+   "end": 89.65,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "These giant planes are still loved by passengers and aviation fans.",
+   "start": 90.12,
+   "end": 94.8,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "But for most airlines, two engines are now the smarter choice.",
+   "start": 95.23,
+   "end": 99.15,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 223,
+ "duration": 99.1,
+ "wpm": 135,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:52"
+}

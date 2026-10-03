@@ -1,0 +1,114 @@
+{
+ "id": "wt028",
+ "author": "claude",
+ "summary_ja": "日付表示付きの時計には「危険時間帯」がある。日付は深夜0時に一瞬で変わるのではなく、数時間前から日送り車の爪が日付板を押し始め、ジャンパーばねで次の数字に進む。その間に早送りすると部品同士がぶつかり歯が曲がることも。多くは夜9時〜午前3時ごろ。針を6時に合わせてから操作すると安全。",
+ "listening": [
+  {
+   "q": "「危険時間帯」に何をすると時計が壊れる可能性がある？",
+   "options": [
+    "時計を水で洗う",
+    "ベルトを替える",
+    "時計をつけて寝る",
+    "リューズで日付を早送りする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"If you change the date at the wrong time of day, you can damage the movement.\""
+  },
+  {
+   "q": "多くの時計の危険時間帯の目安は？",
+   "options": [
+    "危険な時間はない",
+    "正午〜午後3時",
+    "夜9時〜午前3時ごろ",
+    "朝6時〜正午"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"roughly between nine in the evening and three in the morning.\""
+  },
+  {
+   "q": "安全に日付を合わせる方法として最初にすることは？",
+   "options": [
+    "時計を振る",
+    "リューズを強く押す",
+    "針を6時ごろに合わせる",
+    "電池を外す"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Before you set the date, turn the hands to around six o'clock.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "日付窓のある多くの時計には、隠れた弱点があります。",
+   "points_ja": "with a date が続き、have a hidden がつながります。"
+  },
+  {
+   "sentence": 3,
+   "ja": "なぜかを理解するために、日付がどう変わるかを考えてみましょう。",
+   "points_ja": "think about が「シンカバウト」とつながり、the date の the は弱形です。"
+  },
+  {
+   "sentence": 11,
+   "ja": "最悪の場合、小さな歯が曲がったり折れたりします。",
+   "points_ja": "worst case の t は聞こえず、bend or break が「ベンドァブレイク」と続きます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "日付表示は不要である",
+    "時計は夜に止めるべきだ",
+    "日付の切り替わり中に操作すると壊れる危険があり、簡単な習慣で防げる",
+    "日付は毎日手で変える必要がある"
+   ],
+   "answer": 2,
+   "explanation_ja": "危険時間帯の理由と安全な操作方法を説明しています。"
+  },
+  {
+   "q": "date change wheel の役割は？",
+   "options": [
+    "テンプを止める",
+    "時刻を表示する",
+    "小さな爪で日付板を前に押す",
+    "ゼンマイを巻く"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A small finger on a wheel begins to push the date ring forward. This wheel is often called the date change wheel.\""
+  },
+  {
+   "q": "jumper spring の役割は？",
+   "options": [
+    "時計を防水にする",
+    "リューズを固定する",
+    "日付板が次の数字へパチッと進むのを助ける",
+    "針を光らせる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"a little spring called a jumper spring helps the ring snap to the next number.\""
+  },
+  {
+   "q": "危険時間帯は時計によって違うので、どうするのがよいと書かれている？",
+   "options": [
+    "説明書を確認する",
+    "夜は時計を外す",
+    "店員に毎回聞く",
+    "日付を使わない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"it depends on the movement, so it is best to check the manual.\""
+  },
+  {
+   "q": "安全な手順で、日付は最初にどの日に合わせる？",
+   "options": [
+    "今日の日付",
+    "前日の日付",
+    "1日",
+    "翌日の日付"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Then change the date to yesterday's number, and finally move the hands forward\"。"
+  }
+ ]
+}

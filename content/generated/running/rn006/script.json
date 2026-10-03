@@ -1,0 +1,194 @@
+{
+ "id": "rn006",
+ "author": "claude",
+ "category": "running",
+ "title": "Sweat Rate Testing: Personalizing Race Hydration",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "sweat rate",
+  "fluid deficit",
+  "dehydration tolerance"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every runner sweats, but not in the same way. Some people finish a long run with a dry shirt. Others are completely soaked. Your sweat rate, the amount of fluid you lose through sweat per hour, can be very different from your friend's. That is why one simple hydration rule does not fit everyone."
+  },
+  {
+   "speaker": "A",
+   "text": "Fortunately, you can measure your own sweat rate at home. Weigh yourself without clothes before a run. Run for one hour at a steady pace, and note how much you drink. After the run, dry off and weigh yourself again."
+  },
+  {
+   "speaker": "A",
+   "text": "The calculation is simple. Weight lost, plus the fluid you drank, equals your sweat loss. One kilogram is roughly one liter. For example, if you lost one kilogram and drank half a liter, your sweat rate is about one and a half liters per hour."
+  },
+  {
+   "speaker": "A",
+   "text": "Of course, the result changes with temperature, humidity and pace, so it is a good idea to test in different conditions."
+  },
+  {
+   "speaker": "A",
+   "text": "With this number, you can plan your race. Most experts suggest you do not need to replace all your sweat. A small fluid deficit, often less than two or three percent of body weight, is generally tolerated by most runners. Some athletes have a higher dehydration tolerance than others."
+  },
+  {
+   "speaker": "A",
+   "text": "Drinking too much can also be dangerous, because it can dilute the salt in your blood. So the goal is not to drink as much as possible, but to drink what your body actually needs."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every runner sweats, but not in the same way.",
+   "start": 0.0,
+   "end": 3.36,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people finish a long run with a dry shirt.",
+   "start": 4.03,
+   "end": 6.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Others are completely soaked.",
+   "start": 7.42,
+   "end": 9.66,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Your sweat rate, the amount of fluid you lose through sweat per hour, can be very different from your friend's.",
+   "start": 10.33,
+   "end": 17.05,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why one simple hydration rule does not fit everyone.",
+   "start": 17.48,
+   "end": 21.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Fortunately, you can measure your own sweat rate at home.",
+   "start": 22.0,
+   "end": 25.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Weigh yourself without clothes before a run.",
+   "start": 26.51,
+   "end": 29.31,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Run for one hour at a steady pace, and note how much you drink.",
+   "start": 29.98,
+   "end": 34.38,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "After the run, dry off and weigh yourself again.",
+   "start": 34.89,
+   "end": 38.09,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The calculation is simple.",
+   "start": 38.61,
+   "end": 40.49,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Weight lost, plus the fluid you drank, equals your sweat loss.",
+   "start": 41.12,
+   "end": 45.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One kilogram is roughly one liter.",
+   "start": 46.03,
+   "end": 48.63,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, if you lost one kilogram and drank half a liter, your sweat rate is about one and a half liters per hour.",
+   "start": 49.26,
+   "end": 57.1,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course, the result changes with temperature, humidity and pace, so it is a good idea to test in different conditions.",
+   "start": 57.62,
+   "end": 65.62,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "With this number, you can plan your race.",
+   "start": 66.14,
+   "end": 68.86,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Most experts suggest you do not need to replace all your sweat.",
+   "start": 69.53,
+   "end": 73.69,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A small fluid deficit, often less than two or three percent of body weight, is generally tolerated by most runners.",
+   "start": 74.12,
+   "end": 81.64,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some athletes have a higher dehydration tolerance than others.",
+   "start": 82.07,
+   "end": 85.75,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Drinking too much can also be dangerous, because it can dilute the salt in your blood.",
+   "start": 86.27,
+   "end": 92.003,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "So the goal is not to drink as much as possible, but to drink what your body actually needs.",
+   "start": 92.487,
+   "end": 98.22,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 244,
+ "duration": 98.1,
+ "wpm": 149,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-03 23:55"
+}

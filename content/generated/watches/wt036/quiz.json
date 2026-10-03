@@ -1,0 +1,114 @@
+{
+ "id": "wt036",
+ "author": "claude",
+ "summary_ja": "時・分・秒以外の機能はすべて「コンプリケーション」と呼ばれる。日付やクロノグラフは簡単な例で、永久カレンダーは月の日数やうるう年まで考慮し、ミニッツリピーターは小さなハンマーで時刻を鳴らす。グランドコンプリケーションは、音・天文・計時の主要な機能を一つの機械に組み合わせたもので、最も価値の高い時計の一つ。",
+ "listening": [
+  {
+   "q": "complication とは？",
+   "options": [
+    "複雑な文字盤のデザイン",
+    "時計の修理",
+    "壊れた時計",
+    "時・分・秒以外の機能すべて"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"any function beyond showing the hours, minutes and seconds is called a complication.\""
+  },
+  {
+   "q": "永久カレンダーの特徴は？",
+   "options": [
+    "月ごとの日数やうるう年も考えて、何十年も正しい日付を表示する",
+    "月の満ち欠けを表示する",
+    "毎月手で直す必要がある",
+    "曜日だけを表示する"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A perpetual calendar knows how many days each month has, and even accounts for leap years.\""
+  },
+  {
+   "q": "ミニッツリピーターがもともと作られた理由は？",
+   "options": [
+    "目覚ましのため",
+    "時計を守るため",
+    "音楽を聴くため",
+    "暗闇でも時刻を知るため"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It was originally made so people could know the time in the dark.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "2つ目のタイムゾーンや、ムーンフェイズ表示、ストップウォッチのように使えるクロノグラフも同様です。",
+   "points_ja": "So is a が「ソウイザ」とつながり、works like a も続けて聞こえます。"
+  },
+  {
+   "sentence": 3,
+   "ja": "コンプリケーションの中には、他よりずっと難しいものもあります。",
+   "points_ja": "far more が続き、difficult than の t は軽くなります。"
+  },
+  {
+   "sentence": 14,
+   "ja": "そのような時計を作るには、優れた技術と何か月もの作業が必要です。",
+   "points_ja": "such a が「サッチャ」、months of work が「マンスアヴワーク」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ストップウォッチの使い方",
+    "コンプリケーションの種類と、それらを組み合わせたグランドコンプリケーションの価値",
+    "時計の値段の決め方",
+    "日付表示の歴史"
+   ],
+   "answer": 1,
+   "explanation_ja": "簡単な機能から難しい機能、そしてグランドコンプリケーションへと説明しています。"
+  },
+  {
+   "q": "簡単なコンプリケーションの例として挙げられているのは？",
+   "options": [
+    "ミニッツリピーター",
+    "日付窓",
+    "永久カレンダー",
+    "グランドコンプリケーション"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"A date window is a simple complication.\""
+  },
+  {
+   "q": "グランドコンプリケーションについて正しいものは？",
+   "options": [
+    "法律で定義されている",
+    "公式の決まりはないが、伝統的には主要な機能を複数組み合わせたもの",
+    "電池式の時計",
+    "機能が1つだけの時計"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"There is no single official rule, but traditionally it describes a watch that combines several major complications\"。"
+  },
+  {
+   "q": "伝統的なグランドコンプリケーションに含まれる機能の組み合わせは？",
+   "options": [
+    "アラーム・ライト・温度計",
+    "GPS・歩数計・心拍",
+    "防水・夜光・日付",
+    "音（リピーター）・天文（カレンダー）・計時（クロノグラフ）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"a striking function ... an astronomical function ... and a timing function\"。"
+  },
+  {
+   "q": "作るのが難しい理由として書かれているのは？",
+   "options": [
+    "法律の規制があるから",
+    "材料が手に入らないから",
+    "デザインが古いから",
+    "小さなケースに部品を収め、問題なく連動させる必要があるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The parts must fit into a small case and work together without problems.\""
+  }
+ ]
+}

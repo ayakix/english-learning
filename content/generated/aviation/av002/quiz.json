@@ -1,0 +1,114 @@
+{
+ "id": "av002",
+ "author": "claude",
+ "summary_ja": "自宅で飛行機を追跡する愛好家に聞く。中心は約30ドルの USB スティック型 SDR（ソフトウェア無線）で、生の電波を受け、パソコンのソフトが処理する。窓辺のアンテナと dump1090 という無料ソフトで 1090MHz を解読し地図に表示。建物や山で遮られるが屋根のアンテナなら数百km。データを追跡サイトに共有すると有料会員になれることも。",
+ "listening": [
+  {
+   "q": "この人の装置の中心は？",
+   "options": [
+    "約30ドルの USB スティック型のソフトウェア無線",
+    "人工衛星",
+    "大きなレーダー",
+    "高価な無線機"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The heart of my setup is a small USB stick that costs about thirty dollars. It's a software-defined radio, or SDR.\""
+  },
+  {
+   "q": "受信距離を制限するものは？",
+   "options": [
+    "時間帯",
+    "電波がまっすぐ進むので、建物や山に遮られる",
+    "夜",
+    "雨"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Radio waves at this frequency travel in straight lines, so buildings and hills block them.\""
+  },
+  {
+   "q": "データを共有する愛好家が得られるものは？",
+   "options": [
+    "飛行機のチケット",
+    "無料の有料会員アカウント",
+    "お金",
+    "新しい受信機"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"In return, they often get free premium accounts.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 7,
+   "ja": "SDR では、装置は生の電波を受けるだけで、残りはパソコンのソフトが行います。",
+   "points_ja": "receives raw がつながり、does the rest が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "信号を解読して、飛行機を地図に表示します。",
+   "points_ja": "decodes the の z と ð が続き、on a map が「オナマップ」とつながります。"
+  },
+  {
+   "sentence": 22,
+   "ja": "多くの愛好家が自分のデータをフライト追跡サイトに送っています。",
+   "points_ja": "send their の d は飲み込まれ、data to flight が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ラジオ番組の作り方",
+    "飛行機の操縦訓練",
+    "空港の仕事",
+    "安価な機器で自宅から飛行機を追跡する方法"
+   ],
+   "answer": 3,
+   "explanation_ja": "SDR、アンテナ、ソフト、受信距離、共有について話しています。"
+  },
+  {
+   "q": "software-defined の意味として会話に合うのは？",
+   "options": [
+    "ソフトを無料で配る",
+    "ソフトの設計図",
+    "ソフトだけで電波を出す",
+    "装置は電波を受けるだけで、処理はソフトが行う"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"With an SDR, the device just receives raw radio signals, and software on the computer does the rest.\""
+  },
+  {
+   "q": "RF の意味は？",
+   "options": [
+    "遠隔操作",
+    "ルート検索",
+    "受信料",
+    "無線周波数"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"RF means radio frequency.\""
+  },
+  {
+   "q": "dump1090 の役割は？",
+   "options": [
+    "アンテナを動かす",
+    "飛行機に信号を送る",
+    "パイロットと話す",
+    "信号を解読して飛行機を地図に表示する"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It decodes the signals and shows the planes on a map.\""
+  },
+  {
+   "q": "\"your little antenna becomes part of a global network\" の意味は？",
+   "options": [
+    "自宅の受信データが世界的な追跡網の一部になる",
+    "インターネットが速くなる",
+    "アンテナを売れる",
+    "アンテナが大きくなる"
+   ],
+   "answer": 0,
+   "explanation_ja": "データ共有によって、個人の受信機が世界の追跡網に加わることを表しています。"
+  }
+ ]
+}

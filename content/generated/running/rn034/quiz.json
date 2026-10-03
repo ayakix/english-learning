@@ -1,0 +1,114 @@
+{
+ "id": "rn034",
+ "author": "claude",
+ "summary_ja": "マラソン前の数週間に練習を大きく減らすテーパーは、持久系で最も裏付けのある戦略の一つ。1〜3週間で練習量を約40〜60%減らし、マラソンでは2〜3週間が多い。強度は少し残し、量を減らして質は保つ。ハードな練習で体力と同時にそれを隠す疲労もたまるが、テーパーでは疲労が体力より早く消える（超回復）。落ち着かない「テーパー病」は普通のことで、計画を信じる。",
+ "listening": [
+  {
+   "q": "テーパーで練習量をどれくらい減らす？",
+   "options": [
+    "約40〜60%",
+    "増やす",
+    "100%（完全休養）",
+    "約5%"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a training volume reduction of about forty to sixty percent over one to three weeks.\""
+  },
+  {
+   "q": "テーパー中の強い練習について B は？",
+   "options": [
+    "毎日する",
+    "すべてやめる",
+    "少し残す。量を減らして質は保つ",
+    "増やす"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"You keep some intensity ... You reduce the amount, not the quality.\""
+  },
+  {
+   "q": "テーパー中のランナーの気持ちとして話されているのは？",
+   "options": [
+    "何も感じない",
+    "落ち着かず、重く感じ、体力が落ちるのではと心配になることが多い",
+    "眠い",
+    "いつも最高の気分"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Many feel restless, heavy or worried that they're losing fitness.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "リスクがあるように感じますが、持久系トレーニングで最も裏付けのある戦略の一つです。",
+   "points_ja": "feels risky がつながり、one of the best-supported が続けて聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "短く速い練習をいくつかすると、脚の切れが保たれます。",
+   "points_ja": "few short, fast が同じリズムで続き、keep your legs sharp が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "テーパーをすると、疲労は体力より早く消えていきます。",
+   "points_ja": "fatigue goes away がつながり、faster than the fitness が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "練習量の増やし方",
+    "マラソンの歴史",
+    "ランニングシューズの選び方",
+    "レース前のテーパーの方法と、なぜ効果があるのか"
+   ],
+   "answer": 3,
+   "explanation_ja": "練習量の減らし方、強度、体の変化、気持ちについて話しています。"
+  },
+  {
+   "q": "taper phase の目的は？",
+   "options": [
+    "新しい練習を試す",
+    "けがを治す",
+    "体重を増やす",
+    "練習を減らして完全に回復し、新鮮な状態でスタートラインに立つ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"You reduce your training so your body can fully recover and come to the start line fresh.\""
+  },
+  {
+   "q": "マラソンのテーパーの期間として多いのは？",
+   "options": [
+    "2か月",
+    "2〜3週間",
+    "1日",
+    "半年"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"For a marathon, many runners taper for two to three weeks.\""
+  },
+  {
+   "q": "テーパーで力が出る仕組みは？",
+   "options": [
+    "体力が急に増えるから",
+    "体重が減るから",
+    "ハードな練習でたまった、体力を隠す疲労が、体力より早く消えるから",
+    "靴が新しくなるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"During hard training, you build fitness, but you also build fatigue that hides it. When you taper, the fatigue goes away faster than the fitness.\""
+  },
+  {
+   "q": "\"taper madness\" への B の助言は？",
+   "options": [
+    "普通のことなので、計画を信じ、よく眠り、エネルギーを本番に取っておく",
+    "レースをやめる",
+    "医者に行く",
+    "練習を増やす"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"But that's normal. Trust the plan, sleep well, and save your energy for race day.\""
+  }
+ ]
+}

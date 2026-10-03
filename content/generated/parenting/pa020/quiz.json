@@ -1,0 +1,114 @@
+{
+ "id": "pa020",
+ "author": "claude",
+ "summary_ja": "フルタイムで働き、幼い子が2人いる人に仕事と家庭の両立を聞く。いつもうまくいくわけではないが、柔軟な勤務が一番助けになっている（早く始めて早く終わり、お迎えに行く。パートナーは遅くまで働き朝を担当）。週1日の在宅でも違う。子どもと過ごす時間は長さより質で、スマホを置いて遊ぶ20分のほうが価値がある。家事はすべてリストにして公平に分け、週1回お互いに自由な夜を作る。",
+ "listening": [
+  {
+   "q": "一番助けになっていることとして話されているのは？",
+   "options": [
+    "祖父母の助け",
+    "保育園の延長",
+    "柔軟な勤務時間",
+    "家事代行"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"What has helped the most? A flexible schedule.\""
+  },
+  {
+   "q": "quality time についての B の考えは？",
+   "options": [
+    "スマホを置いて本当に一緒に遊ぶ20分のほうが、同じ部屋にいるだけの3時間より意味がある",
+    "時間は関係ない",
+    "週末だけでよい",
+    "長く一緒にいるほどよい"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Twenty minutes of really playing together, with phones away, can mean more than three hours in the same room while I'm checking email.\""
+  },
+  {
+   "q": "自分たちの時間について話されていることは？",
+   "options": [
+    "子どもと一緒にいる時間",
+    "毎日ある",
+    "お互いに週1回、自由な夜を作るようにしている",
+    "まったくない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"We try to give each other one free evening a week.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "バランスが取れている週もあれば、混乱している週もあります。",
+   "points_ja": "Some weeks feel balanced が続き、others are chaos がつながります。"
+  },
+  {
+   "sentence": 11,
+   "ja": "でも、週に1日在宅勤務をするような小さな変化でも、大きな違いを生むことがあります。",
+   "points_ja": "working from home one day a week が続けて聞こえ、make a big が「メイカビッグ」と聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "紙で見えるようにしたことで、より公平に分けられました。",
+   "points_ja": "Seeing it on paper が続き、divide it more fairly が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "共働きの子育てで、仕事と家庭を両立するための工夫",
+    "子どもの教育方針",
+    "家の買い方",
+    "仕事の探し方"
+   ],
+   "answer": 0,
+   "explanation_ja": "柔軟な勤務、質の高い時間、家事の分担、自分たちの時間について話しています。"
+  },
+  {
+   "q": "柔軟な勤務がすべての会社にあるわけではないことについて B は？",
+   "options": [
+    "諦めるべき",
+    "どの会社にもある",
+    "会社を辞めるべき",
+    "自分たちは恵まれていると分かっているが、小さな変化でも大きな違いになるので聞く価値がある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That's true, and I know we're lucky. But even small changes ... can make a big difference. It's worth asking.\""
+  },
+  {
+   "q": "家事の分担で工夫したことは？",
+   "options": [
+    "週末にまとめてする",
+    "誕生日プレゼントを買うなどの小さな作業まで含めてリストにした",
+    "すべて一人がする",
+    "子どもにやらせる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"We sat down and made a list of everything, even small tasks like buying birthday presents.\""
+  },
+  {
+   "q": "「一番難しい」と B が言うのは？",
+   "options": [
+    "自分たちのための時間を作ること",
+    "家事",
+    "仕事",
+    "子どもを起こすこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"That's the hardest part.\" は自分たちの時間についての答えです。"
+  },
+  {
+   "q": "自分の時間を持つ利点として B が言うのは？",
+   "options": [
+    "お金が増える",
+    "仕事が増える",
+    "子どもが喜ぶ",
+    "気持ちを充電でき、より良い親になれる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"having time to recharge makes us better parents.\""
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "id": "rn019",
+ "author": "claude",
+ "category": "running",
+ "title": "Active Recovery: Flush Out or Cellular Signal?",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "active recovery",
+  "metabolic byproduct clearance",
+  "capillary perfusion"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "After a hard race, many runners go for an easy jog the next day. They say it helps flush out the legs. This kind of light activity is called active recovery. It is popular, but the science behind it is more complex than many people think."
+  },
+  {
+   "speaker": "A",
+   "text": "The traditional explanation was about lactic acid. People believed that hard exercise left lactic acid in the muscles, causing soreness, and that gentle movement would wash it away. Today, we know this is not quite right. Lactate, the more accurate term, is mostly cleared from the blood within an hour or so after exercise, whether you move or rest. And it is not the main cause of next-day soreness."
+  },
+  {
+   "speaker": "A",
+   "text": "So is active recovery useless? Not necessarily. Light movement increases blood flow. Researchers call this capillary perfusion, meaning blood moving through the smallest blood vessels in the muscles. This may support the delivery of nutrients and the removal of other waste products, a process sometimes described as metabolic byproduct clearance."
+  },
+  {
+   "speaker": "A",
+   "text": "There is also a newer idea. Easy exercise may act as a cellular signal, encouraging the body to adapt and repair. In addition, many athletes simply feel better mentally after moving gently."
+  },
+  {
+   "speaker": "A",
+   "text": "However, the research results are mixed. The benefits seem small, and the key is intensity. Active recovery must be truly easy. If it becomes real training, it adds fatigue instead of reducing it."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "After a hard race, many runners go for an easy jog the next day.",
+   "start": 0.0,
+   "end": 4.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They say it helps flush out the legs.",
+   "start": 5.31,
+   "end": 7.55,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This kind of light activity is called active recovery.",
+   "start": 8.22,
+   "end": 11.7,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is popular, but the science behind it is more complex than many people think.",
+   "start": 12.33,
+   "end": 17.21,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The traditional explanation was about lactic acid.",
+   "start": 17.73,
+   "end": 21.13,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "People believed that hard exercise left lactic acid in the muscles, causing soreness, and that gentle movement would wash it away.",
+   "start": 21.76,
+   "end": 29.84,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, we know this is not quite right.",
+   "start": 30.51,
+   "end": 33.35,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Lactate, the more accurate term, is mostly cleared from the blood within an hour or so after exercise, whether you move or rest.",
+   "start": 33.98,
+   "end": 42.38,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "And it is not the main cause of next-day soreness.",
+   "start": 42.85,
+   "end": 46.01,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So is active recovery useless?",
+   "start": 46.53,
+   "end": 48.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Not necessarily.",
+   "start": 49.84,
+   "end": 51.08,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Light movement increases blood flow.",
+   "start": 51.71,
+   "end": 54.07,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Researchers call this capillary perfusion, meaning blood moving through the smallest blood vessels in the muscles.",
+   "start": 54.7,
+   "end": 61.42,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This may support the delivery of nutrients and the removal of other waste products, a process sometimes described as metabolic byproduct clearance.",
+   "start": 62.09,
+   "end": 70.97,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "There is also a newer idea.",
+   "start": 71.49,
+   "end": 73.25,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Easy exercise may act as a cellular signal, encouraging the body to adapt and repair.",
+   "start": 73.68,
+   "end": 80.56,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In addition, many athletes simply feel better mentally after moving gently.",
+   "start": 81.23,
+   "end": 86.19,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "However, the research results are mixed.",
+   "start": 86.71,
+   "end": 89.59,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The benefits seem small, and the key is intensity.",
+   "start": 90.18,
+   "end": 93.82,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Active recovery must be truly easy.",
+   "start": 94.45,
+   "end": 97.25,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If it becomes real training, it adds fatigue instead of reducing it.",
+   "start": 97.84,
+   "end": 102.0,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 230,
+ "duration": 101.9,
+ "wpm": 135,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:56"
+}

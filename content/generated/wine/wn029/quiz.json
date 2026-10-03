@@ -1,0 +1,114 @@
+{
+ "id": "wn029",
+ "author": "claude",
+ "summary_ja": "マスカット・ベーリーAは1920年代に新潟で川上善兵衛が日本の湿った気候に耐えるよう交配した品種。イチゴキャンディのような甘い香りで、イチゴにも含まれるフラネオールという成分が関係する。果実味を引き出すため、ボージョレで有名な炭酸ガス浸漬法（つぶさないブドウを炭酸ガスのタンクに入れ、実の中で発酵させる）を使う生産者もいる。",
+ "listening": [
+  {
+   "q": "マスカット・ベーリーAを作ったのは？",
+   "options": [
+    "ランゲ",
+    "川上善兵衛",
+    "ボージョレの醸造家",
+    "ブレゲ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It was created in the nineteen twenties by Zenbei Kawakami\"。"
+  },
+  {
+   "q": "イチゴキャンディのような香りに関係する成分は？",
+   "options": [
+    "タンニン",
+    "ジアセチル",
+    "ピラジン",
+    "フラネオール"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"it contains a compound called furaneol, which is also found in strawberries\"。"
+  },
+  {
+   "q": "炭酸ガス浸漬法で造ったワインの特徴は？",
+   "options": [
+    "重く渋い",
+    "軽く渋みが少なく、明るくジューシーな果実味",
+    "泡がある",
+    "甘くて濃い"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"usually a light, low-tannin red wine with bright, juicy fruit\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "彼は日本の湿った気候に耐えられるブドウを作るため、異なる品種をかけ合わせました。",
+   "points_ja": "crossed different の d は飲み込まれ、create a vine が「クリエイタヴァイン」とつながります。"
+  },
+  {
+   "sentence": 5,
+   "ja": "この果実味を引き立てるため、炭酸ガス浸漬法という技法を使う生産者もいます。",
+   "points_ja": "highlight this の t は聞こえず、use a technique が「ユーザテクニーク」とつながります。"
+  },
+  {
+   "sentence": 12,
+   "ja": "数日後、ブドウは搾られ、発酵は通常の方法で仕上げられます。",
+   "points_ja": "grapes are pressed がつながり、finished in the が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "イチゴの育て方",
+    "ボージョレの観光",
+    "日本の白ワイン",
+    "マスカット・ベーリーAの歴史と香り、それを生かす醸造法"
+   ],
+   "answer": 3,
+   "explanation_ja": "品種の誕生、香りの成分、炭酸ガス浸漬法、スタイルの幅を説明しています。"
+  },
+  {
+   "q": "この品種が作られた目的は？",
+   "options": [
+    "輸出のため",
+    "白ワインを作るため",
+    "甘いワインを作るため",
+    "日本の湿った気候に耐えるため"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"to create a vine that could survive Japan's humid climate.\""
+  },
+  {
+   "q": "炭酸ガス浸漬法で、最初にブドウをどうする？",
+   "options": [
+    "すぐに搾る",
+    "凍らせる",
+    "天日で干す",
+    "つぶさずに、炭酸ガスを満たした閉じたタンクに入れる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"whole, uncrushed grapes are placed in a closed tank filled with carbon dioxide.\""
+  },
+  {
+   "q": "intracellular fermentation の意味は？",
+   "options": [
+    "樽の中での発酵",
+    "瓶の中での発酵",
+    "実の細胞の中での発酵",
+    "畑での発酵"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This is called intracellular fermentation, meaning fermentation inside the cells.\""
+  },
+  {
+   "q": "最後の \"The same grape can show many faces.\" の意味は？",
+   "options": [
+    "同じ品種でも造り方でさまざまなスタイルになる",
+    "ブドウに顔がある",
+    "毎年味が同じ",
+    "品種が変わる"
+   ],
+   "answer": 0,
+   "explanation_ja": "新鮮なスタイルと、樽熟成の本格的なスタイルの両方がある、という意味です。"
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "id": "ns003",
+ "author": "claude",
+ "category": "science",
+ "title": "Why We Have Seasons",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "axis",
+  "tilt",
+  "hemisphere"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many people believe that we have summer when the Earth is closest to the sun, and winter when it is farthest away. It sounds logical, but it is not correct. In fact, the Earth is closest to the sun in early January, during winter in Japan."
+  },
+  {
+   "speaker": "A",
+   "text": "The real reason for the seasons is the tilt of the Earth's axis. The axis is an imaginary line through the North and South Poles, around which the Earth spins. This axis is tilted by about twenty-three and a half degrees."
+  },
+  {
+   "speaker": "A",
+   "text": "As the Earth travels around the sun during the year, the tilt stays pointed in the same direction in space. So for part of the year, the Northern Hemisphere leans toward the sun. A hemisphere is half of the Earth. At the same time, the Southern Hemisphere leans away."
+  },
+  {
+   "speaker": "A",
+   "text": "When your hemisphere leans toward the sun, two things happen. First, the sun rises higher in the sky, and its light hits the ground more directly. The energy is concentrated on a smaller area, so it heats the ground more. Second, days are longer, so there are more hours of heating. This is summer."
+  },
+  {
+   "speaker": "A",
+   "text": "Six months later, your hemisphere leans away. The sun stays low, its light is spread out, and the days are short. This is winter."
+  },
+  {
+   "speaker": "A",
+   "text": "That is why, when Japan is enjoying summer, Australia is in winter. It is all about the angle."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many people believe that we have summer when the Earth is closest to the sun, and winter when it is farthest away.",
+   "start": 0.0,
+   "end": 6.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It sounds logical, but it is not correct.",
+   "start": 7.55,
+   "end": 10.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In fact, the Earth is closest to the sun in early January, during winter in Japan.",
+   "start": 11.26,
+   "end": 17.34,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The real reason for the seasons is the tilt of the Earth's axis.",
+   "start": 17.86,
+   "end": 21.54,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The axis is an imaginary line through the North and South Poles, around which the Earth spins.",
+   "start": 21.97,
+   "end": 29.01,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This axis is tilted by about twenty-three and a half degrees.",
+   "start": 29.44,
+   "end": 33.36,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "As the Earth travels around the sun during the year, the tilt stays pointed in the same direction in space.",
+   "start": 33.88,
+   "end": 40.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So for part of the year, the Northern Hemisphere leans toward the sun.",
+   "start": 41.31,
+   "end": 45.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A hemisphere is half of the Earth.",
+   "start": 46.22,
+   "end": 48.74,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "At the same time, the Southern Hemisphere leans away.",
+   "start": 49.17,
+   "end": 52.61,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When your hemisphere leans toward the sun, two things happen.",
+   "start": 53.13,
+   "end": 57.13,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "First, the sun rises higher in the sky, and its light hits the ground more directly.",
+   "start": 57.72,
+   "end": 63.32,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The energy is concentrated on a smaller area, so it heats the ground more.",
+   "start": 63.75,
+   "end": 68.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, days are longer, so there are more hours of heating.",
+   "start": 69.3,
+   "end": 73.78,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is summer.",
+   "start": 74.21,
+   "end": 75.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Six months later, your hemisphere leans away.",
+   "start": 76.09,
+   "end": 79.29,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The sun stays low, its light is spread out, and the days are short.",
+   "start": 79.88,
+   "end": 84.52,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This is winter.",
+   "start": 85.43,
+   "end": 86.87,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why, when Japan is enjoying summer, Australia is in winter.",
+   "start": 87.39,
+   "end": 92.43,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It is all about the angle.",
+   "start": 92.82,
+   "end": 94.78,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 94.7,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-03 23:59"
+}

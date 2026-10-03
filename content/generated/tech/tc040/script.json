@@ -1,0 +1,272 @@
+{
+ "id": "tc040",
+ "author": "claude",
+ "category": "tech",
+ "title": "From Hobby Project to App Store Feature",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "indie showcase",
+  "editorial feature",
+  "design refinement"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Your app was featured on the App Store last year. What was that like?"
+  },
+  {
+   "speaker": "B",
+   "text": "It was amazing. I woke up one morning, and my downloads were twenty times higher than usual. For an indie developer, that's a life-changing moment."
+  },
+  {
+   "speaker": "A",
+   "text": "How did it happen? Did you know someone at Apple?"
+  },
+  {
+   "speaker": "B",
+   "text": "No, not at all. The App Store has an editorial team. They look for apps that are well designed and interesting. An editorial feature means they choose your app and write about it."
+  },
+  {
+   "speaker": "A",
+   "text": "What do you think they liked?"
+  },
+  {
+   "speaker": "B",
+   "text": "I spent a lot of time on design refinement. Small details, like smooth animations, clear text and support for features like Dark Mode and Dynamic Type. The app also had a clear story. It solved one problem very well."
+  },
+  {
+   "speaker": "A",
+   "text": "Did you contact Apple?"
+  },
+  {
+   "speaker": "B",
+   "text": "Developers can submit information about upcoming apps and updates to the editors. I did that a few weeks before a big update, and explained why it was special."
+  },
+  {
+   "speaker": "A",
+   "text": "Any advice for others?"
+  },
+  {
+   "speaker": "B",
+   "text": "Don't build just to get featured. Build something you truly care about. But polish it like it might be shown to millions of people. Indie showcases love personal stories, so share why you made it."
+  },
+  {
+   "speaker": "A",
+   "text": "And after the feature?"
+  },
+  {
+   "speaker": "B",
+   "text": "Downloads dropped again, of course. But many new users stayed, and that gave me the confidence to keep going."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Your app was featured on the App Store last year.",
+   "start": 0.0,
+   "end": 2.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What was that like?",
+   "start": 3.15,
+   "end": 4.19,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It was amazing.",
+   "start": 4.91,
+   "end": 6.35,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "I woke up one morning, and my downloads were twenty times higher than usual.",
+   "start": 7.1,
+   "end": 11.58,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "For an indie developer, that's a life-changing moment.",
+   "start": 12.41,
+   "end": 15.85,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How did it happen?",
+   "start": 16.57,
+   "end": 17.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Did you know someone at Apple?",
+   "start": 18.36,
+   "end": 20.04,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "No, not at all.",
+   "start": 20.76,
+   "end": 22.2,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The App Store has an editorial team.",
+   "start": 22.95,
+   "end": 25.27,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "They look for apps that are well designed and interesting.",
+   "start": 25.86,
+   "end": 29.02,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "An editorial feature means they choose your app and write about it.",
+   "start": 29.65,
+   "end": 33.57,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What do you think they liked?",
+   "start": 34.29,
+   "end": 35.89,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "I spent a lot of time on design refinement.",
+   "start": 36.61,
+   "end": 39.49,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Small details, like smooth animations, clear text and support for features like Dark Mode and Dynamic Type.",
+   "start": 40.0,
+   "end": 47.36,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "The app also had a clear story.",
+   "start": 47.79,
+   "end": 50.19,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It solved one problem very well.",
+   "start": 50.62,
+   "end": 52.94,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Did you contact Apple?",
+   "start": 53.66,
+   "end": 55.26,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Developers can submit information about upcoming apps and updates to the editors.",
+   "start": 55.98,
+   "end": 61.14,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "I did that a few weeks before a big update, and explained why it was special.",
+   "start": 61.77,
+   "end": 66.57,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Any advice for others?",
+   "start": 67.29,
+   "end": 68.97,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Don't build just to get featured.",
+   "start": 69.69,
+   "end": 71.69,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Build something you truly care about.",
+   "start": 72.44,
+   "end": 74.6,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But polish it like it might be shown to millions of people.",
+   "start": 75.43,
+   "end": 78.99,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Indie showcases love personal stories, so share why you made it.",
+   "start": 79.62,
+   "end": 84.02,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And after the feature?",
+   "start": 84.74,
+   "end": 86.34,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Downloads dropped again, of course.",
+   "start": 87.14,
+   "end": 89.46,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "But many new users stayed, and that gave me the confidence to keep going.",
+   "start": 90.29,
+   "end": 95.41,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 221,
+ "duration": 95.3,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-03 23:54"
+}

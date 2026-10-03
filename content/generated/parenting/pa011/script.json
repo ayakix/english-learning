@@ -1,0 +1,198 @@
+{
+ "id": "pa011",
+ "author": "claude",
+ "category": "parenting",
+ "title": "The Power of Reading Aloud",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "reading aloud",
+  "vocabulary",
+  "attention span"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Reading aloud to children is one of the simplest things parents can do, and research shows it has many benefits."
+  },
+  {
+   "speaker": "A",
+   "text": "The first benefit is vocabulary. Children's books often include words that adults rarely use in everyday conversation, such as gigantic, whisper or meadow. Hearing these words in a story, with pictures and context, helps children understand and remember them. Studies suggest that children who are read to regularly hear many more words before starting school."
+  },
+  {
+   "speaker": "A",
+   "text": "Reading aloud also builds attention span. This is the length of time a person can focus on one activity. Following a story from beginning to end requires concentration. With regular practice, children become able to listen for longer periods."
+  },
+  {
+   "speaker": "A",
+   "text": "Stories also help children understand emotions and other people. They see characters feel scared, happy or jealous, and they learn how others solve problems."
+  },
+  {
+   "speaker": "A",
+   "text": "Another key benefit is emotional connection. Sitting close together with a book creates a warm, calm moment in a busy day. Many children remember these times for the rest of their lives."
+  },
+  {
+   "speaker": "A",
+   "text": "Experts suggest making reading interactive. Ask questions like, What do you think will happen next? or How does the bear feel? Let children point at pictures and turn the pages."
+  },
+  {
+   "speaker": "A",
+   "text": "And reading aloud does not need to stop when children learn to read alone. Older children also enjoy listening to longer stories that are a little too difficult for them to read by themselves."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Reading aloud to children is one of the simplest things parents can do, and research shows it has many benefits.",
+   "start": 0.0,
+   "end": 7.68,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The first benefit is vocabulary.",
+   "start": 8.2,
+   "end": 10.84,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Children's books often include words that adults rarely use in everyday conversation, such as gigantic, whisper or meadow.",
+   "start": 11.51,
+   "end": 21.67,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Hearing these words in a story, with pictures and context, helps children understand and remember them.",
+   "start": 22.42,
+   "end": 29.78,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Studies suggest that children who are read to regularly hear many more words before starting school.",
+   "start": 30.21,
+   "end": 36.61,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Reading aloud also builds attention span.",
+   "start": 37.13,
+   "end": 40.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is the length of time a person can focus on one activity.",
+   "start": 41.24,
+   "end": 45.08,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Following a story from beginning to end requires concentration.",
+   "start": 46.07,
+   "end": 50.15,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "With regular practice, children become able to listen for longer periods.",
+   "start": 51.06,
+   "end": 56.02,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Stories also help children understand emotions and other people.",
+   "start": 56.54,
+   "end": 61.02,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "They see characters feel scared, happy or jealous, and they learn how others solve problems.",
+   "start": 62.01,
+   "end": 68.89,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Another key benefit is emotional connection.",
+   "start": 69.41,
+   "end": 73.01,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Sitting close together with a book creates a warm, calm moment in a busy day.",
+   "start": 73.44,
+   "end": 79.36,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many children remember these times for the rest of their lives.",
+   "start": 79.79,
+   "end": 83.63,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Experts suggest making reading interactive.",
+   "start": 84.15,
+   "end": 87.03,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Ask questions like, What do you think will happen next?",
+   "start": 87.94,
+   "end": 91.62,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "or How does the bear feel?",
+   "start": 92.05,
+   "end": 94.21,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Let children point at pictures and turn the pages.",
+   "start": 95.2,
+   "end": 98.56,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "And reading aloud does not need to stop when children learn to read alone.",
+   "start": 99.08,
+   "end": 103.8,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Older children also enjoy listening to longer stories that are a little too difficult for them to read by themselves.",
+   "start": 104.47,
+   "end": 111.51,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 234,
+ "duration": 111.4,
+ "wpm": 126,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 79,
+ "created": "2026-10-03 23:58"
+}

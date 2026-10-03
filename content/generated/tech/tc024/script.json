@@ -1,0 +1,244 @@
+{
+ "id": "tc024",
+ "author": "claude",
+ "category": "tech",
+ "title": "Debugging Hardware vs Software Bugs",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "hardware troubleshooting",
+  "signal noise",
+  "serial monitor"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  },
+  "B": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When you start building hardware projects, debugging feels very different from software. Why is that?"
+  },
+  {
+   "speaker": "B",
+   "text": "In software, the problem is almost always in your code. In hardware, it could be the code, the wiring, the power supply, the sensor, or even electrical noise in the room."
+  },
+  {
+   "speaker": "A",
+   "text": "So where do you start?"
+  },
+  {
+   "speaker": "B",
+   "text": "I start by checking the physical things. Hardware troubleshooting often begins with loose wires, wrong pins or a bad connection on the breadboard. It's surprising how often that's the problem."
+  },
+  {
+   "speaker": "A",
+   "text": "And then?"
+  },
+  {
+   "speaker": "B",
+   "text": "Power is the next suspect. Many strange bugs happen because the board doesn't get enough stable power. A cheap USB cable or weak battery can cause random resets."
+  },
+  {
+   "speaker": "A",
+   "text": "What about signal noise?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's when unwanted electrical interference changes your readings. Long wires, motors and nearby devices can all cause it. You might see a sensor value jumping around for no reason."
+  },
+  {
+   "speaker": "A",
+   "text": "What tools do you use?"
+  },
+  {
+   "speaker": "B",
+   "text": "The simplest and most useful one is the serial monitor. Your microcontroller prints messages to your computer while it runs, so you can see what it's doing. A cheap multimeter is also great for checking voltages."
+  },
+  {
+   "speaker": "A",
+   "text": "Any general advice?"
+  },
+  {
+   "speaker": "B",
+   "text": "Change only one thing at a time. If you change the code and the wiring together, you'll never know which one fixed the problem."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When you start building hardware projects, debugging feels very different from software.",
+   "start": 0.0,
+   "end": 5.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is that?",
+   "start": 5.99,
+   "end": 6.91,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In software, the problem is almost always in your code.",
+   "start": 7.63,
+   "end": 11.63,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "In hardware, it could be the code, the wiring, the power supply, the sensor, or even electrical noise in the room.",
+   "start": 12.06,
+   "end": 19.58,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So where do you start?",
+   "start": 20.3,
+   "end": 22.06,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "I start by checking the physical things.",
+   "start": 22.78,
+   "end": 24.94,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Hardware troubleshooting often begins with loose wires, wrong pins or a bad connection on the breadboard.",
+   "start": 25.53,
+   "end": 31.61,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's surprising how often that's the problem.",
+   "start": 32.0,
+   "end": 34.28,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And then?",
+   "start": 35.0,
+   "end": 35.96,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Power is the next suspect.",
+   "start": 36.76,
+   "end": 38.52,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Many strange bugs happen because the board doesn't get enough stable power.",
+   "start": 39.43,
+   "end": 43.63,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "A cheap USB cable or weak battery can cause random resets.",
+   "start": 44.26,
+   "end": 48.66,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "What about signal noise?",
+   "start": 49.38,
+   "end": 51.22,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "That's when unwanted electrical interference changes your readings.",
+   "start": 51.94,
+   "end": 55.74,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Long wires, motors and nearby devices can all cause it.",
+   "start": 56.37,
+   "end": 60.13,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "You might see a sensor value jumping around for no reason.",
+   "start": 60.96,
+   "end": 64.16,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "What tools do you use?",
+   "start": 64.88,
+   "end": 66.64,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "The simplest and most useful one is the serial monitor.",
+   "start": 67.36,
+   "end": 70.84,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Your microcontroller prints messages to your computer while it runs, so you can see what it's doing.",
+   "start": 71.47,
+   "end": 76.35,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A cheap multimeter is also great for checking voltages.",
+   "start": 77.18,
+   "end": 80.7,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Any general advice?",
+   "start": 81.42,
+   "end": 83.1,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Change only one thing at a time.",
+   "start": 83.82,
+   "end": 86.38,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "If you change the code and the wiring together, you'll never know which one fixed the problem.",
+   "start": 87.05,
+   "end": 92.25,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 212,
+ "duration": 92.2,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-03 23:54"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "rn021",
+ "author": "claude",
+ "summary_ja": "新しい坂練習や初めてのハーフマラソンの2日後、階段を下りると痛む。これが遅発性筋肉痛（DOMS）で、12〜24時間後に始まり1〜3日目が最もつらい。乳酸ではなく、筋線維や周りの組織の微小な損傷（マイクロトラウマ）と、それに対する炎症・修復が原因とされる。筋肉が伸びながら力を出すエキセントリック収縮（下り坂など）で起きやすい。一度経験すると次は軽くなる（繰り返し効果）。",
+ "listening": [
+  {
+   "q": "DOMS の痛みが最も強いのは？",
+   "options": [
+    "1週間後",
+    "運動の直後",
+    "運動中",
+    "運動の1〜3日後"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It usually starts twelve to twenty-four hours after exercise and is often worst after one to three days.\""
+  },
+  {
+   "q": "下り坂のほうが上り坂より筋肉痛になりやすい理由は？",
+   "options": [
+    "息が苦しいから",
+    "筋肉が伸びながら力を出すエキセントリック収縮が多いから",
+    "地面が硬いから",
+    "速く走るから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"This happens when a muscle gets longer while it is working, like when your thigh muscles control your body while running downhill.\""
+  },
+  {
+   "q": "repeated bout effect とは？",
+   "options": [
+    "連続で走ること",
+    "一度同じ運動をすると、次は筋肉痛がずっと軽くなること",
+    "同じ運動を何度もすると痛くなること",
+    "繰り返しけがをすること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The next time you do the same exercise, soreness is much smaller. This is called the repeated bout effect.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "名前が示すとおり、痛みはすぐには現れません。",
+   "points_ja": "As the name suggests が続き、does not appear immediately が続けて聞こえます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "体は炎症と修復で応え、この過程で筋肉が敏感になり、こわばります。",
+   "points_ja": "responds with inflammation and repair が一続きに聞こえ、sensitive and stiff の and は「ン」です。"
+  },
+  {
+   "sentence": 21,
+   "ja": "筋肉痛は普通のことですが、体を回復させる合図です。",
+   "points_ja": "Soreness is normal がつながり、sign to let your が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "筋肉痛はけがの印",
+    "運動はやめるべき",
+    "筋肉痛は乳酸のせい",
+    "DOMS の原因と特徴、和らげ方と予防"
+   ],
+   "answer": 3,
+   "explanation_ja": "原因、エキセントリック収縮、繰り返し効果、対策を説明しています。"
+  },
+  {
+   "q": "DOMS の主な原因と考えられているのは？",
+   "options": [
+    "脱水",
+    "寒さ",
+    "乳酸",
+    "筋線維とその周りの組織の微小な損傷"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The main cause seems to be microtrauma, very small damage to muscle fibers and the tissue around them.\""
+  },
+  {
+   "q": "eccentric contraction の説明は？",
+   "options": [
+    "筋肉がけいれんすること",
+    "筋肉が力を出しながら長くなること",
+    "筋肉が休んでいること",
+    "筋肉が縮むこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"This happens when a muscle gets longer while it is working\"。"
+  },
+  {
+   "q": "楽になる方法として挙げられているのは？",
+   "options": [
+    "完全に動かない",
+    "軽い運動、十分な睡眠、十分な食事、マッサージ",
+    "熱いお風呂だけ",
+    "痛み止めだけ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Light movement, good sleep and enough food can make you feel better. Massage may reduce the feeling of pain.\""
+  },
+  {
+   "q": "最も大切な予防策は？",
+   "options": [
+    "下り坂を避け続ける",
+    "新しい種類の練習を少しずつ増やす",
+    "毎日同じ練習だけをする",
+    "運動をやめる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Most importantly, increase new types of training gradually.\""
+  }
+ ]
+}

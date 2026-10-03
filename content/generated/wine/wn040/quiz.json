@@ -1,0 +1,114 @@
+{
+ "id": "wn040",
+ "author": "claude",
+ "summary_ja": "グラスの形は主に香りに影響すると多くの専門家は考える。回すと香りの分子が蒸発してワインの上の空間（ヘッドスペース）にたまる。広いボウルは表面積が大きく、すぼまった口は漏斗のように香りを鼻へ導く。香り高い赤には大きく丸いグラス、白は冷たさを保つため小さめ、スパークリングはチューリップ型が好まれつつある。科学的な効果と期待の影響はまだ議論中。",
+ "listening": [
+  {
+   "q": "グラスの形が主に影響するものは？",
+   "options": [
+    "香り",
+    "色",
+    "アルコール度数",
+    "値段"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Many experts believe shape matters, mainly because of aroma.\""
+  },
+  {
+   "q": "口がすぼまったグラスの働きは？",
+   "options": [
+    "ワインを冷やす",
+    "色を濃く見せる",
+    "泡を消す",
+    "漏斗のように香りを集めて鼻へ導く"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"if the glass becomes narrower toward the top, it gathers these aromas and guides them toward your nose.\""
+  },
+  {
+   "q": "最後に話し手が勧めていることは？",
+   "options": [
+    "グラスは関係ない",
+    "高いグラスを何種類も買う",
+    "紙コップで十分",
+    "きれいなチューリップ型のグラスはほぼどんなワインにも良い出発点"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"a good, clean glass with a tulip shape is a great start for almost any wine.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "背が高く細いものもあれば、大きく丸いボウルのものもあります。",
+   "points_ja": "tall and narrow の and は「ン」、others have が続けて聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "広いボウルのグラスは、ワインに大きな表面を与えます。",
+   "points_ja": "with a wide が続き、gives the wine a large が一続きに聞こえます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "小さめのグラスは、ワインを冷たく保つこともあって、白ワインによく使われます。",
+   "points_ja": "glasses are often がつながり、keep the wine の p は飲み込まれます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "すべてのワインに同じグラスを使うべきではない",
+    "グラスの形は香りの感じ方に影響すると考えられているが、その理由には議論もある",
+    "高いグラスほどワインがおいしい",
+    "グラスの形は関係ない"
+   ],
+   "answer": 1,
+   "explanation_ja": "ボウルと口の働き、ワインごとの形、科学的な議論を説明しています。"
+  },
+  {
+   "q": "headspace とは？",
+   "options": [
+    "グラスの底",
+    "グラスの口",
+    "グラスの脚",
+    "ワインの上の空いた空間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"This space is called the headspace.\""
+  },
+  {
+   "q": "小さめのグラスが白ワインに使われる理由の一つは？",
+   "options": [
+    "香りを強くするため",
+    "色を濃く見せるため",
+    "泡を作るため",
+    "ワインを冷たく保つため"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Smaller glasses are often used for whites, partly to keep the wine cool.\""
+  },
+  {
+   "q": "スパークリングワインについて最近の多くの専門家の好みは？",
+   "options": [
+    "平たいグラス",
+    "大きく丸いボウル",
+    "細長いフルート型だけ",
+    "香りを楽しめる広めのチューリップ型"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"many experts now prefer wider tulip shapes to enjoy more aroma.\""
+  },
+  {
+   "q": "薄い縁の利点は？",
+   "options": [
+    "厚い縁の感触なしに、ワインがなめらかに口に流れ込む",
+    "冷たさを保つ",
+    "割れにくい",
+    "香りを閉じ込める"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A thin rim lets the wine flow smoothly into your mouth, without the feeling of a thick edge.\""
+  }
+ ]
+}

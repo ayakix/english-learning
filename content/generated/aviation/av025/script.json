@@ -1,0 +1,236 @@
+{
+ "id": "av025",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Airbus Sidestick vs. Boeing Control Yoke",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "sidestick",
+  "control yoke",
+  "tactile feedback"
+ ],
+ "cast": {
+  "A": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Airbus and Boeing pilots use very different controls. Airbus has a small sidestick, and Boeing has a big control yoke. Why the difference?"
+  },
+  {
+   "speaker": "B",
+   "text": "It comes from different design philosophies. Airbus put a joystick at the side of each pilot, a bit like a game controller. It frees up space in front of the pilot, so there's room for a table."
+  },
+  {
+   "speaker": "A",
+   "text": "And Boeing kept the yoke."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, the classic wheel-like control in front of the pilot. Boeing believes it gives pilots a natural feeling and good awareness of what's happening."
+  },
+  {
+   "speaker": "A",
+   "text": "Is there another big difference?"
+  },
+  {
+   "speaker": "B",
+   "text": "An important one is feedback. On Boeing aircraft, the two yokes are linked. If the captain pulls back, the first officer's yoke moves too. You can see and feel what the other pilot is doing."
+  },
+  {
+   "speaker": "A",
+   "text": "And Airbus?"
+  },
+  {
+   "speaker": "B",
+   "text": "The two sidesticks aren't linked. If one pilot moves their stick, the other stick doesn't move. So pilots rely more on displays and communication. Some people say Boeing gives better tactile feedback, meaning feedback you can feel with your hands."
+  },
+  {
+   "speaker": "A",
+   "text": "So which is safer?"
+  },
+  {
+   "speaker": "B",
+   "text": "Both are very safe when pilots are well trained. Pilots who fly both types often say each has advantages. In the end, training and teamwork matter more than the shape of the control."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Airbus and Boeing pilots use very different controls.",
+   "start": 0.0,
+   "end": 3.84,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Airbus has a small sidestick, and Boeing has a big control yoke.",
+   "start": 4.31,
+   "end": 9.15,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why the difference?",
+   "start": 9.58,
+   "end": 10.78,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It comes from different design philosophies.",
+   "start": 11.5,
+   "end": 14.1,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Airbus put a joystick at the side of each pilot, a bit like a game controller.",
+   "start": 14.73,
+   "end": 19.85,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It frees up space in front of the pilot, so there's room for a table.",
+   "start": 20.28,
+   "end": 24.2,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "And Boeing kept the yoke.",
+   "start": 24.92,
+   "end": 26.92,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes, the classic wheel-like control in front of the pilot.",
+   "start": 27.64,
+   "end": 31.76,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Boeing believes it gives pilots a natural feeling and good awareness of what's happening.",
+   "start": 32.39,
+   "end": 37.59,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Is there another big difference?",
+   "start": 38.31,
+   "end": 40.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "An important one is feedback.",
+   "start": 41.03,
+   "end": 43.03,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "On Boeing aircraft, the two yokes are linked.",
+   "start": 43.46,
+   "end": 46.98,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "If the captain pulls back, the first officer's yoke moves too.",
+   "start": 47.57,
+   "end": 51.57,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "You can see and feel what the other pilot is doing.",
+   "start": 52.16,
+   "end": 55.6,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And Airbus?",
+   "start": 56.32,
+   "end": 57.6,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "The two sidesticks aren't linked.",
+   "start": 58.32,
+   "end": 60.72,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If one pilot moves their stick, the other stick doesn't move.",
+   "start": 61.19,
+   "end": 65.07,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So pilots rely more on displays and communication.",
+   "start": 65.58,
+   "end": 69.5,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Some people say Boeing gives better tactile feedback, meaning feedback you can feel with your hands.",
+   "start": 69.97,
+   "end": 76.25,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So which is safer?",
+   "start": 76.97,
+   "end": 79.05,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Both are very safe when pilots are well trained.",
+   "start": 79.77,
+   "end": 83.21,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Pilots who fly both types often say each has advantages.",
+   "start": 83.6,
+   "end": 87.72,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "In the end, training and teamwork matter more than the shape of the control.",
+   "start": 88.15,
+   "end": 92.63,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 208,
+ "duration": 92.5,
+ "wpm": 135,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:52"
+}

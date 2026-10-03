@@ -1,0 +1,114 @@
+{
+ "id": "wt001",
+ "author": "claude",
+ "summary_ja": "独立時計師は大企業ではなく自分の工房で、自分の名前で時計を設計・製作する。1985年に AHCI という団体ができ、彼らは独自の機構を発明し、年に数本しか作らない人もいる。コレクターは何年も待って、その人の人生の作品を買う。",
+ "listening": [
+  {
+   "q": "この話の主な話題は？",
+   "options": [
+    "時計の値段が上がる理由",
+    "独立時計師という存在と、その考え方",
+    "時計学校の入学方法",
+    "大手時計ブランドの歴史"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"there is another world in watchmaking. It belongs to independent watchmakers.\" から始まり、独立時計師の考え方を紹介しています。"
+  },
+  {
+   "q": "AHCI ができたのはいつ、誰によって？",
+   "options": [
+    "1958年、大手ブランドによって",
+    "2005年、コレクターの団体によって",
+    "1985年、スイス政府によって",
+    "1985年、2人の時計師によって"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In nineteen eighty-five, two watchmakers, Svend Andersen and Vincent Calabrese, started a group\" とあります。"
+  },
+  {
+   "q": "コレクターが何年も待つ理由として話されていることは？",
+   "options": [
+    "注文が抽選だから",
+    "時計が誰かの人生の作品だから",
+    "修理に時間がかかるから",
+    "値段が毎年上がるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"They are buying a piece of someone's life's work.\" と締めくくっています。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "彼らは自分の小さな工房で時計を設計・製作する人たちで、多くは自分の名前で作っています。",
+   "points_ja": "and make が「アンメイク」とつながり、in their own の their は弱く短く発音されます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "彼らは新しい機構や、時刻の新しい見せ方を発明します。",
+   "points_ja": "ways to show の to は「タ」と弱くなり、show the の the も弱形です。"
+  },
+  {
+   "sentence": 15,
+   "ja": "年に10本か20本しか作らない人もいます。",
+   "points_ja": "ten or twenty がつながって「テノア」、watches a year の a はほとんど聞こえません。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨として最も適切なものは？",
+   "options": [
+    "AHCI は世界最大の時計メーカーである",
+    "独立時計師の時計は正確さで劣る",
+    "独立時計師は量産ではなく個人の創作として時計を作っている",
+    "コレクターは大手ブランドを好む"
+   ],
+   "answer": 2,
+   "explanation_ja": "量産品ではなく \"a personal idea, made real with their own hands\" として時計を作る人々の話です。"
+  },
+  {
+   "q": "atelier の意味として本文で説明されているのは？",
+   "options": [
+    "時計の部品",
+    "展示会",
+    "工房・スタジオ",
+    "販売店"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"atelier. That is a French word for a workshop or studio.\" とあります。"
+  },
+  {
+   "q": "horology の説明として正しいものは？",
+   "options": [
+    "時間を測る科学と技術",
+    "時計の修理方法",
+    "フランスの時計の歴史",
+    "時計を売る商売"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Horology is the science and art of measuring time.\" とあります。"
+  },
+  {
+   "q": "独立時計師の共通点として本文で挙げられていないものは？",
+   "options": [
+    "他人の部品を組み立てるだけではない",
+    "新しい機構を発明する",
+    "小さな工房で働く",
+    "大量の広告を出す"
+   ],
+   "answer": 3,
+   "explanation_ja": "創作者であること、小さな工房で働くことは書かれていますが、広告については触れていません。"
+  },
+  {
+   "q": "\"a piece of someone's life's work\" から推測できることは？",
+   "options": [
+    "時計に作り手の人生や情熱が込められている",
+    "時計がとても古い",
+    "時計が未完成である",
+    "時計が分解されて売られる"
+   ],
+   "answer": 0,
+   "explanation_ja": "life's work は「生涯をかけた仕事」。作り手の人生が込められた作品だという意味です。"
+  }
+ ]
+}

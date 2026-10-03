@@ -1,0 +1,114 @@
+{
+ "id": "wt017",
+ "author": "claude",
+ "summary_ja": "ジュネーブ・シールは1886年にジュネーブ州が作った品質の印で、企業ではなく公的機関が管理する。ジュネーブ州で組み立て・調整し、見えない部分を含む厳しい仕上げ基準を満たす必要がある。2012年からは完成品の防水性や精度（7日後に1分以内）も検査する。",
+ "listening": [
+  {
+   "q": "ジュネーブ・シールを管理しているのは？",
+   "options": [
+    "時計学校",
+    "コレクターの団体",
+    "時計会社",
+    "ジュネーブの公的な機関"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"No, that's important. It's controlled by an official office in Geneva.\""
+  },
+  {
+   "q": "規則の多くは何に関するもの？",
+   "options": [
+    "仕上げ（面取りや磨き、ネジの頭など）",
+    "ベルトの色",
+    "値段",
+    "広告"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Many are about finishing. For example, edges must be beveled and polished\"。"
+  },
+  {
+   "q": "2012年から加わった精度の検査は？",
+   "options": [
+    "7日後に1分以上ずれないこと",
+    "水深100mで動くこと",
+    "1日に1秒以上ずれないこと",
+    "1年間止まらないこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"after seven days, the watch shouldn't be more than one minute off.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "それは1886年にジュネーブ州によって作られました。",
+   "points_ja": "created in がつながり、by the の the は弱形です。"
+  },
+  {
+   "sentence": 12,
+   "ja": "見えない部品でさえ検査されます。",
+   "points_ja": "can't see の t はほとんど聞こえず、parts you が「パーツユ」と続きます。"
+  },
+  {
+   "sentence": 20,
+   "ja": "毎年、シールを受け取る時計はわずかです。",
+   "points_ja": "number of が「ナンバラヴ」、receive the の the は弱く聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主な内容は？",
+   "options": [
+    "スイスの歴史",
+    "ジュネーブ・シールの意味と厳しい基準",
+    "ジュネーブの観光",
+    "時計の値段の決め方"
+   ],
+   "answer": 1,
+   "explanation_ja": "誰が管理し、どんな基準があるかを説明しています。"
+  },
+  {
+   "q": "Poinçon de Genève とは？",
+   "options": [
+    "時計の部品",
+    "ジュネーブ・シールのフランス語名",
+    "ジュネーブの時計店",
+    "検査官の名前"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"In French, it's called the Poinçon de Genève.\""
+  },
+  {
+   "q": "シールを受けるための条件として正しいものは？",
+   "options": [
+    "金のケースであること",
+    "電池式であること",
+    "スイス国外で作られること",
+    "ジュネーブ州で組み立て・調整されること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The watch has to be assembled and adjusted in the canton\"。"
+  },
+  {
+   "q": "chronometric precision の意味は？",
+   "options": [
+    "防水性能",
+    "時間を正確に刻む精度",
+    "重さ",
+    "見た目の美しさ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"So it's about both beauty and chronometric precision.\" の文脈で、精度の検査を指します。"
+  },
+  {
+   "q": "コレクターにとってシールが意味するのは？",
+   "options": [
+    "新品である印",
+    "内側から外側まで丁寧に作られた保証",
+    "安く買える印",
+    "限定品の印"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a guarantee that the watch was made with real care, from the inside out.\""
+  }
+ ]
+}

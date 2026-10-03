@@ -1,0 +1,250 @@
+{
+ "id": "wn034",
+ "author": "claude",
+ "category": "wine",
+ "title": "Understanding Wine Balance: Acid, Alcohol, Tannin",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "structural balance",
+  "astringency vs sweetness",
+  "integrated acidity"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Wine people often say a wine is balanced. What does that actually mean?"
+  },
+  {
+   "speaker": "B",
+   "text": "It means no single part of the wine dominates the others. The main parts are acidity, alcohol, tannin, sweetness and fruit. When they work together, the wine feels harmonious."
+  },
+  {
+   "speaker": "A",
+   "text": "Can you give an example of an unbalanced wine?"
+  },
+  {
+   "speaker": "B",
+   "text": "Sure. Imagine a red wine with very strong tannins but not much fruit. It feels dry and harsh, like strong tea without sugar. Or a white wine with high alcohol but low acidity. It feels heavy and a little hot in the throat."
+  },
+  {
+   "speaker": "A",
+   "text": "So the parts need to support each other."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. For example, sweetness can soften the feeling of tannin and acidity. That's why a sweet wine with high acidity can still taste fresh, not sticky. The balance between astringency and sweetness is important in many wines."
+  },
+  {
+   "speaker": "A",
+   "text": "What about acidity?"
+  },
+  {
+   "speaker": "B",
+   "text": "Good acidity makes a wine feel lively. But the best acidity doesn't stick out. Tasters say it's integrated, meaning you feel the freshness without noticing a sharp, sour edge."
+  },
+  {
+   "speaker": "A",
+   "text": "Can a young wine be unbalanced but still be good?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, that's an important point. Some young wines have strong tannins that will soften with age. An experienced taster asks whether there's enough fruit to carry those tannins over time. If there is, the wine may become balanced later."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Wine people often say a wine is balanced.",
+   "start": 0.0,
+   "end": 3.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What does that actually mean?",
+   "start": 3.63,
+   "end": 5.39,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It means no single part of the wine dominates the others.",
+   "start": 6.11,
+   "end": 10.03,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The main parts are acidity, alcohol, tannin, sweetness and fruit.",
+   "start": 10.46,
+   "end": 15.82,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "When they work together, the wine feels harmonious.",
+   "start": 16.25,
+   "end": 19.61,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Can you give an example of an unbalanced wine?",
+   "start": 20.33,
+   "end": 23.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Sure.",
+   "start": 24.25,
+   "end": 24.73,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Imagine a red wine with very strong tannins but not much fruit.",
+   "start": 25.28,
+   "end": 30.28,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It feels dry and harsh, like strong tea without sugar.",
+   "start": 30.67,
+   "end": 34.95,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Or a white wine with high alcohol but low acidity.",
+   "start": 35.46,
+   "end": 39.3,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It feels heavy and a little hot in the throat.",
+   "start": 39.69,
+   "end": 42.45,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So the parts need to support each other.",
+   "start": 43.17,
+   "end": 45.65,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 46.37,
+   "end": 47.49,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "For example, sweetness can soften the feeling of tannin and acidity.",
+   "start": 47.92,
+   "end": 52.56,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's why a sweet wine with high acidity can still taste fresh, not sticky.",
+   "start": 53.03,
+   "end": 58.11,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "The balance between astringency and sweetness is important in many wines.",
+   "start": 58.54,
+   "end": 63.1,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "What about acidity?",
+   "start": 63.82,
+   "end": 65.34,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Good acidity makes a wine feel lively.",
+   "start": 66.06,
+   "end": 68.9,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "But the best acidity doesn't stick out.",
+   "start": 69.45,
+   "end": 72.01,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Tasters say it's integrated, meaning you feel the freshness without noticing a sharp, sour edge.",
+   "start": 72.6,
+   "end": 79.16,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Can a young wine be unbalanced but still be good?",
+   "start": 79.88,
+   "end": 83.48,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes, that's an important point.",
+   "start": 84.2,
+   "end": 86.2,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Some young wines have strong tannins that will soften with age.",
+   "start": 86.83,
+   "end": 90.95,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "An experienced taster asks whether there's enough fruit to carry those tannins over time.",
+   "start": 91.54,
+   "end": 96.5,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "If there is, the wine may become balanced later.",
+   "start": 97.25,
+   "end": 100.53,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 220,
+ "duration": 100.5,
+ "wpm": 131,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:50"
+}

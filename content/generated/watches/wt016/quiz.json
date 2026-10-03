@@ -1,0 +1,114 @@
+{
+ "id": "wt016",
+ "author": "claude",
+ "summary_ja": "コート・ド・ジュネーブ（ジュネーブ・ストライプ）とグラスヒュッテ・リブは、どちらも平行な縞模様の装飾。回転する研磨工具をプレートに当てて1本ずつ帯を作る。グラスヒュッテ式は幅・深さ・角度に違いがあると専門家は言う。違いを見分けるのはコレクターの楽しみ。",
+ "listening": [
+  {
+   "q": "この話で比べられているのは？",
+   "options": [
+    "2種類の縞模様の装飾",
+    "2種類のベルト",
+    "2つの時計ブランド",
+    "2つの国の時計の値段"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Two decorative patterns ... Côtes de Genève ... Glashütte ribbing.\""
+  },
+  {
+   "q": "ジュネーブ・ストライプの作り方は？",
+   "options": [
+    "手で描く",
+    "型で押す",
+    "薬品で溶かす",
+    "回転する研磨工具を当てながらプレートを直線に動かす"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"made with a rotating abrasive tool, which is pressed lightly against the plate while the plate moves in a straight line.\""
+  },
+  {
+   "q": "話し手はこの2つの違いを何にたとえている？",
+   "options": [
+    "車の色",
+    "話し手のアクセントを聞き分けること",
+    "料理の味の違い",
+    "音楽のテンポ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It is like recognizing the accent of a speaker.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "一見すると、ほとんど同じに見えます。",
+   "points_ja": "At first の t が飲み込まれ、look almost がつながります。"
+  },
+  {
+   "sentence": 8,
+   "ja": "それからプレートが少し動き、次の帯が作られます。",
+   "points_ja": "moves a little がつながり、band is made が「バンディズメイド」になります。"
+  },
+  {
+   "sentence": 18,
+   "ja": "どちらの模様も美しいですが、それぞれが時計の出身地について何かを教えてくれます。",
+   "points_ja": "each one が「イーチワン」、comes from が「カムズフロム」と続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "装飾は時計の精度を上げる",
+    "似ている2つの縞模様にも伝統の違いがあり、見分けるのが楽しい",
+    "装飾は不要である",
+    "スイスの模様のほうが優れている"
+   ],
+   "answer": 1,
+   "explanation_ja": "2つの模様の作り方・違い・楽しみ方を説明しています。"
+  },
+  {
+   "q": "Glashütte ribbing の違いとして専門家が指摘するのは？",
+   "options": [
+    "縞の幅・深さ・角度",
+    "素材と値段",
+    "色と重さ",
+    "大きさと形"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"for example in the width, depth and angle of the stripes.\""
+  },
+  {
+   "q": "隠れた機械を装飾する理由として書かれているのは？",
+   "options": [
+    "錆を防ぐため",
+    "法律で決まっているから",
+    "昔は丁寧な仕事の証だったこと、今はシースルーの裏ぶたがあること",
+    "精度が上がるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "歴史的な意味と、\"Today, many watches have a glass case back\" の2点です。"
+  },
+  {
+   "q": "abrasive tool の意味として推測できるのは？",
+   "options": [
+    "ピンセット",
+    "ネジ回し",
+    "拡大鏡",
+    "削ったり磨いたりする研磨用の道具"
+   ],
+   "answer": 3,
+   "explanation_ja": "回転しながら表面を削って光る帯を作る道具なので、研磨工具です。"
+  },
+  {
+   "q": "Côtes de Genève はどこの伝統？",
+   "options": [
+    "フランス",
+    "スイス",
+    "ドイツ",
+    "日本"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Geneva stripes are traditional in Swiss watchmaking.\""
+  }
+ ]
+}

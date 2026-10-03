@@ -1,0 +1,194 @@
+{
+ "id": "wn007",
+ "author": "claude",
+ "category": "wine",
+ "title": "Micro-oxygenation Through Wooden Barrels",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "micro-oxygenation",
+  "wood grain",
+  "ellagitannins"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Why do so many winemakers age their wines in wooden barrels? One reason is flavor, such as vanilla or spice. But there is another, more hidden reason. Barrels let the wine breathe, very slowly."
+  },
+  {
+   "speaker": "A",
+   "text": "A barrel is made of wooden staves held together by metal hoops. Wood is not completely airtight. Through the wood grain, and through the joints between the staves, tiny amounts of oxygen enter the wine. This slow contact with air is called micro-oxygenation."
+  },
+  {
+   "speaker": "A",
+   "text": "Too much oxygen spoils wine. It turns fruit flavors flat and can eventually make the wine taste like vinegar. But a very small amount, delivered over many months, can be helpful."
+  },
+  {
+   "speaker": "A",
+   "text": "In red wine, gentle oxygen helps tannins and color pigments join together into more stable forms. As a result, the color becomes more stable and the tannins often feel softer and smoother. The texture of the wine becomes more rounded."
+  },
+  {
+   "speaker": "A",
+   "text": "The oak itself also adds compounds called ellagitannins. These are wood tannins that dissolve into the wine. They can react with oxygen and help protect the wine from too much oxidation."
+  },
+  {
+   "speaker": "A",
+   "text": "Today, some wineries also use modern equipment to add tiny amounts of oxygen to wine in steel tanks. It is a cheaper way to copy part of the barrel effect. But many winemakers still believe nothing replaces the slow breathing of a good barrel."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Why do so many winemakers age their wines in wooden barrels?",
+   "start": 0.0,
+   "end": 4.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One reason is flavor, such as vanilla or spice.",
+   "start": 4.95,
+   "end": 8.83,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But there is another, more hidden reason.",
+   "start": 9.26,
+   "end": 12.14,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Barrels let the wine breathe, very slowly.",
+   "start": 12.65,
+   "end": 16.41,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A barrel is made of wooden staves held together by metal hoops.",
+   "start": 16.93,
+   "end": 21.49,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Wood is not completely airtight.",
+   "start": 21.92,
+   "end": 24.48,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Through the wood grain, and through the joints between the staves, tiny amounts of oxygen enter the wine.",
+   "start": 24.91,
+   "end": 31.23,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This slow contact with air is called micro-oxygenation.",
+   "start": 31.74,
+   "end": 35.74,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Too much oxygen spoils wine.",
+   "start": 36.26,
+   "end": 38.74,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It turns fruit flavors flat and can eventually make the wine taste like vinegar.",
+   "start": 39.33,
+   "end": 44.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But a very small amount, delivered over many months, can be helpful.",
+   "start": 44.72,
+   "end": 49.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In red wine, gentle oxygen helps tannins and color pigments join together into more stable forms.",
+   "start": 49.64,
+   "end": 56.6,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "As a result, the color becomes more stable and the tannins often feel softer and smoother.",
+   "start": 57.19,
+   "end": 63.23,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The texture of the wine becomes more rounded.",
+   "start": 63.86,
+   "end": 66.5,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The oak itself also adds compounds called ellagitannins.",
+   "start": 67.02,
+   "end": 71.14,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "These are wood tannins that dissolve into the wine.",
+   "start": 71.77,
+   "end": 74.77,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They can react with oxygen and help protect the wine from too much oxidation.",
+   "start": 75.4,
+   "end": 80.04,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, some wineries also use modern equipment to add tiny amounts of oxygen to wine in steel tanks.",
+   "start": 80.56,
+   "end": 88.16,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a cheaper way to copy part of the barrel effect.",
+   "start": 88.55,
+   "end": 91.95,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "But many winemakers still believe nothing replaces the slow breathing of a good barrel.",
+   "start": 92.42,
+   "end": 98.14,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 223,
+ "duration": 98.1,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:47"
+}

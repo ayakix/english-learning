@@ -1,0 +1,204 @@
+{
+ "id": "tc001",
+ "author": "claude",
+ "category": "tech",
+ "title": "Async Await in Swift",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "async/await",
+  "callback hell",
+  "structured concurrency"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you wrote iOS apps a few years ago, you probably remember code with many nested closures. You call a function to download data. When it finishes, it calls another function to decode it. When that finishes, it updates the screen. Each step is inside the previous one. Developers call this situation callback hell."
+  },
+  {
+   "speaker": "A",
+   "text": "In twenty twenty-one, Swift introduced async and await to solve this. Now you can mark a function as async, which means it can pause while waiting for slow work, like a network request. When you call it, you write await in front. The code looks like normal step-by-step code, but it does not block the app while it waits."
+  },
+  {
+   "speaker": "A",
+   "text": "This makes code much easier to read. You write: get the data, decode it, show it. One line after another, from top to bottom. Error handling also becomes simpler, because you can use normal try and catch."
+  },
+  {
+   "speaker": "A",
+   "text": "Swift also added structured concurrency. This means that tasks are organized in a clear tree. When you start child tasks inside a parent task, the parent waits for them to finish. If the parent is cancelled, the children are cancelled too. This prevents tasks from running forever in the background, forgotten."
+  },
+  {
+   "speaker": "A",
+   "text": "Of course, there is a learning curve. Ideas like actors and the main actor take time to understand. But most developers agree that modern Swift concurrency makes apps safer and code clearer."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you wrote iOS apps a few years ago, you probably remember code with many nested closures.",
+   "start": 0.0,
+   "end": 6.04,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You call a function to download data.",
+   "start": 6.67,
+   "end": 8.91,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When it finishes, it calls another function to decode it.",
+   "start": 9.5,
+   "end": 12.86,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When that finishes, it updates the screen.",
+   "start": 13.45,
+   "end": 16.13,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Each step is inside the previous one.",
+   "start": 16.76,
+   "end": 19.2,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Developers call this situation callback hell.",
+   "start": 19.83,
+   "end": 23.11,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In twenty twenty-one, Swift introduced async and await to solve this.",
+   "start": 23.63,
+   "end": 28.07,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Now you can mark a function as async, which means it can pause while waiting for slow work, like a network request.",
+   "start": 28.46,
+   "end": 35.774,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When you call it, you write await in front.",
+   "start": 36.193,
+   "end": 40.01,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The code looks like normal step-by-step code, but it does not block the app while it waits.",
+   "start": 40.68,
+   "end": 46.2,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This makes code much easier to read.",
+   "start": 46.72,
+   "end": 49.2,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "You write: get the data, decode it, show it.",
+   "start": 49.79,
+   "end": 53.51,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One line after another, from top to bottom.",
+   "start": 54.14,
+   "end": 56.86,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Error handling also becomes simpler, because you can use normal try and catch.",
+   "start": 57.77,
+   "end": 62.49,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Swift also added structured concurrency.",
+   "start": 63.01,
+   "end": 65.81,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This means that tasks are organized in a clear tree.",
+   "start": 66.72,
+   "end": 69.84,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When you start child tasks inside a parent task, the parent waits for them to finish.",
+   "start": 70.67,
+   "end": 76.15,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If the parent is cancelled, the children are cancelled too.",
+   "start": 76.78,
+   "end": 79.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This prevents tasks from running forever in the background, forgotten.",
+   "start": 80.81,
+   "end": 84.89,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course, there is a learning curve.",
+   "start": 85.41,
+   "end": 87.49,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Ideas like actors and the main actor take time to understand.",
+   "start": 88.32,
+   "end": 92.72,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But most developers agree that modern Swift concurrency makes apps safer and code clearer.",
+   "start": 93.15,
+   "end": 98.91,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 233,
+ "duration": 98.9,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:53"
+}

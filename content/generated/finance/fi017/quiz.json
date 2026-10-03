@@ -1,0 +1,114 @@
+{
+ "id": "fi017",
+ "author": "claude",
+ "summary_ja": "中央銀行が金利を上げ下げすると、住宅ローンの借り手、預金者、投資家などほとんどの人に影響する。金利はお金を借りる値段で、日本銀行や米国の FRB が短期金利を決める。利上げで借りるのが高くなると借入と支出が減り、景気が冷えてインフレが抑えられ、預金の利息は増える。利下げは支出と投資を促し景気を支える。高い金利は債券を魅力的にし株価に重し、金利差は為替にも影響（米金利が高いと円安になりやすい）。",
+ "listening": [
+  {
+   "q": "interest rate とは？",
+   "options": [
+    "税金",
+    "給料",
+    "お金を借りる値段",
+    "株の値段"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"An interest rate is the price of borrowing money.\""
+  },
+  {
+   "q": "中央銀行が利上げするとどうなる？",
+   "options": [
+    "借りるのが安くなる",
+    "借りるのが高くなり、景気が冷えてインフレを抑える助けになる",
+    "預金の利息が減る",
+    "景気が熱くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When a central bank raises rates, borrowing becomes more expensive ... This can cool down the economy and help reduce inflation.\""
+  },
+  {
+   "q": "米国の金利が日本よりずっと高いとき、円は？",
+   "options": [
+    "なくなる",
+    "強くなる",
+    "弱くなる（円安）ことが多い",
+    "変わらない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"when interest rates in the United States are much higher than in Japan, the yen often becomes weaker.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "お金を借りると、利息を払います。",
+   "points_ja": "borrow money がつながり、pay interest が続けて聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "これは、銀行が人々や会社に提示する金利に影響します。",
+   "points_ja": "influences the rates that banks offer が続き、people and companies の and は「ン」です。"
+  },
+  {
+   "sentence": 12,
+   "ja": "これは支出や投資を促し、景気が減速しているときに経済を支えることがあります。",
+   "points_ja": "encourages spending and investment が続き、during a slowdown がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "中央銀行は普通の銀行",
+    "金利は株と関係ない",
+    "金利はニュースだけの話",
+    "金利の上げ下げはローン、預金、投資、為替など生活の多くに影響する"
+   ],
+   "answer": 3,
+   "explanation_ja": "金利の意味、利上げと利下げの効果、市場や為替への影響を説明しています。"
+  },
+  {
+   "q": "central bank の例として挙げられているのは？",
+   "options": [
+    "地方銀行",
+    "証券会社",
+    "保険会社",
+    "日本銀行と米国の FRB"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"such as the Bank of Japan or the Federal Reserve in the United States\"。"
+  },
+  {
+   "q": "利上げの預金者への影響は？",
+   "options": [
+    "預金できなくなる",
+    "利息が減る",
+    "影響はない",
+    "より多く利息を得る"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Savers, on the other hand, earn more interest.\""
+  },
+  {
+   "q": "高い金利が特に重しになりやすい株は？",
+   "options": [
+    "急成長中の会社の株",
+    "どの株も同じ",
+    "銀行の株",
+    "安定した会社の株"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"put pressure on stock prices, especially for fast-growing companies.\""
+  },
+  {
+   "q": "最後の段落が伝えていることは？",
+   "options": [
+    "金利は見出しにすぎない",
+    "金利の決定はローン、預金、投資の価値を変えるかもしれない",
+    "金利は毎日変わる",
+    "金利は気にしなくてよい"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It may change your loan payments, your savings and the value of your investments.\""
+  }
+ ]
+}

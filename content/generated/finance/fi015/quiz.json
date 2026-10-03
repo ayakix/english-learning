@@ -1,0 +1,114 @@
+{
+ "id": "fi015",
+ "author": "claude",
+ "summary_ja": "多くの国には税の優遇がある投資口座がある。人々に長期、特に老後のために貯蓄・投資してもらうのが目的。普通は売って得た利益に譲渡益課税がかかり、日本では約20%。税優遇口座では利益や配当が非課税になったり、課税がずっと後になったりする（日本の NISA など）。長期では利益がすべて投資に残って複利で大きな差になる。年間の上限や引き出しの制限などのルールがあり、変わることもあるので確認が必要。",
+ "listening": [
+  {
+   "q": "政府が税優遇の口座を作る主な理由は？",
+   "options": [
+    "株価を上げるため",
+    "税金を増やすため",
+    "人々に長期、特に老後のために貯蓄・投資してもらうため",
+    "銀行を助けるため"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Mainly to encourage people to save and invest for the long term, especially for retirement.\""
+  },
+  {
+   "q": "日本の譲渡益課税の税率の目安は？",
+   "options": [
+    "0%",
+    "約5%",
+    "約50%",
+    "約20%"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In Japan, it's about twenty percent.\""
+  },
+  {
+   "q": "B の助言は？",
+   "options": [
+    "長期の投資ならまずこうした口座を使い、ルールを確認する",
+    "短期の売買に使う",
+    "使わないほうがよい",
+    "ルールは気にしない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"it usually makes sense to use these accounts first. But check the current rules carefully, because they can change.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "人々の貯蓄が増えれば、後で公的な支援に頼ることが減ります。",
+   "points_ja": "have more savings がつながり、depend less on public が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "税金がなければ、利益はすべて投資に残り、複利で増え続けます。",
+   "points_ja": "all your gains stay invested がつながり、keep compounding が続けて聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "口座によっては、損失を他の税金を減らすのに使えません。",
+   "points_ja": "losses can't be used の t は飲み込まれ、reduce other taxes が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "年金の制度",
+    "税優遇口座の仕組みと、長期投資での利点と注意点",
+    "銀行口座の作り方",
+    "税金の払い方"
+   ],
+   "answer": 1,
+   "explanation_ja": "目的、譲渡益課税、非課税の効果、ルールについて話しています。"
+  },
+  {
+   "q": "capital gains tax とは？",
+   "options": [
+    "給料にかかる税金",
+    "投資を売って得た利益にかかる税金",
+    "家の税金",
+    "買い物の税金"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Normally, when you sell an investment for a profit, you pay tax on that gain. That's called capital gains tax.\""
+  },
+  {
+   "q": "税優遇口座で起きることとして話されているのは？",
+   "options": [
+    "利益や配当が非課税になったり、課税がずっと後になったりする",
+    "引き出せない",
+    "税金が倍になる",
+    "利益が出ない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The gains, and often dividends too, can be tax-free, or the tax is delayed until much later.\""
+  },
+  {
+   "q": "20%の差が長期で大きくなる理由は？",
+   "options": [
+    "インフレのため",
+    "税金が毎年上がるから",
+    "税金がなければ利益がすべて投資に残り、複利で増え続けるから",
+    "手数料がかかるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Without tax, all your gains stay invested and keep compounding.\""
+  },
+  {
+   "q": "ルールとして挙げられていないものは？",
+   "options": [
+    "必ず毎日売買すること",
+    "引き出しの制限",
+    "損失を他の税金の軽減に使えないこと",
+    "年間の上限"
+   ],
+   "answer": 0,
+   "explanation_ja": "上限、引き出しの制限、損失の扱いが挙げられています。"
+  }
+ ]
+}

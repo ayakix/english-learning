@@ -1,0 +1,208 @@
+{
+ "id": "ns016",
+ "author": "claude",
+ "category": "science",
+ "title": "How Coral Reefs Are Built",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "coral reef",
+  "algae",
+  "bleaching"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Coral reefs look like colorful underwater forests, full of fish and other life. But they are not made of plants. They are built by tiny animals."
+  },
+  {
+   "speaker": "A",
+   "text": "A coral is made of many small creatures called polyps. Each polyp is soft, with a mouth surrounded by tentacles, and is often only a few millimeters wide. Polyps take calcium from seawater and build a hard skeleton of limestone under their bodies. When they die, new polyps grow on top. Over thousands of years, these skeletons pile up to form huge coral reefs."
+  },
+  {
+   "speaker": "A",
+   "text": "Most reef-building corals have a secret partner. Inside their tissues live tiny algae. The algae use sunlight to make food through photosynthesis, and they share much of this food with the coral. In return, the coral gives the algae a safe home. The algae also give many corals their bright colors."
+  },
+  {
+   "speaker": "A",
+   "text": "This partnership is very sensitive to temperature. When the water becomes too warm for too long, the coral becomes stressed and pushes out the algae. Without them, the coral turns white. This is called coral bleaching."
+  },
+  {
+   "speaker": "A",
+   "text": "Bleached coral is not immediately dead. If the water cools down quickly, the algae can return. But if the heat lasts too long, the coral may starve and die."
+  },
+  {
+   "speaker": "A",
+   "text": "Coral reefs cover a small part of the ocean, but they support a large share of marine life. Protecting them is one of the major environmental challenges of our time."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Coral reefs look like colorful underwater forests, full of fish and other life.",
+   "start": 0.0,
+   "end": 5.36,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But they are not made of plants.",
+   "start": 6.03,
+   "end": 7.71,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They are built by tiny animals.",
+   "start": 8.3,
+   "end": 10.46,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A coral is made of many small creatures called polyps.",
+   "start": 10.98,
+   "end": 14.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Each polyp is soft, with a mouth surrounded by tentacles, and is often only a few millimeters wide.",
+   "start": 15.33,
+   "end": 22.13,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Polyps take calcium from seawater and build a hard skeleton of limestone under their bodies.",
+   "start": 22.56,
+   "end": 28.24,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When they die, new polyps grow on top.",
+   "start": 28.67,
+   "end": 31.71,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Over thousands of years, these skeletons pile up to form huge coral reefs.",
+   "start": 32.38,
+   "end": 37.5,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Most reef-building corals have a secret partner.",
+   "start": 38.02,
+   "end": 40.82,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Inside their tissues live tiny algae.",
+   "start": 41.81,
+   "end": 44.37,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The algae use sunlight to make food through photosynthesis, and they share much of this food with the coral.",
+   "start": 45.36,
+   "end": 51.04,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In return, the coral gives the algae a safe home.",
+   "start": 52.03,
+   "end": 55.07,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The algae also give many corals their bright colors.",
+   "start": 55.98,
+   "end": 59.34,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This partnership is very sensitive to temperature.",
+   "start": 59.86,
+   "end": 62.98,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When the water becomes too warm for too long, the coral becomes stressed and pushes out the algae.",
+   "start": 63.65,
+   "end": 69.97,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Without them, the coral turns white.",
+   "start": 70.52,
+   "end": 73.04,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called coral bleaching.",
+   "start": 73.47,
+   "end": 75.47,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Bleached coral is not immediately dead.",
+   "start": 76.07,
+   "end": 78.87,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If the water cools down quickly, the algae can return.",
+   "start": 79.54,
+   "end": 82.58,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But if the heat lasts too long, the coral may starve and die.",
+   "start": 83.49,
+   "end": 87.65,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Coral reefs cover a small part of the ocean, but they support a large share of marine life.",
+   "start": 88.17,
+   "end": 93.77,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Protecting them is one of the major environmental challenges of our time.",
+   "start": 94.44,
+   "end": 98.52,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 236,
+ "duration": 98.4,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-04 00:01"
+}

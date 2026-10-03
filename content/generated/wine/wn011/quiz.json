@@ -1,0 +1,114 @@
+{
+ "id": "wn011",
+ "author": "claude",
+ "summary_ja": "長野は日本ワイン、特にシャルドネで注目されている。多くの畑は標高数百メートルにあり、千曲川ワインバレーには小さなワイナリーが増えた。昼夜の寒暖差が大きく、昼に糖と風味が育ち、夜の涼しさで酸が保たれる。降水量も比較的少ない。国際的にも評価され始め、ブルゴーニュの真似ではない日本らしいスタイルが期待されている。",
+ "listening": [
+  {
+   "q": "長野で特に注目されているブドウは？",
+   "options": [
+    "甲州",
+    "シャルドネ",
+    "メルロー",
+    "ピノ・ノワール"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Nagano has become one of the most exciting regions, especially for Chardonnay.\""
+  },
+  {
+   "q": "昼夜の寒暖差がブドウにもたらす効果は？",
+   "options": [
+    "ブドウが大きくなる",
+    "色が濃くなる",
+    "昼に糖と風味が育ち、夜の涼しさで酸が保たれる",
+    "病気が増える"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"During the day, the sun helps the grapes ripen ... At night, the cool air slows everything down. Grapes keep more of their natural acidity.\""
+  },
+  {
+   "q": "多くの専門家が長野について考えていることは？",
+   "options": [
+    "ブルゴーニュより安いワインを作れる",
+    "ブルゴーニュの真似ではない、日本らしいエレガントなシャルドネを作れる",
+    "赤ワインだけに向いている",
+    "雨が多すぎる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"not as a copy of Burgundy, but as something new.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "重要な要因の一つは標高の高さです。",
+   "points_ja": "key factor is がつながり、high altitude の h は軽く聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "豊かさを加えるためにオークを使う醸造家もいます。",
+   "points_ja": "use oak がつながり、oak to add の to は弱形です。"
+  },
+  {
+   "sentence": 14,
+   "ja": "雨や湿気は畑で病気を引き起こすことがあるので、これは助けになります。",
+   "points_ja": "rain and が「レイナン」、cause disease の z が重なります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "長野は山梨より有名である",
+    "日本では白ワインが作れない",
+    "長野のワインは甘い",
+    "標高と気候の条件が、長野のシャルドネを特別なものにしている"
+   ],
+   "answer": 3,
+   "explanation_ja": "標高、寒暖差、降水量の少なさなどの条件を説明しています。"
+  },
+  {
+   "q": "diurnal temperature range の意味は？",
+   "options": [
+    "1年の平均気温",
+    "冬の寒さ",
+    "雨の量",
+    "昼と夜の気温の差"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"This means a big difference between day and night temperatures.\""
+  },
+  {
+   "q": "長野のシャルドネの香りとして挙げられていないものは？",
+   "options": [
+    "チョコレート",
+    "青リンゴ",
+    "白桃",
+    "柑橘"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"citrus, white peach and green apple\" で、チョコレートはありません。"
+  },
+  {
+   "q": "降水量の少なさが良い理由は？",
+   "options": [
+    "雨や湿気が畑で病気を引き起こすから",
+    "色が濃くなるから",
+    "収穫が早くなるから",
+    "ブドウが甘くなるから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"rain and humidity can cause disease in the vineyard.\""
+  },
+  {
+   "q": "Chikumagawa Wine Valley について書かれていることは？",
+   "options": [
+    "大企業だけがある",
+    "新しい小さなワイナリーが多く集まっている",
+    "海の近くにある",
+    "日本で一番古い産地"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"have attracted many new small wineries.\""
+  }
+ ]
+}

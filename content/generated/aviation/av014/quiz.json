@@ -1,0 +1,114 @@
+{
+ "id": "av014",
+ "author": "claude",
+ "summary_ja": "現代の旅客機は前に巨大なファンがある高バイパス・ターボファンを使う。ファンが大量の空気を吸い込み、ごく一部がコア（燃焼部）に入り、大部分はコアの周りを通る（バイパス）。バイパス比は初期の約1:1から現代は10:1以上に。大量の空気を少し速く動かすほうが効率がよく、静かでもある。課題はファンの大きさで、機体とエンジンは一緒に設計される。",
+ "listening": [
+  {
+   "q": "高バイパス・ターボファンで大部分の空気はどう流れる？",
+   "options": [
+    "機内に送られる",
+    "外に捨てられる",
+    "すべてコアで燃やされる",
+    "コアの周りを通る（バイパスする）"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Most of the air, however, flows around the core. It bypasses it.\""
+  },
+  {
+   "q": "現代のエンジンのバイパス比は？",
+   "options": [
+    "1:1",
+    "0",
+    "10:1 以上のものもある",
+    "1:10"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Modern engines can have ratios of ten to one or even higher.\""
+  },
+  {
+   "q": "大きなファンの課題は？",
+   "options": [
+    "燃料を多く使う",
+    "重すぎて飛べない",
+    "音が大きい",
+    "翼の下にもっと場所が必要になる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Bigger fans need more space under the wing\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "今日、旅客機は前に巨大なファンがある大きく丸いエンジンを使っています。",
+   "points_ja": "use huge がつながり、fan at the front が「ファナットザフロント」と聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "前の大きなファンが大量の空気を吸い込みます。",
+   "points_ja": "pulls in a huge がつながり、amount of air が「アマウンタヴエア」と聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "大きくゆっくり動く空気の流れは、騒音もずっと少なくなります。",
+   "points_ja": "stream of air が「ストリーマヴエア」、makes much の s と m が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "飛行機の燃料の種類",
+    "翼の形",
+    "高バイパス・ターボファンの仕組みと、効率や静かさの理由",
+    "ジェットエンジンの発明者"
+   ],
+   "answer": 2,
+   "explanation_ja": "仕組み、バイパス比、効率の理由、課題を説明しています。"
+  },
+  {
+   "q": "タービンの役割は？",
+   "options": [
+    "車輪を動かす",
+    "燃料を作る",
+    "空気を冷やす",
+    "高温のガスで回り、ファンを動かす"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The hot gas spins turbines, which drive the fan.\""
+  },
+  {
+   "q": "効率がよい理由として書かれているのは？",
+   "options": [
+    "電気で動くから",
+    "ファンが軽いから",
+    "燃料を燃やさないから",
+    "少量の空気をとても速くより、大量の空気を少し速く動かすほうが効率的だから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It is more efficient to move a lot of air a little faster than a small amount of air very fast.\""
+  },
+  {
+   "q": "specific fuel consumption の意味は？",
+   "options": [
+    "燃料の種類",
+    "1回のフライトの燃料代",
+    "燃料タンクの大きさ",
+    "一定の推力を出すのに必要な燃料の量"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the amount of fuel needed to produce a certain amount of thrust.\""
+  },
+  {
+   "q": "機体とエンジンが一緒に設計される理由は？",
+   "options": [
+    "費用が安くなるから",
+    "大きなファンには翼の下の空間が必要だから",
+    "同じ会社が作るから",
+    "色を合わせるため"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Bigger fans need more space under the wing, which is one reason aircraft and engines are designed together.\""
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "id": "fi018",
+ "author": "claude",
+ "category": "finance",
+ "title": "Bull and Bear Markets",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "bull market",
+  "bear market",
+  "trend"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In financial news, you often hear about bull markets and bear markets. These colorful terms describe the general direction of the market."
+  },
+  {
+   "speaker": "A",
+   "text": "A bull market is a period when prices are rising, and investors feel confident. A bear market is a period of falling prices and pessimism. A common definition of a bear market is a fall of at least twenty percent from a recent high."
+  },
+  {
+   "speaker": "A",
+   "text": "Where do these names come from? One popular explanation is based on how the animals attack. A bull thrusts its horns upward. A bear swipes its paws downward. So the bull became a symbol of rising markets, and the bear of falling ones."
+  },
+  {
+   "speaker": "A",
+   "text": "Historians also mention an older story. In eighteenth-century London, some traders sold bearskins before they had actually caught the bears, hoping prices would fall. These traders became known as bears, and the term spread to people who expected prices to go down. Whatever the true origin, the names stuck."
+  },
+  {
+   "speaker": "A",
+   "text": "Bull markets usually last longer than bear markets, but bear markets can be fast and painful. In the past, many markets have spent most of their time in an upward trend, interrupted by shorter periods of decline."
+  },
+  {
+   "speaker": "A",
+   "text": "Investors are sometimes called bullish if they expect prices to rise, and bearish if they expect a fall."
+  },
+  {
+   "speaker": "A",
+   "text": "For long-term investors, the important lesson is that both bulls and bears are a normal part of the market cycle. Neither lasts forever."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In financial news, you often hear about bull markets and bear markets.",
+   "start": 0.0,
+   "end": 4.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These colorful terms describe the general direction of the market.",
+   "start": 5.47,
+   "end": 9.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A bull market is a period when prices are rising, and investors feel confident.",
+   "start": 9.83,
+   "end": 15.35,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A bear market is a period of falling prices and pessimism.",
+   "start": 15.78,
+   "end": 20.1,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A common definition of a bear market is a fall of at least twenty percent from a recent high.",
+   "start": 20.53,
+   "end": 25.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Where do these names come from?",
+   "start": 26.49,
+   "end": 28.57,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One popular explanation is based on how the animals attack.",
+   "start": 29.04,
+   "end": 33.0,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A bull thrusts its horns upward.",
+   "start": 33.43,
+   "end": 35.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A bear swipes its paws downward.",
+   "start": 36.42,
+   "end": 39.06,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So the bull became a symbol of rising markets, and the bear of falling ones.",
+   "start": 39.57,
+   "end": 44.61,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Historians also mention an older story.",
+   "start": 45.13,
+   "end": 47.93,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In eighteenth-century London, some traders sold bearskins before they had actually caught the bears, hoping prices would fall.",
+   "start": 48.68,
+   "end": 56.28,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "These traders became known as bears, and the term spread to people who expected prices to go down.",
+   "start": 57.19,
+   "end": 63.03,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Whatever the true origin, the names stuck.",
+   "start": 63.94,
+   "end": 66.66,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Bull markets usually last longer than bear markets, but bear markets can be fast and painful.",
+   "start": 67.26,
+   "end": 74.3,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "In the past, many markets have spent most of their time in an upward trend, interrupted by shorter periods of decline.",
+   "start": 74.69,
+   "end": 81.93,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Investors are sometimes called bullish if they expect prices to rise, and bearish if they expect a fall.",
+   "start": 82.45,
+   "end": 89.65,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "For long-term investors, the important lesson is that both bulls and bears are a normal part of the market cycle.",
+   "start": 90.17,
+   "end": 97.13,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Neither lasts forever.",
+   "start": 97.96,
+   "end": 99.64,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 236,
+ "duration": 99.6,
+ "wpm": 142,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-04 00:03"
+}

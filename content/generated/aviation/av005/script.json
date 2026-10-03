@@ -1,0 +1,173 @@
+{
+ "id": "av005",
+ "author": "claude",
+ "category": "aviation",
+ "title": "VHF Radio Bands and Aviation Phraseology Basics",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "VHF aviation band",
+  "ICAO phonetics",
+  "standard phraseology"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you listen to air traffic control on a radio, you may first think it sounds like a secret language. But it follows clear rules, and once you know them, it becomes much easier to understand."
+  },
+  {
+   "speaker": "A",
+   "text": "Most voice communication between pilots and controllers happens in the VHF aviation band, roughly between one hundred eighteen and one hundred thirty-seven megahertz. VHF means very high frequency. These signals travel mostly in straight lines, so planes high in the sky can be heard from far away, while signals near the ground are limited."
+  },
+  {
+   "speaker": "A",
+   "text": "Because radio can be noisy, and speakers come from many countries, aviation uses standard phraseology. These are fixed words and phrases with exact meanings. For example, \"roger\" means I have received your message. \"Wilco\" means I will comply. \"Say again\" means please repeat."
+  },
+  {
+   "speaker": "A",
+   "text": "Letters are spoken using the ICAO phonetic alphabet: Alpha, Bravo, Charlie and so on. This avoids confusion between letters that sound similar, like B and D. Numbers are spoken one by one. Some are even changed to make them clearer, such as \"niner\" for nine."
+  },
+  {
+   "speaker": "A",
+   "text": "So a message like \"Japan Air one two three, climb flight level three five zero\" tells one specific flight to climb to about thirty-five thousand feet."
+  },
+  {
+   "speaker": "A",
+   "text": "Learning this style is a great listening exercise. The speech is fast, but the patterns repeat again and again."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you listen to air traffic control on a radio, you may first think it sounds like a secret language.",
+   "start": 0.0,
+   "end": 6.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But it follows clear rules, and once you know them, it becomes much easier to understand.",
+   "start": 6.43,
+   "end": 11.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Most voice communication between pilots and controllers happens in the VHF aviation band, roughly between one hundred eighteen and one hundred thirty-seven megahertz.",
+   "start": 12.39,
+   "end": 23.03,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "VHF means very high frequency.",
+   "start": 23.46,
+   "end": 26.1,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "These signals travel mostly in straight lines, so planes high in the sky can be heard from far away, while signals near the ground are limited.",
+   "start": 26.93,
+   "end": 35.57,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Because radio can be noisy, and speakers come from many countries, aviation uses standard phraseology.",
+   "start": 36.09,
+   "end": 43.29,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "These are fixed words and phrases with exact meanings.",
+   "start": 43.76,
+   "end": 47.16,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, \"roger\" means I have received your message.",
+   "start": 47.55,
+   "end": 51.43,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "\"Wilco\" means I will comply.",
+   "start": 52.02,
+   "end": 54.38,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "\"Say again\" means please repeat.",
+   "start": 55.01,
+   "end": 57.33,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Letters are spoken using the ICAO phonetic alphabet: Alpha, Bravo, Charlie and so on.",
+   "start": 57.93,
+   "end": 64.97,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This avoids confusion between letters that sound similar, like B and D.",
+   "start": 65.8,
+   "end": 70.36,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Numbers are spoken one by one.",
+   "start": 71.35,
+   "end": 73.27,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some are even changed to make them clearer, such as \"niner\" for nine.",
+   "start": 74.02,
+   "end": 78.42,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So a message like \"Japan Air one two three, climb flight level three five zero\" tells one specific flight to climb to about thirty-five thousand feet.",
+   "start": 78.94,
+   "end": 88.78,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Learning this style is a great listening exercise.",
+   "start": 89.3,
+   "end": 92.5,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The speech is fast, but the patterns repeat again and again.",
+   "start": 92.89,
+   "end": 96.77,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 223,
+ "duration": 96.7,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:51"
+}

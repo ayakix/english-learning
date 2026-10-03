@@ -1,0 +1,208 @@
+{
+ "id": "rn021",
+ "author": "claude",
+ "category": "running",
+ "title": "Delayed Onset Muscle Soreness (DOMS) Unpacked",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "delayed onset muscle soreness",
+  "eccentric contraction",
+  "microtrauma"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "You try a new hill workout or run your first half marathon. The next day, you feel fine. But two days later, walking down the stairs hurts. This common experience is called delayed onset muscle soreness, or DOMS."
+  },
+  {
+   "speaker": "A",
+   "text": "As the name suggests, the pain does not appear immediately. It usually starts twelve to twenty-four hours after exercise and is often worst after one to three days."
+  },
+  {
+   "speaker": "A",
+   "text": "For many years, people blamed lactic acid. But scientists now know that lactate is cleared from the body long before DOMS begins. The main cause seems to be microtrauma, very small damage to muscle fibers and the tissue around them. The body responds with inflammation and repair, and this process makes the muscles sensitive and stiff."
+  },
+  {
+   "speaker": "A",
+   "text": "DOMS is linked to a type of movement called an eccentric contraction. This happens when a muscle gets longer while it is working, like when your thigh muscles control your body while running downhill. That is why downhill running often causes more soreness than running up."
+  },
+  {
+   "speaker": "A",
+   "text": "There is good news. After one hard session, the body adapts. The next time you do the same exercise, soreness is much smaller. This is called the repeated bout effect."
+  },
+  {
+   "speaker": "A",
+   "text": "What helps? Light movement, good sleep and enough food can make you feel better. Massage may reduce the feeling of pain. Most importantly, increase new types of training gradually. Soreness is normal, but it is a sign to let your body recover."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "You try a new hill workout or run your first half marathon.",
+   "start": 0.0,
+   "end": 4.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The next day, you feel fine.",
+   "start": 4.43,
+   "end": 6.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But two days later, walking down the stairs hurts.",
+   "start": 7.02,
+   "end": 10.58,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This common experience is called delayed onset muscle soreness, or DOMS.",
+   "start": 11.21,
+   "end": 17.13,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "As the name suggests, the pain does not appear immediately.",
+   "start": 17.65,
+   "end": 21.57,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It usually starts twelve to twenty-four hours after exercise and is often worst after one to three days.",
+   "start": 22.4,
+   "end": 29.6,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "For many years, people blamed lactic acid.",
+   "start": 30.12,
+   "end": 33.4,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But scientists now know that lactate is cleared from the body long before DOMS begins.",
+   "start": 33.99,
+   "end": 39.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The main cause seems to be microtrauma, very small damage to muscle fibers and the tissue around them.",
+   "start": 40.58,
+   "end": 47.3,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The body responds with inflammation and repair, and this process makes the muscles sensitive and stiff.",
+   "start": 47.89,
+   "end": 54.21,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "DOMS is linked to a type of movement called an eccentric contraction.",
+   "start": 54.81,
+   "end": 59.21,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This happens when a muscle gets longer while it is working, like when your thigh muscles control your body while running downhill.",
+   "start": 60.12,
+   "end": 67.36,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why downhill running often causes more soreness than running up.",
+   "start": 67.99,
+   "end": 72.23,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "There is good news.",
+   "start": 72.75,
+   "end": 74.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "After one hard session, the body adapts.",
+   "start": 74.86,
+   "end": 77.94,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The next time you do the same exercise, soreness is much smaller.",
+   "start": 78.49,
+   "end": 82.73,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called the repeated bout effect.",
+   "start": 83.32,
+   "end": 85.88,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "What helps?",
+   "start": 86.48,
+   "end": 87.2,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Light movement, good sleep and enough food can make you feel better.",
+   "start": 87.63,
+   "end": 92.47,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Massage may reduce the feeling of pain.",
+   "start": 93.1,
+   "end": 95.78,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Most importantly, increase new types of training gradually.",
+   "start": 96.41,
+   "end": 100.81,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Soreness is normal, but it is a sign to let your body recover.",
+   "start": 101.24,
+   "end": 105.56,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 240,
+ "duration": 105.5,
+ "wpm": 137,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-03 23:56"
+}

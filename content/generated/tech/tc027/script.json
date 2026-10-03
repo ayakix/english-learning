@@ -1,0 +1,244 @@
+{
+ "id": "tc027",
+ "author": "claude",
+ "category": "tech",
+ "title": "3D Printing Custom Enclosures",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "custom enclosure",
+  "CAD modeling",
+  "rapid manufacturing"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  },
+  "B": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "You've built a lot of electronics projects. How do you make them look like real products?"
+  },
+  {
+   "speaker": "B",
+   "text": "For me, 3D printing changed everything. I design a custom enclosure, a case that fits the circuit board exactly, and print it at home."
+  },
+  {
+   "speaker": "A",
+   "text": "How do you design it?"
+  },
+  {
+   "speaker": "B",
+   "text": "With CAD modeling software. CAD means computer-aided design. First, I measure the board carefully, including the positions of buttons, USB ports and LEDs. Then I build a 3D model around it."
+  },
+  {
+   "speaker": "A",
+   "text": "Is it difficult to get the size right?"
+  },
+  {
+   "speaker": "B",
+   "text": "The first print almost never fits perfectly. You have to think about tolerances, small extra gaps so parts can fit together. Printers aren't perfectly precise, so I usually add a few tenths of a millimeter."
+  },
+  {
+   "speaker": "A",
+   "text": "What else do people forget?"
+  },
+  {
+   "speaker": "B",
+   "text": "Heat. Some boards get warm, so the enclosure needs small openings for air. And if the device uses wireless signals, you should avoid metal parts that block them."
+  },
+  {
+   "speaker": "A",
+   "text": "Which material do you use?"
+  },
+  {
+   "speaker": "B",
+   "text": "PLA is easy to print, but it can soften in a hot car or near the sun. For those cases, I use PETG, which handles heat better."
+  },
+  {
+   "speaker": "A",
+   "text": "It sounds like a lot of trial and error."
+  },
+  {
+   "speaker": "B",
+   "text": "It is, but that's the beauty of rapid manufacturing. You can print a new version in a few hours, test it, and improve it the same day."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "You've built a lot of electronics projects.",
+   "start": 0.0,
+   "end": 2.4,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How do you make them look like real products?",
+   "start": 3.15,
+   "end": 5.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For me, 3D printing changed everything.",
+   "start": 6.35,
+   "end": 9.71,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "I design a custom enclosure, a case that fits the circuit board exactly, and print it at home.",
+   "start": 10.38,
+   "end": 16.94,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How do you design it?",
+   "start": 17.66,
+   "end": 19.26,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "With CAD modeling software.",
+   "start": 19.98,
+   "end": 21.98,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "CAD means computer-aided design.",
+   "start": 22.65,
+   "end": 25.69,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "First, I measure the board carefully, including the positions of buttons, USB ports and LEDs.",
+   "start": 26.52,
+   "end": 34.04,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Then I build a 3D model around it.",
+   "start": 34.71,
+   "end": 37.35,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Is it difficult to get the size right?",
+   "start": 38.07,
+   "end": 40.47,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The first print almost never fits perfectly.",
+   "start": 41.19,
+   "end": 44.07,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "You have to think about tolerances, small extra gaps so parts can fit together.",
+   "start": 44.98,
+   "end": 50.34,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Printers aren't perfectly precise, so I usually add a few tenths of a millimeter.",
+   "start": 51.33,
+   "end": 57.01,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "What else do people forget?",
+   "start": 57.73,
+   "end": 59.73,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Heat.",
+   "start": 60.53,
+   "end": 60.93,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Some boards get warm, so the enclosure needs small openings for air.",
+   "start": 61.92,
+   "end": 67.12,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And if the device uses wireless signals, you should avoid metal parts that block them.",
+   "start": 67.51,
+   "end": 72.75,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Which material do you use?",
+   "start": 73.47,
+   "end": 75.55,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "PLA is easy to print, but it can soften in a hot car or near the sun.",
+   "start": 76.27,
+   "end": 82.27,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "For those cases, I use PETG, which handles heat better.",
+   "start": 82.94,
+   "end": 87.82,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It sounds like a lot of trial and error.",
+   "start": 88.54,
+   "end": 91.34,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "It is, but that's the beauty of rapid manufacturing.",
+   "start": 92.06,
+   "end": 95.98,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "You can print a new version in a few hours, test it, and improve it the same day.",
+   "start": 96.41,
+   "end": 101.93,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 220,
+ "duration": 101.8,
+ "wpm": 130,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 63,
+ "created": "2026-10-03 23:54"
+}

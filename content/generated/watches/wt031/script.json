@@ -1,0 +1,190 @@
+{
+ "id": "wt031",
+ "author": "claude",
+ "category": "watches",
+ "title": "Handling Screw-Down Crowns",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "screw-down crown",
+  "cross-threading",
+  "crown tube"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many sports and dive watches have a screw-down crown. Instead of simply pulling the crown out, you first have to unscrew it. When you finish setting the time, you screw it back in. This design presses the crown firmly against a gasket and helps keep water out."
+  },
+  {
+   "speaker": "A",
+   "text": "The crown screws onto a small threaded pipe in the side of the case. This pipe is called the crown tube. The threads on the crown and the tube are very fine, so they can be damaged if you are not careful."
+  },
+  {
+   "speaker": "A",
+   "text": "The most common mistake is cross-threading. This happens when the threads meet at a slight angle and you keep turning anyway. The threads cut into each other, and the crown may become stuck or stop sealing properly. Repairing it can mean replacing the crown tube, which is not cheap."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is a simple technique. When you screw the crown back in, first push it gently against the case. Then turn it slowly backward, counterclockwise, until you feel a tiny click. That click means the threads are lined up. Now turn it forward, clockwise, with light pressure."
+  },
+  {
+   "speaker": "A",
+   "text": "Finally, do not overtighten. Stop as soon as you feel resistance. The gasket does the sealing, not your strength. With a little care, a screw-down crown will protect your watch for many years."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many sports and dive watches have a screw-down crown.",
+   "start": 0.0,
+   "end": 3.68,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of simply pulling the crown out, you first have to unscrew it.",
+   "start": 4.23,
+   "end": 8.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When you finish setting the time, you screw it back in.",
+   "start": 9.02,
+   "end": 12.3,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This design presses the crown firmly against a gasket and helps keep water out.",
+   "start": 12.73,
+   "end": 17.85,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The crown screws onto a small threaded pipe in the side of the case.",
+   "start": 18.37,
+   "end": 22.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This pipe is called the crown tube.",
+   "start": 23.36,
+   "end": 25.92,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The threads on the crown and the tube are very fine, so they can be damaged if you are not careful.",
+   "start": 26.35,
+   "end": 32.27,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The most common mistake is cross-threading.",
+   "start": 32.79,
+   "end": 35.75,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This happens when the threads meet at a slight angle and you keep turning anyway.",
+   "start": 36.18,
+   "end": 41.3,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The threads cut into each other, and the crown may become stuck or stop sealing properly.",
+   "start": 41.73,
+   "end": 47.33,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Repairing it can mean replacing the crown tube, which is not cheap.",
+   "start": 47.76,
+   "end": 51.76,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is a simple technique.",
+   "start": 52.28,
+   "end": 53.8,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When you screw the crown back in, first push it gently against the case.",
+   "start": 54.63,
+   "end": 59.39,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Then turn it slowly backward, counterclockwise, until you feel a tiny click.",
+   "start": 60.02,
+   "end": 65.7,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That click means the threads are lined up.",
+   "start": 66.13,
+   "end": 68.85,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Now turn it forward, clockwise, with light pressure.",
+   "start": 69.28,
+   "end": 72.8,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Finally, do not overtighten.",
+   "start": 73.32,
+   "end": 75.8,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Stop as soon as you feel resistance.",
+   "start": 76.39,
+   "end": 78.87,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The gasket does the sealing, not your strength.",
+   "start": 79.26,
+   "end": 82.5,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "With a little care, a screw-down crown will protect your watch for many years.",
+   "start": 82.93,
+   "end": 87.57,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 218,
+ "duration": 87.5,
+ "wpm": 150,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 67,
+ "created": "2026-10-03 23:45"
+}

@@ -1,0 +1,250 @@
+{
+ "id": "av002",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Tracking Aircraft at Home with RTL-SDR",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "software-defined radio (SDR)",
+  "RF receiver",
+  "dump1090"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "You track airplanes from your apartment. What do you need to do that?"
+  },
+  {
+   "speaker": "B",
+   "text": "Surprisingly little. The heart of my setup is a small USB stick that costs about thirty dollars. It's a software-defined radio, or SDR."
+  },
+  {
+   "speaker": "A",
+   "text": "What does software-defined mean?"
+  },
+  {
+   "speaker": "B",
+   "text": "A traditional radio has special hardware for each job. With an SDR, the device just receives raw radio signals, and software on the computer does the rest. It's a very flexible RF receiver. RF means radio frequency."
+  },
+  {
+   "speaker": "A",
+   "text": "And it can hear airplanes?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. Planes broadcast their position on ten ninety megahertz. I connect the stick to a small antenna by the window and run a free program. A popular one is called dump1090. It decodes the signals and shows the planes on a map."
+  },
+  {
+   "speaker": "A",
+   "text": "How far can you see?"
+  },
+  {
+   "speaker": "B",
+   "text": "It depends on the antenna and what's around you. Radio waves at this frequency travel in straight lines, so buildings and hills block them. With an antenna on a roof, people can receive planes a few hundred kilometers away."
+  },
+  {
+   "speaker": "A",
+   "text": "That's impressive."
+  },
+  {
+   "speaker": "B",
+   "text": "The fun part is sharing. Many hobbyists send their data to flight tracking websites. In return, they often get free premium accounts. So your little antenna becomes part of a global network."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "You track airplanes from your apartment.",
+   "start": 0.0,
+   "end": 2.32,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What do you need to do that?",
+   "start": 3.15,
+   "end": 4.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Surprisingly little.",
+   "start": 5.31,
+   "end": 6.99,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The heart of my setup is a small USB stick that costs about thirty dollars.",
+   "start": 7.58,
+   "end": 12.62,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a software-defined radio, or SDR.",
+   "start": 13.01,
+   "end": 16.41,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What does software-defined mean?",
+   "start": 17.13,
+   "end": 19.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A traditional radio has special hardware for each job.",
+   "start": 20.25,
+   "end": 23.97,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "With an SDR, the device just receives raw radio signals, and software on the computer does the rest.",
+   "start": 24.52,
+   "end": 30.68,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a very flexible RF receiver.",
+   "start": 31.43,
+   "end": 34.23,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "RF means radio frequency.",
+   "start": 34.66,
+   "end": 36.98,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And it can hear airplanes?",
+   "start": 37.7,
+   "end": 39.94,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 40.66,
+   "end": 41.14,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Planes broadcast their position on ten ninety megahertz.",
+   "start": 41.69,
+   "end": 45.45,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "I connect the stick to a small antenna by the window and run a free program.",
+   "start": 46.0,
+   "end": 50.4,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "A popular one is called dump1090.",
+   "start": 50.99,
+   "end": 54.19,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It decodes the signals and shows the planes on a map.",
+   "start": 54.62,
+   "end": 57.66,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "How far can you see?",
+   "start": 58.38,
+   "end": 60.14,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It depends on the antenna and what's around you.",
+   "start": 60.86,
+   "end": 63.98,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Radio waves at this frequency travel in straight lines, so buildings and hills block them.",
+   "start": 64.41,
+   "end": 70.41,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "With an antenna on a roof, people can receive planes a few hundred kilometers away.",
+   "start": 70.84,
+   "end": 75.88,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That's impressive.",
+   "start": 76.6,
+   "end": 78.12,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "The fun part is sharing.",
+   "start": 78.84,
+   "end": 80.76,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Many hobbyists send their data to flight tracking websites.",
+   "start": 81.35,
+   "end": 84.91,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "In return, they often get free premium accounts.",
+   "start": 85.46,
+   "end": 88.66,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So your little antenna becomes part of a global network.",
+   "start": 89.25,
+   "end": 93.01,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 202,
+ "duration": 92.9,
+ "wpm": 130,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 62,
+ "created": "2026-10-03 23:51"
+}

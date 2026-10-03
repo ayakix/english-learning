@@ -1,0 +1,114 @@
+{
+ "id": "tc025",
+ "author": "claude",
+ "summary_ja": "庭の土壌水分センサーを何か月も電池で動かすには電力設計が必要。まず各部品の消費と電池寿命を計算する電力予算を立てる。最も重要なのはディープスリープで、ほとんどの時間はほぼすべてを止め、タイマーで定期的に起きる。動いている時間の割合（デューティサイクル）が低いほど長持ち。送信回数を減らす、まとめて送る、不要な時はセンサーや LED を切るのも有効。",
+ "listening": [
+  {
+   "q": "この話の例で、センサーに求めていることは？",
+   "options": [
+    "速く動くこと",
+    "毎日電池を替えること",
+    "何か月も、できれば1年、電池交換なしで動くこと",
+    "大きな音を出すこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"You want it to run for months, maybe a year.\""
+  },
+  {
+   "q": "最も重要なテクニックは？",
+   "options": [
+    "画面を明るくする",
+    "ディープスリープ",
+    "Wi-Fi を常にオンにする",
+    "電池を大きくする"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The most important technique is deep sleep.\""
+  },
+  {
+   "q": "低いデューティサイクルの例として話されているのは？",
+   "options": [
+    "1日中動き続ける",
+    "1時間ごとに1時間動く",
+    "眠らない",
+    "10分ごとに2秒だけ起きて測定・送信し、また眠る"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the sensor might wake up for two seconds every ten minutes, take a reading, send it, and go back to sleep.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "毎週電池を替えたくはありませんよね。",
+   "points_ja": "do not want to が「ドゥナッウォントゥ」、change its battery が続けて聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "たとえば Wi-Fi の無線は、動いているときに多くの電力を使います。",
+   "points_ja": "use a lot of が「ユーザラタヴ」、when they are が続けて聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "必要のないときはセンサーや LED を切りましょう。",
+   "points_ja": "Turn off がつながり、sensors and LEDs の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "Wi-Fi は使ってはいけない",
+    "センサーは不要",
+    "電力予算とディープスリープなどの工夫で、電池式の機器を長持ちさせられる",
+    "電池は毎週替えるべき"
+   ],
+   "answer": 2,
+   "explanation_ja": "電力予算、ディープスリープ、デューティサイクル、その他の工夫を説明しています。"
+  },
+  {
+   "q": "power budget の説明は？",
+   "options": [
+    "部品の数",
+    "各部品の消費と電池の持ちを計算すること",
+    "電気代の予算",
+    "電池の値段"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"This is a simple calculation of how much energy each part uses and how long the battery can last.\""
+  },
+  {
+   "q": "ディープスリープ中のマイコンは？",
+   "options": [
+    "データを送り続ける",
+    "電池を充電する",
+    "全力で動く",
+    "ほぼすべてを止め、ごくわずかな電流しか使わない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In deep sleep, the microcontroller turns off almost everything, using only a tiny amount of current.\""
+  },
+  {
+   "q": "duty cycle の意味は？",
+   "options": [
+    "データの量",
+    "センサーの数",
+    "機器が動いている時間の割合",
+    "電池の容量"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the percentage of time the device is active.\""
+  },
+  {
+   "q": "その他の工夫として挙げられていないものは？",
+   "options": [
+    "データの送信回数を減らす",
+    "低電力の通信方法を選ぶ",
+    "複数の測定をまとめて送る",
+    "画面を常に表示する"
+   ],
+   "answer": 3,
+   "explanation_ja": "送信回数・まとめ送信・センサーや LED を切る・低電力通信が挙げられています。"
+  }
+ ]
+}

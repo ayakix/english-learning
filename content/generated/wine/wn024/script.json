@@ -1,0 +1,201 @@
+{
+ "id": "wn024",
+ "author": "claude",
+ "category": "wine",
+ "title": "The Role of Ambient vs Cultured Yeast",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "ambient yeast",
+  "inoculated yeast",
+  "fermentation kinetics"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every wine fermentation needs yeast, tiny living organisms that turn sugar into alcohol. But where does that yeast come from? Winemakers have two main choices."
+  },
+  {
+   "speaker": "A",
+   "text": "The first is ambient yeast, sometimes called wild or native yeast. These yeasts live naturally on grape skins, in the vineyard and in the winery. If the winemaker simply waits, they start the fermentation on their own."
+  },
+  {
+   "speaker": "A",
+   "text": "The second option is inoculated yeast, also called cultured yeast. These are selected yeast strains, produced in laboratories and sold in packets. The winemaker adds them to the juice to start fermentation in a controlled way."
+  },
+  {
+   "speaker": "A",
+   "text": "Each choice has advantages. With ambient yeast, many different species work one after another. Some people believe this creates more complex flavors and expresses the character of the place. However, it is less predictable. Fermentation may start slowly, or even stop before all the sugar is gone. This is called a stuck fermentation."
+  },
+  {
+   "speaker": "A",
+   "text": "Cultured yeast is more reliable. Its fermentation kinetics, meaning the speed and pattern of fermentation, are easier to predict. Winemakers can also choose strains that enhance certain aromas or handle high alcohol well."
+  },
+  {
+   "speaker": "A",
+   "text": "Today, many top producers use ambient yeast, while many large wineries prefer cultured yeast for safety. Some combine both approaches. In the end, the yeast choice is one of many small decisions that shape what you taste."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every wine fermentation needs yeast, tiny living organisms that turn sugar into alcohol.",
+   "start": 0.0,
+   "end": 6.56,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But where does that yeast come from?",
+   "start": 7.07,
+   "end": 9.23,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Winemakers have two main choices.",
+   "start": 9.7,
+   "end": 11.9,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The first is ambient yeast, sometimes called wild or native yeast.",
+   "start": 12.42,
+   "end": 17.22,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "These yeasts live naturally on grape skins, in the vineyard and in the winery.",
+   "start": 18.21,
+   "end": 22.77,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If the winemaker simply waits, they start the fermentation on their own.",
+   "start": 23.76,
+   "end": 27.76,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The second option is inoculated yeast, also called cultured yeast.",
+   "start": 28.28,
+   "end": 32.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "These are selected yeast strains, produced in laboratories and sold in packets.",
+   "start": 33.83,
+   "end": 38.15,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The winemaker adds them to the juice to start fermentation in a controlled way.",
+   "start": 39.14,
+   "end": 43.38,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Each choice has advantages.",
+   "start": 43.9,
+   "end": 45.86,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "With ambient yeast, many different species work one after another.",
+   "start": 46.49,
+   "end": 50.73,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people believe this creates more complex flavors and expresses the character of the place.",
+   "start": 51.4,
+   "end": 56.64,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "However, it is less predictable.",
+   "start": 57.27,
+   "end": 59.39,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Fermentation may start slowly, or even stop before all the sugar is gone.",
+   "start": 60.02,
+   "end": 65.06,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called a stuck fermentation.",
+   "start": 65.49,
+   "end": 67.73,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Cultured yeast is more reliable.",
+   "start": 68.25,
+   "end": 70.33,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Its fermentation kinetics, meaning the speed and pattern of fermentation, are easier to predict.",
+   "start": 70.92,
+   "end": 76.92,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Winemakers can also choose strains that enhance certain aromas or handle high alcohol well.",
+   "start": 77.59,
+   "end": 83.03,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, many top producers use ambient yeast, while many large wineries prefer cultured yeast for safety.",
+   "start": 83.55,
+   "end": 90.83,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Some combine both approaches.",
+   "start": 91.34,
+   "end": 93.34,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "In the end, the yeast choice is one of many small decisions that shape what you taste.",
+   "start": 93.77,
+   "end": 98.81,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 221,
+ "duration": 98.7,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:49"
+}

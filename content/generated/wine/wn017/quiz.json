@@ -1,0 +1,114 @@
+{
+ "id": "wn017",
+ "author": "claude",
+ "summary_ja": "グラスを回した後に内側を流れる滴を「脚」や「涙」と呼ぶ。品質の印と思われがちだが、主にマランゴニ効果による現象。アルコールが水より早く蒸発して表面張力に差ができ、ワインが上に引き上げられて滴になって落ちる。アルコールが多いと涙が多く、糖が多いと動きが遅い。品質についてはほとんど分からない。",
+ "listening": [
+  {
+   "q": "ワインの「涙」がよく誤解されていることは？",
+   "options": [
+    "品質を示すと思われている",
+    "値段を示すと思われている",
+    "年齢を示すと思われている",
+    "色を示すと思われている"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Many believe they show the quality of a wine. In fact, they mostly show something else.\""
+  },
+  {
+   "q": "アルコールが多いワインはどうなる？",
+   "options": [
+    "涙が上に流れる",
+    "涙が多くなる",
+    "涙ができない",
+    "涙が赤くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"wines with more alcohol usually show more tears.\""
+  },
+  {
+   "q": "涙から品質について分かることは？",
+   "options": [
+    "産地が分かる",
+    "値段が分かる",
+    "ほとんど何も分からない",
+    "すべてが分かる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"So what do tears tell you about quality? Almost nothing.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "人々はこれを脚や涙と呼びます。",
+   "points_ja": "call these が続き、legs or tears の or は弱く「ア」に近くなります。"
+  },
+  {
+   "sentence": 9,
+   "ja": "そのため、この薄い層の上部では、アルコールの濃度が急に下がります。",
+   "points_ja": "top of this が「タパヴジス」、level drops の l が軽くつながります。"
+  },
+  {
+   "sentence": 18,
+   "ja": "その涙はよりゆっくり動く傾向があります。",
+   "points_ja": "tend to の d は飲み込まれ、to move の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "涙は糖分だけで決まる",
+    "ワインの涙は物理現象で、品質とはほとんど関係ない",
+    "涙は悪いワインの印",
+    "涙が多いワインほど高級"
+   ],
+   "answer": 1,
+   "explanation_ja": "マランゴニ効果の仕組みと、品質とは関係ないことを説明しています。"
+  },
+  {
+   "q": "surface tension の説明として正しいものは？",
+   "options": [
+    "ワインの重さ",
+    "ワインの温度",
+    "液体の表面を薄い膜のようにふるまわせる力",
+    "グラスの形"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Surface tension is the force that makes the surface of a liquid act like a thin skin.\""
+  },
+  {
+   "q": "水とアルコールの表面張力の比較は？",
+   "options": [
+    "どちらにもない",
+    "アルコールのほうが強い",
+    "同じ",
+    "水のほうが強い"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Water has stronger surface tension than alcohol.\""
+  },
+  {
+   "q": "viscosity の意味は？",
+   "options": [
+    "香りの強さ",
+    "粘り気（とろみ）",
+    "色の濃さ",
+    "酸っぱさ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Sweet wines have higher viscosity, which means they are thicker.\""
+  },
+  {
+   "q": "最後の文が提案していることは？",
+   "options": [
+    "涙を見るのはやめるべき",
+    "涙を消す方法",
+    "涙で値段を決める",
+    "食事の席でこの科学を説明して楽しめる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"now you can explain the science at the dinner table.\""
+  }
+ ]
+}

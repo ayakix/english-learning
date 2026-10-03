@@ -1,0 +1,114 @@
+{
+ "id": "wn001",
+ "author": "claude",
+ "summary_ja": "ボルドーは川で左岸と右岸に分かれ、土壌の違いでワインの味が変わる。左岸（メドックなど）は砂利質で水はけがよく、熱をためるので晩熟のカベルネ・ソーヴィニヨンに向く。右岸（サンテミリオン、ポムロール）は粘土と石灰岩で涼しく、早熟のメルローが主体。左岸は骨格がしっかり、右岸は丸くやわらかい。",
+ "listening": [
+  {
+   "q": "この話の主な話題は？",
+   "options": [
+    "ワインの値段",
+    "ボルドーの左岸と右岸の土壌とワインの違い",
+    "ボルドーの観光地",
+    "ブドウの収穫方法"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Bordeaux is divided by rivers into two famous areas ... One big reason is the soil.\""
+  },
+  {
+   "q": "左岸の砂利質土壌の特徴は？",
+   "options": [
+    "水をためて涼しい",
+    "水はけがよく、昼の熱をためて夜に放つ",
+    "栄養がとても多い",
+    "雨が降らない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"it gives excellent drainage ... the stones absorb heat during the day and release it at night.\""
+  },
+  {
+   "q": "右岸で主に育てられるブドウは？",
+   "options": [
+    "ピノ・ノワール",
+    "メルロー",
+    "カベルネ・ソーヴィニヨン",
+    "シャルドネ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Here, Merlot is the main grape.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "車ですぐの距離しか離れていませんが、ワインの味はかなり違います。",
+   "points_ja": "short drive apart がつながり、taste quite の t は飲み込まれます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "雨水がすぐに通り抜けるので、ブドウの根は水を探して深く伸びなければなりません。",
+   "points_ja": "runs through it が続き、must go の t はほとんど聞こえません。"
+  },
+  {
+   "sentence": 11,
+   "ja": "粘土は水を保ち、涼しいままです。",
+   "points_ja": "holds water がつながり、water and が「ウォーラン」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "右岸のワインのほうが高い",
+    "土壌の違いがブドウの品種とワインの味の違いを生んでいる",
+    "川がワインの味を決める",
+    "ボルドーには1種類のブドウしかない"
+   ],
+   "answer": 1,
+   "explanation_ja": "砂利とカベルネ、粘土とメルローという対比で説明しています。"
+  },
+  {
+   "q": "drainage の意味は？",
+   "options": [
+    "肥料",
+    "風通し",
+    "水はけ",
+    "日当たり"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Rainwater runs through it quickly\" と説明されています。"
+  },
+  {
+   "q": "メルローが涼しい土壌に合う理由は？",
+   "options": [
+    "水が嫌いだから",
+    "砂利が苦手だから",
+    "カベルネ・ソーヴィニヨンより早く熟すから",
+    "寒さに弱いから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It ripens earlier than Cabernet Sauvignon, so it does well in cooler soils.\""
+  },
+  {
+   "q": "左岸のワインの特徴として書かれているのは？",
+   "options": [
+    "骨格がしっかりして渋みが強く、熟成に年月が必要",
+    "丸くやわらかく、すぐ飲める",
+    "甘くて軽い",
+    "泡がある"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"structured and firm, with strong tannins ... They usually need many years to soften.\""
+  },
+  {
+   "q": "最後の段落が伝えていることは？",
+   "options": [
+    "両岸はまったく同じである",
+    "例外はあるが、簡単な覚え方で全体像をつかめる",
+    "ボルドーは難しすぎて理解できない",
+    "左岸だけを覚えればよい"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"both banks grow both grapes ... But if you remember gravel and Cabernet on the left, clay and Merlot on the right\"。"
+  }
+ ]
+}

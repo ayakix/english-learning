@@ -1,0 +1,114 @@
+{
+ "id": "pa016",
+ "author": "claude",
+ "summary_ja": "家事は自分でやったほうが早いが、子どもにお手伝いをさせる利点は大きい。食卓の準備やペットの餌やり、洗濯物たたみなどで生活の技能が身につく。水やりを忘れると植物が枯れるように、自分の行動が他人に影響すると学び、責任感が育つ。本物の仕事を終えると自信がつき、早くから家事をした子は大人になって自立心が強いという長期研究もある。年齢に合わせ、不完全でもやり直さず、基本の家事にはお金を払わない。",
+ "listening": [
+  {
+   "q": "お手伝いで子どもが学ぶこととして話されていないものは？",
+   "options": [
+    "自信",
+    "責任感",
+    "生活の技能",
+    "外国語"
+   ],
+   "answer": 3,
+   "explanation_ja": "生活の技能、責任感、自信、自立心が挙げられています。"
+  },
+  {
+   "q": "年齢に合ったお手伝いの例として正しいものは？",
+   "options": [
+    "年齢は関係ない",
+    "3歳は料理、6歳は買い物",
+    "3歳はおもちゃを箱に入れる、6歳は食卓の準備",
+    "3歳は洗濯、6歳は掃除機"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A three-year-old can put toys in a box. A six-year-old can set the table.\""
+  },
+  {
+   "q": "多くの専門家の、お手伝いへのお金についての意見は？",
+   "options": [
+    "毎回払う",
+    "年齢で決める",
+    "基本的な家事にはお金を払わない",
+    "多く払う"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"many experts suggest not paying children for basic chores.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "子どもに手伝いを頼むと、時間がかかり、散らかることも多いです。",
+   "points_ja": "Asking children to help が続き、takes longer and creates が続けて聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "本物の作業、特に大人もする作業をやり遂げると、子どもは自分にもできると感じます。",
+   "points_ja": "Completing a real がつながり、adults also do が続けて聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "すべての作業をやり直すと、子どもは自分の努力が認められていないと学びます。",
+   "points_ja": "redo every task がつながり、effort is not valued が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "家事は親だけがすべき",
+    "家事には必ずお金を払う",
+    "子どもには家事をさせないほうがよい",
+    "お手伝いは子どもに生活の技能、責任感、自信を育てる"
+   ],
+   "answer": 3,
+   "explanation_ja": "お手伝いの利点と、上手な任せ方を説明しています。"
+  },
+  {
+   "q": "chores の意味は？",
+   "options": [
+    "習い事",
+    "遊び",
+    "宿題",
+    "家を回すための日常的な作業"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Chores are regular tasks that help the household run\"。"
+  },
+  {
+   "q": "植物の水やりの例が示していることは？",
+   "options": [
+    "植物の育て方",
+    "自分の行動が他の人に影響すると学ぶ",
+    "水の大切さ",
+    "子どもは忘れっぽい"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"they learn that their actions matter to others.\""
+  },
+  {
+   "q": "長期研究で分かったこととして書かれているのは？",
+   "options": [
+    "お手伝いをした子は勉強が嫌いになる",
+    "早くからお手伝いをした子は、大人になって自立心が強い傾向がある",
+    "影響はない",
+    "お手伝いは体に悪い"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"children who did chores from an early age tend to develop stronger self-reliance as adults.\""
+  },
+  {
+   "q": "基本の家事にお金を払わない理由として書かれているのは？",
+   "options": [
+    "お金がもったいないから",
+    "法律で禁止されているから",
+    "子どもはお金が嫌いだから",
+    "家族の一員として、誰もが当然することだから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Helping the family is something everyone does, simply because they are part of it.\""
+  }
+ ]
+}

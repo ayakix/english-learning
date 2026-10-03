@@ -1,0 +1,265 @@
+{
+ "id": "pa009",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Staying Calm During Tantrums",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "tantrum",
+  "emotional regulation",
+  "calm down"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every parent has seen it: a child screaming on the supermarket floor. Why do tantrums happen?"
+  },
+  {
+   "speaker": "B",
+   "text": "Young children feel very strong emotions, but they don't have the skills to manage them yet. The part of the brain that helps with emotional regulation, controlling and calming our feelings, develops slowly. It continues developing into adulthood."
+  },
+  {
+   "speaker": "A",
+   "text": "So the child isn't trying to be difficult."
+  },
+  {
+   "speaker": "B",
+   "text": "Usually not. They're overwhelmed. They might be tired, hungry or frustrated because they can't explain what they want."
+  },
+  {
+   "speaker": "A",
+   "text": "What should parents do in that moment?"
+  },
+  {
+   "speaker": "B",
+   "text": "The most important thing is staying calm yourself. If the parent shouts, the child's emotions usually get even bigger. Make sure the child is safe, and keep your voice low and slow."
+  },
+  {
+   "speaker": "A",
+   "text": "Should you talk to them?"
+  },
+  {
+   "speaker": "B",
+   "text": "Briefly. Naming the feeling can help. 'You're really angry because we can't buy the candy.' But long explanations don't work during a tantrum. The child can't really listen yet."
+  },
+  {
+   "speaker": "A",
+   "text": "And if they want something, should you give it to them so they calm down?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's tempting, but it can teach them that tantrums work. It's better to keep the limit kindly and wait for the storm to pass."
+  },
+  {
+   "speaker": "A",
+   "text": "What about afterwards?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's the best time to talk. Once they calm down, give them a hug and talk simply about what happened. Over time, children learn to put feelings into words instead of screaming."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every parent has seen it: a child screaming on the supermarket floor.",
+   "start": 0.0,
+   "end": 5.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why do tantrums happen?",
+   "start": 5.63,
+   "end": 7.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Young children feel very strong emotions, but they don't have the skills to manage them yet.",
+   "start": 8.03,
+   "end": 13.95,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The part of the brain that helps with emotional regulation, controlling and calming our feelings, develops slowly.",
+   "start": 14.38,
+   "end": 21.34,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It continues developing into adulthood.",
+   "start": 21.77,
+   "end": 24.33,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So the child isn't trying to be difficult.",
+   "start": 25.05,
+   "end": 28.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Usually not.",
+   "start": 28.89,
+   "end": 30.21,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "They're overwhelmed.",
+   "start": 30.76,
+   "end": 31.96,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "They might be tired, hungry or frustrated because they can't explain what they want.",
+   "start": 32.71,
+   "end": 37.91,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What should parents do in that moment?",
+   "start": 38.63,
+   "end": 41.03,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The most important thing is staying calm yourself.",
+   "start": 41.75,
+   "end": 45.23,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "If the parent shouts, the child's emotions usually get even bigger.",
+   "start": 45.78,
+   "end": 50.3,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Make sure the child is safe, and keep your voice low and slow.",
+   "start": 50.93,
+   "end": 55.25,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Should you talk to them?",
+   "start": 55.97,
+   "end": 57.41,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Briefly.",
+   "start": 58.13,
+   "end": 58.69,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Naming the feeling can help.",
+   "start": 59.32,
+   "end": 61.48,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "'You're really angry because we can't buy the candy.'",
+   "start": 62.11,
+   "end": 65.07,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "But long explanations don't work during a tantrum.",
+   "start": 65.9,
+   "end": 69.02,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The child can't really listen yet.",
+   "start": 69.69,
+   "end": 71.77,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And if they want something, should you give it to them so they calm down?",
+   "start": 72.49,
+   "end": 76.57,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "It's tempting, but it can teach them that tantrums work.",
+   "start": 77.29,
+   "end": 81.45,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It's better to keep the limit kindly and wait for the storm to pass.",
+   "start": 81.88,
+   "end": 85.8,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "What about afterwards?",
+   "start": 86.52,
+   "end": 88.2,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "That's the best time to talk.",
+   "start": 88.92,
+   "end": 90.88,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Once they calm down, give them a hug and talk simply about what happened.",
+   "start": 91.51,
+   "end": 96.23,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Over time, children learn to put feelings into words instead of screaming.",
+   "start": 96.66,
+   "end": 101.3,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 227,
+ "duration": 101.2,
+ "wpm": 135,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:58"
+}

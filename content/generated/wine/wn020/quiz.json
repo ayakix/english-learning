@@ -1,0 +1,114 @@
+{
+ "id": "wn020",
+ "author": "claude",
+ "summary_ja": "揮発酸（VA）は、においとして感じられる蒸発しやすい酸で、主に酢の酸である酢酸。空気に触れたワインで細菌が作り、除光液のような酢酸エチルを伴うこともある。多いと欠陥だが、少量なら香りを明るく持ち上げ、複雑さを加える。料理の塩と同じで、少しなら良く、多すぎると台無し。",
+ "listening": [
+  {
+   "q": "volatile acidity の主な成分は？",
+   "options": [
+    "乳酸",
+    "リンゴ酸",
+    "クエン酸",
+    "酢に含まれる酢酸"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The main one is acetic acid, which is the acid in vinegar.\""
+  },
+  {
+   "q": "酢酸エチルのにおいは何に似ている？",
+   "options": [
+    "除光液",
+    "花",
+    "バター",
+    "煙"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"ethyl acetate, which smells like nail polish remover.\""
+  },
+  {
+   "q": "少量の揮発酸の効果として話されているのは？",
+   "options": [
+    "香りを明るく持ち上げ、エネルギーを与える",
+    "アルコールを強くする",
+    "色を濃くする",
+    "ワインを甘くする"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"in small amounts, it can make the aroma seem brighter and more lifted.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 8,
+   "ja": "それは特定の細菌によって作られ、特にワインが空気にさらされたときにできます。",
+   "points_ja": "produced by が続き、exposed to air の to は弱形です。"
+  },
+  {
+   "sentence": 11,
+   "ja": "少量なら、香りをより明るく持ち上がったように感じさせるからです。",
+   "points_ja": "Because in が「ビカズィン」とつながり、make the aroma の the は「ジ」に近くなります。"
+  },
+  {
+   "sentence": 20,
+   "ja": "少しなら料理をよりおいしくします。",
+   "points_ja": "A little が「アリトル」、make the dish が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "揮発酸は量によって欠陥にも複雑さにもなる",
+    "除光液とワインの関係",
+    "揮発酸はいつも悪い",
+    "酢はワインの原料"
+   ],
+   "answer": 0,
+   "explanation_ja": "欠陥と複雑さの境界を話しています。"
+  },
+  {
+   "q": "揮発酸ができやすいのはどんなとき？",
+   "options": [
+    "瓶を暗い場所に置いたとき",
+    "ワインが空気にさらされたとき",
+    "ブドウを早く摘んだとき",
+    "ワインを冷やしたとき"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"especially when wine is exposed to air.\""
+  },
+  {
+   "q": "多くの専門家が欠陥とするのは？",
+   "options": [
+    "ほんの少し感じるとき",
+    "酢のにおいが一番目立ち、果実味が隠れているとき",
+    "色が薄いとき",
+    "まったくないとき"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When the vinegar smell becomes the main thing you notice, and the fruit is hidden, most experts call it a flaw.\""
+  },
+  {
+   "q": "\"lift\" の意味として会話に合うのは？",
+   "options": [
+    "値段を上げること",
+    "瓶を持ち上げること",
+    "香りを持ち上げて生き生きさせること",
+    "グラスを上げること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It can give a wine an extra lift, a kind of energy.\""
+  },
+  {
+   "q": "料理の塩のたとえが表していることは？",
+   "options": [
+    "ワインに塩を入れる",
+    "塩はワインに合わない",
+    "料理にワインを使う",
+    "少量なら良いが、多すぎると台無しになる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A little can make the dish better. Too much ruins it.\""
+  }
+ ]
+}

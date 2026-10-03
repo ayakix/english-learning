@@ -1,0 +1,114 @@
+{
+ "id": "wt004",
+ "author": "claude",
+ "summary_ja": "アングラージュは、部品の縁を約45度に斜めに削って磨く仕上げ。機械でもできるが、最高の仕事は手作業で何時間もかかる。特に「内角」は回転する工具では作れず、手でしか作れないため、コレクターは内角の数で職人の技を判断する。",
+ "listening": [
+  {
+   "q": "アングラージュとは何をする技術？",
+   "options": [
+    "ネジを青く焼く",
+    "文字盤に色を塗る",
+    "部品の縁を斜めに削って磨く",
+    "歯車を組み立てる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Anglage means cutting a small slope along the edge of a part.\""
+  },
+  {
+   "q": "機械にできないとされているのは？",
+   "options": [
+    "部品を洗うこと",
+    "まっすぐな縁の面取り",
+    "部品を磨くこと",
+    "内側に向いた鋭い角（内角）を作ること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A spinning machine tool simply cannot reach into such a sharp corner.\""
+  },
+  {
+   "q": "コレクターが内角を数える理由は？",
+   "options": [
+    "数が多いほど値段が安いから",
+    "熟練した人が時間をかけた証拠だから",
+    "内角が多いと防水性が上がるから",
+    "法律で決まっているから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"they know that a skilled person has spent a long time on the movement.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "それはアングラージュと呼ばれる仕上げ技術の結果です。",
+   "points_ja": "It is the result of の of は「ア」と弱く、result of がつながります。"
+  },
+  {
+   "sentence": 9,
+   "ja": "受け（ブリッジ）1つを仕上げるのに何時間もかかることがあります。",
+   "points_ja": "take many がつながり、hours to の to は弱形「タ」です。"
+  },
+  {
+   "sentence": 13,
+   "ja": "手工具を使う人だけがそれを作ることができます。",
+   "points_ja": "with a hand は「ウィザハンド」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "手作業のアングラージュ、特に内角は職人の技を示す",
+    "時計の部品は鏡でできている",
+    "機械仕上げのほうが美しい",
+    "面取りは防水のために行う"
+   ],
+   "answer": 0,
+   "explanation_ja": "手仕上げの価値と内角の難しさを中心に説明しています。"
+  },
+  {
+   "q": "chamfering と同じ意味で使われている語は？",
+   "options": [
+    "plating",
+    "engraving",
+    "beveling",
+    "polishing"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"In English, this is also called chamfering, or beveling.\""
+  },
+  {
+   "q": "面取りした面のおおよその角度は？",
+   "options": [
+    "約45度",
+    "約30度",
+    "約15度",
+    "約90度"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"usually at about forty-five degrees\"。"
+  },
+  {
+   "q": "手作業で使われる道具として書かれていないものは？",
+   "options": [
+    "レーザー",
+    "木の棒",
+    "やすり",
+    "研磨剤"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"files, wooden sticks and polishing pastes\" とあり、レーザーはありません。"
+  },
+  {
+   "q": "inward angle のたとえとして使われているのは？",
+   "options": [
+    "四角の外側",
+    "星の先端",
+    "円の内側",
+    "Vの字の内側"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"like the inside of a letter V\"。"
+  }
+ ]
+}

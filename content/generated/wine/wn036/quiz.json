@@ -1,0 +1,114 @@
+{
+ "id": "wn036",
+ "author": "claude",
+ "summary_ja": "デキャンタージュには2つの目的がある。若く力強いワインを空気に触れさせ（エアレーション）、閉じた香りを開き渋みをやわらげること。古いワインの沈殿物を分けること。古いワインは前日から瓶を立てて沈殿物を底に落とし、首の下に明かりを置いてゆっくり注ぎ、沈殿物が首に来たら止める。古いワインは繊細で香りがすぐ消えることがある。",
+ "listening": [
+  {
+   "q": "aeration が主に行われるワインは？",
+   "options": [
+    "スパークリングワイン",
+    "古くて繊細なワイン",
+    "若く力強いワイン",
+    "甘口ワイン"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This is mostly done for young, powerful wines.\""
+  },
+  {
+   "q": "古いワインを注ぐときのコツは？",
+   "options": [
+    "瓶を振ってから注ぐ",
+    "勢いよく注ぐ",
+    "横にしたまま注ぐ",
+    "首の下に明かりを置いてゆっくり注ぎ、沈殿物が首に来たら止める"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"pour slowly and steadily, with a light under the neck ... When you see the sediment reach the neck, stop pouring.\""
+  },
+  {
+   "q": "デキャンタージュの前に自分に問うべきことは？",
+   "options": [
+    "このワインに必要なのは空気か、沈殿物を分けることか",
+    "何年に造られたか",
+    "値段はいくらか",
+    "誰と飲むか"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"does this wine need air, or does it need to leave its sediment behind?\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "優雅に見えますが、まったく違う2つの目的があります。",
+   "points_ja": "looks elegant がつながり、has two quite が続けて聞こえます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "それらは無害ですが、ざらざらして苦い味がします。",
+   "points_ja": "They are が「ゼイア」、gritty and bitter の and は「ン」です。"
+  },
+  {
+   "sentence": 17,
+   "ja": "デキャンタージュの後、香りがすぐに消えてしまうことがあります。",
+   "points_ja": "After decanting が続き、aromas may がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "デキャンタは飾りである",
+    "沈殿物は飲むべき",
+    "デキャンタージュにはエアレーションと沈殿物の分離という2つの目的がある",
+    "すべてのワインは数時間前にデキャンタすべき"
+   ],
+   "answer": 2,
+   "explanation_ja": "2つの目的と、それぞれのやり方・注意を説明しています。"
+  },
+  {
+   "q": "若いワインを空気に触れさせるとどうなる？",
+   "options": [
+    "色が濃くなる",
+    "香りが消える",
+    "香りが開き、口当たりがやわらかく感じられる",
+    "甘くなる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the aromas often become more open and the texture feels softer.\""
+  },
+  {
+   "q": "sediment について正しいものは？",
+   "options": [
+    "危険である",
+    "甘い",
+    "香りがよい",
+    "無害だが、ざらざらして苦い"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"They are harmless but taste gritty and bitter.\""
+  },
+  {
+   "q": "古いワインの準備として、瓶を立てておく期間は？",
+   "options": [
+    "1か月",
+    "1時間",
+    "1日以上",
+    "1分"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Stand the bottle upright for a day or more\"。"
+  },
+  {
+   "q": "多くの専門家が古いワインをデキャンタするタイミングは？",
+   "options": [
+    "数時間前",
+    "飲む直前",
+    "1週間前",
+    "前の日"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Many experts decant old wines just before serving, not hours before.\""
+  }
+ ]
+}

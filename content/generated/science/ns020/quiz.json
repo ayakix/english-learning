@@ -1,0 +1,114 @@
+{
+ "id": "ns020",
+ "author": "claude",
+ "summary_ja": "恐竜は1億5千万年以上地球を支配したが、約6600万年前に幅約10kmの小惑星が衝突したと多くの科学者は考える。1980年に世界中の同じ時代の薄い岩の層に、地表には少なく小惑星に多いイリジウムが多く含まれていると分かった。メキシコには直径約180kmの埋もれたクレーターがある。衝突で舞い上がったちりが日光を長くさえぎり、植物が育たず食物連鎖が崩れ、約4分の3の種が消えた。鳥は生きた恐竜。",
+ "listening": [
+  {
+   "q": "恐竜絶滅の主な原因と多くの科学者が考えるのは？",
+   "options": [
+    "氷河期",
+    "病気",
+    "人間",
+    "約6600万年前の巨大な小惑星の衝突"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Most scientists believe a giant asteroid hit the Earth about sixty-six million years ago.\""
+  },
+  {
+   "q": "1980年に見つかった手がかりは？",
+   "options": [
+    "火山の灰",
+    "世界中の同じ時代の岩の層に、イリジウムが多く含まれていた",
+    "小惑星そのもの",
+    "恐竜の化石"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It contained a lot of a rare metal called iridium.\""
+  },
+  {
+   "q": "会話の最後で B が言っていることは？",
+   "options": [
+    "恐竜はまだどこかにいる",
+    "すべての動物が絶滅した",
+    "鳥は恐竜を食べた",
+    "鳥は生きた恐竜で、ハトは T. rex の遠い親戚"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Birds are actually living dinosaurs. So the next time you see a pigeon, you're looking at a distant relative of T. rex.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "それはおそらく幅10kmほどでした。",
+   "points_ja": "It was probably around が一続きに聞こえ、ten kilometers wide が続きます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "衝突で、大量のちりやガスが大気中に舞い上がりました。",
+   "points_ja": "threw huge amounts of dust and gas が続けて聞こえ、amounts of が「アマウンツァヴ」になります。"
+  },
+  {
+   "sentence": 20,
+   "ja": "議論は続いていますが、小惑星が最有力の容疑者です。",
+   "points_ja": "debate continues がつながり、asteroid is the main suspect が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "化石の掘り方",
+    "鳥の飼い方",
+    "恐竜の種類",
+    "恐竜絶滅の原因として考えられている小惑星衝突と、その証拠"
+   ],
+   "answer": 3,
+   "explanation_ja": "小惑星の大きさ、イリジウム、クレーター、影響、火山説について話しています。"
+  },
+  {
+   "q": "イリジウムが手がかりになる理由は？",
+   "options": [
+    "とても重いから",
+    "地表には少ないが、小惑星には比較的多いから",
+    "光るから",
+    "恐竜の骨に含まれるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Iridium is uncommon on the Earth's surface but more common in asteroids.\""
+  },
+  {
+   "q": "メキシコのクレーターの大きさは？",
+   "options": [
+    "直径約1,000km",
+    "直径約180km",
+    "直径約1km",
+    "直径約10km"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a huge buried crater in Mexico, about one hundred eighty kilometers wide.\""
+  },
+  {
+   "q": "衝突が多くの生き物を絶滅させた仕組みは？",
+   "options": [
+    "ちりが長く日光をさえぎり、植物が育たず、気温が下がり、食物連鎖が崩れた",
+    "空気がなくなった",
+    "衝突の熱だけで燃えた",
+    "海がなくなった"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It blocked sunlight for a long time. Plants struggled to grow, temperatures dropped, and food chains collapsed.\""
+  },
+  {
+   "q": "小惑星以外の原因として一部の科学者が考えるのは？",
+   "options": [
+    "宇宙人",
+    "病気",
+    "海流の変化",
+    "インドの巨大な火山噴火"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Some scientists think huge volcanic eruptions in India also played a role\"。"
+  }
+ ]
+}

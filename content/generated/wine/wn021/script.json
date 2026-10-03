@@ -1,0 +1,201 @@
+{
+ "id": "wn021",
+ "author": "claude",
+ "category": "wine",
+ "title": "Whole-Cluster vs Destemmed Fermentation in Pinot",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "whole-cluster",
+  "stem inclusion",
+  "herbaceous lift"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When red grapes arrive at the winery, they are still attached to their green stems. One of the first decisions a Pinot Noir maker faces is simple: keep the stems or remove them?"
+  },
+  {
+   "speaker": "A",
+   "text": "Most wineries remove the stems with a machine. This is called destemming. The berries go into the tank alone. The result is often a wine with pure, clear fruit flavors, like fresh cherries and raspberries."
+  },
+  {
+   "speaker": "A",
+   "text": "Other winemakers use whole clusters. This means putting complete bunches, stems and all, into the fermentation tank. Some use one hundred percent whole clusters, while others mix in only a portion. This is also called stem inclusion."
+  },
+  {
+   "speaker": "A",
+   "text": "So what do the stems add? Many tasters notice spicy, herbal and floral aromas, such as tea, rose petals or white pepper. Some describe this as herbaceous lift, a fresh green note that makes the aroma feel more lively. The stems can also change the texture, adding fine tannins that feel silky rather than heavy."
+  },
+  {
+   "speaker": "A",
+   "text": "There is a risk, however. If the stems are not ripe, they can make the wine taste bitter and green. So whole clusters usually work best in good vintages, when stems have turned brown and woody."
+  },
+  {
+   "speaker": "A",
+   "text": "Some of the most famous Burgundy producers are known for using a lot of whole clusters. Others never do. Neither approach is right or wrong. It is a question of style."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When red grapes arrive at the winery, they are still attached to their green stems.",
+   "start": 0.0,
+   "end": 4.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One of the first decisions a Pinot Noir maker faces is simple: keep the stems or remove them?",
+   "start": 5.63,
+   "end": 11.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Most wineries remove the stems with a machine.",
+   "start": 12.47,
+   "end": 15.47,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called destemming.",
+   "start": 16.1,
+   "end": 17.98,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The berries go into the tank alone.",
+   "start": 18.61,
+   "end": 20.81,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The result is often a wine with pure, clear fruit flavors, like fresh cherries and raspberries.",
+   "start": 21.44,
+   "end": 28.0,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Other winemakers use whole clusters.",
+   "start": 28.52,
+   "end": 30.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This means putting complete bunches, stems and all, into the fermentation tank.",
+   "start": 31.75,
+   "end": 36.71,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some use one hundred percent whole clusters, while others mix in only a portion.",
+   "start": 37.38,
+   "end": 42.66,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is also called stem inclusion.",
+   "start": 43.09,
+   "end": 45.65,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So what do the stems add?",
+   "start": 46.17,
+   "end": 48.25,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many tasters notice spicy, herbal and floral aromas, such as tea, rose petals or white pepper.",
+   "start": 48.92,
+   "end": 56.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some describe this as herbaceous lift, a fresh green note that makes the aroma feel more lively.",
+   "start": 56.87,
+   "end": 63.35,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The stems can also change the texture, adding fine tannins that feel silky rather than heavy.",
+   "start": 64.02,
+   "end": 70.02,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "There is a risk, however.",
+   "start": 70.54,
+   "end": 72.42,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If the stems are not ripe, they can make the wine taste bitter and green.",
+   "start": 73.05,
+   "end": 77.57,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So whole clusters usually work best in good vintages, when stems have turned brown and woody.",
+   "start": 78.2,
+   "end": 84.44,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some of the most famous Burgundy producers are known for using a lot of whole clusters.",
+   "start": 84.96,
+   "end": 90.16,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Others never do.",
+   "start": 90.75,
+   "end": 92.15,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Neither approach is right or wrong.",
+   "start": 92.78,
+   "end": 94.98,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a question of style.",
+   "start": 95.53,
+   "end": 97.21,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 227,
+ "duration": 97.1,
+ "wpm": 140,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:48"
+}

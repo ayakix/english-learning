@@ -1,0 +1,229 @@
+{
+ "id": "fi002",
+ "author": "claude",
+ "category": "finance",
+ "title": "Index Funds or Picking Stocks?",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "index fund",
+  "individual stock",
+  "market average"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  },
+  "B": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When people start investing, they often want to pick the best companies. Is that a good strategy?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's exciting, but it's very difficult. Picking individual stocks means you're betting that you know more than millions of other investors, including professionals with huge research teams."
+  },
+  {
+   "speaker": "A",
+   "text": "What's the alternative?"
+  },
+  {
+   "speaker": "B",
+   "text": "An index fund. Instead of choosing companies, you buy a small piece of a whole market. For example, a fund that follows a major stock index holds hundreds of large companies at once."
+  },
+  {
+   "speaker": "A",
+   "text": "But then you just get the market average."
+  },
+  {
+   "speaker": "B",
+   "text": "That's true. But here's the surprising part. Over long periods, most professional fund managers who try to beat the market fail to do so, especially after their fees. So the market average is actually better than what most professionals achieve."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is it so hard to beat?"
+  },
+  {
+   "speaker": "B",
+   "text": "Prices already reflect a lot of information. And costs add up. Active funds charge higher fees and trade more often. Index funds are cheap and simple."
+  },
+  {
+   "speaker": "A",
+   "text": "Is there any reason to buy individual stocks?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some people enjoy researching companies, and that's fine. A common approach is to keep most of your money in index funds and use a small part, maybe five or ten percent, for stocks you find interesting. That way, a bad pick won't ruin your plan."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When people start investing, they often want to pick the best companies.",
+   "start": 0.0,
+   "end": 4.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is that a good strategy?",
+   "start": 4.91,
+   "end": 6.35,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's exciting, but it's very difficult.",
+   "start": 7.07,
+   "end": 10.23,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Picking individual stocks means you're betting that you know more than millions of other investors, including professionals with huge research teams.",
+   "start": 10.86,
+   "end": 19.66,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What's the alternative?",
+   "start": 20.38,
+   "end": 21.9,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "An index fund.",
+   "start": 22.62,
+   "end": 23.66,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Instead of choosing companies, you buy a small piece of a whole market.",
+   "start": 24.09,
+   "end": 29.41,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "For example, a fund that follows a major stock index holds hundreds of large companies at once.",
+   "start": 30.04,
+   "end": 36.52,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "But then you just get the market average.",
+   "start": 37.24,
+   "end": 39.8,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That's true.",
+   "start": 40.6,
+   "end": 41.56,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But here's the surprising part.",
+   "start": 42.15,
+   "end": 44.15,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Over long periods, most professional fund managers who try to beat the market fail to do so, especially after their fees.",
+   "start": 44.74,
+   "end": 52.94,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So the market average is actually better than what most professionals achieve.",
+   "start": 53.57,
+   "end": 58.45,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Why is it so hard to beat?",
+   "start": 59.17,
+   "end": 61.33,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Prices already reflect a lot of information.",
+   "start": 62.05,
+   "end": 65.17,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And costs add up.",
+   "start": 65.76,
+   "end": 67.36,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Active funds charge higher fees and trade more often.",
+   "start": 67.95,
+   "end": 71.47,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Index funds are cheap and simple.",
+   "start": 72.06,
+   "end": 74.54,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Is there any reason to buy individual stocks?",
+   "start": 75.26,
+   "end": 78.3,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people enjoy researching companies, and that's fine.",
+   "start": 79.02,
+   "end": 82.42,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A common approach is to keep most of your money in index funds and use a small part, maybe five or ten percent, for stocks you find interesting.",
+   "start": 83.05,
+   "end": 92.09,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That way, a bad pick won't ruin your plan.",
+   "start": 92.76,
+   "end": 95.88,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 214,
+ "duration": 95.8,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 65,
+ "created": "2026-10-04 00:01"
+}

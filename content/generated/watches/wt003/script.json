@@ -1,0 +1,236 @@
+{
+ "id": "wt003",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Drama of Retrograde Displays",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "retrograde hand",
+  "snail cam",
+  "recoil spring"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Most watch hands travel in a full circle. But you've brought a watch where the hand moves in a fan shape. What's going on here?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's a retrograde display. The hand moves slowly along an arc, say from one to thirty-one for the date. Then, at the end of the scale, it suddenly flies back to the start."
+  },
+  {
+   "speaker": "A",
+   "text": "It's quite dramatic. How does the hand know when to jump back?"
+  },
+  {
+   "speaker": "B",
+   "text": "The secret is a part called a snail cam. It's a flat disc shaped like a snail's shell, so the edge gets farther from the center as it turns. A small lever rests against that edge."
+  },
+  {
+   "speaker": "A",
+   "text": "So as the cam turns, the lever is slowly pushed outward?"
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. And the lever is connected to the hand, so the hand moves forward along the arc. Meanwhile, a recoil spring is being put under tension."
+  },
+  {
+   "speaker": "A",
+   "text": "And then the lever falls off the edge of the snail."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. When it reaches the step, the spring pulls everything back to zero in a fraction of a second. That's the jump you see."
+  },
+  {
+   "speaker": "A",
+   "text": "It sounds like a lot of stress on the parts."
+  },
+  {
+   "speaker": "B",
+   "text": "It is, which is why it takes real skill to make it reliable. The hand has to snap back cleanly, without bouncing. When it's done well, it's one of the most charming things you can see on a dial."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Most watch hands travel in a full circle.",
+   "start": 0.0,
+   "end": 2.8,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But you've brought a watch where the hand moves in a fan shape.",
+   "start": 3.39,
+   "end": 6.99,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What's going on here?",
+   "start": 7.42,
+   "end": 8.62,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That's a retrograde display.",
+   "start": 9.34,
+   "end": 11.02,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The hand moves slowly along an arc, say from one to thirty-one for the date.",
+   "start": 11.85,
+   "end": 17.13,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Then, at the end of the scale, it suddenly flies back to the start.",
+   "start": 18.04,
+   "end": 22.36,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's quite dramatic.",
+   "start": 23.08,
+   "end": 24.68,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "How does the hand know when to jump back?",
+   "start": 25.27,
+   "end": 27.91,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The secret is a part called a snail cam.",
+   "start": 28.63,
+   "end": 31.67,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a flat disc shaped like a snail's shell, so the edge gets farther from the center as it turns.",
+   "start": 32.5,
+   "end": 38.74,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "A small lever rests against that edge.",
+   "start": 39.65,
+   "end": 42.45,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So as the cam turns, the lever is slowly pushed outward?",
+   "start": 43.17,
+   "end": 47.81,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 48.53,
+   "end": 49.73,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And the lever is connected to the hand, so the hand moves forward along the arc.",
+   "start": 50.16,
+   "end": 55.52,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Meanwhile, a recoil spring is being put under tension.",
+   "start": 55.95,
+   "end": 59.79,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And then the lever falls off the edge of the snail.",
+   "start": 60.51,
+   "end": 63.95,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Right.",
+   "start": 64.67,
+   "end": 65.15,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "When it reaches the step, the spring pulls everything back to zero in a fraction of a second.",
+   "start": 65.9,
+   "end": 71.58,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That's the jump you see.",
+   "start": 72.01,
+   "end": 73.45,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It sounds like a lot of stress on the parts.",
+   "start": 74.17,
+   "end": 77.05,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "It is, which is why it takes real skill to make it reliable.",
+   "start": 77.85,
+   "end": 82.21,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "The hand has to snap back cleanly, without bouncing.",
+   "start": 82.84,
+   "end": 86.6,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "When it's done well, it's one of the most charming things you can see on a dial.",
+   "start": 87.03,
+   "end": 91.51,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 227,
+ "duration": 91.4,
+ "wpm": 149,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 64,
+ "created": "2026-10-03 23:43"
+}

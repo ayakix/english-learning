@@ -1,0 +1,190 @@
+{
+ "id": "av010",
+ "author": "claude",
+ "category": "aviation",
+ "title": "TCAS: The Airborne System That Prevents Collisions",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "TCAS",
+  "traffic advisory (TA)",
+  "resolution advisory (RA)"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every day, thousands of planes share the same sky. Air traffic controllers on the ground keep them apart. But what happens if something goes wrong? Planes carry their own safety system for this. It is called TCAS. That stands for Traffic Collision Avoidance System."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is how it works. Airliners carry a device called a transponder. It answers radio signals with information about the plane, including its altitude, or how high it is flying. TCAS sends out its own signals and listens to the answers from nearby planes. In this way, it builds a picture of the traffic around it."
+  },
+  {
+   "speaker": "A",
+   "text": "If another plane comes too close, TCAS first gives a warning called a traffic advisory. A voice in the cockpit says, \"Traffic, traffic.\" The pilots look outside and get ready."
+  },
+  {
+   "speaker": "A",
+   "text": "If the danger becomes more serious, TCAS gives a resolution advisory. This is an instruction, such as \"Climb, climb\" or \"Descend, descend.\" The clever part is that the two planes talk to each other. If one plane is told to climb, the other is told to descend."
+  },
+  {
+   "speaker": "A",
+   "text": "Pilots are trained to follow these instructions right away, even if a controller says something different. A few seconds can make a big difference."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every day, thousands of planes share the same sky.",
+   "start": 0.0,
+   "end": 3.8,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Air traffic controllers on the ground keep them apart.",
+   "start": 4.43,
+   "end": 7.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But what happens if something goes wrong?",
+   "start": 8.14,
+   "end": 10.42,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Planes carry their own safety system for this.",
+   "start": 11.05,
+   "end": 13.85,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is called TCAS.",
+   "start": 14.44,
+   "end": 16.92,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That stands for Traffic Collision Avoidance System.",
+   "start": 17.51,
+   "end": 20.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is how it works.",
+   "start": 21.15,
+   "end": 22.35,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Airliners carry a device called a transponder.",
+   "start": 22.98,
+   "end": 26.06,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It answers radio signals with information about the plane, including its altitude, or how high it is flying.",
+   "start": 26.89,
+   "end": 33.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "TCAS sends out its own signals and listens to the answers from nearby planes.",
+   "start": 34.6,
+   "end": 40.24,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In this way, it builds a picture of the traffic around it.",
+   "start": 40.87,
+   "end": 44.23,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If another plane comes too close, TCAS first gives a warning called a traffic advisory.",
+   "start": 44.75,
+   "end": 51.39,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A voice in the cockpit says, \"Traffic, traffic.\"",
+   "start": 51.82,
+   "end": 55.34,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The pilots look outside and get ready.",
+   "start": 55.77,
+   "end": 58.25,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If the danger becomes more serious, TCAS gives a resolution advisory.",
+   "start": 58.77,
+   "end": 64.33,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is an instruction, such as \"Climb, climb\" or \"Descend, descend.\"",
+   "start": 64.96,
+   "end": 70.96,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The clever part is that the two planes talk to each other.",
+   "start": 71.95,
+   "end": 74.99,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If one plane is told to climb, the other is told to descend.",
+   "start": 75.58,
+   "end": 79.5,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Pilots are trained to follow these instructions right away, even if a controller says something different.",
+   "start": 80.02,
+   "end": 85.86,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A few seconds can make a big difference.",
+   "start": 86.45,
+   "end": 89.01,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 201,
+ "duration": 88.9,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 64,
+ "created": "2026-10-03 23:31"
+}

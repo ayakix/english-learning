@@ -1,0 +1,114 @@
+{
+ "id": "wt026",
+ "author": "claude",
+ "summary_ja": "オーバーホールでは時計を完全に分解し、超音波洗浄で汚れと古い油を落とす。古い油は乾いたりべたついたりして部品を摩耗させる。摩耗した部品を交換し、決められた場所に新しい油をごく少量さして組み立て、歩度測定器で複数の姿勢で調整する。5〜10年ごとが目安。",
+ "listening": [
+  {
+   "q": "オーバーホールの最初の作業は？",
+   "options": [
+    "ベルトを替える",
+    "電池を替える",
+    "時計を完全に分解する",
+    "ガラスを磨く"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Basically, the watch is taken completely apart.\""
+  },
+  {
+   "q": "古い油の問題は？",
+   "options": [
+    "重くなる",
+    "においがする",
+    "色が変わる",
+    "乾いたりべたついたりして、部品が直接こすれて摩耗する"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"oil dries out or becomes sticky. When that happens, parts rub directly against each other and slowly wear down.\""
+  },
+  {
+   "q": "オーバーホールの頻度の目安は？",
+   "options": [
+    "20年ごと",
+    "5〜10年ごと",
+    "毎年",
+    "必要ない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"many brands suggest every five to ten years.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "一般的な機械には100以上の部品があることもあります。",
+   "points_ja": "can have が「キャナヴ」と短く、more than a がつながります。"
+  },
+  {
+   "sentence": 12,
+   "ja": "オーバーホールは、その損傷が深刻になる前に止めます。",
+   "points_ja": "stops that の t は飲み込まれ、before it が「ビフォーリット」とつながります。"
+  },
+  {
+   "sentence": 20,
+   "ja": "文字盤を上にしたり、リューズを下にしたり、いくつかの姿勢で検査して調整します。",
+   "points_ja": "test it in が「テスティティン」、adjust it が「アジャスティット」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の内容として最も適切なものは？",
+   "options": [
+    "時計の歴史",
+    "オーバーホールの工程と、その必要性",
+    "時計の買い方",
+    "超音波の科学"
+   ],
+   "answer": 1,
+   "explanation_ja": "分解・洗浄・部品交換・注油・調整の流れを説明しています。"
+  },
+  {
+   "q": "ultrasonic cleaning の仕組みは？",
+   "options": [
+    "熱で汚れを焼く",
+    "風で吹き飛ばす",
+    "液体に入れた部品を高周波の音波で振動させ、汚れを落とす",
+    "ブラシでこする"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"high-frequency sound waves shake dirt and old oil out of the tiniest holes.\""
+  },
+  {
+   "q": "交換されることがある部品として挙げられているのは？",
+   "options": [
+    "ケースとガラス",
+    "文字盤と針",
+    "ベルトとバックル",
+    "ゼンマイ、パッキン、一部の歯車"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The mainspring, gaskets and sometimes certain wheels.\""
+  },
+  {
+   "q": "timing machine でわかることは？",
+   "options": [
+    "時計の進み遅れと、テンプの振れの強さ",
+    "防水性",
+    "時計の重さ",
+    "時計の値段"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"shows how fast or slow the watch runs, and how strongly the balance swings.\""
+  },
+  {
+   "q": "油のさし方について正しいものは？",
+   "options": [
+    "決められた場所に、ごく少量",
+    "全体にたっぷり",
+    "油はささない",
+    "外側だけに"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"adds fresh oil, in tiny amounts, at exactly the right points.\""
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "id": "wn020",
+ "author": "claude",
+ "category": "wine",
+ "title": "Volatile Acidity: Flaw or Complexity?",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "volatile acidity",
+  "acetic acid",
+  "ethyl acetate"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Some wine critics say a certain wine has high volatile acidity. That sounds bad. Is it?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not always. Volatile acidity, or VA, means acids in the wine that evaporate easily, so you can smell them. The main one is acetic acid, which is the acid in vinegar."
+  },
+  {
+   "speaker": "A",
+   "text": "So the wine smells like vinegar?"
+  },
+  {
+   "speaker": "B",
+   "text": "If there's a lot, yes. It's produced by certain bacteria, especially when wine is exposed to air. Often, there's also a related compound called ethyl acetate, which smells like nail polish remover."
+  },
+  {
+   "speaker": "A",
+   "text": "Then why would anyone like it?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because in small amounts, it can make the aroma seem brighter and more lifted. It can give a wine an extra lift, a kind of energy. Some famous traditional wines have noticeable VA, and many people love them."
+  },
+  {
+   "speaker": "A",
+   "text": "So where's the line between flaw and complexity?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's the question. When the vinegar smell becomes the main thing you notice, and the fruit is hidden, most experts call it a flaw. When it just adds a little sparkle in the background, it can add complexity."
+  },
+  {
+   "speaker": "A",
+   "text": "So, like salt in cooking."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. A little can make the dish better. Too much ruins it."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Some wine critics say a certain wine has high volatile acidity.",
+   "start": 0.0,
+   "end": 4.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That sounds bad.",
+   "start": 4.67,
+   "end": 5.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is it?",
+   "start": 6.3,
+   "end": 6.94,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Not always.",
+   "start": 7.66,
+   "end": 8.7,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Volatile acidity, or VA, means acids in the wine that evaporate easily, so you can smell them.",
+   "start": 9.13,
+   "end": 16.81,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The main one is acetic acid, which is the acid in vinegar.",
+   "start": 17.72,
+   "end": 21.64,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So the wine smells like vinegar?",
+   "start": 22.36,
+   "end": 24.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If there's a lot, yes.",
+   "start": 25.56,
+   "end": 27.4,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's produced by certain bacteria, especially when wine is exposed to air.",
+   "start": 27.99,
+   "end": 33.11,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Often, there's also a related compound called ethyl acetate, which smells like nail polish remover.",
+   "start": 33.78,
+   "end": 40.34,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Then why would anyone like it?",
+   "start": 41.06,
+   "end": 43.22,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Because in small amounts, it can make the aroma seem brighter and more lifted.",
+   "start": 43.94,
+   "end": 48.98,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It can give a wine an extra lift, a kind of energy.",
+   "start": 49.41,
+   "end": 53.33,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Some famous traditional wines have noticeable VA, and many people love them.",
+   "start": 53.84,
+   "end": 58.88,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So where's the line between flaw and complexity?",
+   "start": 59.6,
+   "end": 63.2,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "That's the question.",
+   "start": 63.92,
+   "end": 65.04,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "When the vinegar smell becomes the main thing you notice, and the fruit is hidden, most experts call it a flaw.",
+   "start": 65.95,
+   "end": 72.67,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "When it just adds a little sparkle in the background, it can add complexity.",
+   "start": 73.66,
+   "end": 78.22,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So, like salt in cooking.",
+   "start": 78.94,
+   "end": 81.26,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 81.98,
+   "end": 82.78,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A little can make the dish better.",
+   "start": 83.53,
+   "end": 85.69,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Too much ruins it.",
+   "start": 86.12,
+   "end": 87.8,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 192,
+ "duration": 87.7,
+ "wpm": 131,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 58,
+ "created": "2026-10-03 23:48"
+}

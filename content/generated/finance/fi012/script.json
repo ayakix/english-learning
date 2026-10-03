@@ -1,0 +1,194 @@
+{
+ "id": "fi012",
+ "author": "claude",
+ "category": "finance",
+ "title": "Loss Aversion: Why Losing Hurts More",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "loss aversion",
+  "behavioral finance",
+  "bias"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine you find ten thousand yen on the street. You would feel happy. Now imagine you lose ten thousand yen from your wallet. How would you feel? For most people, the pain of losing is much stronger than the joy of gaining the same amount. This is called loss aversion."
+  },
+  {
+   "speaker": "A",
+   "text": "The idea was developed by psychologists Daniel Kahneman and Amos Tversky. Their research became a foundation of a field called behavioral finance, which studies how real people make financial decisions, not how perfectly logical people should behave. Studies suggest that losses can feel roughly twice as powerful as equal gains."
+  },
+  {
+   "speaker": "A",
+   "text": "Loss aversion can cause costly mistakes. For example, many investors hold on to losing stocks for too long, hoping to get back to even, because selling would make the loss feel real. At the same time, they sell winning stocks too early to lock in a gain."
+  },
+  {
+   "speaker": "A",
+   "text": "It can also make people too afraid to invest at all. Keeping all savings in cash avoids short-term losses, but it can mean losing value to inflation over many years."
+  },
+  {
+   "speaker": "A",
+   "text": "This kind of predictable error in thinking is called a bias. Everyone has biases, including experts."
+  },
+  {
+   "speaker": "A",
+   "text": "The good news is that understanding them helps. Many investors set clear rules in advance, such as investing a fixed amount every month and rebalancing once a year. Automatic systems reduce the space for emotions. You cannot remove loss aversion, but you can design around it."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine you find ten thousand yen on the street.",
+   "start": 0.0,
+   "end": 3.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You would feel happy.",
+   "start": 3.71,
+   "end": 4.99,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Now imagine you lose ten thousand yen from your wallet.",
+   "start": 5.74,
+   "end": 9.46,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How would you feel?",
+   "start": 10.09,
+   "end": 11.25,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For most people, the pain of losing is much stronger than the joy of gaining the same amount.",
+   "start": 11.96,
+   "end": 18.12,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called loss aversion.",
+   "start": 18.67,
+   "end": 20.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The idea was developed by psychologists Daniel Kahneman and Amos Tversky.",
+   "start": 21.15,
+   "end": 25.95,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Their research became a foundation of a field called behavioral finance, which studies how real people make financial decisions, not how perfectly logical people should behave.",
+   "start": 26.62,
+   "end": 37.5,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Studies suggest that losses can feel roughly twice as powerful as equal gains.",
+   "start": 38.33,
+   "end": 43.69,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Loss aversion can cause costly mistakes.",
+   "start": 44.21,
+   "end": 47.33,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, many investors hold on to losing stocks for too long, hoping to get back to even, because selling would make the loss feel real.",
+   "start": 47.76,
+   "end": 56.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "At the same time, they sell winning stocks too early to lock in a gain.",
+   "start": 57.03,
+   "end": 61.39,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It can also make people too afraid to invest at all.",
+   "start": 61.91,
+   "end": 65.19,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Keeping all savings in cash avoids short-term losses, but it can mean losing value to inflation over many years.",
+   "start": 65.86,
+   "end": 73.78,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This kind of predictable error in thinking is called a bias.",
+   "start": 74.3,
+   "end": 78.54,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Everyone has biases, including experts.",
+   "start": 78.97,
+   "end": 81.85,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The good news is that understanding them helps.",
+   "start": 82.37,
+   "end": 85.17,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Many investors set clear rules in advance, such as investing a fixed amount every month and rebalancing once a year.",
+   "start": 86.08,
+   "end": 93.28,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Automatic systems reduce the space for emotions.",
+   "start": 94.19,
+   "end": 97.07,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "You cannot remove loss aversion, but you can design around it.",
+   "start": 97.9,
+   "end": 102.06,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 239,
+ "duration": 102.0,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-04 00:02"
+}

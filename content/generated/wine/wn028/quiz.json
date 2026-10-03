@@ -1,0 +1,114 @@
+{
+ "id": "wn028",
+ "author": "claude",
+ "summary_ja": "多くのワインは数年以内に飲むように造られ、長く良くなるワインも一定の道筋（熟成曲線）をたどる。若いワインは果実と酸とタンニンが強く、閉じていることもある。年月とともにタンニンがやわらぎ、複雑な香りが出て、調和した頂点（ピーク）を迎える。その後は果実味が消えて衰える。飲み頃の推定はあくまで目安。",
+ "listening": [
+  {
+   "q": "多くのワインについて正しいものは？",
+   "options": [
+    "数年以内に楽しむように造られている",
+    "すぐに悪くなる",
+    "すべて年とともに良くなる",
+    "10年以上待つべき"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"In reality, most wines are made to be enjoyed within a few years.\""
+  },
+  {
+   "q": "peak maturity とは？",
+   "options": [
+    "ワインが壊れた時期",
+    "最も若い時期",
+    "すべてが調和した、開けるのに最適な時期",
+    "ブドウを摘んだ日"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"At some point, everything comes into harmony. This stage is called peak maturity.\""
+  },
+  {
+   "q": "話し手の実践的なアドバイスは？",
+   "options": [
+    "同じワインを何本か持っていたら、数年ごとに1本ずつ開ける",
+    "すべてを一度に飲む",
+    "必ず20年待つ",
+    "評論家の言う日に必ず開ける"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"if you have several bottles of the same wine, open one every few years.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "長く良くなるワインは一部だけで、それらでさえ一定の道筋をたどります。",
+   "points_ja": "improve for a long time がつながり、follow a path が「フォロウアパス」と聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "新鮮な果実、高い酸、強いタンニンがあります。",
+   "points_ja": "has fresh がつながり、acidity and strong の and は「ン」です。"
+  },
+  {
+   "sentence": 17,
+   "ja": "ワインは、まだ面白さがあっても、乾いて薄く、疲れた味がすることがあります。",
+   "points_ja": "thin or tired の or は弱形、even if it is が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ワインは古いほどよい",
+    "評論家の飲み頃は必ず正しい",
+    "長く熟成するワインも若さ・頂点・衰退という道筋をたどる",
+    "若いワインは飲めない"
+   ],
+   "answer": 2,
+   "explanation_ja": "熟成曲線を人の一生にたとえて説明しています。"
+  },
+  {
+   "q": "若いワインが closed（閉じている）とはどういう状態？",
+   "options": [
+    "腐っている",
+    "甘すぎる",
+    "瓶が開かない",
+    "香りが静かで、要素がまだまとまっていない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The aromas are quiet, and the parts do not yet fit together.\""
+  },
+  {
+   "q": "熟成で現れる香りとして挙げられているのは？",
+   "options": [
+    "バニラだけ",
+    "土、スパイス、レザー",
+    "イチゴキャンディ",
+    "レモン、青リンゴ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"new aromas appear, such as earth, spice and leather.\""
+  },
+  {
+   "q": "fading fruit の意味は？",
+   "options": [
+    "果物が腐ること",
+    "果実味が消えていくこと",
+    "果物を加えること",
+    "果物の色"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The fruit begins to disappear. Experts call this fading fruit.\""
+  },
+  {
+   "q": "drinking window について正しいものは？",
+   "options": [
+    "ラベルに必ず書かれている",
+    "法律で決まっている",
+    "楽しめる期間で、評論家の推定はあくまで推測",
+    "誰にとっても同じ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"But these are only guesses. Storage conditions and personal taste matter a lot.\""
+  }
+ ]
+}

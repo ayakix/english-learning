@@ -1,0 +1,244 @@
+{
+ "id": "av013",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Higher Cabin Pressure and Humidity in the A350 and 787",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "cabin pressurization",
+  "humidity levels",
+  "corrosion resistance"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Passengers often say they feel less tired after flying on a 787 or an A350. Is that just marketing?"
+  },
+  {
+   "speaker": "B",
+   "text": "There's real engineering behind it. It's related to cabin pressurization. At cruising altitude, the air outside is too thin to breathe, so the cabin is pressurized."
+  },
+  {
+   "speaker": "A",
+   "text": "But not to sea level?"
+  },
+  {
+   "speaker": "B",
+   "text": "No. In most older jets, the cabin pressure is similar to being at about two thousand four hundred meters, or eight thousand feet. On the 787 and A350, it's closer to one thousand eight hundred meters, about six thousand feet."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does that matter?"
+  },
+  {
+   "speaker": "B",
+   "text": "At lower cabin altitudes, your blood carries a little more oxygen. Studies suggest that people feel less headache and fatigue on long flights."
+  },
+  {
+   "speaker": "A",
+   "text": "Then why didn't older planes do the same?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because higher pressure puts more stress on the fuselage. The new composite structures are strong enough to handle it more easily."
+  },
+  {
+   "speaker": "A",
+   "text": "What about humidity? The air on planes always feels so dry."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the other part. In aluminum planes, moisture can cause corrosion, so humidity levels are kept very low. Composites have much better corrosion resistance, so the cabin can be a bit more humid."
+  },
+  {
+   "speaker": "A",
+   "text": "So my eyes and throat feel better."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. It's still drier than at home, but it's a noticeable improvement on a twelve-hour flight."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Passengers often say they feel less tired after flying on a 787 or an A350.",
+   "start": 0.0,
+   "end": 6.4,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is that just marketing?",
+   "start": 6.83,
+   "end": 8.19,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "There's real engineering behind it.",
+   "start": 8.91,
+   "end": 11.11,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's related to cabin pressurization.",
+   "start": 11.66,
+   "end": 13.82,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "At cruising altitude, the air outside is too thin to breathe, so the cabin is pressurized.",
+   "start": 14.57,
+   "end": 21.05,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "But not to sea level?",
+   "start": 21.77,
+   "end": 23.45,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "No.",
+   "start": 24.17,
+   "end": 24.57,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "In most older jets, the cabin pressure is similar to being at about two thousand four hundred meters, or eight thousand feet.",
+   "start": 25.32,
+   "end": 33.24,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "On the 787 and A350, it's closer to one thousand eight hundred meters, about six thousand feet.",
+   "start": 33.67,
+   "end": 40.87,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Why does that matter?",
+   "start": 41.59,
+   "end": 42.87,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "At lower cabin altitudes, your blood carries a little more oxygen.",
+   "start": 43.67,
+   "end": 48.23,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Studies suggest that people feel less headache and fatigue on long flights.",
+   "start": 48.66,
+   "end": 53.06,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Then why didn't older planes do the same?",
+   "start": 53.78,
+   "end": 56.58,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Because higher pressure puts more stress on the fuselage.",
+   "start": 57.3,
+   "end": 60.98,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The new composite structures are strong enough to handle it more easily.",
+   "start": 61.41,
+   "end": 65.33,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "What about humidity?",
+   "start": 66.13,
+   "end": 67.69,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "The air on planes always feels so dry.",
+   "start": 68.32,
+   "end": 71.36,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "That's the other part.",
+   "start": 72.08,
+   "end": 73.2,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "In aluminum planes, moisture can cause corrosion, so humidity levels are kept very low.",
+   "start": 73.95,
+   "end": 79.87,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Composites have much better corrosion resistance, so the cabin can be a bit more humid.",
+   "start": 80.62,
+   "end": 85.98,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So my eyes and throat feel better.",
+   "start": 86.7,
+   "end": 89.26,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 89.98,
+   "end": 90.78,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "It's still drier than at home, but it's a noticeable improvement on a twelve-hour flight.",
+   "start": 91.53,
+   "end": 96.97,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 213,
+ "duration": 96.9,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:51"
+}

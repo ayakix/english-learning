@@ -1,0 +1,114 @@
+{
+ "id": "wn033",
+ "author": "claude",
+ "summary_ja": "酸素の扱い方で、還元的と酸化的という2つのスタイルが生まれる。還元的スタイルは密閉したステンレスタンクや不活性ガス、スクリューキャップで酸素を避け、柑橘や青リンゴの新鮮な香りを保つが、酸素が少なすぎると腐った卵やマッチを擦ったような硫黄臭が出る。酸化的スタイルは樽などで計画的に酸素に触れさせ、ナッツや蜂蜜、パンの香りと深みが出る。",
+ "listening": [
+  {
+   "q": "還元的スタイルの目的は？",
+   "options": [
+    "酸素を避けて新鮮な果実の香りを保つ",
+    "ナッツの香りを出す",
+    "甘くする",
+    "色を濃くする"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The goal is to keep fresh, bright fruit aromas, like citrus, green apple and passion fruit.\""
+  },
+  {
+   "q": "酸素が少なすぎると出ることがあるにおいは？",
+   "options": [
+    "バニラ",
+    "腐った卵やマッチを擦ったようなにおい",
+    "花の香り",
+    "イチゴ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"hydrogen sulfide, which smells like rotten eggs ... reduction can smell like a struck match or flint.\""
+  },
+  {
+   "q": "酸化的スタイルで生まれる香りは？",
+   "options": [
+    "パッションフルーツ",
+    "柑橘、青リンゴ",
+    "ナッツ、蜂蜜、パン、ドライフルーツ",
+    "ピーマン"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"with notes of nuts, honey, bread and dried fruit.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "発酵は密閉されたステンレスタンクで行われることが多いです。",
+   "points_ja": "often happens がつながり、sealed stainless の d は飲み込まれます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "酵母は硫化水素などの硫黄化合物を作ることがあり、それは腐った卵のようなにおいがします。",
+   "points_ja": "such as が「サッチャズ」、smells like rotten が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "樽熟成はこれを行う古典的な方法です。",
+   "points_ja": "aging is a がつながり、way to do の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "樽は使わないほうがよい",
+    "酸素の扱い方によって、還元的と酸化的という2つの方向のスタイルが生まれる",
+    "シェリーは白ワインの一種である",
+    "酸素はワインに常に悪い"
+   ],
+   "answer": 1,
+   "explanation_ja": "2つのスタイルの特徴と、その間にあるワインについて説明しています。"
+  },
+  {
+   "q": "inert gases とは？",
+   "options": [
+    "炭酸ガスの泡",
+    "酸素",
+    "ワインと反応しないガス",
+    "ワインに香りをつけるガス"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Inert gases, which do not react with wine\"。"
+  },
+  {
+   "q": "controlled oxidation の意味は？",
+   "options": [
+    "ゆっくりと計画的に酸素に触れさせること",
+    "ワインを加熱すること",
+    "ワインを凍らせること",
+    "酸素を完全に遮断すること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"controlled oxidation, meaning slow and planned contact with oxygen.\""
+  },
+  {
+   "q": "還元的スタイルで造られる例として挙げられているのは？",
+   "options": [
+    "甘口ワイン",
+    "シェリー",
+    "ボルドーの赤",
+    "一部のソーヴィニヨン・ブラン"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many crisp white wines, such as some Sauvignon Blancs, are made this way.\""
+  },
+  {
+   "q": "少量の還元臭について話し手は何と言っている？",
+   "options": [
+    "誰も気づかない",
+    "このスモーキーな香りを好む人もいるが、多すぎると欠陥",
+    "常に良い",
+    "常に欠陥"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Some tasters enjoy a little of this smoky note. Too much is a fault.\""
+  }
+ ]
+}

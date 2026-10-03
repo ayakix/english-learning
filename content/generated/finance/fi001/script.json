@@ -1,0 +1,190 @@
+{
+ "id": "fi001",
+ "author": "claude",
+ "category": "finance",
+ "title": "Compound Interest: Money That Grows",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "compound interest",
+  "principal",
+  "time horizon"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine you put one hundred dollars in a savings account. The bank pays you five percent interest every year. After one year, you have one hundred and five dollars. The first one hundred dollars is called the principal. It is the money you started with."
+  },
+  {
+   "speaker": "A",
+   "text": "Now here is the interesting part. In the second year, you earn interest not only on the principal, but also on the five dollars from last year. So your money grows a little faster. This is called compound interest. Simply put, it is interest on your interest."
+  },
+  {
+   "speaker": "A",
+   "text": "At first, the difference is very small. But over a long time, it becomes large. At five percent, your money doubles in about fourteen years. Wait another fourteen years, and it doubles again."
+  },
+  {
+   "speaker": "A",
+   "text": "This is why many experts say the most important thing is to start early. The length of time you plan to keep your money invested is called your time horizon. A longer time horizon gives compound interest more time to work. Someone who starts at twenty-five often ends up with much more than someone who starts at thirty-five, even if they save the same amount each month."
+  },
+  {
+   "speaker": "A",
+   "text": "But remember, it also works against you when you borrow. So pay off credit card debt quickly."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine you put one hundred dollars in a savings account.",
+   "start": 0.0,
+   "end": 3.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The bank pays you five percent interest every year.",
+   "start": 4.11,
+   "end": 7.31,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "After one year, you have one hundred and five dollars.",
+   "start": 8.22,
+   "end": 11.66,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The first one hundred dollars is called the principal.",
+   "start": 12.49,
+   "end": 15.37,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is the money you started with.",
+   "start": 16.2,
+   "end": 18.04,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Now here is the interesting part.",
+   "start": 18.56,
+   "end": 21.36,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In the second year, you earn interest not only on the principal, but also on the five dollars from last year.",
+   "start": 21.79,
+   "end": 28.99,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So your money grows a little faster.",
+   "start": 29.5,
+   "end": 32.113,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called compound interest.",
+   "start": 32.517,
+   "end": 34.81,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Simply put, it is interest on your interest.",
+   "start": 35.36,
+   "end": 38.44,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "At first, the difference is very small.",
+   "start": 38.96,
+   "end": 41.88,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But over a long time, it becomes large.",
+   "start": 42.51,
+   "end": 45.47,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "At five percent, your money doubles in about fourteen years.",
+   "start": 46.14,
+   "end": 50.54,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Wait another fourteen years, and it doubles again.",
+   "start": 51.01,
+   "end": 54.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is why many experts say the most important thing is to start early.",
+   "start": 54.61,
+   "end": 60.13,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The length of time you plan to keep your money invested is called your time horizon.",
+   "start": 60.56,
+   "end": 65.68,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A longer time horizon gives compound interest more time to work.",
+   "start": 66.11,
+   "end": 70.51,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Someone who starts at twenty-five often ends up with much more than someone who starts at thirty-five, even if they save the same amount each month.",
+   "start": 71.02,
+   "end": 79.82,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "But remember, it also works against you when you borrow.",
+   "start": 80.34,
+   "end": 84.42,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So pay off credit card debt quickly.",
+   "start": 84.89,
+   "end": 87.33,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 209,
+ "duration": 87.2,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 64,
+ "created": "2026-10-03 23:28"
+}

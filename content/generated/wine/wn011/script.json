@@ -1,0 +1,173 @@
+{
+ "id": "wn011",
+ "author": "claude",
+ "category": "wine",
+ "title": "Nagano Chardonnay: High Altitude Terroir",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "high altitude",
+  "diurnal temperature range",
+  "clean acid"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When people think of Japanese wine, many first think of Yamanashi. But in recent years, Nagano has become one of the most exciting regions, especially for Chardonnay."
+  },
+  {
+   "speaker": "A",
+   "text": "One key factor is high altitude. Many vineyards in Nagano are several hundred meters above sea level. Some areas, such as the Chikumagawa Wine Valley along the Chikuma River, have attracted many new small wineries."
+  },
+  {
+   "speaker": "A",
+   "text": "Altitude brings an important benefit: a large diurnal temperature range. This means a big difference between day and night temperatures. During the day, the sun helps the grapes ripen and develop sugar and flavor. At night, the cool air slows everything down. Grapes keep more of their natural acidity."
+  },
+  {
+   "speaker": "A",
+   "text": "The result can be Chardonnay with clean acid and clear fruit aromas, such as citrus, white peach and green apple. Some winemakers use oak to add richness. Others prefer steel tanks to keep the wines fresh and pure."
+  },
+  {
+   "speaker": "A",
+   "text": "Nagano also has relatively low rainfall compared to many other parts of Japan. This helps, because rain and humidity can cause disease in the vineyard."
+  },
+  {
+   "speaker": "A",
+   "text": "Nagano wines have started to receive attention at international competitions. Many experts believe the region shows that Japan can make elegant Chardonnay in its own style, not as a copy of Burgundy, but as something new."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When people think of Japanese wine, many first think of Yamanashi.",
+   "start": 0.0,
+   "end": 4.6,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But in recent years, Nagano has become one of the most exciting regions, especially for Chardonnay.",
+   "start": 5.23,
+   "end": 11.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One key factor is high altitude.",
+   "start": 12.31,
+   "end": 14.99,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Many vineyards in Nagano are several hundred meters above sea level.",
+   "start": 15.62,
+   "end": 19.98,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Some areas, such as the Chikumagawa Wine Valley along the Chikuma River, have attracted many new small wineries.",
+   "start": 20.61,
+   "end": 28.13,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Altitude brings an important benefit: a large diurnal temperature range.",
+   "start": 28.65,
+   "end": 34.05,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This means a big difference between day and night temperatures.",
+   "start": 34.68,
+   "end": 38.36,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "During the day, the sun helps the grapes ripen and develop sugar and flavor.",
+   "start": 39.19,
+   "end": 44.23,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "At night, the cool air slows everything down.",
+   "start": 44.82,
+   "end": 48.26,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Grapes keep more of their natural acidity.",
+   "start": 48.85,
+   "end": 51.49,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The result can be Chardonnay with clean acid and clear fruit aromas, such as citrus, white peach and green apple.",
+   "start": 52.01,
+   "end": 59.93,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some winemakers use oak to add richness.",
+   "start": 60.68,
+   "end": 63.76,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Others prefer steel tanks to keep the wines fresh and pure.",
+   "start": 64.31,
+   "end": 67.83,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Nagano also has relatively low rainfall compared to many other parts of Japan.",
+   "start": 68.35,
+   "end": 73.75,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This helps, because rain and humidity can cause disease in the vineyard.",
+   "start": 74.38,
+   "end": 78.86,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Nagano wines have started to receive attention at international competitions.",
+   "start": 79.38,
+   "end": 84.06,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Many experts believe the region shows that Japan can make elegant Chardonnay in its own style, not as a copy of Burgundy, but as something new.",
+   "start": 84.69,
+   "end": 94.21,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 210,
+ "duration": 94.1,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:48"
+}

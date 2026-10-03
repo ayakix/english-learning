@@ -1,0 +1,194 @@
+{
+ "id": "wn036",
+ "author": "claude",
+ "category": "wine",
+ "title": "Decanting: Aeration vs Sediment Removal",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "decanting",
+  "aeration",
+  "sediment separation"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Decanting means pouring wine from its bottle into another container, usually a glass jug called a decanter. It looks elegant, but it has two quite different purposes."
+  },
+  {
+   "speaker": "A",
+   "text": "The first is aeration, which means giving the wine contact with air. This is mostly done for young, powerful wines. When they are first opened, they can seem closed, with quiet aromas and firm tannins. Pouring them into a wide decanter exposes them to oxygen. After thirty minutes or an hour, the aromas often become more open and the texture feels softer."
+  },
+  {
+   "speaker": "A",
+   "text": "The second purpose is sediment separation. Old red wines and some unfiltered wines develop sediment, small solid particles that settle in the bottle. They are harmless but taste gritty and bitter. Decanting helps you pour the clear wine and leave the sediment behind."
+  },
+  {
+   "speaker": "A",
+   "text": "For an old wine, preparation matters. Stand the bottle upright for a day or more, so the sediment falls to the bottom. Then open it carefully and pour slowly and steadily, with a light under the neck of the bottle. When you see the sediment reach the neck, stop pouring."
+  },
+  {
+   "speaker": "A",
+   "text": "Be careful, though. Very old wines can be fragile. After decanting, their aromas may fade quickly. Many experts decant old wines just before serving, not hours before."
+  },
+  {
+   "speaker": "A",
+   "text": "So before you decant, ask yourself one question: does this wine need air, or does it need to leave its sediment behind?"
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Decanting means pouring wine from its bottle into another container, usually a glass jug called a decanter.",
+   "start": 0.0,
+   "end": 6.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It looks elegant, but it has two quite different purposes.",
+   "start": 7.95,
+   "end": 11.71,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The first is aeration, which means giving the wine contact with air.",
+   "start": 12.23,
+   "end": 16.99,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is mostly done for young, powerful wines.",
+   "start": 17.7,
+   "end": 20.5,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When they are first opened, they can seem closed, with quiet aromas and firm tannins.",
+   "start": 21.49,
+   "end": 26.61,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Pouring them into a wide decanter exposes them to oxygen.",
+   "start": 27.68,
+   "end": 31.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "After thirty minutes or an hour, the aromas often become more open and the texture feels softer.",
+   "start": 32.03,
+   "end": 38.27,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The second purpose is sediment separation.",
+   "start": 38.79,
+   "end": 40.71,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Old red wines and some unfiltered wines develop sediment, small solid particles that settle in the bottle.",
+   "start": 41.13,
+   "end": 48.868,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They are harmless but taste gritty and bitter.",
+   "start": 49.282,
+   "end": 52.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Decanting helps you pour the clear wine and leave the sediment behind.",
+   "start": 53.6,
+   "end": 57.76,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For an old wine, preparation matters.",
+   "start": 58.36,
+   "end": 61.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Stand the bottle upright for a day or more, so the sediment falls to the bottom.",
+   "start": 62.07,
+   "end": 66.23,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Then open it carefully and pour slowly and steadily, with a light under the neck of the bottle.",
+   "start": 67.22,
+   "end": 73.46,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When you see the sediment reach the neck, stop pouring.",
+   "start": 73.89,
+   "end": 77.01,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Be careful, though.",
+   "start": 77.53,
+   "end": 78.41,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Very old wines can be fragile.",
+   "start": 79.04,
+   "end": 81.24,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "After decanting, their aromas may fade quickly.",
+   "start": 82.15,
+   "end": 85.19,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many experts decant old wines just before serving, not hours before.",
+   "start": 86.18,
+   "end": 91.3,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So before you decant, ask yourself one question: does this wine need air, or does it need to leave its sediment behind?",
+   "start": 91.82,
+   "end": 100.22,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 231,
+ "duration": 100.1,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:50"
+}

@@ -1,0 +1,208 @@
+{
+ "id": "wn005",
+ "author": "claude",
+ "category": "wine",
+ "title": "Anthocyanins, Tannins, and the Chemistry of Aging",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "polymerization",
+  "anthocyanins",
+  "sediment"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you pour a young red wine next to a twenty-year-old one, you will see a clear difference. The young wine is deep purple. The old wine is lighter, with an orange or brick color at the edge. In your mouth, the old wine also feels softer. Why?"
+  },
+  {
+   "speaker": "A",
+   "text": "Two groups of natural compounds play a key role. The first group is anthocyanins. These are the pigments that give red wine its color. They come from the grape skins. The second group is tannins, which create the drying feeling in your mouth."
+  },
+  {
+   "speaker": "A",
+   "text": "As wine ages, these compounds slowly join together. Scientists call this process polymerization. Small molecules connect to form larger chains. Anthocyanins bind with tannins and with each other. The new, larger molecules change color, from purple toward red, and later toward brick and brown."
+  },
+  {
+   "speaker": "A",
+   "text": "Larger tannin molecules also feel different. Many people describe older tannins as smoother and less harsh."
+  },
+  {
+   "speaker": "A",
+   "text": "Eventually, some of these chains become so large and heavy that they can no longer stay dissolved in the wine. They fall to the bottom of the bottle as sediment. That is the dark, sandy material you sometimes find in old red wines."
+  },
+  {
+   "speaker": "A",
+   "text": "So when you see sediment, it is not a defect. It is a sign that the wine has been changing, quietly, for many years."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you pour a young red wine next to a twenty-year-old one, you will see a clear difference.",
+   "start": 0.0,
+   "end": 5.4,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The young wine is deep purple.",
+   "start": 6.03,
+   "end": 8.35,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The old wine is lighter, with an orange or brick color at the edge.",
+   "start": 8.78,
+   "end": 13.26,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In your mouth, the old wine also feels softer.",
+   "start": 13.69,
+   "end": 17.13,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why?",
+   "start": 17.56,
+   "end": 18.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Two groups of natural compounds play a key role.",
+   "start": 18.8,
+   "end": 22.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The first group is anthocyanins.",
+   "start": 22.67,
+   "end": 25.19,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "These are the pigments that give red wine its color.",
+   "start": 25.82,
+   "end": 28.54,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "They come from the grape skins.",
+   "start": 29.37,
+   "end": 31.21,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The second group is tannins, which create the drying feeling in your mouth.",
+   "start": 31.88,
+   "end": 36.44,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "As wine ages, these compounds slowly join together.",
+   "start": 36.96,
+   "end": 40.8,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists call this process polymerization.",
+   "start": 41.71,
+   "end": 44.91,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Small molecules connect to form larger chains.",
+   "start": 45.58,
+   "end": 48.9,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Anthocyanins bind with tannins and with each other.",
+   "start": 49.53,
+   "end": 52.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The new, larger molecules change color, from purple toward red, and later toward brick and brown.",
+   "start": 53.56,
+   "end": 60.6,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Larger tannin molecules also feel different.",
+   "start": 61.2,
+   "end": 64.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many people describe older tannins as smoother and less harsh.",
+   "start": 64.83,
+   "end": 68.99,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Eventually, some of these chains become so large and heavy that they can no longer stay dissolved in the wine.",
+   "start": 69.51,
+   "end": 76.19,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They fall to the bottom of the bottle as sediment.",
+   "start": 76.82,
+   "end": 79.58,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That is the dark, sandy material you sometimes find in old red wines.",
+   "start": 80.21,
+   "end": 85.01,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So when you see sediment, it is not a defect.",
+   "start": 85.53,
+   "end": 89.05,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a sign that the wine has been changing, quietly, for many years.",
+   "start": 89.48,
+   "end": 94.36,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 218,
+ "duration": 94.3,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 67,
+ "created": "2026-10-03 23:47"
+}

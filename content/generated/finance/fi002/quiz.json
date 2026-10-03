@@ -1,0 +1,114 @@
+{
+ "id": "fi002",
+ "author": "claude",
+ "summary_ja": "初めて投資する人は良い会社を選びたがるが、個別株選びは、大きな調査チームを持つプロを含む何百万人の投資家より詳しいと賭けることで難しい。代わりに市場全体の小さな一部を買うインデックスファンドがある。市場平均しか得られないが、長期では多くのプロのファンドマネージャーは手数料を引くと市場に勝てていない。価格には情報が織り込まれ、コストもかさむ。大部分をインデックス、5〜10%を個別株にする方法も。",
+ "listening": [
+  {
+   "q": "個別株選びが難しい理由として話されているのは？",
+   "options": [
+    "株が高いから",
+    "法律が厳しいから",
+    "プロを含む何百万人の投資家より詳しいと賭けることになるから",
+    "会社が少ないから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"you're betting that you know more than millions of other investors, including professionals with huge research teams.\""
+  },
+  {
+   "q": "長期で多くのプロのファンドマネージャーについて分かっていることは？",
+   "options": [
+    "損をしない",
+    "必ず市場に勝つ",
+    "インデックスと同じ",
+    "手数料を引くと市場に勝てていない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"most professional fund managers who try to beat the market fail to do so, especially after their fees.\""
+  },
+  {
+   "q": "個別株が好きな人への一般的な方法は？",
+   "options": [
+    "株はやめる",
+    "すべて個別株にする",
+    "大部分をインデックスファンドにし、5〜10%ほどを興味のある株にする",
+    "毎日売買する"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"keep most of your money in index funds and use a small part, maybe five or ten percent, for stocks you find interesting.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "わくわくしますが、とても難しいです。",
+   "points_ja": "It's exciting がつながり、it's very difficult が続けて聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "会社を選ぶ代わりに、市場全体の小さな一部を買います。",
+   "points_ja": "Instead of choosing が続き、small piece of a whole が「スモールピーサヴァホウル」と聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "アクティブファンドは手数料が高く、売買も多いです。",
+   "points_ja": "Active funds charge がつながり、trade more often が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "銀行の選び方",
+    "株の買い方の手順",
+    "個別株選びより、低コストのインデックスファンドが多くの人に合う理由",
+    "会社の作り方"
+   ],
+   "answer": 2,
+   "explanation_ja": "個別株の難しさ、インデックスファンドの利点、組み合わせ方を話しています。"
+  },
+  {
+   "q": "index fund とは？",
+   "options": [
+    "債券だけのファンド",
+    "銀行の預金",
+    "1社の株",
+    "市場全体の小さな一部を買うファンド"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Instead of choosing companies, you buy a small piece of a whole market.\""
+  },
+  {
+   "q": "市場平均が実は良い成績である理由は？",
+   "options": [
+    "手数料がかからないから",
+    "プロの多くがそれ以下の成績だから",
+    "平均は必ず上がるから",
+    "税金がないから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"So the market average is actually better than what most professionals achieve.\""
+  },
+  {
+   "q": "市場に勝つのが難しい理由として話されているのは？",
+   "options": [
+    "株が少ないから",
+    "価格に多くの情報が織り込まれ、コストもかさむから",
+    "情報がないから",
+    "取引所が遠いから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Prices already reflect a lot of information. And costs add up.\""
+  },
+  {
+   "q": "個別株を少しだけにする利点は？",
+   "options": [
+    "手数料がない",
+    "失敗しても全体の計画が台無しにならない",
+    "税金が安い",
+    "大もうけできる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That way, a bad pick won't ruin your plan.\""
+  }
+ ]
+}

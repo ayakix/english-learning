@@ -1,0 +1,114 @@
+{
+ "id": "rn036",
+ "author": "claude",
+ "summary_ja": "長距離ランナーは太くなるのを恐れて重いウェイトを避けがちだが、たくさん走っていると筋肉は大きくなりにくく、重い筋トレで速く効率的になるという研究がある。最初の効果の多くは神経系の適応（より多くの筋線維を同時に効果的に使えるようになる）。着地から蹴り出しまでの一瞬に素早く力を出す力（RFD）が上がる。腱が硬くなり、バネとしてエネルギーを効率よく返す。スクワットなど3〜6回の重めを週2回から。",
+ "listening": [
+  {
+   "q": "長距離ランナーが重いウェイトを避ける理由として話されているのは？",
+   "options": [
+    "時間がないから",
+    "けがが怖いから",
+    "太く（筋肉が大きく）なりたくないから",
+    "お金がかかるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Many distance runners avoid heavy weights because they don't want to get bulky.\""
+  },
+  {
+   "q": "筋トレの初期の効果の多くは何によるもの？",
+   "options": [
+    "筋肉の大きさの変化",
+    "体重の増加",
+    "心臓の変化",
+    "神経系の適応"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A lot of the early benefit comes from neural adaptation.\""
+  },
+  {
+   "q": "B が勧めるトレーニングは？",
+   "options": [
+    "腕だけ鍛える",
+    "スクワットなどを重めの重さで3〜6回、週2回から",
+    "軽い重さで100回",
+    "毎日2時間"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"with fairly heavy weights and low repetitions, maybe three to six. Two sessions a week is a good start.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "たくさん走っていると、実は大きな筋肉をつけるのは難しいのです。",
+   "points_ja": "run a lot が「ランナラット」、build big muscles が続けて聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "足が地面に着くと、蹴り出すまでにほんの一瞬しかありません。",
+   "points_ja": "foot hits the ground が続き、fraction of a second が「フラクシャナヴァセカンド」と聞こえます。"
+  },
+  {
+   "sentence": 25,
+   "ja": "より強い筋肉と腱は、走る衝撃の繰り返しによりよく耐えられます。",
+   "points_ja": "muscles and tendons の and は「ン」、impact of running が「インパクタヴランニング」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ランナーは筋トレをすべきでない",
+    "重い筋トレが長距離ランナーを速く効率的にし、けがの予防にも役立つ",
+    "筋トレで体重が大きく増える",
+    "腱は柔らかいほどよい"
+   ],
+   "answer": 1,
+   "explanation_ja": "神経系の適応、RFD、腱の硬さ、具体的な方法を話しています。"
+  },
+  {
+   "q": "neural adaptation の説明は？",
+   "options": [
+    "神経が切れる",
+    "反射がなくなる",
+    "神経系がより多くの筋線維を同時に効果的に使えるようになる",
+    "筋肉が大きくなる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Your nervous system learns to use more muscle fibers at the same time and to fire them more effectively.\""
+  },
+  {
+   "q": "rate of force development の意味は？",
+   "options": [
+    "柔軟性",
+    "最大の力",
+    "持久力",
+    "どれだけ素早く力を出せるか"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Strength training improves your rate of force development, how quickly you can produce force.\""
+  },
+  {
+   "q": "tendon stiffness が良い理由は？",
+   "options": [
+    "けがをしにくくなるだけ",
+    "見た目がよくなるから",
+    "柔らかくなるから",
+    "硬い腱はより良いバネとしてエネルギーを蓄えて返すから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A stiffer tendon works like a better spring. It stores and returns energy more effectively\"。"
+  },
+  {
+   "q": "B が最初にすべきだと言っていることは？",
+   "options": [
+    "できればコーチと一緒に、正しいフォームを学ぶ",
+    "最も重い重さを持つ",
+    "一人で始める",
+    "毎日行う"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"And learn proper technique first, ideally with a coach.\""
+  }
+ ]
+}

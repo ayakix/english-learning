@@ -1,0 +1,114 @@
+{
+ "id": "av040",
+ "author": "claude",
+ "summary_ja": "航空はグリーン化が最も難しい産業の一つで、当面の現実的な解決策は持続可能な航空燃料（SAF）。廃食油や動物性油脂、農業・木材の廃棄物、二酸化炭素と水素などから作る。最大の特徴は今の機体やエンジンを変えずに混ぜて使える「ドロップイン燃料」であること（最大50%）。燃やせば CO2 は出るが、原料からのライフサイクル全体では大きく減らせる。課題は供給量とコスト。",
+ "listening": [
+  {
+   "q": "SAF の原料として話されていないものは？",
+   "options": [
+    "廃食油",
+    "農業廃棄物",
+    "原油",
+    "動物性油脂"
+   ],
+   "answer": 2,
+   "explanation_ja": "通常のジェット燃料は原油から作るが、SAF は他の原料から作ると説明しています。"
+  },
+  {
+   "q": "drop-in fuel の意味は？",
+   "options": [
+    "少しずつ入れる燃料",
+    "緊急用の燃料",
+    "今の機体や設備を変えずに、普通の燃料と混ぜて使える燃料",
+    "空から落とす燃料"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This means it can be mixed with regular jet fuel and used in today's aircraft ... without changing the engines.\""
+  },
+  {
+   "q": "SAF の課題は？",
+   "options": [
+    "効果がない",
+    "供給量が少なく、値段が高い",
+    "危険",
+    "エンジンが壊れる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The challenge is supply and cost.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "電池は長距離飛行にはまだ重すぎ、水素の航空機は何年も先です。",
+   "points_ja": "still too heavy がつながり、hydrogen aircraft are が続けて聞こえます。"
+  },
+  {
+   "sentence": 3,
+   "ja": "通常のジェット燃料は原油から作られます。",
+   "points_ja": "jet fuel is made from が一続きに聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "政府と航空会社は今、それを変えるために多額の投資をしています。",
+   "points_ja": "Governments and airlines の and は「ン」、investing heavily がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "SAF は今の機体で使える現実的な脱炭素の手段だが、供給とコストが課題",
+    "電気飛行機がすでに主流",
+    "SAF は CO2 を出さない",
+    "航空はグリーン化が簡単"
+   ],
+   "answer": 0,
+   "explanation_ja": "SAF の原料、ドロップイン、ライフサイクル排出、課題を説明しています。"
+  },
+  {
+   "q": "航空のグリーン化が難しい理由として挙げられているのは？",
+   "options": [
+    "燃料が安いから",
+    "法律がないから",
+    "飛行機が少ないから",
+    "電池は重すぎ、水素機は何年も先だから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Batteries are still too heavy for long flights, and hydrogen aircraft are many years away.\""
+  },
+  {
+   "q": "現在認められている SAF の混合割合は？",
+   "options": [
+    "混ぜてはいけない",
+    "最大5%",
+    "最大50%（種類による）",
+    "100%"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Current rules allow blends of up to fifty percent SAF, depending on the type.\""
+  },
+  {
+   "q": "lifecycle emissions の意味は？",
+   "options": [
+    "空港の排出",
+    "工場の排出",
+    "原料の生産から燃焼までのすべての排出",
+    "燃やしたときだけの排出"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This means all emissions, from producing the raw material to burning the fuel.\""
+  },
+  {
+   "q": "植物由来の原料が排出を減らす理由は？",
+   "options": [
+    "植物は燃えないから",
+    "植物は軽いから",
+    "植物は育つときに CO2 を吸収するから",
+    "植物は安いから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"For example, plants absorb carbon dioxide as they grow.\""
+  }
+ ]
+}

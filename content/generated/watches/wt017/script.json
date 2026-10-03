@@ -1,0 +1,229 @@
+{
+ "id": "wt017",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Prestige of the Geneva Seal",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "Poinçon de Genève",
+  "Geneva Seal",
+  "chronometric precision"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Some Swiss watches carry a small mark called the Geneva Seal. What does that mean?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's a quality label, and one of the oldest in watchmaking. It was created in eighteen eighty-six by the Canton of Geneva. In French, it's called the Poinçon de Genève."
+  },
+  {
+   "speaker": "A",
+   "text": "So it's not run by a company?"
+  },
+  {
+   "speaker": "B",
+   "text": "No, that's important. It's controlled by an official office in Geneva. The watch has to be assembled and adjusted in the canton, and it has to meet a long list of rules."
+  },
+  {
+   "speaker": "A",
+   "text": "What kind of rules?"
+  },
+  {
+   "speaker": "B",
+   "text": "Many are about finishing. For example, edges must be beveled and polished, and screw heads must be finished in a certain way. Even parts you can't see are checked."
+  },
+  {
+   "speaker": "A",
+   "text": "That sounds strict."
+  },
+  {
+   "speaker": "B",
+   "text": "It is. And since twenty twelve, the rules also test the finished watch. They check things like water resistance and accuracy. One test is that after seven days, the watch shouldn't be more than one minute off."
+  },
+  {
+   "speaker": "A",
+   "text": "So it's about both beauty and chronometric precision."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. Only a small number of watches each year receive the seal. For many collectors, it's a guarantee that the watch was made with real care, from the inside out."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Some Swiss watches carry a small mark called the Geneva Seal.",
+   "start": 0.0,
+   "end": 4.56,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What does that mean?",
+   "start": 4.99,
+   "end": 6.11,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's a quality label, and one of the oldest in watchmaking.",
+   "start": 6.83,
+   "end": 10.75,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It was created in eighteen eighty-six by the Canton of Geneva.",
+   "start": 11.18,
+   "end": 15.18,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "In French, it's called the Poinçon de Genève.",
+   "start": 15.61,
+   "end": 18.65,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So it's not run by a company?",
+   "start": 19.37,
+   "end": 21.69,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "No, that's important.",
+   "start": 22.41,
+   "end": 24.09,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's controlled by an official office in Geneva.",
+   "start": 24.84,
+   "end": 27.72,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The watch has to be assembled and adjusted in the canton, and it has to meet a long list of rules.",
+   "start": 28.31,
+   "end": 34.39,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What kind of rules?",
+   "start": 35.11,
+   "end": 36.71,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many are about finishing.",
+   "start": 37.43,
+   "end": 39.39,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "For example, edges must be beveled and polished, and screw heads must be finished in a certain way.",
+   "start": 39.94,
+   "end": 45.94,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Even parts you can't see are checked.",
+   "start": 46.77,
+   "end": 49.17,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That sounds strict.",
+   "start": 49.89,
+   "end": 51.57,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It is.",
+   "start": 52.37,
+   "end": 53.01,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And since twenty twelve, the rules also test the finished watch.",
+   "start": 53.52,
+   "end": 57.92,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "They check things like water resistance and accuracy.",
+   "start": 58.31,
+   "end": 61.63,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "One test is that after seven days, the watch shouldn't be more than one minute off.",
+   "start": 62.06,
+   "end": 67.18,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So it's about both beauty and chronometric precision.",
+   "start": 67.9,
+   "end": 71.82,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 72.54,
+   "end": 73.34,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Only a small number of watches each year receive the seal.",
+   "start": 74.09,
+   "end": 77.53,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "For many collectors, it's a guarantee that the watch was made with real care, from the inside out.",
+   "start": 78.2,
+   "end": 84.6,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 195,
+ "duration": 84.5,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 59,
+ "created": "2026-10-03 23:44"
+}

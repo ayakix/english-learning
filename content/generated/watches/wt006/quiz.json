@@ -1,0 +1,114 @@
+{
+ "id": "wt006",
+ "author": "claude",
+ "summary_ja": "ギョーシェは金属に細い線を彫る模様で、ローズエンジンという旋盤で作る。文字盤が回り、カムに沿って前後に動くことで波や花びらの形ができる。伝統的な機械は手で操作し、一本ずつ彫るので失敗できない。線が光をとらえ、印刷では出せない奥行きが出る。",
+ "listening": [
+  {
+   "q": "ギョーシェについて正しいものは？",
+   "options": [
+    "金属に彫られた細い線の模様",
+    "エナメルで描いた絵",
+    "シールで貼った模様",
+    "印刷された模様"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"it's actually cut into the metal\"、\"a pattern of fine lines engraved into a surface\"。"
+  },
+  {
+   "q": "ローズエンジンで模様ができる仕組みは？",
+   "options": [
+    "型を押しつける",
+    "レーザーで焼く",
+    "薬品で溶かす",
+    "回る文字盤がカムに沿って少し前後に動き、刃が線を彫る"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The dial turns slowly while a sharp cutting tool touches the surface. At the same time, the dial moves slightly in and out, following a set of metal cams.\""
+  },
+  {
+   "q": "わざわざ手間をかける理由として B が挙げたのは？",
+   "options": [
+    "光の当たり方で模様が動いて見える奥行き",
+    "防水性が上がること",
+    "軽くなること",
+    "安く作れること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Because of the light ... the dial seems to move as you turn your wrist.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "英語ではエンジンターニングとも呼ばれます。エンジンと呼ばれる特別な機械で作られるからです。",
+   "points_ja": "made with a がつながり「メイドウィザ」、called an が「コールダン」になります。"
+  },
+  {
+   "sentence": 14,
+   "ja": "線は一本ずつ彫られ、それから次の線のために文字盤がほんの少し動かされます。",
+   "points_ja": "cut separately の t は飲み込まれ、a tiny bit の a はほとんど聞こえません。"
+  },
+  {
+   "sentence": 19,
+   "ja": "安定した落ち着いたリズムが必要です。",
+   "points_ja": "need a がつながり「ニーダ」になります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の内容として最も適切なものは？",
+   "options": [
+    "ローズエンジンの値段",
+    "印刷技術の進歩",
+    "時計の文字盤の歴史全般",
+    "ギョーシェの作り方と、その美しさの理由"
+   ],
+   "answer": 3,
+   "explanation_ja": "作り方（ローズエンジン、手作業）と光による美しさを話しています。"
+  },
+  {
+   "q": "engine-turning と呼ばれる理由は？",
+   "options": [
+    "回転する文字盤を使うから",
+    "エンジンのように速く作れるから",
+    "エンジンと呼ばれる機械で作るから",
+    "車のエンジンの部品に使われたから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"because it's made with a special machine called an engine\"。"
+  },
+  {
+   "q": "伝統的な機械での作業について正しいものは？",
+   "options": [
+    "コンピューターで制御する",
+    "職人がハンドルを回し、感覚で圧力を調整する",
+    "全自動である",
+    "一度に全部の線を彫る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the craftsperson turns a handle and controls the pressure by feel.\""
+  },
+  {
+   "q": "\"lose your rhythm\" したら何が起こる？",
+   "options": [
+    "線が太くなって美しくなる",
+    "機械が止まる",
+    "模様が自動で直る",
+    "すぐに失敗が見える"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"If you cut too deep or lose your rhythm, you see it immediately.\""
+  },
+  {
+   "q": "作業が音楽にたとえられる理由は？",
+   "options": [
+    "機械が音を出すから",
+    "職人が歌いながら作るから",
+    "模様が楽譜に似ているから",
+    "安定した落ち着いたリズムが必要だから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"many people describe the work as almost like music. You need a steady, calm rhythm.\""
+  }
+ ]
+}

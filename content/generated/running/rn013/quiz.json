@@ -1,0 +1,114 @@
+{
+ "id": "rn013",
+ "author": "claude",
+ "summary_ja": "HRV（心拍変動）は、心拍の間隔のばらつきを測る指標。毎分60拍でも間隔は0.9秒、1.1秒と少しずつ違う。このばらつきは自律神経が調整し、休息・消化を担う副交感神経が優位だとリラックスして回復している。一般に HRV が高いと回復しており、いつもより低いとストレス、睡眠不足、病気、練習過多のサイン。個人差が大きく日々ぶれるので、毎朝同じ時間に測り、1週間以上の傾向を見る。",
+ "listening": [
+  {
+   "q": "HRV が測っているものは？",
+   "options": [
+    "1分間の心拍数",
+    "血圧",
+    "体温",
+    "心拍の間隔のばらつき"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"HRV measures how much these gaps vary.\""
+  },
+  {
+   "q": "いつもより HRV が低いと何のサインになりうる？",
+   "options": [
+    "ストレス、睡眠不足、病気、きつい練習",
+    "水分不足だけ",
+    "十分な回復",
+    "体重の減少"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"A lower HRV than usual can be a sign of stress, poor sleep, illness or heavy training.\""
+  },
+  {
+   "q": "専門家が勧める HRV の使い方は？",
+   "options": [
+    "1日1回の値だけで判断する",
+    "夜寝る前に測る",
+    "他人と数値を比べる",
+    "毎朝同じ時間に測り、1週間以上の傾向を見る"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Experts recommend measuring at the same time each morning and looking at the trend over a week or more.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "多くのアスリートが今、ハードに練習するか休むかを決めるのにそれを使っています。",
+   "points_ja": "use it to decide が続き、train hard or rest の or は弱形です。"
+  },
+  {
+   "sentence": 4,
+   "ja": "心臓は完璧なメトロノームのようには打ちません。",
+   "points_ja": "does not beat が続き、like a perfect が「ライカパーフェクト」と聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "一般に、HRV が高いほど体がリラックスし回復していることを示します。",
+   "points_ja": "In general が「イネジェネラル」とつながり、relaxed and recovered の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "HRV は高いほど病気",
+    "HRV は回復の目安になるが、個人の傾向として慎重に使うべき",
+    "スマートウォッチは不要",
+    "心臓は一定のリズムで打つ"
+   ],
+   "answer": 1,
+   "explanation_ja": "HRV の意味、自律神経との関係、使い方の注意を説明しています。"
+  },
+  {
+   "q": "autonomic nervous system の説明は？",
+   "options": [
+    "考えるための脳",
+    "自動的に働く神経系の一部",
+    "筋肉の神経",
+    "目の神経"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the part of the nervous system that works automatically.\""
+  },
+  {
+   "q": "parasympathetic tone が高い状態とは？",
+   "options": [
+    "興奮している",
+    "運動中",
+    "眠れない",
+    "休息・消化を担う落ち着かせる側の働きが強い"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The other side, often called the rest and digest system ... Strong activity in this calming side is called high parasympathetic tone.\""
+  },
+  {
+   "q": "他人の HRV と比べても意味がない理由は？",
+   "options": [
+    "測り方が違うから",
+    "HRV はとても個人的なものだから",
+    "年齢が違うから",
+    "時計の種類が違うから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"HRV is very personal, so comparing your number with someone else's is not useful.\""
+  },
+  {
+   "q": "最後の文の考え方は？",
+   "options": [
+    "感覚は信用できない",
+    "HRV は役に立たない",
+    "HRV は感覚を置き換えるものではなく、支えるもの",
+    "HRV だけを信じるべき"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It should support your feelings, not replace them.\""
+  }
+ ]
+}

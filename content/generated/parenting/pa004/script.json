@@ -1,0 +1,251 @@
+{
+ "id": "pa004",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Raising Bilingual Children at Home",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "bilingual",
+  "one parent, one language",
+  "code-switching"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "You're raising your children with two languages at home. How do you do it?"
+  },
+  {
+   "speaker": "B",
+   "text": "We use a method called one parent, one language. I always speak Japanese with the kids, and my husband always speaks English. That way, they get regular input in both languages."
+  },
+  {
+   "speaker": "A",
+   "text": "Doesn't that confuse them?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's a very common worry, but research doesn't support it. Children's brains are very good at handling two languages. Many children around the world grow up bilingual."
+  },
+  {
+   "speaker": "A",
+   "text": "Do bilingual children start talking later?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some might seem a little slower in one language at first, because their vocabulary is split between two. But if you count the words in both languages together, they're usually on track."
+  },
+  {
+   "speaker": "A",
+   "text": "My friend's son mixes Japanese and English in one sentence. Is that a problem?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not at all. It's called code-switching, and even adult bilinguals do it. It shows that the child knows both languages and uses whatever word comes first."
+  },
+  {
+   "speaker": "A",
+   "text": "What's the hardest part?"
+  },
+  {
+   "speaker": "B",
+   "text": "Keeping the minority language strong. When kids start school, they often prefer the main language of the country. So we read books, watch shows and visit family to keep both languages alive."
+  },
+  {
+   "speaker": "A",
+   "text": "Any advice for parents who want to try?"
+  },
+  {
+   "speaker": "B",
+   "text": "Be consistent, be patient and make it fun. A language connected to love and play is much easier to keep."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "You're raising your children with two languages at home.",
+   "start": 0.0,
+   "end": 3.04,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How do you do it?",
+   "start": 3.47,
+   "end": 4.43,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "We use a method called one parent, one language.",
+   "start": 5.23,
+   "end": 8.67,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "I always speak Japanese with the kids, and my husband always speaks English.",
+   "start": 9.26,
+   "end": 13.66,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "That way, they get regular input in both languages.",
+   "start": 14.49,
+   "end": 17.77,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Doesn't that confuse them?",
+   "start": 18.49,
+   "end": 20.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That's a very common worry, but research doesn't support it.",
+   "start": 20.89,
+   "end": 24.97,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Children's brains are very good at handling two languages.",
+   "start": 25.72,
+   "end": 29.32,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Many children around the world grow up bilingual.",
+   "start": 29.91,
+   "end": 32.87,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Do bilingual children start talking later?",
+   "start": 33.59,
+   "end": 36.31,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some might seem a little slower in one language at first, because their vocabulary is split between two.",
+   "start": 37.03,
+   "end": 42.95,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But if you count the words in both languages together, they're usually on track.",
+   "start": 43.78,
+   "end": 48.26,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "My friend's son mixes Japanese and English in one sentence.",
+   "start": 48.98,
+   "end": 53.06,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Is that a problem?",
+   "start": 53.49,
+   "end": 54.61,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Not at all.",
+   "start": 55.33,
+   "end": 56.13,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It's called code-switching, and even adult bilinguals do it.",
+   "start": 56.56,
+   "end": 60.72,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It shows that the child knows both languages and uses whatever word comes first.",
+   "start": 61.55,
+   "end": 66.43,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "What's the hardest part?",
+   "start": 67.15,
+   "end": 68.75,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Keeping the minority language strong.",
+   "start": 69.47,
+   "end": 71.63,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "When kids start school, they often prefer the main language of the country.",
+   "start": 72.06,
+   "end": 77.1,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So we read books, watch shows and visit family to keep both languages alive.",
+   "start": 77.53,
+   "end": 82.97,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Any advice for parents who want to try?",
+   "start": 83.77,
+   "end": 86.17,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Be consistent, be patient and make it fun.",
+   "start": 86.89,
+   "end": 90.25,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "A language connected to love and play is much easier to keep.",
+   "start": 91.08,
+   "end": 95.08,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 218,
+ "duration": 95.0,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 67,
+ "created": "2026-10-03 23:57"
+}

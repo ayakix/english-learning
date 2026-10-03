@@ -1,0 +1,265 @@
+{
+ "id": "pa017",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Easing Separation Anxiety at School",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "separation anxiety",
+  "goodbye routine",
+  "transition"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Starting nursery or school can be hard for young children. Many cry when their parents leave. Is that normal?"
+  },
+  {
+   "speaker": "B",
+   "text": "Completely normal. It's called separation anxiety. Young children are strongly attached to their parents, so being apart in a new place can feel scary."
+  },
+  {
+   "speaker": "A",
+   "text": "How can parents make it easier?"
+  },
+  {
+   "speaker": "B",
+   "text": "One of the best tools is a goodbye routine. That's a short, predictable way of saying goodbye. For example, two hugs, a high five and 'See you after lunch.' Doing it the same way every day helps the child feel secure."
+  },
+  {
+   "speaker": "A",
+   "text": "Short is important?"
+  },
+  {
+   "speaker": "B",
+   "text": "Very important. Long goodbyes often make things worse. When the parent stays and looks worried, the child senses that something is wrong."
+  },
+  {
+   "speaker": "A",
+   "text": "Some parents sneak away while the child is playing. Is that a good idea?"
+  },
+  {
+   "speaker": "B",
+   "text": "It may avoid tears in the moment, but most experts don't recommend it. The child may suddenly notice the parent is gone and feel they can't trust them. It's better to say goodbye clearly, even if there are tears."
+  },
+  {
+   "speaker": "A",
+   "text": "What else can help with the transition?"
+  },
+  {
+   "speaker": "B",
+   "text": "Talking about the new place before it starts, visiting together and reading books about school. Some children like to bring a small comfort object from home."
+  },
+  {
+   "speaker": "A",
+   "text": "How long does it usually last?"
+  },
+  {
+   "speaker": "B",
+   "text": "For most children, a few days or weeks. And teachers often say the crying stops just a few minutes after the parent leaves."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Starting nursery or school can be hard for young children.",
+   "start": 0.0,
+   "end": 3.92,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many cry when their parents leave.",
+   "start": 4.35,
+   "end": 6.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is that normal?",
+   "start": 7.1,
+   "end": 8.14,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Completely normal.",
+   "start": 8.86,
+   "end": 10.06,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's called separation anxiety.",
+   "start": 10.73,
+   "end": 12.77,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Young children are strongly attached to their parents, so being apart in a new place can feel scary.",
+   "start": 13.4,
+   "end": 19.64,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How can parents make it easier?",
+   "start": 20.36,
+   "end": 22.6,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One of the best tools is a goodbye routine.",
+   "start": 23.32,
+   "end": 25.88,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That's a short, predictable way of saying goodbye.",
+   "start": 26.79,
+   "end": 29.75,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "For example, two hugs, a high five and 'See you after lunch.'",
+   "start": 30.14,
+   "end": 34.58,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Doing it the same way every day helps the child feel secure.",
+   "start": 35.01,
+   "end": 38.93,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Short is important?",
+   "start": 39.73,
+   "end": 41.49,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Very important.",
+   "start": 42.29,
+   "end": 43.49,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Long goodbyes often make things worse.",
+   "start": 44.32,
+   "end": 47.12,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "When the parent stays and looks worried, the child senses that something is wrong.",
+   "start": 47.55,
+   "end": 52.35,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Some parents sneak away while the child is playing.",
+   "start": 53.07,
+   "end": 56.51,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Is that a good idea?",
+   "start": 56.94,
+   "end": 58.3,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It may avoid tears in the moment, but most experts don't recommend it.",
+   "start": 59.02,
+   "end": 63.54,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The child may suddenly notice the parent is gone and feel they can't trust them.",
+   "start": 64.09,
+   "end": 68.65,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It's better to say goodbye clearly, even if there are tears.",
+   "start": 69.04,
+   "end": 72.84,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "What else can help with the transition?",
+   "start": 73.56,
+   "end": 75.8,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Talking about the new place before it starts, visiting together and reading books about school.",
+   "start": 76.52,
+   "end": 82.4,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Some children like to bring a small comfort object from home.",
+   "start": 83.03,
+   "end": 86.39,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "How long does it usually last?",
+   "start": 87.19,
+   "end": 89.43,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "For most children, a few days or weeks.",
+   "start": 90.23,
+   "end": 93.07,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "And teachers often say the crying stops just a few minutes after the parent leaves.",
+   "start": 93.62,
+   "end": 98.58,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 230,
+ "duration": 98.5,
+ "wpm": 140,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:58"
+}

@@ -1,0 +1,187 @@
+{
+ "id": "fi005",
+ "author": "claude",
+ "category": "finance",
+ "title": "Inflation and the Value of Money",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "inflation",
+  "purchasing power",
+  "cash"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine you keep one million yen in a drawer for twenty years. When you take it out, you still have one million yen. Nothing was lost, right? Unfortunately, that is not quite true, because of inflation."
+  },
+  {
+   "speaker": "A",
+   "text": "Inflation is the general rise in prices over time. When prices rise, each yen buys a little less than before. Economists call this the loss of purchasing power. Your money has the same number on it, but it can buy fewer things."
+  },
+  {
+   "speaker": "A",
+   "text": "Even small inflation adds up. If prices rise by two percent a year, something that costs one thousand yen today will cost about one thousand five hundred yen in around twenty years. Put another way, the real value of money kept as cash can fall to about half in around thirty-five years."
+  },
+  {
+   "speaker": "A",
+   "text": "For many years, Japan had very low inflation, or even falling prices, so keeping cash felt safe. But in recent years, prices of food, energy and many other goods have risen. This has made more people think about inflation."
+  },
+  {
+   "speaker": "A",
+   "text": "This is one of the main reasons people invest. Over long periods, stocks have generally grown faster than inflation, although they go up and down along the way. Some bonds and savings products are also designed to keep up with prices."
+  },
+  {
+   "speaker": "A",
+   "text": "Of course, everyone needs some cash for daily life and emergencies. But money that you will not need for many years may lose value quietly if it just sits in a drawer."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine you keep one million yen in a drawer for twenty years.",
+   "start": 0.0,
+   "end": 4.2,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When you take it out, you still have one million yen.",
+   "start": 4.83,
+   "end": 7.71,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Nothing was lost, right?",
+   "start": 8.54,
+   "end": 10.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Unfortunately, that is not quite true, because of inflation.",
+   "start": 10.89,
+   "end": 15.21,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Inflation is the general rise in prices over time.",
+   "start": 15.73,
+   "end": 19.37,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When prices rise, each yen buys a little less than before.",
+   "start": 20.0,
+   "end": 24.24,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Economists call this the loss of purchasing power.",
+   "start": 24.91,
+   "end": 28.03,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Your money has the same number on it, but it can buy fewer things.",
+   "start": 28.94,
+   "end": 32.94,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Even small inflation adds up.",
+   "start": 33.46,
+   "end": 35.62,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If prices rise by two percent a year, something that costs one thousand yen today will cost about one thousand five hundred yen in around twenty years.",
+   "start": 36.45,
+   "end": 45.97,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Put another way, the real value of money kept as cash can fall to about half in around thirty-five years.",
+   "start": 46.64,
+   "end": 53.44,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For many years, Japan had very low inflation, or even falling prices, so keeping cash felt safe.",
+   "start": 53.96,
+   "end": 61.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "But in recent years, prices of food, energy and many other goods have risen.",
+   "start": 62.31,
+   "end": 67.11,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This has made more people think about inflation.",
+   "start": 68.02,
+   "end": 70.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This is one of the main reasons people invest.",
+   "start": 71.42,
+   "end": 73.98,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Over long periods, stocks have generally grown faster than inflation, although they go up and down along the way.",
+   "start": 74.89,
+   "end": 81.65,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some bonds and savings products are also designed to keep up with prices.",
+   "start": 82.36,
+   "end": 86.76,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course, everyone needs some cash for daily life and emergencies.",
+   "start": 87.28,
+   "end": 91.64,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "But money that you will not need for many years may lose value quietly if it just sits in a drawer.",
+   "start": 92.27,
+   "end": 98.43,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 242,
+ "duration": 98.3,
+ "wpm": 148,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-04 00:01"
+}

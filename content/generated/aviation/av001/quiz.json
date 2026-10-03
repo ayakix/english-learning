@@ -1,0 +1,114 @@
+{
+ "id": "av001",
+ "author": "claude",
+ "summary_ja": "フライト追跡アプリの情報の多くは ADS-B から来ている。航空機は衛星測位で自分の位置を知り、1秒に約2回、識別・位置・高度・速度を1090MHzで発信する（ADS-B Out）。管制の地上局だけでなく他の航空機や家庭の受信機でも受信できる。レーダーより正確で更新が速く、多くの地域で搭載が義務づけられている。",
+ "listening": [
+  {
+   "q": "ADS-B Out で航空機がすることは？",
+   "options": [
+    "自分の位置などを無線で繰り返し発信する",
+    "管制に電話する",
+    "他の航空機を追跡する",
+    "レーダーの電波を反射する"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Then it broadcasts that information by radio, again and again ... This sending part is called ADS-B Out.\""
+  },
+  {
+   "q": "ADS-B の信号を受信できるのは？",
+   "options": [
+    "管制、他の航空機、自宅の受信機を持つ愛好家",
+    "管制だけ",
+    "パイロットだけ",
+    "航空会社だけ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Air traffic control ground stations, of course. But also other aircraft, and even hobbyists\"。"
+  },
+  {
+   "q": "レーダーより優れている点は？",
+   "options": [
+    "雲の中が見える",
+    "より正確な位置を、より頻繁に伝えられる",
+    "費用がかからない",
+    "音声で伝えられる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"ADS-B gives a more precise position, more often.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "まず、航空機は GPS などの衛星測位を使って自分の位置を求めます。",
+   "points_ja": "finds its own がつながり、such as が「サッチャズ」と聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "メッセージは暗号化されていないので、適切な機器があれば誰でも聞くことができます。",
+   "points_ja": "messages are not がつながり、with the right の the は弱形です。"
+  },
+  {
+   "sentence": 15,
+   "ja": "レーダー局を建てるのが難しい地域でも使えます。",
+   "points_ja": "works in areas がつながり、stations is difficult が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "スマホアプリの作り方",
+    "飛行機の操縦方法",
+    "GPS の発明の歴史",
+    "ADS-B の仕組みと、レーダーより優れた点"
+   ],
+   "answer": 3,
+   "explanation_ja": "仕組み、受信者、利点、義務化を説明しています。"
+  },
+  {
+   "q": "ADS-B のメッセージに含まれないものは？",
+   "options": [
+    "高度",
+    "機体の識別",
+    "乗客の名前",
+    "位置"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"identity, its position, its altitude and its speed\" で、乗客の名前は含まれません。"
+  },
+  {
+   "q": "発信の頻度は？",
+   "options": [
+    "1秒に約2回",
+    "離陸時だけ",
+    "1時間に1回",
+    "1分に1回"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"about twice every second.\""
+  },
+  {
+   "q": "信号を送る装置は？",
+   "options": [
+    "気象レーダー",
+    "ブラックボックス",
+    "Mode S トランスポンダー",
+    "無線電話"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"using the same equipment that answers radar, called a Mode S transponder.\""
+  },
+  {
+   "q": "多くの航空機に ADS-B Out が義務づけられている地域として挙げられているのは？",
+   "options": [
+    "どこにも義務はない",
+    "アメリカやヨーロッパなど",
+    "アフリカだけ",
+    "日本だけ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"ADS-B Out is now required for many aircraft in the United States, Europe and other regions.\""
+  }
+ ]
+}

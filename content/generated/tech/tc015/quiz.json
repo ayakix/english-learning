@@ -1,0 +1,114 @@
+{
+ "id": "tc015",
+ "author": "claude",
+ "summary_ja": "アプリを開いた最初の数分（オンボーディング）は重要。説明画面を5、6枚見せると多くの人は飛ばすか去る。目標は「価値を得るまでの時間」を短くすること（ToDo なら最初のタスク追加）。通知などの許可は、リマインダーを作るときなど文脈の中で理由とともに頼む。アカウント登録も早すぎないように。最初のセッションの離脱を測って改善し、解約（チャーン）を減らす。",
+ "listening": [
+  {
+   "q": "よくあるオンボーディングの失敗は？",
+   "options": [
+    "画面が少なすぎること",
+    "音がないこと",
+    "説明画面が長すぎること",
+    "色が地味なこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A common mistake is making onboarding too long.\""
+  },
+  {
+   "q": "通知の許可はいつ頼むのがよい？",
+   "options": [
+    "頼まない",
+    "アプリを開いた瞬間",
+    "リマインダーを作るときなど、文脈の中で理由を説明して",
+    "インストール前"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Ask when the user creates a reminder, and explain why.\""
+  },
+  {
+   "q": "話し手のまとめは？",
+   "options": [
+    "説明は長いほうがよい",
+    "オンボーディングは説明ではなく、最初の価値の瞬間",
+    "オンボーディングは不要",
+    "登録を最初にすべき"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"In short, onboarding is not a tutorial. It is the first moment of value.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "混乱したり退屈したりすると、多くの人はアプリを削除して二度と戻りません。",
+   "points_ja": "confused or bored の or は弱形、delete it and が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "理由がはっきりしていると、人はより多くイエスと言います。",
+   "points_ja": "say yes more がつながり、reason is clear が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "また、アカウントを早く求めすぎないようにしましょう。",
+   "points_ja": "avoid asking for an account が一続きに聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "通知は最初にすべて許可してもらう",
+    "アカウント登録が最も大切",
+    "最初の体験で早く価値を感じてもらうことが、ユーザーの定着につながる",
+    "チュートリアルは長いほどよい"
+   ],
+   "answer": 2,
+   "explanation_ja": "価値までの時間、許可の頼み方、登録のタイミング、離脱の測定を説明しています。"
+  },
+  {
+   "q": "time to value の意味は？",
+   "options": [
+    "アップデートの間隔",
+    "アプリの読み込み時間",
+    "支払いまでの時間",
+    "アプリを開いてから最初の本当の利益を得るまでの時間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"This means the time between opening the app and getting the first real benefit.\""
+  },
+  {
+   "q": "写真アプリでの「最初の価値」の例は？",
+   "options": [
+    "写真を削除すること",
+    "最初の写真を編集すること",
+    "アカウントを作ること",
+    "広告を見ること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"For a photo app, editing the first picture.\""
+  },
+  {
+   "q": "アカウント登録を後にする利点は？",
+   "options": [
+    "サーバー費が安い",
+    "セキュリティが上がる",
+    "主な機能を先に試せると、後で登録してくれやすい",
+    "アプリが軽くなる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"If users can try the main feature first, they are more willing to sign up later.\""
+  },
+  {
+   "q": "churn の意味は？",
+   "options": [
+    "アプリを使うのをやめるユーザー",
+    "アプリの売上",
+    "アプリのバグ",
+    "新しいユーザー"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Churn means users who stop using an app.\""
+  }
+ ]
+}

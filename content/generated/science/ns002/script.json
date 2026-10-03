@@ -1,0 +1,180 @@
+{
+ "id": "ns002",
+ "author": "claude",
+ "category": "science",
+ "title": "How the Moon Moves the Tides",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "tide",
+  "gravity",
+  "high tide and low tide"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you spend a day at the beach, you will notice that the sea slowly moves. In some hours, the water comes high up the sand. Later, it moves far out, showing rocks and wet sand. This regular rise and fall of the sea is called the tide."
+  },
+  {
+   "speaker": "A",
+   "text": "The main cause is the moon. The moon's gravity pulls on everything on Earth, including the oceans. The side of the Earth facing the moon feels a slightly stronger pull, so the water there bulges toward the moon. This creates a high tide."
+  },
+  {
+   "speaker": "A",
+   "text": "Surprisingly, there is also a high tide on the opposite side of the Earth, away from the moon. This is because the moon pulls the Earth itself more strongly than the water on the far side. The water on that side is, in a sense, left behind, forming a second bulge."
+  },
+  {
+   "speaker": "A",
+   "text": "As the Earth rotates, most coastlines pass through both bulges each day. That is why many places have two high tides and two low tides roughly every twenty-four hours and fifty minutes."
+  },
+  {
+   "speaker": "A",
+   "text": "The sun also affects tides, but less strongly, because it is so far away. When the sun, moon and Earth line up, at new moon and full moon, the tides are especially high and low. These are called spring tides. When the sun and moon pull at right angles, the difference is smaller."
+  },
+  {
+   "speaker": "A",
+   "text": "So every wave that reaches the shore is quietly connected to the moon above."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you spend a day at the beach, you will notice that the sea slowly moves.",
+   "start": 0.0,
+   "end": 4.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In some hours, the water comes high up the sand.",
+   "start": 5.39,
+   "end": 8.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Later, it moves far out, showing rocks and wet sand.",
+   "start": 9.02,
+   "end": 13.1,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This regular rise and fall of the sea is called the tide.",
+   "start": 13.57,
+   "end": 17.29,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The main cause is the moon.",
+   "start": 17.81,
+   "end": 19.41,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The moon's gravity pulls on everything on Earth, including the oceans.",
+   "start": 20.08,
+   "end": 24.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The side of the Earth facing the moon feels a slightly stronger pull, so the water there bulges toward the moon.",
+   "start": 25.23,
+   "end": 32.03,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This creates a high tide.",
+   "start": 32.5,
+   "end": 34.14,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Surprisingly, there is also a high tide on the opposite side of the Earth, away from the moon.",
+   "start": 34.66,
+   "end": 40.58,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is because the moon pulls the Earth itself more strongly than the water on the far side.",
+   "start": 41.01,
+   "end": 46.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The water on that side is, in a sense, left behind, forming a second bulge.",
+   "start": 46.92,
+   "end": 52.08,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "As the Earth rotates, most coastlines pass through both bulges each day.",
+   "start": 52.6,
+   "end": 57.6,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why many places have two high tides and two low tides roughly every twenty-four hours and fifty minutes.",
+   "start": 58.31,
+   "end": 64.95,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The sun also affects tides, but less strongly, because it is so far away.",
+   "start": 65.55,
+   "end": 70.67,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When the sun, moon and Earth line up, at new moon and full moon, the tides are especially high and low.",
+   "start": 71.42,
+   "end": 78.22,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "These are called spring tides.",
+   "start": 79.21,
+   "end": 81.13,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When the sun and moon pull at right angles, the difference is smaller.",
+   "start": 81.8,
+   "end": 85.56,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So every wave that reaches the shore is quietly connected to the moon above.",
+   "start": 86.08,
+   "end": 91.12,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 241,
+ "duration": 91.0,
+ "wpm": 159,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:59"
+}

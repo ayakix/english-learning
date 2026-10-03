@@ -1,0 +1,194 @@
+{
+ "id": "av012",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Carbon Fiber Composites in the Boeing 787 Fuselage",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "carbon fiber reinforced polymer (CFRP)",
+  "airframe",
+  "barrel section"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "For decades, airliners were built mostly from aluminum. The Boeing 787 changed that. About half of its structure, by weight, is made of composite materials, mainly carbon fiber reinforced polymer, or CFRP."
+  },
+  {
+   "speaker": "A",
+   "text": "CFRP is made of thin carbon fibers held together by a type of plastic. The fibers are extremely strong, and the plastic holds them in shape. The result is a material that is both very strong and very light."
+  },
+  {
+   "speaker": "A",
+   "text": "One of the most impressive parts is the fuselage, the main body of the airplane. Instead of joining many aluminum sheets with thousands of rivets, Boeing builds large one-piece barrel sections. These are formed around a giant mold, then heated in a huge oven to harden. The sections are joined together to make the full airframe."
+  },
+  {
+   "speaker": "A",
+   "text": "Why go to all this trouble? First, weight. A lighter airplane burns less fuel. Second, fewer joints and fasteners mean less work and fewer places for problems to start. Third, composites do not rust or corrode like metal, and they handle repeated stress very well."
+  },
+  {
+   "speaker": "A",
+   "text": "There are challenges too. Repairing composites requires special skills and tools. Damage under the surface can be harder to see than a dent in metal."
+  },
+  {
+   "speaker": "A",
+   "text": "Even so, the 787 showed that composite airliners can work. The Airbus A350 followed with a similar approach, and composites are now central to new aircraft design."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "For decades, airliners were built mostly from aluminum.",
+   "start": 0.0,
+   "end": 3.28,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The Boeing 787 changed that.",
+   "start": 4.11,
+   "end": 6.11,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "About half of its structure, by weight, is made of composite materials, mainly carbon fiber reinforced polymer, or CFRP.",
+   "start": 6.86,
+   "end": 15.1,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "CFRP is made of thin carbon fibers held together by a type of plastic.",
+   "start": 15.62,
+   "end": 20.42,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The fibers are extremely strong, and the plastic holds them in shape.",
+   "start": 21.25,
+   "end": 24.85,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The result is a material that is both very strong and very light.",
+   "start": 25.68,
+   "end": 29.84,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One of the most impressive parts is the fuselage, the main body of the airplane.",
+   "start": 30.36,
+   "end": 35.32,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of joining many aluminum sheets with thousands of rivets, Boeing builds large one-piece barrel sections.",
+   "start": 35.83,
+   "end": 42.87,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "These are formed around a giant mold, then heated in a huge oven to harden.",
+   "start": 43.3,
+   "end": 48.1,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The sections are joined together to make the full airframe.",
+   "start": 48.49,
+   "end": 51.49,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why go to all this trouble?",
+   "start": 52.01,
+   "end": 53.45,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "First, weight.",
+   "start": 54.36,
+   "end": 55.48,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A lighter airplane burns less fuel.",
+   "start": 56.23,
+   "end": 58.35,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, fewer joints and fasteners mean less work and fewer places for problems to start.",
+   "start": 58.98,
+   "end": 64.5,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Third, composites do not rust or corrode like metal, and they handle repeated stress very well.",
+   "start": 65.05,
+   "end": 71.09,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "There are challenges too.",
+   "start": 71.61,
+   "end": 72.89,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Repairing composites requires special skills and tools.",
+   "start": 73.64,
+   "end": 77.04,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Damage under the surface can be harder to see than a dent in metal.",
+   "start": 77.67,
+   "end": 81.27,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Even so, the 787 showed that composite airliners can work.",
+   "start": 81.79,
+   "end": 86.59,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The Airbus A350 followed with a similar approach, and composites are now central to new aircraft design.",
+   "start": 86.98,
+   "end": 93.34,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 224,
+ "duration": 93.3,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:51"
+}

@@ -1,0 +1,183 @@
+{
+ "id": "wt039",
+ "author": "claude",
+ "category": "watches",
+ "title": "Understanding Power Reserve Dynamics",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "power reserve",
+  "mainspring barrel",
+  "torque curve"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A fully wound mechanical watch can run for a certain time before it stops. This time is called the power reserve. For many watches, it is around forty to seventy hours. Some special models can run for a week or even longer."
+  },
+  {
+   "speaker": "A",
+   "text": "The energy is stored in the mainspring, a long, thin spring coiled inside a small drum called the mainspring barrel. As the watch runs, the spring slowly unwinds and turns the barrel, which drives the gears."
+  },
+  {
+   "speaker": "A",
+   "text": "However, the spring does not push with the same force all the time. Watchmakers describe this with a torque curve. Torque is the turning force of the spring. When the spring is fully wound, the torque is high. In the middle, it is fairly steady. Near the end, it drops quickly."
+  },
+  {
+   "speaker": "A",
+   "text": "This matters for accuracy. When the force changes, the swing of the balance wheel changes too, and the watch can gain or lose time. Many watches keep their best time in the steady middle part of the curve."
+  },
+  {
+   "speaker": "A",
+   "text": "So what does this mean for owners? If you wear a manual watch, it is a good habit to wind it at the same time every day, even if it still has power. Some watches also have a power reserve indicator on the dial. It shows how much energy is left, like a fuel gauge in a car."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "A fully wound mechanical watch can run for a certain time before it stops.",
+   "start": 0.0,
+   "end": 5.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This time is called the power reserve.",
+   "start": 5.79,
+   "end": 8.91,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For many watches, it is around forty to seventy hours.",
+   "start": 9.34,
+   "end": 13.42,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Some special models can run for a week or even longer.",
+   "start": 13.85,
+   "end": 17.53,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The energy is stored in the mainspring, a long, thin spring coiled inside a small drum called the mainspring barrel.",
+   "start": 18.05,
+   "end": 26.21,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "As the watch runs, the spring slowly unwinds and turns the barrel, which drives the gears.",
+   "start": 27.2,
+   "end": 33.6,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "However, the spring does not push with the same force all the time.",
+   "start": 34.12,
+   "end": 38.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Watchmakers describe this with a torque curve.",
+   "start": 39.51,
+   "end": 42.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Torque is the turning force of the spring.",
+   "start": 43.46,
+   "end": 46.1,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When the spring is fully wound, the torque is high.",
+   "start": 46.77,
+   "end": 50.45,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In the middle, it is fairly steady.",
+   "start": 50.84,
+   "end": 53.36,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Near the end, it drops quickly.",
+   "start": 53.83,
+   "end": 56.19,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This matters for accuracy.",
+   "start": 56.71,
+   "end": 58.79,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When the force changes, the swing of the balance wheel changes too, and the watch can gain or lose time.",
+   "start": 59.46,
+   "end": 66.82,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many watches keep their best time in the steady middle part of the curve.",
+   "start": 67.57,
+   "end": 71.89,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So what does this mean for owners?",
+   "start": 72.49,
+   "end": 74.57,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "If you wear a manual watch, it is a good habit to wind it at the same time every day, even if it still has power.",
+   "start": 75.56,
+   "end": 83.88,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some watches also have a power reserve indicator on the dial.",
+   "start": 84.35,
+   "end": 88.63,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It shows how much energy is left, like a fuel gauge in a car.",
+   "start": 89.1,
+   "end": 93.22,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 225,
+ "duration": 93.1,
+ "wpm": 145,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 64,
+ "created": "2026-10-03 23:46"
+}

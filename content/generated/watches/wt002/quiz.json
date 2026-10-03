@@ -1,0 +1,114 @@
+{
+ "id": "wt002",
+ "author": "claude",
+ "summary_ja": "ジャンピングアワーは、時の数字が窓の中で毎正時に一瞬で切り替わる表示。100年以上前の懐中時計にもあった。小さなばねが1時間かけて力をため、分針が12に来るとレバーが外れて一気に数字の円盤を進める。精度に影響しやすく、独立時計師の腕の見せどころ。",
+ "listening": [
+  {
+   "q": "ジャンピングアワーの特徴は？",
+   "options": [
+    "時針が速く回る",
+    "数字が光る",
+    "1時間ごとに音が鳴る",
+    "時の数字が毎正時に一瞬で切り替わる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"At the end of each hour, the number does not change slowly. It jumps.\""
+  },
+  {
+   "q": "数字を一気に進めるための力はどこから来る？",
+   "options": [
+    "電池",
+    "1時間かけて力をためる小さなばね",
+    "持ち主の手の動き",
+    "太陽の光"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a small spring slowly stores energy during the hour ... the spring releases its energy all at once.\""
+  },
+  {
+   "q": "作るのが難しい理由は？",
+   "options": [
+    "短い時間に大きな力が必要で、精度が落ちやすいから",
+    "デザインが古いから",
+    "部品が手に入らないから",
+    "数字が読みにくいから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The jump needs a lot of energy in a very short time, and that can make the watch less accurate.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "しかし、まったく違う方法で時を表示する時計もあります。",
+   "points_ja": "show the hour の the は弱く、hour の h は発音しません。in a very がつながります。"
+  },
+  {
+   "sentence": 10,
+   "ja": "すべて歯車とばねで行われます。",
+   "points_ja": "done with が「ダンウィズ」、gears and が「ギアーズン」と短くなります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "時の円盤が次の数字へパチッと進みます。",
+   "points_ja": "snaps forward の s が重なり、to the next の to と the は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "懐中時計の値段",
+    "ジャンピングアワーの仕組みと、その難しさ・魅力",
+    "デジタル時計の歴史",
+    "時計の電池交換"
+   ],
+   "answer": 1,
+   "explanation_ja": "仕組み（ばねとレバー）と、作る難しさ、手首の上の小さなドラマについて書かれています。"
+  },
+  {
+   "q": "ジャンピングアワーについて正しいものは？",
+   "options": [
+    "歯車とばねだけで動く",
+    "分も数字で跳ねる",
+    "電池と画面で動く",
+    "最近発明された"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"there is no battery and no screen. Everything is done with gears and springs.\""
+  },
+  {
+   "q": "弓のたとえ（pulling back a bow）が表しているのは？",
+   "options": [
+    "針が曲がること",
+    "音が鳴ること",
+    "時計が重いこと",
+    "ばねが少しずつ力をためること"
+   ],
+   "answer": 3,
+   "explanation_ja": "力をためてから一気に放つ様子を、矢を射る前に弓を引くことにたとえています。"
+  },
+  {
+   "q": "レバーが外れるのはいつ？",
+   "options": [
+    "1日の終わり",
+    "秒針が止まったとき",
+    "ゼンマイを巻いたとき",
+    "分針が12に来たとき"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"When the minute hand reaches twelve, a lever lets go\"。"
+  },
+  {
+   "q": "\"a small moment of drama on your wrist\" が表すものは？",
+   "options": [
+    "腕に重さを感じること",
+    "毎時ちょうどに数字が跳ねる瞬間の面白さ",
+    "時計が壊れる瞬間",
+    "時計を買うときの緊張"
+   ],
+   "answer": 1,
+   "explanation_ja": "数字が一瞬で切り替わる瞬間を、小さなドラマと表現しています。"
+  }
+ ]
+}

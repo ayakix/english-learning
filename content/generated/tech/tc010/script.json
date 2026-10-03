@@ -1,0 +1,265 @@
+{
+ "id": "tc010",
+ "author": "claude",
+ "category": "tech",
+ "title": "Accessibility by Design in iOS",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "VoiceOver",
+  "Dynamic Type",
+  "accessibility audit"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many indie developers think accessibility is something to add at the end. You disagree, right?"
+  },
+  {
+   "speaker": "B",
+   "text": "Completely. If you design for accessibility from the start, it's much easier and cheaper. And it usually makes the app better for everyone."
+  },
+  {
+   "speaker": "A",
+   "text": "Where should developers start?"
+  },
+  {
+   "speaker": "B",
+   "text": "Try your own app with VoiceOver. It's the screen reader built into iOS. It reads out what's on the screen, so people who are blind or have low vision can use the phone."
+  },
+  {
+   "speaker": "A",
+   "text": "What do people usually discover?"
+  },
+  {
+   "speaker": "B",
+   "text": "Buttons with only an icon and no label. VoiceOver might just say 'button,' and the user has no idea what it does. Adding a clear label takes one line of code."
+  },
+  {
+   "speaker": "A",
+   "text": "What else is important?"
+  },
+  {
+   "speaker": "B",
+   "text": "Dynamic Type. Many people increase the text size in their settings. If your layout breaks when the text gets bigger, those users struggle. So test your screens with the largest sizes."
+  },
+  {
+   "speaker": "A",
+   "text": "Any tools to help?"
+  },
+  {
+   "speaker": "B",
+   "text": "Xcode has an Accessibility Inspector that can run an accessibility audit. It checks for problems like missing labels, small touch targets and low color contrast."
+  },
+  {
+   "speaker": "A",
+   "text": "Does accessibility help the business too?"
+  },
+  {
+   "speaker": "B",
+   "text": "Definitely. Millions of people use these features every day. Many of them are loyal users and leave great reviews when an app works well for them. It's simply good design."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many indie developers think accessibility is something to add at the end.",
+   "start": 0.0,
+   "end": 4.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You disagree, right?",
+   "start": 4.91,
+   "end": 6.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Completely.",
+   "start": 7.23,
+   "end": 8.11,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "If you design for accessibility from the start, it's much easier and cheaper.",
+   "start": 8.86,
+   "end": 13.86,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "And it usually makes the app better for everyone.",
+   "start": 14.41,
+   "end": 17.45,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Where should developers start?",
+   "start": 18.17,
+   "end": 20.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Try your own app with VoiceOver.",
+   "start": 20.81,
+   "end": 22.97,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's the screen reader built into iOS.",
+   "start": 23.36,
+   "end": 26.04,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It reads out what's on the screen, so people who are blind or have low vision can use the phone.",
+   "start": 26.47,
+   "end": 31.75,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What do people usually discover?",
+   "start": 32.55,
+   "end": 34.87,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Buttons with only an icon and no label.",
+   "start": 35.59,
+   "end": 38.15,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "VoiceOver might just say 'button,' and the user has no idea what it does.",
+   "start": 39.06,
+   "end": 44.02,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Adding a clear label takes one line of code.",
+   "start": 44.53,
+   "end": 47.33,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "What else is important?",
+   "start": 48.05,
+   "end": 49.65,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Dynamic Type.",
+   "start": 50.37,
+   "end": 51.41,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Many people increase the text size in their settings.",
+   "start": 52.32,
+   "end": 55.4,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If your layout breaks when the text gets bigger, those users struggle.",
+   "start": 55.95,
+   "end": 60.35,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So test your screens with the largest sizes.",
+   "start": 60.78,
+   "end": 63.66,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Any tools to help?",
+   "start": 64.38,
+   "end": 65.9,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Xcode has an Accessibility Inspector that can run an accessibility audit.",
+   "start": 66.62,
+   "end": 71.42,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It checks for problems like missing labels, small touch targets and low color contrast.",
+   "start": 71.85,
+   "end": 77.37,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Does accessibility help the business too?",
+   "start": 78.09,
+   "end": 80.65,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Definitely.",
+   "start": 81.45,
+   "end": 82.25,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Millions of people use these features every day.",
+   "start": 83.16,
+   "end": 86.12,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Many of them are loyal users and leave great reviews when an app works well for them.",
+   "start": 86.55,
+   "end": 91.27,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "It's simply good design.",
+   "start": 91.7,
+   "end": 93.3,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 211,
+ "duration": 93.2,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 67,
+ "created": "2026-10-03 23:53"
+}

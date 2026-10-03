@@ -1,0 +1,114 @@
+{
+ "id": "tc039",
+ "author": "claude",
+ "summary_ja": "フードデリバリーやタクシーの進み具合をロック画面で見られるのが Live Activities、新しい iPhone ではカメラの周りの黒い部分（Dynamic Island）にも表示される。iOS 16 で導入され、ActivityKit で作る。アプリ起動中は直接更新、バックグラウンドではサーバーからのプッシュ通知で更新。短期のイベント向けで、表示時間に上限があり、狭いので本当に大切な情報を選ぶ必要がある。",
+ "listening": [
+  {
+   "q": "Live Activities とは？",
+   "options": [
+    "電話をかける機能",
+    "写真を撮る機能",
+    "動画を再生する機能",
+    "始まりと終わりがある作業の進み具合をリアルタイムで表示する機能"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"They show real-time updates for a task that has a clear beginning and end\"。"
+  },
+  {
+   "q": "アプリがバックグラウンドのとき、更新はどう届く？",
+   "options": [
+    "メール",
+    "サーバーからのプッシュ通知",
+    "ユーザーが手で更新",
+    "更新されない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When the app is in the background, updates often arrive through push notifications from a server.\""
+  },
+  {
+   "q": "Live Activities の制限として話されているのは？",
+   "options": [
+    "短期のイベント向けで、表示できる時間に上限がある",
+    "Android だけ",
+    "有料",
+    "1日1回しか使えない"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"They are meant for short-term events and can only stay active for a limited number of hours.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "何度もアプリを開く代わりに、ロック画面で進み具合を見られます。",
+   "points_ja": "opening the app again and again が一続きに聞こえ、right on your が続きます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "ユーザーが長押しすると、広がってより詳しい情報を表示します。",
+   "points_ja": "presses and holds it が続き、expands to show の to は弱形です。"
+  },
+  {
+   "sentence": 16,
+   "ja": "スペースはとても小さいので、デザイナーは本当に大切な情報を決めなければなりません。",
+   "points_ja": "Space is very がつながり、must decide の t は飲み込まれます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "Live Activities と Dynamic Island の仕組みと、上手な使い方",
+    "iPhone の新機種の紹介",
+    "タクシーの呼び方",
+    "通知の止め方"
+   ],
+   "answer": 0,
+   "explanation_ja": "機能の内容、更新方法、制限、デザインの考え方を説明しています。"
+  },
+  {
+   "q": "Live Activities の例として挙げられていないものは？",
+   "options": [
+    "タイマー",
+    "スポーツの試合",
+    "配達",
+    "写真の編集"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"such as a delivery, a sports match or a timer\"。"
+  },
+  {
+   "q": "Dynamic Island とは？",
+   "options": [
+    "地図アプリ",
+    "島の名前のアプリ",
+    "対応 iPhone の上部にある錠剤型の領域",
+    "ゲーム"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The Dynamic Island is the pill-shaped area at the top of supported iPhones.\""
+  },
+  {
+   "q": "Live Activities を作るためのフレームワークは？",
+   "options": [
+    "SwiftData",
+    "Core ML",
+    "ActivityKit",
+    "WidgetKit だけ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Developers build them with a framework called ActivityKit.\""
+  },
+  {
+   "q": "最後の文が伝えていることは？",
+   "options": [
+    "通知は不要",
+    "アプリは開かないほうがよい",
+    "Live Activities は使いにくい",
+    "うまく使えば、アプリを開かずに情報を得られる便利なデザインになる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"they let users stay informed without opening the app, which is a great example of helpful design.\""
+  }
+ ]
+}

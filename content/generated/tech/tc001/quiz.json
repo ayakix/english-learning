@@ -1,0 +1,114 @@
+{
+ "id": "tc001",
+ "author": "claude",
+ "summary_ja": "数年前の iOS 開発では、入れ子のクロージャーが続く「コールバック地獄」が多かった。2021年に Swift に async/await が入り、遅い処理を待つ間アプリを止めずに、上から順に読めるコードが書けるようになった。エラー処理も try/catch で簡単に。構造化された並行性では、親タスクが子タスクを待ち、親がキャンセルされると子もキャンセルされる。",
+ "listening": [
+  {
+   "q": "callback hell とは？",
+   "options": [
+    "処理が前の処理の中に入れ子になって続く読みにくいコード",
+    "電話がかかってくること",
+    "アプリが落ちること",
+    "通知が多すぎること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Each step is inside the previous one. Developers call this situation callback hell.\""
+  },
+  {
+   "q": "async/await の利点は？",
+   "options": [
+    "電池が長持ちする",
+    "デザインがきれいになる",
+    "アプリが小さくなる",
+    "上から順に読める普通のコードのように書け、待つ間もアプリを止めない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The code looks like normal step-by-step code, but it does not block the app while it waits.\""
+  },
+  {
+   "q": "構造化された並行性で、親タスクがキャンセルされるとどうなる？",
+   "options": [
+    "何も起こらない",
+    "子タスクもキャンセルされる",
+    "アプリが終了する",
+    "子タスクは動き続ける"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"If the parent is cancelled, the children are cancelled too.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "データをダウンロードする関数を呼びます。",
+   "points_ja": "call a function が「コーラファンクション」、download data が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "それを呼ぶときは、前に await と書きます。",
+   "points_ja": "call it が「コーリット」、write await in front が続けて聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "これにより、タスクが忘れられたまま裏でずっと動き続けるのを防ぎます。",
+   "points_ja": "prevents tasks from が続き、running forever in the が一続きに聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "iOS アプリは作るのが難しい",
+    "クロージャーは使ってはいけない",
+    "Swift は2021年に作られた",
+    "Swift の async/await と構造化された並行性で、アプリが安全になりコードが分かりやすくなった"
+   ],
+   "answer": 3,
+   "explanation_ja": "コールバック地獄の問題と、新しい並行処理の利点を説明しています。"
+  },
+  {
+   "q": "async と書いた関数の意味は？",
+   "options": [
+    "画面を描く",
+    "必ず速く動く",
+    "エラーを無視する",
+    "ネットワーク通信など遅い処理を待つ間、一時停止できる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"which means it can pause while waiting for slow work, like a network request.\""
+  },
+  {
+   "q": "エラー処理について書かれていることは？",
+   "options": [
+    "普通の try と catch が使えるので簡単になる",
+    "難しくなる",
+    "エラー処理は不要",
+    "エラーが起こらなくなる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Error handling also becomes simpler, because you can use normal try and catch.\""
+  },
+  {
+   "q": "structured concurrency の説明として正しいものは？",
+   "options": [
+    "1つのタスクしか動かない",
+    "タスクを手で管理する",
+    "タスクが明確な木構造で整理されている",
+    "タスクがばらばらに動く"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This means that tasks are organized in a clear tree.\""
+  },
+  {
+   "q": "学ぶのに時間がかかる概念として挙げられているのは？",
+   "options": [
+    "actor やメインアクター",
+    "配列",
+    "if 文",
+    "変数"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Ideas like actors and the main actor take time to understand.\""
+  }
+ ]
+}

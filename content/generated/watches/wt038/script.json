@@ -1,0 +1,176 @@
+{
+ "id": "wt038",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Fascination with Tropical Dials",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "tropical dial",
+  "color fade",
+  "UV exposure"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine buying a watch with a black dial. Fifty years later, the dial is a warm chocolate brown. To some people, this sounds like a defect. To many collectors, it is a treasure. These dials are known as tropical dials."
+  },
+  {
+   "speaker": "A",
+   "text": "The name comes from an old idea that the color change happened to watches worn in hot, sunny places. Today, people believe the main causes are UV exposure, which means ultraviolet light from the sun, and the paints and lacquers used at the time. Some materials in older dials were not very stable, so over many years, the color slowly faded or changed."
+  },
+  {
+   "speaker": "A",
+   "text": "What makes tropical dials so interesting is that every one is different. One may be a light caramel color. Another may be dark brown with a slight red tone. The change is not planned and cannot be controlled. Each watch tells its own story."
+  },
+  {
+   "speaker": "A",
+   "text": "Because of this, tropical dials from famous models can sell for much more than the same watch with an unchanged black dial. Collectors look for a color change that is even and natural, without spots or damage."
+  },
+  {
+   "speaker": "A",
+   "text": "Of course, this also attracts fakes. Some people try to create the effect artificially. So experienced buyers look very carefully, and they prefer watches with a clear history."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine buying a watch with a black dial.",
+   "start": 0.0,
+   "end": 2.76,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Fifty years later, the dial is a warm chocolate brown.",
+   "start": 3.39,
+   "end": 7.15,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To some people, this sounds like a defect.",
+   "start": 7.82,
+   "end": 10.06,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To many collectors, it is a treasure.",
+   "start": 10.89,
+   "end": 13.53,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These dials are known as tropical dials.",
+   "start": 14.2,
+   "end": 17.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The name comes from an old idea that the color change happened to watches worn in hot, sunny places.",
+   "start": 17.52,
+   "end": 23.68,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, people believe the main causes are UV exposure, which means ultraviolet light from the sun, and the paints and lacquers used at the time.",
+   "start": 24.35,
+   "end": 33.39,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Some materials in older dials were not very stable, so over many years, the color slowly faded or changed.",
+   "start": 34.06,
+   "end": 41.42,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "What makes tropical dials so interesting is that every one is different.",
+   "start": 41.94,
+   "end": 46.74,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One may be a light caramel color.",
+   "start": 47.21,
+   "end": 49.33,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Another may be dark brown with a slight red tone.",
+   "start": 49.92,
+   "end": 53.04,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The change is not planned and cannot be controlled.",
+   "start": 53.47,
+   "end": 56.75,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Each watch tells its own story.",
+   "start": 57.22,
+   "end": 59.34,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Because of this, tropical dials from famous models can sell for much more than the same watch with an unchanged black dial.",
+   "start": 59.86,
+   "end": 67.46,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Collectors look for a color change that is even and natural, without spots or damage.",
+   "start": 68.13,
+   "end": 73.65,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course, this also attracts fakes.",
+   "start": 74.17,
+   "end": 76.93,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people try to create the effect artificially.",
+   "start": 77.56,
+   "end": 80.24,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So experienced buyers look very carefully, and they prefer watches with a clear history.",
+   "start": 80.87,
+   "end": 86.71,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 212,
+ "duration": 86.6,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 65,
+ "created": "2026-10-03 23:46"
+}

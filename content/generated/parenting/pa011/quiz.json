@@ -1,0 +1,114 @@
+{
+ "id": "pa011",
+ "author": "claude",
+ "summary_ja": "読み聞かせは簡単で多くの利点がある。絵本には日常会話で使わない語（gigantic、whisper、meadow など）があり、絵と文脈で語彙が増える。最後まで話を聞くことで集中力（注意の持続時間）が育つ。登場人物を通して感情や他者を理解する。寄り添う時間が親子の絆になる。「次はどうなる？」などと問いかける双方向の読み方がよく、字が読めるようになっても少し難しい長い話の読み聞かせは楽しめる。",
+ "listening": [
+  {
+   "q": "読み聞かせの最初の利点として話されているのは？",
+   "options": [
+    "早く寝る",
+    "計算が得意になる",
+    "体が丈夫になる",
+    "語彙が増える"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The first benefit is vocabulary.\""
+  },
+  {
+   "q": "専門家が勧める読み方は？",
+   "options": [
+    "質問をしたり、子どもにページをめくらせたりする双方向の読み方",
+    "黙って速く読む",
+    "毎回違う本を読む",
+    "大人だけで読む"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Experts suggest making reading interactive.\""
+  },
+  {
+   "q": "字が読めるようになった子どもについて話し手は？",
+   "options": [
+    "絵本だけ",
+    "読み聞かせは不要",
+    "少し難しい長い話を聞くのも楽しむ",
+    "嫌がる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Older children also enjoy listening to longer stories that are a little too difficult for them to read by themselves.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "子どもへの読み聞かせは親ができる最も簡単なことの一つで、研究によると多くの利点があります。",
+   "points_ja": "Reading aloud to children が続き、one of the simplest が「ワナヴザシンプレスト」と聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "物語を最初から最後まで追うには集中力が必要です。",
+   "points_ja": "Following a story がつながり、beginning to end の to は弱形です。"
+  },
+  {
+   "sentence": 13,
+   "ja": "多くの子どもは、こうした時間を一生覚えています。",
+   "points_ja": "remember these times がつながり、rest of their lives が「レスタヴゼアライヴズ」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "読み聞かせは語彙、集中力、感情の理解、親子の絆など多くの面で役立つ",
+    "テレビのほうが学べる",
+    "読み聞かせは小さい子だけのもの",
+    "絵本は難しい言葉を使わない"
+   ],
+   "answer": 0,
+   "explanation_ja": "読み聞かせの多くの利点と、上手な読み方を説明しています。"
+  },
+  {
+   "q": "絵本で語彙が増える理由は？",
+   "options": [
+    "大人が日常会話であまり使わない言葉が、絵や文脈とともに出てくるから",
+    "短いから",
+    "毎日同じだから",
+    "文字が大きいから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Children's books often include words that adults rarely use in everyday conversation ... with pictures and context\"。"
+  },
+  {
+   "q": "attention span の意味は？",
+   "options": [
+    "目の良さ",
+    "記憶力",
+    "1つの活動に集中できる時間の長さ",
+    "話す速さ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This is the length of time a person can focus on one activity.\""
+  },
+  {
+   "q": "物語が感情の理解に役立つ理由は？",
+   "options": [
+    "絵がカラフルだから",
+    "登場人物が怖がったり喜んだりし、問題を解決する様子を見るから",
+    "短いから",
+    "声が大きいから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"They see characters feel scared, happy or jealous, and they learn how others solve problems.\""
+  },
+  {
+   "q": "双方向の読み聞かせの例として挙げられていないものは？",
+   "options": [
+    "絵を指さしてもらう",
+    "テストをして点数をつける",
+    "「次はどうなると思う？」と聞く",
+    "「クマはどんな気持ち？」と聞く"
+   ],
+   "answer": 1,
+   "explanation_ja": "質問、絵を指す、ページをめくることが挙げられています。"
+  }
+ ]
+}

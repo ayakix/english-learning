@@ -12,6 +12,9 @@ import type {
   Skill,
   Tts,
   Voice,
+  VoaSession,
+  VoaSource,
+  VoaZone,
   WritingKind,
   WritingSession,
 } from "./types";
@@ -78,5 +81,17 @@ export const api = {
         answers,
         reading_seconds: readingSeconds,
       }),
+  },
+
+  voa: {
+    zones: () => call<Record<VoaSource, VoaZone[]>>("/api/voa/zones"),
+    get: (sid: string) => call<VoaSession>(`/api/voa/sessions/${sid}`),
+    create: (source: VoaSource, zone: string) => call<VoaSession>("/api/voa/sessions", "POST", { source, zone }),
+    listening: (sid: string, answers: number[], plays: number) =>
+      call<VoaSession>(`/api/voa/sessions/${sid}/listening`, "POST", { answers, plays }),
+    dictation: (sid: string, i: number, answer: string, plays: number) =>
+      call<VoaSession>(`/api/voa/sessions/${sid}/dictation/${i}`, "POST", { answer, plays }),
+    reading: (sid: string, answers: number[], readingSeconds: number) =>
+      call<VoaSession>(`/api/voa/sessions/${sid}/reading`, "POST", { answers, reading_seconds: readingSeconds }),
   },
 };

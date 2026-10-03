@@ -1,0 +1,229 @@
+{
+ "id": "wt024",
+ "author": "claude",
+ "category": "watches",
+ "title": "Water Resistance Reality Check",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "water resistance",
+  "gasket",
+  "bar rating"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "My watch says water resistant to thirty meters. So I can swim with it, right?"
+  },
+  {
+   "speaker": "B",
+   "text": "Actually, probably not. That's one of the most common misunderstandings. The number refers to pressure in a laboratory test, not a real depth you can dive to."
+  },
+  {
+   "speaker": "A",
+   "text": "So what does thirty meters really mean?"
+  },
+  {
+   "speaker": "B",
+   "text": "It means the watch can handle splashes and rain, and maybe washing your hands. For swimming, most experts suggest at least one hundred meters. For diving, you want a proper dive watch."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is real life so different from the test?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because the test is done in still water. In real life, you move your arm, jump into a pool, or turn on a hot shower. Those things create sudden changes in pressure and temperature."
+  },
+  {
+   "speaker": "A",
+   "text": "What keeps the water out in the first place?"
+  },
+  {
+   "speaker": "B",
+   "text": "Small rubber rings called gaskets. They sit around the case back, the crystal and the crown. The problem is that gaskets get old. They dry out and lose their shape, especially with heat and soap."
+  },
+  {
+   "speaker": "A",
+   "text": "So a watch that was water resistant years ago might not be now."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. It's a good idea to have it pressure tested every year or two. And one simple rule: never pull out the crown when the watch is wet."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "My watch says water resistant to thirty meters.",
+   "start": 0.0,
+   "end": 3.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "So I can swim with it, right?",
+   "start": 3.55,
+   "end": 5.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Actually, probably not.",
+   "start": 6.35,
+   "end": 8.55,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "That's one of the most common misunderstandings.",
+   "start": 9.1,
+   "end": 11.66,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The number refers to pressure in a laboratory test, not a real depth you can dive to.",
+   "start": 12.25,
+   "end": 17.77,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So what does thirty meters really mean?",
+   "start": 18.49,
+   "end": 21.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It means the watch can handle splashes and rain, and maybe washing your hands.",
+   "start": 22.25,
+   "end": 27.13,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "For swimming, most experts suggest at least one hundred meters.",
+   "start": 27.72,
+   "end": 31.84,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "For diving, you want a proper dive watch.",
+   "start": 32.39,
+   "end": 35.35,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Why is real life so different from the test?",
+   "start": 36.07,
+   "end": 39.19,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Because the test is done in still water.",
+   "start": 39.91,
+   "end": 42.39,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "In real life, you move your arm, jump into a pool, or turn on a hot shower.",
+   "start": 43.06,
+   "end": 47.78,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Those things create sudden changes in pressure and temperature.",
+   "start": 48.69,
+   "end": 52.21,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "What keeps the water out in the first place?",
+   "start": 52.93,
+   "end": 55.41,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Small rubber rings called gaskets.",
+   "start": 56.13,
+   "end": 58.53,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "They sit around the case back, the crystal and the crown.",
+   "start": 58.96,
+   "end": 62.56,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The problem is that gaskets get old.",
+   "start": 63.15,
+   "end": 65.55,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "They dry out and lose their shape, especially with heat and soap.",
+   "start": 66.22,
+   "end": 70.3,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So a watch that was water resistant years ago might not be now.",
+   "start": 71.02,
+   "end": 75.58,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 76.3,
+   "end": 77.42,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a good idea to have it pressure tested every year or two.",
+   "start": 77.81,
+   "end": 81.29,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And one simple rule: never pull out the crown when the watch is wet.",
+   "start": 81.88,
+   "end": 86.2,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 209,
+ "duration": 86.2,
+ "wpm": 145,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 61,
+ "created": "2026-10-03 23:45"
+}

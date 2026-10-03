@@ -1,0 +1,114 @@
+{
+ "id": "ns018",
+ "author": "claude",
+ "summary_ja": "雷雲の中では強い風が水滴、氷の結晶、柔らかいあられを上下させ、ぶつかり合って電荷が分かれる（静電気と似ている）。軽くプラスの氷の結晶は上に、重くマイナスの粒は下にたまり、電荷の差が大きくなると空気が電気を通して巨大な火花＝雷になる。雷は周りの空気を約3万℃（太陽の表面より熱い）に熱し、爆発的な膨張の衝撃波が雷鳴。光と音の秒数を3で割るとおよその距離（km）。",
+ "listening": [
+  {
+   "q": "雷雲の中で電荷が分かれる原因は？",
+   "options": [
+    "地面の電気",
+    "風の音",
+    "水滴や氷の結晶、あられがぶつかり合うこと",
+    "太陽の熱"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When these pieces collide, electric charges are separated.\""
+  },
+  {
+   "q": "雷鳴が聞こえる理由は？",
+   "options": [
+    "雨が落ちる音",
+    "電気の音",
+    "雲がぶつかるから",
+    "雷で熱された空気が爆発的に膨張し、衝撃波ができるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The air expands explosively, creating a shock wave. We hear it as thunder.\""
+  },
+  {
+   "q": "雷鳴が近く聞こえたらどうする？",
+   "options": [
+    "傘をさして歩く",
+    "木の下に避難する",
+    "建物や車の中に入る",
+    "外で様子を見る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"If thunder sounds close, go inside a building or a car.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "それは高くそびえる雷雲の中で始まります。",
+   "points_ja": "It begins inside a tall が一続きに聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "雲の中や、雲と地面の間に、大きな電荷の差がたまっていきます。",
+   "points_ja": "differences in charge が続き、build up within the cloud がつながります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "光はほぼ一瞬で届きますが、音はずっと遅いです。",
+   "points_ja": "Light travels almost instantly が続き、sound is much slower がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "雷は安全",
+    "雷雲で分かれた電荷が放電して雷となり、空気の膨張で雷鳴が生まれる",
+    "雷は太陽の光",
+    "雷鳴は雲の音"
+   ],
+   "answer": 1,
+   "explanation_ja": "電荷の分離、放電、雷鳴、距離の測り方、安全を説明しています。"
+  },
+  {
+   "q": "static electricity の例として挙げられているのは？",
+   "options": [
+    "コンセント",
+    "電池",
+    "カーペットを歩いた後にドアノブで感じるビリッとした衝撃",
+    "雷"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the shock you sometimes feel when you touch a door handle after walking on a carpet.\""
+  },
+  {
+   "q": "雷の温度について正しいものは？",
+   "options": [
+    "太陽の中心と同じ",
+    "約1,000℃",
+    "約3万℃で、太陽の表面より熱い",
+    "約100℃"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"around thirty thousand degrees Celsius, hotter than the surface of the sun.\""
+  },
+  {
+   "q": "光と音の間の秒数を使った距離の求め方は？",
+   "options": [
+    "秒数を10で割る",
+    "秒数に3を掛ける",
+    "秒数を3で割るとおよその km",
+    "秒数そのものが km"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"If you count the seconds between them and divide by three, you get the rough distance in kilometers.\""
+  },
+  {
+   "q": "雷雨の時の外について本文の結論は？",
+   "options": [
+    "水辺は安全",
+    "外に安全な場所はない",
+    "広い場所は安全",
+    "木の下は安全"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"There is no safe place outside during a thunderstorm.\""
+  }
+ ]
+}

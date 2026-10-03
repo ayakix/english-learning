@@ -1,0 +1,114 @@
+{
+ "id": "rn007",
+ "author": "claude",
+ "summary_ja": "ウルトラマラソンで一日中ジェルだけは難しい。甘いジェルが続くと飽きる（フレーバーファティーグ）。代わりに塩をかけたじゃがいも、おにぎり、サンドイッチ、バナナ、スープなどの本物の食べ物を食べる。固形物は消化に血流が必要だが、ウルトラはペースが遅く坂は歩くので消化の時間がある。何時間も汗をかくと塩気がほしくなり、温かい食べ物は気分も変える。ジェルと食べ物の組み合わせがおすすめ。",
+ "listening": [
+  {
+   "q": "flavor fatigue とは？",
+   "options": [
+    "同じ甘いジェルが続いて、もう口にできなくなること",
+    "辛いものが食べられないこと",
+    "味覚がなくなる病気",
+    "疲れて何も食べられないこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"After the fifth or sixth sweet gel, many runners simply can't face another one.\""
+  },
+  {
+   "q": "ウルトラで固形物を消化しやすい理由は？",
+   "options": [
+    "水を飲まないから",
+    "固形物は消化が速いから",
+    "胃が大きいから",
+    "ペースが遅く、急な坂では歩くので、胃腸に時間があるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"ultra runners usually move more slowly, and they walk on steep hills. That gives the gut more time to work.\""
+  },
+  {
+   "q": "専門家が勧める戦略は？",
+   "options": [
+    "何も食べない",
+    "速いエネルギーのジェルと、変化と安心感のための食べ物を組み合わせる",
+    "ジェルだけ",
+    "食べ物だけ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Gels and drinks for fast energy, and real food for variety and comfort.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "最初はそうする人もいますが、多くは10時間や20時間も続けられません。",
+   "points_ja": "Some do at the beginning が続き、ten or twenty の or は弱形です。"
+  },
+  {
+   "sentence": 8,
+   "ja": "長いレースのエイドステーションでは、ちょっとしたビュッフェをよく見かけます。",
+   "points_ja": "aid stations in long がつながり、see a small が「スィーアスモール」と聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "夜の温かい一杯の麺は、気分をすっかり変えてくれます。",
+   "points_ja": "bowl of noodles が「ボウラヴヌードルズ」、change your mood が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ジェルは体に悪い",
+    "ウルトラは食べずに走る",
+    "ウルトラマラソンでの補給は、ジェルと本物の食べ物の組み合わせがよい",
+    "スープの作り方"
+   ],
+   "answer": 2,
+   "explanation_ja": "フレーバーファティーグ、本物の食べ物、消化、塩気、組み合わせを話しています。"
+  },
+  {
+   "q": "エイドステーションの食べ物として挙げられていないものは？",
+   "options": [
+    "スープ",
+    "おにぎり",
+    "ケーキ",
+    "塩をかけたじゃがいも"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"potatoes with salt, rice balls, sandwiches, bananas and even soup\"。"
+  },
+  {
+   "q": "速く走ると固形物の消化が難しい理由は？",
+   "options": [
+    "胃が小さくなるから",
+    "水分がなくなるから",
+    "血液が筋肉に多く流れ、胃への血流が減るから",
+    "息が苦しいから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When you run fast, more blood goes to the muscles.\""
+  },
+  {
+   "q": "何時間も汗をかいたランナーがほしくなるものは？",
+   "options": [
+    "塩気",
+    "酸っぱさ",
+    "甘さ",
+    "冷たさ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"After hours of sweating, many runners crave salt.\""
+  },
+  {
+   "q": "本物の食べ物の精神的な効果として話されているのは？",
+   "options": [
+    "効果はない",
+    "安心感があり、気分を変えてくれる",
+    "眠くなる",
+    "集中力が下がる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It also feels comforting mentally. A warm bowl of noodles at night can change your mood completely.\""
+  }
+ ]
+}

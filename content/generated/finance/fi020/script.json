@@ -1,0 +1,272 @@
+{
+ "id": "fi020",
+ "author": "claude",
+ "category": "finance",
+ "title": "How to Spot Investment Scams",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "investment scam",
+  "guaranteed return",
+  "red flag"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Investment scams seem to be everywhere these days, especially online. How can people protect themselves?"
+  },
+  {
+   "speaker": "B",
+   "text": "The first rule is simple. If someone promises a guaranteed return, be very careful. Real investments always carry risk. Nobody can promise high returns with no risk."
+  },
+  {
+   "speaker": "A",
+   "text": "What other warning signs are there?"
+  },
+  {
+   "speaker": "B",
+   "text": "We call them red flags. Pressure to decide quickly is a big one. 'This offer ends today' or 'Only a few spots left.' Scammers don't want you to take time to think or ask anyone."
+  },
+  {
+   "speaker": "A",
+   "text": "What about people who contact you on social media?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's very common now. Someone builds a friendly relationship over weeks, maybe even pretends to be famous or romantically interested. Then they introduce an amazing investment opportunity. That's a classic investment scam."
+  },
+  {
+   "speaker": "A",
+   "text": "How do these scams pay early investors?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some use money from new victims to pay earlier ones. This makes the investment look successful at first. It works until new money stops coming in, and then everything collapses."
+  },
+  {
+   "speaker": "A",
+   "text": "So what should people do before investing?"
+  },
+  {
+   "speaker": "B",
+   "text": "Check if the company is officially registered with the financial regulator. In Japan, the Financial Services Agency has lists you can search. Talk to someone you trust. And never send money to a personal account."
+  },
+  {
+   "speaker": "A",
+   "text": "Any final advice?"
+  },
+  {
+   "speaker": "B",
+   "text": "Remember this: if it sounds too good to be true, it probably is."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Investment scams seem to be everywhere these days, especially online.",
+   "start": 0.0,
+   "end": 4.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How can people protect themselves?",
+   "start": 5.07,
+   "end": 6.91,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The first rule is simple.",
+   "start": 7.63,
+   "end": 9.47,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "If someone promises a guaranteed return, be very careful.",
+   "start": 10.06,
+   "end": 14.54,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Real investments always carry risk.",
+   "start": 14.97,
+   "end": 17.69,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Nobody can promise high returns with no risk.",
+   "start": 18.12,
+   "end": 21.24,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What other warning signs are there?",
+   "start": 21.96,
+   "end": 23.88,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "We call them red flags.",
+   "start": 24.6,
+   "end": 26.44,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Pressure to decide quickly is a big one.",
+   "start": 27.07,
+   "end": 29.91,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "'This offer ends today' or 'Only a few spots left.'",
+   "start": 30.5,
+   "end": 34.66,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Scammers don't want you to take time to think or ask anyone.",
+   "start": 35.25,
+   "end": 39.09,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What about people who contact you on social media?",
+   "start": 39.81,
+   "end": 42.53,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That's very common now.",
+   "start": 43.25,
+   "end": 44.77,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Someone builds a friendly relationship over weeks, maybe even pretends to be famous or romantically interested.",
+   "start": 45.6,
+   "end": 52.48,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Then they introduce an amazing investment opportunity.",
+   "start": 53.07,
+   "end": 56.43,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's a classic investment scam.",
+   "start": 57.26,
+   "end": 59.5,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "How do these scams pay early investors?",
+   "start": 60.22,
+   "end": 63.1,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Some use money from new victims to pay earlier ones.",
+   "start": 63.82,
+   "end": 67.34,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "This makes the investment look successful at first.",
+   "start": 67.93,
+   "end": 71.13,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It works until new money stops coming in, and then everything collapses.",
+   "start": 71.56,
+   "end": 76.76,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So what should people do before investing?",
+   "start": 77.56,
+   "end": 80.44,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Check if the company is officially registered with the financial regulator.",
+   "start": 81.16,
+   "end": 85.08,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "In Japan, the Financial Services Agency has lists you can search.",
+   "start": 85.83,
+   "end": 90.35,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Talk to someone you trust.",
+   "start": 90.98,
+   "end": 92.5,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And never send money to a personal account.",
+   "start": 93.25,
+   "end": 96.13,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Any final advice?",
+   "start": 96.85,
+   "end": 98.37,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Remember this: if it sounds too good to be true, it probably is.",
+   "start": 99.09,
+   "end": 104.13,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 219,
+ "duration": 104.0,
+ "wpm": 126,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-04 00:03"
+}

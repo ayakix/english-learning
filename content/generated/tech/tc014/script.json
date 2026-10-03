@@ -1,0 +1,236 @@
+{
+ "id": "tc014",
+ "author": "claude",
+ "category": "tech",
+ "title": "Subscription vs Lifetime Purchase Models",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "subscription model",
+  "lifetime purchase",
+  "customer lifetime value"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When indie developers decide how to charge for an app, the big question is often subscription or lifetime purchase. Which do you prefer?"
+  },
+  {
+   "speaker": "B",
+   "text": "It depends on the app. A subscription model gives you regular income every month. That's great if your app has ongoing costs, like servers, or if you keep adding new content."
+  },
+  {
+   "speaker": "A",
+   "text": "But many users don't like subscriptions."
+  },
+  {
+   "speaker": "B",
+   "text": "That's true. People talk about subscription fatigue. They already pay for music, video and cloud storage, so they're careful about adding another monthly fee, especially for a simple tool."
+  },
+  {
+   "speaker": "A",
+   "text": "So a lifetime purchase is more user-friendly?"
+  },
+  {
+   "speaker": "B",
+   "text": "For some apps, yes. Users pay once and own it forever. They feel respected. But for the developer, the income stops unless new people keep buying."
+  },
+  {
+   "speaker": "A",
+   "text": "How do you compare the two?"
+  },
+  {
+   "speaker": "B",
+   "text": "A useful idea is customer lifetime value. That's the total money one user brings you over the whole time they use your app. A small subscription for three years might bring more than one lifetime purchase. Or it might not, if people cancel quickly."
+  },
+  {
+   "speaker": "A",
+   "text": "Can you offer both?"
+  },
+  {
+   "speaker": "B",
+   "text": "Many developers do. They offer a monthly plan, a yearly plan and a higher one-time price for lifetime access. Users choose what feels right, and you learn a lot from what they pick."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When indie developers decide how to charge for an app, the big question is often subscription or lifetime purchase.",
+   "start": 0.0,
+   "end": 7.44,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Which do you prefer?",
+   "start": 8.27,
+   "end": 9.55,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It depends on the app.",
+   "start": 10.27,
+   "end": 11.87,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "A subscription model gives you regular income every month.",
+   "start": 12.26,
+   "end": 15.74,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "That's great if your app has ongoing costs, like servers, or if you keep adding new content.",
+   "start": 16.17,
+   "end": 21.85,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "But many users don't like subscriptions.",
+   "start": 22.57,
+   "end": 25.61,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That's true.",
+   "start": 26.33,
+   "end": 27.05,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "People talk about subscription fatigue.",
+   "start": 27.6,
+   "end": 30.28,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "They already pay for music, video and cloud storage, so they're careful about adding another monthly fee, especially for a simple tool.",
+   "start": 30.71,
+   "end": 39.11,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So a lifetime purchase is more user-friendly?",
+   "start": 39.91,
+   "end": 43.35,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "For some apps, yes.",
+   "start": 44.07,
+   "end": 45.87,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Users pay once and own it forever.",
+   "start": 46.42,
+   "end": 48.78,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "They feel respected.",
+   "start": 49.33,
+   "end": 50.61,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But for the developer, the income stops unless new people keep buying.",
+   "start": 51.2,
+   "end": 55.6,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "How do you compare the two?",
+   "start": 56.32,
+   "end": 58.08,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "A useful idea is customer lifetime value.",
+   "start": 58.8,
+   "end": 62.16,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That's the total money one user brings you over the whole time they use your app.",
+   "start": 62.75,
+   "end": 67.15,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "A small subscription for three years might bring more than one lifetime purchase.",
+   "start": 67.9,
+   "end": 72.7,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Or it might not, if people cancel quickly.",
+   "start": 73.17,
+   "end": 76.01,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Can you offer both?",
+   "start": 76.73,
+   "end": 78.25,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Many developers do.",
+   "start": 78.97,
+   "end": 80.17,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "They offer a monthly plan, a yearly plan and a higher one-time price for lifetime access.",
+   "start": 80.6,
+   "end": 86.68,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Users choose what feels right, and you learn a lot from what they pick.",
+   "start": 87.51,
+   "end": 91.43,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 209,
+ "duration": 91.3,
+ "wpm": 137,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 65,
+ "created": "2026-10-03 23:53"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wn019",
+ "author": "claude",
+ "summary_ja": "ブショネ（コルク臭）のワインは、濡れた段ボールやかび臭い地下室のようなにおいがし、果実味が消える。原因は TCA（トリクロロアニソール）で、ある種のかびと塩素系の化学物質が触れてできる。人は1兆分の数という極めて低い濃度でも感じ取れ、弱いと単に風味が乏しく感じるだけ。健康には害はなく、レストランでは交換を頼んでよい。",
+ "listening": [
+  {
+   "q": "ブショネのワインのにおいとして話されているのは？",
+   "options": [
+    "花とはちみつ",
+    "レモン",
+    "濡れた段ボールやかび臭い地下室",
+    "焼きたてのパン"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the wine smells like wet cardboard, a damp basement or an old newspaper.\""
+  },
+  {
+   "q": "TCA について正しいものは？",
+   "options": [
+    "人は非常に低い濃度でも感じ取れる",
+    "大量でないと分からない",
+    "白ワインにしかない",
+    "健康に有害"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Humans can detect it at extremely low levels, around a few parts per trillion.\""
+  },
+  {
+   "q": "レストランでブショネを疑ったときは？",
+   "options": [
+    "店を出る",
+    "スタッフににおいを確認してもらってよい",
+    "自分で捨てる",
+    "黙って飲む"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"it is completely acceptable to ask the staff to smell it.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "果実の香りの代わりに、ワインは濡れた段ボール、湿った地下室、古い新聞のようなにおいがします。",
+   "points_ja": "Instead of が「インステダヴ」、smells like の s が軽くつながります。"
+  },
+  {
+   "sentence": 15,
+   "ja": "良い知らせは、TCA が健康に害はないということです。",
+   "points_ja": "news is that がつながり、harmful to your が続けて聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "レストランでブショネを疑ったら、スタッフににおいを確認してもらうのはまったく問題ありません。",
+   "points_ja": "suspect a corked がつながり、ask the staff to smell it の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ワインの保存温度",
+    "かびの種類",
+    "コルクの作り方",
+    "ブショネの原因と見分け方、対処法"
+   ],
+   "answer": 3,
+   "explanation_ja": "TCA の原因、感じ方、健康への影響、レストランでの対応を説明しています。"
+  },
+  {
+   "q": "TCA ができる条件は？",
+   "options": [
+    "瓶を振ったとき",
+    "ワインを冷やしすぎたとき",
+    "ある種のかびが塩素系の化学物質と触れたとき",
+    "日光に当てたとき"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It can form when certain molds come into contact with chlorine-based chemicals\"。"
+  },
+  {
+   "q": "few parts per trillion のたとえは？",
+   "options": [
+    "風呂に1杯",
+    "海に1トン",
+    "オリンピックのプールに数滴",
+    "コップに1さじ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"That is like a few drops in an Olympic swimming pool.\""
+  },
+  {
+   "q": "弱い TCA の影響は？",
+   "options": [
+    "泡が出る",
+    "果実味が隠れ、ワインが平板で香りが乏しく感じる",
+    "とても甘くなる",
+    "色が濃くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"TCA can simply cause masking of fruit. The wine ... seems flat, dull and less aromatic\"。"
+  },
+  {
+   "q": "最近ブショネが減っている理由は？",
+   "options": [
+    "コルクの洗浄と検査が改善されたから",
+    "TCA が消えたから",
+    "ワインが安くなったから",
+    "人の鼻が弱くなったから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"cork producers use better cleaning and testing, and the problem has become less common\"。"
+  }
+ ]
+}

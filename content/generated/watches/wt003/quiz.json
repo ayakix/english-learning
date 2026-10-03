@@ -1,0 +1,114 @@
+{
+ "id": "wt003",
+ "author": "claude",
+ "summary_ja": "レトログラード表示では、針が扇形に進み、目盛りの終わりで一瞬で始点に戻る。カタツムリの殻の形をした「スネイルカム」がレバーを押し、ばねに力をためる。段差でレバーが落ちると、ばねが針を戻す。きれいに戻すには高い技術が必要。",
+ "listening": [
+  {
+   "q": "この会話で説明されている表示の特徴は？",
+   "options": [
+    "数字が窓の中で跳ねる",
+    "針が円を一周する",
+    "針が逆向きに回る",
+    "針が扇形に進み、最後に一気に始点へ戻る"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The hand moves slowly along an arc ... Then, at the end of the scale, it suddenly flies back to the start.\""
+  },
+  {
+   "q": "スネイルカムの形は何に似ている？",
+   "options": [
+    "カタツムリの殻",
+    "花びら",
+    "歯車",
+    "星"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It's a flat disc shaped like a snail's shell\" と説明しています。"
+  },
+  {
+   "q": "針が始点へ戻る仕組みの順番として正しいものは？",
+   "options": [
+    "レバーが落ちる → カムが回る → ばねが壊れる",
+    "ばねが緩む → カムが回る → レバーが上がる",
+    "カムがレバーを押す → ばねに力がたまる → レバーが段差で落ちて針が戻る",
+    "針が戻る → カムが止まる → ばねが巻かれる"
+   ],
+   "answer": 2,
+   "explanation_ja": "カムが回りレバーを押し出す間に \"a recoil spring is being put under tension\"、段差で \"the spring pulls everything back to zero\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "針は弧に沿ってゆっくり進みます。たとえば日付なら1から31までです。",
+   "points_ja": "along an arc がつながって「アロンガナーク」。say はここでは「たとえば」の意味です。"
+  },
+  {
+   "sentence": 10,
+   "ja": "小さなレバーがその縁に当たっています。",
+   "points_ja": "rests against がつながり、against that の t がほとんど聞こえません。"
+  },
+  {
+   "sentence": 21,
+   "ja": "針は跳ね返らずに、きれいに戻らなければなりません。",
+   "points_ja": "has to は「ハスタ」と短く、snap back の p は飲み込まれます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主な目的は？",
+   "options": [
+    "時計の値段を比べる",
+    "日付表示の歴史を語る",
+    "ばねの交換方法を教える",
+    "レトログラード表示の仕組みと魅力を説明する"
+   ],
+   "answer": 3,
+   "explanation_ja": "仕組み（スネイルカムとばね）と、最後に \"one of the most charming things\" という魅力を説明しています。"
+  },
+  {
+   "q": "recoil spring の役割は？",
+   "options": [
+    "力をためて、針を一気に始点に戻す",
+    "カムを回す動力になる",
+    "日付を光らせる",
+    "針をゆっくり進める"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the spring pulls everything back to zero in a fraction of a second\"。"
+  },
+  {
+   "q": "\"in a fraction of a second\" の意味は？",
+   "options": [
+    "一瞬で",
+    "数秒かけて",
+    "1秒ごとに",
+    "半分の速さで"
+   ],
+   "answer": 0,
+   "explanation_ja": "a fraction of a second は「1秒の何分の一」、つまり一瞬です。"
+  },
+  {
+   "q": "部品に負担がかかることについて、B はどう言っている？",
+   "options": [
+    "負担はほとんどない",
+    "すぐ壊れるので勧めない",
+    "だからこそ信頼性の高いものを作るには技術がいる",
+    "電池で解決できる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It is, which is why it takes real skill to make it reliable.\""
+  },
+  {
+   "q": "B がうまく作られたレトログラードについて述べていることは？",
+   "options": [
+    "実用性がない",
+    "文字盤の中で最も魅力的なものの一つ",
+    "読みにくい",
+    "安い時計にしか使われない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"it's one of the most charming things you can see on a dial.\""
+  }
+ ]
+}

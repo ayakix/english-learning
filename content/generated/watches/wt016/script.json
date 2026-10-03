@@ -1,0 +1,183 @@
+{
+ "id": "wt016",
+ "author": "claude",
+ "category": "watches",
+ "title": "Geneva Stripes vs Glashütte Ribbing",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "Côtes de Genève",
+  "Glashütte ribbing",
+  "abrasive tool"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Two decorative patterns appear again and again on high-end movements. One is called Côtes de Genève, or Geneva stripes. The other is known as Glashütte ribbing. At first glance, they look almost the same. Both are rows of parallel stripes that shine in the light."
+  },
+  {
+   "speaker": "A",
+   "text": "Geneva stripes are traditional in Swiss watchmaking. They are made with a rotating abrasive tool, which is pressed lightly against the plate while the plate moves in a straight line. Each pass creates one wide, shiny band with a soft curve. Then the plate moves a little, and the next band is made."
+  },
+  {
+   "speaker": "A",
+   "text": "Glashütte ribbing comes from the German watchmaking tradition. It is made in a similar way, but experts point out small differences, for example in the width, depth and angle of the stripes. As a result, the pattern can look slightly finer, or catch the light in a different way."
+  },
+  {
+   "speaker": "A",
+   "text": "Why decorate a movement that is hidden inside a case? Part of the reason is history. Long ago, these patterns showed that a watchmaker took care with every surface. Today, many watches have a glass case back, so the decoration is part of the design."
+  },
+  {
+   "speaker": "A",
+   "text": "For collectors, spotting the difference is a small pleasure. It is like recognizing the accent of a speaker. Both patterns are beautiful, but each one tells you something about where the watch comes from."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Two decorative patterns appear again and again on high-end movements.",
+   "start": 0.0,
+   "end": 4.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One is called Côtes de Genève, or Geneva stripes.",
+   "start": 5.15,
+   "end": 8.99,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The other is known as Glashütte ribbing.",
+   "start": 9.58,
+   "end": 12.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "At first glance, they look almost the same.",
+   "start": 13.05,
+   "end": 15.53,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Both are rows of parallel stripes that shine in the light.",
+   "start": 16.36,
+   "end": 19.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Geneva stripes are traditional in Swiss watchmaking.",
+   "start": 20.4,
+   "end": 23.76,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "They are made with a rotating abrasive tool, which is pressed lightly against the plate while the plate moves in a straight line.",
+   "start": 24.35,
+   "end": 31.07,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Each pass creates one wide, shiny band with a soft curve.",
+   "start": 31.9,
+   "end": 36.06,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Then the plate moves a little, and the next band is made.",
+   "start": 36.89,
+   "end": 40.17,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Glashütte ribbing comes from the German watchmaking tradition.",
+   "start": 40.69,
+   "end": 44.21,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It is made in a similar way, but experts point out small differences, for example in the width, depth and angle of the stripes.",
+   "start": 44.96,
+   "end": 53.2,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "As a result, the pattern can look slightly finer, or catch the light in a different way.",
+   "start": 53.79,
+   "end": 58.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why decorate a movement that is hidden inside a case?",
+   "start": 59.51,
+   "end": 62.99,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Part of the reason is history.",
+   "start": 63.62,
+   "end": 65.38,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Long ago, these patterns showed that a watchmaker took care with every surface.",
+   "start": 66.21,
+   "end": 71.37,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, many watches have a glass case back, so the decoration is part of the design.",
+   "start": 72.0,
+   "end": 77.52,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For collectors, spotting the difference is a small pleasure.",
+   "start": 78.04,
+   "end": 81.56,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is like recognizing the accent of a speaker.",
+   "start": 82.31,
+   "end": 85.03,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Both patterns are beautiful, but each one tells you something about where the watch comes from.",
+   "start": 85.86,
+   "end": 91.38,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 226,
+ "duration": 91.3,
+ "wpm": 149,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:44"
+}

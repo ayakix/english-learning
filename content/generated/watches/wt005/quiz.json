@@ -1,0 +1,114 @@
+{
+ "id": "wt005",
+ "author": "claude",
+ "summary_ja": "ブラックポリッシュは完全に平らでなめらかな面。光を一方向にしか反射しないので、角度によって真っ黒に見えたり白く光ったりする。亜鉛や錫の板とダイヤモンドペーストで8の字に磨く。小さな傷やほこりでも失敗になるため、小さな部品に使われる高品質の証。",
+ "listening": [
+  {
+   "q": "ブラックポリッシュの見た目の特徴は？",
+   "options": [
+    "青く輝く",
+    "細かい模様が見える",
+    "角度によって黒く見えたり白く光ったりする",
+    "いつも金色に光る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"it looks completely black. Turn it slightly, and suddenly it flashes bright white\"。"
+  },
+  {
+   "q": "黒く見える理由は？",
+   "options": [
+    "金属が酸化するから",
+    "黒い塗料を塗るから",
+    "表面がざらざらだから",
+    "平らすぎて光が一方向にしか反射しないから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"it reflects light in only one direction. If that light does not reach your eye, the surface looks dark.\""
+  },
+  {
+   "q": "この仕上げがよく使われる場所は？",
+   "options": [
+    "ベルト",
+    "ばねや留め金、ネジの頭などの小さな部品",
+    "文字盤全体",
+    "大きな地板"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"black polish is usually found on small parts, like springs, clamps and screw heads.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "この効果はブラックポリッシュと呼ばれる仕上げから生まれます。",
+   "points_ja": "comes from a がつながり「カムズフロマ」になります。"
+  },
+  {
+   "sentence": 8,
+   "ja": "その工程は時間がかかり、骨の折れるものです。",
+   "points_ja": "slow and が「スロウン」と短くなります。demanding は「大変な、要求の多い」。"
+  },
+  {
+   "sentence": 15,
+   "ja": "何かがうまくいかないと、職人はしばしば最初からやり直さなければなりません。",
+   "points_ja": "has to start は「ハスタスタート」、start again がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ダイヤモンドは時計の装飾に使われる",
+    "磨きは機械で簡単にできる",
+    "ブラックポリッシュは難しく、高品質を静かに示す仕上げである",
+    "黒い部品は安価である"
+   ],
+   "answer": 2,
+   "explanation_ja": "工程の難しさと \"a quiet sign of high quality\" であることを説明しています。"
+  },
+  {
+   "q": "磨くときに使う板の素材として挙げられているのは？",
+   "options": [
+    "木やガラス",
+    "亜鉛や錫",
+    "鉄や銅",
+    "金や銀"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a flat plate, often made of zinc or tin\"。"
+  },
+  {
+   "q": "磨くときの動かし方は？",
+   "options": [
+    "大きな円を描くように",
+    "まっすぐ前後に",
+    "上下に叩くように",
+    "小さな8の字に"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"in small figure-eight patterns, with even pressure\"。"
+  },
+  {
+   "q": "失敗の原因として挙げられていないものは？",
+   "options": [
+    "小さな傷",
+    "ほこり",
+    "丸くなった縁",
+    "温度の高さ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A tiny scratch, a rounded edge or a bit of dust\" で、温度は書かれていません。"
+  },
+  {
+   "q": "最後の文 \"those who do will never forget it\" の意味に近いのは？",
+   "options": [
+    "作った人は忘れてしまう",
+    "誰も覚えていない",
+    "気づいた人は忘れられないほど印象に残る",
+    "買った人は後悔する"
+   ],
+   "answer": 2,
+   "explanation_ja": "多くの人は気づかないが、気づいた人には強く印象に残るという意味です。"
+  }
+ ]
+}

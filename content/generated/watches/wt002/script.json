@@ -1,0 +1,186 @@
+{
+ "id": "wt002",
+ "author": "claude",
+ "category": "watches",
+ "title": "Mastering the Jumping Hour",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "jumping hour",
+  "digital display",
+  "snapping spring"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Look at most watches, and you will see the hour hand moving slowly around the dial. But some watches show the hour in a very different way. They have a small window with a number in it. At the end of each hour, the number does not change slowly. It jumps. One moment you see a ten, and the next moment you see an eleven. This is called a jumping hour."
+  },
+  {
+   "speaker": "A",
+   "text": "The idea is old. Watchmakers made jumping hour pocket watches more than one hundred years ago. It looks a little like a digital display, but there is no battery and no screen. Everything is done with gears and springs."
+  },
+  {
+   "speaker": "A",
+   "text": "So how does the number jump? Inside the watch, a small spring slowly stores energy during the hour. Think of pulling back a bow before you shoot an arrow. When the minute hand reaches twelve, a lever lets go, and the spring releases its energy all at once. The hour disc snaps forward to the next number."
+  },
+  {
+   "speaker": "A",
+   "text": "This is not easy to build. The jump needs a lot of energy in a very short time, and that can make the watch less accurate. That is why many independent watchmakers see the jumping hour as a test of skill. It is a small moment of drama on your wrist."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Look at most watches, and you will see the hour hand moving slowly around the dial.",
+   "start": 0.0,
+   "end": 4.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But some watches show the hour in a very different way.",
+   "start": 5.79,
+   "end": 9.07,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They have a small window with a number in it.",
+   "start": 9.82,
+   "end": 12.14,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "At the end of each hour, the number does not change slowly.",
+   "start": 12.89,
+   "end": 16.25,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It jumps.",
+   "start": 16.76,
+   "end": 17.8,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One moment you see a ten, and the next moment you see an eleven.",
+   "start": 18.39,
+   "end": 21.83,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called a jumping hour.",
+   "start": 22.66,
+   "end": 24.82,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The idea is old.",
+   "start": 25.34,
+   "end": 27.1,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Watchmakers made jumping hour pocket watches more than one hundred years ago.",
+   "start": 27.61,
+   "end": 32.41,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It looks a little like a digital display, but there is no battery and no screen.",
+   "start": 32.84,
+   "end": 37.88,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Everything is done with gears and springs.",
+   "start": 38.47,
+   "end": 40.95,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "So how does the number jump?",
+   "start": 41.55,
+   "end": 43.39,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Inside the watch, a small spring slowly stores energy during the hour.",
+   "start": 44.22,
+   "end": 48.78,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Think of pulling back a bow before you shoot an arrow.",
+   "start": 49.61,
+   "end": 52.25,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When the minute hand reaches twelve, a lever lets go, and the spring releases its energy all at once.",
+   "start": 53.0,
+   "end": 59.36,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The hour disc snaps forward to the next number.",
+   "start": 59.91,
+   "end": 62.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is not easy to build.",
+   "start": 63.47,
+   "end": 65.55,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The jump needs a lot of energy in a very short time, and that can make the watch less accurate.",
+   "start": 65.94,
+   "end": 72.06,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why many independent watchmakers see the jumping hour as a test of skill.",
+   "start": 72.49,
+   "end": 77.77,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a small moment of drama on your wrist.",
+   "start": 78.16,
+   "end": 81.24,
+   "turn": 3,
+   "speaker": "A"
+  }
+ ],
+ "words": 218,
+ "duration": 81.2,
+ "wpm": 161,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 62,
+ "created": "2026-10-03 23:28"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "pa015",
+ "author": "claude",
+ "summary_ja": "近視は近くははっきり、遠くはぼやけて見える状態で、特に東アジアでこの数十年に子どもの近視が急増した。原因は読書や画面だと考えられてきたが、外で過ごす時間が重要と分かってきた。外で長く過ごす子は近視になりにくく、学校で外の時間を増やした地域では新しい近視が減った。1日約2時間が勧められている。鍵は日光の明るさで、目でドーパミンが増え眼球の伸びを抑えるという説がある。",
+ "listening": [
+  {
+   "q": "nearsightedness（近視）とは？",
+   "options": [
+    "色が見えない状態",
+    "近くははっきり見えるが、遠くがぼやけて見える状態",
+    "遠くがはっきり見える状態",
+    "暗いところで見えない状態"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Nearsightedness, or myopia, means that you can see things clearly up close, but distant objects look blurry.\""
+  },
+  {
+   "q": "多くの専門家が勧める外遊びの時間は？",
+   "options": [
+    "1日6時間",
+    "1日10分",
+    "週1時間",
+    "1日約2時間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many experts now recommend that children spend around two hours a day outdoors.\""
+  },
+  {
+   "q": "外で何をするのがよい？",
+   "options": [
+    "何でもよく、外にいること自体が役立つようだ",
+    "遠くを見る練習",
+    "走ること",
+    "スポーツだけ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the activity itself does not seem to matter much ... Simply being outside ... seems to help.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "近くを見る作業も関係しているかもしれません。",
+   "points_ja": "Close work may play a role が一続きに聞こえ、play a が「プレイア」とつながります。"
+  },
+  {
+   "sentence": 5,
+   "ja": "いくつもの大規模な研究で、外で多くの時間を過ごす子どもは近視になりにくいことが示されています。",
+   "points_ja": "have shown that がつながり、spend more time outside が続けて聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "曇りの日でも、外の光は室内の光よりずっと明るいです。",
+   "points_ja": "Even on a cloudy が続き、brighter than indoor が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "近視は読書だけが原因",
+    "外で過ごす時間が、子どもの近視の予防に役立つ",
+    "画面を見ると視力が上がる",
+    "曇りの日は外に出ないほうがよい"
+   ],
+   "answer": 1,
+   "explanation_ja": "近視の増加、外の時間の効果、理由の仮説を説明しています。"
+  },
+  {
+   "q": "学校で外の時間を増やした結果は？",
+   "options": [
+    "けがが増えた",
+    "新しい近視の子どもが減った",
+    "変化はなかった",
+    "成績が下がった"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Some school programs that added extra outdoor time found fewer new cases among students.\""
+  },
+  {
+   "q": "外にいることが効く理由として科学者が考えているのは？",
+   "options": [
+    "空気のきれいさ",
+    "日光の明るさ",
+    "緑色を見ること",
+    "運動"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Scientists believe the key is daylight.\""
+  },
+  {
+   "q": "ドーパミンについての仮説は？",
+   "options": [
+    "ドーパミンが視力を下げる",
+    "ドーパミンは関係ない",
+    "ドーパミンで目が疲れる",
+    "明るい光で目のドーパミンが増え、眼球の伸びを遅らせる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"bright light increases the release of a chemical called dopamine in the eye, which may slow the growth of the eyeball.\""
+  },
+  {
+   "q": "外遊びの他の利点として最後に挙げられているものに含まれないのは？",
+   "options": [
+    "算数の成績",
+    "睡眠",
+    "体",
+    "気分"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"good for the eyes, and also for the body, sleep and mood.\""
+  }
+ ]
+}

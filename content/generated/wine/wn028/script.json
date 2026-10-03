@@ -1,0 +1,222 @@
+{
+ "id": "wn028",
+ "author": "claude",
+ "category": "wine",
+ "title": "The Aging Curve: Peak Maturity vs Decline",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "drinking window",
+  "peak maturity",
+  "fading fruit"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many people think that all wine gets better with age. In reality, most wines are made to be enjoyed within a few years. Only some wines improve for a long time, and even they follow a path. Wine experts often describe this path as an aging curve."
+  },
+  {
+   "speaker": "A",
+   "text": "Think of it like a human life. A young fine wine is full of energy. It has fresh fruit, high acidity and strong tannins. But it can also feel tight, or closed. The aromas are quiet, and the parts do not yet fit together."
+  },
+  {
+   "speaker": "A",
+   "text": "Over the years, the wine develops. Tannins soften, the fruit becomes more complex, and new aromas appear, such as earth, spice and leather. At some point, everything comes into harmony. This stage is called peak maturity. It is often the best time to open the bottle."
+  },
+  {
+   "speaker": "A",
+   "text": "After the peak, the wine slowly declines. The fruit begins to disappear. Experts call this fading fruit. The wine may taste dry, thin or tired, even if it is still interesting."
+  },
+  {
+   "speaker": "A",
+   "text": "The period when a wine is enjoyable is called its drinking window. Critics often give estimated windows, for example from two thousand twenty-five to two thousand forty. But these are only guesses. Storage conditions and personal taste matter a lot."
+  },
+  {
+   "speaker": "A",
+   "text": "One practical tip: if you have several bottles of the same wine, open one every few years. You will learn how it changes and find your favorite moment."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many people think that all wine gets better with age.",
+   "start": 0.0,
+   "end": 2.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In reality, most wines are made to be enjoyed within a few years.",
+   "start": 3.39,
+   "end": 8.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Only some wines improve for a long time, and even they follow a path.",
+   "start": 9.02,
+   "end": 13.687,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Wine experts often describe this path as an aging curve.",
+   "start": 14.063,
+   "end": 18.17,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Think of it like a human life.",
+   "start": 18.69,
+   "end": 20.69,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A young fine wine is full of energy.",
+   "start": 21.28,
+   "end": 24.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It has fresh fruit, high acidity and strong tannins.",
+   "start": 24.59,
+   "end": 28.11,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "But it can also feel tight, or closed.",
+   "start": 29.02,
+   "end": 31.74,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The aromas are quiet, and the parts do not yet fit together.",
+   "start": 32.57,
+   "end": 36.33,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Over the years, the wine develops.",
+   "start": 36.85,
+   "end": 39.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Tannins soften, the fruit becomes more complex, and new aromas appear, such as earth, spice and leather.",
+   "start": 40.0,
+   "end": 47.44,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "At some point, everything comes into harmony.",
+   "start": 48.51,
+   "end": 51.15,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This stage is called peak maturity.",
+   "start": 52.06,
+   "end": 54.94,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It is often the best time to open the bottle.",
+   "start": 55.33,
+   "end": 58.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "After the peak, the wine slowly declines.",
+   "start": 58.61,
+   "end": 61.85,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The fruit begins to disappear.",
+   "start": 62.4,
+   "end": 64.48,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Experts call this fading fruit.",
+   "start": 65.15,
+   "end": 67.47,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The wine may taste dry, thin or tired, even if it is still interesting.",
+   "start": 68.38,
+   "end": 73.5,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The period when a wine is enjoyable is called its drinking window.",
+   "start": 74.02,
+   "end": 78.3,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Critics often give estimated windows, for example from two thousand twenty-five to two thousand forty.",
+   "start": 78.93,
+   "end": 85.65,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "But these are only guesses.",
+   "start": 86.08,
+   "end": 87.76,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Storage conditions and personal taste matter a lot.",
+   "start": 88.59,
+   "end": 92.11,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "One practical tip: if you have several bottles of the same wine, open one every few years.",
+   "start": 92.71,
+   "end": 99.59,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "You will learn how it changes and find your favorite moment.",
+   "start": 99.98,
+   "end": 103.62,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 236,
+ "duration": 103.5,
+ "wpm": 137,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:49"
+}

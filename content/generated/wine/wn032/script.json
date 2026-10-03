@@ -1,0 +1,229 @@
+{
+ "id": "wn032",
+ "author": "claude",
+ "category": "wine",
+ "title": "Measuring the Finish: Caudalies and Persistence",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "finish length",
+  "caudalie",
+  "flavor persistence"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Wine critics often praise a wine for its long finish. How do you actually measure that?"
+  },
+  {
+   "speaker": "B",
+   "text": "The finish is the flavor that stays in your mouth after you swallow or spit the wine. Some tasters count the seconds. In French, there's even a unit called a caudalie. One caudalie is one second of flavor."
+  },
+  {
+   "speaker": "A",
+   "text": "So a wine with a ten-second finish has ten caudalies?"
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. Simple wines might last only a few seconds. A great wine can last fifteen, twenty, or even longer. This flavor persistence is generally seen as a sign of quality."
+  },
+  {
+   "speaker": "A",
+   "text": "Is longer always better?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not automatically. You also need to think about what stays. If the only thing you feel after twenty seconds is the burning of alcohol or a bitter taste, that's not a good finish."
+  },
+  {
+   "speaker": "A",
+   "text": "So it's about quality as well as length."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. A great finish keeps the character of the wine, like fruit, spice or minerality, and it fades slowly and gently, like the end of a song."
+  },
+  {
+   "speaker": "A",
+   "text": "Any tips for practicing?"
+  },
+  {
+   "speaker": "B",
+   "text": "After you swallow, breathe out slowly through your nose and count. Notice what you taste at five seconds and at fifteen seconds. Doing this with two wines side by side makes the difference very clear."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Wine critics often praise a wine for its long finish.",
+   "start": 0.0,
+   "end": 3.68,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How do you actually measure that?",
+   "start": 4.27,
+   "end": 6.19,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The finish is the flavor that stays in your mouth after you swallow or spit the wine.",
+   "start": 6.91,
+   "end": 11.95,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Some tasters count the seconds.",
+   "start": 12.62,
+   "end": 14.62,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "In French, there's even a unit called a caudalie.",
+   "start": 15.21,
+   "end": 18.09,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "One caudalie is one second of flavor.",
+   "start": 19.0,
+   "end": 21.72,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "So a wine with a ten-second finish has ten caudalies?",
+   "start": 22.44,
+   "end": 26.76,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 27.48,
+   "end": 28.6,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Simple wines might last only a few seconds.",
+   "start": 29.03,
+   "end": 31.91,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "A great wine can last fifteen, twenty, or even longer.",
+   "start": 32.34,
+   "end": 36.58,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "This flavor persistence is generally seen as a sign of quality.",
+   "start": 37.05,
+   "end": 40.85,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Is longer always better?",
+   "start": 41.57,
+   "end": 43.73,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Not automatically.",
+   "start": 44.45,
+   "end": 45.57,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "You also need to think about what stays.",
+   "start": 46.48,
+   "end": 48.96,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "If the only thing you feel after twenty seconds is the burning of alcohol or a bitter taste, that's not a good finish.",
+   "start": 49.63,
+   "end": 56.75,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So it's about quality as well as length.",
+   "start": 57.47,
+   "end": 60.59,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Right.",
+   "start": 61.31,
+   "end": 61.99,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "A great finish keeps the character of the wine, like fruit, spice or minerality, and it fades slowly and gently, like the end of a song.",
+   "start": 62.54,
+   "end": 71.9,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Any tips for practicing?",
+   "start": 72.62,
+   "end": 74.54,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "After you swallow, breathe out slowly through your nose and count.",
+   "start": 75.26,
+   "end": 79.26,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Notice what you taste at five seconds and at fifteen seconds.",
+   "start": 80.41,
+   "end": 84.01,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Doing this with two wines side by side makes the difference very clear.",
+   "start": 85.08,
+   "end": 89.32,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 205,
+ "duration": 89.2,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 61,
+ "created": "2026-10-03 23:50"
+}

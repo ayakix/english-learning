@@ -1,0 +1,258 @@
+{
+ "id": "ns010",
+ "author": "claude",
+ "category": "science",
+ "title": "How Smart Is an Octopus?",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "intelligence",
+  "camouflage",
+  "nervous system"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Octopuses are famous for being clever. Just how smart are they?"
+  },
+  {
+   "speaker": "B",
+   "text": "They're surprisingly smart, especially for an animal without a backbone. An octopus has about five hundred million nerve cells. That's similar to some dogs."
+  },
+  {
+   "speaker": "A",
+   "text": "Is it all in the brain?"
+  },
+  {
+   "speaker": "B",
+   "text": "No, and that's what makes them so unusual. About two-thirds of those nerve cells are in the arms. Each arm can taste, touch and make some decisions on its own."
+  },
+  {
+   "speaker": "A",
+   "text": "What kind of clever things can they do?"
+  },
+  {
+   "speaker": "B",
+   "text": "In laboratories, they've learned to open jars to get food inside. Some have escaped from their tanks at night, visited other tanks for a snack, and returned before morning."
+  },
+  {
+   "speaker": "A",
+   "text": "Do they use tools?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some do. Scientists filmed one kind of octopus carrying coconut shells across the sea floor. When it needed shelter, it put the shells together and hid inside. That's planning for the future."
+  },
+  {
+   "speaker": "A",
+   "text": "And they can change color, right?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, their camouflage is amazing. They can change color and even the texture of their skin in less than a second, to look like rocks or seaweed. What's strange is that scientists believe most octopuses are colorblind."
+  },
+  {
+   "speaker": "A",
+   "text": "So how do they match colors?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's still a mystery. Some researchers think their skin may be able to sense light directly. Every answer about octopuses seems to bring new questions."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Octopuses are famous for being clever.",
+   "start": 0.0,
+   "end": 2.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Just how smart are they?",
+   "start": 3.39,
+   "end": 5.07,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They're surprisingly smart, especially for an animal without a backbone.",
+   "start": 5.79,
+   "end": 10.31,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "An octopus has about five hundred million nerve cells.",
+   "start": 10.94,
+   "end": 14.58,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "That's similar to some dogs.",
+   "start": 15.13,
+   "end": 17.05,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Is it all in the brain?",
+   "start": 17.77,
+   "end": 19.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "No, and that's what makes them so unusual.",
+   "start": 20.25,
+   "end": 23.61,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "About two-thirds of those nerve cells are in the arms.",
+   "start": 24.16,
+   "end": 27.32,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Each arm can taste, touch and make some decisions on its own.",
+   "start": 27.75,
+   "end": 32.07,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "What kind of clever things can they do?",
+   "start": 32.79,
+   "end": 35.51,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "In laboratories, they've learned to open jars to get food inside.",
+   "start": 36.23,
+   "end": 40.23,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Some have escaped from their tanks at night, visited other tanks for a snack, and returned before morning.",
+   "start": 40.9,
+   "end": 47.3,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Do they use tools?",
+   "start": 48.02,
+   "end": 49.7,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Some do.",
+   "start": 50.42,
+   "end": 51.06,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Scientists filmed one kind of octopus carrying coconut shells across the sea floor.",
+   "start": 51.69,
+   "end": 57.13,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "When it needed shelter, it put the shells together and hid inside.",
+   "start": 57.76,
+   "end": 61.88,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That's planning for the future.",
+   "start": 62.51,
+   "end": 64.43,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And they can change color, right?",
+   "start": 65.15,
+   "end": 67.39,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes, their camouflage is amazing.",
+   "start": 68.11,
+   "end": 71.23,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "They can change color and even the texture of their skin in less than a second, to look like rocks or seaweed.",
+   "start": 71.66,
+   "end": 78.3,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "What's strange is that scientists believe most octopuses are colorblind.",
+   "start": 78.73,
+   "end": 83.29,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So how do they match colors?",
+   "start": 84.01,
+   "end": 86.41,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "That's still a mystery.",
+   "start": 87.13,
+   "end": 88.57,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Some researchers think their skin may be able to sense light directly.",
+   "start": 89.24,
+   "end": 93.64,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Every answer about octopuses seems to bring new questions.",
+   "start": 94.31,
+   "end": 98.23,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 218,
+ "duration": 98.1,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-04 00:00"
+}

@@ -1,0 +1,184 @@
+{
+ "id": "wn013",
+ "author": "claude",
+ "category": "wine",
+ "title": "Hokkaido Pinot Noir: Cool-Climate Potential",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "cool-climate viticulture",
+  "budbreak",
+  "tart red fruit"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Hokkaido, Japan's northern island, is known for snow, seafood and dairy farms. Today, it is also becoming known for Pinot Noir."
+  },
+  {
+   "speaker": "A",
+   "text": "Pinot Noir is famous for being difficult. It needs a cool climate, but not too cold. In warm places, it quickly loses its delicate aromas. That is why it does so well in Burgundy, and why winemakers search the world for similar cool-climate sites."
+  },
+  {
+   "speaker": "A",
+   "text": "Areas such as Yoichi in Hokkaido have become popular for this kind of cool-climate viticulture. Viticulture is the science of growing grapes. Summers there are mild, and the island has no strong rainy season like the rest of Japan."
+  },
+  {
+   "speaker": "A",
+   "text": "However, the season is short. Budbreak, the moment in spring when the first small leaves appear, comes late. Winemakers must then hope the grapes ripen before autumn cold arrives. Winters are long and snowy, and vines need protection."
+  },
+  {
+   "speaker": "A",
+   "text": "The reward is wine with delicate color, tart red fruit such as cranberry and red cherry, and fresh acidity. Many tasters describe these wines as light, pure and elegant."
+  },
+  {
+   "speaker": "A",
+   "text": "Interest from abroad is growing too. A well-known Burgundy producer has even started a winery project in southern Hokkaido."
+  },
+  {
+   "speaker": "A",
+   "text": "As the global climate becomes warmer, cool regions like Hokkaido may become even more important for Pinot Noir in the future."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Hokkaido, Japan's northern island, is known for snow, seafood and dairy farms.",
+   "start": 0.0,
+   "end": 6.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, it is also becoming known for Pinot Noir.",
+   "start": 7.19,
+   "end": 10.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Pinot Noir is famous for being difficult.",
+   "start": 11.03,
+   "end": 14.11,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It needs a cool climate, but not too cold.",
+   "start": 14.74,
+   "end": 17.62,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In warm places, it quickly loses its delicate aromas.",
+   "start": 18.53,
+   "end": 22.69,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why it does so well in Burgundy, and why winemakers search the world for similar cool-climate sites.",
+   "start": 23.36,
+   "end": 30.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Areas such as Yoichi in Hokkaido have become popular for this kind of cool-climate viticulture.",
+   "start": 31.32,
+   "end": 37.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Viticulture is the science of growing grapes.",
+   "start": 38.31,
+   "end": 41.55,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Summers there are mild, and the island has no strong rainy season like the rest of Japan.",
+   "start": 42.34,
+   "end": 48.18,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "However, the season is short.",
+   "start": 48.7,
+   "end": 50.78,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Budbreak, the moment in spring when the first small leaves appear, comes late.",
+   "start": 51.77,
+   "end": 57.25,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Winemakers must then hope the grapes ripen before autumn cold arrives.",
+   "start": 57.96,
+   "end": 63.08,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Winters are long and snowy, and vines need protection.",
+   "start": 63.47,
+   "end": 67.91,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The reward is wine with delicate color, tart red fruit such as cranberry and red cherry, and fresh acidity.",
+   "start": 68.43,
+   "end": 76.91,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many tasters describe these wines as light, pure and elegant.",
+   "start": 77.98,
+   "end": 82.78,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Interest from abroad is growing too.",
+   "start": 83.3,
+   "end": 85.54,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "A well-known Burgundy producer has even started a winery project in southern Hokkaido.",
+   "start": 86.45,
+   "end": 92.13,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "As the global climate becomes warmer, cool regions like Hokkaido may become even more important for Pinot Noir in the future.",
+   "start": 92.65,
+   "end": 101.29,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 211,
+ "duration": 101.2,
+ "wpm": 125,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:48"
+}

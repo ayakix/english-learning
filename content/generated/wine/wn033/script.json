@@ -1,0 +1,194 @@
+{
+ "id": "wn033",
+ "author": "claude",
+ "category": "wine",
+ "title": "Reductive vs Oxidative Winemaking Styles",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "reductive style",
+  "controlled oxidation",
+  "hydrogen sulfide"
+ ],
+ "cast": {
+  "A": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Oxygen is both a friend and an enemy of wine. How a winemaker manages it creates two broad styles: reductive and oxidative."
+  },
+  {
+   "speaker": "A",
+   "text": "In a reductive style, the winemaker protects the wine from oxygen as much as possible. Fermentation often happens in sealed stainless steel tanks. Inert gases, which do not react with wine, are used to push air out of tanks and bottles. Screw caps are common. The goal is to keep fresh, bright fruit aromas, like citrus, green apple and passion fruit. Many crisp white wines, such as some Sauvignon Blancs, are made this way."
+  },
+  {
+   "speaker": "A",
+   "text": "However, too little oxygen can cause problems. Yeast may produce sulfur compounds, such as hydrogen sulfide, which smells like rotten eggs. In smaller amounts, reduction can smell like a struck match or flint. Some tasters enjoy a little of this smoky note. Too much is a fault."
+  },
+  {
+   "speaker": "A",
+   "text": "In an oxidative style, the winemaker allows controlled oxidation, meaning slow and planned contact with oxygen. Barrel aging is a classic way to do this. Fruit becomes less fresh, but the wine gains depth, with notes of nuts, honey, bread and dried fruit. The texture often becomes rounder."
+  },
+  {
+   "speaker": "A",
+   "text": "At the extreme end are some styles of sherry, which are aged with a lot of contact with air and develop strong nutty flavors."
+  },
+  {
+   "speaker": "A",
+   "text": "Most wines are somewhere in between. Understanding these two directions helps you understand many of the differences you taste in the glass."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Oxygen is both a friend and an enemy of wine.",
+   "start": 0.0,
+   "end": 3.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How a winemaker manages it creates two broad styles: reductive and oxidative.",
+   "start": 4.11,
+   "end": 10.11,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In a reductive style, the winemaker protects the wine from oxygen as much as possible.",
+   "start": 10.63,
+   "end": 15.91,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Fermentation often happens in sealed stainless steel tanks.",
+   "start": 16.82,
+   "end": 20.86,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Inert gases, which do not react with wine, are used to push air out of tanks and bottles.",
+   "start": 21.49,
+   "end": 27.45,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Screw caps are common.",
+   "start": 28.08,
+   "end": 29.28,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The goal is to keep fresh, bright fruit aromas, like citrus, green apple and passion fruit.",
+   "start": 30.27,
+   "end": 36.19,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Many crisp white wines, such as some Sauvignon Blancs, are made this way.",
+   "start": 36.86,
+   "end": 41.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "However, too little oxygen can cause problems.",
+   "start": 42.18,
+   "end": 45.5,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Yeast may produce sulfur compounds, such as hydrogen sulfide, which smells like rotten eggs.",
+   "start": 46.13,
+   "end": 52.13,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In smaller amounts, reduction can smell like a struck match or flint.",
+   "start": 52.8,
+   "end": 57.28,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some tasters enjoy a little of this smoky note.",
+   "start": 57.95,
+   "end": 60.51,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Too much is a fault.",
+   "start": 61.34,
+   "end": 63.02,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In an oxidative style, the winemaker allows controlled oxidation, meaning slow and planned contact with oxygen.",
+   "start": 63.54,
+   "end": 71.14,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Barrel aging is a classic way to do this.",
+   "start": 72.05,
+   "end": 74.73,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Fruit becomes less fresh, but the wine gains depth, with notes of nuts, honey, bread and dried fruit.",
+   "start": 75.36,
+   "end": 82.6,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The texture often becomes rounder.",
+   "start": 83.23,
+   "end": 85.47,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "At the extreme end are some styles of sherry, which are aged with a lot of contact with air and develop strong nutty flavors.",
+   "start": 85.99,
+   "end": 94.23,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Most wines are somewhere in between.",
+   "start": 94.75,
+   "end": 97.07,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Understanding these two directions helps you understand many of the differences you taste in the glass.",
+   "start": 97.74,
+   "end": 103.58,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 237,
+ "duration": 103.5,
+ "wpm": 137,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-03 23:50"
+}

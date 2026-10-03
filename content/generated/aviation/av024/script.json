@@ -1,0 +1,190 @@
+{
+ "id": "av024",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Fly-by-Wire: How Computers Translate Pilot Inputs",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "fly-by-wire (FBW)",
+  "flight control computer",
+  "flight envelope protection"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In early airplanes, pilots controlled the aircraft through a direct link. Cables and rods connected the control stick to the moving surfaces on the wings and tail. Later, hydraulic systems helped move these heavy surfaces. Today, many modern airliners use a system called fly-by-wire."
+  },
+  {
+   "speaker": "A",
+   "text": "With fly-by-wire, or FBW, there is no direct mechanical connection. When the pilot moves the controls, sensors turn that movement into electrical signals. These signals go to a flight control computer. The computer decides how to move the control surfaces, and then sends commands to them."
+  },
+  {
+   "speaker": "A",
+   "text": "Why add a computer between the pilot and the airplane? One reason is weight. Wires are lighter than long cables and rods. Another reason is precision. The computer can make many small adjustments every second, making the flight smoother."
+  },
+  {
+   "speaker": "A",
+   "text": "The most important reason is safety. Many fly-by-wire systems include flight envelope protection. The flight envelope is the range of speeds, angles and forces in which the aircraft can fly safely. The computer can stop the plane from going too slow, too fast or turning too steeply, even if the pilot makes a sudden mistake."
+  },
+  {
+   "speaker": "A",
+   "text": "The Airbus A320, introduced in the late nineteen eighties, was the first airliner with a full digital fly-by-wire system. Boeing followed with the 777. Today, almost all new airliners use some form of it."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In early airplanes, pilots controlled the aircraft through a direct link.",
+   "start": 0.0,
+   "end": 4.8,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Cables and rods connected the control stick to the moving surfaces on the wings and tail.",
+   "start": 5.47,
+   "end": 10.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Later, hydraulic systems helped move these heavy surfaces.",
+   "start": 11.58,
+   "end": 15.46,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, many modern airliners use a system called fly-by-wire.",
+   "start": 16.09,
+   "end": 20.81,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "With fly-by-wire, or FBW, there is no direct mechanical connection.",
+   "start": 21.33,
+   "end": 27.17,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When the pilot moves the controls, sensors turn that movement into electrical signals.",
+   "start": 27.84,
+   "end": 33.6,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "These signals go to a flight control computer.",
+   "start": 34.07,
+   "end": 37.07,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The computer decides how to move the control surfaces, and then sends commands to them.",
+   "start": 37.46,
+   "end": 42.86,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Why add a computer between the pilot and the airplane?",
+   "start": 43.38,
+   "end": 46.58,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One reason is weight.",
+   "start": 47.41,
+   "end": 49.05,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Wires are lighter than long cables and rods.",
+   "start": 49.68,
+   "end": 52.48,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Another reason is precision.",
+   "start": 53.31,
+   "end": 55.07,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The computer can make many small adjustments every second, making the flight smoother.",
+   "start": 55.9,
+   "end": 61.26,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The most important reason is safety.",
+   "start": 61.78,
+   "end": 64.1,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many fly-by-wire systems include flight envelope protection.",
+   "start": 65.09,
+   "end": 69.33,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The flight envelope is the range of speeds, angles and forces in which the aircraft can fly safely.",
+   "start": 69.72,
+   "end": 76.56,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The computer can stop the plane from going too slow, too fast or turning too steeply, even if the pilot makes a sudden mistake.",
+   "start": 76.95,
+   "end": 85.31,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The Airbus A320, introduced in the late nineteen eighties, was the first airliner with a full digital fly-by-wire system.",
+   "start": 85.83,
+   "end": 94.63,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Boeing followed with the 777.",
+   "start": 95.06,
+   "end": 97.78,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, almost all new airliners use some form of it.",
+   "start": 98.45,
+   "end": 101.89,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 218,
+ "duration": 101.9,
+ "wpm": 128,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-03 23:52"
+}

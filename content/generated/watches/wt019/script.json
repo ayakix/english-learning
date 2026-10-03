@@ -1,0 +1,162 @@
+{
+ "id": "wt019",
+ "author": "claude",
+ "category": "watches",
+ "title": "Perlage: The Circular Graining",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "perlage",
+  "circular graining",
+  "baseplate decoration"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you open a fine watch and look at the main plate, you may see a pattern of small overlapping circles, like fish scales or bubbles. This decoration is called perlage. In English, it is sometimes called circular graining."
+  },
+  {
+   "speaker": "A",
+   "text": "Perlage is made with a small rotating peg, usually tipped with an abrasive material. The craftsperson presses the spinning peg onto the metal for a moment, creating one tiny circle. Then the plate is moved slightly, and the next circle is made, partly covering the first one. Row by row, the pattern spreads across the surface."
+  },
+  {
+   "speaker": "A",
+   "text": "It sounds simple, but even spacing is essential. If the circles are not regular, the eye notices immediately. On a high-quality piece, the pattern looks smooth and calm, with soft reflections that change as the watch moves."
+  },
+  {
+   "speaker": "A",
+   "text": "Interestingly, perlage is often found on surfaces most people never see, such as the dial side of the baseplate, under the dial. This shows that it began as a sign of care, not as marketing. Some people also say the tiny textures helped catch small particles of dust, although this is hard to prove."
+  },
+  {
+   "speaker": "A",
+   "text": "Today, perlage can be made by machines as well as by hand. Still, it remains one of the classic finishes in watchmaking. When a maker decorates even hidden parts, it suggests that the visible parts have received the same attention."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you open a fine watch and look at the main plate, you may see a pattern of small overlapping circles, like fish scales or bubbles.",
+   "start": 0.0,
+   "end": 8.84,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This decoration is called perlage.",
+   "start": 9.55,
+   "end": 12.07,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In English, it is sometimes called circular graining.",
+   "start": 12.7,
+   "end": 16.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Perlage is made with a small rotating peg, usually tipped with an abrasive material.",
+   "start": 16.74,
+   "end": 22.26,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The craftsperson presses the spinning peg onto the metal for a moment, creating one tiny circle.",
+   "start": 22.93,
+   "end": 29.21,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Then the plate is moved slightly, and the next circle is made, partly covering the first one.",
+   "start": 29.92,
+   "end": 35.4,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Row by row, the pattern spreads across the surface.",
+   "start": 36.11,
+   "end": 39.71,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It sounds simple, but even spacing is essential.",
+   "start": 40.23,
+   "end": 43.87,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If the circles are not regular, the eye notices immediately.",
+   "start": 44.5,
+   "end": 48.74,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "On a high-quality piece, the pattern looks smooth and calm, with soft reflections that change as the watch moves.",
+   "start": 49.17,
+   "end": 56.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Interestingly, perlage is often found on surfaces most people never see, such as the dial side of the baseplate, under the dial.",
+   "start": 57.05,
+   "end": 65.85,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This shows that it began as a sign of care, not as marketing.",
+   "start": 66.32,
+   "end": 70.52,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people also say the tiny textures helped catch small particles of dust, although this is hard to prove.",
+   "start": 70.99,
+   "end": 77.75,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, perlage can be made by machines as well as by hand.",
+   "start": 78.27,
+   "end": 82.51,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Still, it remains one of the classic finishes in watchmaking.",
+   "start": 83.18,
+   "end": 87.02,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When a maker decorates even hidden parts, it suggests that the visible parts have received the same attention.",
+   "start": 87.69,
+   "end": 94.33,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 226,
+ "duration": 94.2,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:44"
+}

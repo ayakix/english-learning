@@ -1,0 +1,114 @@
+{
+ "id": "av016",
+ "author": "claude",
+ "summary_ja": "翼端が上に曲がっているのは「誘導抗力」を減らすため。揚力を生むとき翼の下の高圧の空気が上の低圧側へ回り込み、翼端で渦（翼端渦）ができてエネルギーを奪う。A320のシャークレットやウィングレットはこれを弱める。787 は翼端を細く強く後退させたレイクド・ウィングチップで同じ目的を達成。節約は数%だが、何千便も飛ぶ航空会社には大きい。",
+ "listening": [
+  {
+   "q": "上に曲がった翼端の目的は？",
+   "options": [
+    "見た目をよくすること",
+    "誘導抗力を減らすこと",
+    "鳥をよけること",
+    "雨を流すこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"They're designed to reduce something called induced drag.\""
+  },
+  {
+   "q": "787 の翼端の特徴は？",
+   "options": [
+    "翼端がない",
+    "大きなシャークレットがある",
+    "翼端が下に曲がっている",
+    "垂直な部分がなく、翼端が細く強く後ろに傾いている"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The 787 uses a raked wingtip. The wing gets thinner and sweeps back more strongly near the end.\""
+  },
+  {
+   "q": "燃料の節約について B の説明は？",
+   "options": [
+    "数%だが、何千便も飛ぶ航空会社には大きな額になる",
+    "まったく変わらない",
+    "逆に増える",
+    "半分になる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Usually a few percent ... for an airline flying thousands of flights, a few percent means a huge amount of fuel and money\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "翼が揚力を生むとき、翼の下の高い気圧の空気が、上の低い気圧のほうへ移ろうとします。",
+   "points_ja": "creates lift がつながり、move to the lower が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "その渦巻く空気は飛行機からエネルギーを奪います。",
+   "points_ja": "swirling air がつながり、takes energy from the が続けて聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "垂直な部分なしに、似た目的を達成します。",
+   "points_ja": "reaches a similar がつながり、without a vertical が「ウィザウタヴァーティカル」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "サメの研究",
+    "飛行機の色",
+    "翼端の形が誘導抗力を減らし、燃料を節約する仕組み",
+    "翼の材料"
+   ],
+   "answer": 2,
+   "explanation_ja": "翼端渦、シャークレット、レイクド・ウィングチップ、節約効果を話しています。"
+  },
+  {
+   "q": "wingtip vortex のたとえとして A が使ったのは？",
+   "options": [
+    "それぞれの翼の後ろの小さな竜巻",
+    "滝",
+    "雲",
+    "波"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Like a small tornado behind each wing?\""
+  },
+  {
+   "q": "sharklet の形は何に似ている？",
+   "options": [
+    "魚のしっぽ",
+    "船の帆",
+    "鳥の羽",
+    "サメのひれ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"They're tall and curved, a bit like a shark's fin.\""
+  },
+  {
+   "q": "induced drag が問題な理由は？",
+   "options": [
+    "機体が重くなるから",
+    "騒音が増えるから",
+    "より多くの燃料が必要になるから",
+    "揚力が増えすぎるから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It's a kind of drag, which means more fuel is needed.\""
+  },
+  {
+   "q": "節約の効果として最後に挙げられているものに含まれないのは？",
+   "options": [
+    "排出量の削減",
+    "燃料",
+    "乗客数の増加",
+    "お金"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"a huge amount of fuel and money, and lower emissions too\" で、乗客数は出てきません。"
+  }
+ ]
+}

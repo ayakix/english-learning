@@ -1,0 +1,114 @@
+{
+ "id": "wn006",
+ "author": "claude",
+ "summary_ja": "ワインの香りは3つに分けて考えられる。ブドウ由来の果実や花の「第一アロマ」、発酵や樽由来のパンやバター、バニラなどの「第二アロマ」、瓶熟成で生まれる森の下草、きのこ、ドライフルーツ、レザーなどの「第三アロマ（ブーケ）」。ブーケのあるワインが常に上ではないが、果実味を残しつつ美しいブーケが出たワインは特別。",
+ "listening": [
+  {
+   "q": "primary aromas はどこから来る？",
+   "options": [
+    "瓶",
+    "樽",
+    "ブドウそのもの",
+    "酵母"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"First, there are primary aromas. These come from the grape itself.\""
+  },
+  {
+   "q": "tertiary aromas（ブーケ）が生まれるのは？",
+   "options": [
+    "グラスに注いだ瞬間",
+    "瓶の中で何年もかけて熟成するとき",
+    "ブドウを摘むとき",
+    "発酵の最初の日"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"They develop as the wine ages, slowly, over years in the bottle.\""
+  },
+  {
+   "q": "ブーケのあるワインについて B の意見は？",
+   "options": [
+    "常に上とは限らないが、果実味を残した美しいブーケは特別",
+    "すぐ飲むべき",
+    "価値がない",
+    "常に若いワインより上"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Not always ... But when a wine develops a beautiful bouquet while keeping some fruit, it can be very special.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 7,
+   "ja": "若いピノ・ノワールはサクランボやスミレの香りがするかもしれません。",
+   "points_ja": "might smell の t は飲み込まれ、smell of が「スメラヴ」とつながります。"
+  },
+  {
+   "sentence": 10,
+   "ja": "発酵とオーク樽が、パン、バター、バニラ、トーストのような香りを加えます。",
+   "points_ja": "Fermentation and oak が続けて聞こえ、notes like の s が軽くつながります。"
+  },
+  {
+   "sentence": 18,
+   "ja": "新鮮な果実の香りは控えめになり、より複雑な香りが現れます。",
+   "points_ja": "fruit becomes の t は聞こえず、notes appear がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ワインの値段",
+    "ワインの香りを3つのグループに分けて理解する方法",
+    "きのこの種類",
+    "ワインの作り方全体"
+   ],
+   "answer": 1,
+   "explanation_ja": "第一・第二・第三アロマの考え方を説明しています。"
+  },
+  {
+   "q": "secondary aromas の例として挙げられているのは？",
+   "options": [
+    "森の下草、たばこ",
+    "パン、バター、バニラ、トースト",
+    "きのこ、レザー",
+    "サクランボ、スミレ"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Fermentation and oak barrels add notes like bread, butter, vanilla or toast.\""
+  },
+  {
+   "q": "forest floor の説明として正しいものは？",
+   "options": [
+    "床に置いたワイン",
+    "森で採れた果物",
+    "森の木の色",
+    "森の湿った落ち葉や土のにおい"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the smell of damp leaves and soil in a forest.\""
+  },
+  {
+   "q": "熟成によって果実の香りはどうなる？",
+   "options": [
+    "甘くなる",
+    "控えめになる",
+    "まったく変わらない",
+    "強くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The fresh fruit becomes quieter\"。"
+  },
+  {
+   "q": "コレクターが何年も待つ理由として推測できることは？",
+   "options": [
+    "ワインを捨てるため",
+    "果実味を残しつつ美しいブーケが出た状態を楽しむため",
+    "色を薄くするため",
+    "値段を下げるため"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That's what many collectors wait years for.\""
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "id": "pa016",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Why Chores Are Good for Kids",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "chores",
+  "responsibility",
+  "self-confidence"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many parents find it easier to do housework themselves. Asking children to help often takes longer and creates more mess. But research and experience suggest that household chores offer children important benefits."
+  },
+  {
+   "speaker": "A",
+   "text": "Chores are regular tasks that help the household run, like setting the table, feeding a pet or folding laundry. When children do them, they learn practical life skills. A teenager who has never cooked or cleaned may struggle when living alone for the first time."
+  },
+  {
+   "speaker": "A",
+   "text": "Chores also build a sense of responsibility. When a child knows that the plants will die if they forget to water them, they learn that their actions matter to others. They begin to see themselves as useful members of the family, not just people who receive help."
+  },
+  {
+   "speaker": "A",
+   "text": "This can increase self-confidence. Completing a real task, especially one that adults also do, makes children feel capable. Some long-term studies suggest that children who did chores from an early age tend to develop stronger self-reliance as adults."
+  },
+  {
+   "speaker": "A",
+   "text": "The key is to match chores to the child's age. A three-year-old can put toys in a box. A six-year-old can set the table. A ten-year-old can help cook simple meals."
+  },
+  {
+   "speaker": "A",
+   "text": "Parents should also be patient with imperfect results. If you redo every task, children learn that their effort is not valued."
+  },
+  {
+   "speaker": "A",
+   "text": "Finally, many experts suggest not paying children for basic chores. Helping the family is something everyone does, simply because they are part of it."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many parents find it easier to do housework themselves.",
+   "start": 0.0,
+   "end": 3.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Asking children to help often takes longer and creates more mess.",
+   "start": 4.03,
+   "end": 8.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But research and experience suggest that household chores offer children important benefits.",
+   "start": 8.94,
+   "end": 14.78,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Chores are regular tasks that help the household run, like setting the table, feeding a pet or folding laundry.",
+   "start": 15.3,
+   "end": 22.26,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When children do them, they learn practical life skills.",
+   "start": 23.09,
+   "end": 26.29,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A teenager who has never cooked or cleaned may struggle when living alone for the first time.",
+   "start": 26.88,
+   "end": 32.24,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Chores also build a sense of responsibility.",
+   "start": 32.76,
+   "end": 35.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When a child knows that the plants will die if they forget to water them, they learn that their actions matter to others.",
+   "start": 36.23,
+   "end": 42.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "They begin to see themselves as useful members of the family, not just people who receive help.",
+   "start": 43.38,
+   "end": 49.14,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This can increase self-confidence.",
+   "start": 49.66,
+   "end": 51.58,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Completing a real task, especially one that adults also do, makes children feel capable.",
+   "start": 52.41,
+   "end": 58.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some long-term studies suggest that children who did chores from an early age tend to develop stronger self-reliance as adults.",
+   "start": 59.08,
+   "end": 66.76,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The key is to match chores to the child's age.",
+   "start": 67.28,
+   "end": 70.52,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A three-year-old can put toys in a box.",
+   "start": 71.07,
+   "end": 73.39,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A six-year-old can set the table.",
+   "start": 73.9,
+   "end": 75.9,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A ten-year-old can help cook simple meals.",
+   "start": 76.49,
+   "end": 79.13,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Parents should also be patient with imperfect results.",
+   "start": 79.65,
+   "end": 83.49,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "If you redo every task, children learn that their effort is not valued.",
+   "start": 83.92,
+   "end": 88.72,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Finally, many experts suggest not paying children for basic chores.",
+   "start": 89.24,
+   "end": 93.96,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Helping the family is something everyone does, simply because they are part of it.",
+   "start": 94.79,
+   "end": 99.27,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 238,
+ "duration": 99.2,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 78,
+ "created": "2026-10-03 23:58"
+}

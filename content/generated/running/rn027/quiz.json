@@ -1,0 +1,114 @@
+{
+ "id": "rn027",
+ "author": "claude",
+ "summary_ja": "昔は運動前にじっと30秒以上伸ばす静的ストレッチが一般的だったが、今は走る前には動的ウォーミングアップが勧められる。軽いジョグ、レッグスイング、ランジ、もも上げ、短い加速走（ストライド）など。長い静的ストレッチは直前にやると一時的に筋力やスピードが落ちることがある。動的な動きは体温と血流を上げ、脳と筋肉の連携（神経筋の準備）を目覚めさせる。静的ストレッチは走った後や夜に。",
+ "listening": [
+  {
+   "q": "今、走る前に多くのコーチが勧めるのは？",
+   "options": [
+    "昼寝",
+    "長い静的ストレッチ",
+    "何もしない",
+    "動的ウォーミングアップ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Today, many coaches recommend a different approach before running: the dynamic warm-up.\""
+  },
+  {
+   "q": "直前の長い静的ストレッチの問題として研究が示すのは？",
+   "options": [
+    "体が温まりすぎる",
+    "眠くなる",
+    "一時的に筋力やスピードが落ちることがある",
+    "けがが治る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"long static stretches just before exercise can temporarily reduce muscle power and speed.\""
+  },
+  {
+   "q": "静的ストレッチについての結論は？",
+   "options": [
+    "効果はない",
+    "走る前にだけする",
+    "悪くはなく、走った後や夜に柔軟性向上のため行うとよい",
+    "絶対にしてはいけない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Does this mean static stretching is bad? Not at all ... many people enjoy it after running or in the evening\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "じっと立って、それぞれのストレッチを30秒以上保っていました。",
+   "points_ja": "stand still and hold each が続き、thirty seconds or more の or は弱形です。"
+  },
+  {
+   "sentence": 6,
+   "ja": "目的は、走るための特有の動きに体を準備させることです。",
+   "points_ja": "prepare the body for the が続き、movements of running が「ムーヴメンツァヴランニング」と聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "脚が軽く感じ、最初の速いステップがより滑らかに感じます。",
+   "points_ja": "legs feel lighter がつながり、first fast steps の t が飲み込まれます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "走る前は動的ウォームアップ、静的ストレッチは走った後がよい",
+    "ストレッチは不要",
+    "ウォームアップは長いほどよい",
+    "静的ストレッチは走る前が最適"
+   ],
+   "answer": 0,
+   "explanation_ja": "2種類のストレッチの使い分けを説明しています。"
+  },
+  {
+   "q": "動的ウォーミングアップに含まれないものは？",
+   "options": [
+    "床に寝て30秒伸ばす",
+    "もも上げ",
+    "レッグスイング",
+    "軽いジョグ"
+   ],
+   "answer": 0,
+   "explanation_ja": "動的ウォーミングアップは動きを使うもので、じっと伸ばすのは静的ストレッチです。"
+  },
+  {
+   "q": "strides とは？",
+   "options": [
+    "歩くこと",
+    "坂道ダッシュ",
+    "短くリラックスした加速走",
+    "長距離走"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"short, relaxed accelerations called strides.\""
+  },
+  {
+   "q": "neuromuscular readiness の意味は？",
+   "options": [
+    "筋肉の大きさ",
+    "柔軟性",
+    "脳と筋肉の連携が目覚めた準備状態",
+    "心臓の強さ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It also wakes up the connection between the brain and the muscles. Coaches call this neuromuscular readiness.\""
+  },
+  {
+   "q": "きつい練習の前の簡単なルーティンの例は？",
+   "options": [
+    "30分の静的ストレッチ",
+    "10分の軽いジョグ、5分の動的ドリル、数本の流し",
+    "いきなり全力",
+    "長い昼寝"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"ten minutes of easy jogging, five minutes of dynamic drills and a few strides.\""
+  }
+ ]
+}

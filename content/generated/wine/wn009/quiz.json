@@ -1,0 +1,114 @@
+{
+ "id": "wn009",
+ "author": "claude",
+ "summary_ja": "マロラクティック発酵は、アルコール発酵の後に乳酸菌が行う2回目の発酵。青リンゴのような鋭いリンゴ酸を、乳製品のようなやわらかい乳酸に変え、ワインを丸くクリーミーにする。ジアセチルという成分がバター香を生む。ムルソーは豊かなスタイル、シャブリは新樽をあまり使わずきりっとしたものが多い。",
+ "listening": [
+  {
+   "q": "マロラクティック発酵を行うのは？",
+   "options": [
+    "酵母",
+    "樽の木",
+    "乳酸菌などのバクテリア",
+    "人の手"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It is not really done by yeast. It is done by bacteria.\""
+  },
+  {
+   "q": "この発酵でワインはどう変わる？",
+   "options": [
+    "甘くなる",
+    "より酸っぱくなる",
+    "酸味がやわらぎ、丸くクリーミーになる",
+    "泡が出る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the wine tastes less sharp and feels rounder and creamier.\""
+  },
+  {
+   "q": "シャルドネを飲むときに話し手が勧める問いは？",
+   "options": [
+    "古いか新しいか",
+    "青リンゴかバターか",
+    "高いか安いか",
+    "赤か白か"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"ask yourself: green apple or butter?\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "主なアルコール発酵の後、多くのワインは2回目の、より静かな工程を経ます。",
+   "points_ja": "go through a second がつながり、quieter process が続きます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "その結果、ワインは酸味が弱く感じられ、より丸くクリーミーになります。",
+   "points_ja": "As a result が「アザリザルト」、rounder and creamier の and は「ン」です。"
+  },
+  {
+   "sentence": 15,
+   "ja": "その結果、ふくよかでナッツのような、クリーミーな白ワインになることが多いです。",
+   "points_ja": "result is often a がつながり、nutty and creamy の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "シャブリの地理",
+    "乳製品とワインの組み合わせ",
+    "白ワインの作り方全体",
+    "マロラクティック発酵の仕組みと、シャルドネのスタイルへの影響"
+   ],
+   "answer": 3,
+   "explanation_ja": "リンゴ酸から乳酸への変化と、豊かなスタイルときりっとしたスタイルを説明しています。"
+  },
+  {
+   "q": "malic acid は何に含まれる酸と同じ？",
+   "options": [
+    "レモン",
+    "酢",
+    "牛乳",
+    "青リンゴ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It is the same sharp acid you taste in a green apple.\""
+  },
+  {
+   "q": "diacetyl がもたらす香りは？",
+   "options": [
+    "煙",
+    "木",
+    "花",
+    "バター"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In small amounts, it gives a buttery aroma.\""
+  },
+  {
+   "q": "ムルソーの豊かなスタイルの作り方として書かれているのは？",
+   "options": [
+    "発酵を止める",
+    "冷やして作る",
+    "マロラクティック発酵を完全に行い、オーク樽で熟成する",
+    "樽を使わない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Many producers there allow full malolactic fermentation and age the wine in oak barrels.\""
+  },
+  {
+   "q": "きりっとしたスタイルのための方法として書かれているのは？",
+   "options": [
+    "長く樽に入れる",
+    "砂糖を加える",
+    "ジアセチルをあまり作らない菌を選んだり、発酵を制限したりする",
+    "温めて発酵させる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"They may choose bacteria that create little diacetyl, or limit the process in some wines.\""
+  }
+ ]
+}

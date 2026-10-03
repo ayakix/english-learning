@@ -1,0 +1,114 @@
+{
+ "id": "ns004",
+ "author": "claude",
+ "summary_ja": "ミツバチは花畑を見つけると、巣に戻ってダンスで仲間に場所を伝える（8の字ダンス）。カール・フォン・フリッシュが詳しく研究しノーベル賞を受けた。暗い巣の中で体を左右に振りながらまっすぐ歩き、戻って繰り返す。直線の向きが太陽を基準にした方向（巣板を真上なら太陽の方へ）を、振る時間の長さが距離を表す。近い花には円形ダンス。脳は米粒より小さい。",
+ "listening": [
+  {
+   "q": "waggle dance で伝えるものは？",
+   "options": [
+    "女王の居場所",
+    "天気",
+    "花の方向と距離",
+    "敵の数"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"she returns to the hive and tells her sisters exactly where to go\"、方向と距離を伝えるダンスです。"
+  },
+  {
+   "q": "ダンサーが巣板をまっすぐ上に歩く意味は？",
+   "options": [
+    "太陽の方向へ飛べ",
+    "花は巣のすぐ近く",
+    "雨が降る",
+    "危険がある"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If the dancer moves straight up the wall of the honeycomb, it means fly toward the sun.\""
+  },
+  {
+   "q": "花が巣のとても近くにあるときは？",
+   "options": [
+    "においだけで伝える",
+    "8の字ダンスを長くする",
+    "ダンスをしない",
+    "もっと簡単な円形ダンスをする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"For flowers very close to the hive, bees perform a simpler round dance instead.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "この行動は8の字ダンスとして知られています。",
+   "points_ja": "behavior is known as the が一続きに聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "暗い巣の中で、ハチは体を左右に振りながらまっすぐ歩きます。",
+   "points_ja": "walks in a straight line が続き、from side to side が一続きに聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "振る時間が長いほど、食べ物は遠くにあることを意味します。",
+   "points_ja": "longer waggle means がつながり、food is farther away が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ミツバチは声で話す",
+    "ミツバチは迷子になりやすい",
+    "ハチは花を食べる",
+    "ミツバチは8の字ダンスで花の方向と距離を仲間に伝える"
+   ],
+   "answer": 3,
+   "explanation_ja": "ダンスの仕組みと、その驚くべき伝達システムを説明しています。"
+  },
+  {
+   "q": "この行動を詳しく研究し、ノーベル賞を受けた人は？",
+   "options": [
+    "ルドルフ・シュタイナー",
+    "キャロル・ドゥエック",
+    "ブレゲ",
+    "カール・フォン・フリッシュ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It was studied in detail by the Austrian scientist Karl von Frisch, who later received a Nobel Prize\"。"
+  },
+  {
+   "q": "ダンスの形は何に似ている？",
+   "options": [
+    "数字の8",
+    "円",
+    "三角",
+    "星"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"forming a shape a bit like the number eight.\""
+  },
+  {
+   "q": "他のハチがダンスから情報を得る方法として書かれているのは？",
+   "options": [
+    "太陽を見る",
+    "ダンサーの動きを感じ、運んできた花粉や蜜のにおいをかぐ",
+    "地図を見る",
+    "ダンサーの声を聞く"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Other bees follow the dancer closely, feeling her movements and smelling the pollen and nectar she carries.\""
+  },
+  {
+   "q": "最後の文で強調されていることは？",
+   "options": [
+    "米粒より小さい脳の昆虫が、驚くべき伝達システムを作った",
+    "ハチは賢くない",
+    "米はハチの食べ物",
+    "ハチの脳は大きい"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"created by an insect with a brain smaller than a grain of rice.\""
+  }
+ ]
+}

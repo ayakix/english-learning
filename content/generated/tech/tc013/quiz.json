@@ -1,0 +1,114 @@
+{
+ "id": "tc013",
+ "author": "claude",
+ "summary_ja": "多くの人はアイコン、名前、最初のスクリーンショットを数秒見てダウンロードするか決める。だからアプリストア最適化（ASO）が重要。検索では名前、サブタイトル、キーワードなどのメタデータに、実際のユーザーが打つ言葉を選ぶ。説得には最初の2〜3枚の画像が鍵で、主な利点を見出しで伝える。成果は閲覧からの転換率で測り、Apple では製品ページの別バージョンを実データで比較できる。",
+ "listening": [
+  {
+   "q": "多くの人がダウンロードを決めるまでの時間は？",
+   "options": [
+    "数分",
+    "数日",
+    "数秒",
+    "数時間"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Most people decide whether to download an app in just a few seconds.\""
+  },
+  {
+   "q": "スクリーンショットについて重要なことは？",
+   "options": [
+    "画像は不要",
+    "最後の1枚が大切",
+    "枚数が多いほどよい",
+    "多くの人は最初の2〜3枚しか見ないので、主な利点をはっきり示す"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many visitors never scroll beyond the first two or three images. So those images should clearly show the main benefit.\""
+  },
+  {
+   "q": "Apple が開発者に提供している機能は？",
+   "options": [
+    "無料の広告",
+    "ランキングの操作",
+    "レビューの削除",
+    "異なる製品ページを実際の訪問者で試せる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Apple also lets developers test different product page versions with real visitors.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "人はアイコン、名前、App Store のページの最初のスクリーンショットを見ます。",
+   "points_ja": "look at the icon が「ルカットジアイコン」とつながり、the name and the が続けて聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "2つの主な部分があります。検索で見つけてもらうことと、ページを見た人を納得させることです。",
+   "points_ja": "has two main が続き、convincing people once they が続けて聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "小さな改善でも、ずっと多くのユーザーにつながることがあります。",
+   "points_ja": "small improvements がつながり、lead to many の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "見つけてもらい、納得してもらうための App Store 最適化の考え方",
+    "広告の出し方",
+    "アプリの作り方",
+    "アイコンの描き方"
+   ],
+   "answer": 0,
+   "explanation_ja": "ASO の2つの部分と、測り方・改善方法を説明しています。"
+  },
+  {
+   "q": "store metadata に含まれるものは？",
+   "options": [
+    "ユーザーの名前",
+    "アプリの容量",
+    "アプリ名、サブタイトル、キーワード欄",
+    "開発者の住所"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This includes your app name, subtitle and keyword field.\""
+  },
+  {
+   "q": "キーワードについてのアドバイスは？",
+   "options": [
+    "英語だけにする",
+    "できるだけ長くする",
+    "他のアプリ名を入れる",
+    "気の利いた宣伝文句ではなく、実際のユーザーが打つ言葉を選ぶ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Choose words that real users would type, not clever marketing phrases.\""
+  },
+  {
+   "q": "良いスクリーンショットの例として挙げられている見出しは？",
+   "options": [
+    "Best app ever",
+    "Free for everyone",
+    "Download now",
+    "Plan your week in two minutes"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"such as Plan your week in two minutes.\""
+  },
+  {
+   "q": "conversion rate の意味は？",
+   "options": [
+    "クラッシュの割合",
+    "レビューの平均点",
+    "ページを見た人のうちダウンロードした人の割合",
+    "アプリの価格"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the percentage of people who download the app after viewing the page.\""
+  }
+ ]
+}

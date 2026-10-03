@@ -1,0 +1,114 @@
+{
+ "id": "pa003",
+ "author": "claude",
+ "summary_ja": "スクリーンタイムに完璧な数字はないが目安はある。多くの小児科団体は1歳半未満は家族とのビデオ通話以外避け、2〜5歳は質の高い内容を1日1時間程度と勧める。時間だけでなく内容と見方も大切。親が一緒に見て話す「共同視聴」で受け身の視聴が学びの会話になる。一人で長く見続けると遊びや会話、運動の時間が減り、夜は睡眠にも影響。食事中や寝る前、寝室では使わない習慣を。",
+ "listening": [
+  {
+   "q": "1歳半未満の子どものスクリーンについて多くの団体が勧めるのは？",
+   "options": [
+    "教育番組だけ見せる",
+    "制限なし",
+    "家族とのビデオ通話以外は避ける",
+    "1日2時間まで"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"avoiding screens for babies under about eighteen months, except for video calls with family.\""
+  },
+  {
+   "q": "co-viewing とは？",
+   "options": [
+    "兄弟で見ること",
+    "録画して見ること",
+    "大画面で見ること",
+    "親が一緒に見て、内容について話すこと"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"That means a parent watches together with the child and talks about it.\""
+  },
+  {
+   "q": "忙しい親への B の助言は？",
+   "options": [
+    "罪悪感を持つべき",
+    "1日中見せてよい",
+    "画面は一切禁止",
+    "現実的に。夕食を作る20分の使用は問題ない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Be realistic. Sometimes you need twenty minutes to cook dinner, and that's fine.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "2〜5歳の子どもには、質の高い内容を1日1時間程度にすることがよく勧められます。",
+   "points_ja": "aged two to five が続き、one hour a day of が一続きに聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "ゆっくりした教育番組は、次々に自動再生される速い動画とはまったく違います。",
+   "points_ja": "very different from がつながり、one after another が「ワナフタラナザー」と聞こえます。"
+  },
+  {
+   "sentence": 22,
+   "ja": "良い内容を選び、食事中や寝る前は画面を避け、寝室には機器を置かないようにしましょう。",
+   "points_ja": "avoid screens during が続き、keep devices out of the が一続きに聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "動画は長いほどよい",
+    "スクリーンタイムは時間だけでなく、内容と見方が大切",
+    "テレビの選び方",
+    "スクリーンは子どもに完全に悪い"
+   ],
+   "answer": 1,
+   "explanation_ja": "目安、内容、共同視聴、受け身の視聴の問題、実践的な助言を話しています。"
+  },
+  {
+   "q": "2〜5歳の目安は？",
+   "options": [
+    "週1時間",
+    "1日3時間",
+    "制限なし",
+    "質の高い内容を1日約1時間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"around one hour a day of high-quality content.\""
+  },
+  {
+   "q": "passive watching の問題として話されていないものは？",
+   "options": [
+    "会話が減る",
+    "遊びの時間が減る",
+    "体を動かす時間が減る",
+    "視力がすぐに良くなる"
+   ],
+   "answer": 3,
+   "explanation_ja": "遊び、会話、運動、睡眠への影響が挙げられています。"
+  },
+  {
+   "q": "共同視聴での声かけの例として挙げられているのは？",
+   "options": [
+    "「早く寝なさい」",
+    "「どうして彼は悲しいと思う？」",
+    "「もう終わり」",
+    "「静かにして」"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"'Why do you think he's sad?' or 'Can you count the ducks?'\""
+  },
+  {
+   "q": "小さな習慣として勧められていないものは？",
+   "options": [
+    "朝起きたらすぐ動画を見る",
+    "食事中は画面を避ける",
+    "寝室に機器を置かない",
+    "寝る前は画面を避ける"
+   ],
+   "answer": 0,
+   "explanation_ja": "食事中、寝る前、寝室の3つの習慣が挙げられています。"
+  }
+ ]
+}

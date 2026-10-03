@@ -1,0 +1,114 @@
+{
+ "id": "tc024",
+ "author": "claude",
+ "summary_ja": "ハードウェアのデバッグはソフトと違い、原因がコード、配線、電源、センサー、電気的なノイズのどれでもあり得る。B はまず緩んだ配線やピンの間違いなど物理的な部分を確認し、次に電源を疑う。安いケーブルや弱い電池でランダムにリセットすることも。ノイズはセンサーの値が理由なく跳ねる原因。シリアルモニターとテスターが役立ち、一度に一つだけ変えるのが鉄則。",
+ "listening": [
+  {
+   "q": "ハードウェアのデバッグがソフトと違う理由は？",
+   "options": [
+    "コードがないから",
+    "道具がいらないから",
+    "簡単だから",
+    "原因がコード、配線、電源、センサー、ノイズなど多岐にわたるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In hardware, it could be the code, the wiring, the power supply, the sensor, or even electrical noise in the room.\""
+  },
+  {
+   "q": "B が最初に確認することは？",
+   "options": [
+    "コード",
+    "天気",
+    "インターネット",
+    "緩んだ配線や間違ったピンなど物理的な部分"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"I start by checking the physical things.\""
+  },
+  {
+   "q": "B の一般的なアドバイスは？",
+   "options": [
+    "一度に一つだけ変える",
+    "何も変えない",
+    "全部を同時に変える",
+    "最初から作り直す"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Change only one thing at a time.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "ソフトウェアでは、問題はほとんどいつもコードの中にあります。",
+   "points_ja": "problem is almost always in your が一続きに聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "安い USB ケーブルや弱い電池が、ランダムなリセットを引き起こすことがあります。",
+   "points_ja": "cable or weak の or は弱形、cause random が続けて聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "センサーの値が理由もなく跳ね回るのが見えるかもしれません。",
+   "points_ja": "might see a の t は飲み込まれ、jumping around for no reason が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ソフトウェアの書き方",
+    "ハードウェアのバグを見つけるための順番と道具",
+    "電池の選び方",
+    "ロボットの作り方"
+   ],
+   "answer": 1,
+   "explanation_ja": "物理的な確認、電源、ノイズ、道具、一般的な方法を話しています。"
+  },
+  {
+   "q": "ブレッドボードについて B が言っていることは？",
+   "options": [
+    "高価である",
+    "接続不良が問題であることが驚くほど多い",
+    "ノイズを消す",
+    "使ってはいけない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Hardware troubleshooting often begins with loose wires, wrong pins or a bad connection on the breadboard.\""
+  },
+  {
+   "q": "signal noise の原因として挙げられていないものは？",
+   "options": [
+    "コードのコメント",
+    "長い配線",
+    "モーター",
+    "近くの機器"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Long wires, motors and nearby devices can all cause it.\""
+  },
+  {
+   "q": "serial monitor の役割は？",
+   "options": [
+    "電圧を測る",
+    "部品を買う",
+    "画面を大きくする",
+    "マイコンが動作中にパソコンへメッセージを表示し、何をしているか見られる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Your microcontroller prints messages to your computer while it runs, so you can see what it's doing.\""
+  },
+  {
+   "q": "コードと配線を同時に変えるべきでない理由は？",
+   "options": [
+    "部品が壊れるから",
+    "どちらで直ったか分からなくなるから",
+    "時間がかかるから",
+    "危険だから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"you'll never know which one fixed the problem.\""
+  }
+ ]
+}

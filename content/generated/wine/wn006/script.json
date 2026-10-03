@@ -1,0 +1,243 @@
+{
+ "id": "wn006",
+ "author": "claude",
+ "category": "wine",
+ "title": "Primary Aromas vs Aged Bouquet",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "primary aromas",
+  "tertiary bouquet",
+  "forest floor"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Tasting notes often mention very different kinds of aromas. Fresh strawberries for one wine, mushrooms and leather for another. Where do these come from?"
+  },
+  {
+   "speaker": "B",
+   "text": "A helpful way to think about it is in three groups. First, there are primary aromas. These come from the grape itself. Fruits, flowers, herbs. A young Pinot Noir might smell of cherries and violets."
+  },
+  {
+   "speaker": "A",
+   "text": "And the second group?"
+  },
+  {
+   "speaker": "B",
+   "text": "Secondary aromas come from winemaking. Fermentation and oak barrels add notes like bread, butter, vanilla or toast."
+  },
+  {
+   "speaker": "A",
+   "text": "So the mushrooms and leather are the third group?"
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. Those are tertiary aromas, and together they're often called the bouquet. They develop as the wine ages, slowly, over years in the bottle."
+  },
+  {
+   "speaker": "A",
+   "text": "What kind of aromas are typical?"
+  },
+  {
+   "speaker": "B",
+   "text": "Things like forest floor, which means the smell of damp leaves and soil in a forest. Also mushrooms, dried fruit, tobacco, leather and nuts. The fresh fruit becomes quieter, and these more complex notes appear."
+  },
+  {
+   "speaker": "A",
+   "text": "Is a wine with a bouquet always better?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not always. Some people love the bright fruit of a young wine. But when a wine develops a beautiful bouquet while keeping some fruit, it can be very special. That's what many collectors wait years for."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Tasting notes often mention very different kinds of aromas.",
+   "start": 0.0,
+   "end": 3.6,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Fresh strawberries for one wine, mushrooms and leather for another.",
+   "start": 4.19,
+   "end": 7.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Where do these come from?",
+   "start": 8.7,
+   "end": 9.98,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A helpful way to think about it is in three groups.",
+   "start": 10.7,
+   "end": 13.98,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "First, there are primary aromas.",
+   "start": 14.53,
+   "end": 16.89,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "These come from the grape itself.",
+   "start": 17.36,
+   "end": 19.24,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Fruits, flowers, herbs.",
+   "start": 19.67,
+   "end": 21.99,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "A young Pinot Noir might smell of cherries and violets.",
+   "start": 22.42,
+   "end": 25.78,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "And the second group?",
+   "start": 26.5,
+   "end": 27.78,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Secondary aromas come from winemaking.",
+   "start": 28.5,
+   "end": 31.3,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Fermentation and oak barrels add notes like bread, butter, vanilla or toast.",
+   "start": 31.69,
+   "end": 37.33,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So the mushrooms and leather are the third group?",
+   "start": 38.05,
+   "end": 41.17,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 41.89,
+   "end": 43.01,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Those are tertiary aromas, and together they're often called the bouquet.",
+   "start": 43.48,
+   "end": 48.4,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "They develop as the wine ages, slowly, over years in the bottle.",
+   "start": 48.83,
+   "end": 53.39,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "What kind of aromas are typical?",
+   "start": 54.11,
+   "end": 56.19,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Things like forest floor, which means the smell of damp leaves and soil in a forest.",
+   "start": 56.91,
+   "end": 62.35,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Also mushrooms, dried fruit, tobacco, leather and nuts.",
+   "start": 63.1,
+   "end": 67.42,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The fresh fruit becomes quieter, and these more complex notes appear.",
+   "start": 68.25,
+   "end": 72.41,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Is a wine with a bouquet always better?",
+   "start": 73.13,
+   "end": 75.85,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Not always.",
+   "start": 76.57,
+   "end": 77.45,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Some people love the bright fruit of a young wine.",
+   "start": 78.0,
+   "end": 81.24,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But when a wine develops a beautiful bouquet while keeping some fruit, it can be very special.",
+   "start": 81.83,
+   "end": 87.43,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That's what many collectors wait years for.",
+   "start": 88.02,
+   "end": 90.66,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 198,
+ "duration": 90.6,
+ "wpm": 131,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 64,
+ "created": "2026-10-03 23:47"
+}

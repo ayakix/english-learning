@@ -1,0 +1,2700 @@
+{
+ "categories": {
+  "watches": "高級機械式時計・独立時計師の世界",
+  "wine": "ワインのテロワール・醸造技術・テイスティング",
+  "aviation": "航空・アビエーション・無線技術",
+  "tech": "モバイルアプリ開発・Swift・最新テック",
+  "running": "長距離ランニング・持久力トレーニングの科学",
+  "parenting": "子育て",
+  "science": "自然科学",
+  "finance": "金融・投資"
+ },
+ "topics": [
+  {
+   "id": "wt001",
+   "category": "watches",
+   "title": "The Philosophy of the AHCI",
+   "angle_ja": "独立時計師アカデミー（AHCI）の創設精神と、巨大資本に頼らず自らの名前で創作する職人の哲学を学びます。",
+   "key_terms": [
+    "independent watchmaker",
+    "atelier",
+    "horological philosophy"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt002",
+   "category": "watches",
+   "title": "Mastering the Jumping Hour",
+   "angle_ja": "針が連続して動くのではなく瞬時に次の時間を指し示すジャンピングアワーの機械的仕組みを解説します。",
+   "key_terms": [
+    "jumping hour",
+    "digital display",
+    "snapping spring"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt003",
+   "category": "watches",
+   "title": "The Drama of Retrograde Displays",
+   "angle_ja": "針が目盛りの終点に達した瞬間に原点へと跳ね返るレトログラード機構の魅力と構造を語り合います。",
+   "key_terms": [
+    "retrograde hand",
+    "snail cam",
+    "recoil spring"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "wt004",
+   "category": "watches",
+   "title": "The Art of Hand Anglage",
+   "angle_ja": "ブリッジの角を正確な角度で面取りし鏡面に磨き上げるアングラージュ（面取り）の伝統技法を紹介します。",
+   "key_terms": [
+    "anglage",
+    "chamfering",
+    "inward angle"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt005",
+   "category": "watches",
+   "title": "Black Polish: The Peak of Finishing",
+   "angle_ja": "特定の角度からしか光を反射せず漆黒に見える究極の研磨技法ブラックポリッシュの工程を解説します。",
+   "key_terms": [
+    "black polish",
+    "zinc plate",
+    "diamond paste"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt006",
+   "category": "watches",
+   "title": "The Rhythm of Rose Engine Guilloché",
+   "angle_ja": "手動の直線彫刻機やローズエンジンを使い、金属文字盤に微細な幾何学模様を刻む技法を掘り下げます。",
+   "key_terms": [
+    "guilloché",
+    "rose engine",
+    "engine-turning"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "wt007",
+   "category": "watches",
+   "title": "The Remontoire d'Égalité",
+   "angle_ja": "主ゼンマイのトルク減退に関わらず脱進機へ一定の力を供給し続けるルモントワール機構の役割を学びます。",
+   "key_terms": [
+    "constant force",
+    "remontoire",
+    "torque drop"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt008",
+   "category": "watches",
+   "title": "The Tourbillon: Art vs Function",
+   "angle_ja": "ブレゲが重力の影響を相殺するために開発したトゥールビヨンの古典的意義と現代の芸術的価値を議論します。",
+   "key_terms": [
+    "tourbillon",
+    "carriage",
+    "positional error"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt009",
+   "category": "watches",
+   "title": "Free-Sprung Balances Explained",
+   "angle_ja": "緩急針を使わずにテンワのチラネジや偏心錘で歩度を調整するフリースプラングの利点と難しさを解説します。",
+   "key_terms": [
+    "free-sprung balance",
+    "masselottes",
+    "isochronism"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wt010",
+   "category": "watches",
+   "title": "Flame-Blued Screws",
+   "angle_ja": "化学処理ではなく職人が鉄を約300度まで加熱して酸化皮膜を作る伝統的な青焼きネジの手順を学びます。",
+   "key_terms": [
+    "heat-blued screw",
+    "temper color",
+    "oxidation layer"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt011",
+   "category": "watches",
+   "title": "The Craft of Openworking",
+   "angle_ja": "ムーブメントの強度を保ちつつ限界まで金属を削ぎ落として審美性を高めるスケルトン加工の真髄に迫ります。",
+   "key_terms": [
+    "openworking",
+    "skeletonized",
+    "structural rigidity"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt012",
+   "category": "watches",
+   "title": "Hand-Engraved Balance Cocks",
+   "angle_ja": "グラスヒュッテの時計などにみられる、顕微鏡下で職人がフリーハンドで彫り込むテンプ受けの装飾について語ります。",
+   "key_terms": [
+    "balance cock",
+    "burin",
+    "freehand engraving"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt013",
+   "category": "watches",
+   "title": "The Glashütte Three-Quarter Plate",
+   "angle_ja": "輪列全体を1枚の頑丈なプレートで覆って安定性を確保するグラスヒュッテ様式の3/4プレートの特徴を解説します。",
+   "key_terms": [
+    "three-quarter plate",
+    "wheel train",
+    "structural stability"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wt014",
+   "category": "watches",
+   "title": "The Warmth of Untreated German Silver",
+   "angle_ja": "経年変化で美しい黄金色を帯びる洋銀（ジャーマンシルバー）の特性と、真鍮メッキとの違いを対談形式で探ります。",
+   "key_terms": [
+    "German silver",
+    "Maillechort",
+    "natural oxidation"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt015",
+   "category": "watches",
+   "title": "Screwed Gold Chatons",
+   "angle_ja": "人工ルビーが普及する以前の精密な軸受け保持方法に由来する、ゴールドシャトンの歴史と美観を学びます。",
+   "key_terms": [
+    "gold chaton",
+    "jewel bearing",
+    "blued steel screws"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt016",
+   "category": "watches",
+   "title": "Geneva Stripes vs Glashütte Ribbing",
+   "angle_ja": "スイス時計のコート・ド・ジュネーブとドイツ時計のグラスヒュッテ・リブ彫りのピッチや質感の違いを比較します。",
+   "key_terms": [
+    "Côtes de Genève",
+    "Glashütte ribbing",
+    "abrasive tool"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wt017",
+   "category": "watches",
+   "title": "The Prestige of the Geneva Seal",
+   "angle_ja": "ジュネーブ州で製造された最高級ムーブメントのみに許されるポワンソン・ド・ジュネーブの厳格な審査基準を議論します。",
+   "key_terms": [
+    "Poinçon de Genève",
+    "Geneva Seal",
+    "chronometric precision"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt018",
+   "category": "watches",
+   "title": "The Swan-Neck Regulator",
+   "angle_ja": "白鳥の首のような美しいカーブを描くスプリングと微動ネジで微調整を行うスワンネック緩急針の機構を解説します。",
+   "key_terms": [
+    "swan-neck regulator",
+    "micrometric screw",
+    "fine regulation"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt019",
+   "category": "watches",
+   "title": "Perlage: The Circular Graining",
+   "angle_ja": "地板や受けの裏側に均一なウロコ状の円形模様を連続して押し当てるペルラージュ装飾の役割と技法を学びます。",
+   "key_terms": [
+    "perlage",
+    "circular graining",
+    "baseplate decoration"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wt020",
+   "category": "watches",
+   "title": "Saxon Minimalism vs Swiss Classicism",
+   "angle_ja": "ドイツ・ザクセン州の機能美を重視した端正な設計と、スイス伝統の華やかな曲線美の違いを比較検証します。",
+   "key_terms": [
+    "Saxon design",
+    "Swiss classicism",
+    "austere beauty"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt021",
+   "category": "watches",
+   "title": "The Hack-Seconds Function",
+   "angle_ja": "リュウズを引いた際に秒針を瞬時に停止させて正確な時刻合わせを可能にするハック機能の構造を解説します。",
+   "key_terms": [
+    "hack seconds",
+    "stop-seconds",
+    "balance brake"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt022",
+   "category": "watches",
+   "title": "Grand Feu Enamel Dials",
+   "angle_ja": "ガラス質の粉末を文字盤に載せ800度以上の高温で何度も焼き上げるグラン・フー・エナメル文字盤の不朽の輝きを学びます。",
+   "key_terms": [
+    "Grand Feu enamel",
+    "kiln firing",
+    "imperishable color"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt023",
+   "category": "watches",
+   "title": "Proper Cloth Care: Microfiber vs Chamois",
+   "angle_ja": "時計ケースの微細な拭き傷を防ぐためのマイクロファイバークロスと天然セーム革の正しい使い分けを解説します。",
+   "key_terms": [
+    "microfiber cloth",
+    "chamois leather",
+    "hairline scratch"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wt024",
+   "category": "watches",
+   "title": "Water Resistance Reality Check",
+   "angle_ja": "日常生活防水の3気圧とダイバーズ規格の違い、パッキンの経年劣化がもたらす浸水リスクを対談で解き明かします。",
+   "key_terms": [
+    "water resistance",
+    "gasket",
+    "bar rating"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt025",
+   "category": "watches",
+   "title": "The Threat of Magnetic Fields",
+   "angle_ja": "スマートフォンやPCから出る磁気がヒゲゼンマイに与える悪影響と、消磁器（デマグネタイザー）の使い方を学びます。",
+   "key_terms": [
+    "magnetization",
+    "hairspring",
+    "demagnetizer"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt026",
+   "category": "watches",
+   "title": "Inside a Complete Overhaul",
+   "angle_ja": "時計を完全に分解洗浄し、摩耗部品の交換と再注油を行って精度を取り戻す定期オーバーホールの全工程を語ります。",
+   "key_terms": [
+    "complete overhaul",
+    "ultrasonic cleaning",
+    "timing machine"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "wt027",
+   "category": "watches",
+   "title": "Synthetic Oils and Lubrication Points",
+   "angle_ja": "極微量の合成時計油をガンギ車や天芯に正確に注す技術と、油の劣化が精度に与える影響を解説します。",
+   "key_terms": [
+    "synthetic oil",
+    "lubrication points",
+    "oil sink"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt028",
+   "category": "watches",
+   "title": "The Danger Zone for Date Setting",
+   "angle_ja": "日付送り爪が噛み合っている夜間帯に早送り操作を行うとカレンダー車が破損するメカニズムを注意喚起します。",
+   "key_terms": [
+    "danger zone",
+    "date change wheel",
+    "jumper spring"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt029",
+   "category": "watches",
+   "title": "Watch Winders: Convenience vs Wear",
+   "angle_ja": "自動巻きワインダーを使うことの利便性と、ムーブメント部品への常時負荷というトレードオフを論じ合います。",
+   "key_terms": [
+    "watch winder",
+    "turns per day",
+    "mechanical wear"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "wt030",
+   "category": "watches",
+   "title": "Safe Storage and Desiccants",
+   "angle_ja": "湿気や直射日光からコレクションを守る保管方法と、過度な乾燥を避けるシリカゲルの適切な扱い方を解説します。",
+   "key_terms": [
+    "silica gel",
+    "desiccant",
+    "relative humidity"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt031",
+   "category": "watches",
+   "title": "Handling Screw-Down Crowns",
+   "angle_ja": "ねじ込み式リュウズを締める際にネジ山を潰さないための正しい指先の感触と逆回しのコツを学びます。",
+   "key_terms": [
+    "screw-down crown",
+    "cross-threading",
+    "crown tube"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt032",
+   "category": "watches",
+   "title": "Daily Beater vs Safe Queen",
+   "angle_ja": "傷を恐れず日常使いするデイリービーターと、金庫で厳重に保護される貴重なモデルというコレクターの二面性を語ります。",
+   "key_terms": [
+    "daily beater",
+    "safe queen",
+    "collector mindset"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt033",
+   "category": "watches",
+   "title": "Lug-to-Lug and Wrist Presence",
+   "angle_ja": "ケース径の数字だけでなくラグからラグまでの距離が実際の装着感や見栄えを左右する理由を解説します。",
+   "key_terms": [
+    "lug-to-lug",
+    "wrist presence",
+    "wearability"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wt034",
+   "category": "watches",
+   "title": "Understanding New Old Stock",
+   "angle_ja": "一度も個人に販売されず当時のままの状態で残された未使用個体（NOS）の定義と価値基準を整理します。",
+   "key_terms": [
+    "New Old Stock",
+    "unworn condition",
+    "box and papers"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt035",
+   "category": "watches",
+   "title": "Patina vs Damage: The Dial Debate",
+   "angle_ja": "経年変化による味わい深いパティーナと、単なる劣化や湿気ダメージの境界線を巡る愛好家の議論を紹介します。",
+   "key_terms": [
+    "patina",
+    "spider dial",
+    "environmental degradation"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt036",
+   "category": "watches",
+   "title": "Complication vs Grand Complication",
+   "angle_ja": "日付表示などの単一機能と、ミニッツリピーターや永久カレンダーが複合したグランドコンプリケーションを区別します。",
+   "key_terms": [
+    "complication",
+    "Grand Complication",
+    "perpetual calendar"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wt037",
+   "category": "watches",
+   "title": "In-House Calibers vs Ébauches",
+   "angle_ja": "自社開発ムーブメントの誇りと、歴史あるエボシュ（汎用供給機軸）の信頼性や補修性の高さを比較検討します。",
+   "key_terms": [
+    "in-house caliber",
+    "ébauche",
+    "base movement"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt038",
+   "category": "watches",
+   "title": "The Fascination with Tropical Dials",
+   "angle_ja": "紫外線や製造時の塗料特性によって黒文字盤が美しいチョコレートブラウンへ変色したトロピカルダイアルの謎に迫ります。",
+   "key_terms": [
+    "tropical dial",
+    "color fade",
+    "UV exposure"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wt039",
+   "category": "watches",
+   "title": "Understanding Power Reserve Dynamics",
+   "angle_ja": "香箱内の主ゼンマイが解けるにつれてトルクが落ちる特性と、精度を維持するパワーリザーブ領域を学びます。",
+   "key_terms": [
+    "power reserve",
+    "mainspring barrel",
+    "torque curve"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wt040",
+   "category": "watches",
+   "title": "The Quest for the Grail Watch",
+   "angle_ja": "時計コレクターが人生をかけて追い求める究極の1本「グレイルウォッチ」という概念とその心理を語り合います。",
+   "key_terms": [
+    "grail watch",
+    "exit watch",
+    "collecting journey"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn001",
+   "category": "wine",
+   "title": "Bordeaux Left Bank vs Right Bank Soils",
+   "angle_ja": "砂利質と粘土質という土壌の違いがカベルネとメルローの生育に与える影響を比較します。",
+   "key_terms": [
+    "gravelly soil",
+    "clay-limestone",
+    "drainage"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn002",
+   "category": "wine",
+   "title": "Burgundy's Limestone and Chardonnay Acidity",
+   "angle_ja": "ジュラ紀の石灰岩土壌がブルゴーニュ産シャルドネの引き締まった酸味を育む仕組みを解説します。",
+   "key_terms": [
+    "Kimmeridgian limestone",
+    "minerality",
+    "acidity"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn003",
+   "category": "wine",
+   "title": "How a Cool Vintage Shapes Bordeaux Tannins",
+   "angle_ja": "冷涼なヴィンテージにおいてブドウのフェノール類がどのように熟し、タンニンにどう反映されるかを検証します。",
+   "key_terms": [
+    "phenolic ripeness",
+    "astringency",
+    "green tannins"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "wn004",
+   "category": "wine",
+   "title": "Sun, Heat, and Alcohol in Warm Burgundy Vintages",
+   "angle_ja": "猛暑年においてピノ・ノワールの糖度が上がり、酸が落ちるバランスの変化を考察します。",
+   "key_terms": [
+    "sugar accumulation",
+    "acid drop",
+    "alcohol by volume"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn005",
+   "category": "wine",
+   "title": "Anthocyanins, Tannins, and the Chemistry of Aging",
+   "angle_ja": "熟成中にアントシアニンとタンニンが重合してワインの色と渋みがまろやかになる化学変化を学びます。",
+   "key_terms": [
+    "polymerization",
+    "anthocyanins",
+    "sediment"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn006",
+   "category": "wine",
+   "title": "Primary Aromas vs Aged Bouquet",
+   "angle_ja": "果実由来の一次香から、熟成に伴う森の下草やレザーなどの第三次香（ブーケ）への変化を整理します。",
+   "key_terms": [
+    "primary aromas",
+    "tertiary bouquet",
+    "forest floor"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "wn007",
+   "category": "wine",
+   "title": "Micro-oxygenation Through Wooden Barrels",
+   "angle_ja": "オーク樽の微細な木目を通じた微量酸素供給がワインのテクスチャーを安定させる原理を解説します。",
+   "key_terms": [
+    "micro-oxygenation",
+    "wood grain",
+    "ellagitannins"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn008",
+   "category": "wine",
+   "title": "French Oak vs American Oak Chemistry",
+   "angle_ja": "フレンチオークとアメリカンオークの成分差がもたらすバニリンやスパイス香の違いを対比します。",
+   "key_terms": [
+    "vanillin",
+    "lactones",
+    "toast level"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn009",
+   "category": "wine",
+   "title": "Malolactic Fermentation in Chablis and Meursault",
+   "angle_ja": "リンゴ酸から乳酸への変換がシャルドネの質感とバター香に与える効果を分析します。",
+   "key_terms": [
+    "malolactic conversion",
+    "diacetyl",
+    "sharp malic acid"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wn010",
+   "category": "wine",
+   "title": "Bordeaux 2010 vs 2007: Structure Breakdown",
+   "angle_ja": "古典的な当たり年2010年と早飲み向きの2007年のストラクチャーの違いをテイスティング観点で比較します。",
+   "key_terms": [
+    "tannic spine",
+    "vintage variation",
+    "longevity"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn011",
+   "category": "wine",
+   "title": "Nagano Chardonnay: High Altitude Terroir",
+   "angle_ja": "長野県（千曲川ワインバレー等）の高標高と冷涼な気候がシャルドネの香りと酸に与える恩恵を掘り下げます。",
+   "key_terms": [
+    "high altitude",
+    "diurnal temperature range",
+    "clean acid"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn012",
+   "category": "wine",
+   "title": "Yamanashi's Volcanic Soil and Koshu Skin Contact",
+   "angle_ja": "山梨の火山灰性土壌と甲州ブドウの果皮浸漬（オレンジワイン製法）によるフェノール抽出を解説します。",
+   "key_terms": [
+    "volcanic ash soil",
+    "skin contact",
+    "phenolic grip"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn013",
+   "category": "wine",
+   "title": "Hokkaido Pinot Noir: Cool-Climate Potential",
+   "angle_ja": "余市などの北海道の冷涼な生育環境がピノ・ノワールに繊細な赤い果実味と高い酸をもたらす仕組みを見ます。",
+   "key_terms": [
+    "cool-climate viticulture",
+    "budbreak",
+    "tart red fruit"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wn014",
+   "category": "wine",
+   "title": "Japanese Wine Regulations and Labeling Rules",
+   "angle_ja": "「日本ワイン」と名乗るための国産ブドウ100%基準と表示ルールを整理します。",
+   "key_terms": [
+    "domestic grapes",
+    "geographic indication",
+    "origin label"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn015",
+   "category": "wine",
+   "title": "Lees Stirring (Bâtonnage) in Japanese Chardonnay",
+   "angle_ja": "日本のシャルドネ醸造で酵母の澱を撹拌し、まろやかさと旨味を補うバトナージュ技法を解説します。",
+   "key_terms": [
+    "lees stirring",
+    "batonnage",
+    "yeast autolysis"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn016",
+   "category": "wine",
+   "title": "Evaluating Wine Clarity and Rim Variation",
+   "angle_ja": "テイスティングにおけるワインの清澄度とエッジのグラデーションから成熟度を読み解く手順を学びます。",
+   "key_terms": [
+    "clarity",
+    "rim variation",
+    "meniscus"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wn017",
+   "category": "wine",
+   "title": "Viscosity and Wine Tears: Alcohol and Sugar",
+   "angle_ja": "グラスの脚（涙）の粘性からアルコール度数と残留糖分を推測する物理的原理を説明します。",
+   "key_terms": [
+    "viscosity",
+    "legs or tears",
+    "Marangoni effect"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn018",
+   "category": "wine",
+   "title": "Decoding Pyrazines: The Bell Pepper Aroma",
+   "angle_ja": "カベルネ系品種に見られる未熟なピラジン香と、テロワールの十分な日照による消失を解説します。",
+   "key_terms": [
+    "methoxypyrazines",
+    "vegetal note",
+    "canopy management"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn019",
+   "category": "wine",
+   "title": "Detecting Cork Taint (TCA) in Tasting",
+   "angle_ja": "コルク汚染化合物TCAがワインの果実味をマスキングし、湿った段ボール臭を放つメカニズムを学びます。",
+   "key_terms": [
+    "trichloroanisole",
+    "corked wine",
+    "masking fruit"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wn020",
+   "category": "wine",
+   "title": "Volatile Acidity: Flaw or Complexity?",
+   "angle_ja": "酢酸や酢酸エチルによる揮発酸が微量なら香りのアクセントになり、過剰だと欠陥となる境界線を探ります。",
+   "key_terms": [
+    "volatile acidity",
+    "acetic acid",
+    "ethyl acetate"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn021",
+   "category": "wine",
+   "title": "Whole-Cluster vs Destemmed Fermentation in Pinot",
+   "angle_ja": "全房発酵がもたらす茎由来のスパイシーな香りとシルキーな渋み、除梗発酵の純粋な果実感を対比します。",
+   "key_terms": [
+    "whole-cluster",
+    "stem inclusion",
+    "herbaceous lift"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn022",
+   "category": "wine",
+   "title": "Cold Soak: Pre-Fermentation Maceration",
+   "angle_ja": "アルコール発酵前に低温で果皮浸漬を行い、渋みを抑えつつ水溶性色素と香りを抽出する技法を学びます。",
+   "key_terms": [
+    "cold soak",
+    "aqueous extraction",
+    "color depth"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn023",
+   "category": "wine",
+   "title": "Punch-down vs Pump-over Extraction Methods",
+   "angle_ja": "果皮のキャップを沈めるピジャージュと循環させるルモンタージュによるタンニン抽出強度の差を比較します。",
+   "key_terms": [
+    "punch-down",
+    "pump-over",
+    "cap management"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "wn024",
+   "category": "wine",
+   "title": "The Role of Ambient vs Cultured Yeast",
+   "angle_ja": "果皮に自生する天然酵母と選抜培養酵母が発酵の安定性と香りの複雑さに与える違いを検証します。",
+   "key_terms": [
+    "ambient yeast",
+    "inoculated yeast",
+    "fermentation kinetics"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn025",
+   "category": "wine",
+   "title": "Sulfites in Winemaking: Preservation and Limits",
+   "angle_ja": "酸化防止と雑菌抑制のために亜硫酸塩を添加する醸造的根拠と、その化学的挙動を整理します。",
+   "key_terms": [
+    "sulfur dioxide",
+    "antioxidant",
+    "antimicrobial"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn026",
+   "category": "wine",
+   "title": "Slope Aspect and Sun Exposure in Burgundy Grands Crus",
+   "angle_ja": "ブルゴーニュの特級畑が東南東向きの中腹に集中する日照・排水・冷気滞留回避の理由を紐解きます。",
+   "key_terms": [
+    "aspect",
+    "mid-slope",
+    "solar radiation"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wn027",
+   "category": "wine",
+   "title": "Rainfall at Harvest: Dilution and Botrytis Risks",
+   "angle_ja": "収穫直前の降雨がブドウ果汁の希釈や灰色かび病の発生を招き、ヴィンテージを左右するプロセスを見ます。",
+   "key_terms": [
+    "berry splitting",
+    "dilution",
+    "botrytis cinerea"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn028",
+   "category": "wine",
+   "title": "The Aging Curve: Peak Maturity vs Decline",
+   "angle_ja": "ワインが閉じた状態から調和の取れた頂点へと進み、やがて果実味を失って衰退するライフサイクルを解説します。",
+   "key_terms": [
+    "drinking window",
+    "peak maturity",
+    "fading fruit"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn029",
+   "category": "wine",
+   "title": "Japanese Muscat Bailey A: Carbonic Maceration",
+   "angle_ja": "マスカット・ベーリーAのイチゴキャンディ香を引き出す炭酸ガス浸漬法の原理を解説します。",
+   "key_terms": [
+    "carbonic maceration",
+    "intracellular fermentation",
+    "furaneol"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wn030",
+   "category": "wine",
+   "title": "Biodynamic Preparations in Fine Wine Terroir",
+   "angle_ja": "土壌の微生物活性を高めるために使われるビオディナミの調合物500番・501番の基本思想を学びます。",
+   "key_terms": [
+    "biodynamic preparations",
+    "soil microbiology",
+    "lunar calendar"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn031",
+   "category": "wine",
+   "title": "Evaluating Mid-Palate Weight and Texture",
+   "angle_ja": "口に含んだ中盤（ミッドパレット）の充実感、粘性、テクスチャーを客観的に評価する表現力を磨きます。",
+   "key_terms": [
+    "mid-palate",
+    "mouthfeel",
+    "weight and density"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn032",
+   "category": "wine",
+   "title": "Measuring the Finish: Caudalies and Persistence",
+   "angle_ja": "ワインを飲み込んだ後の余韻の長さ（コーダリー）と、残存するフレーバーの質を判定する方法を整理します。",
+   "key_terms": [
+    "finish length",
+    "caudalie",
+    "flavor persistence"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn033",
+   "category": "wine",
+   "title": "Reductive vs Oxidative Winemaking Styles",
+   "angle_ja": "酸素を遮断してフレッシュさを保つ還元型と、穏やかに酸素と触れ合わせる酸化型の設計思想を比較します。",
+   "key_terms": [
+    "reductive style",
+    "controlled oxidation",
+    "hydrogen sulfide"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wn034",
+   "category": "wine",
+   "title": "Understanding Wine Balance: Acid, Alcohol, Tannin",
+   "angle_ja": "酸味、アルコール、タンニン、果実味が互いに主張し合わず調和している状態の判定基準を解説します。",
+   "key_terms": [
+    "structural balance",
+    "astringency vs sweetness",
+    "integrated acidity"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn035",
+   "category": "wine",
+   "title": "Wine Serving Temperatures and Volatility",
+   "angle_ja": "提供温度がアルコールの揮発やタンニンの渋みの感じ方に直接及ぼす感覚生理学的影響を説明します。",
+   "key_terms": [
+    "aromatic volatility",
+    "temperature impact",
+    "tannin perception"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn036",
+   "category": "wine",
+   "title": "Decanting: Aeration vs Sediment Removal",
+   "angle_ja": "若いワインを空気呼吸させる目的と、古酒の澱を静かに取り分けるデキャンタージュの目的の違いを整理します。",
+   "key_terms": [
+    "decanting",
+    "aeration",
+    "sediment separation"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "wn037",
+   "category": "wine",
+   "title": "Interview: Crafting Cool-Climate Japanese Merlot",
+   "angle_ja": "冷涼雨多な日本で湿気に耐え完熟したメルローを育てる醸造家の畑管理の工夫をインタビュー形式で聞きます。",
+   "key_terms": [
+    "rain shelter",
+    "leaf thinning",
+    "hang time"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn038",
+   "category": "wine",
+   "title": "Old Vines (Vieilles Vignes) and Root Depth",
+   "angle_ja": "古木が地中深くに根を伸ばすことで、干ばつに耐え凝縮した小粒のブドウを実らせるテロワール機構を学びます。",
+   "key_terms": [
+    "vieilles vignes",
+    "taproot",
+    "berry concentration"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "wn039",
+   "category": "wine",
+   "title": "Blind Tasting: Deductive Logic from Color to Variety",
+   "angle_ja": "色調、酸、タンニンの特徴を順に消去法で絞り込み、品種や産地を論理的に導くブラインドテイスティングの技法です。",
+   "key_terms": [
+    "deductive tasting",
+    "color hue",
+    "structural markers"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "wn040",
+   "category": "wine",
+   "title": "The Chemistry of Glass Shape and Aroma Funneling",
+   "angle_ja": "ボウル部の膨らみやリムのすぼまりが、アロマの揮発成分を鼻腔へと集約する仕組みを解説します。",
+   "key_terms": [
+    "bowl curvature",
+    "headspace",
+    "vapor delivery"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av001",
+   "category": "aviation",
+   "title": "How ADS-B Out Broadcasts Aircraft Positions",
+   "angle_ja": "航空機がGPS位置情報を1090MHz帯で自動発信するADS-B Outの基本構造を解説します。",
+   "key_terms": [
+    "ADS-B Out",
+    "Mode S transponder",
+    "1090 MHz"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av002",
+   "category": "aviation",
+   "title": "Tracking Aircraft at Home with RTL-SDR",
+   "angle_ja": "安価なUSB型ソフトウェア無線（SDR）を使って自宅でADS-B信号を受信する仕組みを語り合います。",
+   "key_terms": [
+    "software-defined radio (SDR)",
+    "RF receiver",
+    "dump1090"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "av003",
+   "category": "aviation",
+   "title": "The Meaning of Squawk 7700 and Transponder Codes",
+   "angle_ja": "パイロットがスコークコードを入力する意義と緊急時コード7700の運用を解説します。",
+   "key_terms": [
+    "squawk code",
+    "transponder",
+    "emergency code"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "av005",
+   "category": "aviation",
+   "title": "VHF Radio Bands and Aviation Phraseology Basics",
+   "angle_ja": "管制塔と航空機が交信に使うVHF帯の特性と標準通信用語の重要性を紹介します。",
+   "key_terms": [
+    "VHF aviation band",
+    "ICAO phonetics",
+    "standard phraseology"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av008",
+   "category": "aviation",
+   "title": "Space-Based ADS-B: Tracking Planes Over Oceans",
+   "angle_ja": "低軌道衛星に受信機を搭載することで洋上空域の監視死角をなくす技術を説明します。",
+   "key_terms": [
+    "space-based ADS-B",
+    "low Earth orbit (LEO)",
+    "oceanic airspace"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av009",
+   "category": "aviation",
+   "title": "Understanding the Readback and Hearback Process",
+   "angle_ja": "管制指示の復唱（リードバック）と聴取確認（ヒアバック）が誤認を防ぐ手順を対話で解説します。",
+   "key_terms": [
+    "readback",
+    "hearback",
+    "air traffic clearance"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "av010",
+   "category": "aviation",
+   "title": "TCAS: The Airborne System That Prevents Collisions",
+   "angle_ja": "トランスポンダー応答を基に衝突警報と回避指示を出すTCASの役割を解説します。",
+   "key_terms": [
+    "TCAS",
+    "traffic advisory (TA)",
+    "resolution advisory (RA)"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av012",
+   "category": "aviation",
+   "title": "Carbon Fiber Composites in the Boeing 787 Fuselage",
+   "angle_ja": "従来のアルミニウムに代わり炭素繊維強化複合材で胴体を一体成形するメリットを解説します。",
+   "key_terms": [
+    "carbon fiber reinforced polymer (CFRP)",
+    "airframe",
+    "barrel section"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av013",
+   "category": "aviation",
+   "title": "Higher Cabin Pressure and Humidity in the A350 and 787",
+   "angle_ja": "複合材構造が可能にした機内高度の低減と加湿が乗客の疲労を軽減する理由を語り合います。",
+   "key_terms": [
+    "cabin pressurization",
+    "humidity levels",
+    "corrosion resistance"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "av014",
+   "category": "aviation",
+   "title": "The Evolution of High-Bypass Turbofan Engines",
+   "angle_ja": "推進効率を高めて燃費と騒音を大幅に改善した高バイパス比エンジンの仕組みを解説します。",
+   "key_terms": [
+    "high-bypass turbofan",
+    "bypass ratio",
+    "specific fuel consumption"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av016",
+   "category": "aviation",
+   "title": "The Role of Rake and Curved Wingtips",
+   "angle_ja": "誘導抗力を減らすレイクドウイングチップやシャークレットの空力的効果を対話形式で掘り下げます。",
+   "key_terms": [
+    "raked wingtip",
+    "sharklet",
+    "induced drag"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "av018",
+   "category": "aviation",
+   "title": "How Turnaround Works: The 45-Minute Airport Pitstop",
+   "angle_ja": "着陸から次の出発までの間に駐機場で行われる給油や手荷物積み込みの連携を解説します。",
+   "key_terms": [
+    "turnaround time",
+    "ramp handling",
+    "ground support equipment (GSE)"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av019",
+   "category": "aviation",
+   "title": "Pushback and Marshalling on the Airport Apron",
+   "angle_ja": "トーイングカーによるプッシュバックと誘導員（マーシャラー）の役割を対話で確認します。",
+   "key_terms": [
+    "pushback tractor",
+    "aircraft marshalling",
+    "bypass pin"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "av021",
+   "category": "aviation",
+   "title": "Why Two Engines Replaced Four on Long-Haul Routes",
+   "angle_ja": "エンジン信頼性の向上と燃費改善により双発機が長距離国際線の主役に代わった背景を解説します。",
+   "key_terms": [
+    "twin-engine",
+    "fuel burn",
+    "quad-jet"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av023",
+   "category": "aviation",
+   "title": "De-icing Operations Before Takeoff in Winter",
+   "angle_ja": "翼の着氷を除去し再凍結を防ぐ2段階の防除氷液塗布プロセスを解説します。",
+   "key_terms": [
+    "de-icing fluid",
+    "anti-icing",
+    "holdover time"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "av024",
+   "category": "aviation",
+   "title": "Fly-by-Wire: How Computers Translate Pilot Inputs",
+   "angle_ja": "操縦輪と動翼を機械的ケーブルではなく電気信号とコンピュータで制御する技術を解説します。",
+   "key_terms": [
+    "fly-by-wire (FBW)",
+    "flight control computer",
+    "flight envelope protection"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av025",
+   "category": "aviation",
+   "title": "Airbus Sidestick vs. Boeing Control Yoke",
+   "angle_ja": "コックピット操縦桿の設計思想におけるエアバスとボーイングの違いを対談形式で議論します。",
+   "key_terms": [
+    "sidestick",
+    "control yoke",
+    "tactile feedback"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "av026",
+   "category": "aviation",
+   "title": "How the Instrument Landing System (ILS) Guides Planes",
+   "angle_ja": "視界不良時に滑走路の中心線と進入角を電波でパイロットに指示するILSの基本を解説します。",
+   "key_terms": [
+    "instrument landing system (ILS)",
+    "localizer",
+    "glide path"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "av031",
+   "category": "aviation",
+   "title": "Wake Turbulence Categories and Aircraft Separation",
+   "angle_ja": "大型機が通過した後に生じる翼端渦と、後続機との間に必要な安全管制間隔を学びます。",
+   "key_terms": [
+    "wake turbulence",
+    "wingtip vortex",
+    "aircraft separation minima"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "av040",
+   "category": "aviation",
+   "title": "Sustainable Aviation Fuel (SAF): Chemistry and Drop-In Use",
+   "angle_ja": "既存の機体構造や給油インフラをそのまま利用できる代替燃料SAFの特性と課題をまとめます。",
+   "key_terms": [
+    "sustainable aviation fuel (SAF)",
+    "drop-in fuel",
+    "lifecycle emissions"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc001",
+   "category": "tech",
+   "title": "Async Await in Swift",
+   "angle_ja": "Swiftにおけるモダンなasync/await構文の基本と、コールバック地獄を解消する仕組みを解説する。",
+   "key_terms": [
+    "async/await",
+    "callback hell",
+    "structured concurrency"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc003",
+   "category": "tech",
+   "title": "Declarative UI with SwiftUI",
+   "angle_ja": "命令型アプローチのUIKitと比較しながら、SwiftUIが状態駆動で画面を再描画する仕組みを深掘りする。",
+   "key_terms": [
+    "declarative UI",
+    "state-driven",
+    "view re-rendering"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "tc010",
+   "category": "tech",
+   "title": "Accessibility by Design in iOS",
+   "angle_ja": "VoiceOver対応やDynamic Typeの導入がアプリの使いやすさとユーザー層拡大にどう寄与するかを議論する。",
+   "key_terms": [
+    "VoiceOver",
+    "Dynamic Type",
+    "accessibility audit"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc011",
+   "category": "tech",
+   "title": "Finding Product-Market Fit as a Solo Dev",
+   "angle_ja": "ニッチな課題を特定し、小さくプロトタイプを出して検証するインディー開発者のアプローチを振り返る。",
+   "key_terms": [
+    "Product-Market Fit",
+    "niche market",
+    "rapid prototyping"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc012",
+   "category": "tech",
+   "title": "Avoiding Feature Creep in Indie Apps",
+   "angle_ja": "ユーザー要望をすべて受け入れずにUIのシンプルさを守るための優先度付け基準を対談形式で語る。",
+   "key_terms": [
+    "feature creep",
+    "UX bloat",
+    "prioritization framework"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc013",
+   "category": "tech",
+   "title": "Optimizing App Store Previews",
+   "angle_ja": "スクリーンショットやアプリ説明文の最適化によるApp Storeでのオーガニック獲得率向上の手法を整理する。",
+   "key_terms": [
+    "App Store Optimization",
+    "conversion rate",
+    "store metadata"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "tc014",
+   "category": "tech",
+   "title": "Subscription vs Lifetime Purchase Models",
+   "angle_ja": "個人開発アプリにおけるサブスクリプションと買い切りの価格設定がもたらすLTVと離脱率の違いを議論する。",
+   "key_terms": [
+    "subscription model",
+    "lifetime purchase",
+    "customer lifetime value"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc015",
+   "category": "tech",
+   "title": "Designing a Frictionless Onboarding UX",
+   "angle_ja": "初日離脱を防ぎ、ユーザーがアプリの価値を瞬時に理解できるオンボーディング導線の設計原則を解説する。",
+   "key_terms": [
+    "onboarding flow",
+    "time to value",
+    "churn reduction"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc019",
+   "category": "tech",
+   "title": "Analytics Privacy and User Trust",
+   "angle_ja": "プライバシーを保護しながら実用的な利用動向データを収集する、テレメトリ設計のベストプラクティスを議論する。",
+   "key_terms": [
+    "privacy-first analytics",
+    "telemetry",
+    "event tracking"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "tc020",
+   "category": "tech",
+   "title": "Crash Reporting and Feedback Loops",
+   "angle_ja": "クラッシュログの自動収集とユーザー問い合わせ窓口の整備が製品品質と定着率に与える影響を解説する。",
+   "key_terms": [
+    "crash reporting",
+    "symbolication",
+    "feedback loop"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc021",
+   "category": "tech",
+   "title": "Getting Started with ESP32 and BLE",
+   "angle_ja": "ESP32マイコンとiOS端末をBluetooth Low Energyで直接接続する自作IoTの第一歩を解説する。",
+   "key_terms": [
+    "ESP32",
+    "Bluetooth Low Energy",
+    "peripheral mode"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc024",
+   "category": "tech",
+   "title": "Debugging Hardware vs Software Bugs",
+   "angle_ja": "IoT開発で直面するハードウェア起因の接触不良やノイズとソフトウェアのバグの切り分け方を対談で共有する。",
+   "key_terms": [
+    "hardware troubleshooting",
+    "signal noise",
+    "serial monitor"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc025",
+   "category": "tech",
+   "title": "Power Optimization for Battery-Powered Sensors",
+   "angle_ja": "自作IoTノードを長期間駆動させるためのマイコンのディープスリープ設定と消費電力削減のコツを解説する。",
+   "key_terms": [
+    "deep sleep",
+    "power budget",
+    "duty cycle"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc027",
+   "category": "tech",
+   "title": "3D Printing Custom Enclosures",
+   "angle_ja": "ブレッドボード上の回路を製品レベルの外観に仕上げる3Dプリント筐体モデリングの工程を語る。",
+   "key_terms": [
+    "custom enclosure",
+    "CAD modeling",
+    "rapid manufacturing"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc029",
+   "category": "tech",
+   "title": "Building a DIY Smart Desk Lamp",
+   "angle_ja": "リレーモジュールと自作iOSアプリを連動させたスマートデスクライトの制作ストーリーを対談形式で振り返る。",
+   "key_terms": [
+    "relay module",
+    "pulse-width modulation",
+    "home assistant"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "tc034",
+   "category": "tech",
+   "title": "Local Machine Learning on iOS with Core ML",
+   "angle_ja": "学習済みモデルをCore ML形式に変換し、オフライン環境かつ低遅延でデバイス上推論を実行する仕組みを解説する。",
+   "key_terms": [
+    "Core ML",
+    "on-device inference",
+    "quantization"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc037",
+   "category": "tech",
+   "title": "Localization and Multi-Language Launch",
+   "angle_ja": "String Catalogを活用して個人アプリを複数言語へローカライズし世界展開する実践的な手法を整理する。",
+   "key_terms": [
+    "localization",
+    "String Catalog",
+    "internationalization"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc038",
+   "category": "tech",
+   "title": "Designing Intuitive Custom Haptics",
+   "angle_ja": "Core Hapticsフレームワークを用いてユーザー操作に心地よい物理フィードバックを付与するUX効果を語る。",
+   "key_terms": [
+    "Core Haptics",
+    "tactile feedback",
+    "transient event"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "tc039",
+   "category": "tech",
+   "title": "Building Live Activities with Dynamic Island",
+   "angle_ja": "ActivityKitを用いて進行中のタスク状況をロック画面やDynamic Islandにリアルタイム表示する設計を解説する。",
+   "key_terms": [
+    "ActivityKit",
+    "Dynamic Island",
+    "real-time updates"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "tc040",
+   "category": "tech",
+   "title": "From Hobby Project to App Store Feature",
+   "angle_ja": "自作の週末プロジェクトがApp StoreのTodayタブに取り上げられるまでの軌跡と心構えを対談形式で共有する。",
+   "key_terms": [
+    "indie showcase",
+    "editorial feature",
+    "design refinement"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn001",
+   "category": "running",
+   "title": "Understanding the Marathon 'Wall': Glycogen Basics",
+   "angle_ja": "筋グリコーゲンの貯蔵限界と、枯渇によっていわゆる「30kmの壁」が起きる生理学的仕組みを解説する。",
+   "key_terms": [
+    "muscle glycogen",
+    "carbohydrate oxidation",
+    "hitting the wall"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn002",
+   "category": "running",
+   "title": "Carbo-Loading Protocols: The 48-Hour Window",
+   "angle_ja": "レース前2〜3日間で筋肉内の糖質貯蔵を最大化するための科学的なカーボローディング手法を紹介する。",
+   "key_terms": [
+    "glycogen supercompensation",
+    "tapering",
+    "grams per kilogram"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn003",
+   "category": "running",
+   "title": "Gut Training: Increasing Carb Absorption Capacity",
+   "angle_ja": "長距離走中の補給トラブルを防ぎ、1時間あたりの糖質吸収量を高める消化管トレーニングの原理を説明する。",
+   "key_terms": [
+    "gut training",
+    "gastrointestinal distress",
+    "transporter saturation"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "rn006",
+   "category": "running",
+   "title": "Sweat Rate Testing: Personalizing Race Hydration",
+   "angle_ja": "体重測定を用いて個人の発汗量を割り出し、過不足のない給水計画を立てる手順を紹介する。",
+   "key_terms": [
+    "sweat rate",
+    "fluid deficit",
+    "dehydration tolerance"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "rn007",
+   "category": "running",
+   "title": "Real Food vs. Gels in Ultramarathons",
+   "angle_ja": "超長距離走における固形食の役割と、甘味による胃腸の疲弊（味覚疲労）を防ぐアプローチを比較する。",
+   "key_terms": [
+    "flavor fatigue",
+    "solid food digestion",
+    "ultra-endurance nutrition"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn009",
+   "category": "running",
+   "title": "Caffeine Timing for Endurance Enhancement",
+   "angle_ja": "カフェインが中枢神経系と疲労知覚に与える影響と、レース中の効果的な摂取タイミングを検証する。",
+   "key_terms": [
+    "adenosine receptor",
+    "perceived exertion",
+    "ergogenic aid"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "rn012",
+   "category": "running",
+   "title": "Heart Rate Zones: Polarized Training (80/20)",
+   "angle_ja": "低強度と高強度の割合を8対2に設定するポラライズドトレーニングが持久力を高める理由を議論する。",
+   "key_terms": [
+    "polarized training",
+    "zone 2 running",
+    "aerobic base building"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn013",
+   "category": "running",
+   "title": "HRV as an Objective Readiness Metric",
+   "angle_ja": "心拍変動（HRV）の測定を通じて自律神経の回復状態を評価し、オーバートレーニングを防ぐ方法を解説する。",
+   "key_terms": [
+    "heart rate variability",
+    "parasympathetic tone",
+    "autonomic nervous system"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "rn014",
+   "category": "running",
+   "title": "Negative Split Strategy: Aerobic Efficiency",
+   "angle_ja": "レース後半のペースを前半より速く保つネガティブスプリットが生理学的に理にかなっている理由を紐解く。",
+   "key_terms": [
+    "negative split",
+    "glycogen preservation",
+    "pacing strategy"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn018",
+   "category": "running",
+   "title": "Sleep Extension for Endurance Recovery",
+   "angle_ja": "激しいトレーニング期間中に睡眠時間を意図的に延長することが疲労回復と怪我予防に及ぼす影響を話す。",
+   "key_terms": [
+    "sleep extension",
+    "cumulative fatigue",
+    "injury vulnerability"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn019",
+   "category": "running",
+   "title": "Active Recovery: Flush Out or Cellular Signal?",
+   "angle_ja": "完全休養よりも軽い有酸素運動を行うことで血流が改善し筋回復が早まる生理学的根拠を検証する。",
+   "key_terms": [
+    "active recovery",
+    "metabolic byproduct clearance",
+    "capillary perfusion"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "rn020",
+   "category": "running",
+   "title": "Post-Run Protein-Carbohydrate Window",
+   "angle_ja": "長距離走直後の糖質とタンパク質の同時摂取が筋グリコーゲン再合成と筋タンパク合成を最大化する仕組みを解説する。",
+   "key_terms": [
+    "glycogen resynthesis",
+    "muscle protein synthesis",
+    "insulin response"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn021",
+   "category": "running",
+   "title": "Delayed Onset Muscle Soreness (DOMS) Unpacked",
+   "angle_ja": "下り坂走行などによる遠心性筋収縮が引き起こす微細損傷と、遅発性筋肉痛の本当の原因を解説する。",
+   "key_terms": [
+    "delayed onset muscle soreness",
+    "eccentric contraction",
+    "microtrauma"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn022",
+   "category": "running",
+   "title": "Cold Water Immersion: Benefits and Trade-offs",
+   "angle_ja": "アイスバスによる炎症抑制が急性の疲労回復を助ける一方で、長期的な筋肥大適応を鈍らせるジレンマを議論する。",
+   "key_terms": [
+    "cold water immersion",
+    "vasoconstriction",
+    "blunted adaptation"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn024",
+   "category": "running",
+   "title": "Foam Rolling and Self-Myofascial Release",
+   "angle_ja": "フォームローラーが筋膜や腱の緊張を和らげ、筋力を落とさずに可動域を改善する神経生理学的経路を解説する。",
+   "key_terms": [
+    "myofascial release",
+    "range of motion",
+    "neural inhibition"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn027",
+   "category": "running",
+   "title": "Dynamic Warm-ups vs. Static Stretching",
+   "angle_ja": "走る前の静的ストレッチが筋出力を下げるリスクと、動的ストレッチが筋温と神経筋伝達を上げる理由を解説する。",
+   "key_terms": [
+    "dynamic warm-up",
+    "static stretching",
+    "neuromuscular readiness"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn033",
+   "category": "running",
+   "title": "Heat Acclimation for Marathon Performance",
+   "angle_ja": "暑熱順化によって発汗開始が早まり血漿量が増加することで、過酷な気象下での体温調整が向上する理由を解説する。",
+   "key_terms": [
+    "heat acclimation",
+    "plasma volume expansion",
+    "core body temperature"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "rn034",
+   "category": "running",
+   "title": "The Science of the Race Taper",
+   "angle_ja": "レース前数週間で走行距離を減らしつつ強度を維持して疲労を抜き、コンディションを頂点に持っていくテーパリング理論。",
+   "key_terms": [
+    "taper phase",
+    "training volume reduction",
+    "supercompensation"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn035",
+   "category": "running",
+   "title": "Cadence and Vertical Oscillation",
+   "angle_ja": "ピッチ（1分間の歩数）を微増させて上下動を抑えることが、関節への着地衝撃軽減と効率改善に繋がる理由を解説する。",
+   "key_terms": [
+    "cadence",
+    "vertical oscillation",
+    "ground reaction force"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "rn036",
+   "category": "running",
+   "title": "Heavy Strength Training for Distance Runners",
+   "angle_ja": "長距離走者が高負荷ウエイトトレーニングを取り入れることで、筋肥大を抑えつつ神経系と腱の剛性を高める仕組みを議論する。",
+   "key_terms": [
+    "neural adaptation",
+    "rate of force development",
+    "tendon stiffness"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "pa001",
+   "category": "parenting",
+   "title": "Why Toddlers Say \"No\" So Often",
+   "angle_ja": "2〜3 歳の「イヤイヤ期」が、自分で決めたい気持ちの芽生えである理由と、親の接し方を紹介します。",
+   "key_terms": [
+    "autonomy",
+    "toddler",
+    "power struggle"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa002",
+   "category": "parenting",
+   "title": "The Science of Bedtime Routines",
+   "angle_ja": "毎晩同じ順番で寝る準備をすると、子どもが寝付きやすくなる理由を解説します。",
+   "key_terms": [
+    "bedtime routine",
+    "melatonin",
+    "wind down"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa003",
+   "category": "parenting",
+   "title": "Screen Time: What Research Says",
+   "angle_ja": "子どものスクリーンタイムについて、時間の長さより中身と一緒に見ることが大切だという研究を話し合います。",
+   "key_terms": [
+    "screen time",
+    "co-viewing",
+    "passive watching"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "pa004",
+   "category": "parenting",
+   "title": "Raising Bilingual Children at Home",
+   "angle_ja": "家庭で 2 つの言語を使って子どもを育てる方法（1 人 1 言語など）と、よくある心配を話し合います。",
+   "key_terms": [
+    "bilingual",
+    "one parent, one language",
+    "code-switching"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa005",
+   "category": "parenting",
+   "title": "Praise the Effort, Not the Talent",
+   "angle_ja": "「頭がいいね」より「よく頑張ったね」とほめる方が、挑戦する気持ちが育つという研究を紹介します。",
+   "key_terms": [
+    "growth mindset",
+    "praise",
+    "resilience"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa006",
+   "category": "parenting",
+   "title": "How Babies Learn Language Before They Speak",
+   "angle_ja": "赤ちゃんが話し始める前から、音の聞き分けや親の話しかけを通じて言葉を学んでいる仕組みを解説します。",
+   "key_terms": [
+    "babbling",
+    "infant-directed speech",
+    "sound patterns"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "pa007",
+   "category": "parenting",
+   "title": "Picky Eaters and How Tastes Develop",
+   "angle_ja": "子どもの好き嫌いがなぜ起こるのか、何度も食卓に出すことで慣れていく仕組みを解説します。",
+   "key_terms": [
+    "picky eater",
+    "exposure",
+    "taste buds"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa008",
+   "category": "parenting",
+   "title": "Why Free Play Matters",
+   "angle_ja": "大人が決めない自由な遊びが、子どもの創造力や問題解決力を育てる理由を紹介します。",
+   "key_terms": [
+    "free play",
+    "creativity",
+    "structured activities"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa009",
+   "category": "parenting",
+   "title": "Staying Calm During Tantrums",
+   "angle_ja": "子どものかんしゃくに親が落ち着いて対応するコツを、親とカウンセラーの会話で紹介します。",
+   "key_terms": [
+    "tantrum",
+    "emotional regulation",
+    "calm down"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "pa010",
+   "category": "parenting",
+   "title": "Sibling Rivalry and Fairness",
+   "angle_ja": "きょうだいげんかが起こる理由と、「平等」より「それぞれに必要なものを」という考え方を紹介します。",
+   "key_terms": [
+    "sibling rivalry",
+    "fairness",
+    "one-on-one time"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa011",
+   "category": "parenting",
+   "title": "The Power of Reading Aloud",
+   "angle_ja": "子どもへの読み聞かせが、語彙や集中力、親子の関係に与える効果を解説します。",
+   "key_terms": [
+    "reading aloud",
+    "vocabulary",
+    "attention span"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa012",
+   "category": "parenting",
+   "title": "Teaching Kids About Money",
+   "angle_ja": "おこづかいを通して、子どもに貯める・使う・分けることを教える方法を話し合います。",
+   "key_terms": [
+    "allowance",
+    "saving",
+    "delayed gratification"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa013",
+   "category": "parenting",
+   "title": "How Much Sleep Do Children Need?",
+   "angle_ja": "年齢ごとに必要な睡眠時間と、睡眠不足が子どもの気分や学習に与える影響を解説します。",
+   "key_terms": [
+    "sleep needs",
+    "nap",
+    "sleep debt"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "pa014",
+   "category": "parenting",
+   "title": "Helping Children Name Their Feelings",
+   "angle_ja": "「悲しい」「くやしい」など気持ちを言葉にできると、子どもが落ち着きやすくなる理由を紹介します。",
+   "key_terms": [
+    "emotions",
+    "label feelings",
+    "empathy"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa015",
+   "category": "parenting",
+   "title": "Outdoor Time and Children's Eyesight",
+   "angle_ja": "外で過ごす時間が、子どもの近視の予防に役立つという研究を紹介します。",
+   "key_terms": [
+    "nearsightedness",
+    "daylight",
+    "outdoor play"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa016",
+   "category": "parenting",
+   "title": "Why Chores Are Good for Kids",
+   "angle_ja": "家のお手伝いが、子どもの責任感や自信につながる理由を解説します。",
+   "key_terms": [
+    "chores",
+    "responsibility",
+    "self-confidence"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "pa017",
+   "category": "parenting",
+   "title": "Easing Separation Anxiety at School",
+   "angle_ja": "入園・入学のときの子どもの不安をやわらげる方法を、親同士の会話で紹介します。",
+   "key_terms": [
+    "separation anxiety",
+    "goodbye routine",
+    "transition"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa018",
+   "category": "parenting",
+   "title": "Kids and Sports: Fun Before Winning",
+   "angle_ja": "子どものスポーツでは、勝ち負けより楽しさを大切にした方が長く続く理由を紹介します。",
+   "key_terms": [
+    "youth sports",
+    "burnout",
+    "intrinsic motivation"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "pa019",
+   "category": "parenting",
+   "title": "Answering Endless \"Why?\" Questions",
+   "angle_ja": "子どもの「なんで？」攻撃への上手な答え方と、好奇心を育てる関わり方を紹介します。",
+   "key_terms": [
+    "curiosity",
+    "open-ended question",
+    "wonder"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "pa020",
+   "category": "parenting",
+   "title": "Balancing Work and Family Time",
+   "angle_ja": "仕事と子育ての両立について、働く親 2 人が工夫を話し合います。",
+   "key_terms": [
+    "work-life balance",
+    "quality time",
+    "flexible schedule"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns001",
+   "category": "science",
+   "title": "Why the Sky Is Blue",
+   "angle_ja": "空が青く、夕焼けが赤く見える理由を、光の散乱で解説します。",
+   "key_terms": [
+    "scattering",
+    "wavelength",
+    "atmosphere"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns002",
+   "category": "science",
+   "title": "How the Moon Moves the Tides",
+   "angle_ja": "月の引力によって潮の満ち引きが起こる仕組みを解説します。",
+   "key_terms": [
+    "tide",
+    "gravity",
+    "high tide and low tide"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns003",
+   "category": "science",
+   "title": "Why We Have Seasons",
+   "angle_ja": "季節が生まれるのは太陽との距離ではなく、地軸の傾きのためである理由を解説します。",
+   "key_terms": [
+    "axis",
+    "tilt",
+    "hemisphere"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "ns004",
+   "category": "science",
+   "title": "The Honeybee Waggle Dance",
+   "angle_ja": "ミツバチが 8 の字ダンスで仲間に花の方向と距離を伝える仕組みを紹介します。",
+   "key_terms": [
+    "waggle dance",
+    "hive",
+    "pollen"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns005",
+   "category": "science",
+   "title": "Tardigrades: Earth's Toughest Animals",
+   "angle_ja": "乾燥や宇宙空間にも耐えるクマムシの驚くべき生存能力を紹介します。",
+   "key_terms": [
+    "tardigrade",
+    "dormant state",
+    "extreme conditions"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns006",
+   "category": "science",
+   "title": "How Birds Find Their Way",
+   "angle_ja": "渡り鳥が太陽や星、地球の磁場を使って何千キロも迷わず飛ぶ仕組みを話し合います。",
+   "key_terms": [
+    "migration",
+    "magnetic field",
+    "navigation"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "ns007",
+   "category": "science",
+   "title": "Why Leaves Change Color",
+   "angle_ja": "秋に葉が赤や黄色に変わる理由を、葉の色素の変化で解説します。",
+   "key_terms": [
+    "chlorophyll",
+    "pigment",
+    "deciduous"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns008",
+   "category": "science",
+   "title": "What Causes Earthquakes",
+   "angle_ja": "地球の表面を覆うプレートの動きが地震を起こす仕組みを解説します。",
+   "key_terms": [
+    "tectonic plate",
+    "fault",
+    "magnitude"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns009",
+   "category": "science",
+   "title": "How Volcanoes Build Islands",
+   "angle_ja": "ハワイのように、海底の火山活動から島が生まれる仕組みを解説します。",
+   "key_terms": [
+    "hot spot",
+    "lava",
+    "magma"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "ns010",
+   "category": "science",
+   "title": "How Smart Is an Octopus?",
+   "angle_ja": "道具を使い、迷路を解くタコの知能について、研究者との会話で紹介します。",
+   "key_terms": [
+    "intelligence",
+    "camouflage",
+    "nervous system"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns011",
+   "category": "science",
+   "title": "How Fireflies Make Light",
+   "angle_ja": "ホタルが体の中の化学反応で光を出す仕組みと、光で仲間と会話する理由を解説します。",
+   "key_terms": [
+    "bioluminescence",
+    "chemical reaction",
+    "signal"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns012",
+   "category": "science",
+   "title": "Where Clouds and Rain Come From",
+   "angle_ja": "水が蒸発して雲になり、雨として戻ってくる水の循環を解説します。",
+   "key_terms": [
+    "water cycle",
+    "evaporation",
+    "condensation"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns013",
+   "category": "science",
+   "title": "How Vaccines Train the Body",
+   "angle_ja": "ワクチンが体の免疫に「練習」をさせ、病気に備える仕組みを解説します。",
+   "key_terms": [
+    "immune system",
+    "antibody",
+    "vaccine"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "ns014",
+   "category": "science",
+   "title": "Why Do We Dream?",
+   "angle_ja": "眠っている間に夢を見る理由について、科学者の考えを話し合います。",
+   "key_terms": [
+    "REM sleep",
+    "memory",
+    "dream"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns015",
+   "category": "science",
+   "title": "Black Holes in Simple Terms",
+   "angle_ja": "光さえも抜け出せないブラックホールがどのようにできるのかを、やさしく解説します。",
+   "key_terms": [
+    "black hole",
+    "gravity",
+    "event horizon"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns016",
+   "category": "science",
+   "title": "How Coral Reefs Are Built",
+   "angle_ja": "小さなサンゴの生き物が長い年月をかけて巨大なサンゴ礁を作る仕組みを解説します。",
+   "key_terms": [
+    "coral reef",
+    "algae",
+    "bleaching"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "ns017",
+   "category": "science",
+   "title": "The Northern Lights Explained",
+   "angle_ja": "オーロラが太陽から来る粒子と地球の磁場によって生まれる仕組みを話し合います。",
+   "key_terms": [
+    "aurora",
+    "solar wind",
+    "magnetic field"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns018",
+   "category": "science",
+   "title": "How Lightning Forms",
+   "angle_ja": "雷雲の中で電気がたまり、雷が落ちる仕組みと、雷鳴が遅れて聞こえる理由を解説します。",
+   "key_terms": [
+    "static electricity",
+    "thundercloud",
+    "thunder"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "ns019",
+   "category": "science",
+   "title": "The Bacteria Living Inside Us",
+   "angle_ja": "おなかの中の細菌が消化や健康に関わっていることを、研究者との会話で紹介します。",
+   "key_terms": [
+    "gut bacteria",
+    "microbiome",
+    "digestion"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "ns020",
+   "category": "science",
+   "title": "What Happened to the Dinosaurs?",
+   "angle_ja": "恐竜が絶滅した原因として考えられている小惑星の衝突について話し合います。",
+   "key_terms": [
+    "extinction",
+    "asteroid",
+    "fossil record"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi001",
+   "category": "finance",
+   "title": "Compound Interest: Money That Grows",
+   "angle_ja": "利息が利息を生む複利の仕組みと、早く始めるほど有利な理由を解説します。",
+   "key_terms": [
+    "compound interest",
+    "principal",
+    "time horizon"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi002",
+   "category": "finance",
+   "title": "Index Funds or Picking Stocks?",
+   "angle_ja": "個別株を選ぶ投資と、市場全体に投資するインデックスファンドの違いを話し合います。",
+   "key_terms": [
+    "index fund",
+    "individual stock",
+    "market average"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi003",
+   "category": "finance",
+   "title": "Don't Put All Your Eggs in One Basket",
+   "angle_ja": "資産を分けて持つ分散投資が、リスクを下げる理由を解説します。",
+   "key_terms": [
+    "diversification",
+    "asset",
+    "risk"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "fi004",
+   "category": "finance",
+   "title": "Dollar-Cost Averaging",
+   "angle_ja": "毎月同じ金額を投資し続けることで、買う時期の迷いを減らす方法を解説します。",
+   "key_terms": [
+    "dollar-cost averaging",
+    "market timing",
+    "regular investment"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi005",
+   "category": "finance",
+   "title": "Inflation and the Value of Money",
+   "angle_ja": "物価が上がると、同じお金で買えるものが減る仕組みと、投資との関係を解説します。",
+   "key_terms": [
+    "inflation",
+    "purchasing power",
+    "cash"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi006",
+   "category": "finance",
+   "title": "Stocks and Bonds: What's the Difference?",
+   "angle_ja": "株式と債券の違いと、それぞれのリスクとリターンを解説します。",
+   "key_terms": [
+    "stock",
+    "bond",
+    "return"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "fi007",
+   "category": "finance",
+   "title": "How Much Risk Can You Take?",
+   "angle_ja": "年齢や目標によって、とれるリスクの大きさが変わる理由を話し合います。",
+   "key_terms": [
+    "risk tolerance",
+    "time horizon",
+    "volatility"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi008",
+   "category": "finance",
+   "title": "What Is an ETF?",
+   "angle_ja": "株のように売買できる投資信託、ETF の仕組みと人気の理由を解説します。",
+   "key_terms": [
+    "ETF",
+    "fund",
+    "trading"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi009",
+   "category": "finance",
+   "title": "Build an Emergency Fund First",
+   "angle_ja": "投資を始める前に、生活費数か月分の予備資金を用意すべき理由を解説します。",
+   "key_terms": [
+    "emergency fund",
+    "living expenses",
+    "savings"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "fi010",
+   "category": "finance",
+   "title": "Why Small Fees Matter",
+   "angle_ja": "年 1% ほどの手数料の差が、数十年で大きな差になる理由を解説します。",
+   "key_terms": [
+    "fee",
+    "expense ratio",
+    "long term"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi011",
+   "category": "finance",
+   "title": "Staying Calm When the Market Falls",
+   "angle_ja": "株価が大きく下がったときに慌てて売らないことの大切さを話し合います。",
+   "key_terms": [
+    "market crash",
+    "panic selling",
+    "recovery"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi012",
+   "category": "finance",
+   "title": "Loss Aversion: Why Losing Hurts More",
+   "angle_ja": "人は得をする喜びより損をする痛みを強く感じるという行動経済学の考え方を紹介します。",
+   "key_terms": [
+    "loss aversion",
+    "behavioral finance",
+    "bias"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi013",
+   "category": "finance",
+   "title": "Dividends and Reinvesting",
+   "angle_ja": "企業が株主に払う配当と、配当を再投資して資産を増やす方法を解説します。",
+   "key_terms": [
+    "dividend",
+    "shareholder",
+    "reinvest"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "fi014",
+   "category": "finance",
+   "title": "Currency Risk in Foreign Investing",
+   "angle_ja": "海外の株に投資するとき、為替の動きがリターンに与える影響を解説します。",
+   "key_terms": [
+    "exchange rate",
+    "currency risk",
+    "weak yen"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi015",
+   "category": "finance",
+   "title": "Tax-Advantaged Accounts",
+   "angle_ja": "税金の優遇がある投資口座の考え方と、なぜ長期投資に向いているのかを話し合います。",
+   "key_terms": [
+    "tax-advantaged account",
+    "capital gains",
+    "tax-free"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi016",
+   "category": "finance",
+   "title": "Reading a Company's Earnings",
+   "angle_ja": "企業の決算発表で、売上・利益・今後の見通しをどう読むかを解説します。",
+   "key_terms": [
+    "earnings report",
+    "revenue",
+    "profit"
+   ],
+   "format": "monologue",
+   "level": "B2"
+  },
+  {
+   "id": "fi017",
+   "category": "finance",
+   "title": "What Interest Rates Do",
+   "angle_ja": "中央銀行が金利を上げ下げすると、ローンや株価、景気がどう変わるかを解説します。",
+   "key_terms": [
+    "interest rate",
+    "central bank",
+    "borrowing"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi018",
+   "category": "finance",
+   "title": "Bull and Bear Markets",
+   "angle_ja": "上昇相場を「ブル」、下落相場を「ベア」と呼ぶ由来と、それぞれの特徴を紹介します。",
+   "key_terms": [
+    "bull market",
+    "bear market",
+    "trend"
+   ],
+   "format": "monologue",
+   "level": "B1+"
+  },
+  {
+   "id": "fi019",
+   "category": "finance",
+   "title": "Planning for Retirement",
+   "angle_ja": "老後に必要なお金をどう考えるか、「4% ルール」を例に話し合います。",
+   "key_terms": [
+    "retirement",
+    "withdrawal rate",
+    "4% rule"
+   ],
+   "format": "dialogue",
+   "level": "B2"
+  },
+  {
+   "id": "fi020",
+   "category": "finance",
+   "title": "How to Spot Investment Scams",
+   "angle_ja": "「必ずもうかる」といった投資詐欺の見分け方を、専門家との会話で紹介します。",
+   "key_terms": [
+    "investment scam",
+    "guaranteed return",
+    "red flag"
+   ],
+   "format": "dialogue",
+   "level": "B1+"
+  }
+ ],
+ "voices": [
+  {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US",
+   "gender": "F"
+  },
+  {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US",
+   "gender": "F"
+  },
+  {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK",
+   "gender": "M"
+  },
+  {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US",
+   "gender": "M"
+  },
+  {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US",
+   "gender": "M"
+  },
+  {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US",
+   "gender": "M"
+  },
+  {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US",
+   "gender": "M"
+  },
+  {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US",
+   "gender": "M"
+  },
+  {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US",
+   "gender": "M"
+  },
+  {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US",
+   "gender": "M"
+  },
+  {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK",
+   "gender": "M"
+  },
+  {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU",
+   "gender": "M"
+  },
+  {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US",
+   "gender": "F"
+  },
+  {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA",
+   "gender": "F"
+  }
+ ]
+}

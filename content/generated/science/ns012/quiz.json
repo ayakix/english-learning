@@ -1,0 +1,114 @@
+{
+ "id": "ns012",
+ "author": "claude",
+ "summary_ja": "今日飲む水は、かつて雲や海や氷河だったかもしれない。水は形を変えながら移動し続ける（水の循環）。太陽が海や湖を温めると水が水蒸気になる（蒸発）。暖かく湿った空気は上昇して冷え、水蒸気が小さな水滴に戻る（凝結）。水滴はちり、海の塩、煙などの小さな粒の周りにでき、集まって雲になる。雲の中で水滴がぶつかって大きく重くなると雨や雪として落ち、川や地下水を通ってまた温められる。",
+ "listening": [
+  {
+   "q": "evaporation とは？",
+   "options": [
+    "水が凍ること",
+    "太陽の熱で水が水蒸気になること",
+    "雨が降ること",
+    "水蒸気が水滴になること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"some of the water turns into an invisible gas called water vapor. This process is called evaporation.\""
+  },
+  {
+   "q": "雲の中の水滴が雨として落ちるのは？",
+   "options": [
+    "雲が黒くなったとき",
+    "夜になったとき",
+    "ぶつかり合って大きく重くなり、空中にいられなくなったとき",
+    "風が止まったとき"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When they are too heavy to stay in the air, they fall as rain.\""
+  },
+  {
+   "q": "最後の文で、雨の日は何にたとえられている？",
+   "options": [
+    "何十億年も続く物語の一章",
+    "季節の始まり",
+    "旅の終わり",
+    "1日の終わり"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"So every rainy day is just one chapter in a story that has been going on for billions of years.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "地球の水は、いつも動き、形を変え、また戻ってきます。",
+   "points_ja": "always moving がつながり、changing form and returning again が続けて聞こえます。"
+  },
+  {
+   "sentence": 9,
+   "ja": "冷たい空気はそれほど多くの水蒸気を含めないので、水蒸気は小さな液体の水滴に戻ります。",
+   "points_ja": "cannot hold as much が続き、turns back into tiny が続けて聞こえます。"
+  },
+  {
+   "sentence": 19,
+   "ja": "一部は地面にしみ込み、地下水になります。",
+   "points_ja": "soaks into the ground がつながり、becomes groundwater が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "雲は煙でできている",
+    "地下水は動かない",
+    "水は蒸発・凝結・降水を繰り返しながら地球を循環している",
+    "雨は空で作られる新しい水"
+   ],
+   "answer": 2,
+   "explanation_ja": "水の循環の各段階を説明しています。"
+  },
+  {
+   "q": "condensation とは？",
+   "options": [
+    "雪が溶けること",
+    "水が水蒸気になること",
+    "水蒸気が冷えて小さな水滴に戻ること",
+    "水が流れること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the vapor turns back into tiny liquid droplets. This is called condensation.\""
+  },
+  {
+   "q": "水滴ができるときの「核」になるものとして挙げられていないものは？",
+   "options": [
+    "煙",
+    "金属の粉",
+    "海の塩",
+    "ちり"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"such as dust, salt from the sea or smoke.\""
+  },
+  {
+   "q": "蒸発以外に水蒸気を出すものとして書かれているのは？",
+   "options": [
+    "植物の葉",
+    "雲",
+    "動物の毛",
+    "岩"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Plants also release water vapor through their leaves.\""
+  },
+  {
+   "q": "寒いときに水滴はどう降る？",
+   "options": [
+    "霧になる",
+    "雨だけ",
+    "降らない",
+    "雪やひょうとして"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"If the air is cold enough, they fall as snow or hail.\""
+  }
+ ]
+}

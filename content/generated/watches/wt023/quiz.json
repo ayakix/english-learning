@@ -1,0 +1,114 @@
+{
+ "id": "wt023",
+ "author": "claude",
+ "summary_ja": "時計を袖やティッシュで拭くと、細い拭き傷（ヘアライン傷）がつく。原因は布よりも表面のほこり。まずブラシや空気、防水なら水でほこりを落とし、ガラスや鏡面にはマイクロファイバー、金属にはセーム革を使う。研磨剤入りの布は金属を削るので使いすぎに注意。",
+ "listening": [
+  {
+   "q": "拭き傷の主な原因は？",
+   "options": [
+    "布そのものより、表面のほこりや砂",
+    "強い光",
+    "時計の重さ",
+    "手の温度"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The main cause is not the cloth itself, but dust.\""
+  },
+  {
+   "q": "拭く前にすべきこととして話されているのは？",
+   "options": [
+    "油を塗る",
+    "時計を温める",
+    "ベルトを外す",
+    "ブラシや空気でほこりを落とす"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"You can use a soft brush or a gentle blow of air.\""
+  },
+  {
+   "q": "研磨剤入りのクロスについての注意は？",
+   "options": [
+    "金属を薄く削るので、使いすぎるとケースの角が丸くなる",
+    "色が変わる",
+    "電池が切れる",
+    "防水性が上がる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Used too often, they can soften sharp edges and change the shape of the case.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "害がないように思えますが、時間がたつとヘアライン傷と呼ばれる細い跡が残ることがあります。",
+   "points_ja": "over time が続き、called hairline の d がほとんど聞こえません。"
+  },
+  {
+   "sentence": 9,
+   "ja": "その後、適切な布を選びます。",
+   "points_ja": "After that の r が軽く、choose the の the は弱形です。"
+  },
+  {
+   "sentence": 13,
+   "ja": "セーム革は伝統的な選択肢です。",
+   "points_ja": "leather is a が「レザリザ」とつながります。chamois は「シャミー」と発音します。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "時計は拭かないほうがよい",
+    "正しい手順と道具で時計を拭けば、細かい傷を防げる",
+    "傷は防げない",
+    "ティッシュが一番よい"
+   ],
+   "answer": 1,
+   "explanation_ja": "ほこりを先に落とし、適切な布を選ぶ方法を説明しています。"
+  },
+  {
+   "q": "hairline scratches がよく目立つのは？",
+   "options": [
+    "暗い場所のベルト",
+    "文字盤の数字",
+    "裏ぶたの刻印",
+    "光が当たったときの鏡面"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"you mainly notice on polished surfaces when light hits them.\""
+  },
+  {
+   "q": "マイクロファイバーの布が良い理由は？",
+   "options": [
+    "水を通さないから",
+    "研磨剤が入っているから",
+    "細い繊維が粒子を押し込まずに油や指紋を取るから",
+    "安いから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Its extremely fine fibers lift oil and fingerprints without pushing particles into the surface.\""
+  },
+  {
+   "q": "汚れた布を使うとどうなる？",
+   "options": [
+    "汚れを動かしているだけになる",
+    "時計が光る",
+    "防水性が上がる",
+    "傷が消える"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a dirty cloth just moves the dirt around.\""
+  },
+  {
+   "q": "\"they act like sandpaper\" の \"they\" が指すものは？",
+   "options": [
+    "布の繊維",
+    "指",
+    "ガラス",
+    "小さな砂やほこりの粒"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Tiny particles of sand and grit ... When you rub them across the surface, they act like sandpaper.\""
+  }
+ ]
+}

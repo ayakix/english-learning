@@ -1,0 +1,201 @@
+{
+ "id": "ns013",
+ "author": "claude",
+ "category": "science",
+ "title": "How Vaccines Train the Body",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "immune system",
+  "antibody",
+  "vaccine"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Our bodies are constantly defending themselves against germs, such as viruses and bacteria. This defense system is called the immune system. Vaccines work by giving the immune system a chance to practice before it meets a real infection."
+  },
+  {
+   "speaker": "A",
+   "text": "When a new germ enters the body, the immune system needs time to recognize it. It looks for special parts on the surface of the germ, called antigens. Once it recognizes them, it produces antibodies. These are proteins that attach to the germ and help destroy it. But this process can take days. Meanwhile, the person may become very sick."
+  },
+  {
+   "speaker": "A",
+   "text": "After the infection, something important remains. The immune system keeps memory cells that remember the germ. If the same germ returns, the body can respond much faster and stronger, often before the person feels ill."
+  },
+  {
+   "speaker": "A",
+   "text": "A vaccine creates this memory without the danger of the real disease. Different vaccines do this in different ways. Some contain a weakened or inactivated germ. Others contain just one piece of it. Newer mRNA vaccines give the body instructions to make a harmless protein that looks like part of the virus. The immune system then learns to recognize it."
+  },
+  {
+   "speaker": "A",
+   "text": "Side effects, such as a sore arm or a mild fever, are often signs that the immune system is responding."
+  },
+  {
+   "speaker": "A",
+   "text": "When many people are vaccinated, it also becomes harder for a disease to spread. This protects people who cannot be vaccinated, such as very young babies."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Our bodies are constantly defending themselves against germs, such as viruses and bacteria.",
+   "start": 0.0,
+   "end": 6.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This defense system is called the immune system.",
+   "start": 6.63,
+   "end": 9.95,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Vaccines work by giving the immune system a chance to practice before it meets a real infection.",
+   "start": 10.38,
+   "end": 16.46,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When a new germ enters the body, the immune system needs time to recognize it.",
+   "start": 16.98,
+   "end": 21.86,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It looks for special parts on the surface of the germ, called antigens.",
+   "start": 22.77,
+   "end": 27.17,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Once it recognizes them, it produces antibodies.",
+   "start": 27.84,
+   "end": 30.88,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "These are proteins that attach to the germ and help destroy it.",
+   "start": 31.79,
+   "end": 35.51,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "But this process can take days.",
+   "start": 36.14,
+   "end": 38.42,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Meanwhile, the person may become very sick.",
+   "start": 39.05,
+   "end": 42.09,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "After the infection, something important remains.",
+   "start": 42.61,
+   "end": 46.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The immune system keeps memory cells that remember the germ.",
+   "start": 46.8,
+   "end": 50.32,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If the same germ returns, the body can respond much faster and stronger, often before the person feels ill.",
+   "start": 51.15,
+   "end": 58.59,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A vaccine creates this memory without the danger of the real disease.",
+   "start": 59.11,
+   "end": 63.67,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Different vaccines do this in different ways.",
+   "start": 64.34,
+   "end": 67.14,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some contain a weakened or inactivated germ.",
+   "start": 67.81,
+   "end": 70.97,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Others contain just one piece of it.",
+   "start": 71.6,
+   "end": 74.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Newer mRNA vaccines give the body instructions to make a harmless protein that looks like part of the virus.",
+   "start": 74.99,
+   "end": 81.75,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The immune system then learns to recognize it.",
+   "start": 82.14,
+   "end": 84.78,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Side effects, such as a sore arm or a mild fever, are often signs that the immune system is responding.",
+   "start": 85.3,
+   "end": 92.5,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When many people are vaccinated, it also becomes harder for a disease to spread.",
+   "start": 93.02,
+   "end": 98.22,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "This protects people who cannot be vaccinated, such as very young babies.",
+   "start": 98.69,
+   "end": 103.37,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 239,
+ "duration": 103.3,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-04 00:00"
+}

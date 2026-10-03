@@ -1,0 +1,194 @@
+{
+ "id": "rn033",
+ "author": "claude",
+ "category": "running",
+ "title": "Heat Acclimation for Marathon Performance",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "heat acclimation",
+  "plasma volume expansion",
+  "core body temperature"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Running a marathon in hot weather is much harder than in cool weather. Your heart rate rises, your pace drops and the risk of heat illness increases. The good news is that the body can adapt to heat surprisingly quickly. This process is called heat acclimation."
+  },
+  {
+   "speaker": "A",
+   "text": "When you exercise in the heat, your body has two jobs. It must send blood to the muscles for energy, and to the skin to release heat. This creates competition for blood, and your heart works harder."
+  },
+  {
+   "speaker": "A",
+   "text": "After repeated exposure to heat, usually around ten to fourteen days, several changes happen. One of the most important is plasma volume expansion. Plasma is the liquid part of the blood. When its volume increases, the heart can pump more blood with each beat, making it easier to cool down and supply the muscles at the same time."
+  },
+  {
+   "speaker": "A",
+   "text": "You also start sweating earlier and more, which improves cooling. Your sweat becomes less salty, so you keep more salt in your body. As a result, your heart rate and core body temperature are lower at the same pace. Core body temperature means the temperature deep inside the body."
+  },
+  {
+   "speaker": "A",
+   "text": "To acclimate, runners often train in the heat for about an hour a day, starting with easy runs. Some use other methods, such as hot baths or saunas after training. These should be used carefully."
+  },
+  {
+   "speaker": "A",
+   "text": "Even after full acclimation, hot races require a slower pace and good hydration. Heat should always be respected."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Running a marathon in hot weather is much harder than in cool weather.",
+   "start": 0.0,
+   "end": 4.32,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Your heart rate rises, your pace drops and the risk of heat illness increases.",
+   "start": 5.31,
+   "end": 10.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The good news is that the body can adapt to heat surprisingly quickly.",
+   "start": 11.5,
+   "end": 15.66,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This process is called heat acclimation.",
+   "start": 16.65,
+   "end": 19.61,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When you exercise in the heat, your body has two jobs.",
+   "start": 20.13,
+   "end": 24.53,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It must send blood to the muscles for energy, and to the skin to release heat.",
+   "start": 24.96,
+   "end": 30.48,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This creates competition for blood, and your heart works harder.",
+   "start": 30.95,
+   "end": 35.31,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "After repeated exposure to heat, usually around ten to fourteen days, several changes happen.",
+   "start": 35.83,
+   "end": 42.63,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One of the most important is plasma volume expansion.",
+   "start": 43.7,
+   "end": 47.22,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Plasma is the liquid part of the blood.",
+   "start": 48.21,
+   "end": 50.61,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When its volume increases, the heart can pump more blood with each beat, making it easier to cool down and supply the muscles at the same time.",
+   "start": 51.6,
+   "end": 61.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "You also start sweating earlier and more, which improves cooling.",
+   "start": 62.04,
+   "end": 66.52,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Your sweat becomes less salty, so you keep more salt in your body.",
+   "start": 67.43,
+   "end": 72.03,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "As a result, your heart rate and core body temperature are lower at the same pace.",
+   "start": 72.66,
+   "end": 78.1,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Core body temperature means the temperature deep inside the body.",
+   "start": 79.09,
+   "end": 83.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "To acclimate, runners often train in the heat for about an hour a day, starting with easy runs.",
+   "start": 83.69,
+   "end": 90.93,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some use other methods, such as hot baths or saunas after training.",
+   "start": 91.64,
+   "end": 96.44,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "These should be used carefully.",
+   "start": 97.43,
+   "end": 99.51,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Even after full acclimation, hot races require a slower pace and good hydration.",
+   "start": 100.03,
+   "end": 106.75,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Heat should always be respected.",
+   "start": 107.26,
+   "end": 109.58,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 243,
+ "duration": 109.5,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:56"
+}

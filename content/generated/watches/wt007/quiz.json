@@ -1,0 +1,114 @@
+{
+ "id": "wt007",
+ "author": "claude",
+ "summary_ja": "ゼンマイはほどけるにつれて力が弱くなり（トルクの低下）、精度に影響する。ルモントワールは、ゼンマイの力で小さなばねを何度も巻き直し、その小さなばねが毎回同じ力で脱進機を押す仕組み。一定の力を届けられるが部品が多く、高級な手作りの時計に多い。",
+ "listening": [
+  {
+   "q": "この話で問題にしているのは？",
+   "options": [
+    "針が見えにくいこと",
+    "時計が重すぎること",
+    "ゼンマイがほどけるにつれて力が弱くなること",
+    "電池が切れること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"As the hours pass, it slowly relaxes and pushes less. This change in force is called torque drop.\""
+  },
+  {
+   "q": "ルモントワールの仕組みとして正しいものは？",
+   "options": [
+    "ゼンマイを2倍の長さにする",
+    "テンプを止める",
+    "電子回路で力を調整する",
+    "小さなばねを何度も巻き直し、毎回同じ力で押す"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The mainspring rewinds this small spring again and again ... The small spring then delivers the same gentle push every time.\""
+  },
+  {
+   "q": "ルモントワールが主に高級な時計に使われる理由は？",
+   "options": [
+    "部品が多くて複雑だから",
+    "精度が下がるから",
+    "見た目が地味だから",
+    "法律の規制があるから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"it adds many parts. That is why you mostly find it in high-end, handmade watches.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "時間がたつにつれて、ゼンマイはゆっくり緩み、押す力が弱くなります。",
+   "points_ja": "relaxes and がつながり、pushes less の s が重なって聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "時計師たちはこの問題を解決するために多くの方法を試してきました。",
+   "points_ja": "have tried の have は弱く「ヴ」に近く、ways to の to は「タ」です。"
+  },
+  {
+   "sentence": 17,
+   "ja": "賢い解決策ですが、部品が多くなります。",
+   "points_ja": "It is a は「イティザ」とつながり、but it adds も「バリタッズ」に近く聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ゼンマイは毎日交換が必要である",
+    "ルモントワールはトルクの低下を解決し、一定の力を届ける仕組みである",
+    "フランス語は時計の言葉である",
+    "テンプは速いほどよい"
+   ],
+   "answer": 1,
+   "explanation_ja": "トルク低下の問題と、その解決策としてのルモントワールを説明しています。"
+  },
+  {
+   "q": "torque drop の説明として正しいものは？",
+   "options": [
+    "針が下に落ちること",
+    "ゼンマイの力が時間とともに弱くなること",
+    "時計が重くなること",
+    "気温が下がること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"This change in force is called torque drop.\""
+  },
+  {
+   "q": "力が変わると何が起こる可能性がある？",
+   "options": [
+    "文字盤の色が変わる",
+    "ガラスが割れる",
+    "時計が光る",
+    "テンプの振れ幅が変わり、時計が少し速くなったり遅くなったりする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the swings can become a little smaller or larger. That can make the watch run slightly faster or slower\"。"
+  },
+  {
+   "q": "remontoire という言葉の意味に近いのは？",
+   "options": [
+    "巻き直すもの",
+    "測るもの",
+    "飾り",
+    "止める装置"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"means something like 'rewinder.'\""
+  },
+  {
+   "q": "小さなばねが巻き直される頻度として書かれているのは？",
+   "options": [
+    "毎秒、または数秒ごと",
+    "1週間に1回",
+    "1時間に1回",
+    "1日に1回"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"often every second or every few seconds\"。"
+  }
+ ]
+}

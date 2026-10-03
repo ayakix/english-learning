@@ -1,0 +1,114 @@
+{
+ "id": "wn018",
+ "author": "claude",
+ "summary_ja": "赤ワインのピーマンのような香りは、メトキシピラジンという成分から来る。カベルネ・ソーヴィニヨン、カベルネ・フラン、ソーヴィニヨン・ブランに多い。少量なら新鮮でハーブのよう、強いと未熟で青臭い。ピラジンは日光と暖かさで分解するので、ブドウの周りの葉を取って光を当てる（キャノピー管理）。昔のボルドーで多かったのはそのため。",
+ "listening": [
+  {
+   "q": "ピーマンのような香りのもとは？",
+   "options": [
+    "アントシアニン",
+    "メトキシピラジン",
+    "タンニン",
+    "ジアセチル"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That smell comes from compounds called methoxypyrazines.\""
+  },
+  {
+   "q": "この香りが強いとどう感じる？",
+   "options": [
+    "未熟で青臭い",
+    "花のよう",
+    "バターのよう",
+    "甘くて熟している"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"if it's very strong, the wine can taste unripe and green.\""
+  },
+  {
+   "q": "生産者がピラジンを減らす方法は？",
+   "options": [
+    "暗い場所で育てる",
+    "ブドウの周りの葉を取り、光を当てる",
+    "早く摘む",
+    "水を多くやる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"By removing some leaves around the grapes, they let in more light.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "それはどのくらい強いかによります。",
+   "points_ja": "depends on が「ディペンゾン」、strong it is が続けて聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "少量なら、新鮮さと心地よいハーブのような香りを加えることができます。",
+   "points_ja": "In small amounts がつながり、freshness and a が「フレッシュネサンダ」と続きます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "ピラジンは、ブドウが日光と暖かさを受けると分解します。",
+   "points_ja": "break down がつながり、sunlight and warmth の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ピーマンのような香りの原因と、それを調整する方法",
+    "白ワインの作り方",
+    "ボルドーの歴史",
+    "ピーマンの育て方"
+   ],
+   "answer": 0,
+   "explanation_ja": "ピラジンの由来、良し悪し、キャノピー管理を話しています。"
+  },
+  {
+   "q": "ピラジンが多い品種として挙げられていないものは？",
+   "options": [
+    "カベルネ・フラン",
+    "ピノ・ノワール",
+    "カベルネ・ソーヴィニヨン",
+    "ソーヴィニヨン・ブラン"
+   ],
+   "answer": 1,
+   "explanation_ja": "ピノ・ノワールは挙げられていません。"
+  },
+  {
+   "q": "vegetal note の意味は？",
+   "options": [
+    "野菜のような青い香り",
+    "木の香り",
+    "果物の甘い香り",
+    "花の香り"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the wine can taste unripe and green. Tasters call this a vegetal note.\""
+  },
+  {
+   "q": "canopy の意味は？",
+   "options": [
+    "ブドウの木の葉",
+    "畑の柵",
+    "ブドウの根",
+    "樽のふた"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The canopy is the leaves of the vine.\""
+  },
+  {
+   "q": "昔のボルドーでピーマンの香りが多かった理由として推測できるのは？",
+   "options": [
+    "暑すぎたから",
+    "涼しく曇りの年が多く、畑の管理も今ほど進んでいなかったから",
+    "ピーマンを一緒に育てていたから",
+    "白ワインが多かったから"
+   ],
+   "answer": 1,
+   "explanation_ja": "涼しく曇った年はピラジンが残りやすく、\"Better vineyard work and warmer summers have changed that\" とあります。"
+  }
+ ]
+}

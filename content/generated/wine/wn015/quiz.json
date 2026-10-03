@@ -1,0 +1,114 @@
+{
+ "id": "wn015",
+ "author": "claude",
+ "summary_ja": "バトナージュ（澱の撹拌）は、発酵後に樽の底に沈んだ死んだ酵母（澱）を棒で混ぜ戻す作業。酵母が分解（自己消化）して、丸くクリーミーな口当たりとパンやナッツの風味を生む。雨や冷涼さで軽くなりがちな日本のシャルドネに、ボディと旨味のような風味を加え、酸素からも守る。混ぜすぎると重くなる。",
+ "listening": [
+  {
+   "q": "lees とは？",
+   "options": [
+    "樽の木くず",
+    "瓶の栓",
+    "発酵後に樽の底に沈んだ死んだ酵母",
+    "ブドウの皮"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"After fermentation, dead yeast cells sink to the bottom of the barrel. These are called the lees.\""
+  },
+  {
+   "q": "澱を混ぜる効果は？",
+   "options": [
+    "丸くクリーミーな口当たりと、パンやナッツのような風味",
+    "泡が出る",
+    "色が赤くなる",
+    "甘さが増す"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It gives the wine a rounder, creamier texture, and flavors like bread, nuts or biscuits.\""
+  },
+  {
+   "q": "混ぜすぎた場合のリスクは？",
+   "options": [
+    "ワインが凍る",
+    "ワインが重くなり、新鮮さを失う",
+    "アルコールが消える",
+    "樽が壊れる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"If you stir too much, the wine can become heavy and lose its freshness.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 11,
+   "ja": "この過程は酵母の自己消化と呼ばれます。",
+   "points_ja": "process is called が続き、called yeast の d は飲み込まれます。"
+  },
+  {
+   "sentence": 12,
+   "ja": "ワインがより丸くクリーミーな口当たりになり、パン、ナッツ、ビスケットのような風味が出ます。",
+   "points_ja": "gives the wine が続き、bread, nuts or biscuits の or は弱く「ア」に近くなります。"
+  },
+  {
+   "sentence": 17,
+   "ja": "また、ワインを酸素から守る助けにもなります。",
+   "points_ja": "helps protect の s が重なり、wine from oxygen が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ワインの輸入",
+    "酵母の歴史",
+    "バトナージュという技法と、日本のシャルドネでの効果",
+    "日本酒の造り方"
+   ],
+   "answer": 2,
+   "explanation_ja": "技法の内容と、日本のシャルドネに役立つ理由を話しています。"
+  },
+  {
+   "q": "bâtonnage は英語で何と言う？",
+   "options": [
+    "cold soak",
+    "skin contact",
+    "pump-over",
+    "lees stirring"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"In English, we usually say lees stirring.\""
+  },
+  {
+   "q": "日本で特に役立つ理由は？",
+   "options": [
+    "日本のブドウは甘すぎるから",
+    "日本では樽が安いから",
+    "雨や冷涼さで軽くなりがちなワインにボディと旨味を加えるから",
+    "日本は暑いから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"In some years, Japanese Chardonnay can feel a little light ... Lees stirring adds body and a gentle savory quality\"。"
+  },
+  {
+   "q": "savory quality の例えとして使われているのは？",
+   "options": [
+    "塩",
+    "旨味",
+    "砂糖",
+    "レモン"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a gentle savory quality, a bit like umami.\""
+  },
+  {
+   "q": "優れた醸造家がすることは？",
+   "options": [
+    "毎日混ぜ続ける",
+    "頻繁に味見をして、いつやめるかを慎重に決める",
+    "機械に任せる",
+    "まったく混ぜない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The best winemakers taste the wine often and decide carefully when to stop.\""
+  }
+ ]
+}

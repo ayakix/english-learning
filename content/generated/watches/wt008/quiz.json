@@ -1,0 +1,114 @@
+{
+ "id": "wt008",
+ "author": "claude",
+ "summary_ja": "トゥールビヨンは1801年にブレゲが特許を取った機構で、縦に入れて持ち歩く懐中時計の姿勢差（重力による誤差）を打ち消すため、テンプと脱進機をかごに入れて回転させる。腕時計では必要性が議論されるが、美しさと技術の象徴として人気がある。",
+ "listening": [
+  {
+   "q": "トゥールビヨンを発明したのは？",
+   "options": [
+    "ロレックス",
+    "ブレゲ",
+    "ランゲ",
+    "スヴェン・アンデルセン"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It was invented by Abraham-Louis Breguet, and he patented it in eighteen oh one.\""
+  },
+  {
+   "q": "当時、懐中時計にとって問題だったことは？",
+   "options": [
+    "縦向きのまま長時間いると重力で誤差が出ること",
+    "針が見えにくいこと",
+    "ガラスが割れやすいこと",
+    "水が入りやすいこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"When a watch stays in one position for hours, gravity can make it run a little fast or slow.\""
+  },
+  {
+   "q": "今日トゥールビヨンが人気の主な理由として B が言うのは？",
+   "options": [
+    "精度が大幅に上がるから",
+    "法律で必要だから",
+    "回る様子が美しく、高い技術を示すから",
+    "安いから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Because it's beautiful to watch ... For most buyers today, the tourbillon is more art than function\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "当時、人々は懐中時計を、たいていベストのポケットに立てて入れて持ち歩いていました。",
+   "points_ja": "carried pocket の d がほとんど聞こえず、standing up in a がつながります。"
+  },
+  {
+   "sentence": 11,
+   "ja": "たいてい1分に1回転します。",
+   "points_ja": "turns once a がつながり「ターンズワンサ」になります。"
+  },
+  {
+   "sentence": 19,
+   "ja": "文字盤の窓から、その小さなかごが回っているのが見えます。",
+   "points_ja": "through a window の a は弱く、in the dial の the も弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主な内容は？",
+   "options": [
+    "腕時計の値段",
+    "トゥールビヨンの役割と、現代での位置づけ",
+    "懐中時計の作り方",
+    "ブレゲの生涯"
+   ],
+   "answer": 1,
+   "explanation_ja": "もともとの目的と、腕時計での必要性の議論、芸術としての人気を話しています。"
+  },
+  {
+   "q": "positional error とは？",
+   "options": [
+    "時計の向きによって重力で生じる誤差",
+    "時差による誤差",
+    "針の取り付けミス",
+    "時計を置く位置の間違い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"gravity can make it run a little fast or slow. Watchmakers call this positional error.\""
+  },
+  {
+   "q": "carriage の説明として正しいものは？",
+   "options": [
+    "文字盤の窓",
+    "時計を運ぶ箱",
+    "テンプと脱進機を入れて回転する小さなかご",
+    "ベルトの金具"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"put inside a small rotating cage called a carriage\"。"
+  },
+  {
+   "q": "腕時計にトゥールビヨンは必要ないという意見の理由は？",
+   "options": [
+    "腕時計は小さすぎて入らないから",
+    "腕時計は重力の影響を受けないから",
+    "腕時計は電池で動くから",
+    "腕は常に動いて時計の向きが頻繁に変わるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"a wristwatch changes position so often that the tourbillon isn't really necessary.\""
+  },
+  {
+   "q": "B の最後の意見に近いのは？",
+   "options": [
+    "もう誰も買わない",
+    "トゥールビヨンは禁止すべきだ",
+    "精度のためだけに買うべきだ",
+    "機能より芸術として楽しまれていても問題ない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"more art than function, and that's perfectly fine.\""
+  }
+ ]
+}

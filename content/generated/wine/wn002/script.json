@@ -1,0 +1,180 @@
+{
+ "id": "wn002",
+ "author": "claude",
+ "category": "wine",
+ "title": "Burgundy's Limestone and Chardonnay Acidity",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "Kimmeridgian limestone",
+  "minerality",
+  "acidity"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Burgundy is famous for Chardonnay with bright, precise acidity. Many wine lovers believe the secret is under their feet, in the limestone."
+  },
+  {
+   "speaker": "A",
+   "text": "Millions of years ago, much of this region was covered by a warm, shallow sea. Shells and tiny sea creatures fell to the bottom and slowly turned into rock. Today, many Burgundy vineyards grow on soils that mix this limestone with clay, often called marl."
+  },
+  {
+   "speaker": "A",
+   "text": "In Chablis, in the north of Burgundy, there is a special type of rock called Kimmeridgian limestone. If you walk through these vineyards, you can even find small fossil oyster shells in the ground. Chablis is known for crisp, clean wines that feel lively on the tongue."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does limestone matter? It drains water well, but it can also store some moisture deep down. This helps vines grow steadily, without too much stress or too much water. Many experts believe these conditions help the grapes keep their natural acidity."
+  },
+  {
+   "speaker": "A",
+   "text": "People also use the word minerality to describe these wines. It suggests flavors like wet stone, chalk or sea shells. However, scientists are still discussing what minerality really is. The vines do not simply pull flavors from the rocks. The word is more of a tasting impression than a chemical fact."
+  },
+  {
+   "speaker": "A",
+   "text": "Still, when you taste a cool, stony Chablis, it is easy to imagine that ancient sea."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Burgundy is famous for Chardonnay with bright, precise acidity.",
+   "start": 0.0,
+   "end": 4.24,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many wine lovers believe the secret is under their feet, in the limestone.",
+   "start": 5.07,
+   "end": 9.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Millions of years ago, much of this region was covered by a warm, shallow sea.",
+   "start": 10.31,
+   "end": 15.75,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Shells and tiny sea creatures fell to the bottom and slowly turned into rock.",
+   "start": 16.18,
+   "end": 21.14,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, many Burgundy vineyards grow on soils that mix this limestone with clay, often called marl.",
+   "start": 21.81,
+   "end": 28.05,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In Chablis, in the north of Burgundy, there is a special type of rock called Kimmeridgian limestone.",
+   "start": 28.57,
+   "end": 34.73,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If you walk through these vineyards, you can even find small fossil oyster shells in the ground.",
+   "start": 35.32,
+   "end": 40.56,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Chablis is known for crisp, clean wines that feel lively on the tongue.",
+   "start": 41.19,
+   "end": 45.59,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why does limestone matter?",
+   "start": 46.11,
+   "end": 47.95,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It drains water well, but it can also store some moisture deep down.",
+   "start": 48.54,
+   "end": 53.02,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This helps vines grow steadily, without too much stress or too much water.",
+   "start": 53.61,
+   "end": 58.17,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many experts believe these conditions help the grapes keep their natural acidity.",
+   "start": 58.76,
+   "end": 63.48,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "People also use the word minerality to describe these wines.",
+   "start": 64.0,
+   "end": 67.84,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It suggests flavors like wet stone, chalk or sea shells.",
+   "start": 68.27,
+   "end": 72.75,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "However, scientists are still discussing what minerality really is.",
+   "start": 73.3,
+   "end": 77.66,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The vines do not simply pull flavors from the rocks.",
+   "start": 78.05,
+   "end": 81.29,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The word is more of a tasting impression than a chemical fact.",
+   "start": 81.72,
+   "end": 85.24,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Still, when you taste a cool, stony Chablis, it is easy to imagine that ancient sea.",
+   "start": 85.76,
+   "end": 92.08,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 223,
+ "duration": 92.0,
+ "wpm": 145,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:47"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wt034",
+ "author": "claude",
+ "summary_ja": "NOS（ニュー・オールド・ストック）は、一度も客に売られなかった古い時計。閉店した店の在庫や倉庫で忘れられた箱から、未使用のまま見つかる。工場を出たときの姿を残しているので高く売れ、箱と書類があればさらに良い。ただし言葉が乱用されることもあり、未使用でも油やパッキンは劣化しているので整備が必要。",
+ "listening": [
+  {
+   "q": "New Old Stock とは？",
+   "options": [
+    "新しく作られた古いデザインの時計",
+    "修理済みの時計",
+    "一度も客に売られなかった古い時計",
+    "偽物の時計"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It describes an old watch that has never been sold to a customer.\""
+  },
+  {
+   "q": "NOS の時計が見つかる例として話されているのは？",
+   "options": [
+    "閉店した店の在庫や、倉庫で忘れられた箱",
+    "海の底",
+    "博物館",
+    "オークションの返品"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a watch shop closes, and its unsold stock is stored away ... a distributor forgets a box of watches in a warehouse.\""
+  },
+  {
+   "q": "NOS の時計を毎日使う前に必要なことは？",
+   "options": [
+    "ベルトを切る",
+    "文字盤を塗り直す",
+    "整備（サービス）に出す",
+    "電池を入れる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"So a New Old Stock watch usually needs a service before you can enjoy it every day.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "ヴィンテージ時計の世界では、NOS という文字をよく見かけます。",
+   "points_ja": "world of が「ワールダヴ」、you will が「ユール」と短くなります。"
+  },
+  {
+   "sentence": 11,
+   "ja": "だからこそ、それはずっと高い値段で売れることが多いのです。",
+   "points_ja": "That is why が続けて聞こえ、sells for a がつながります。"
+  },
+  {
+   "sentence": 12,
+   "ja": "さらに良いのは、元の箱と書類がそろった時計です。",
+   "points_ja": "better is a が「ベラリザ」、box and papers の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "NOS の時計は価値が高いが、言葉の使われ方と整備に注意が必要",
+    "古い時計はすべて価値がない",
+    "NOS の時計はすぐに使える",
+    "箱と書類は不要である"
+   ],
+   "answer": 0,
+   "explanation_ja": "NOS の意味、価値、2つの注意点を説明しています。"
+  },
+  {
+   "q": "NOS の時計が高く売れる理由は？",
+   "options": [
+    "新しい技術が使われているから",
+    "とても軽いから",
+    "工場を出たときの姿をそのまま残しているから",
+    "数が多いから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A New Old Stock watch shows exactly how it looked when it left the factory.\""
+  },
+  {
+   "q": "box and papers の書類に含まれるものとして書かれているのは？",
+   "options": [
+    "修理の請求書",
+    "取扱説明書だけ",
+    "保証書と販売当時の書類",
+    "宣伝のチラシ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Papers usually include the warranty card and documents from the time of sale.\""
+  },
+  {
+   "q": "1つ目の注意点は？",
+   "options": [
+    "NOS は重い",
+    "NOS は違法である",
+    "NOS は修理できない",
+    "売り手がこの言葉を気軽に使いすぎることがある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the term is sometimes used too freely by sellers, so you should check carefully.\""
+  },
+  {
+   "q": "\"unworn does not mean ready to wear\" の意味は？",
+   "options": [
+    "時計は着けるべきではない",
+    "着けた時計は未使用ではない",
+    "未使用でも、すぐに着けられる状態とは限らない",
+    "未使用の時計は着けられない"
+   ],
+   "answer": 2,
+   "explanation_ja": "油やパッキンが年月で劣化するため、整備が必要という意味です。"
+  }
+ ]
+}

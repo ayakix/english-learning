@@ -1,0 +1,173 @@
+{
+ "id": "tc020",
+ "author": "claude",
+ "category": "tech",
+ "title": "Crash Reporting and Feedback Loops",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "crash reporting",
+  "symbolication",
+  "feedback loop"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "No matter how carefully you test your app, some users will experience crashes. The question is not whether crashes will happen, but how quickly you can find and fix them. That is where crash reporting comes in."
+  },
+  {
+   "speaker": "A",
+   "text": "When an app crashes, the system records a crash log. It describes what the app was doing at that moment, including a list of functions that were running. This list is called a stack trace."
+  },
+  {
+   "speaker": "A",
+   "text": "However, in a released app, the raw crash log is hard to read. Instead of function names, it often shows memory addresses, long numbers that mean nothing to humans. Turning these addresses back into readable function names and line numbers is called symbolication. To do this, you need special files created when the app is built, often called dSYM files."
+  },
+  {
+   "speaker": "A",
+   "text": "Tools like the Xcode Organizer and third-party crash reporting services collect crash logs from users, symbolicate them and group similar crashes together. Developers can see which crash affects the most users and fix that first."
+  },
+  {
+   "speaker": "A",
+   "text": "Crash reports are only one part of a healthy feedback loop. A feedback loop is a cycle: you release, collect information, learn and improve. User reviews, support emails and in-app feedback forms also belong in this loop."
+  },
+  {
+   "speaker": "A",
+   "text": "The faster this loop runs, the better your app becomes. Users notice when problems they reported are fixed quickly, and they often reward that attention with loyalty and good ratings."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "No matter how carefully you test your app, some users will experience crashes.",
+   "start": 0.0,
+   "end": 5.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The question is not whether crashes will happen, but how quickly you can find and fix them.",
+   "start": 5.95,
+   "end": 11.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That is where crash reporting comes in.",
+   "start": 12.18,
+   "end": 14.46,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "When an app crashes, the system records a crash log.",
+   "start": 14.98,
+   "end": 18.78,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It describes what the app was doing at that moment, including a list of functions that were running.",
+   "start": 19.41,
+   "end": 25.09,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This list is called a stack trace.",
+   "start": 25.52,
+   "end": 27.92,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "However, in a released app, the raw crash log is hard to read.",
+   "start": 28.44,
+   "end": 32.6,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of function names, it often shows memory addresses, long numbers that mean nothing to humans.",
+   "start": 33.43,
+   "end": 39.83,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Turning these addresses back into readable function names and line numbers is called symbolication.",
+   "start": 40.5,
+   "end": 46.42,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "To do this, you need special files created when the app is built, often called dSYM files.",
+   "start": 47.17,
+   "end": 54.21,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Tools like the Xcode Organizer and third-party crash reporting services collect crash logs from users, symbolicate them and group similar crashes together.",
+   "start": 54.73,
+   "end": 64.81,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Developers can see which crash affects the most users and fix that first.",
+   "start": 65.8,
+   "end": 70.68,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Crash reports are only one part of a healthy feedback loop.",
+   "start": 71.2,
+   "end": 74.8,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A feedback loop is a cycle: you release, collect information, learn and improve.",
+   "start": 75.71,
+   "end": 81.63,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "User reviews, support emails and in-app feedback forms also belong in this loop.",
+   "start": 82.62,
+   "end": 88.22,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The faster this loop runs, the better your app becomes.",
+   "start": 88.74,
+   "end": 92.82,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Users notice when problems they reported are fixed quickly, and they often reward that attention with loyalty and good ratings.",
+   "start": 93.25,
+   "end": 100.77,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 234,
+ "duration": 100.7,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 77,
+ "created": "2026-10-03 23:53"
+}

@@ -1,0 +1,258 @@
+{
+ "id": "ns019",
+ "author": "claude",
+ "category": "science",
+ "title": "The Bacteria Living Inside Us",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "gut bacteria",
+  "microbiome",
+  "digestion"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "We often hear that bacteria in our gut are important for health. How many are there?"
+  },
+  {
+   "speaker": "B",
+   "text": "An enormous number. Scientists estimate there are trillions of microbes living in our intestines. Together, all these microbes and their genes are called the microbiome."
+  },
+  {
+   "speaker": "A",
+   "text": "What do they actually do?"
+  },
+  {
+   "speaker": "B",
+   "text": "Many things. One important job is digestion. Our bodies can't break down some types of fiber from vegetables and grains. Gut bacteria can. When they do, they produce useful substances that feed the cells of our intestines."
+  },
+  {
+   "speaker": "A",
+   "text": "So they help us get more from our food."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. They also train our immune system, especially when we're young. And they help protect us by taking space and food away from harmful bacteria."
+  },
+  {
+   "speaker": "A",
+   "text": "I've heard they might even affect our mood."
+  },
+  {
+   "speaker": "B",
+   "text": "There's interesting research on a connection between the gut and the brain. But it's still early, and many results come from studies on animals. So we should be careful about big claims."
+  },
+  {
+   "speaker": "A",
+   "text": "How can people keep their gut bacteria healthy?"
+  },
+  {
+   "speaker": "B",
+   "text": "The best evidence points to a varied diet with lots of fiber, like vegetables, fruit, beans and whole grains. Fermented foods, such as yogurt, natto and kimchi, may also help."
+  },
+  {
+   "speaker": "A",
+   "text": "What about antibiotics?"
+  },
+  {
+   "speaker": "B",
+   "text": "Antibiotics are important medicines, but they can also kill many helpful bacteria. So they should only be used when they're really needed."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "We often hear that bacteria in our gut are important for health.",
+   "start": 0.0,
+   "end": 4.24,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How many are there?",
+   "start": 5.23,
+   "end": 6.43,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "An enormous number.",
+   "start": 7.15,
+   "end": 8.67,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Scientists estimate there are trillions of microbes living in our intestines.",
+   "start": 9.1,
+   "end": 14.5,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Together, all these microbes and their genes are called the microbiome.",
+   "start": 15.13,
+   "end": 20.25,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What do they actually do?",
+   "start": 20.97,
+   "end": 22.89,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many things.",
+   "start": 23.61,
+   "end": 24.49,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "One important job is digestion.",
+   "start": 25.4,
+   "end": 27.76,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Our bodies can't break down some types of fiber from vegetables and grains.",
+   "start": 28.39,
+   "end": 33.11,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Gut bacteria can.",
+   "start": 33.54,
+   "end": 35.38,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "When they do, they produce useful substances that feed the cells of our intestines.",
+   "start": 35.81,
+   "end": 41.01,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So they help us get more from our food.",
+   "start": 41.73,
+   "end": 44.69,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 45.49,
+   "end": 46.53,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "They also train our immune system, especially when we're young.",
+   "start": 47.12,
+   "end": 50.88,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "And they help protect us by taking space and food away from harmful bacteria.",
+   "start": 51.79,
+   "end": 56.91,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "I've heard they might even affect our mood.",
+   "start": 57.63,
+   "end": 60.35,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "There's interesting research on a connection between the gut and the brain.",
+   "start": 61.07,
+   "end": 65.43,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "But it's still early, and many results come from studies on animals.",
+   "start": 66.06,
+   "end": 70.14,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So we should be careful about big claims.",
+   "start": 70.97,
+   "end": 73.77,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "How can people keep their gut bacteria healthy?",
+   "start": 74.49,
+   "end": 77.69,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "The best evidence points to a varied diet with lots of fiber, like vegetables, fruit, beans and whole grains.",
+   "start": 78.41,
+   "end": 86.09,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Fermented foods, such as yogurt, natto and kimchi, may also help.",
+   "start": 87.0,
+   "end": 91.88,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "What about antibiotics?",
+   "start": 92.6,
+   "end": 94.68,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Antibiotics are important medicines, but they can also kill many helpful bacteria.",
+   "start": 95.4,
+   "end": 101.64,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "So they should only be used when they're really needed.",
+   "start": 102.11,
+   "end": 105.19,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 220,
+ "duration": 105.2,
+ "wpm": 125,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-04 00:01"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "pa014",
+ "author": "claude",
+ "summary_ja": "積み木が崩れて泣く子に「大丈夫、泣かないで」より「悔しいね。頑張って作ったもんね」と声をかけるほうが役立つことが多い。気持ちを言葉にする手助けは感情の発達に大切。言葉が道具になり、「怒ってる」と言える子はたたいたり叫んだりしにくい。大人の研究では、気持ちを言葉にすると強い感情反応に関わる脳の活動が下がった（名前をつけて手なずける）。共感も育つ。気持ちはすべて受け入れ、行動には限度を。",
+ "listening": [
+  {
+   "q": "話し手が勧める声かけの例は？",
+   "options": [
+    "「悔しいね。頑張って作ったもんね」",
+    "「大丈夫、泣かないで」",
+    "「また作ればいい」",
+    "「静かにして」"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"You're really frustrated. You worked hard on that tower.\""
+  },
+  {
+   "q": "気持ちを言葉にできる子どもの変化として話されているのは？",
+   "options": [
+    "たたいたり叫んだりしにくくなる",
+    "よく泣くようになる",
+    "話さなくなる",
+    "わがままになる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a child who can say I'm angry may be less likely to hit or scream.\""
+  },
+  {
+   "q": "最後の文のメッセージは？",
+   "options": [
+    "親は気持ちを話さない",
+    "気持ちを抑えるべき",
+    "どんな行動も許す",
+    "気持ちはいつも受け入れてよいが、行動には限度がある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Feelings are always okay. Some actions are not.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 7,
+   "ja": "大人が感情に名前をつけると、子どもはそれを理解し始めます。",
+   "points_ja": "When an adult がつながり、understand it が「アンダースタンディット」と聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "時間がたつと、「怒っている」と言える子は、たたいたり叫んだりしにくくなるかもしれません。",
+   "points_ja": "Over time が「オウヴァタイム」、hit or scream の or は弱形です。"
+  },
+  {
+   "sentence": 17,
+   "ja": "本を読むとき、登場人物の気持ちについて話しましょう。",
+   "points_ja": "Talk about characters' が続き、when reading books が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "子どもは泣かせないほうがよい",
+    "感情は隠すべき",
+    "大人は気持ちを話さない",
+    "子どもが気持ちを言葉にできるよう手助けすると、感情を扱う力や共感が育つ"
+   ],
+   "answer": 3,
+   "explanation_ja": "感情に名前をつける効果と、実践方法を説明しています。"
+  },
+  {
+   "q": "label feelings の意味は？",
+   "options": [
+    "気持ちを言葉にする",
+    "気持ちを書いて貼る",
+    "気持ちを隠す",
+    "気持ちに値段をつける"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Helping children label feelings, or put them into words\"。"
+  },
+  {
+   "q": "name it to tame it が表す考え方は？",
+   "options": [
+    "動物を飼いならす方法",
+    "気持ちに名前をつけると、強い感情が落ち着く",
+    "名前は大切",
+    "名前を覚えると強くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "気持ちを言葉にすると、強い感情反応に関わる脳の活動が下がったという研究からの表現です。"
+  },
+  {
+   "q": "empathy の意味は？",
+   "options": [
+    "話す力",
+    "自分を守る力",
+    "他の人の気持ちを理解する力",
+    "記憶する力"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"empathy, the ability to understand how other people feel.\""
+  },
+  {
+   "q": "親の気持ちの話し方の例は？",
+   "options": [
+    "「怒っていないよ」と隠す",
+    "「何も聞かないで」",
+    "「あなたのせいで疲れた」",
+    "「今日は疲れているから、少し休むね」"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"I'm feeling tired today, so I'm going to rest for a minute.\""
+  }
+ ]
+}

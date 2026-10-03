@@ -1,0 +1,114 @@
+{
+ "id": "rn024",
+ "author": "claude",
+ "summary_ja": "フォームローラーで脚を転がすのは、筋膜リリース（筋肉と周りの筋膜をほぐす）の一種。数分転がすと関節の可動域が一時的に広がり、長い静的ストレッチと違って筋力やスピードを落とさないので、運動前に使える。以前は結び目をほぐす・筋膜を伸ばすと考えられたが、筋膜はとても強いので、今は神経系への作用（神経抑制）が主と考えられている。ゆっくり、各部位30〜60秒、関節や骨の上は避ける。",
+ "listening": [
+  {
+   "q": "フォームローリングの短期的な効果として研究が示しているのは？",
+   "options": [
+    "筋肉が大きくなる",
+    "関節の可動域が広がる",
+    "持久力が上がる",
+    "体重が減る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"people often have a better range of motion, meaning they can move a joint further.\""
+  },
+  {
+   "q": "運動前に使いやすい理由は？",
+   "options": [
+    "体が温まるから",
+    "長い静的ストレッチと違い、筋力やスピードを落とさないようだから",
+    "汗をかくから",
+    "時間がかからないから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"unlike long static stretching, foam rolling does not seem to reduce strength or speed.\""
+  },
+  {
+   "q": "今考えられている効果の主な仕組みは？",
+   "options": [
+    "血液を増やす",
+    "筋膜を物理的に破る",
+    "結び目を溶かす",
+    "神経系への作用で、筋肉の緊張や痛みの信号が一時的に減る"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Instead, the effect is probably mostly in the nervous system.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "どこのジムに入っても、フォームの円筒で脚を転がしている人を見かけるでしょう。",
+   "points_ja": "Walk into any gym が一続きに聞こえ、rolling their legs on a が続けて聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "マイオファシャルとは、筋肉と筋膜を合わせた意味です。",
+   "points_ja": "means muscle がつながり、muscle and fascia の and は「ン」です。"
+  },
+  {
+   "sentence": 13,
+   "ja": "科学者は今、筋膜はとても強いので、それは起こりにくいと考えています。",
+   "points_ja": "think this is unlikely が続き、fascia is very が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "痛いほど効果がある",
+    "フォームローリングは筋膜を壊す",
+    "運動前には使えない",
+    "フォームローリングは可動域を一時的に広げ、主に神経系を通じて効くと考えられている"
+   ],
+   "answer": 3,
+   "explanation_ja": "効果、仕組みの考え方の変化、使い方を説明しています。"
+  },
+  {
+   "q": "fascia の説明は？",
+   "options": [
+    "骨",
+    "皮膚",
+    "筋肉などを包む薄い結合組織で、ラップのようなもの",
+    "血管"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Fascia is the thin connective tissue that surrounds muscles and other parts of the body, a bit like plastic wrap.\""
+  },
+  {
+   "q": "range of motion の意味は？",
+   "options": [
+    "関節を動かせる範囲",
+    "筋肉の大きさ",
+    "心拍数",
+    "走れる距離"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"range of motion, meaning they can move a joint further.\""
+  },
+  {
+   "q": "neural inhibition の説明として本文に合うのは？",
+   "options": [
+    "圧迫で筋肉の緊張や痛みの信号がしばらく減ること",
+    "神経が強くなること",
+    "眠くなること",
+    "神経が壊れること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The pressure may reduce muscle tension and pain signals for a while. This is described as neural inhibition.\""
+  },
+  {
+   "q": "使い方のコツとして挙げられていないものは？",
+   "options": [
+    "関節や骨の上を避ける",
+    "ゆっくり転がす",
+    "各部位30〜60秒",
+    "できるだけ痛くする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It should feel strong, but not painful.\" と、痛くするべきではないと言っています。"
+  }
+ ]
+}

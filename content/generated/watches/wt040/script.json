@@ -1,0 +1,229 @@
+{
+ "id": "wt040",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Quest for the Grail Watch",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "grail watch",
+  "exit watch",
+  "collecting journey"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Almost every watch collector seems to have a grail watch. What exactly is that?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's the watch you dream about. The one that feels almost out of reach, maybe because of the price, or because it's very rare. The name comes from the Holy Grail in old legends, something people search for all their lives."
+  },
+  {
+   "speaker": "A",
+   "text": "Do people actually buy their grail?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some do, after many years of saving. Others never do, and that's okay too. Sometimes the dream is more important than owning the watch."
+  },
+  {
+   "speaker": "A",
+   "text": "I've also heard the term exit watch."
+  },
+  {
+   "speaker": "B",
+   "text": "That's a little different. An exit watch is the one watch you'd keep if you sold everything else. It's the watch that ends your collecting journey."
+  },
+  {
+   "speaker": "A",
+   "text": "Can your grail change over time?"
+  },
+  {
+   "speaker": "B",
+   "text": "Definitely. When I started, my grail was a famous sports watch. Later, I discovered small independent makers, and my taste completely changed."
+  },
+  {
+   "speaker": "A",
+   "text": "So the journey itself teaches you something."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. You learn what you really like, not just what's popular. Many collectors say the best part isn't reaching the grail. It's the stories, the people and the watches you meet along the way."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Almost every watch collector seems to have a grail watch.",
+   "start": 0.0,
+   "end": 3.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What exactly is that?",
+   "start": 4.51,
+   "end": 6.03,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's the watch you dream about.",
+   "start": 6.75,
+   "end": 9.07,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The one that feels almost out of reach, maybe because of the price, or because it's very rare.",
+   "start": 9.5,
+   "end": 15.9,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The name comes from the Holy Grail in old legends, something people search for all their lives.",
+   "start": 16.33,
+   "end": 22.41,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Do people actually buy their grail?",
+   "start": 23.13,
+   "end": 25.69,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some do, after many years of saving.",
+   "start": 26.49,
+   "end": 29.29,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Others never do, and that's okay too.",
+   "start": 30.12,
+   "end": 32.88,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Sometimes the dream is more important than owning the watch.",
+   "start": 33.51,
+   "end": 37.19,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "I've also heard the term exit watch.",
+   "start": 37.91,
+   "end": 40.47,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That's a little different.",
+   "start": 41.27,
+   "end": 42.71,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "An exit watch is the one watch you'd keep if you sold everything else.",
+   "start": 43.54,
+   "end": 48.1,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It's the watch that ends your collecting journey.",
+   "start": 48.53,
+   "end": 51.09,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Can your grail change over time?",
+   "start": 51.81,
+   "end": 54.29,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Definitely.",
+   "start": 55.01,
+   "end": 55.81,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "When I started, my grail was a famous sports watch.",
+   "start": 56.24,
+   "end": 60.16,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Later, I discovered small independent makers, and my taste completely changed.",
+   "start": 60.75,
+   "end": 65.95,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So the journey itself teaches you something.",
+   "start": 66.75,
+   "end": 69.79,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 70.51,
+   "end": 71.31,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "You learn what you really like, not just what's popular.",
+   "start": 72.06,
+   "end": 75.18,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Many collectors say the best part isn't reaching the grail.",
+   "start": 76.01,
+   "end": 79.37,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It's the stories, the people and the watches you meet along the way.",
+   "start": 80.12,
+   "end": 84.36,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 187,
+ "duration": 84.3,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 58,
+ "created": "2026-10-03 23:46"
+}

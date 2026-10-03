@@ -1,0 +1,184 @@
+{
+ "id": "fi009",
+ "author": "claude",
+ "category": "finance",
+ "title": "Build an Emergency Fund First",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "emergency fund",
+  "living expenses",
+  "savings"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When people get excited about investing, they often want to start right away. But many financial experts say there is an important step that should come first: building an emergency fund."
+  },
+  {
+   "speaker": "A",
+   "text": "An emergency fund is money set aside for unexpected problems, such as losing your job, a sudden medical bill or a broken car. It should be kept somewhere safe and easy to access, like a savings account, not invested in the stock market."
+  },
+  {
+   "speaker": "A",
+   "text": "How much is enough? A common guideline is three to six months of living expenses. Living expenses are the basic costs of life, such as rent, food, utilities and transportation. If your job is unstable, or if you support a family, you might want more."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is this so important for investors? Imagine you have all your savings in stocks. Then the market crashes, and at the same time you lose your job. You may be forced to sell your investments at a very low price just to pay rent. A loss that might have been temporary becomes permanent."
+  },
+  {
+   "speaker": "A",
+   "text": "With an emergency fund, you can leave your investments alone during bad times and give them a chance to recover."
+  },
+  {
+   "speaker": "A",
+   "text": "There is also a psychological benefit. Knowing that you have a safety net reduces stress and helps you make calmer decisions."
+  },
+  {
+   "speaker": "A",
+   "text": "Building an emergency fund may feel boring. But it is the foundation that makes long-term investing possible."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When people get excited about investing, they often want to start right away.",
+   "start": 0.0,
+   "end": 4.84,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But many financial experts say there is an important step that should come first: building an emergency fund.",
+   "start": 5.47,
+   "end": 12.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "An emergency fund is money set aside for unexpected problems, such as losing your job, a sudden medical bill or a broken car.",
+   "start": 13.11,
+   "end": 22.07,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It should be kept somewhere safe and easy to access, like a savings account, not invested in the stock market.",
+   "start": 22.74,
+   "end": 29.7,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "How much is enough?",
+   "start": 30.22,
+   "end": 31.74,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A common guideline is three to six months of living expenses.",
+   "start": 32.65,
+   "end": 36.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Living expenses are the basic costs of life, such as rent, food, utilities and transportation.",
+   "start": 37.56,
+   "end": 44.12,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If your job is unstable, or if you support a family, you might want more.",
+   "start": 44.95,
+   "end": 49.99,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is this so important for investors?",
+   "start": 50.51,
+   "end": 52.91,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Imagine you have all your savings in stocks.",
+   "start": 53.9,
+   "end": 57.18,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Then the market crashes, and at the same time you lose your job.",
+   "start": 57.61,
+   "end": 62.25,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "You may be forced to sell your investments at a very low price just to pay rent.",
+   "start": 62.68,
+   "end": 67.64,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A loss that might have been temporary becomes permanent.",
+   "start": 68.07,
+   "end": 71.51,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "With an emergency fund, you can leave your investments alone during bad times and give them a chance to recover.",
+   "start": 72.03,
+   "end": 78.91,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "There is also a psychological benefit.",
+   "start": 79.43,
+   "end": 81.83,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Knowing that you have a safety net reduces stress and helps you make calmer decisions.",
+   "start": 82.74,
+   "end": 88.18,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Building an emergency fund may feel boring.",
+   "start": 88.7,
+   "end": 91.74,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "But it is the foundation that makes long-term investing possible.",
+   "start": 92.57,
+   "end": 96.73,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 231,
+ "duration": 96.7,
+ "wpm": 143,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-04 00:02"
+}

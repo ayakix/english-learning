@@ -1,0 +1,114 @@
+{
+ "id": "pa013",
+ "author": "claude",
+ "summary_ja": "子どもに必要な睡眠時間は思ったより長い。生後4か月〜1歳は昼寝を含めて12〜16時間、1〜2歳は11〜14時間、3〜5歳は10〜13時間、6〜12歳は9〜12時間、10代は8〜10時間。昼寝は3〜5歳でなくなることが多い。必要より少ない睡眠が続くと睡眠負債がたまり、疲れた子は眠そうではなく活発になったり感情的になったりする。決まった就寝時刻、落ち着いたルーティン、暗く静かな寝室を。",
+ "listening": [
+  {
+   "q": "3〜5歳の子どもに必要な睡眠時間は？",
+   "options": [
+    "約8時間ちょうど",
+    "約10〜13時間",
+    "約15〜18時間",
+    "約6〜8時間"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Preschoolers, aged three to five, need about ten to thirteen hours.\""
+  },
+  {
+   "q": "疲れた子どもによく見られる様子として話されているのは？",
+   "options": [
+    "静かになる",
+    "食欲が増える",
+    "眠そうではなく、活発になったり感情的になったりする",
+    "いつもすぐ寝る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Instead, they may become more active, emotional or easily frustrated.\""
+  },
+  {
+   "q": "実践的な対策として話されていないものは？",
+   "options": [
+    "落ち着いたルーティン",
+    "決まった就寝時刻",
+    "寝る前の動画",
+    "暗く静かな寝室"
+   ],
+   "answer": 2,
+   "explanation_ja": "夜は寝室に電話やタブレットを置かないことが勧められています。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "しかし、子どもに実際にどれだけ睡眠が必要か、睡眠負債がどれほど多いかに、多くの人が驚きます。",
+   "points_ja": "surprised by how much がつながり、how common sleep debt is が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "ほとんどの子どもは3歳から5歳の間に昼寝をしなくなります。",
+   "points_ja": "stop napping がつながり、ages of three and five が「エイジザヴスリーアンファイヴ」と聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "夜の活動、宿題、画面が就寝時刻を遅らせる一方で、学校の始まる時刻は早いままです。",
+   "points_ja": "homework and screens の and は「ン」、start times stay early が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "昼寝は不要",
+    "子どもは多くの睡眠が必要で、睡眠負債は気分や学習に影響する",
+    "疲れた子は必ず眠そうにする",
+    "子どもは大人と同じだけ寝ればよい"
+   ],
+   "answer": 1,
+   "explanation_ja": "年齢ごとの睡眠時間、睡眠負債、影響、対策を説明しています。"
+  },
+  {
+   "q": "sleep debt の意味は？",
+   "options": [
+    "夢を見ること",
+    "時間とともに積み重なる睡眠の不足",
+    "寝すぎ",
+    "夜中に起きること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a shortage of sleep that adds up over time.\""
+  },
+  {
+   "q": "疲れた子が誤解されやすい理由は？",
+   "options": [
+    "活発になったり、いらいらしたりするので、いたずらな子と思われる",
+    "静かになるので",
+    "眠そうにするので",
+    "よく食べるので"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Some parents mistake a tired child for a naughty one.\""
+  },
+  {
+   "q": "睡眠不足と関連するとされるものとして挙げられていないものは？",
+   "options": [
+    "注意",
+    "記憶",
+    "気分",
+    "身長がすぐ伸びる"
+   ],
+   "answer": 3,
+   "explanation_ja": "注意、記憶、気分、学習、成長や免疫への影響の可能性が挙げられています。"
+  },
+  {
+   "q": "現代の生活が睡眠を難しくしている理由は？",
+   "options": [
+    "空気が悪いから",
+    "夜の活動、宿題、画面で就寝が遅くなるのに、始業時刻は早いまま",
+    "子どもが少ないから",
+    "家が狭いから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Evening activities, homework and screens all push bedtimes later, while school start times stay early.\""
+  }
+ ]
+}

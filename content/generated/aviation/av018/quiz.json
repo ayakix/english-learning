@@ -1,0 +1,114 @@
+{
+ "id": "av018",
+ "author": "claude",
+ "summary_ja": "地上にいる飛行機はお金を生まないので、到着から出発までのターンアラウンドを短くしたい。短距離便では45分未満のことも。秘訣は同時進行で、降機中に手荷物を降ろし、清掃、ケータリング、給油、点検、搭載、搭乗を並行して行う。駐機場での作業（ランプハンドリング）には多くの地上支援車両（GSE）が必要。1つ遅れると1日の遅延につながる。",
+ "listening": [
+  {
+   "q": "航空会社がターンアラウンドを短くしたい理由は？",
+   "options": [
+    "地上にいる飛行機はお金を生まないから",
+    "法律で決まっているから",
+    "空港が狭いから",
+    "乗客が急いでいるから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"An airplane on the ground does not make money.\""
+  },
+  {
+   "q": "短時間で終える秘訣は？",
+   "options": [
+    "多くの作業を同時に行うこと",
+    "清掃をしないこと",
+    "給油をしないこと",
+    "乗客を減らすこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The secret is doing many jobs at the same time.\""
+  },
+  {
+   "q": "朝の1つのターンアラウンドが遅れるとどうなる？",
+   "options": [
+    "乗客が増える",
+    "次の日まで飛べない",
+    "影響はない",
+    "その日の残りの便にも遅れが出ることがある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"One delayed turnaround in the morning can cause delays for the rest of the day.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 5,
+   "ja": "飛行機が止まるとすぐ、地上係員が電源をつなぎ、安全コーンを置きます。",
+   "points_ja": "As soon as the が続き、connect power の t は飲み込まれます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "整備士は飛行機の周りを歩いて、損傷がないか確認します。",
+   "points_ja": "walk around the がつながり、check for any が「チェックフォーエニ」と続きます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "すべてが正しい順番で、事故なく行われなければなりません。",
+   "points_ja": "must happen の t は飲み込まれ、order and without の and は「ン」です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "空港の建て方",
+    "機内食の作り方",
+    "多くの作業を同時に進めるターンアラウンドの仕組みと、その重要性",
+    "パイロットの訓練"
+   ],
+   "answer": 2,
+   "explanation_ja": "同時進行の作業内容と、遅れの影響を説明しています。"
+  },
+  {
+   "q": "turnaround time の意味は？",
+   "options": [
+    "整備の年数",
+    "乗客の待ち時間",
+    "飛行時間",
+    "ゲートに着いてから出発するまでの時間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The time between arrival at the gate and departure is called the turnaround time.\""
+  },
+  {
+   "q": "ramp handling とは？",
+   "options": [
+    "駐機している航空機の周りで行う作業",
+    "チケットの販売",
+    "滑走路の掃除",
+    "管制塔の仕事"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"the work done on the area around parked aircraft.\""
+  },
+  {
+   "q": "GSE として挙げられていないものは？",
+   "options": [
+    "トーイングトラクター",
+    "管制レーダー",
+    "ベルトローダー",
+    "給油車"
+   ],
+   "answer": 1,
+   "explanation_ja": "belt loaders, ground power units, catering trucks ... pushback tractors で、レーダーは含まれません。"
+  },
+  {
+   "q": "最後の文が伝えたいことは？",
+   "options": [
+    "飛行機の下は危ない",
+    "乗客も手伝うべき",
+    "スムーズな搭乗の裏には、懸命に働くチームがいる",
+    "搭乗は遅いほうがよい"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"remember the team working hard beneath you.\""
+  }
+ ]
+}

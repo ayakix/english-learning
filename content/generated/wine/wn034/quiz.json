@@ -1,0 +1,114 @@
+{
+ "id": "wn034",
+ "author": "claude",
+ "summary_ja": "バランスが良いワインとは、酸、アルコール、タンニン、甘さ、果実のどれも突出せず調和している状態。果実が少なくタンニンが強いと渋く荒く、アルコールが高く酸が低いと重く熱い。甘さはタンニンや酸の感じ方をやわらげる。良い酸は目立たず溶け込んでいる。若いワインは今は不均衡でも、果実が十分なら熟成でバランスが取れることがある。",
+ "listening": [
+  {
+   "q": "balanced なワインとは？",
+   "options": [
+    "どの要素も突出せず調和しているワイン",
+    "安いワイン",
+    "アルコールが低いワイン",
+    "甘さだけが強いワイン"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It means no single part of the wine dominates the others.\""
+  },
+  {
+   "q": "アルコールが高く酸が低い白ワインはどう感じる？",
+   "options": [
+    "重く、喉が少し熱い",
+    "酸っぱい",
+    "甘くて冷たい",
+    "軽くて新鮮"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"It feels heavy and a little hot in the throat.\""
+  },
+  {
+   "q": "若い不均衡なワインについて経験者が問うことは？",
+   "options": [
+    "値段がいくらか",
+    "ラベルがきれいか",
+    "タンニンを支えるだけの果実が十分にあるか",
+    "色が薄いか"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"An experienced taster asks whether there's enough fruit to carry those tannins over time.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "それらが一緒に働くと、ワインは調和して感じられます。",
+   "points_ja": "work together がつながり、feels harmonious の z と h が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "乾いて荒々しく、砂糖なしの濃いお茶のように感じます。",
+   "points_ja": "dry and harsh の and は「ン」、strong tea without が続けて聞こえます。"
+  },
+  {
+   "sentence": 22,
+   "ja": "若いワインの中には、熟成とともにやわらぐ強いタンニンを持つものがあります。",
+   "points_ja": "young wines have がつながり、soften with age が「ソフンウィズエイジ」と続きます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "ワインの作り方",
+    "甘いワインの選び方",
+    "お茶とワインの違い",
+    "ワインのバランスとは何か、どう判断するか"
+   ],
+   "answer": 3,
+   "explanation_ja": "バランスの意味、不均衡な例、酸の溶け込み、熟成による変化を話しています。"
+  },
+  {
+   "q": "バランスの主な要素として挙げられていないものは？",
+   "options": [
+    "タンニン",
+    "甘さ",
+    "色",
+    "酸"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"acidity, alcohol, tannin, sweetness and fruit\" で、色はありません。"
+  },
+  {
+   "q": "甘さの効果として話されていることは？",
+   "options": [
+    "アルコールを強くする",
+    "香りを消す",
+    "タンニンや酸の感じ方をやわらげる",
+    "色を薄くする"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"sweetness can soften the feeling of tannin and acidity.\""
+  },
+  {
+   "q": "integrated acidity の意味は？",
+   "options": [
+    "とても強い酸",
+    "鋭い酸っぱさを目立たせず、新鮮さとして感じる酸",
+    "加えた酸",
+    "酸がないこと"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"you feel the freshness without noticing a sharp, sour edge.\""
+  },
+  {
+   "q": "甘口ワインでも高い酸があればどう感じる？",
+   "options": [
+    "べたつかず新鮮に感じる",
+    "苦い",
+    "水っぽい",
+    "とても重い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"a sweet wine with high acidity can still taste fresh, not sticky.\""
+  }
+ ]
+}

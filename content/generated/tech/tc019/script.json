@@ -1,0 +1,236 @@
+{
+ "id": "tc019",
+ "author": "claude",
+ "category": "tech",
+ "title": "Analytics Privacy and User Trust",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "privacy-first analytics",
+  "telemetry",
+  "event tracking"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  },
+  "B": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every developer wants to know how people use their app. But many users worry about privacy. How do you balance that?"
+  },
+  {
+   "speaker": "B",
+   "text": "I think the key is privacy-first analytics. You collect only the data you really need to improve the app, and nothing that identifies a person."
+  },
+  {
+   "speaker": "A",
+   "text": "What does that look like in practice?"
+  },
+  {
+   "speaker": "B",
+   "text": "For example, I want to know how many people use a new feature. I don't need their name, email or location for that. I just count events, like 'export button tapped,' and look at the totals."
+  },
+  {
+   "speaker": "A",
+   "text": "So you avoid tracking individuals."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. Event tracking can be done without building a profile of each user. Many traditional analytics tools collect much more telemetry than developers actually look at. That's a risk, and it doesn't help anyone."
+  },
+  {
+   "speaker": "A",
+   "text": "Does Apple have rules about this?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. If you track users across other companies' apps or websites, you have to ask permission through App Tracking Transparency. And every app must show a privacy label on the App Store, explaining what data it collects."
+  },
+  {
+   "speaker": "A",
+   "text": "Do users really read those labels?"
+  },
+  {
+   "speaker": "B",
+   "text": "More and more do. A short, honest label can actually become a selling point. Users trust apps that clearly respect their privacy. And trust is very hard to win back once you lose it."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every developer wants to know how people use their app.",
+   "start": 0.0,
+   "end": 3.36,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But many users worry about privacy.",
+   "start": 4.27,
+   "end": 6.83,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "How do you balance that?",
+   "start": 7.74,
+   "end": 9.26,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "I think the key is privacy-first analytics.",
+   "start": 9.98,
+   "end": 13.14,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "You collect only the data you really need to improve the app, and nothing that identifies a person.",
+   "start": 13.69,
+   "end": 19.69,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "What does that look like in practice?",
+   "start": 20.49,
+   "end": 22.89,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, I want to know how many people use a new feature.",
+   "start": 23.61,
+   "end": 27.77,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "I don't need their name, email or location for that.",
+   "start": 28.16,
+   "end": 31.24,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "I just count events, like 'export button tapped,' and look at the totals.",
+   "start": 31.67,
+   "end": 36.31,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So you avoid tracking individuals.",
+   "start": 37.03,
+   "end": 39.91,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 40.63,
+   "end": 41.27,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Event tracking can be done without building a profile of each user.",
+   "start": 42.02,
+   "end": 46.1,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Many traditional analytics tools collect much more telemetry than developers actually look at.",
+   "start": 46.53,
+   "end": 52.13,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's a risk, and it doesn't help anyone.",
+   "start": 52.56,
+   "end": 55.28,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Does Apple have rules about this?",
+   "start": 56.0,
+   "end": 58.32,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 59.04,
+   "end": 59.52,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If you track users across other companies' apps or websites, you have to ask permission through App Tracking Transparency.",
+   "start": 60.19,
+   "end": 67.47,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And every app must show a privacy label on the App Store, explaining what data it collects.",
+   "start": 67.94,
+   "end": 73.58,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Do users really read those labels?",
+   "start": 74.3,
+   "end": 77.1,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "More and more do.",
+   "start": 77.82,
+   "end": 78.62,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A short, honest label can actually become a selling point.",
+   "start": 79.05,
+   "end": 83.77,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Users trust apps that clearly respect their privacy.",
+   "start": 84.2,
+   "end": 87.64,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And trust is very hard to win back once you lose it.",
+   "start": 88.07,
+   "end": 91.35,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 211,
+ "duration": 91.3,
+ "wpm": 139,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:53"
+}

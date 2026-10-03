@@ -1,0 +1,198 @@
+{
+ "id": "ns018",
+ "author": "claude",
+ "category": "science",
+ "title": "How Lightning Forms",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "static electricity",
+  "thundercloud",
+  "thunder"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A thunderstorm is one of nature's most dramatic shows. But what is lightning, and why does thunder follow?"
+  },
+  {
+   "speaker": "A",
+   "text": "It begins inside a tall thundercloud. Strong winds carry water droplets, ice crystals and small balls of soft hail up and down inside the cloud. When these pieces collide, electric charges are separated. This is similar to static electricity, the shock you sometimes feel when you touch a door handle after walking on a carpet."
+  },
+  {
+   "speaker": "A",
+   "text": "Usually, the lighter ice crystals with a positive charge rise to the top of the cloud. Heavier particles with a negative charge collect lower down. Huge differences in charge build up within the cloud and between the cloud and the ground."
+  },
+  {
+   "speaker": "A",
+   "text": "When the difference becomes too large, the air suddenly allows electricity to flow. A giant spark jumps across, inside the cloud or down to the ground. That spark is lightning."
+  },
+  {
+   "speaker": "A",
+   "text": "A lightning bolt heats the air around it to around thirty thousand degrees Celsius, hotter than the surface of the sun. The air expands explosively, creating a shock wave. We hear it as thunder."
+  },
+  {
+   "speaker": "A",
+   "text": "Light travels almost instantly, but sound is much slower. That is why you see the flash first and hear the thunder later. If you count the seconds between them and divide by three, you get the rough distance in kilometers."
+  },
+  {
+   "speaker": "A",
+   "text": "If thunder sounds close, go inside a building or a car. There is no safe place outside during a thunderstorm."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "A thunderstorm is one of nature's most dramatic shows.",
+   "start": 0.0,
+   "end": 3.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But what is lightning, and why does thunder follow?",
+   "start": 4.27,
+   "end": 7.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It begins inside a tall thundercloud.",
+   "start": 8.15,
+   "end": 10.39,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Strong winds carry water droplets, ice crystals and small balls of soft hail up and down inside the cloud.",
+   "start": 10.82,
+   "end": 18.228,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When these pieces collide, electric charges are separated.",
+   "start": 18.642,
+   "end": 23.17,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is similar to static electricity, the shock you sometimes feel when you touch a door handle after walking on a carpet.",
+   "start": 23.6,
+   "end": 29.84,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Usually, the lighter ice crystals with a positive charge rise to the top of the cloud.",
+   "start": 30.36,
+   "end": 35.52,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Heavier particles with a negative charge collect lower down.",
+   "start": 36.15,
+   "end": 39.43,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Huge differences in charge build up within the cloud and between the cloud and the ground.",
+   "start": 40.42,
+   "end": 45.7,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When the difference becomes too large, the air suddenly allows electricity to flow.",
+   "start": 46.22,
+   "end": 51.3,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A giant spark jumps across, inside the cloud or down to the ground.",
+   "start": 51.93,
+   "end": 56.89,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "That spark is lightning.",
+   "start": 57.36,
+   "end": 59.24,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A lightning bolt heats the air around it to around thirty thousand degrees Celsius, hotter than the surface of the sun.",
+   "start": 59.76,
+   "end": 67.12,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The air expands explosively, creating a shock wave.",
+   "start": 67.79,
+   "end": 71.15,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "We hear it as thunder.",
+   "start": 71.98,
+   "end": 73.5,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Light travels almost instantly, but sound is much slower.",
+   "start": 74.02,
+   "end": 78.74,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why you see the flash first and hear the thunder later.",
+   "start": 79.13,
+   "end": 82.85,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "If you count the seconds between them and divide by three, you get the rough distance in kilometers.",
+   "start": 83.28,
+   "end": 88.72,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "If thunder sounds close, go inside a building or a car.",
+   "start": 89.24,
+   "end": 93.16,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "There is no safe place outside during a thunderstorm.",
+   "start": 93.75,
+   "end": 97.11,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 238,
+ "duration": 97.0,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-04 00:01"
+}

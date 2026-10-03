@@ -1,0 +1,169 @@
+{
+ "id": "wt036",
+ "author": "claude",
+ "category": "watches",
+ "title": "Complication vs Grand Complication",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "complication",
+  "Grand Complication",
+  "perpetual calendar"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In watchmaking, any function beyond showing the hours, minutes and seconds is called a complication. A date window is a simple complication. So is a second time zone, a moon phase display or a chronograph, which works like a stopwatch."
+  },
+  {
+   "speaker": "A",
+   "text": "Some complications are far more difficult than others. One example is the perpetual calendar. A normal date display needs to be corrected at the end of short months. A perpetual calendar knows how many days each month has, and even accounts for leap years. If it keeps running, it can show the correct date for decades without adjustment."
+  },
+  {
+   "speaker": "A",
+   "text": "Another famous complication is the minute repeater. When you press a button, small hammers strike tiny gongs inside the case and ring out the time. It was originally made so people could know the time in the dark."
+  },
+  {
+   "speaker": "A",
+   "text": "So what is a Grand Complication? There is no single official rule, but traditionally it describes a watch that combines several major complications in one movement. Often, it includes a striking function like a minute repeater, an astronomical function like a perpetual calendar, and a timing function like a chronograph."
+  },
+  {
+   "speaker": "A",
+   "text": "Building such a watch takes great skill and many months of work. The parts must fit into a small case and work together without problems. That is why Grand Complications are among the most valuable watches in the world."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In watchmaking, any function beyond showing the hours, minutes and seconds is called a complication.",
+   "start": 0.0,
+   "end": 6.32,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "A date window is a simple complication.",
+   "start": 7.31,
+   "end": 9.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "So is a second time zone, a moon phase display or a chronograph, which works like a stopwatch.",
+   "start": 10.46,
+   "end": 16.22,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Some complications are far more difficult than others.",
+   "start": 16.74,
+   "end": 20.26,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One example is the perpetual calendar.",
+   "start": 20.69,
+   "end": 23.49,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A normal date display needs to be corrected at the end of short months.",
+   "start": 23.92,
+   "end": 28.08,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A perpetual calendar knows how many days each month has, and even accounts for leap years.",
+   "start": 28.51,
+   "end": 34.43,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If it keeps running, it can show the correct date for decades without adjustment.",
+   "start": 34.86,
+   "end": 39.18,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Another famous complication is the minute repeater.",
+   "start": 39.7,
+   "end": 42.9,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "When you press a button, small hammers strike tiny gongs inside the case and ring out the time.",
+   "start": 43.57,
+   "end": 49.81,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It was originally made so people could know the time in the dark.",
+   "start": 50.2,
+   "end": 53.36,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So what is a Grand Complication?",
+   "start": 53.88,
+   "end": 56.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "There is no single official rule, but traditionally it describes a watch that combines several major complications in one movement.",
+   "start": 57.11,
+   "end": 64.87,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Often, it includes a striking function like a minute repeater, an astronomical function like a perpetual calendar, and a timing function like a chronograph.",
+   "start": 65.86,
+   "end": 74.98,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Building such a watch takes great skill and many months of work.",
+   "start": 75.5,
+   "end": 79.9,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "The parts must fit into a small case and work together without problems.",
+   "start": 80.33,
+   "end": 84.97,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why Grand Complications are among the most valuable watches in the world.",
+   "start": 85.4,
+   "end": 90.04,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 225,
+ "duration": 90.0,
+ "wpm": 150,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 74,
+ "created": "2026-10-03 23:46"
+}

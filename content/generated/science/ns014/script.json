@@ -1,0 +1,258 @@
+{
+ "id": "ns014",
+ "author": "claude",
+ "category": "science",
+ "title": "Why Do We Dream?",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "REM sleep",
+  "memory",
+  "dream"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "We all dream, but why? Does science have an answer?"
+  },
+  {
+   "speaker": "B",
+   "text": "Honestly, there's no single answer yet. But scientists have learned a lot. For example, our most vivid, story-like dreams usually happen during REM sleep. REM stands for rapid eye movement, because our eyes move quickly under our eyelids."
+  },
+  {
+   "speaker": "A",
+   "text": "When does REM sleep happen?"
+  },
+  {
+   "speaker": "B",
+   "text": "In cycles through the night, about every ninety minutes. The REM periods get longer toward the morning. That's why we often remember dreams just before we wake up."
+  },
+  {
+   "speaker": "A",
+   "text": "So what are the main theories?"
+  },
+  {
+   "speaker": "B",
+   "text": "One popular idea is about memory. During sleep, the brain seems to sort and store what we learned during the day. Dreams might be a side effect of that process, mixing new and old memories."
+  },
+  {
+   "speaker": "A",
+   "text": "That explains why dreams can be so strange."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. Another theory is emotional processing. Dreams may help us deal with strong feelings, like fear or sadness, in a safe environment."
+  },
+  {
+   "speaker": "A",
+   "text": "What about nightmares?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some researchers think dreams let us practice responding to threats. Others argue that dreams are simply the brain's attempt to make a story out of random activity during sleep."
+  },
+  {
+   "speaker": "A",
+   "text": "So which theory is right?"
+  },
+  {
+   "speaker": "B",
+   "text": "Possibly several of them. Dreaming may have more than one purpose. It's one of the most fascinating open questions in neuroscience."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "We all dream, but why?",
+   "start": 0.0,
+   "end": 2.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Does science have an answer?",
+   "start": 3.07,
+   "end": 4.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Honestly, there's no single answer yet.",
+   "start": 5.31,
+   "end": 8.23,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "But scientists have learned a lot.",
+   "start": 8.86,
+   "end": 10.94,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "For example, our most vivid, story-like dreams usually happen during REM sleep.",
+   "start": 11.53,
+   "end": 17.69,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "REM stands for rapid eye movement, because our eyes move quickly under our eyelids.",
+   "start": 18.12,
+   "end": 23.56,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "When does REM sleep happen?",
+   "start": 24.28,
+   "end": 26.28,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In cycles through the night, about every ninety minutes.",
+   "start": 27.0,
+   "end": 30.64,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The REM periods get longer toward the morning.",
+   "start": 31.27,
+   "end": 33.75,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That's why we often remember dreams just before we wake up.",
+   "start": 34.58,
+   "end": 38.1,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So what are the main theories?",
+   "start": 38.82,
+   "end": 40.98,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "One popular idea is about memory.",
+   "start": 41.7,
+   "end": 44.1,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "During sleep, the brain seems to sort and store what we learned during the day.",
+   "start": 45.01,
+   "end": 50.37,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Dreams might be a side effect of that process, mixing new and old memories.",
+   "start": 50.8,
+   "end": 56.0,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That explains why dreams can be so strange.",
+   "start": 56.72,
+   "end": 59.92,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 60.64,
+   "end": 61.44,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Another theory is emotional processing.",
+   "start": 62.27,
+   "end": 65.47,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Dreams may help us deal with strong feelings, like fear or sadness, in a safe environment.",
+   "start": 65.98,
+   "end": 71.9,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "What about nightmares?",
+   "start": 72.62,
+   "end": 74.3,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Some researchers think dreams let us practice responding to threats.",
+   "start": 75.02,
+   "end": 79.34,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Others argue that dreams are simply the brain's attempt to make a story out of random activity during sleep.",
+   "start": 80.01,
+   "end": 86.41,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So which theory is right?",
+   "start": 87.13,
+   "end": 89.13,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Possibly several of them.",
+   "start": 89.85,
+   "end": 91.73,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Dreaming may have more than one purpose.",
+   "start": 92.36,
+   "end": 94.84,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "It's one of the most fascinating open questions in neuroscience.",
+   "start": 95.43,
+   "end": 99.35,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 210,
+ "duration": 99.3,
+ "wpm": 127,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 67,
+ "created": "2026-10-04 00:01"
+}

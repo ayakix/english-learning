@@ -1,0 +1,114 @@
+{
+ "id": "fi003",
+ "author": "claude",
+ "summary_ja": "「卵を一つのかごに盛るな」という分散投資は、多くの投資にお金を分け、一つの失敗で貯蓄を失わないようにすること。投資どうしが同じ動きをしない（相関が低い）ほど効果があり、業種、国、株・債券・不動産など資産の種類で分ける。景気が悪いとき株が下がっても一部の債券は保つことがある。ただし世界的な危機ではすべてが下がることもあり（システマティックリスク）、完全には消せない。低コストの世界分散ファンドが簡単な方法。",
+ "listening": [
+  {
+   "q": "分散投資の目的は？",
+   "options": [
+    "手数料を増やす",
+    "税金を減らす",
+    "大もうけする",
+    "一つの悪い結果で貯蓄が大きく減らないようにする"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"so that one bad result does not destroy your savings.\""
+  },
+  {
+   "q": "分散投資で除けないリスクは？",
+   "options": [
+    "一国のリスク",
+    "一業種のリスク",
+    "世界的な危機などの市場全体のリスク",
+    "一社の倒産のリスク"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This kind of market-wide risk is called systematic risk, and no amount of diversification can fully avoid it.\""
+  },
+  {
+   "q": "多くの人に簡単な方法として話されているのは？",
+   "options": [
+    "現金だけ",
+    "金だけ",
+    "低コストで世界に分散したファンド",
+    "一社の株"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"For most people, a low-cost, globally diversified fund is a simple way to achieve it.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "かごを落とすと、卵が全部割れます。",
+   "points_ja": "drop the basket がつながり、every egg breaks が続けて聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "たとえば景気が減速すると株価は下がるかもしれませんが、一部の債券は価値を保ったり、上がったりすることさえあります。",
+   "points_ja": "economy slows down がつながり、hold their value or even rise が続けて聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "期待リターンを必ずしも下げずに、リスクを減らせます。",
+   "points_ja": "can reduce risk がつながり、reducing your expected return が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "分散すると必ずもうかる",
+    "債券は不要",
+    "一社に集中するのが一番",
+    "分散投資はリスクを減らすが、すべてのリスクは消せない"
+   ],
+   "answer": 3,
+   "explanation_ja": "分散の考え方、相関、資産の種類、限界を説明しています。"
+  },
+  {
+   "q": "correlation の意味は？",
+   "options": [
+    "資産同士が同じように動く度合い",
+    "資産の数",
+    "資産の値段",
+    "資産の国"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If two assets always rise and fall at the same time, holding both does not reduce risk very much.\" と説明しています。"
+  },
+  {
+   "q": "分散の方法として挙げられていないものは？",
+   "options": [
+    "異なる業種",
+    "同じ会社の株を何回も買う",
+    "株・債券・不動産など異なる資産",
+    "異なる国"
+   ],
+   "answer": 1,
+   "explanation_ja": "業種、国、資産の種類が挙げられています。"
+  },
+  {
+   "q": "\"free lunch\" と呼ばれる理由は？",
+   "options": [
+    "お金がかからないから",
+    "昼食代が出るから",
+    "期待リターンを必ずしも下げずに、リスクを減らせるから",
+    "税金がないから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It can reduce risk without necessarily reducing your expected return.\""
+  },
+  {
+   "q": "一社にすべてを投資する危険は？",
+   "options": [
+    "手数料が高い",
+    "危険はない",
+    "税金が高い",
+    "その会社が失敗すると、ほぼすべてを失う可能性がある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"If you put everything into one company and that company fails, you could lose almost everything.\""
+  }
+ ]
+}

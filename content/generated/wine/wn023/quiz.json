@@ -1,0 +1,114 @@
+{
+ "id": "wn023",
+ "author": "claude",
+ "summary_ja": "赤ワインの発酵中、炭酸ガスで皮が浮いて「キャップ」ができる。そのままだと乾いて色や風味が出ないので、沈める「ピジャージュ（パンチダウン）」と、底の果汁を上からかける「ルモンタージュ（ポンプオーバー）」で管理する。強さ・頻度・タイミングで抽出量が変わり、多くの醸造家は両方を組み合わせて日々調整する。",
+ "listening": [
+  {
+   "q": "cap とは？",
+   "options": [
+    "ブドウの茎",
+    "瓶のふた",
+    "発酵中に表面に浮いた皮の厚い層",
+    "樽の上の板"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"They form a thick layer called the cap.\""
+  },
+  {
+   "q": "pump-over の方法は？",
+   "options": [
+    "タンクを回す",
+    "足で皮を沈める",
+    "皮を取り除く",
+    "タンクの底の果汁をくみ上げて、キャップの上からかける"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"you pump juice from the bottom of the tank and spray it over the top of the cap.\""
+  },
+  {
+   "q": "実際の醸造家について B が言っていることは？",
+   "options": [
+    "機械に任せる",
+    "多くは両方を組み合わせ、日々調整する",
+    "必ず片方だけを使う",
+    "どちらも使わない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"in practice, many winemakers combine both and adjust day by day.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 4,
+   "ja": "キャップをそのままにすると乾いてしまい、そこから色や風味があまり出ません。",
+   "points_ja": "leave the cap there がつながり、dries out and が続き、color or flavor の or は弱形です。"
+  },
+  {
+   "sentence": 12,
+   "ja": "とても直接的で、小さなタンクでは調整しやすいです。",
+   "points_ja": "in small tanks がつながり、easy to control の to は弱形です。"
+  },
+  {
+   "sentence": 19,
+   "ja": "強さ、頻度、タイミングのすべてが、どれだけタンニンが抽出されるかに影響します。",
+   "points_ja": "frequency and timing の and は「ン」、tannin is extracted がつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "炭酸ガスの作り方",
+    "キャップ管理の2つの方法とその違い",
+    "ワインの瓶詰め",
+    "タンクの掃除方法"
+   ],
+   "answer": 1,
+   "explanation_ja": "パンチダウンとポンプオーバーを比べています。"
+  },
+  {
+   "q": "皮が上に浮く理由は？",
+   "options": [
+    "冷やすから",
+    "発酵でできる炭酸ガスが押し上げるから",
+    "人が持ち上げるから",
+    "皮が軽いから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Carbon dioxide from fermentation pushes the skins up.\""
+  },
+  {
+   "q": "pigeage は何のフランス語？",
+   "options": [
+    "パンチダウン",
+    "ポンプオーバー",
+    "バトナージュ",
+    "コールドソーク"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"In French, it's called pigeage.\""
+  },
+  {
+   "q": "ポンプオーバーの利点として書かれているのは？",
+   "options": [
+    "最も穏やかな方法",
+    "大きなタンクで実用的で、少し酸素を加えて酵母を助ける",
+    "色が薄くなる",
+    "タンニンが出ない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It's practical for large tanks, and it also adds a little oxygen, which helps the yeast.\""
+  },
+  {
+   "q": "繊細なピノ・ノワールに多くのブルゴーニュの生産者が好む方法は？",
+   "options": [
+    "何もしない",
+    "冷凍",
+    "強いポンプオーバー",
+    "穏やかなパンチダウン"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Many Burgundy producers prefer gentle punch-downs for delicate Pinot Noir\"。"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wt019",
+ "author": "claude",
+ "summary_ja": "ペルラージュは小さな円を重ねて並べた装飾。回転するピンを金属に押し当てて円を作り、少しずつずらして重ねていく。間隔がそろっていないとすぐ分かる。文字盤の下など見えない場所によく使われることから、宣伝ではなく丁寧さの証として始まったと分かる。",
+ "listening": [
+  {
+   "q": "ペルラージュの見た目は？",
+   "options": [
+    "花の絵",
+    "小さな円が重なった模様",
+    "まっすぐな縞模様",
+    "無地の鏡面"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a pattern of small overlapping circles, like fish scales or bubbles.\""
+  },
+  {
+   "q": "ペルラージュがよく見られる場所は？",
+   "options": [
+    "リューズ",
+    "ベルト",
+    "ガラスの表面",
+    "文字盤の下など、普段見えない場所"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"perlage is often found on surfaces most people never see, such as the dial side of the baseplate\"。"
+  },
+  {
+   "q": "見えない部分まで装飾されていることから何が分かる？",
+   "options": [
+    "見える部分にも同じだけ手がかけられていること",
+    "時計が安いこと",
+    "装飾が機械で作られたこと",
+    "時計が古いこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"When a maker decorates even hidden parts, it suggests that the visible parts have received the same attention.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 5,
+   "ja": "それからプレートが少し動かされ、最初の円に一部重なるように次の円が作られます。",
+   "points_ja": "moved slightly の d が飲み込まれ、circle is made がつながります。"
+  },
+  {
+   "sentence": 7,
+   "ja": "簡単に聞こえますが、間隔をそろえることが不可欠です。",
+   "points_ja": "sounds simple の s が重なり、spacing is がつながります。"
+  },
+  {
+   "sentence": 13,
+   "ja": "今日では、ペルラージュは手作業だけでなく機械でも作れます。",
+   "points_ja": "made by が続けて聞こえ、as well as が「アズウェラズ」とつながります。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "円の模様は機械では作れない",
+    "ペルラージュは最新の装飾である",
+    "ペルラージュは見えない部分にも施される、丁寧さを示す古典的な装飾である",
+    "装飾は防水のためにある"
+   ],
+   "answer": 2,
+   "explanation_ja": "作り方、見えない場所に施される意味を説明しています。"
+  },
+  {
+   "q": "circular graining は何の別名？",
+   "options": [
+    "ペルラージュ",
+    "アングラージュ",
+    "ブラックポリッシュ",
+    "ギョーシェ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"This decoration is called perlage. In English, it is sometimes called circular graining.\""
+  },
+  {
+   "q": "質の高いペルラージュの見た目は？",
+   "options": [
+    "円の大きさがばらばら",
+    "色が濃い",
+    "ざらざらしている",
+    "なめらかで落ち着いていて、動くと柔らかく光が変わる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the pattern looks smooth and calm, with soft reflections that change as the watch moves.\""
+  },
+  {
+   "q": "ほこりに関する説について、本文の立場は？",
+   "options": [
+    "触れていない",
+    "完全に間違いである",
+    "そう言う人もいるが、証明は難しい",
+    "完全に証明されている"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Some people also say the tiny textures helped catch small particles of dust, although this is hard to prove.\""
+  },
+  {
+   "q": "\"as a sign of care, not as marketing\" の意味は？",
+   "options": [
+    "安く見せるために",
+    "宣伝のためだけに",
+    "売るための宣伝ではなく、丁寧な仕事の証として",
+    "流行に合わせて"
+   ],
+   "answer": 2,
+   "explanation_ja": "見えない場所に施されることから、宣伝目的ではないと述べています。"
+  }
+ ]
+}

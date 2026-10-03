@@ -1,0 +1,114 @@
+{
+ "id": "fi020",
+ "author": "claude",
+ "summary_ja": "投資詐欺から身を守る第一のルールは「保証されたリターン」を約束する人に注意すること。本当の投資には必ずリスクがある。「今日だけ」と急がせるのも危険信号。SNS で何週間も親しくなり、有名人や恋愛を装ってから投資話を持ちかけるのも典型。新しい被害者のお金で前の人に払い、成功しているように見せる仕組みもあり、新しいお金が止まると崩れる。金融庁の登録を確認し、信頼できる人に相談し、個人口座には送金しない。",
+ "listening": [
+  {
+   "q": "最初のルールとして話されているのは？",
+   "options": [
+    "保証されたリターンを約束する人に注意する",
+    "すぐに決める",
+    "高いリターンを狙う",
+    "SNS で情報を集める"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"If someone promises a guaranteed return, be very careful.\""
+  },
+  {
+   "q": "危険信号（レッドフラッグ）の例は？",
+   "options": [
+    "説明書が長い",
+    "考える時間をくれる",
+    "リスクの説明がある",
+    "「今日だけ」「残りわずか」と急がせる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Pressure to decide quickly is a big one. 'This offer ends today' or 'Only a few spots left.'\""
+  },
+  {
+   "q": "投資前にすべきこととして話されていないものは？",
+   "options": [
+    "すぐに全額を送る",
+    "信頼できる人に相談する",
+    "個人口座には送金しない",
+    "会社が金融規制当局に登録されているか確認する"
+   ],
+   "answer": 0,
+   "explanation_ja": "登録の確認、相談、個人口座に送らないことが挙げられています。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "保証されたリターンを約束する人がいたら、十分注意してください。",
+   "points_ja": "someone promises a guaranteed が続き、be very careful が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "そして、すばらしい投資の機会を紹介します。",
+   "points_ja": "introduce an amazing が「イントロデューサナメイジング」とつながります。"
+  },
+  {
+   "sentence": 26,
+   "ja": "覚えておいてください。うますぎる話は、たぶん本当ではありません。",
+   "points_ja": "sounds too good to be true が一続きに聞こえ、it probably is が続きます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "投資詐欺の見分け方と、身を守る方法",
+    "SNS の使い方",
+    "投資のもうけ方",
+    "銀行の選び方"
+   ],
+   "answer": 0,
+   "explanation_ja": "保証、急がせる、SNS、仕組み、確認方法について話しています。"
+  },
+  {
+   "q": "guaranteed return を約束する人に注意すべき理由は？",
+   "options": [
+    "手数料が高いから",
+    "本当の投資には必ずリスクがあり、リスクなしの高リターンは約束できないから",
+    "法律違反だから",
+    "税金がかかるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Real investments always carry risk. Nobody can promise high returns with no risk.\""
+  },
+  {
+   "q": "SNS での典型的な手口は？",
+   "options": [
+    "すぐにお金を払う",
+    "電話だけ",
+    "何週間も親しくなり、有名人や恋愛を装ってから投資話を持ちかける",
+    "広告を出すだけ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Someone builds a friendly relationship over weeks ... Then they introduce an amazing investment opportunity.\""
+  },
+  {
+   "q": "新しい被害者のお金で前の人に払う仕組みが崩れるのは？",
+   "options": [
+    "1年後に必ず",
+    "政府が止めたとき",
+    "最初から",
+    "新しいお金が入ってこなくなったとき"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It works until new money stops coming in, and then everything collapses.\""
+  },
+  {
+   "q": "日本で登録を確認できる機関は？",
+   "options": [
+    "税務署",
+    "警察",
+    "金融庁",
+    "日本銀行"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"In Japan, the Financial Services Agency has lists you can search.\""
+  }
+ ]
+}

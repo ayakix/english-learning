@@ -1,0 +1,180 @@
+{
+ "id": "tc039",
+ "author": "claude",
+ "category": "tech",
+ "title": "Building Live Activities with Dynamic Island",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "ActivityKit",
+  "Dynamic Island",
+  "real-time updates"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine you have ordered food or called a taxi. Instead of opening the app again and again, you can see the progress right on your Lock Screen. On newer iPhones, you can also see it at the top of the screen, in the black area around the camera. These features are called Live Activities and the Dynamic Island."
+  },
+  {
+   "speaker": "A",
+   "text": "Live Activities were introduced in iOS sixteen. They show real-time updates for a task that has a clear beginning and end, such as a delivery, a sports match or a timer. Developers build them with a framework called ActivityKit."
+  },
+  {
+   "speaker": "A",
+   "text": "The Dynamic Island is the pill-shaped area at the top of supported iPhones. A Live Activity can appear there in a compact form while the user does other things. If the user presses and holds it, it expands to show more details."
+  },
+  {
+   "speaker": "A",
+   "text": "Updating the information is an important design question. While the app is running, it can update the activity directly. When the app is in the background, updates often arrive through push notifications from a server. This allows real-time updates, such as the latest score or the driver's arrival time."
+  },
+  {
+   "speaker": "A",
+   "text": "Live Activities also have limits. They are meant for short-term events and can only stay active for a limited number of hours. Space is very small, so designers must decide what information truly matters."
+  },
+  {
+   "speaker": "A",
+   "text": "When used well, they let users stay informed without opening the app, which is a great example of helpful design."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine you have ordered food or called a taxi.",
+   "start": 0.0,
+   "end": 3.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of opening the app again and again, you can see the progress right on your Lock Screen.",
+   "start": 3.95,
+   "end": 9.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "On newer iPhones, you can also see it at the top of the screen, in the black area around the camera.",
+   "start": 10.3,
+   "end": 16.3,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These features are called Live Activities and the Dynamic Island.",
+   "start": 16.77,
+   "end": 20.97,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Live Activities were introduced in iOS sixteen.",
+   "start": 21.49,
+   "end": 25.17,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "They show real-time updates for a task that has a clear beginning and end, such as a delivery, a sports match or a timer.",
+   "start": 25.6,
+   "end": 33.72,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Developers build them with a framework called ActivityKit.",
+   "start": 34.35,
+   "end": 37.87,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The Dynamic Island is the pill-shaped area at the top of supported iPhones.",
+   "start": 38.39,
+   "end": 43.35,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A Live Activity can appear there in a compact form while the user does other things.",
+   "start": 43.94,
+   "end": 49.06,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If the user presses and holds it, it expands to show more details.",
+   "start": 49.65,
+   "end": 54.13,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Updating the information is an important design question.",
+   "start": 54.65,
+   "end": 58.21,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "While the app is running, it can update the activity directly.",
+   "start": 58.84,
+   "end": 62.28,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When the app is in the background, updates often arrive through push notifications from a server.",
+   "start": 63.11,
+   "end": 68.67,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This allows real-time updates, such as the latest score or the driver's arrival time.",
+   "start": 69.3,
+   "end": 74.82,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Live Activities also have limits.",
+   "start": 75.34,
+   "end": 77.5,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They are meant for short-term events and can only stay active for a limited number of hours.",
+   "start": 77.93,
+   "end": 83.73,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Space is very small, so designers must decide what information truly matters.",
+   "start": 84.36,
+   "end": 90.44,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When used well, they let users stay informed without opening the app, which is a great example of helpful design.",
+   "start": 90.96,
+   "end": 98.56,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 242,
+ "duration": 98.5,
+ "wpm": 147,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-03 23:54"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "av003",
+ "author": "claude",
+ "summary_ja": "旅客機のトランスポンダーは管制レーダーに4桁のスコークコードで応答する。通常は管制が便ごとにコードを割り当てる（数字は0〜7）。世界共通の特別なコードがあり、7700は一般的な緊急事態、7600は無線通信の喪失、7500はハイジャックなどの不法妨害。アプリで7700に気づくこともあるが、多くの緊急事態は落ち着いて処理され無事着陸する。",
+ "listening": [
+  {
+   "q": "7700 の意味は？",
+   "options": [
+    "着陸許可",
+    "無線の故障",
+    "ハイジャック",
+    "一般的な緊急事態"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It is the general emergency code.\""
+  },
+  {
+   "q": "7600 の意味は？",
+   "options": [
+    "燃料が少ない",
+    "無線通信を失った",
+    "医療の急病人",
+    "天候が悪い"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Code seven six zero zero means the aircraft has lost radio communication.\""
+  },
+  {
+   "q": "7700 についての話し手の最後の注意は？",
+   "options": [
+    "必ず事故になる",
+    "必ずしも危険ではなく、多くは落ち着いて対処され無事着陸する",
+    "ニュースより遅れて分かる",
+    "誤報がほとんど"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It does not always mean danger, though. Many emergencies are handled calmly, and the plane lands safely.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "このコードは、管制官が画面上で各航空機を識別するのに役立ちます。",
+   "points_ja": "helps controllers の s が重なり、identify each aircraft が続けて聞こえます。"
+  },
+  {
+   "sentence": 6,
+   "ja": "それらは言葉を使わずに、すばやく問題を伝えるために使われます。",
+   "points_ja": "used to の d は飲み込まれ「ユーストゥ」、problems quickly が続きます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "レーダー画面上ではその航空機がすぐに強調表示され、管制官は優先します。",
+   "points_ja": "aircraft is immediately がつながり、give it priority が「ギヴィットプライオリティ」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "ハイジャックの歴史",
+    "フライト追跡アプリの使い方",
+    "スコークコードの役割と、世界共通の特別なコードの意味",
+    "トランスポンダーの作り方"
+   ],
+   "answer": 2,
+   "explanation_ja": "コードの仕組みと、7700・7600・7500 の意味を説明しています。"
+  },
+  {
+   "q": "スコークコードに使える数字は？",
+   "options": [
+    "アルファベット",
+    "0〜7",
+    "1〜5",
+    "0〜9"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The digits only go from zero to seven\"。"
+  },
+  {
+   "q": "通常のコードは誰が決める？",
+   "options": [
+    "乗客が決める",
+    "管制官が便ごとに割り当てる",
+    "航空会社が決める",
+    "パイロットが自由に決める"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Normally, the controller gives each flight its own code, and the pilots enter it\"。"
+  },
+  {
+   "q": "7700 を使う例として挙げられていないものは？",
+   "options": [
+    "機内の急病人",
+    "到着の遅れ",
+    "エンジン故障",
+    "与圧の問題"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"an engine failure, a medical problem on board or a pressurization issue\" で、遅延はありません。"
+  },
+  {
+   "q": "unlawful interference の意味に近いのは？",
+   "options": [
+    "天候の悪化",
+    "不法な妨害（ハイジャックなど）",
+    "機械の故障",
+    "無線の雑音"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Code seven five zero zero ... indicates unlawful interference, which usually means a hijacking.\""
+  }
+ ]
+}

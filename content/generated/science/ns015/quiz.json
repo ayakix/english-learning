@@ -1,0 +1,114 @@
+{
+ "id": "ns015",
+ "author": "claude",
+ "summary_ja": "ブラックホールは光さえ逃げられないほど重力が強い場所で、直接は見えないが周りへの影響で分かる。多くは巨大な星が燃料を使い果たし、自分の重さを支えられず中心が崩れて、莫大な物質が小さな空間に詰め込まれてできる。周りには「事象の地平面」という引き返せない境界がある。太陽の数倍のものから、銀河の中心にある数百万〜数十億倍の超大質量ブラックホールまで。2019年に初めて影の画像が公開された。",
+ "listening": [
+  {
+   "q": "ブラックホールが直接見えない理由は？",
+   "options": [
+    "とても小さいから",
+    "光さえ外に出てこないから",
+    "暗い場所にあるから",
+    "遠すぎるから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Because no light comes out, we cannot see a black hole directly.\""
+  },
+  {
+   "q": "event horizon とは？",
+   "options": [
+    "星の表面",
+    "そこを越えると脱出できない境界",
+    "ブラックホールの中心",
+    "銀河の端"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It is the point of no return.\""
+  },
+  {
+   "q": "2019年に起きたことは？",
+   "options": [
+    "ブラックホールが地球に近づいた",
+    "ブラックホールの影の最初の画像が公開された",
+    "新しい銀河が見つかった",
+    "ブラックホールが消えた"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"in twenty nineteen, scientists released the first image of a black hole's shadow.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "しかし、周りのすべてのものへの影響を見ることはできます。",
+   "points_ja": "see its effects on everything around it が一続きに聞こえます。"
+  },
+  {
+   "sentence": 4,
+   "ja": "星は燃料を使い果たし、もはや自分の重さを支えられなくなります。",
+   "points_ja": "runs out of fuel が「ランザウタヴフューエル」、support its own weight が続けて聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "ブラックホールは今も宇宙で最も謎の多い天体の一つです。",
+   "points_ja": "Black holes remain がつながり、one of the most mysterious が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "太陽の寿命",
+    "ブラックホールの成り立ちと特徴、観測の歴史",
+    "宇宙旅行の方法",
+    "星の名前"
+   ],
+   "answer": 1,
+   "explanation_ja": "形成、事象の地平面、大きさの種類、最初の画像を説明しています。"
+  },
+  {
+   "q": "多くのブラックホールができる過程は？",
+   "options": [
+    "銀河がぶつかる",
+    "太陽が冷える",
+    "小さな星が集まる",
+    "巨大な星が燃料を使い果たし、中心が崩れて物質が小さな空間に詰め込まれる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Its core collapses inward, packing an enormous amount of matter into a tiny space.\""
+  },
+  {
+   "q": "事象の地平面の外側では？",
+   "options": [
+    "十分速く動けば脱出できる",
+    "時間が止まる",
+    "光がない",
+    "必ず吸い込まれる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Outside the event horizon, an object can still escape if it moves fast enough.\""
+  },
+  {
+   "q": "supermassive black hole はどこにある？",
+   "options": [
+    "地球の中",
+    "私たちの天の川銀河を含む、多くの大きな銀河の中心",
+    "太陽の近く",
+    "月の裏側"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"At the center of most large galaxies, including our own Milky Way, there is a supermassive black hole\"。"
+  },
+  {
+   "q": "最初の画像を撮った方法は？",
+   "options": [
+    "一つの大きな望遠鏡",
+    "宇宙船で近づいた",
+    "カメラで撮った",
+    "世界中の電波望遠鏡を組み合わせて、地球サイズの望遠鏡を作った"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"They combined radio telescopes around the world to create one giant, Earth-sized telescope.\""
+  }
+ ]
+}

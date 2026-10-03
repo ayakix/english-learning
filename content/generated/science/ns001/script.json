@@ -1,0 +1,222 @@
+{
+ "id": "ns001",
+ "author": "claude",
+ "category": "science",
+ "title": "Why the Sky Is Blue",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "scattering",
+  "wavelength",
+  "atmosphere"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "On a clear day, the sky is a bright blue. At sunset, it can turn orange, pink and red. It is the same sky and the same sun. So why does the color change?"
+  },
+  {
+   "speaker": "A",
+   "text": "The answer begins with sunlight. Sunlight looks white, but it is actually a mixture of all the colors of the rainbow. Each color has a different wavelength. Red light has a long wavelength, and blue and violet light have short wavelengths."
+  },
+  {
+   "speaker": "A",
+   "text": "When sunlight enters the atmosphere, the layer of air around the Earth, it hits tiny gas molecules. These molecules send light off in all directions. This is called scattering. Short wavelengths are scattered much more strongly than long ones. So blue light is spread across the whole sky, and wherever you look, some of it reaches your eyes."
+  },
+  {
+   "speaker": "A",
+   "text": "But wait. Violet light has an even shorter wavelength. Why is the sky not violet? Part of the reason is that sunlight contains less violet, and some is absorbed high in the atmosphere. Our eyes are also more sensitive to blue."
+  },
+  {
+   "speaker": "A",
+   "text": "Now think about sunset. When the sun is low, its light must travel through much more air to reach you. Along the way, most of the blue light is scattered out of the path. What remains is mainly orange and red light."
+  },
+  {
+   "speaker": "A",
+   "text": "So a blue sky and a red sunset come from the same process. The only difference is the distance the light travels."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "On a clear day, the sky is a bright blue.",
+   "start": 0.0,
+   "end": 3.12,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "At sunset, it can turn orange, pink and red.",
+   "start": 3.95,
+   "end": 7.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is the same sky and the same sun.",
+   "start": 8.22,
+   "end": 11.02,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "So why does the color change?",
+   "start": 11.85,
+   "end": 14.01,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The answer begins with sunlight.",
+   "start": 14.53,
+   "end": 16.69,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Sunlight looks white, but it is actually a mixture of all the colors of the rainbow.",
+   "start": 17.76,
+   "end": 23.32,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Each color has a different wavelength.",
+   "start": 23.95,
+   "end": 26.35,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Red light has a long wavelength, and blue and violet light have short wavelengths.",
+   "start": 26.94,
+   "end": 32.62,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When sunlight enters the atmosphere, the layer of air around the Earth, it hits tiny gas molecules.",
+   "start": 33.14,
+   "end": 39.7,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "These molecules send light off in all directions.",
+   "start": 40.53,
+   "end": 43.49,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called scattering.",
+   "start": 44.24,
+   "end": 45.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Short wavelengths are scattered much more strongly than long ones.",
+   "start": 46.75,
+   "end": 50.51,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So blue light is spread across the whole sky, and wherever you look, some of it reaches your eyes.",
+   "start": 51.1,
+   "end": 57.42,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But wait.",
+   "start": 57.94,
+   "end": 58.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Violet light has an even shorter wavelength.",
+   "start": 59.49,
+   "end": 62.53,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is the sky not violet?",
+   "start": 63.12,
+   "end": 65.08,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Part of the reason is that sunlight contains less violet, and some is absorbed high in the atmosphere.",
+   "start": 65.71,
+   "end": 71.79,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Our eyes are also more sensitive to blue.",
+   "start": 72.62,
+   "end": 75.58,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Now think about sunset.",
+   "start": 76.1,
+   "end": 77.78,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When the sun is low, its light must travel through much more air to reach you.",
+   "start": 78.61,
+   "end": 83.73,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Along the way, most of the blue light is scattered out of the path.",
+   "start": 84.24,
+   "end": 88.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "What remains is mainly orange and red light.",
+   "start": 88.75,
+   "end": 91.87,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So a blue sky and a red sunset come from the same process.",
+   "start": 92.39,
+   "end": 97.03,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The only difference is the distance the light travels.",
+   "start": 97.62,
+   "end": 100.82,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 238,
+ "duration": 100.7,
+ "wpm": 142,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 70,
+ "created": "2026-10-03 23:59"
+}

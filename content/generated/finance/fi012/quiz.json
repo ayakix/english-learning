@@ -1,0 +1,114 @@
+{
+ "id": "fi012",
+ "author": "claude",
+ "summary_ja": "1万円拾うとうれしいが、1万円なくすと、そのうれしさよりずっとつらい。これが損失回避で、カーネマンとトヴェルスキーが研究し、人が実際にどう判断するかを研究する行動ファイナンスの基礎になった。損は同じ額の得の約2倍強く感じるとされる。損している株を元に戻るまで持ち続け、利益の出た株を早く売る、投資自体を怖がるといった失敗につながる。予測できる思考の偏り（バイアス）は誰にでもあり、事前のルールで対処できる。",
+ "listening": [
+  {
+   "q": "loss aversion とは？",
+   "options": [
+    "得をしたい気持ち",
+    "お金を貯めること",
+    "損の痛みを、同じ額の得の喜びより強く感じること",
+    "損を避けて投資しないこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"For most people, the pain of losing is much stronger than the joy of gaining the same amount. This is called loss aversion.\""
+  },
+  {
+   "q": "損失回避が引き起こす失敗の例は？",
+   "options": [
+    "借金をする",
+    "株をまったく買わない",
+    "損している株を長く持ち続け、利益の出た株を早く売る",
+    "毎日売買する"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"many investors hold on to losing stocks for too long ... At the same time, they sell winning stocks too early\"。"
+  },
+  {
+   "q": "対処法として話されているのは？",
+   "options": [
+    "毎月決まった額を投資し、年1回調整するなど、事前にルールを決める",
+    "友だちに任せる",
+    "ニュースを毎日見る",
+    "感情に従う"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Many investors set clear rules in advance, such as investing a fixed amount every month and rebalancing once a year.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "道で1万円を拾ったと想像してください。",
+   "points_ja": "find ten thousand yen on the street が一続きに聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "研究によると、損は同じ額の得のおよそ2倍強く感じられるようです。",
+   "points_ja": "losses can feel roughly が続き、twice as powerful as equal gains が続けて聞こえます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "自動の仕組みは、感情が入り込む余地を減らします。",
+   "points_ja": "Automatic systems reduce the space for emotions が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "人は損を強く感じるため判断を誤りやすいが、ルールで対処できる",
+    "お金を拾う話",
+    "損をしない方法",
+    "専門家はバイアスがない"
+   ],
+   "answer": 0,
+   "explanation_ja": "損失回避、行動ファイナンス、失敗の例、対処法を説明しています。"
+  },
+  {
+   "q": "behavioral finance とは？",
+   "options": [
+    "完璧に合理的な人の判断を研究する分野",
+    "会計の方法",
+    "実際の人がどうお金の判断をするかを研究する分野",
+    "銀行の仕事"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"which studies how real people make financial decisions, not how perfectly logical people should behave.\""
+  },
+  {
+   "q": "損している株を持ち続ける理由は？",
+   "options": [
+    "税金がかかるから",
+    "必ず上がるから",
+    "忘れているから",
+    "売ると損が現実になると感じるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"because selling would make the loss feel real.\""
+  },
+  {
+   "q": "現金だけを持ち続けることの問題は？",
+   "options": [
+    "問題はない",
+    "短期の損は避けられるが、長年でインフレに価値を奪われる",
+    "盗まれる",
+    "手数料が高い"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Keeping all savings in cash avoids short-term losses, but it can mean losing value to inflation over many years.\""
+  },
+  {
+   "q": "bias の意味は？",
+   "options": [
+    "銀行の名前",
+    "投資の種類",
+    "税金",
+    "予測できる思考の誤り・偏り"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"This kind of predictable error in thinking is called a bias.\""
+  }
+ ]
+}

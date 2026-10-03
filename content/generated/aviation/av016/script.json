@@ -1,0 +1,236 @@
+{
+ "id": "av016",
+ "author": "claude",
+ "category": "aviation",
+ "title": "The Role of Rake and Curved Wingtips",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "raked wingtip",
+  "sharklet",
+  "induced drag"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Hope",
+   "id": "WZlYpi1yf6zJhNWXih74",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you look out the window on many airliners, the end of the wing turns upward. What are those shapes for?"
+  },
+  {
+   "speaker": "B",
+   "text": "They're designed to reduce something called induced drag. When a wing creates lift, air with higher pressure under the wing tries to move to the lower pressure above it. At the wingtip, it curls around and forms a spinning vortex."
+  },
+  {
+   "speaker": "A",
+   "text": "Like a small tornado behind each wing?"
+  },
+  {
+   "speaker": "B",
+   "text": "More or less. That swirling air takes energy from the airplane. It's a kind of drag, which means more fuel is needed."
+  },
+  {
+   "speaker": "A",
+   "text": "So the upturned tips stop that swirl?"
+  },
+  {
+   "speaker": "B",
+   "text": "They make it weaker. On the Airbus A320 family, they're called sharklets. They're tall and curved, a bit like a shark's fin. Other types are winglets, with similar ideas."
+  },
+  {
+   "speaker": "A",
+   "text": "But the Boeing 787 doesn't have them, right?"
+  },
+  {
+   "speaker": "B",
+   "text": "Good observation. The 787 uses a raked wingtip. The wing gets thinner and sweeps back more strongly near the end. It reaches a similar goal, without a vertical piece."
+  },
+  {
+   "speaker": "A",
+   "text": "How much fuel does this save?"
+  },
+  {
+   "speaker": "B",
+   "text": "Usually a few percent, depending on the route. That doesn't sound like much. But for an airline flying thousands of flights, a few percent means a huge amount of fuel and money, and lower emissions too."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you look out the window on many airliners, the end of the wing turns upward.",
+   "start": 0.0,
+   "end": 5.36,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What are those shapes for?",
+   "start": 6.03,
+   "end": 7.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They're designed to reduce something called induced drag.",
+   "start": 8.35,
+   "end": 11.83,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "When a wing creates lift, air with higher pressure under the wing tries to move to the lower pressure above it.",
+   "start": 12.46,
+   "end": 19.1,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "At the wingtip, it curls around and forms a spinning vortex.",
+   "start": 19.69,
+   "end": 23.93,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Like a small tornado behind each wing?",
+   "start": 24.65,
+   "end": 27.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "More or less.",
+   "start": 28.25,
+   "end": 29.37,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That swirling air takes energy from the airplane.",
+   "start": 30.2,
+   "end": 33.16,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It's a kind of drag, which means more fuel is needed.",
+   "start": 33.91,
+   "end": 37.67,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So the upturned tips stop that swirl?",
+   "start": 38.39,
+   "end": 41.59,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They make it weaker.",
+   "start": 42.31,
+   "end": 43.43,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "On the Airbus A320 family, they're called sharklets.",
+   "start": 43.86,
+   "end": 48.1,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "They're tall and curved, a bit like a shark's fin.",
+   "start": 48.85,
+   "end": 52.09,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Other types are winglets, with similar ideas.",
+   "start": 52.72,
+   "end": 55.76,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But the Boeing 787 doesn't have them, right?",
+   "start": 56.48,
+   "end": 59.92,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Good observation.",
+   "start": 60.64,
+   "end": 61.76,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The 787 uses a raked wingtip.",
+   "start": 62.51,
+   "end": 65.23,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The wing gets thinner and sweeps back more strongly near the end.",
+   "start": 65.98,
+   "end": 69.86,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It reaches a similar goal, without a vertical piece.",
+   "start": 70.41,
+   "end": 73.69,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "How much fuel does this save?",
+   "start": 74.49,
+   "end": 76.65,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Usually a few percent, depending on the route.",
+   "start": 77.37,
+   "end": 80.25,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That doesn't sound like much.",
+   "start": 81.08,
+   "end": 82.68,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But for an airline flying thousands of flights, a few percent means a huge amount of fuel and money, and lower emissions too.",
+   "start": 83.27,
+   "end": 92.23,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 205,
+ "duration": 92.2,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 62,
+ "created": "2026-10-03 23:52"
+}

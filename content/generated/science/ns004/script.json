@@ -1,0 +1,184 @@
+{
+ "id": "ns004",
+ "author": "claude",
+ "category": "science",
+ "title": "The Honeybee Waggle Dance",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "waggle dance",
+  "hive",
+  "pollen"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When a honeybee finds a field full of flowers, she returns to the hive and tells her sisters exactly where to go. She does not use words. She uses a dance."
+  },
+  {
+   "speaker": "A",
+   "text": "This behavior is known as the waggle dance. It was studied in detail by the Austrian scientist Karl von Frisch, who later received a Nobel Prize for his work."
+  },
+  {
+   "speaker": "A",
+   "text": "Inside the dark hive, the bee walks in a straight line while shaking her body from side to side. This is the waggle part. Then she circles back and repeats it, again and again, forming a shape a bit like the number eight."
+  },
+  {
+   "speaker": "A",
+   "text": "The direction of the straight run carries information. The bees use the sun as their reference. If the dancer moves straight up the wall of the honeycomb, it means fly toward the sun. If she moves at an angle to the right of up, the flowers are at that angle to the right of the sun."
+  },
+  {
+   "speaker": "A",
+   "text": "The length of the waggle run tells the distance. A longer waggle means the food is farther away. For flowers very close to the hive, bees perform a simpler round dance instead."
+  },
+  {
+   "speaker": "A",
+   "text": "Other bees follow the dancer closely, feeling her movements and smelling the pollen and nectar she carries. Then they fly out and find the flowers, sometimes several kilometers away."
+  },
+  {
+   "speaker": "A",
+   "text": "It is an amazing system of communication, created by an insect with a brain smaller than a grain of rice."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When a honeybee finds a field full of flowers, she returns to the hive and tells her sisters exactly where to go.",
+   "start": 0.0,
+   "end": 6.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "She does not use words.",
+   "start": 7.63,
+   "end": 9.39,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "She uses a dance.",
+   "start": 9.82,
+   "end": 11.26,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This behavior is known as the waggle dance.",
+   "start": 11.78,
+   "end": 14.42,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It was studied in detail by the Austrian scientist Karl von Frisch, who later received a Nobel Prize for his work.",
+   "start": 15.25,
+   "end": 22.13,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Inside the dark hive, the bee walks in a straight line while shaking her body from side to side.",
+   "start": 22.65,
+   "end": 28.81,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is the waggle part.",
+   "start": 29.48,
+   "end": 31.16,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Then she circles back and repeats it, again and again, forming a shape a bit like the number eight.",
+   "start": 31.83,
+   "end": 38.23,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The direction of the straight run carries information.",
+   "start": 38.75,
+   "end": 41.95,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The bees use the sun as their reference.",
+   "start": 42.38,
+   "end": 45.02,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If the dancer moves straight up the wall of the honeycomb, it means fly toward the sun.",
+   "start": 45.45,
+   "end": 50.73,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If she moves at an angle to the right of up, the flowers are at that angle to the right of the sun.",
+   "start": 51.16,
+   "end": 56.68,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The length of the waggle run tells the distance.",
+   "start": 57.28,
+   "end": 60.0,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A longer waggle means the food is farther away.",
+   "start": 60.59,
+   "end": 63.51,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "For flowers very close to the hive, bees perform a simpler round dance instead.",
+   "start": 64.14,
+   "end": 69.34,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Other bees follow the dancer closely, feeling her movements and smelling the pollen and nectar she carries.",
+   "start": 69.86,
+   "end": 76.5,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Then they fly out and find the flowers, sometimes several kilometers away.",
+   "start": 77.17,
+   "end": 82.13,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "It is an amazing system of communication, created by an insect with a brain smaller than a grain of rice.",
+   "start": 82.65,
+   "end": 89.61,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 240,
+ "duration": 89.5,
+ "wpm": 161,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:59"
+}

@@ -1,0 +1,201 @@
+{
+ "id": "wn009",
+ "author": "claude",
+ "category": "wine",
+ "title": "Malolactic Fermentation in Chablis and Meursault",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "malolactic conversion",
+  "diacetyl",
+  "sharp malic acid"
+ ],
+ "cast": {
+  "A": {
+   "name": "David",
+   "id": "y1adqrqs4jNaANXsIZnD",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "After the main alcoholic fermentation, many wines go through a second, quieter process. It is called malolactic fermentation. Despite the name, it is not really done by yeast. It is done by bacteria."
+  },
+  {
+   "speaker": "A",
+   "text": "Grapes contain several natural acids. One of them is malic acid. It is the same sharp acid you taste in a green apple. During malolactic conversion, bacteria change malic acid into lactic acid. Lactic acid is the softer acid found in milk and yogurt. As a result, the wine tastes less sharp and feels rounder and creamier."
+  },
+  {
+   "speaker": "A",
+   "text": "This process can also create a compound called diacetyl. In small amounts, it gives a buttery aroma. This is one reason why some Chardonnays smell of butter or cream."
+  },
+  {
+   "speaker": "A",
+   "text": "In Burgundy, Meursault is a good example of a richer style. Many producers there allow full malolactic fermentation and age the wine in oak barrels. The result is often a full, nutty and creamy white wine."
+  },
+  {
+   "speaker": "A",
+   "text": "Other producers prefer a crisper, more mineral style. They may choose bacteria that create little diacetyl, or limit the process in some wines. In Chablis, for example, many wines feel fresh and tight, partly because they often see little or no new oak."
+  },
+  {
+   "speaker": "A",
+   "text": "So when you taste a Chardonnay, ask yourself: green apple or butter? The answer often tells you how the winemaker managed this second fermentation."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "After the main alcoholic fermentation, many wines go through a second, quieter process.",
+   "start": 0.0,
+   "end": 5.92,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is called malolactic fermentation.",
+   "start": 6.75,
+   "end": 9.23,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Despite the name, it is not really done by yeast.",
+   "start": 10.06,
+   "end": 13.66,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It is done by bacteria.",
+   "start": 14.05,
+   "end": 15.85,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Grapes contain several natural acids.",
+   "start": 16.37,
+   "end": 18.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One of them is malic acid.",
+   "start": 19.68,
+   "end": 21.44,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It is the same sharp acid you taste in a green apple.",
+   "start": 22.19,
+   "end": 25.51,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "During malolactic conversion, bacteria change malic acid into lactic acid.",
+   "start": 26.14,
+   "end": 31.42,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Lactic acid is the softer acid found in milk and yogurt.",
+   "start": 32.25,
+   "end": 36.17,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "As a result, the wine tastes less sharp and feels rounder and creamier.",
+   "start": 36.6,
+   "end": 41.56,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This process can also create a compound called diacetyl.",
+   "start": 42.08,
+   "end": 45.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In small amounts, it gives a buttery aroma.",
+   "start": 46.75,
+   "end": 49.55,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is one reason why some Chardonnays smell of butter or cream.",
+   "start": 50.46,
+   "end": 54.62,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In Burgundy, Meursault is a good example of a richer style.",
+   "start": 55.14,
+   "end": 59.14,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many producers there allow full malolactic fermentation and age the wine in oak barrels.",
+   "start": 59.97,
+   "end": 65.89,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The result is often a full, nutty and creamy white wine.",
+   "start": 66.48,
+   "end": 70.72,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Other producers prefer a crisper, more mineral style.",
+   "start": 71.24,
+   "end": 75.12,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "They may choose bacteria that create little diacetyl, or limit the process in some wines.",
+   "start": 75.75,
+   "end": 81.55,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "In Chablis, for example, many wines feel fresh and tight, partly because they often see little or no new oak.",
+   "start": 82.18,
+   "end": 89.86,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "So when you taste a Chardonnay, ask yourself: green apple or butter?",
+   "start": 90.46,
+   "end": 95.9,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "The answer often tells you how the winemaker managed this second fermentation.",
+   "start": 96.57,
+   "end": 101.29,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 222,
+ "duration": 101.2,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:47"
+}

@@ -7,7 +7,7 @@ from collections import defaultdict
 
 from . import storage
 
-SKILL_JA = {"speaking": "スピーキング", "listening": "リスニング", "writing": "ライティング", "reading": "リーディング"}
+SKILL_JA = {"speaking": "スピーキング", "listening": "リスニング", "writing": "ライティング", "reading": "リーディング", "voa": "教材"}
 
 
 def points() -> list[dict]:

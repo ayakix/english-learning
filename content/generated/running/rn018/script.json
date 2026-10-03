@@ -1,0 +1,264 @@
+{
+ "id": "rn018",
+ "author": "claude",
+ "category": "running",
+ "title": "Sleep Extension for Endurance Recovery",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "sleep extension",
+  "cumulative fatigue",
+  "injury vulnerability"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Runners talk a lot about training and nutrition. You think sleep deserves more attention. Why?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because recovery happens mostly while we sleep. That's when the body repairs muscles and the brain processes what we've learned. If sleep is poor, training doesn't work as well."
+  },
+  {
+   "speaker": "A",
+   "text": "Is there evidence that more sleep improves performance?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. One well-known study asked university basketball players to try to sleep about ten hours a night for several weeks. Their sprint times and shooting accuracy improved. Researchers call this approach sleep extension."
+  },
+  {
+   "speaker": "A",
+   "text": "Ten hours sounds difficult for people with jobs."
+  },
+  {
+   "speaker": "B",
+   "text": "Of course. But even adding thirty to sixty minutes can help. Many people are building up cumulative fatigue without noticing it. That's tiredness that adds up over many nights."
+  },
+  {
+   "speaker": "A",
+   "text": "Does lack of sleep affect injuries?"
+  },
+  {
+   "speaker": "B",
+   "text": "It seems to. Several studies found that athletes who regularly sleep less than about eight hours have more injuries. Tired people have slower reactions and weaker concentration. That increases injury vulnerability."
+  },
+  {
+   "speaker": "A",
+   "text": "Any practical tips?"
+  },
+  {
+   "speaker": "B",
+   "text": "Keep a regular bedtime, even on weekends. Avoid screens and caffeine late in the day. And during heavy training weeks, try to get to bed a bit earlier. Short naps of twenty minutes can also help. Think of sleep as part of your training plan, not something extra."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Runners talk a lot about training and nutrition.",
+   "start": 0.0,
+   "end": 3.12,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You think sleep deserves more attention.",
+   "start": 3.55,
+   "end": 5.79,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why?",
+   "start": 6.3,
+   "end": 6.78,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Because recovery happens mostly while we sleep.",
+   "start": 7.5,
+   "end": 10.62,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "That's when the body repairs muscles and the brain processes what we've learned.",
+   "start": 11.21,
+   "end": 15.61,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "If sleep is poor, training doesn't work as well.",
+   "start": 16.2,
+   "end": 19.48,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Is there evidence that more sleep improves performance?",
+   "start": 20.2,
+   "end": 23.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Yes.",
+   "start": 24.36,
+   "end": 24.84,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "One well-known study asked university basketball players to try to sleep about ten hours a night for several weeks.",
+   "start": 25.43,
+   "end": 32.55,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Their sprint times and shooting accuracy improved.",
+   "start": 33.14,
+   "end": 36.34,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Researchers call this approach sleep extension.",
+   "start": 37.17,
+   "end": 40.21,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Ten hours sounds difficult for people with jobs.",
+   "start": 40.93,
+   "end": 44.05,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Of course.",
+   "start": 44.77,
+   "end": 45.57,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But even adding thirty to sixty minutes can help.",
+   "start": 46.16,
+   "end": 49.76,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Many people are building up cumulative fatigue without noticing it.",
+   "start": 50.19,
+   "end": 54.11,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's tiredness that adds up over many nights.",
+   "start": 54.54,
+   "end": 57.74,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Does lack of sleep affect injuries?",
+   "start": 58.46,
+   "end": 60.94,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "It seems to.",
+   "start": 61.66,
+   "end": 62.54,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Several studies found that athletes who regularly sleep less than about eight hours have more injuries.",
+   "start": 62.97,
+   "end": 69.65,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Tired people have slower reactions and weaker concentration.",
+   "start": 70.28,
+   "end": 74.28,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "That increases injury vulnerability.",
+   "start": 74.79,
+   "end": 77.27,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Any practical tips?",
+   "start": 77.99,
+   "end": 79.67,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Keep a regular bedtime, even on weekends.",
+   "start": 80.39,
+   "end": 83.43,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Avoid screens and caffeine late in the day.",
+   "start": 84.02,
+   "end": 86.66,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "And during heavy training weeks, try to get to bed a bit earlier.",
+   "start": 87.41,
+   "end": 90.85,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Short naps of twenty minutes can also help.",
+   "start": 91.6,
+   "end": 94.16,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Think of sleep as part of your training plan, not something extra.",
+   "start": 94.75,
+   "end": 98.75,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 210,
+ "duration": 98.7,
+ "wpm": 128,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-03 23:56"
+}

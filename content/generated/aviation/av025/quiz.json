@@ -1,0 +1,114 @@
+{
+ "id": "av025",
+ "author": "claude",
+ "summary_ja": "エアバスはパイロットの横に小さなサイドスティック、ボーイングは前に大きな操縦輪（ヨーク）を置く。設計思想の違いで、サイドスティックは前にテーブルを置ける。ボーイングの2つのヨークは連動し、相手の操作が見えて感じられる。エアバスのサイドスティックは連動しないので、表示とコミュニケーションに頼る。どちらも訓練すれば安全で、訓練とチームワークが大切。",
+ "listening": [
+  {
+   "q": "エアバスのサイドスティックの利点として話されているのは？",
+   "options": [
+    "安い",
+    "パイロットの前に空間ができ、テーブルを置ける",
+    "2人の操作が連動する",
+    "重さを感じられる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It frees up space in front of the pilot, so there's room for a table.\""
+  },
+  {
+   "q": "ボーイングのヨークの特徴は？",
+   "options": [
+    "足で操作する",
+    "2つが連動していて、相手の操作が見えて感じられる",
+    "小さなジョイスティック",
+    "左右で独立している"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"On Boeing aircraft, the two yokes are linked ... You can see and feel what the other pilot is doing.\""
+  },
+  {
+   "q": "どちらが安全かという問いへの答えは？",
+   "options": [
+    "どちらもよく訓練されていれば非常に安全",
+    "ボーイングが安全",
+    "エアバスが安全",
+    "どちらも危険"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Both are very safe when pilots are well trained.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "それは異なる設計思想から来ています。",
+   "points_ja": "comes from が続き、different design の t は飲み込まれます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "ボーイングは、それがパイロットに自然な感覚と状況の把握を与えると考えています。",
+   "points_ja": "gives pilots a がつながり、awareness of what's が「アウェアネサヴワッツ」と聞こえます。"
+  },
+  {
+   "sentence": 22,
+   "ja": "結局のところ、操縦装置の形より訓練とチームワークのほうが大切です。",
+   "points_ja": "training and teamwork の and は「ン」、shape of the が「シェイパヴザ」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "飛行機の値段",
+    "エアバスとボーイングの操縦装置の違いと、その考え方",
+    "ゲームのコントローラー",
+    "パイロットの制服"
+   ],
+   "answer": 1,
+   "explanation_ja": "サイドスティックとヨークの違い、フィードバック、安全性を話しています。"
+  },
+  {
+   "q": "サイドスティックのたとえとして使われているのは？",
+   "options": [
+    "車のハンドル",
+    "ゲームのコントローラー",
+    "自転車のブレーキ",
+    "船の舵"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a bit like a game controller.\""
+  },
+  {
+   "q": "エアバスのパイロットが頼るものは？",
+   "options": [
+    "表示とコミュニケーション",
+    "相手のスティックの動き",
+    "窓の外だけ",
+    "管制官"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"So pilots rely more on displays and communication.\""
+  },
+  {
+   "q": "tactile feedback の意味は？",
+   "options": [
+    "画面の表示",
+    "手で感じられるフィードバック",
+    "音声の警告",
+    "光の合図"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"tactile feedback, meaning feedback you can feel with your hands.\""
+  },
+  {
+   "q": "両方の機種を操縦するパイロットの意見は？",
+   "options": [
+    "ボーイングは古い",
+    "違いはない",
+    "エアバスしか使えない",
+    "それぞれに利点がある"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Pilots who fly both types often say each has advantages.\""
+  }
+ ]
+}

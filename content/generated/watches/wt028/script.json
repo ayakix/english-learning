@@ -1,0 +1,176 @@
+{
+ "id": "wt028",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Danger Zone for Date Setting",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "danger zone",
+  "date change wheel",
+  "jumper spring"
+ ],
+ "cast": {
+  "A": {
+   "name": "Stephanie",
+   "id": "oAoF4NpW2Aqxplg9HdYB",
+   "accent": "CA"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many watches with a date window have a hidden weakness. If you change the date at the wrong time of day, you can damage the movement. Watch lovers call this period the danger zone."
+  },
+  {
+   "speaker": "A",
+   "text": "To understand why, think about how the date changes. In most watches, the change does not happen in a single moment. It starts slowly a few hours before midnight. A small finger on a wheel begins to push the date ring forward. This wheel is often called the date change wheel. Around midnight, a little spring called a jumper spring helps the ring snap to the next number."
+  },
+  {
+   "speaker": "A",
+   "text": "During these hours, the date mechanism is already engaged. If you use the crown to change the date quickly at the same time, two parts may push against each other. In the worst case, a tiny tooth can bend or break."
+  },
+  {
+   "speaker": "A",
+   "text": "For many watches, the danger zone is roughly between nine in the evening and three in the morning. However, it depends on the movement, so it is best to check the manual."
+  },
+  {
+   "speaker": "A",
+   "text": "There is a simple habit that keeps you safe. Before you set the date, turn the hands to around six o'clock. Then change the date to yesterday's number, and finally move the hands forward to the correct time. This way, the watch changes the date naturally, and nothing is forced."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many watches with a date window have a hidden weakness.",
+   "start": 0.0,
+   "end": 3.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "If you change the date at the wrong time of day, you can damage the movement.",
+   "start": 3.95,
+   "end": 8.43,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Watch lovers call this period the danger zone.",
+   "start": 8.94,
+   "end": 11.9,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "To understand why, think about how the date changes.",
+   "start": 12.42,
+   "end": 15.78,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In most watches, the change does not happen in a single moment.",
+   "start": 16.53,
+   "end": 20.29,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It starts slowly a few hours before midnight.",
+   "start": 20.96,
+   "end": 24.2,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A small finger on a wheel begins to push the date ring forward.",
+   "start": 24.75,
+   "end": 28.43,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This wheel is often called the date change wheel.",
+   "start": 29.18,
+   "end": 31.9,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Around midnight, a little spring called a jumper spring helps the ring snap to the next number.",
+   "start": 32.65,
+   "end": 38.49,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "During these hours, the date mechanism is already engaged.",
+   "start": 39.01,
+   "end": 42.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If you use the crown to change the date quickly at the same time, two parts may push against each other.",
+   "start": 43.52,
+   "end": 49.24,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In the worst case, a tiny tooth can bend or break.",
+   "start": 49.79,
+   "end": 53.39,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For many watches, the danger zone is roughly between nine in the evening and three in the morning.",
+   "start": 53.91,
+   "end": 59.83,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "However, it depends on the movement, so it is best to check the manual.",
+   "start": 60.38,
+   "end": 64.34,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "There is a simple habit that keeps you safe.",
+   "start": 64.86,
+   "end": 67.66,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Before you set the date, turn the hands to around six o'clock.",
+   "start": 68.21,
+   "end": 72.01,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Then change the date to yesterday's number, and finally move the hands forward to the correct time.",
+   "start": 72.52,
+   "end": 78.6,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This way, the watch changes the date naturally, and nothing is forced.",
+   "start": 79.07,
+   "end": 83.27,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 225,
+ "duration": 83.2,
+ "wpm": 162,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 66,
+ "created": "2026-10-03 23:45"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "wt013",
+ "author": "claude",
+ "summary_ja": "グラスヒュッテの時計の多くは、1枚の大きな3/4プレートで機械の大部分を覆っている。19世紀にF.A.ランゲが開発し、輪列をしっかり支えて強度と安定性を高めた。一方で、多くの部品に触れるにはプレートを外す必要があり、組み立てや修理に時間がかかる。",
+ "listening": [
+  {
+   "q": "3/4プレートの特徴は？",
+   "options": [
+    "小さな受けがたくさんある",
+    "プレートが透明である",
+    "1枚の大きなプレートが機械の大部分を覆う",
+    "プレートがない"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Instead of many small bridges, a single large plate covers most of the movement.\""
+  },
+  {
+   "q": "このプレートを開発した人物と時期は？",
+   "options": [
+    "ロレックス、1950年代",
+    "F.A.ランゲ、1860年代",
+    "スイス政府、1886年",
+    "ブレゲ、1801年"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Ferdinand Adolph Lange ... In the eighteen sixties, he developed this plate\"。"
+  },
+  {
+   "q": "欠点として話されているのは？",
+   "options": [
+    "すぐに錆びる",
+    "重すぎて腕が疲れる",
+    "精度が悪い",
+    "多くの部品に触れるには外す必要があり、組み立てや修理に時間がかかる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"a watchmaker must remove it to reach many parts. Assembly and service take more time.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "これは3/4プレートと呼ばれます。",
+   "points_ja": "called a がつながり「コールダ」になります。"
+  },
+  {
+   "sentence": 7,
+   "ja": "それぞれの歯車は、プレートの穴にはまった小さな軸の上で回ります。",
+   "points_ja": "turns on がつながり、sit in の t は軽く「シリン」に近く聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "1枚のプレートが広く覆っているので、時計師は多くの部品に触れるためにそれを外さなければなりません。",
+   "points_ja": "covers so much の s が重なり、remove it to reach が「リムーヴィットゥリーチ」と続きます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "グラスヒュッテの時計は安い",
+    "3/4プレートは強度と安定性に優れたザクセンの象徴だが、修理に手間がかかる",
+    "3/4プレートはスイスで発明された",
+    "受けは多いほどよい"
+   ],
+   "answer": 1,
+   "explanation_ja": "利点（安定性）と欠点（修理の手間）、ザクセン様式の象徴であることを述べています。"
+  },
+  {
+   "q": "wheel train の説明として正しいものは？",
+   "options": [
+    "ベルトの部品",
+    "ゼンマイから脱進機へ力を伝える歯車の列",
+    "時計工場への電車",
+    "文字盤の模様"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That is the chain of gears that carries energy from the mainspring to the escapement.\""
+  },
+  {
+   "q": "プレートがわずかに動くと何が問題？",
+   "options": [
+    "音がしなくなる",
+    "針が外れる",
+    "歯車の位置が完全にそろわなくなる",
+    "色が変わる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"If the plates move even slightly, the wheels are no longer perfectly aligned.\""
+  },
+  {
+   "q": "当時この設計が重要だった理由は？",
+   "options": [
+    "部品が安かったから",
+    "毎日の荒い使い方にも耐える必要があったから",
+    "見た目が派手だったから",
+    "軽くするため"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"important for watches that had to survive rough daily use.\""
+  },
+  {
+   "q": "批判として挙げられているのは？",
+   "options": [
+    "機械の多くを隠してしまう",
+    "精度が低い",
+    "重すぎる",
+    "壊れやすい"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Some critics also say it hides too much of the movement.\""
+  }
+ ]
+}

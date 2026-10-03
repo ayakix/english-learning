@@ -1,0 +1,194 @@
+{
+ "id": "fi014",
+ "author": "claude",
+ "category": "finance",
+ "title": "Currency Risk in Foreign Investing",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "exchange rate",
+  "currency risk",
+  "weak yen"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When you invest in foreign stocks or bonds, you take on an extra type of risk that many beginners forget: currency risk."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is an example. Imagine you invest one million yen in American stocks when one dollar is worth one hundred fifty yen. Your one million yen becomes about six thousand six hundred dollars. One year later, the stocks have not changed at all. They are still worth six thousand six hundred dollars. But now one dollar is worth only one hundred thirty yen. When you convert back to yen, you have about eight hundred sixty thousand yen. You lost money, even though the stocks did not fall."
+  },
+  {
+   "speaker": "A",
+   "text": "The opposite can also happen. If the yen becomes weaker, your foreign investments become worth more in yen. In recent years, the weak yen has boosted the returns of many Japanese investors holding foreign assets."
+  },
+  {
+   "speaker": "A",
+   "text": "The value of one currency compared with another is called the exchange rate. It moves every day, influenced by interest rates, trade and economic news. Nobody can predict it reliably."
+  },
+  {
+   "speaker": "A",
+   "text": "Some funds use currency hedging to reduce this risk. Hedging means using financial contracts to protect against currency movements. It makes returns more stable, but it has a cost."
+  },
+  {
+   "speaker": "A",
+   "text": "For long-term investors, many experts suggest that holding a mix of domestic and foreign assets is reasonable. Currency movements can work for you or against you, but over decades, spreading your money across countries also spreads your risks."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When you invest in foreign stocks or bonds, you take on an extra type of risk that many beginners forget: currency risk.",
+   "start": 0.0,
+   "end": 8.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is an example.",
+   "start": 8.68,
+   "end": 9.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Imagine you invest one million yen in American stocks when one dollar is worth one hundred fifty yen.",
+   "start": 10.79,
+   "end": 17.43,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Your one million yen becomes about six thousand six hundred dollars.",
+   "start": 18.42,
+   "end": 22.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One year later, the stocks have not changed at all.",
+   "start": 23.97,
+   "end": 26.93,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "They are still worth six thousand six hundred dollars.",
+   "start": 27.68,
+   "end": 30.56,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "But now one dollar is worth only one hundred thirty yen.",
+   "start": 31.55,
+   "end": 35.47,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When you convert back to yen, you have about eight hundred sixty thousand yen.",
+   "start": 36.46,
+   "end": 40.86,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "You lost money, even though the stocks did not fall.",
+   "start": 41.77,
+   "end": 45.37,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The opposite can also happen.",
+   "start": 45.89,
+   "end": 47.73,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If the yen becomes weaker, your foreign investments become worth more in yen.",
+   "start": 48.56,
+   "end": 53.68,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In recent years, the weak yen has boosted the returns of many Japanese investors holding foreign assets.",
+   "start": 54.35,
+   "end": 61.15,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The value of one currency compared with another is called the exchange rate.",
+   "start": 61.67,
+   "end": 66.59,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It moves every day, influenced by interest rates, trade and economic news.",
+   "start": 67.22,
+   "end": 72.9,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Nobody can predict it reliably.",
+   "start": 73.33,
+   "end": 75.49,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some funds use currency hedging to reduce this risk.",
+   "start": 76.01,
+   "end": 79.29,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Hedging means using financial contracts to protect against currency movements.",
+   "start": 80.2,
+   "end": 84.84,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It makes returns more stable, but it has a cost.",
+   "start": 85.75,
+   "end": 89.43,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "For long-term investors, many experts suggest that holding a mix of domestic and foreign assets is reasonable.",
+   "start": 89.95,
+   "end": 97.23,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Currency movements can work for you or against you, but over decades, spreading your money across countries also spreads your risks.",
+   "start": 97.78,
+   "end": 106.22,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 241,
+ "duration": 106.1,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 79,
+ "created": "2026-10-04 00:02"
+}

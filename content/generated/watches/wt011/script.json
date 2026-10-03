@@ -1,0 +1,183 @@
+{
+ "id": "wt011",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Craft of Openworking",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "openworking",
+  "skeletonized",
+  "structural rigidity"
+ ],
+ "cast": {
+  "A": {
+   "name": "James",
+   "id": "qxTFXDYbGcR8GaHSjczg",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Some watches let you see straight through the dial. You can watch the wheels turning and the balance swinging, almost like looking inside a tiny machine. These are called openworked, or skeletonized, watches."
+  },
+  {
+   "speaker": "A",
+   "text": "Openworking means removing as much metal as possible from the movement while keeping it working. The craftsperson cuts away parts of the main plate and bridges, leaving only thin arms and frames. What remains is a delicate structure full of air and light."
+  },
+  {
+   "speaker": "A",
+   "text": "This sounds simple, but it is a real balance act. Every piece of metal in a movement has a job. It holds wheels in place and keeps them at the right distance. If you remove too much, the movement loses its structural rigidity. In other words, it becomes too weak and may bend slightly. Even a tiny bend can stop a watch."
+  },
+  {
+   "speaker": "A",
+   "text": "After the cutting, there is even more work. All the new edges need to be finished, often by hand. In the best pieces, every thin arm is beveled and polished, and sometimes engraved as well. Because there is so much visible surface, a single scratch is easy to see."
+  },
+  {
+   "speaker": "A",
+   "text": "Some people think skeleton watches are too busy and hard to read. Others love them as moving sculpture. Either way, a well-made openworked watch shows how much skill hides inside an ordinary movement."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Some watches let you see straight through the dial.",
+   "start": 0.0,
+   "end": 2.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "You can watch the wheels turning and the balance swinging, almost like looking inside a tiny machine.",
+   "start": 3.87,
+   "end": 10.27,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "These are called openworked, or skeletonized, watches.",
+   "start": 11.26,
+   "end": 15.26,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Openworking means removing as much metal as possible from the movement while keeping it working.",
+   "start": 15.78,
+   "end": 22.26,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The craftsperson cuts away parts of the main plate and bridges, leaving only thin arms and frames.",
+   "start": 22.69,
+   "end": 29.81,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "What remains is a delicate structure full of air and light.",
+   "start": 30.24,
+   "end": 34.88,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This sounds simple, but it is a real balance act.",
+   "start": 35.4,
+   "end": 39.64,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Every piece of metal in a movement has a job.",
+   "start": 40.19,
+   "end": 43.43,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It holds wheels in place and keeps them at the right distance.",
+   "start": 43.86,
+   "end": 47.94,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "If you remove too much, the movement loses its structural rigidity.",
+   "start": 48.37,
+   "end": 53.17,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In other words, it becomes too weak and may bend slightly.",
+   "start": 53.56,
+   "end": 57.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Even a tiny bend can stop a watch.",
+   "start": 58.27,
+   "end": 61.23,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "After the cutting, there is even more work.",
+   "start": 61.75,
+   "end": 64.55,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "All the new edges need to be finished, often by hand.",
+   "start": 65.54,
+   "end": 69.5,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "In the best pieces, every thin arm is beveled and polished, and sometimes engraved as well.",
+   "start": 70.21,
+   "end": 77.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Because there is so much visible surface, a single scratch is easy to see.",
+   "start": 78.08,
+   "end": 83.44,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some people think skeleton watches are too busy and hard to read.",
+   "start": 83.96,
+   "end": 88.52,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Others love them as moving sculpture.",
+   "start": 89.11,
+   "end": 91.75,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Either way, a well-made openworked watch shows how much skill hides inside an ordinary movement.",
+   "start": 92.42,
+   "end": 99.46,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 220,
+ "duration": 99.5,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:43"
+}

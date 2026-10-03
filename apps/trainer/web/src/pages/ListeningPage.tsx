@@ -198,7 +198,7 @@ function ItemResult({ it }: { it: ListeningItem }) {
   );
 }
 
-function DiffWord({ d }: { d: DiffToken }) {
+export function DiffWord({ d }: { d: DiffToken }) {
   if (d.status === "ok") return <span>{d.t} </span>;
   if (d.status === "missing") return <span className="d-missing" title="書き漏れ">{d.t} </span>;
   if (d.status === "extra") return <del title="余計な語">{d.heard} </del>;

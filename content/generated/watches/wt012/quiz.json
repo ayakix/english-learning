@@ -1,0 +1,114 @@
+{
+ "id": "wt012",
+ "author": "claude",
+ "summary_ja": "グラスヒュッテの時計では、テンプを押さえるテンプ受けに、手彫りの葉や花の模様が入っていることが多い。彫刻師は顕微鏡の下でビュランという道具を使い、機械に頼らずフリーハンドで彫るため、同じものは2つとない。持ち主にとって時計の署名のような存在。",
+ "listening": [
+  {
+   "q": "コレクターが最初に見る部品として話されているのは？",
+   "options": [
+    "リューズ",
+    "テンプ受け",
+    "ゼンマイ",
+    "針"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"it's called the balance cock. It holds the top of the balance wheel in place.\""
+  },
+  {
+   "q": "彫刻の方法として正しいものは？",
+   "options": [
+    "レーザーで焼く",
+    "型で押す",
+    "顕微鏡の下で、フリーハンドで彫る",
+    "機械で自動的に彫る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The engraver works under a microscope ... the cutting is done freehand.\""
+  },
+  {
+   "q": "見えにくい部品に手間をかける理由として B が言うのは？",
+   "options": [
+    "裏ぶたから毎日眺める持ち主にとって、人の手の証だから",
+    "精度が上がるから",
+    "値段を下げるため",
+    "法律で決まっているから"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"For them, that tiny engraved bridge is the signature of the watch. It shows a human being was there.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "それはテンプの上部を所定の位置に固定しています。",
+   "points_ja": "holds the の the は弱く、in place が「インプレイス」とつながります。"
+  },
+  {
+   "sentence": 14,
+   "ja": "彫刻師はすべての線を自分の手でコントロールします。",
+   "points_ja": "controls every がつながり、with their own の their は弱く短くなります。"
+  },
+  {
+   "sentence": 17,
+   "ja": "テンプ受けを2つ並べると、小さな違いが見えます。",
+   "points_ja": "put two の t はほとんど聞こえず、side by side は一気に「サイバイサイド」と聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の内容として最も適切なものは？",
+   "options": [
+    "テンプの仕組み",
+    "グラスヒュッテの地理",
+    "顕微鏡の選び方",
+    "手彫りのテンプ受けの作り方と、その意味"
+   ],
+   "answer": 3,
+   "explanation_ja": "彫刻の方法（ビュラン、フリーハンド）と、持ち主にとっての意味を話しています。"
+  },
+  {
+   "q": "burin とは？",
+   "options": [
+    "時計の部品",
+    "鋭い先端で金属に細い線を彫る小さな鋼の道具",
+    "磨き用の布",
+    "顕微鏡の種類"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"a small steel tool with a very sharp point that cuts tiny lines into the metal.\""
+  },
+  {
+   "q": "freehand の意味として会話に合うのは？",
+   "options": [
+    "下書きをしないこと",
+    "機械が道具を導かず、手だけで彫ること",
+    "両手を使うこと",
+    "無料で彫ること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That means there's no machine guiding the tool.\""
+  },
+  {
+   "q": "\"no two are exactly the same\" の理由は？",
+   "options": [
+    "色が違うから",
+    "一本一本手で彫るので、少しずつ違いが出るから",
+    "毎年デザインが変わるから",
+    "わざと違うデザインにしているから"
+   ],
+   "answer": 1,
+   "explanation_ja": "手で彫るため、並べると \"small differences\" が見えると言っています。"
+  },
+  {
+   "q": "\"the signature of the watch\" が意味するものは？",
+   "options": [
+    "ブランドのロゴ",
+    "製造番号",
+    "その時計らしさを示す、作り手の証",
+    "保証書のサイン"
+   ],
+   "answer": 2,
+   "explanation_ja": "人の手が関わった証であり、その時計の個性を表すものとして使われています。"
+  }
+ ]
+}

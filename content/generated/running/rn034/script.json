@@ -1,0 +1,243 @@
+{
+ "id": "rn034",
+ "author": "claude",
+ "category": "running",
+ "title": "The Science of the Race Taper",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "taper phase",
+  "training volume reduction",
+  "supercompensation"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In the last weeks before a marathon, many runners suddenly run much less. Isn't that risky?"
+  },
+  {
+   "speaker": "B",
+   "text": "It feels risky, but it's one of the best-supported strategies in endurance training. It's called the taper phase. You reduce your training so your body can fully recover and come to the start line fresh."
+  },
+  {
+   "speaker": "A",
+   "text": "How much do you reduce it?"
+  },
+  {
+   "speaker": "B",
+   "text": "Research often suggests a training volume reduction of about forty to sixty percent over one to three weeks. For a marathon, many runners taper for two to three weeks."
+  },
+  {
+   "speaker": "A",
+   "text": "Do you stop all hard training?"
+  },
+  {
+   "speaker": "B",
+   "text": "No, and that's an important point. You keep some intensity. A few short, fast sessions keep your legs sharp. You reduce the amount, not the quality."
+  },
+  {
+   "speaker": "A",
+   "text": "What actually happens in the body?"
+  },
+  {
+   "speaker": "B",
+   "text": "During hard training, you build fitness, but you also build fatigue that hides it. When you taper, the fatigue goes away faster than the fitness. Some people call this supercompensation. The body repairs and adapts, and you perform better."
+  },
+  {
+   "speaker": "A",
+   "text": "Do runners feel good during the taper?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not always. Many feel restless, heavy or worried that they're losing fitness. Runners joke about taper madness. But that's normal. Trust the plan, sleep well, and save your energy for race day."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In the last weeks before a marathon, many runners suddenly run much less.",
+   "start": 0.0,
+   "end": 4.72,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Isn't that risky?",
+   "start": 5.31,
+   "end": 6.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It feels risky, but it's one of the best-supported strategies in endurance training.",
+   "start": 7.23,
+   "end": 12.43,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It's called the taper phase.",
+   "start": 12.86,
+   "end": 15.02,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "You reduce your training so your body can fully recover and come to the start line fresh.",
+   "start": 15.45,
+   "end": 20.65,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How much do you reduce it?",
+   "start": 21.37,
+   "end": 23.21,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Research often suggests a training volume reduction of about forty to sixty percent over one to three weeks.",
+   "start": 23.93,
+   "end": 31.29,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "For a marathon, many runners taper for two to three weeks.",
+   "start": 31.72,
+   "end": 35.56,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Do you stop all hard training?",
+   "start": 36.28,
+   "end": 38.52,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "No, and that's an important point.",
+   "start": 39.24,
+   "end": 41.72,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "You keep some intensity.",
+   "start": 42.15,
+   "end": 43.99,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "A few short, fast sessions keep your legs sharp.",
+   "start": 44.42,
+   "end": 47.62,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "You reduce the amount, not the quality.",
+   "start": 48.05,
+   "end": 50.69,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "What actually happens in the body?",
+   "start": 51.41,
+   "end": 53.89,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "During hard training, you build fitness, but you also build fatigue that hides it.",
+   "start": 54.61,
+   "end": 60.29,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "When you taper, the fatigue goes away faster than the fitness.",
+   "start": 60.72,
+   "end": 64.64,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Some people call this supercompensation.",
+   "start": 65.07,
+   "end": 67.87,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "The body repairs and adapts, and you perform better.",
+   "start": 68.3,
+   "end": 71.58,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Do runners feel good during the taper?",
+   "start": 72.3,
+   "end": 74.86,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Not always.",
+   "start": 75.58,
+   "end": 76.46,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Many feel restless, heavy or worried that they're losing fitness.",
+   "start": 76.89,
+   "end": 81.37,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Runners joke about taper madness.",
+   "start": 82.2,
+   "end": 84.64,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "But that's normal.",
+   "start": 85.19,
+   "end": 86.23,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Trust the plan, sleep well, and save your energy for race day.",
+   "start": 86.9,
+   "end": 91.06,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 202,
+ "duration": 91.0,
+ "wpm": 133,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 64,
+ "created": "2026-10-03 23:57"
+}

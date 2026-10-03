@@ -1,0 +1,204 @@
+{
+ "id": "tc034",
+ "author": "claude",
+ "category": "tech",
+ "title": "Local Machine Learning on iOS with Core ML",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "Core ML",
+  "on-device inference",
+  "quantization"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Many apps now use machine learning to recognize images, understand speech or suggest text. Traditionally, this kind of work happened on powerful servers. The app would send data to the cloud and wait for an answer. Today, more and more of it can run directly on the iPhone, using a framework called Core ML."
+  },
+  {
+   "speaker": "A",
+   "text": "Running a trained model on the device itself is called on-device inference. Inference means using a model to make a prediction, such as deciding what object is in a photo."
+  },
+  {
+   "speaker": "A",
+   "text": "On-device inference has several big advantages. First, privacy. Photos and voice recordings never leave the user's phone. Second, speed. There is no waiting for the network, so results can appear almost instantly. Third, it works offline, on a plane or in the mountains. And finally, the developer does not pay for servers to run the model."
+  },
+  {
+   "speaker": "A",
+   "text": "The challenge is size and power. Large models can use a lot of memory and battery. One solution is quantization. A model stores millions of numbers. Normally, each number uses thirty-two bits. Quantization stores them with fewer bits, such as eight or even four. The model becomes much smaller and faster, often with only a small loss in accuracy."
+  },
+  {
+   "speaker": "A",
+   "text": "Modern iPhones also include a special chip called the Neural Engine, designed for this kind of work. With the right tools, even a solo developer can add impressive, private intelligence to an app."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Many apps now use machine learning to recognize images, understand speech or suggest text.",
+   "start": 0.0,
+   "end": 5.76,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Traditionally, this kind of work happened on powerful servers.",
+   "start": 6.59,
+   "end": 10.03,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The app would send data to the cloud and wait for an answer.",
+   "start": 10.62,
+   "end": 13.42,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, more and more of it can run directly on the iPhone, using a framework called Core ML.",
+   "start": 14.25,
+   "end": 20.25,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Running a trained model on the device itself is called on-device inference.",
+   "start": 20.77,
+   "end": 25.33,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Inference means using a model to make a prediction, such as deciding what object is in a photo.",
+   "start": 26.24,
+   "end": 31.68,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "On-device inference has several big advantages.",
+   "start": 32.2,
+   "end": 34.92,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "First, privacy.",
+   "start": 35.59,
+   "end": 36.87,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Photos and voice recordings never leave the user's phone.",
+   "start": 37.62,
+   "end": 40.86,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Second, speed.",
+   "start": 41.49,
+   "end": 42.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "There is no waiting for the network, so results can appear almost instantly.",
+   "start": 43.44,
+   "end": 47.28,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Third, it works offline, on a plane or in the mountains.",
+   "start": 48.03,
+   "end": 51.63,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "And finally, the developer does not pay for servers to run the model.",
+   "start": 52.38,
+   "end": 56.38,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The challenge is size and power.",
+   "start": 56.9,
+   "end": 59.14,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Large models can use a lot of memory and battery.",
+   "start": 59.97,
+   "end": 63.33,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "One solution is quantization.",
+   "start": 63.76,
+   "end": 65.76,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A model stores millions of numbers.",
+   "start": 66.19,
+   "end": 68.43,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Normally, each number uses thirty-two bits.",
+   "start": 68.86,
+   "end": 71.74,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Quantization stores them with fewer bits, such as eight or even four.",
+   "start": 72.21,
+   "end": 76.49,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The model becomes much smaller and faster, often with only a small loss in accuracy.",
+   "start": 76.92,
+   "end": 81.88,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Modern iPhones also include a special chip called the Neural Engine, designed for this kind of work.",
+   "start": 82.4,
+   "end": 88.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "With the right tools, even a solo developer can add impressive, private intelligence to an app.",
+   "start": 88.75,
+   "end": 94.11,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 94.0,
+ "wpm": 148,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:54"
+}

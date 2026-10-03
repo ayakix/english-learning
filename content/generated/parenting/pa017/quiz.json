@@ -1,0 +1,114 @@
+{
+ "id": "pa017",
+ "author": "claude",
+ "summary_ja": "入園や入学で親が離れると泣く子は多く、これは分離不安と呼ばれ普通のこと。最良の方法は短く予測できる「お別れのルーティン」（ハグ2回、ハイタッチ、「お昼の後にね」など）。長いお別れは逆効果で、親の不安が伝わる。遊んでいる間にこっそり去ると信頼を損なうので、涙があってもはっきり別れを告げる。事前に話す、一緒に見学する、本を読む、家の小さなお守りを持たせるのも有効。多くは数日〜数週間。",
+ "listening": [
+  {
+   "q": "separation anxiety とは？",
+   "options": [
+    "新しい場所で親と離れることへの不安",
+    "勉強の不安",
+    "引っ越しの不安",
+    "友だちと遊べないこと"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Young children are strongly attached to their parents, so being apart in a new place can feel scary.\""
+  },
+  {
+   "q": "こっそり去ることを専門家が勧めない理由は？",
+   "options": [
+    "規則違反だから",
+    "時間がかかるから",
+    "急に親がいないと気づき、親を信頼できなくなるかもしれないから",
+    "先生が困るから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The child may suddenly notice the parent is gone and feel they can't trust them.\""
+  },
+  {
+   "q": "泣くのは親が去ってからどれくらいで止まることが多い？",
+   "options": [
+    "数分後",
+    "数時間後",
+    "1週間後",
+    "次の日"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"teachers often say the crying stops just a few minutes after the parent leaves.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 10,
+   "ja": "毎日同じやり方をすることで、子どもは安心できます。",
+   "points_ja": "Doing it the same way がつながり、helps the child feel secure が続けて聞こえます。"
+  },
+  {
+   "sentence": 14,
+   "ja": "親が残って心配そうな顔をすると、子どもは何かがおかしいと感じ取ります。",
+   "points_ja": "stays and looks worried が続き、something is wrong がつながります。"
+  },
+  {
+   "sentence": 21,
+   "ja": "始まる前に新しい場所について話したり、一緒に見学したり、学校の本を読んだりすることです。",
+   "points_ja": "Talking about the new place が続き、visiting together and reading が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "学校の選び方",
+    "子どもの泣き方",
+    "入園・入学時の分離不安と、それをやわらげる方法",
+    "先生の仕事"
+   ],
+   "answer": 2,
+   "explanation_ja": "お別れのルーティン、短さ、こっそり去ることの問題、準備について話しています。"
+  },
+  {
+   "q": "goodbye routine の例として挙げられているのは？",
+   "options": [
+    "お菓子をあげる",
+    "何も言わずに去る",
+    "長い話し合い",
+    "ハグ2回、ハイタッチ、「お昼の後にね」"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"For example, two hugs, a high five and 'See you after lunch.'\""
+  },
+  {
+   "q": "長いお別れが逆効果になる理由は？",
+   "options": [
+    "他の子が泣くから",
+    "時間が足りないから",
+    "親が残って心配そうにすると、子どもが何かおかしいと感じるから",
+    "先生が怒るから"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"When the parent stays and looks worried, the child senses that something is wrong.\""
+  },
+  {
+   "q": "移行を助けることとして挙げられていないものは？",
+   "options": [
+    "事前に新しい場所の話をする",
+    "一緒に見学する",
+    "家の小さなお守りを持たせる",
+    "毎日休ませる"
+   ],
+   "answer": 3,
+   "explanation_ja": "話す、見学、本、お守りが挙げられています。"
+  },
+  {
+   "q": "分離不安が続く期間の目安は？",
+   "options": [
+    "多くの子は数日〜数週間",
+    "一生",
+    "1年",
+    "1時間"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"For most children, a few days or weeks.\""
+  }
+ ]
+}

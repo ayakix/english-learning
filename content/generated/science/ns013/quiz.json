@@ -1,0 +1,114 @@
+{
+ "id": "ns013",
+ "author": "claude",
+ "summary_ja": "体はウイルスや細菌から自分を守っている（免疫系）。新しい病原体が入ると、免疫系は表面の抗原を見分けて抗体を作るが数日かかり、その間に重症になることも。感染後には病原体を覚える記憶細胞が残り、次は素早く強く反応できる。ワクチンは本当の病気の危険なしにこの記憶を作る。弱めた病原体、一部だけ、mRNA で無害なたんぱく質を作らせるものなどがある。接種が広がると広まりにくくなり、赤ちゃんなども守る。",
+ "listening": [
+  {
+   "q": "ワクチンの働きとして話されているのは？",
+   "options": [
+    "本当の感染の前に、免疫系に練習させる",
+    "栄養を与える",
+    "熱を下げる",
+    "病原体を直接殺す"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Vaccines work by giving the immune system a chance to practice before it meets a real infection.\""
+  },
+  {
+   "q": "感染後に残り、次の反応を速くするものは？",
+   "options": [
+    "抗原",
+    "記憶細胞",
+    "赤血球",
+    "ウイルス"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"The immune system keeps memory cells that remember the germ.\""
+  },
+  {
+   "q": "多くの人が接種するとどうなる？",
+   "options": [
+    "ワクチンが効かなくなる",
+    "病気が広まりにくくなり、接種できない人も守られる",
+    "変化はない",
+    "病気が強くなる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"When many people are vaccinated, it also becomes harder for a disease to spread. This protects people who cannot be vaccinated\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "この防御の仕組みは免疫系と呼ばれます。",
+   "points_ja": "defense system is called the が一続きに聞こえます。"
+  },
+  {
+   "sentence": 5,
+   "ja": "それらを見分けると、抗体を作ります。",
+   "points_ja": "Once it recognizes them が続き、produces antibodies がつながります。"
+  },
+  {
+   "sentence": 18,
+   "ja": "腕の痛みや軽い熱などの副反応は、免疫系が反応している印であることが多いです。",
+   "points_ja": "such as a sore arm が続き、signs that the immune system が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "免疫系は生まれつき完成している",
+    "副反応は危険な印",
+    "ワクチンは病気を治す薬",
+    "ワクチンは本当の病気の危険なしに、免疫系に病原体を覚えさせる"
+   ],
+   "answer": 3,
+   "explanation_ja": "免疫の仕組み、記憶、ワクチンの種類、集団での効果を説明しています。"
+  },
+  {
+   "q": "antigens とは？",
+   "options": [
+    "血液の一種",
+    "薬の名前",
+    "免疫系が見分ける病原体の表面の特別な部分",
+    "体を守るたんぱく質"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"It looks for special parts on the surface of the germ, called antigens.\""
+  },
+  {
+   "q": "antibodies の働きは？",
+   "options": [
+    "病原体を運ぶ",
+    "熱を出す",
+    "病原体にくっついて、それを壊すのを助けるたんぱく質",
+    "細胞を作る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"These are proteins that attach to the germ and help destroy it.\""
+  },
+  {
+   "q": "mRNA ワクチンの仕組みは？",
+   "options": [
+    "弱めたウイルスを入れる",
+    "ウイルスの一部に似た無害なたんぱく質を作る指示を体に与える",
+    "ウイルスを殺す薬を入れる",
+    "抗体を直接入れる"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Newer mRNA vaccines give the body instructions to make a harmless protein that looks like part of the virus.\""
+  },
+  {
+   "q": "副反応についての説明は？",
+   "options": [
+    "免疫系が反応している印であることが多い",
+    "ワクチンが失敗した印",
+    "危険な印",
+    "必ず病気になる印"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"are often signs that the immune system is responding.\""
+  }
+ ]
+}

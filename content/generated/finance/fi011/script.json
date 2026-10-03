@@ -1,0 +1,236 @@
+{
+ "id": "fi011",
+ "author": "claude",
+ "category": "finance",
+ "title": "Staying Calm When the Market Falls",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "market crash",
+  "panic selling",
+  "recovery"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every few years, the stock market falls sharply. What should investors do when that happens?"
+  },
+  {
+   "speaker": "B",
+   "text": "Often, the best action is no action. A market crash feels scary, and the news makes it even scarier. But selling in a panic is one of the most damaging mistakes investors make."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is panic selling so bad?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because you lock in your losses. If you sell after prices have fallen, and then the market recovers, you miss the recovery. Many of the best days in the market come shortly after the worst days."
+  },
+  {
+   "speaker": "A",
+   "text": "Has the market always recovered?"
+  },
+  {
+   "speaker": "B",
+   "text": "Broad markets have recovered from every major crash so far, although sometimes it took many years. In twenty twenty, for example, global stocks fell very quickly at the start of the pandemic, and then recovered within months. But there's no guarantee about how long a recovery will take."
+  },
+  {
+   "speaker": "A",
+   "text": "How can people stay calm?"
+  },
+  {
+   "speaker": "B",
+   "text": "Preparation is key. Have an emergency fund, so you don't need to sell. Choose a level of risk you can live with. And remind yourself why you invested in the first place, usually for goals many years away."
+  },
+  {
+   "speaker": "A",
+   "text": "Is a crash ever an opportunity?"
+  },
+  {
+   "speaker": "B",
+   "text": "For long-term investors, it can be. If you keep investing regularly, you buy more shares at lower prices. Some people even say, 'Prices are on sale.' It just doesn't feel that way at the time."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every few years, the stock market falls sharply.",
+   "start": 0.0,
+   "end": 3.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What should investors do when that happens?",
+   "start": 4.27,
+   "end": 6.83,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Often, the best action is no action.",
+   "start": 7.55,
+   "end": 10.75,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "A market crash feels scary, and the news makes it even scarier.",
+   "start": 11.58,
+   "end": 15.74,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "But selling in a panic is one of the most damaging mistakes investors make.",
+   "start": 16.33,
+   "end": 20.73,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Why is panic selling so bad?",
+   "start": 21.45,
+   "end": 24.01,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Because you lock in your losses.",
+   "start": 24.81,
+   "end": 26.97,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "If you sell after prices have fallen, and then the market recovers, you miss the recovery.",
+   "start": 27.52,
+   "end": 33.24,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Many of the best days in the market come shortly after the worst days.",
+   "start": 33.71,
+   "end": 37.83,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Has the market always recovered?",
+   "start": 38.55,
+   "end": 40.71,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Broad markets have recovered from every major crash so far, although sometimes it took many years.",
+   "start": 41.43,
+   "end": 48.15,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "In twenty twenty, for example, global stocks fell very quickly at the start of the pandemic, and then recovered within months.",
+   "start": 48.58,
+   "end": 56.02,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But there's no guarantee about how long a recovery will take.",
+   "start": 56.45,
+   "end": 60.05,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "How can people stay calm?",
+   "start": 60.77,
+   "end": 62.77,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Preparation is key.",
+   "start": 63.49,
+   "end": 65.33,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Have an emergency fund, so you don't need to sell.",
+   "start": 65.92,
+   "end": 68.64,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Choose a level of risk you can live with.",
+   "start": 69.47,
+   "end": 71.47,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "And remind yourself why you invested in the first place, usually for goals many years away.",
+   "start": 72.22,
+   "end": 78.14,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Is a crash ever an opportunity?",
+   "start": 78.86,
+   "end": 81.34,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "For long-term investors, it can be.",
+   "start": 82.06,
+   "end": 84.62,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "If you keep investing regularly, you buy more shares at lower prices.",
+   "start": 85.45,
+   "end": 89.85,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "Some people even say, 'Prices are on sale.'",
+   "start": 90.68,
+   "end": 93.32,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It just doesn't feel that way at the time.",
+   "start": 94.07,
+   "end": 96.47,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 227,
+ "duration": 96.4,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-04 00:02"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "av009",
+ "author": "claude",
+ "summary_ja": "パイロットは管制の指示（特に管制承認）の高度・針路・滑走路などを復唱する（リードバック）。管制官はそれを聞いて正しいか確認する（ヒアバック）。無線は聞き間違いやすく、two thousand と ten thousand のような誤りを見つけられる。ただし思い込みで誤りを聞き逃すこともあり、似たコールサインも危険なので、復唱には必ず自分のコールサインを入れる。",
+ "listening": [
+  {
+   "q": "readback とは？",
+   "options": [
+    "パイロットが管制の指示の要点を繰り返すこと",
+    "飛行計画を読むこと",
+    "天気予報を聞くこと",
+    "管制官が指示を読み上げること"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"When a controller gives an instruction ... the pilot repeats the key parts back.\""
+  },
+  {
+   "q": "hearback とは？",
+   "options": [
+    "乗客のアナウンス",
+    "パイロットが音楽を聞くこと",
+    "録音を聞き直すこと",
+    "管制官がリードバックを聞いて正しいか確認すること"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The controller listens carefully to the readback and confirms it's correct.\""
+  },
+  {
+   "q": "パイロットが復唱に必ずコールサインを入れる理由は？",
+   "options": [
+    "誰が答えているかをはっきりさせるため",
+    "管制官を呼ぶため",
+    "時間を延ばすため",
+    "規則で名前を言うため"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"pilots always include their call sign in the readback. It shows exactly who is answering.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 6,
+   "ja": "数秒かかりますが、重大なミスを防ぎます。",
+   "points_ja": "takes a few が「テイクサフュー」、prevents serious の s が重なります。"
+  },
+  {
+   "sentence": 14,
+   "ja": "何か間違っていれば、管制官はすぐに訂正します。",
+   "points_ja": "something is wrong がつながり、corrects it right away が「コレクツィットライタウェイ」と聞こえます。"
+  },
+  {
+   "sentence": 17,
+   "ja": "しかし、それは両者が本当に注意を払ってこそ機能します。",
+   "points_ja": "only works if がつながり、pay attention が「ペイアテンション」と続きます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "この会話の主旨は？",
+   "options": [
+    "リードバックとヒアバックによる二重の安全確認と、その弱点",
+    "空港の歴史",
+    "無線機の使い方",
+    "管制官になる方法"
+   ],
+   "answer": 0,
+   "explanation_ja": "仕組みと、思い込みや似たコールサインという弱点を話しています。"
+  },
+  {
+   "q": "忙しい周波数で時間の無駄ではないかという問いへの答えは？",
+   "options": [
+    "時間はかからない",
+    "数秒かかるが、重大なミスを防ぐ",
+    "確かに無駄なのでやめるべき",
+    "管制官は気にしない"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"It takes a few seconds, but it prevents serious mistakes.\""
+  },
+  {
+   "q": "expectation（思い込み）の問題とは？",
+   "options": [
+    "パイロットが疲れること",
+    "正しい復唱を期待していると、小さな誤りに気づかないことがある",
+    "無線が混雑すること",
+    "天気が変わること"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"If a controller expects a correct readback, they might not notice a small error.\""
+  },
+  {
+   "q": "似たコールサインの例として挙げられているのは？",
+   "options": [
+    "123 と 789",
+    "100 と 200",
+    "456 と 465",
+    "7700 と 7600"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"'four five six' and 'four six five'\"。"
+  },
+  {
+   "q": "air traffic clearance の意味に近いのは？",
+   "options": [
+    "乗客の名簿",
+    "空港の清掃",
+    "天気の情報",
+    "管制からの承認・許可"
+   ],
+   "answer": 3,
+   "explanation_ja": "復唱の対象となる、管制からの指示・承認を指しています。"
+  }
+ ]
+}

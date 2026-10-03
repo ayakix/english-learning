@@ -1,0 +1,250 @@
+{
+ "id": "av009",
+ "author": "claude",
+ "category": "aviation",
+ "title": "Understanding the Readback and Hearback Process",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "readback",
+  "hearback",
+  "air traffic clearance"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When you listen to air traffic control, pilots seem to repeat almost everything the controller says. Why is that?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's called a readback. When a controller gives an instruction, especially an air traffic clearance, the pilot repeats the key parts back. For example, the altitude, the heading or the runway."
+  },
+  {
+   "speaker": "A",
+   "text": "Isn't it a waste of time on a busy frequency?"
+  },
+  {
+   "speaker": "B",
+   "text": "It takes a few seconds, but it prevents serious mistakes. Radio messages can be unclear. A pilot might hear 'two thousand' when the controller said 'ten thousand.' The readback makes those mistakes visible."
+  },
+  {
+   "speaker": "A",
+   "text": "And then the controller has to check it."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. That's the hearback. The controller listens carefully to the readback and confirms it's correct. If something is wrong, the controller corrects it right away."
+  },
+  {
+   "speaker": "A",
+   "text": "So it's a two-way safety check."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. But it only works if both sides really pay attention. One known problem is expectation. If a controller expects a correct readback, they might not notice a small error."
+  },
+  {
+   "speaker": "A",
+   "text": "Are there other risks?"
+  },
+  {
+   "speaker": "B",
+   "text": "Similar call signs are a big one. If two flights have names like 'four five six' and 'four six five,' a pilot might accept an instruction meant for the other plane. That's why pilots always include their call sign in the readback. It shows exactly who is answering."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When you listen to air traffic control, pilots seem to repeat almost everything the controller says.",
+   "start": 0.0,
+   "end": 6.08,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Why is that?",
+   "start": 6.51,
+   "end": 7.55,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That's called a readback.",
+   "start": 8.27,
+   "end": 10.11,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "When a controller gives an instruction, especially an air traffic clearance, the pilot repeats the key parts back.",
+   "start": 10.7,
+   "end": 17.42,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "For example, the altitude, the heading or the runway.",
+   "start": 18.17,
+   "end": 22.01,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Isn't it a waste of time on a busy frequency?",
+   "start": 22.73,
+   "end": 25.93,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "It takes a few seconds, but it prevents serious mistakes.",
+   "start": 26.73,
+   "end": 31.13,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Radio messages can be unclear.",
+   "start": 31.64,
+   "end": 33.88,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "A pilot might hear 'two thousand' when the controller said 'ten thousand.'",
+   "start": 34.31,
+   "end": 38.95,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The readback makes those mistakes visible.",
+   "start": 39.34,
+   "end": 41.86,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And then the controller has to check it.",
+   "start": 42.58,
+   "end": 45.14,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 45.94,
+   "end": 46.86,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's the hearback.",
+   "start": 47.41,
+   "end": 48.77,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "The controller listens carefully to the readback and confirms it's correct.",
+   "start": 49.36,
+   "end": 53.84,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "If something is wrong, the controller corrects it right away.",
+   "start": 54.43,
+   "end": 58.03,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So it's a two-way safety check.",
+   "start": 58.75,
+   "end": 61.07,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Right.",
+   "start": 61.79,
+   "end": 62.27,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "But it only works if both sides really pay attention.",
+   "start": 63.02,
+   "end": 66.7,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "One known problem is expectation.",
+   "start": 67.37,
+   "end": 69.85,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "If a controller expects a correct readback, they might not notice a small error.",
+   "start": 70.44,
+   "end": 75.48,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Are there other risks?",
+   "start": 76.2,
+   "end": 77.8,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Similar call signs are a big one.",
+   "start": 78.52,
+   "end": 80.76,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "If two flights have names like 'four five six' and 'four six five,' a pilot might accept an instruction meant for the other plane.",
+   "start": 81.19,
+   "end": 90.07,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "That's why pilots always include their call sign in the readback.",
+   "start": 90.66,
+   "end": 94.18,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "It shows exactly who is answering.",
+   "start": 94.93,
+   "end": 97.33,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 214,
+ "duration": 97.2,
+ "wpm": 132,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:51"
+}

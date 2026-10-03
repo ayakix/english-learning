@@ -1,0 +1,169 @@
+{
+ "id": "wt030",
+ "author": "claude",
+ "category": "watches",
+ "title": "Safe Storage and Desiccants",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "silica gel",
+  "desiccant",
+  "relative humidity"
+ ],
+ "cast": {
+  "A": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Watches are made of metal and glass, so it is easy to think they are not affected by the environment. But humidity, sunlight and temperature changes can slowly cause problems, especially for watches you do not wear often."
+  },
+  {
+   "speaker": "A",
+   "text": "The main enemy is moisture in the air. Scientists describe it as relative humidity. It is the amount of water vapor in the air, compared to the maximum the air can hold at that temperature. When humidity is high, moisture can slowly get past old gaskets. Inside the case, it can cause rust on steel parts or marks on the dial."
+  },
+  {
+   "speaker": "A",
+   "text": "A simple solution is a desiccant. A desiccant is a material that absorbs moisture. The most common one is silica gel, which you often find in small packets in new shoes or electronics. Placing a packet in your watch box helps keep the air dry. Some packets change color when they are full, so you know when to replace or dry them."
+  },
+  {
+   "speaker": "A",
+   "text": "However, more is not always better. Extremely dry air can harden leather straps and rubber gaskets. Many collectors aim for a moderate level, around forty to fifty percent humidity."
+  },
+  {
+   "speaker": "A",
+   "text": "Finally, keep your collection out of direct sunlight, which can fade dials and straps, and away from magnets and big temperature changes. A quiet, dark drawer is often the best place."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Watches are made of metal and glass, so it is easy to think they are not affected by the environment.",
+   "start": 0.0,
+   "end": 6.16,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But humidity, sunlight and temperature changes can slowly cause problems, especially for watches you do not wear often.",
+   "start": 6.59,
+   "end": 14.27,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The main enemy is moisture in the air.",
+   "start": 14.79,
+   "end": 17.27,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists describe it as relative humidity.",
+   "start": 18.1,
+   "end": 20.82,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It is the amount of water vapor in the air, compared to the maximum the air can hold at that temperature.",
+   "start": 21.65,
+   "end": 27.09,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When humidity is high, moisture can slowly get past old gaskets.",
+   "start": 28.0,
+   "end": 32.56,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Inside the case, it can cause rust on steel parts or marks on the dial.",
+   "start": 33.39,
+   "end": 38.11,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A simple solution is a desiccant.",
+   "start": 38.63,
+   "end": 40.79,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A desiccant is a material that absorbs moisture.",
+   "start": 41.22,
+   "end": 44.58,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The most common one is silica gel, which you often find in small packets in new shoes or electronics.",
+   "start": 45.33,
+   "end": 51.53,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Placing a packet in your watch box helps keep the air dry.",
+   "start": 52.16,
+   "end": 55.6,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some packets change color when they are full, so you know when to replace or dry them.",
+   "start": 56.43,
+   "end": 61.31,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "However, more is not always better.",
+   "start": 61.83,
+   "end": 64.71,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Extremely dry air can harden leather straps and rubber gaskets.",
+   "start": 65.46,
+   "end": 69.78,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many collectors aim for a moderate level, around forty to fifty percent humidity.",
+   "start": 70.37,
+   "end": 75.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Finally, keep your collection out of direct sunlight, which can fade dials and straps, and away from magnets and big temperature changes.",
+   "start": 76.09,
+   "end": 84.73,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A quiet, dark drawer is often the best place.",
+   "start": 85.32,
+   "end": 88.68,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 221,
+ "duration": 88.6,
+ "wpm": 150,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 68,
+ "created": "2026-10-03 23:45"
+}

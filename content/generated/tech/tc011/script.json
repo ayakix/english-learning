@@ -1,0 +1,187 @@
+{
+ "id": "tc011",
+ "author": "claude",
+ "category": "tech",
+ "title": "Finding Product-Market Fit as a Solo Dev",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "Product-Market Fit",
+  "niche market",
+  "rapid prototyping"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Every app developer dreams of building something people love. In the startup world, there is a name for the moment when that happens: product-market fit. It means your product clearly solves a real problem for a specific group of people, and they want it badly enough to keep using it and tell others."
+  },
+  {
+   "speaker": "A",
+   "text": "For a solo developer, finding product-market fit is especially important, because time and energy are limited. One common mistake is trying to serve everyone. A general notes app competes with giants. A notes app designed only for climbers or nurses has a much better chance."
+  },
+  {
+   "speaker": "A",
+   "text": "This is the idea of a niche market, a small but clearly defined group of users with special needs. In a niche, you can understand people deeply, and they are more likely to notice and recommend your app."
+  },
+  {
+   "speaker": "A",
+   "text": "The next key is rapid prototyping. Instead of spending a year building the perfect app, build a simple version quickly, maybe in a few weeks. Show it to real users. Watch how they use it and listen to what frustrates them. Then improve it, again and again."
+  },
+  {
+   "speaker": "A",
+   "text": "How do you know you are getting close? Look at retention, meaning how many people come back after a week or a month. Look for users who are upset when something breaks, and users who recommend the app without being asked."
+  },
+  {
+   "speaker": "A",
+   "text": "When those signals appear, you are not just building an app anymore. You are building something people need."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Every app developer dreams of building something people love.",
+   "start": 0.0,
+   "end": 4.32,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In the startup world, there is a name for the moment when that happens: product-market fit.",
+   "start": 4.71,
+   "end": 10.75,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It means your product clearly solves a real problem for a specific group of people, and they want it badly enough to keep using it and tell others.",
+   "start": 11.18,
+   "end": 19.98,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "For a solo developer, finding product-market fit is especially important, because time and energy are limited.",
+   "start": 20.5,
+   "end": 27.78,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "One common mistake is trying to serve everyone.",
+   "start": 28.61,
+   "end": 31.89,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A general notes app competes with giants.",
+   "start": 32.32,
+   "end": 35.44,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A notes app designed only for climbers or nurses has a much better chance.",
+   "start": 35.87,
+   "end": 40.51,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This is the idea of a niche market, a small but clearly defined group of users with special needs.",
+   "start": 41.03,
+   "end": 47.67,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "In a niche, you can understand people deeply, and they are more likely to notice and recommend your app.",
+   "start": 48.34,
+   "end": 54.58,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The next key is rapid prototyping.",
+   "start": 55.1,
+   "end": 57.58,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of spending a year building the perfect app, build a simple version quickly, maybe in a few weeks.",
+   "start": 58.57,
+   "end": 65.05,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Show it to real users.",
+   "start": 65.72,
+   "end": 67.4,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Watch how they use it and listen to what frustrates them.",
+   "start": 67.99,
+   "end": 71.27,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Then improve it, again and again.",
+   "start": 71.7,
+   "end": 74.66,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "How do you know you are getting close?",
+   "start": 75.18,
+   "end": 76.732,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Look at retention, meaning how many people come back after a week or a month.",
+   "start": 77.178,
+   "end": 83.33,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Look for users who are upset when something breaks, and users who recommend the app without being asked.",
+   "start": 84.04,
+   "end": 90.52,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "When those signals appear, you are not just building an app anymore.",
+   "start": 91.04,
+   "end": 95.12,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "You are building something people need.",
+   "start": 95.55,
+   "end": 97.87,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 242,
+ "duration": 97.8,
+ "wpm": 148,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 75,
+ "created": "2026-10-03 23:53"
+}

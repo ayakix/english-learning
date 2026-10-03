@@ -1,0 +1,114 @@
+{
+ "id": "ns005",
+ "author": "claude",
+ "summary_ja": "クマムシ（水の熊）は約0.5mmで、顕微鏡では8本足の小さく丸い熊のよう。苔や土、深海、山などどこにでもいる。乾燥すると脚を縮めて体の水分をほぼ失い、「樽（tun）」と呼ばれる休眠状態になって代謝がほぼ止まる。この状態で絶対零度近くの寒さ、短時間の高温、強い放射線、大きな圧力に耐える。2007年には宇宙の真空にさらされても生き残った。活動中は弱い。",
+ "listening": [
+  {
+   "q": "クマムシの大きさは？",
+   "options": [
+    "約5m",
+    "約50cm",
+    "約5cm",
+    "約0.5mm"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Tardigrades ... are only about half a millimeter long.\""
+  },
+  {
+   "q": "乾燥したときにクマムシがすることは？",
+   "options": [
+    "脚を縮め、体の水分をほぼ失って、乾いた小さな玉になる",
+    "卵を産む",
+    "水を探して歩く",
+    "穴を掘る"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"They pull in their legs, lose almost all the water in their bodies and curl into a small, dry ball called a tun.\""
+  },
+  {
+   "q": "2007年の実験で分かったことは？",
+   "options": [
+    "すべて死んだ",
+    "宇宙の真空にさらされても一部が生き残り、のちに健康な子を産んだ",
+    "地球に戻れなかった",
+    "宇宙で大きくなった"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Some of them survived and later had healthy babies.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 2,
+   "ja": "顕微鏡で見ると、8本足の小さく丸々とした熊のように見えます。",
+   "points_ja": "look like tiny がつながり、bears with eight legs が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "この状態では、代謝がほとんど止まります。",
+   "points_ja": "In this state が続き、metabolism almost stops がつながります。"
+  },
+  {
+   "sentence": 13,
+   "ja": "しかし、本当に不死身というわけではありません。",
+   "points_ja": "they are not truly が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "クマムシは休眠状態になることで、極端な環境に耐える",
+    "クマムシはいつでも不死身",
+    "クマムシは大きな動物",
+    "クマムシは宇宙に住んでいる"
+   ],
+   "answer": 0,
+   "explanation_ja": "クマムシの特徴、休眠、耐えられる条件、限界を説明しています。"
+  },
+  {
+   "q": "クマムシが住む場所として挙げられていないものは？",
+   "options": [
+    "土",
+    "苔",
+    "火山の溶岩の中",
+    "深海"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"in moss, in soil, in the deep sea and on mountains.\""
+  },
+  {
+   "q": "dormant state の説明として合うのは？",
+   "options": [
+    "代謝がほぼ止まった休眠の状態",
+    "死んだ状態",
+    "成長している状態",
+    "とても活発な状態"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"In this state, their metabolism almost stops.\""
+  },
+  {
+   "q": "tun の状態で耐えられるものとして挙げられていないものは？",
+   "options": [
+    "絶対零度近くの寒さ",
+    "強い放射線",
+    "長時間の燃える火",
+    "大きな圧力"
+   ],
+   "answer": 2,
+   "explanation_ja": "高温は \"for short periods\" で、長時間の火ではありません。"
+  },
+  {
+   "q": "科学者がクマムシを研究する理由として書かれているのは？",
+   "options": [
+    "宇宙人だから",
+    "ペットとして売るため",
+    "食べ物になるから",
+    "生き残る仕組みが、将来薬や人の細胞を守るのに役立つかもしれないから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"their survival tricks may help protect medicines, or even human cells, in the future.\""
+  }
+ ]
+}

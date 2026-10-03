@@ -1,0 +1,747 @@
+{
+  "id": "20261003-222231",
+  "skill": "voa",
+  "created": "2026-10-03 22:22",
+  "title": "NASA to Launch Instruments to Study Water on Moon",
+  "result": {
+    "score": 86,
+    "details": {
+      "listening": "3/3",
+      "dictation": 72,
+      "replays": 13,
+      "reading": "3/5",
+      "wpm": 7782
+    }
+  },
+  "source": {
+    "site": "VOA Learning English",
+    "url": "https://learningenglish.voanews.com/a/nasa-to-launch-instrument-to-study-water-on-moon/7846588.html",
+    "title": "NASA to Launch Instruments to Study Water on Moon",
+    "published": "2024-11-03",
+    "credit": "Bryan Lynn wrote this story for VOA Learning English, based on reports from NASA.",
+    "license": "public-domain",
+    "audio_url": "https://voa-audio.voanews.eu/vle/2024/11/01/247f2ae5-6cc1-4fc8-9828-c8c03318aaf4_hq.mp3",
+    "zone": "science"
+  },
+  "paragraphs": [
+    {
+      "text": "The American space agency NASA is preparing to launch a spacecraft to seek more detailed information on water sources on the moon.",
+      "heading": false
+    },
+    {
+      "text": "The spacecraft is an orbiter called Lunar Trailblazer. It is set to launch later this year, or in early 2025. A SpaceX Falcon 9 rocket will carry the orbiter to space. That rocket will also transport another moon exploring spacecraft.",
+      "heading": false
+    },
+    {
+      "text": "In a recent statement, NASA said Lunar Trailblazer passed a series of important operational tests. It is currently completing additional software testing designed to simulate different elements of the trip, or mission.",
+      "heading": false
+    },
+    {
+      "text": "NASA’s Jet Propulsion Laboratory (JPL) is leading the mission, in cooperation with the California Institute of Technology (Caltech) in Pasadena, California. Lockheed Martin Space provided the spacecraft, linked it with the flight system, and supports operations as part of a contract with Caltech.",
+      "heading": false
+    },
+    {
+      "text": "The spacecraft will use two science instruments to carry out its mission. Both instruments are designed to map the moon in search of areas containing water, as well as what forms the water is in. The two instruments use infrared technology to produce highly detailed mapped images.",
+      "heading": false
+    },
+    {
+      "text": "Lunar Trailblazer weighs about 200 kilograms and measures 3.5 meters with its solar equipment fully deployed. The spacecraft is set to orbit the moon about 100 kilometers from the lunar surface.",
+      "heading": false
+    },
+    {
+      "text": "Several past studies have provided strong evidence that water exists on the moon. But the evidence has not included exact details on where it is and what forms it might take. Scientists believe most of the water is solid, in the form of ice. But there could be areas where water exists in liquid form, or as a gas in the atmosphere.",
+      "heading": false
+    },
+    {
+      "text": "One study released last month suggested that existing water on the moon is more widespread than previously thought. That study was based on new examinations of data collected by India’s Chandrayaan-1 orbiting spacecraft.",
+      "heading": false
+    },
+    {
+      "text": "NASA has said its search for water on the moon is important because it is seen as a necessary resource for future exploration activities. Astronauts could process it for drinking water, to cool equipment, to create breathable oxygen or even to make rocket fuel.",
+      "heading": false
+    },
+    {
+      "text": "NASA said Lunar Trailblazer will make it easier for future human or robotic science investigators to use the water to see where it first came from.",
+      "heading": false
+    },
+    {
+      "text": "For example, the presence of ammonia in ice could suggest it came from comets, NASA said. The presence of sulfur, on the other hand, could show it rose to the surface from deep inside the lunar interior when the moon was young and volcanically active.",
+      "heading": false
+    },
+    {
+      "text": "One of the instruments, the High-resolution Volatiles and Minerals Moon Mapper, was developed by the JPL. The other, called the Lunar Thermal Mapper, was built by a team at the University of Oxford in Britain.",
+      "heading": false
+    },
+    {
+      "text": "Neil Bowles is an instrument scientist for the Lunar Thermal Mapper. He said in a statement the instrument would center on producing detailed maps of lunar surface temperatures. He added that the other instrument will look for a series of signs, called signatures, of water molecules.",
+      "heading": false
+    },
+    {
+      "text": "“Both instruments will allow us to understand how surface temperature affects water, improving our knowledge of the presence and distribution of these molecules on the moon,” Bowles said.",
+      "heading": false
+    },
+    {
+      "text": "The orbiter is designed to provide scientists with new information about how much movement there is of water molecules on the moon. Such movements can be linked to how much sun specific areas receive. “Understanding whether water molecules move freely across the surface of the moon or are locked inside rock is also scientifically important,” NASA said in a statement.",
+      "heading": false
+    },
+    {
+      "text": "Rachel Klima is an investigator for the Lunar Trailblazer spacecraft and its systems at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland.",
+      "heading": false
+    },
+    {
+      "text": "She said data collected by the instruments can help provide information about where the moon’s water first came from. Klima compared such examinations to those involving glaciers that help scientists learn about Earth’s ancient history. Ice on the moon, she said, “could provide clues as to where that water came from and how and when it got there.”",
+      "heading": false
+    },
+    {
+      "text": "I’m Bryan Lynn.",
+      "heading": false
+    }
+  ],
+  "glossary": [
+    {
+      "word": "simulate",
+      "definition": "v. to do or make something that behaves or looks like something real but is not"
+    },
+    {
+      "word": "comet",
+      "definition": "n. an object in space that leaves a bright line behind it in the sky"
+    },
+    {
+      "word": "allow",
+      "definition": "v. to permit"
+    },
+    {
+      "word": "distribute",
+      "definition": "v. to give something out to people or places"
+    },
+    {
+      "word": "glacier",
+      "definition": "n. a large mass of ice that moves very slowly, usually down a hill or valley"
+    },
+    {
+      "word": "clue",
+      "definition": "n. a sign or a piece of information that helps to solve a problem or answer a question"
+    }
+  ],
+  "words": 681,
+  "duration": 400,
+  "audio_wpm": 102,
+  "sentences": [
+    {
+      "text": "The American space agency NASA is preparing to launch a spacecraft to seek more detailed information on water sources on the moon.",
+      "start": 0.18,
+      "end": 13.38,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The spacecraft is an orbiter called Lunar Trailblazer.",
+      "start": 14.46,
+      "end": 19.44,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "It is set to launch later this year, or in early 2025.",
+      "start": 20.22,
+      "end": 24.02,
+      "exact": false,
+      "match": 0.92
+    },
+    {
+      "text": "A SpaceX Falcon 9 rocket will carry the orbiter to space.",
+      "start": 26.32,
+      "end": 31.72,
+      "exact": true,
+      "match": 0.91
+    },
+    {
+      "text": "That rocket will also transport another moon exploring spacecraft.",
+      "start": 32.58,
+      "end": 38.22,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "In a recent statement, NASA said Lunar Trailblazer passed a series of important operational tests.",
+      "start": 39.3,
+      "end": 48.64,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "It is currently completing additional software testing designed to simulate different elements of the trip, or mission.",
+      "start": 49.54,
+      "end": 59.42,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "NASA’s Jet Propulsion Laboratory (JPL) is leading the mission, in cooperation with the California Institute of Technology (Caltech) in Pasadena, California.",
+      "start": 60.36,
+      "end": 74.78,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Lockheed Martin Space provided the spacecraft, linked it with the flight system, and supports operations as part of a contract with Caltech.",
+      "start": 75.84,
+      "end": 87.64,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The spacecraft will use two science instruments to carry out its mission.",
+      "start": 88.76,
+      "end": 95.34,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Both instruments are designed to map the moon in search of areas containing water, as well as what forms the water is in.",
+      "start": 96.1,
+      "end": 106.86,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The two instruments use infrared technology to produce highly detailed mapped images.",
+      "start": 107.92,
+      "end": 115.9,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Lunar Trailblazer weighs about 200 kilograms and measures 3.5 meters with its solar equipment fully deployed.",
+      "start": 117.14,
+      "end": 128.36,
+      "exact": true,
+      "match": 0.82
+    },
+    {
+      "text": "The spacecraft is set to orbit the moon about 100 kilometers from the lunar surface.",
+      "start": 129.32,
+      "end": 136.82,
+      "exact": true,
+      "match": 0.93
+    },
+    {
+      "text": "Several past studies have provided strong evidence that water exists on the moon.",
+      "start": 138.02,
+      "end": 144.94,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "But the evidence has not included exact details on where it is and what forms it might take.",
+      "start": 145.78,
+      "end": 154.26,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Scientists believe most of the water is solid, in the form of ice.",
+      "start": 155.22,
+      "end": 160.4,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "But there could be areas where water exists in liquid form, or as a gas in the atmosphere.",
+      "start": 161.1,
+      "end": 167.76,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "One study released last month suggested that existing water on the moon is more widespread than previously thought.",
+      "start": 168.76,
+      "end": 179.2,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "That study was based on new examinations of data collected by India’s Chandrayaan-1 orbiting spacecraft.",
+      "start": 180.08,
+      "end": 189.88,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "NASA has said its search for water on the moon is important because it is seen as a necessary resource for future exploration activities.",
+      "start": 191.02,
+      "end": 203.0,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Astronauts could process it for drinking water, to cool equipment, to create breathable oxygen or even to make rocket fuel.",
+      "start": 204.2,
+      "end": 214.74,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "NASA said Lunar Trailblazer will make it easier for future human or robotic science investigators to use the water to see where it first came from.",
+      "start": 215.8,
+      "end": 229.14,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "For example, the presence of ammonia in ice could suggest it came from comets, NASA said.",
+      "start": 230.2,
+      "end": 239.18,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The presence of sulfur, on the other hand, could show it rose to the surface from deep inside the lunar interior when the moon was young and volcanically active.",
+      "start": 240.14,
+      "end": 253.24,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "One of the instruments, the High-resolution Volatiles and Minerals Moon Mapper, was developed by the JPL.",
+      "start": 254.48,
+      "end": 263.06,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The other, called the Lunar Thermal Mapper, was built by a team at the University of Oxford in Britain.",
+      "start": 263.88,
+      "end": 271.4,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Neil Bowles is an instrument scientist for the Lunar Thermal Mapper.",
+      "start": 272.36,
+      "end": 278.08,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "He said in a statement the instrument would center on producing detailed maps of lunar surface temperatures.",
+      "start": 278.92,
+      "end": 287.74,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "He added that the other instrument will look for a series of signs, called signatures, of water molecules.",
+      "start": 288.68,
+      "end": 297.38,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "“Both instruments will allow us to understand how surface temperature affects water, improving our knowledge of the presence and distribution of these molecules on the moon,” Bowles said.",
+      "start": 298.54,
+      "end": 315.1,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The orbiter is designed to provide scientists with new information about how much movement there is of water molecules on the moon.",
+      "start": 316.0,
+      "end": 327.32,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Such movements can be linked to how much sun specific areas receive.",
+      "start": 328.32,
+      "end": 333.84,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "“Understanding whether water molecules move freely across the surface of the moon or are locked inside rock is also scientifically important,” NASA said in a statement.",
+      "start": 334.94,
+      "end": 350.2,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Rachel Klima is an investigator for the Lunar Trailblazer spacecraft and its systems at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland.",
+      "start": 351.28,
+      "end": 364.8,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "She said data collected by the instruments can help provide information about where the moon’s water first came from.",
+      "start": 365.92,
+      "end": 375.14,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Klima compared such examinations to those involving glaciers that help scientists learn about Earth’s ancient history.",
+      "start": 376.2,
+      "end": 386.2,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Ice on the moon, she said, “could provide clues as to where that water came from and how and when it got there.”",
+      "start": 387.3,
+      "end": 396.88,
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "I’m Bryan Lynn.",
+      "start": 398.0,
+      "end": 399.8,
+      "exact": true,
+      "match": 1.0
+    }
+  ],
+  "summary_ja": "米航空宇宙局（NASA）は、月面の水資源を詳細に調査するため、探査機「ルナ・トレイルブレイザー」の打ち上げを計画しています。2基の観測機器を用いて水の存在場所や形態、表面温度との関係を詳しく調べる予定です。得られたデータは、将来の月探査での水利用や、月の水がどこから来たのかという起源の解明に役立てられます。",
+  "listening": {
+    "questions": [
+      {
+        "q": "このニュース記事が主に伝えている内容は何ですか？",
+        "options": [
+          "インドの探査機が月面で発見した大量の氷の分析結果",
+          "月面の水資源を詳しく調査するための新しい探査機の打ち上げ計画",
+          "月面に恒久的な有人基地を建設するための国際的な取り組み",
+          "月面でロケット燃料や飲料水を製造する民間企業の技術開発"
+        ],
+        "answer": 1,
+        "explanation_ja": "冒頭で「NASA is preparing to launch a spacecraft to seek more detailed information on water sources on the moon」と述べられており、月面の水について詳細な情報を探る探査機「ルナ・トレイルブレイザー」の計画が全体の主題となっています。"
+      },
+      {
+        "q": "記事の中で、探査機の打ち上げ時期についてどのように述べられていますか？",
+        "options": [
+          "今年後半、または2025年初頭に予定されている",
+          "ソフトウェアテストが完了した直後の来月中旬に予定されている",
+          "インドの月探査機が観測を終えた後に行われる",
+          "月面活動に必要な燃料が完成する2030年に延期された"
+        ],
+        "answer": 0,
+        "explanation_ja": "「It is set to launch later this year, or in early 2025.（今年後半、または2025年初頭に打ち上げられる予定である）」と述べられています。"
+      },
+      {
+        "q": "NASAが月面での水探しを重要視している理由は何ですか？",
+        "options": [
+          "月が将来的に太陽系外へ移動するのを防ぐため",
+          "地球上の水資源が急速に枯渇しつつあるため",
+          "将来の探査活動において必要な資源と見なされているため",
+          "他国の探査機による水の独占を阻止するため"
+        ],
+        "answer": 2,
+        "explanation_ja": "「because」に注目すると、「NASA has said its search for water on the moon is important because it is seen as a necessary resource for future exploration activities.（将来の探査活動に必要な資源とみなされているため、月での水探しは重要である）」と説明されています。"
+      }
+    ],
+    "answers": [
+      1,
+      0,
+      2
+    ],
+    "correct": 3,
+    "plays": 1
+  },
+  "dictation": [
+    {
+      "i": 0,
+      "sentence": 9,
+      "text": "The spacecraft will use two science instruments to carry out its mission.",
+      "start": 88.61,
+      "end": 95.64,
+      "ja": "その探査機は、任務を遂行するために2基の科学観測機器を使用します。",
+      "points_ja": "「use two」では [z] から [t] への移行、「carry out」は「キャリィ・アウト」のように連結して聞こえます。",
+      "answer": "the space craft will use two science instruments to carry out missions",
+      "plays": 3,
+      "accuracy": 0.667,
+      "diff": [
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "spacecraft",
+          "status": "wrong",
+          "heard": "space"
+        },
+        {
+          "t": "",
+          "status": "extra",
+          "heard": "craft"
+        },
+        {
+          "t": "will",
+          "status": "ok"
+        },
+        {
+          "t": "use",
+          "status": "ok"
+        },
+        {
+          "t": "two",
+          "status": "ok"
+        },
+        {
+          "t": "science",
+          "status": "ok"
+        },
+        {
+          "t": "instruments",
+          "status": "ok"
+        },
+        {
+          "t": "to",
+          "status": "ok"
+        },
+        {
+          "t": "carry",
+          "status": "ok"
+        },
+        {
+          "t": "out",
+          "status": "ok"
+        },
+        {
+          "t": "its",
+          "status": "wrong",
+          "heard": "missions"
+        },
+        {
+          "t": "mission",
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "sentence": 15,
+      "text": "But the evidence has not included exact details on where it is and what forms it might take.",
+      "start": 145.63,
+      "end": 154.56,
+      "ja": "しかし、その証拠には、それがどこにあり、どのような形態をとっているかについての正確な詳細は含まれていません。",
+      "points_ja": "「has not included」の not included で破裂音が抑えられ、「where it is」は「ウェア・イティズ」のように滑らかにつながります。",
+      "answer": "but the evidence has not included exact details on where it is and what forms it might take",
+      "plays": 6,
+      "accuracy": 1.0,
+      "diff": [
+        {
+          "t": "but",
+          "status": "ok"
+        },
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "evidence",
+          "status": "ok"
+        },
+        {
+          "t": "has",
+          "status": "ok"
+        },
+        {
+          "t": "not",
+          "status": "ok"
+        },
+        {
+          "t": "included",
+          "status": "ok"
+        },
+        {
+          "t": "exact",
+          "status": "ok"
+        },
+        {
+          "t": "details",
+          "status": "ok"
+        },
+        {
+          "t": "on",
+          "status": "ok"
+        },
+        {
+          "t": "where",
+          "status": "ok"
+        },
+        {
+          "t": "it",
+          "status": "ok"
+        },
+        {
+          "t": "is",
+          "status": "ok"
+        },
+        {
+          "t": "and",
+          "status": "ok"
+        },
+        {
+          "t": "what",
+          "status": "ok"
+        },
+        {
+          "t": "forms",
+          "status": "ok"
+        },
+        {
+          "t": "it",
+          "status": "ok"
+        },
+        {
+          "t": "might",
+          "status": "ok"
+        },
+        {
+          "t": "take",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "sentence": 32,
+      "text": "Such movements can be linked to how much sun specific areas receive.",
+      "start": 328.17,
+      "end": 334.14,
+      "ja": "そうした動きは、特定の地域がどれだけの日光を受けるかに関連している可能性があります。",
+      "points_ja": "「linked to」は [d] が脱落気味に [t] に吸収されて「リンクトゥ」のように聞こえ、「can be」の弱化にも注意しましょう。",
+      "answer": "such move months can be link to how much suns area receive",
+      "plays": 4,
+      "accuracy": 0.5,
+      "diff": [
+        {
+          "t": "such",
+          "status": "ok"
+        },
+        {
+          "t": "movements",
+          "status": "wrong",
+          "heard": "move"
+        },
+        {
+          "t": "",
+          "status": "extra",
+          "heard": "months"
+        },
+        {
+          "t": "can",
+          "status": "ok"
+        },
+        {
+          "t": "be",
+          "status": "ok"
+        },
+        {
+          "t": "linked",
+          "status": "wrong",
+          "heard": "link"
+        },
+        {
+          "t": "to",
+          "status": "ok"
+        },
+        {
+          "t": "how",
+          "status": "ok"
+        },
+        {
+          "t": "much",
+          "status": "ok"
+        },
+        {
+          "t": "sun",
+          "status": "wrong",
+          "heard": "suns"
+        },
+        {
+          "t": "specific",
+          "status": "wrong",
+          "heard": "area"
+        },
+        {
+          "t": "areas",
+          "status": "missing"
+        },
+        {
+          "t": "receive",
+          "status": "ok"
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "questions": [
+      {
+        "q": "探査機「ルナ・トレイルブレイザー」の主な目的として最も適切なものはどれですか？",
+        "options": [
+          "月面から大量の氷を採取して地球に持ち帰ること",
+          "月面にある水の正確な位置や形態、分子の動きを調べること",
+          "月の内部を掘削して火山活動を再開させること",
+          "月周回軌道上に宇宙飛行士のための居住施設を建設すること"
+        ],
+        "answer": 1,
+        "explanation_ja": "本文では「Both instruments are designed to map the moon in search of areas containing water, as well as what forms the water is in.」や水分子の動きを調べることが記されており、「月面にある水の正確な位置や形態、分子の動きを調べること」が正解です。"
+      },
+      {
+        "q": "将来の宇宙飛行士が月の水を利用する方法として、記事で挙げられていないものはどれですか？",
+        "options": [
+          "呼吸用の酸素を作り出すこと",
+          "飲み水として処理すること",
+          "探査機器を冷却すること",
+          "月面の土壌を洗浄して建材を作ること"
+        ],
+        "answer": 3,
+        "explanation_ja": "本文には「process it for drinking water, to cool equipment, to create breathable oxygen or even to make rocket fuel（飲料水、機器の冷却、呼吸用酸素、ロケット燃料の生成）」が挙げられていますが、「月面の土壌を洗浄して建材を作ること」は言及されていません。"
+      },
+      {
+        "q": "月の氷に含まれる成分から何が分かると説明されていますか？",
+        "options": [
+          "アンモニアがあれば彗星由来、硫黄があれば月の内部から噴出した可能性が示される",
+          "アンモニアがあれば月の地下水由来、硫黄があれば地球の大気由来であること",
+          "硫黄があればかつて生命が存在した証拠となり、アンモニアは人工物であること",
+          "成分の種類にかかわらず、水はすべて太陽風によって運ばれてきたこと"
+        ],
+        "answer": 0,
+        "explanation_ja": "「the presence of ammonia in ice could suggest it came from comets（アンモニアの存在は彗星由来を示唆）」、「The presence of sulfur, on the other hand, could show it rose to the surface from deep inside the lunar interior（硫黄の存在は月の深部から表面に上昇したことを示す）」と述べられています。"
+      },
+      {
+        "q": "記事の内容から推測できることとして最も適切なものはどれですか？",
+        "options": [
+          "月の水は地球の古代の氷河と同じ年代にできたことがすでに証明されている",
+          "月の表面温度と日照量は、月面の水分子の挙動に影響を与えていると考えられる",
+          "ルナ・トレイルブレイザーは将来の宇宙飛行士自身が操縦して月へ向かう",
+          "月面にあるすべての水は完全に岩石の中に閉じ込められており移動しない"
+        ],
+        "answer": 1,
+        "explanation_ja": "「Both instruments will allow us to understand how surface temperature affects water」や「Such movements can be linked to how much sun specific areas receive.」という記述から、表面温度や受ける日光の量が水分子の挙動に影響していると推測されます。"
+      },
+      {
+        "q": "第12文の「with its solar equipment fully deployed」における「deployed」の意味に最も近いものはどれですか？",
+        "options": [
+          "repaired（修理された）",
+          "unfolded（展開された・広げられた）",
+          "hidden（隠された）",
+          "purchased（購入された）"
+        ],
+        "answer": 1,
+        "explanation_ja": "宇宙機のソーラーパネルなどの機器が「fully deployed」とは、宇宙空間などで「完全に展開された、広げられた」状態を指すため、「unfolded」が最も近いです。"
+      }
+    ],
+    "answers": [
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "correct": 3,
+    "reading_seconds": 5,
+    "wpm": 7782,
+    "time": "22:36:26"
+  }
+}

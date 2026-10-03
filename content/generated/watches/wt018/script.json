@@ -1,0 +1,180 @@
+{
+ "id": "wt018",
+ "author": "claude",
+ "category": "watches",
+ "title": "The Swan-Neck Regulator",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "swan-neck regulator",
+  "micrometric screw",
+  "fine regulation"
+ ],
+ "cast": {
+  "A": {
+   "name": "Liam",
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Near the balance wheel of some fine watches, you may see a thin, curved spring that looks like the neck of a swan. This part is called a swan-neck regulator, and it is both useful and beautiful."
+  },
+  {
+   "speaker": "A",
+   "text": "First, let's remember what a regulator does. The balance wheel swings back and forth, controlled by a hairspring. A small arm called the regulator can make the active part of the hairspring a little longer or shorter. This makes the watch run slower or faster."
+  },
+  {
+   "speaker": "A",
+   "text": "The challenge is that the movements needed are tiny. Moving the regulator arm by just a fraction of a millimeter can change the timing by several seconds a day. With a simple arm, it is easy to push too far."
+  },
+  {
+   "speaker": "A",
+   "text": "The swan-neck design solves this. The curved spring presses gently against one side of the regulator arm. On the other side, there is a fine micrometric screw. When the watchmaker turns this screw, the arm moves forward by a very small, controlled amount. The spring holds it firmly in place."
+  },
+  {
+   "speaker": "A",
+   "text": "This allows fine regulation, which means very precise adjustment. It also keeps the arm from slipping when the watch receives a knock."
+  },
+  {
+   "speaker": "A",
+   "text": "Today, many watches use other systems. But the swan neck remains popular in traditional German and Swiss watches, because it shows that someone cared about both function and form."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Near the balance wheel of some fine watches, you may see a thin, curved spring that looks like the neck of a swan.",
+   "start": 0.0,
+   "end": 6.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This part is called a swan-neck regulator, and it is both useful and beautiful.",
+   "start": 7.31,
+   "end": 12.43,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "First, let's remember what a regulator does.",
+   "start": 12.95,
+   "end": 15.75,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The balance wheel swings back and forth, controlled by a hairspring.",
+   "start": 16.34,
+   "end": 20.1,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A small arm called the regulator can make the active part of the hairspring a little longer or shorter.",
+   "start": 20.53,
+   "end": 26.05,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This makes the watch run slower or faster.",
+   "start": 26.52,
+   "end": 29.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The challenge is that the movements needed are tiny.",
+   "start": 29.56,
+   "end": 32.6,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Moving the regulator arm by just a fraction of a millimeter can change the timing by several seconds a day.",
+   "start": 33.43,
+   "end": 39.51,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "With a simple arm, it is easy to push too far.",
+   "start": 39.94,
+   "end": 42.82,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The swan-neck design solves this.",
+   "start": 43.34,
+   "end": 45.5,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The curved spring presses gently against one side of the regulator arm.",
+   "start": 46.09,
+   "end": 50.05,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "On the other side, there is a fine micrometric screw.",
+   "start": 50.6,
+   "end": 53.72,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "When the watchmaker turns this screw, the arm moves forward by a very small, controlled amount.",
+   "start": 54.31,
+   "end": 60.15,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The spring holds it firmly in place.",
+   "start": 60.58,
+   "end": 62.82,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "This allows fine regulation, which means very precise adjustment.",
+   "start": 63.34,
+   "end": 67.74,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It also keeps the arm from slipping when the watch receives a knock.",
+   "start": 68.57,
+   "end": 71.85,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Today, many watches use other systems.",
+   "start": 72.37,
+   "end": 75.05,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "But the swan neck remains popular in traditional German and Swiss watches, because it shows that someone cared about both function and form.",
+   "start": 75.6,
+   "end": 83.52,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 223,
+ "duration": 83.4,
+ "wpm": 160,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:44"
+}

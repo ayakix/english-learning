@@ -1,0 +1,229 @@
+{
+ "id": "fi007",
+ "author": "claude",
+ "category": "finance",
+ "title": "How Much Risk Can You Take?",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "risk tolerance",
+  "time horizon",
+  "volatility"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Sarah",
+   "id": "EXAVITQu4vr4xnSDxMaL",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Financial advisers often ask about risk tolerance. What does that mean?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's how much ups and downs in your investments you can handle, both financially and emotionally. Some people can watch their portfolio fall twenty percent and stay calm. Others can't sleep."
+  },
+  {
+   "speaker": "A",
+   "text": "How do you figure out your own risk tolerance?"
+  },
+  {
+   "speaker": "B",
+   "text": "One way is to imagine a bad year. Say you invested one million yen, and a year later it's worth seven hundred thousand. Would you sell everything, do nothing, or buy more? Your honest answer tells you a lot."
+  },
+  {
+   "speaker": "A",
+   "text": "Does age matter?"
+  },
+  {
+   "speaker": "B",
+   "text": "A lot, because of your time horizon. That's how long until you need the money. If you're thirty and saving for retirement, you have decades to recover from a crash. If you need the money in two years for a house, a big drop could be a disaster."
+  },
+  {
+   "speaker": "A",
+   "text": "So younger people can take more risk."
+  },
+  {
+   "speaker": "B",
+   "text": "Generally, yes. They can hold more stocks, which have more volatility, meaning bigger price swings, but higher expected long-term growth."
+  },
+  {
+   "speaker": "A",
+   "text": "Is it okay to choose a lower-risk plan, even if you're young?"
+  },
+  {
+   "speaker": "B",
+   "text": "Absolutely. The best plan is the one you can stick with. A slightly lower-risk portfolio that you keep through bad times is much better than an aggressive one that you sell in a panic."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Financial advisers often ask about risk tolerance.",
+   "start": 0.0,
+   "end": 3.52,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What does that mean?",
+   "start": 4.11,
+   "end": 5.39,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It's how much ups and downs in your investments you can handle, both financially and emotionally.",
+   "start": 6.11,
+   "end": 12.11,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Some people can watch their portfolio fall twenty percent and stay calm.",
+   "start": 12.78,
+   "end": 17.34,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Others can't sleep.",
+   "start": 17.93,
+   "end": 19.45,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How do you figure out your own risk tolerance?",
+   "start": 20.17,
+   "end": 22.73,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "One way is to imagine a bad year.",
+   "start": 23.53,
+   "end": 26.57,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Say you invested one million yen, and a year later it's worth seven hundred thousand.",
+   "start": 27.0,
+   "end": 32.44,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Would you sell everything, do nothing, or buy more?",
+   "start": 32.87,
+   "end": 36.63,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Your honest answer tells you a lot.",
+   "start": 37.1,
+   "end": 39.38,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Does age matter?",
+   "start": 40.1,
+   "end": 41.62,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A lot, because of your time horizon.",
+   "start": 42.42,
+   "end": 45.22,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's how long until you need the money.",
+   "start": 45.81,
+   "end": 47.89,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "If you're thirty and saving for retirement, you have decades to recover from a crash.",
+   "start": 48.64,
+   "end": 53.64,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "If you need the money in two years for a house, a big drop could be a disaster.",
+   "start": 54.19,
+   "end": 59.15,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So younger people can take more risk.",
+   "start": 59.87,
+   "end": 62.67,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Generally, yes.",
+   "start": 63.39,
+   "end": 64.95,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "They can hold more stocks, which have more volatility, meaning bigger price swings, but higher expected long-term growth.",
+   "start": 65.5,
+   "end": 73.18,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Is it okay to choose a lower-risk plan, even if you're young?",
+   "start": 73.9,
+   "end": 77.74,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Absolutely.",
+   "start": 78.46,
+   "end": 79.34,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "The best plan is the one you can stick with.",
+   "start": 80.09,
+   "end": 83.05,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A slightly lower-risk portfolio that you keep through bad times is much better than an aggressive one that you sell in a panic.",
+   "start": 83.48,
+   "end": 90.84,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 214,
+ "duration": 90.8,
+ "wpm": 141,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 65,
+ "created": "2026-10-04 00:02"
+}

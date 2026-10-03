@@ -1,0 +1,114 @@
+{
+ "id": "rn006",
+ "author": "claude",
+ "summary_ja": "汗の量（発汗率）は人によって大きく違うので、一つの水分補給ルールは合わない。走る前に裸で体重を測り、1時間一定ペースで走って飲んだ量を記録し、走った後にもう一度測る。減った体重と飲んだ量の合計が汗の量（1kg≒1L）。気温や湿度で変わるので条件を変えて試す。体重の2〜3%未満の水分不足は多くのランナーが許容できる。飲みすぎも塩分を薄めて危険。",
+ "listening": [
+  {
+   "q": "発汗率を測るときに最初にすることは？",
+   "options": [
+    "服を着ずに体重を測る",
+    "体温を測る",
+    "汗をふく",
+    "水を1L飲む"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Weigh yourself without clothes before a run.\""
+  },
+  {
+   "q": "1kg 減って0.5L 飲んだ場合の発汗率は？",
+   "options": [
+    "1時間に約0.5L",
+    "1時間に約2L",
+    "1時間に約1.5L",
+    "1時間に約1L"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"if you lost one kilogram and drank half a liter, your sweat rate is about one and a half liters per hour.\""
+  },
+  {
+   "q": "話し手の水分補給の目標は？",
+   "options": [
+    "まったく飲まない",
+    "できるだけ多く飲むのではなく、体が実際に必要な分を飲む",
+    "1時間ごとに1L飲む",
+    "汗の量をすべて補う"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"the goal is not to drink as much as possible, but to drink what your body actually needs.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "長い距離を走っても、シャツが乾いたままの人もいます。",
+   "points_ja": "finish a long がつながり、run with a dry が続けて聞こえます。"
+  },
+  {
+   "sentence": 7,
+   "ja": "1時間一定のペースで走り、どれだけ飲んだかを記録します。",
+   "points_ja": "Run for one hour at a が一続きに聞こえ、how much you drink が続きます。"
+  },
+  {
+   "sentence": 18,
+   "ja": "飲みすぎも危険になり得ます。血液中の塩分を薄めてしまうことがあるからです。",
+   "points_ja": "Drinking too much がつながり、dilute the salt in your が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "水は飲まないほうがよい",
+    "汗の量は誰でも同じ",
+    "自分の発汗率を測って、自分に合った水分補給を計画する",
+    "体重を減らす方法"
+   ],
+   "answer": 2,
+   "explanation_ja": "発汗率の測り方と、それを使った計画、飲みすぎの危険を説明しています。"
+  },
+  {
+   "q": "sweat rate の意味は？",
+   "options": [
+    "汗のにおい",
+    "体温",
+    "汗の塩分",
+    "1時間あたりに汗で失う水分量"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Your sweat rate, the amount of fluid you lose through sweat per hour\"。"
+  },
+  {
+   "q": "発汗率を条件を変えて測るべき理由は？",
+   "options": [
+    "体重計が正確でないから",
+    "測り方が難しいから",
+    "毎日体重が変わるから",
+    "気温、湿度、ペースで結果が変わるから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"the result changes with temperature, humidity and pace\"。"
+  },
+  {
+   "q": "多くのランナーが許容できる水分不足の目安は？",
+   "options": [
+    "体重の10%",
+    "0%",
+    "体重の2〜3%未満",
+    "体重の20%"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"A small fluid deficit, often less than two or three percent of body weight\"。"
+  },
+  {
+   "q": "飲みすぎが危険な理由は？",
+   "options": [
+    "体重が増えるから",
+    "胃が痛くなるから",
+    "汗が増えるから",
+    "血液中の塩分を薄めてしまうから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"because it can dilute the salt in your blood.\""
+  }
+ ]
+}

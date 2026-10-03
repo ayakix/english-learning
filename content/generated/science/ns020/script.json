@@ -1,0 +1,265 @@
+{
+ "id": "ns020",
+ "author": "claude",
+ "category": "science",
+ "title": "What Happened to the Dinosaurs?",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "extinction",
+  "asteroid",
+  "fossil record"
+ ],
+ "cast": {
+  "A": {
+   "name": "Patrick",
+   "id": "9Ft9sm9dzvprPILZmLJl",
+   "accent": "AU"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Dinosaurs ruled the Earth for more than one hundred fifty million years. What happened to them?"
+  },
+  {
+   "speaker": "B",
+   "text": "Most scientists believe a giant asteroid hit the Earth about sixty-six million years ago. It was probably around ten kilometers wide."
+  },
+  {
+   "speaker": "A",
+   "text": "How do we know that?"
+  },
+  {
+   "speaker": "B",
+   "text": "An important clue came in nineteen eighty. Scientists found a thin layer of rock all around the world, from exactly that time. It contained a lot of a rare metal called iridium. Iridium is uncommon on the Earth's surface but more common in asteroids."
+  },
+  {
+   "speaker": "A",
+   "text": "So the asteroid's dust spread across the planet."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. Later, scientists found a huge buried crater in Mexico, about one hundred eighty kilometers wide. It's the right size and the right age."
+  },
+  {
+   "speaker": "A",
+   "text": "But how could one impact kill so many animals?"
+  },
+  {
+   "speaker": "B",
+   "text": "The impact threw huge amounts of dust and gas into the atmosphere. It blocked sunlight for a long time. Plants struggled to grow, temperatures dropped, and food chains collapsed. About three-quarters of all species disappeared."
+  },
+  {
+   "speaker": "A",
+   "text": "Was the asteroid the only cause?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some scientists think huge volcanic eruptions in India also played a role, by changing the climate. The debate continues, but the asteroid is the main suspect."
+  },
+  {
+   "speaker": "A",
+   "text": "So all the dinosaurs died?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not exactly. Birds are actually living dinosaurs. So the next time you see a pigeon, you're looking at a distant relative of T. rex."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Dinosaurs ruled the Earth for more than one hundred fifty million years.",
+   "start": 0.0,
+   "end": 4.84,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What happened to them?",
+   "start": 5.47,
+   "end": 6.59,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Most scientists believe a giant asteroid hit the Earth about sixty-six million years ago.",
+   "start": 7.31,
+   "end": 13.95,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "It was probably around ten kilometers wide.",
+   "start": 14.34,
+   "end": 17.18,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "How do we know that?",
+   "start": 17.98,
+   "end": 19.42,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "An important clue came in nineteen eighty.",
+   "start": 20.14,
+   "end": 23.26,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Scientists found a thin layer of rock all around the world, from exactly that time.",
+   "start": 23.69,
+   "end": 29.53,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It contained a lot of a rare metal called iridium.",
+   "start": 29.96,
+   "end": 33.48,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Iridium is uncommon on the Earth's surface but more common in asteroids.",
+   "start": 33.91,
+   "end": 38.87,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So the asteroid's dust spread across the planet.",
+   "start": 39.59,
+   "end": 43.11,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 43.83,
+   "end": 44.71,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Later, scientists found a huge buried crater in Mexico, about one hundred eighty kilometers wide.",
+   "start": 45.62,
+   "end": 52.58,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "It's the right size and the right age.",
+   "start": 53.41,
+   "end": 56.37,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "But how could one impact kill so many animals?",
+   "start": 57.09,
+   "end": 60.69,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "The impact threw huge amounts of dust and gas into the atmosphere.",
+   "start": 61.41,
+   "end": 66.37,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "It blocked sunlight for a long time.",
+   "start": 66.8,
+   "end": 69.44,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Plants struggled to grow, temperatures dropped, and food chains collapsed.",
+   "start": 69.87,
+   "end": 75.283,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "About three-quarters of all species disappeared.",
+   "start": 75.767,
+   "end": 78.86,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Was the asteroid the only cause?",
+   "start": 79.58,
+   "end": 82.14,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Some scientists think huge volcanic eruptions in India also played a role, by changing the climate.",
+   "start": 82.86,
+   "end": 89.42,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "The debate continues, but the asteroid is the main suspect.",
+   "start": 90.41,
+   "end": 94.57,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "So all the dinosaurs died?",
+   "start": 95.29,
+   "end": 97.69,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Not exactly.",
+   "start": 98.41,
+   "end": 99.61,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Birds are actually living dinosaurs.",
+   "start": 100.52,
+   "end": 103.08,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "So the next time you see a pigeon, you're looking at a distant relative of T.",
+   "start": 103.67,
+   "end": 108.31,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "rex.",
+   "start": 108.9,
+   "end": 109.46,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 223,
+ "duration": 109.4,
+ "wpm": 122,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-04 00:01"
+}

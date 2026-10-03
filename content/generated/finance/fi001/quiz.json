@@ -1,0 +1,114 @@
+{
+ "id": "fi001",
+ "author": "claude",
+ "summary_ja": "100ドルを年5%の口座に入れると1年後は105ドル。最初の100ドルを元本という。2年目は元本だけでなく前年の5ドルにも利息がつくので少し速く増える。これが複利（利息に利息がつく）。最初は差が小さいが長期では大きく、5%なら約14年で2倍、さらに14年でまた2倍。だから早く始めることが大切で、投資を続ける期間（投資期間）が長いほど複利が働く。借金では逆に働くので、カードの借金は早く返す。",
+ "listening": [
+  {
+   "q": "compound interest とは？",
+   "options": [
+    "毎年同じ額の利息",
+    "銀行の手数料",
+    "利息に利息がつくこと",
+    "利息がつかないこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"This is called compound interest. Simply put, it is interest on your interest.\""
+  },
+  {
+   "q": "5%の利率でお金が2倍になるのは約何年？",
+   "options": [
+    "約100年",
+    "約14年",
+    "約5年",
+    "約30年"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"At five percent, your money doubles in about fourteen years.\""
+  },
+  {
+   "q": "最後の注意は？",
+   "options": [
+    "借金は複利と関係ない",
+    "カードは使ってはいけない",
+    "複利は借金にも働くので、カードの借金は早く返す",
+    "お金は借りたほうがよい"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"But remember, it also works against you when you borrow. So pay off credit card debt quickly.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "銀行は毎年5%の利息を払ってくれます。",
+   "points_ja": "pays you five percent が続けて聞こえ、interest every year がつながります。"
+  },
+  {
+   "sentence": 7,
+   "ja": "だから、お金が少し速く増えます。",
+   "points_ja": "money grows a little faster が一続きに聞こえます。"
+  },
+  {
+   "sentence": 16,
+   "ja": "投資期間が長いほど、複利が働く時間が増えます。",
+   "points_ja": "longer time horizon がつながり、more time to work の to は弱形です。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "借金は得をする",
+    "投資はすぐにやめるべき",
+    "利息は毎年同じ",
+    "複利によって長期では大きな差が生まれるので、早く始めることが大切"
+   ],
+   "answer": 3,
+   "explanation_ja": "複利の仕組み、長期の効果、早く始めること、借金の注意を説明しています。"
+  },
+  {
+   "q": "principal とは？",
+   "options": [
+    "税金",
+    "銀行の名前",
+    "最初に入れたお金（元本）",
+    "利息"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The first one hundred dollars is called the principal. It is the money you started with.\""
+  },
+  {
+   "q": "time horizon の意味は？",
+   "options": [
+    "利息の計算方法",
+    "銀行の営業時間",
+    "株を買う時間",
+    "お金を投資しておく予定の期間"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The length of time you plan to keep your money invested is called your time horizon.\""
+  },
+  {
+   "q": "25歳と35歳で始めた人の比較で分かることは？",
+   "options": [
+    "差はない",
+    "35歳から始めた人が多く持つ",
+    "毎月同じ額でも、早く始めた人のほうがずっと多く持っていることが多い",
+    "25歳では早すぎる"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Someone who starts at twenty-five often ends up with much more than someone who starts at thirty-five, even if they save the same amount each month.\""
+  },
+  {
+   "q": "最初の年に違いが小さい理由として推測できるのは？",
+   "options": [
+    "税金がかかるから",
+    "利息につく利息がまだ少ないから",
+    "利率が低いから",
+    "銀行が休みだから"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"At first, the difference is very small. But over a long time, it becomes large.\""
+  }
+ ]
+}

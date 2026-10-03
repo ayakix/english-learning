@@ -1,0 +1,187 @@
+{
+ "id": "wn040",
+ "author": "claude",
+ "category": "wine",
+ "title": "The Chemistry of Glass Shape and Aroma Funneling",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "bowl curvature",
+  "headspace",
+  "vapor delivery"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Wine glasses come in many shapes. Some are tall and narrow, others have huge round bowls. Is this just style, or does the shape really change the experience?"
+  },
+  {
+   "speaker": "A",
+   "text": "Many experts believe shape matters, mainly because of aroma. When you swirl wine, aroma molecules evaporate and collect in the empty space above the wine. This space is called the headspace."
+  },
+  {
+   "speaker": "A",
+   "text": "A glass with a wide bowl gives the wine a large surface. More aroma molecules can evaporate. Then, if the glass becomes narrower toward the top, it gathers these aromas and guides them toward your nose. The bowl curvature and the narrower rim work together, a bit like a funnel. This improves vapor delivery to the nose."
+  },
+  {
+   "speaker": "A",
+   "text": "This is why large, round glasses are popular for aromatic red wines such as Pinot Noir. Smaller glasses are often used for whites, partly to keep the wine cool. Tall, narrow flutes help keep bubbles in sparkling wine, although many experts now prefer wider tulip shapes to enjoy more aroma."
+  },
+  {
+   "speaker": "A",
+   "text": "The rim also matters. A thin rim lets the wine flow smoothly into your mouth, without the feeling of a thick edge."
+  },
+  {
+   "speaker": "A",
+   "text": "Some studies show that glass shape changes how people describe a wine. However, scientists still discuss how much of this comes from chemistry and how much from expectation. Either way, a good, clean glass with a tulip shape is a great start for almost any wine."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Wine glasses come in many shapes.",
+   "start": 0.0,
+   "end": 2.4,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Some are tall and narrow, others have huge round bowls.",
+   "start": 2.87,
+   "end": 6.87,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Is this just style, or does the shape really change the experience?",
+   "start": 7.5,
+   "end": 11.9,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Many experts believe shape matters, mainly because of aroma.",
+   "start": 12.42,
+   "end": 16.82,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "When you swirl wine, aroma molecules evaporate and collect in the empty space above the wine.",
+   "start": 17.49,
+   "end": 23.61,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This space is called the headspace.",
+   "start": 24.24,
+   "end": 26.8,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "A glass with a wide bowl gives the wine a large surface.",
+   "start": 27.32,
+   "end": 31.04,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "More aroma molecules can evaporate.",
+   "start": 31.67,
+   "end": 34.23,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Then, if the glass becomes narrower toward the top, it gathers these aromas and guides them toward your nose.",
+   "start": 34.74,
+   "end": 41.7,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The bowl curvature and the narrower rim work together, a bit like a funnel.",
+   "start": 42.13,
+   "end": 46.77,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This improves vapor delivery to the nose.",
+   "start": 47.24,
+   "end": 49.76,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is why large, round glasses are popular for aromatic red wines such as Pinot Noir.",
+   "start": 50.28,
+   "end": 56.04,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Smaller glasses are often used for whites, partly to keep the wine cool.",
+   "start": 56.71,
+   "end": 60.95,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Tall, narrow flutes help keep bubbles in sparkling wine, although many experts now prefer wider tulip shapes to enjoy more aroma.",
+   "start": 61.62,
+   "end": 70.02,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The rim also matters.",
+   "start": 70.54,
+   "end": 72.38,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "A thin rim lets the wine flow smoothly into your mouth, without the feeling of a thick edge.",
+   "start": 72.97,
+   "end": 78.73,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some studies show that glass shape changes how people describe a wine.",
+   "start": 79.25,
+   "end": 83.89,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "However, scientists still discuss how much of this comes from chemistry and how much from expectation.",
+   "start": 84.44,
+   "end": 90.96,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Either way, a good, clean glass with a tulip shape is a great start for almost any wine.",
+   "start": 91.43,
+   "end": 97.31,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 234,
+ "duration": 97.2,
+ "wpm": 144,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:50"
+}

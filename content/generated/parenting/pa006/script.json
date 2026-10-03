@@ -1,0 +1,187 @@
+{
+ "id": "pa006",
+ "author": "claude",
+ "category": "parenting",
+ "title": "How Babies Learn Language Before They Speak",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "babbling",
+  "infant-directed speech",
+  "sound patterns"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Babies usually say their first words around their first birthday. But language learning starts long before that. In fact, it may begin even before birth."
+  },
+  {
+   "speaker": "A",
+   "text": "Newborn babies already prefer their mother's voice and the sound of the language they heard in the womb. Over the first months, they listen carefully to the sound patterns around them. Researchers have found that young babies can tell the difference between many speech sounds used in languages all over the world."
+  },
+  {
+   "speaker": "A",
+   "text": "Something interesting happens toward the end of the first year. Babies become more sensitive to the sounds of their own language and less sensitive to sounds they rarely hear. For example, Japanese babies gradually find it harder to hear the difference between the English sounds R and L."
+  },
+  {
+   "speaker": "A",
+   "text": "Around six months, babies start babbling. Babbling is repeated sounds like ba-ba-ba or da-da-da. It is practice for the mouth and tongue, and it slowly starts to sound like the family's language."
+  },
+  {
+   "speaker": "A",
+   "text": "Adults help in a natural way. Around the world, people speak to babies with a higher, more musical voice, slower speech and clear, repeated words. Scientists call this infant-directed speech. Studies suggest it helps babies pay attention and pick out words."
+  },
+  {
+   "speaker": "A",
+   "text": "Perhaps most important is conversation. When a baby makes a sound and a parent responds, then the baby responds again, it is like a game of tennis. These back-and-forth moments strongly support language development."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Babies usually say their first words around their first birthday.",
+   "start": 0.0,
+   "end": 3.88,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "But language learning starts long before that.",
+   "start": 4.51,
+   "end": 7.23,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "In fact, it may begin even before birth.",
+   "start": 7.82,
+   "end": 10.86,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Newborn babies already prefer their mother's voice and the sound of the language they heard in the womb.",
+   "start": 11.38,
+   "end": 17.62,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Over the first months, they listen carefully to the sound patterns around them.",
+   "start": 18.05,
+   "end": 22.77,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Researchers have found that young babies can tell the difference between many speech sounds used in languages all over the world.",
+   "start": 23.2,
+   "end": 30.24,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Something interesting happens toward the end of the first year.",
+   "start": 30.76,
+   "end": 33.96,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Babies become more sensitive to the sounds of their own language and less sensitive to sounds they rarely hear.",
+   "start": 34.95,
+   "end": 41.55,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, Japanese babies gradually find it harder to hear the difference between the English sounds R and L.",
+   "start": 42.34,
+   "end": 49.86,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Around six months, babies start babbling.",
+   "start": 50.38,
+   "end": 53.18,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Babbling is repeated sounds like ba-ba-ba or da-da-da.",
+   "start": 54.17,
+   "end": 58.73,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It is practice for the mouth and tongue, and it slowly starts to sound like the family's language.",
+   "start": 59.4,
+   "end": 64.92,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Adults help in a natural way.",
+   "start": 65.44,
+   "end": 67.28,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Around the world, people speak to babies with a higher, more musical voice, slower speech and clear, repeated words.",
+   "start": 67.71,
+   "end": 76.35,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Scientists call this infant-directed speech.",
+   "start": 77.42,
+   "end": 80.14,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Studies suggest it helps babies pay attention and pick out words.",
+   "start": 81.21,
+   "end": 85.37,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Perhaps most important is conversation.",
+   "start": 85.89,
+   "end": 88.77,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "When a baby makes a sound and a parent responds, then the baby responds again, it is like a game of tennis.",
+   "start": 89.44,
+   "end": 96.16,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "These back-and-forth moments strongly support language development.",
+   "start": 96.83,
+   "end": 100.91,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 232,
+ "duration": 100.8,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 78,
+ "created": "2026-10-03 23:57"
+}

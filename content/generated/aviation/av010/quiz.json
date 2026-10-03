@@ -1,0 +1,114 @@
+{
+ "id": "av010",
+ "author": "claude",
+ "summary_ja": "空では管制官が飛行機の間隔を保つが、万一のために機体には TCAS（空中衝突防止装置）がある。トランスポンダーの応答を使って周りの機体の状況を把握し、近づきすぎると「Traffic, traffic」と注意（TA）、さらに危険になると「Climb」「Descend」と回避指示（RA）を出す。2機は通信し合い、一方が上昇なら他方は降下。パイロットは管制と違っても RA にすぐ従う。",
+ "listening": [
+  {
+   "q": "TCAS とは何の略？",
+   "options": [
+    "自動操縦装置",
+    "空中衝突防止装置",
+    "着陸誘導装置",
+    "気象レーダー"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"That stands for Traffic Collision Avoidance System.\""
+  },
+  {
+   "q": "最初の段階の警告は？",
+   "options": [
+    "管制官からの電話",
+    "「Climb, climb」という指示",
+    "「Traffic, traffic」というトラフィック・アドバイザリー",
+    "警報ベルだけ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"TCAS first gives a warning called a traffic advisory. A voice in the cockpit says, 'Traffic, traffic.'\""
+  },
+  {
+   "q": "RA が出たとき、パイロットはどうする？",
+   "options": [
+    "乗客に知らせる",
+    "無視する",
+    "管制官と違う指示でも、すぐに従う",
+    "管制官の指示を待つ"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Pilots are trained to follow these instructions right away, even if a controller says something different.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 1,
+   "ja": "地上の航空管制官が飛行機同士の間隔を保っています。",
+   "points_ja": "controllers on the ground がつながり、keep them apart が「キープゼマパート」と聞こえます。"
+  },
+  {
+   "sentence": 10,
+   "ja": "このようにして、周りの交通の状況を把握します。",
+   "points_ja": "builds a picture of the が一続きに聞こえ、around it が「アラウンディット」になります。"
+  },
+  {
+   "sentence": 17,
+   "ja": "一方の飛行機が上昇を指示されると、もう一方は降下を指示されます。",
+   "points_ja": "plane is told to が続き、other is told to も同じ形で繰り返されます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "TCAS が周りの機体を把握し、段階的に警告と回避指示を出す仕組み",
+    "飛行機の燃費",
+    "空港の騒音",
+    "管制官の仕事の歴史"
+   ],
+   "answer": 0,
+   "explanation_ja": "仕組み、TA と RA、2機の連携、パイロットの対応を説明しています。"
+  },
+  {
+   "q": "TCAS が周りの機体を知る方法は？",
+   "options": [
+    "衛星写真を使う",
+    "管制官から教わる",
+    "カメラで見る",
+    "自ら信号を出し、近くの機体のトランスポンダーの応答を聞く"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"TCAS sends out its own signals and listens to the answers from nearby planes.\""
+  },
+  {
+   "q": "altitude の説明として本文にあるのは？",
+   "options": [
+    "どれだけ高く飛んでいるか",
+    "飛行機の向き",
+    "飛行機の速さ",
+    "飛行機の重さ"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"its altitude, or how high it is flying.\""
+  },
+  {
+   "q": "\"The clever part\" とされているのは？",
+   "options": [
+    "声が大きいこと",
+    "安く作れること",
+    "2機が通信し合い、反対の回避指示を出すこと",
+    "画面がきれいなこと"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"The clever part is that the two planes talk to each other.\""
+  },
+  {
+   "q": "最後の文 \"A few seconds can make a big difference.\" が伝えたいことは？",
+   "options": [
+    "時計を合わせることが大切",
+    "すぐに従うことが安全に大きく関わる",
+    "数秒の遅れは問題ない",
+    "飛行機は速すぎる"
+   ],
+   "answer": 1,
+   "explanation_ja": "RA にすぐ従う理由を述べています。"
+  }
+ ]
+}

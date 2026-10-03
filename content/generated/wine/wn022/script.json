@@ -1,0 +1,194 @@
+{
+ "id": "wn022",
+ "author": "claude",
+ "category": "wine",
+ "title": "Cold Soak: Pre-Fermentation Maceration",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "cold soak",
+  "aqueous extraction",
+  "color depth"
+ ],
+ "cast": {
+  "A": {
+   "name": "Max",
+   "id": "Gfpl8Yo74Is0W6cPUWWT",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In red winemaking, color, flavor and tannins come mainly from the grape skins. The process of getting these out of the skins and into the juice is called extraction. One technique to control extraction is the cold soak."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is how it works. After the grapes are crushed, the winemaker keeps the mix of juice and skins cold, often below ten or fifteen degrees Celsius. At this temperature, the yeast cannot start fermentation yet. The skins simply soak in the juice, usually for several days."
+  },
+  {
+   "speaker": "A",
+   "text": "Why do this? During the cold soak, there is no alcohol yet. The liquid is mostly water and sugar. This is called aqueous extraction, meaning extraction in water. Some colored pigments and aroma compounds dissolve easily in water. Many harsh tannins, especially those from the seeds, dissolve more easily in alcohol. So a cold soak can increase color depth and fruit aromas without making the wine too tough."
+  },
+  {
+   "speaker": "A",
+   "text": "The technique is popular with thin-skinned grapes like Pinot Noir, which can produce pale wines. Winemakers hope for deeper color and a more fragrant, fruity wine."
+  },
+  {
+   "speaker": "A",
+   "text": "However, not everyone agrees on how much difference it makes. Some studies show clear benefits, while others show only small effects. There are also risks, such as unwanted bacteria if the temperature is not kept low."
+  },
+  {
+   "speaker": "A",
+   "text": "Like many winemaking choices, it is a tool, not a rule."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In red winemaking, color, flavor and tannins come mainly from the grape skins.",
+   "start": 0.0,
+   "end": 5.64,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The process of getting these out of the skins and into the juice is called extraction.",
+   "start": 6.35,
+   "end": 11.51,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One technique to control extraction is the cold soak.",
+   "start": 12.3,
+   "end": 15.5,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Here is how it works.",
+   "start": 16.02,
+   "end": 17.22,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "After the grapes are crushed, the winemaker keeps the mix of juice and skins cold, often below ten or fifteen degrees Celsius.",
+   "start": 18.13,
+   "end": 26.61,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "At this temperature, the yeast cannot start fermentation yet.",
+   "start": 27.28,
+   "end": 31.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The skins simply soak in the juice, usually for several days.",
+   "start": 31.71,
+   "end": 35.87,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Why do this?",
+   "start": 36.39,
+   "end": 37.27,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "During the cold soak, there is no alcohol yet.",
+   "start": 37.7,
+   "end": 41.34,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The liquid is mostly water and sugar.",
+   "start": 41.97,
+   "end": 44.21,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This is called aqueous extraction, meaning extraction in water.",
+   "start": 45.2,
+   "end": 49.76,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some colored pigments and aroma compounds dissolve easily in water.",
+   "start": 50.59,
+   "end": 54.95,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many harsh tannins, especially those from the seeds, dissolve more easily in alcohol.",
+   "start": 55.66,
+   "end": 61.22,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "So a cold soak can increase color depth and fruit aromas without making the wine too tough.",
+   "start": 61.93,
+   "end": 68.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The technique is popular with thin-skinned grapes like Pinot Noir, which can produce pale wines.",
+   "start": 68.61,
+   "end": 74.45,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Winemakers hope for deeper color and a more fragrant, fruity wine.",
+   "start": 75.12,
+   "end": 79.2,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "However, not everyone agrees on how much difference it makes.",
+   "start": 79.8,
+   "end": 83.72,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Some studies show clear benefits, while others show only small effects.",
+   "start": 84.39,
+   "end": 89.11,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "There are also risks, such as unwanted bacteria if the temperature is not kept low.",
+   "start": 89.78,
+   "end": 95.3,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Like many winemaking choices, it is a tool, not a rule.",
+   "start": 95.82,
+   "end": 100.14,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 226,
+ "duration": 100.1,
+ "wpm": 136,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 73,
+ "created": "2026-10-03 23:49"
+}

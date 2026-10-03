@@ -1,0 +1,229 @@
+{
+ "id": "wn003",
+ "author": "claude",
+ "category": "wine",
+ "title": "How a Cool Vintage Shapes Bordeaux Tannins",
+ "level": "B2",
+ "format": "dialogue",
+ "key_terms": [
+  "phenolic ripeness",
+  "astringency",
+  "green tannins"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  },
+  "B": {
+   "name": "George",
+   "id": "JBFqnCBsd6RMkjVDRZzb",
+   "accent": "UK"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When people talk about a great vintage in Bordeaux, they usually mean a warm year. So what happens in a cool year?"
+  },
+  {
+   "speaker": "B",
+   "text": "Well, the biggest challenge is ripeness. Cabernet Sauvignon ripens late, so in a cool year the grapes sometimes struggle to get fully ripe before the autumn rains arrive."
+  },
+  {
+   "speaker": "A",
+   "text": "But ripe just means sweet, doesn't it?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's only half the story. Winemakers also talk about phenolic ripeness. That's the ripeness of the skins and seeds, where the tannins and color come from. The sugar can be high enough while the skins still aren't ready."
+  },
+  {
+   "speaker": "A",
+   "text": "And what does that do to the wine?"
+  },
+  {
+   "speaker": "B",
+   "text": "You get what we call green tannins. Tannins are what make your mouth feel dry, a bit like strong black tea. That drying feeling is called astringency. Green tannins feel rough and slightly bitter, and you might even smell something like green pepper."
+  },
+  {
+   "speaker": "A",
+   "text": "So cool vintages are simply worse?"
+  },
+  {
+   "speaker": "B",
+   "text": "Not at all. In a cool year, the acidity stays higher, so the wines can taste fresh and elegant. Good producers pick carefully and handle the grapes gently, and some of those wines age beautifully."
+  },
+  {
+   "speaker": "A",
+   "text": "So it's less about good years and bad years, and more about style."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. A warm vintage gives you power. A cool one can give you freshness and precision."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When people talk about a great vintage in Bordeaux, they usually mean a warm year.",
+   "start": 0.0,
+   "end": 5.92,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "So what happens in a cool year?",
+   "start": 6.43,
+   "end": 8.75,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Well, the biggest challenge is ripeness.",
+   "start": 9.47,
+   "end": 12.43,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "Cabernet Sauvignon ripens late, so in a cool year the grapes sometimes struggle to get fully ripe before the autumn rains arrive.",
+   "start": 12.86,
+   "end": 20.94,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "But ripe just means sweet, doesn't it?",
+   "start": 21.66,
+   "end": 24.7,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "That's only half the story.",
+   "start": 25.42,
+   "end": 27.3,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "Winemakers also talk about phenolic ripeness.",
+   "start": 27.93,
+   "end": 31.17,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "That's the ripeness of the skins and seeds, where the tannins and color come from.",
+   "start": 31.8,
+   "end": 36.84,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "The sugar can be high enough while the skins still aren't ready.",
+   "start": 37.23,
+   "end": 40.63,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "And what does that do to the wine?",
+   "start": 41.35,
+   "end": 43.51,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "You get what we call green tannins.",
+   "start": 44.23,
+   "end": 46.55,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Tannins are what make your mouth feel dry, a bit like strong black tea.",
+   "start": 47.38,
+   "end": 51.9,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That drying feeling is called astringency.",
+   "start": 52.53,
+   "end": 55.49,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Green tannins feel rough and slightly bitter, and you might even smell something like green pepper.",
+   "start": 56.16,
+   "end": 62.0,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "So cool vintages are simply worse?",
+   "start": 62.72,
+   "end": 65.84,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Not at all.",
+   "start": 66.56,
+   "end": 67.36,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "In a cool year, the acidity stays higher, so the wines can taste fresh and elegant.",
+   "start": 67.95,
+   "end": 73.63,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Good producers pick carefully and handle the grapes gently, and some of those wines age beautifully.",
+   "start": 74.3,
+   "end": 80.54,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "So it's less about good years and bad years, and more about style.",
+   "start": 81.26,
+   "end": 86.3,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 87.02,
+   "end": 88.14,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A warm vintage gives you power.",
+   "start": 88.57,
+   "end": 90.89,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "A cool one can give you freshness and precision.",
+   "start": 91.32,
+   "end": 94.28,
+   "turn": 9,
+   "speaker": "B"
+  }
+ ],
+ "words": 216,
+ "duration": 94.2,
+ "wpm": 138,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 16,
+ "created": "2026-10-03 23:31"
+}

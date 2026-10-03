@@ -1,0 +1,208 @@
+{
+ "id": "wn031",
+ "author": "claude",
+ "category": "wine",
+ "title": "Evaluating Mid-Palate Weight and Texture",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "mid-palate",
+  "mouthfeel",
+  "weight and density"
+ ],
+ "cast": {
+  "A": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "When professional tasters describe a wine in the mouth, they often divide the experience into three parts: the attack, the mid-palate and the finish."
+  },
+  {
+   "speaker": "A",
+   "text": "The attack is your first impression, just as the wine touches your tongue. The finish is what stays after you swallow. In between is the mid-palate, the few seconds when the wine fills your mouth. Many experts believe this middle part shows the true quality of a wine."
+  },
+  {
+   "speaker": "A",
+   "text": "What should you pay attention to here? First, weight and density. Weight is how heavy or light the wine feels, a bit like the difference between skim milk and whole milk. Density is how concentrated the flavors feel. Does the wine feel full and deep, or thin and watery?"
+  },
+  {
+   "speaker": "A",
+   "text": "Next, think about mouthfeel, the physical texture of the wine. Is it smooth like silk, or rough and grippy? Is it creamy, or crisp and sharp? Tannins, acidity, alcohol and sugar all affect this."
+  },
+  {
+   "speaker": "A",
+   "text": "Some wines have a strong attack and a long finish, but feel empty in the middle. Tasters call this a hollow mid-palate. It is often a sign that the grapes were not fully concentrated."
+  },
+  {
+   "speaker": "A",
+   "text": "Practicing this is simple. Take a small sip, keep it in your mouth for a few seconds and ask yourself three questions: How heavy? How intense? What texture? Over time, you will build a clear vocabulary for describing wine."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "When professional tasters describe a wine in the mouth, they often divide the experience into three parts: the attack, the mid-palate and the finish.",
+   "start": 0.0,
+   "end": 10.24,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "The attack is your first impression, just as the wine touches your tongue.",
+   "start": 10.76,
+   "end": 15.48,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The finish is what stays after you swallow.",
+   "start": 16.15,
+   "end": 19.11,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In between is the mid-palate, the few seconds when the wine fills your mouth.",
+   "start": 19.78,
+   "end": 25.14,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Many experts believe this middle part shows the true quality of a wine.",
+   "start": 25.57,
+   "end": 30.13,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "What should you pay attention to here?",
+   "start": 30.65,
+   "end": 32.49,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "First, weight and density.",
+   "start": 33.96,
+   "end": 36.36,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Weight is how heavy or light the wine feels, a bit like the difference between skim milk and whole milk.",
+   "start": 37.03,
+   "end": 43.67,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Density is how concentrated the flavors feel.",
+   "start": 44.58,
+   "end": 47.38,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Does the wine feel full and deep, or thin and watery?",
+   "start": 47.81,
+   "end": 51.81,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Next, think about mouthfeel, the physical texture of the wine.",
+   "start": 52.33,
+   "end": 56.93,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Is it smooth like silk, or rough and grippy?",
+   "start": 57.56,
+   "end": 60.84,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Is it creamy, or crisp and sharp?",
+   "start": 61.75,
+   "end": 64.55,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Tannins, acidity, alcohol and sugar all affect this.",
+   "start": 65.3,
+   "end": 69.78,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Some wines have a strong attack and a long finish, but feel empty in the middle.",
+   "start": 70.3,
+   "end": 75.82,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Tasters call this a hollow mid-palate.",
+   "start": 76.49,
+   "end": 79.53,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is often a sign that the grapes were not fully concentrated.",
+   "start": 79.92,
+   "end": 83.72,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Practicing this is simple.",
+   "start": 84.24,
+   "end": 85.84,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Take a small sip, keep it in your mouth for a few seconds and ask yourself three questions: How heavy?",
+   "start": 86.67,
+   "end": 93.99,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "How intense?",
+   "start": 94.62,
+   "end": 95.78,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "What texture?",
+   "start": 96.41,
+   "end": 97.29,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Over time, you will build a clear vocabulary for describing wine.",
+   "start": 98.2,
+   "end": 102.52,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 228,
+ "duration": 102.4,
+ "wpm": 134,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 71,
+ "created": "2026-10-03 23:49"
+}

@@ -1,0 +1,272 @@
+{
+ "id": "ns017",
+ "author": "claude",
+ "category": "science",
+ "title": "The Northern Lights Explained",
+ "level": "B1+",
+ "format": "dialogue",
+ "key_terms": [
+  "aurora",
+  "solar wind",
+  "magnetic field"
+ ],
+ "cast": {
+  "A": {
+   "name": "Tyler",
+   "id": "raMcNf2S8wCmuaBcyI6E",
+   "accent": "US"
+  },
+  "B": {
+   "name": "Matilda",
+   "id": "XrExE9yKIg1WjnnlVkGX",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "The northern lights are on many people's travel lists. What actually causes them?"
+  },
+  {
+   "speaker": "B",
+   "text": "It starts with the sun. The sun constantly sends out a stream of charged particles into space. This is called the solar wind."
+  },
+  {
+   "speaker": "A",
+   "text": "And those particles reach the Earth?"
+  },
+  {
+   "speaker": "B",
+   "text": "Some of them do. But the Earth has a magnetic field that protects us. It guides many of the particles toward the regions around the North and South Poles."
+  },
+  {
+   "speaker": "A",
+   "text": "So that's why auroras are seen near the poles."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. When the particles hit gases high in the atmosphere, around one hundred kilometers up or more, they give those gases energy. The gases then release that energy as light. That's the aurora."
+  },
+  {
+   "speaker": "A",
+   "text": "Why are there different colors?"
+  },
+  {
+   "speaker": "B",
+   "text": "Different gases produce different colors. Oxygen usually creates the common green light. At very high altitudes, oxygen can also produce red. Nitrogen can add blue and purple."
+  },
+  {
+   "speaker": "A",
+   "text": "Can you see them from Japan?"
+  },
+  {
+   "speaker": "B",
+   "text": "Very rarely, mostly in Hokkaido. During very strong solar storms, auroras can appear much farther from the poles than usual. In twenty twenty-four, people saw red auroras from several places in Japan."
+  },
+  {
+   "speaker": "A",
+   "text": "When is the best time to see them?"
+  },
+  {
+   "speaker": "B",
+   "text": "Dark, clear winter nights in places like Norway, Finland, Iceland or Canada. Solar activity also follows a cycle of about eleven years. Around the peak, strong auroras become more common."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "The northern lights are on many people's travel lists.",
+   "start": 0.0,
+   "end": 3.2,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "What actually causes them?",
+   "start": 3.79,
+   "end": 5.63,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "It starts with the sun.",
+   "start": 6.35,
+   "end": 7.39,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "The sun constantly sends out a stream of charged particles into space.",
+   "start": 7.74,
+   "end": 13.26,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "This is called the solar wind.",
+   "start": 14.17,
+   "end": 16.41,
+   "turn": 1,
+   "speaker": "B"
+  },
+  {
+   "text": "And those particles reach the Earth?",
+   "start": 17.13,
+   "end": 19.29,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Some of them do.",
+   "start": 20.01,
+   "end": 20.97,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "But the Earth has a magnetic field that protects us.",
+   "start": 21.88,
+   "end": 25.04,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "It guides many of the particles toward the regions around the North and South Poles.",
+   "start": 25.67,
+   "end": 30.79,
+   "turn": 3,
+   "speaker": "B"
+  },
+  {
+   "text": "So that's why auroras are seen near the poles.",
+   "start": 31.51,
+   "end": 34.55,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Exactly.",
+   "start": 35.27,
+   "end": 36.55,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "When the particles hit gases high in the atmosphere, around one hundred kilometers up or more, they give those gases energy.",
+   "start": 36.98,
+   "end": 45.62,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "The gases then release that energy as light.",
+   "start": 46.05,
+   "end": 49.17,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "That's the aurora.",
+   "start": 49.6,
+   "end": 50.88,
+   "turn": 5,
+   "speaker": "B"
+  },
+  {
+   "text": "Why are there different colors?",
+   "start": 51.6,
+   "end": 53.6,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "Different gases produce different colors.",
+   "start": 54.32,
+   "end": 57.08,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Oxygen usually creates the common green light.",
+   "start": 57.71,
+   "end": 60.83,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "At very high altitudes, oxygen can also produce red.",
+   "start": 61.42,
+   "end": 65.58,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Nitrogen can add blue and purple.",
+   "start": 66.25,
+   "end": 68.73,
+   "turn": 7,
+   "speaker": "B"
+  },
+  {
+   "text": "Can you see them from Japan?",
+   "start": 69.45,
+   "end": 71.29,
+   "turn": 8,
+   "speaker": "A"
+  },
+  {
+   "text": "Very rarely, mostly in Hokkaido.",
+   "start": 72.01,
+   "end": 75.05,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "During very strong solar storms, auroras can appear much farther from the poles than usual.",
+   "start": 75.72,
+   "end": 81.64,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "In twenty twenty-four, people saw red auroras from several places in Japan.",
+   "start": 82.63,
+   "end": 87.83,
+   "turn": 9,
+   "speaker": "B"
+  },
+  {
+   "text": "When is the best time to see them?",
+   "start": 88.55,
+   "end": 90.63,
+   "turn": 10,
+   "speaker": "A"
+  },
+  {
+   "text": "Dark, clear winter nights in places like Norway, Finland, Iceland or Canada.",
+   "start": 91.35,
+   "end": 97.71,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Solar activity also follows a cycle of about eleven years.",
+   "start": 98.58,
+   "end": 102.74,
+   "turn": 11,
+   "speaker": "B"
+  },
+  {
+   "text": "Around the peak, strong auroras become more common.",
+   "start": 103.25,
+   "end": 106.53,
+   "turn": 11,
+   "speaker": "B"
+  }
+ ],
+ "words": 221,
+ "duration": 106.4,
+ "wpm": 125,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 72,
+ "created": "2026-10-04 00:01"
+}

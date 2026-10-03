@@ -1,0 +1,114 @@
+{
+ "id": "wt010",
+ "author": "claude",
+ "summary_ja": "青焼きネジは塗装ではなく熱で色をつける。磨いた鋼を真鍮の削りくずを入れた板の上でゆっくり加熱すると、薄い酸化膜ができ、黄色→金色→茶→紫と変わり、約300度で青になる。数秒遅れると灰色になる。化学的な方法もあるが、熱による青は深みがある。",
+ "listening": [
+  {
+   "q": "ネジの青い色はどうやってつける？",
+   "options": [
+    "光",
+    "電気",
+    "塗装",
+    "熱"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"They are not painted. They get their color from heat.\""
+  },
+  {
+   "q": "加熱すると色はどの順番で変わる？",
+   "options": [
+    "青 → 紫 → 茶 → 黄",
+    "淡い黄色 → 金色 → 茶 → 紫 → 青",
+    "赤 → 緑 → 青",
+    "灰色 → 青 → 金色"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"First, the steel turns pale yellow, then gold, then brown and purple. Finally ... it becomes blue.\""
+  },
+  {
+   "q": "加熱しすぎるとどうなる？",
+   "options": [
+    "さらに濃い青になる",
+    "溶ける",
+    "金色に戻る",
+    "淡い灰色になる"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A few seconds too long, and the color turns pale gray.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "高級な時計の中を見ると、深く美しい青色のネジがいくつか見えるかもしれません。",
+   "points_ja": "Look inside a がつながり、with a deep の a はほとんど聞こえません。"
+  },
+  {
+   "sentence": 6,
+   "ja": "それから、板は炎の上でゆっくり加熱されます。",
+   "points_ja": "heated over a がつながり「ヒーティドウヴァラ」に近くなります。"
+  },
+  {
+   "sentence": 13,
+   "ja": "その瞬間、時計師はすぐにネジを取り出さなければなりません。",
+   "points_ja": "At that の t が飲み込まれ、must remove の t もほとんど聞こえません。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "鋼は300度で溶ける",
+    "青いネジは化学処理で作るのが一番よい",
+    "熱による青焼きは技術が必要で、美しい色を生む伝統的な方法である",
+    "ネジは錆びやすい"
+   ],
+   "answer": 2,
+   "explanation_ja": "熱による青焼きの工程、難しさ、美しさを説明しています。"
+  },
+  {
+   "q": "板に真鍮の削りくずを入れる理由は？",
+   "options": [
+    "ネジを固定するため",
+    "熱を均一に広げるため",
+    "錆を防ぐため",
+    "色をつけるため"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"often filled with brass shavings so the heat spreads evenly\"。"
+  },
+  {
+   "q": "oxidation の説明として本文に合うものは？",
+   "options": [
+    "金属が溶けること",
+    "金属が冷えること",
+    "錆と同じ種類の反応だが、ここではごく薄く制御されている",
+    "色を塗ること"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the same kind of reaction that causes rust, but here it is controlled and extremely thin.\""
+  },
+  {
+   "q": "temper colors とは？",
+   "options": [
+    "酸化膜で光が反射して見える色",
+    "炎の色",
+    "時計のブランド名",
+    "塗料の種類"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Light reflects from this layer, and we see color. These colors are called temper colors.\""
+  },
+  {
+   "q": "化学的な方法についての専門家の意見は？",
+   "options": [
+    "色が変わりやすい",
+    "熱より美しい",
+    "色が平坦になる",
+    "より長持ちする"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"experts say the color is flatter.\""
+  }
+ ]
+}

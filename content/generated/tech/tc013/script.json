@@ -1,0 +1,187 @@
+{
+ "id": "tc013",
+ "author": "claude",
+ "category": "tech",
+ "title": "Optimizing App Store Previews",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "App Store Optimization",
+  "conversion rate",
+  "store metadata"
+ ],
+ "cast": {
+  "A": {
+   "name": "Luis",
+   "id": "WGINef1wh4Hi6O62bfO8",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Most people decide whether to download an app in just a few seconds. They look at the icon, the name and the first screenshots on the App Store page. Then they either tap Get or move on. That is why App Store Optimization, or ASO, matters so much."
+  },
+  {
+   "speaker": "A",
+   "text": "ASO is the process of improving your App Store presence so that more people find your app and download it. It has two main parts: being found in search, and convincing people once they see your page."
+  },
+  {
+   "speaker": "A",
+   "text": "For search, store metadata is important. This includes your app name, subtitle and keyword field. These words help the App Store understand what your app does. Choose words that real users would type, not clever marketing phrases."
+  },
+  {
+   "speaker": "A",
+   "text": "For convincing people, the screenshots and preview videos are key. Many visitors never scroll beyond the first two or three images. So those images should clearly show the main benefit. A good screenshot does not just show the interface. It tells a short story with a clear headline, such as Plan your week in two minutes."
+  },
+  {
+   "speaker": "A",
+   "text": "Developers measure success with the conversion rate, the percentage of people who download the app after viewing the page. Even small improvements can lead to many more users."
+  },
+  {
+   "speaker": "A",
+   "text": "Apple also lets developers test different product page versions with real visitors. Instead of guessing which design works best, you can compare results with real data and keep the winner."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Most people decide whether to download an app in just a few seconds.",
+   "start": 0.0,
+   "end": 4.24,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "They look at the icon, the name and the first screenshots on the App Store page.",
+   "start": 4.67,
+   "end": 9.23,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Then they either tap Get or move on.",
+   "start": 9.66,
+   "end": 12.46,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "That is why App Store Optimization, or ASO, matters so much.",
+   "start": 12.89,
+   "end": 17.77,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "ASO is the process of improving your App Store presence so that more people find your app and download it.",
+   "start": 18.29,
+   "end": 24.45,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "It has two main parts: being found in search, and convincing people once they see your page.",
+   "start": 25.36,
+   "end": 31.04,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "For search, store metadata is important.",
+   "start": 31.56,
+   "end": 34.76,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "This includes your app name, subtitle and keyword field.",
+   "start": 35.19,
+   "end": 39.03,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "These words help the App Store understand what your app does.",
+   "start": 39.5,
+   "end": 43.06,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Choose words that real users would type, not clever marketing phrases.",
+   "start": 43.57,
+   "end": 47.73,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "For convincing people, the screenshots and preview videos are key.",
+   "start": 48.25,
+   "end": 52.57,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Many visitors never scroll beyond the first two or three images.",
+   "start": 53.32,
+   "end": 57.24,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "So those images should clearly show the main benefit.",
+   "start": 57.67,
+   "end": 61.11,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A good screenshot does not just show the interface.",
+   "start": 61.54,
+   "end": 64.5,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It tells a short story with a clear headline, such as Plan your week in two minutes.",
+   "start": 64.93,
+   "end": 70.29,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Developers measure success with the conversion rate, the percentage of people who download the app after viewing the page.",
+   "start": 70.81,
+   "end": 77.69,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Even small improvements can lead to many more users.",
+   "start": 78.2,
+   "end": 81.32,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Apple also lets developers test different product page versions with real visitors.",
+   "start": 81.84,
+   "end": 86.68,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Instead of guessing which design works best, you can compare results with real data and keep the winner.",
+   "start": 87.31,
+   "end": 93.15,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 236,
+ "duration": 93.1,
+ "wpm": 152,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 76,
+ "created": "2026-10-03 23:53"
+}

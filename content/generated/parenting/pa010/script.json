@@ -1,0 +1,219 @@
+{
+ "id": "pa010",
+ "author": "claude",
+ "category": "parenting",
+ "title": "Sibling Rivalry and Fairness",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "sibling rivalry",
+  "fairness",
+  "one-on-one time"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "If you have more than one child, you have probably heard this sentence many times: That's not fair! Arguments between brothers and sisters are a normal part of family life. Psychologists call this sibling rivalry."
+  },
+  {
+   "speaker": "A",
+   "text": "Sibling rivalry happens for many reasons. Children compete for their parents' attention and love. They may have different personalities, or one may feel the other gets more freedom or more gifts. Sometimes they are simply tired or bored."
+  },
+  {
+   "speaker": "A",
+   "text": "Many parents try to solve this by treating children exactly the same. Same toys, same amount of time, same rules. But children are different ages and have different needs. Treating them exactly the same is not always fair."
+  },
+  {
+   "speaker": "A",
+   "text": "A more helpful idea is fairness based on needs. For example, a teenager may need help with homework, while a toddler needs help getting dressed. Each child gets what they need, not the same thing."
+  },
+  {
+   "speaker": "A",
+   "text": "Another powerful strategy is one-on-one time. This means spending a short, regular time with each child alone, without siblings. Even fifteen minutes doing something the child chooses can help them feel special and secure. Children who feel secure often compete less."
+  },
+  {
+   "speaker": "A",
+   "text": "Parents can also avoid comparing siblings, such as Why can't you be quiet like your sister? Comparisons can create long-lasting resentment."
+  },
+  {
+   "speaker": "A",
+   "text": "Finally, remember that sibling relationships are training grounds. While arguing, children practice sharing, negotiating and making up. These skills will help them throughout their lives."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "If you have more than one child, you have probably heard this sentence many times: That's not fair!",
+   "start": 0.0,
+   "end": 6.48,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Arguments between brothers and sisters are a normal part of family life.",
+   "start": 7.15,
+   "end": 11.27,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Psychologists call this sibling rivalry.",
+   "start": 11.9,
+   "end": 14.78,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Sibling rivalry happens for many reasons.",
+   "start": 15.3,
+   "end": 18.14,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Children compete for their parents' attention and love.",
+   "start": 18.77,
+   "end": 21.81,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "They may have different personalities, or one may feel the other gets more freedom or more gifts.",
+   "start": 22.48,
+   "end": 28.28,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Sometimes they are simply tired or bored.",
+   "start": 28.99,
+   "end": 32.11,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Many parents try to solve this by treating children exactly the same.",
+   "start": 32.63,
+   "end": 36.47,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Same toys, same amount of time, same rules.",
+   "start": 37.06,
+   "end": 40.58,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "But children are different ages and have different needs.",
+   "start": 41.25,
+   "end": 44.61,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Treating them exactly the same is not always fair.",
+   "start": 45.2,
+   "end": 48.48,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "A more helpful idea is fairness based on needs.",
+   "start": 49.0,
+   "end": 52.44,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For example, a teenager may need help with homework, while a toddler needs help getting dressed.",
+   "start": 53.27,
+   "end": 59.11,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Each child gets what they need, not the same thing.",
+   "start": 60.02,
+   "end": 63.38,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Another powerful strategy is one-on-one time.",
+   "start": 63.9,
+   "end": 67.42,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "This means spending a short, regular time with each child alone, without siblings.",
+   "start": 67.89,
+   "end": 73.45,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Even fifteen minutes doing something the child chooses can help them feel special and secure.",
+   "start": 73.88,
+   "end": 79.4,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Children who feel secure often compete less.",
+   "start": 79.83,
+   "end": 83.11,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Parents can also avoid comparing siblings, such as Why can't you be quiet like your sister?",
+   "start": 83.63,
+   "end": 90.03,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Comparisons can create long-lasting resentment.",
+   "start": 90.58,
+   "end": 93.58,
+   "turn": 5,
+   "speaker": "A"
+  },
+  {
+   "text": "Finally, remember that sibling relationships are training grounds.",
+   "start": 94.1,
+   "end": 98.38,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "While arguing, children practice sharing, negotiating and making up.",
+   "start": 99.01,
+   "end": 103.81,
+   "turn": 6,
+   "speaker": "A"
+  },
+  {
+   "text": "These skills will help them throughout their lives.",
+   "start": 104.28,
+   "end": 106.8,
+   "turn": 6,
+   "speaker": "A"
+  }
+ ],
+ "words": 233,
+ "duration": 106.7,
+ "wpm": 131,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 81,
+ "created": "2026-10-03 23:58"
+}

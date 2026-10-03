@@ -1,0 +1,114 @@
+{
+ "id": "av023",
+ "author": "claude",
+ "summary_ja": "冬の朝、離陸前に色のついた液体をかけるのは防除氷作業。薄い霜や氷でも翼の表面が荒れて空気の流れを乱し、揚力が減り抗力が増える。まずオレンジ色の熱い除氷液で雪や氷を溶かし、雪が降っていれば緑色の粘り気のある防氷液を塗って一定時間新しい氷を防ぐ（ホールドオーバータイム）。時間切れなら再処理。冬の遅延の理由。",
+ "listening": [
+  {
+   "q": "ほんの薄い氷でも危険な理由は？",
+   "options": [
+    "窓が見えなくなるから",
+    "エンジンが凍るから",
+    "機体が重くなりすぎるから",
+    "翼の表面が荒れて空気の流れを乱し、揚力が減るから"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"Even a thin layer of frost or ice can make the surface rough. This disturbs the airflow, reduces lift and increases drag.\""
+  },
+  {
+   "q": "2段階目の anti-icing で使う液体の特徴は？",
+   "options": [
+    "油",
+    "水だけ",
+    "オレンジ色の熱い液で、氷を溶かす",
+    "緑色の粘り気のある液で、一定時間新しい氷を防ぐ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"a thicker fluid, often green, is applied. It sticks to the wings and prevents new ice from forming for a limited time.\""
+  },
+  {
+   "q": "ホールドオーバータイムが切れたらどうなる？",
+   "options": [
+    "そのまま離陸する",
+    "乗客が降りる",
+    "欠航になる",
+    "もう一度処理を受けに戻る"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"If the plane waits too long and the holdover time runs out, it must return for another treatment.\""
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 0,
+   "ja": "寒い冬の朝、離陸前にトラックが飛行機に色のついた液体をかけているのを見るかもしれません。",
+   "points_ja": "spraying colored liquid がつながり、onto your が続けて聞こえます。"
+  },
+  {
+   "sentence": 11,
+   "ja": "それは水と一種のグリコールの混合物で、車の不凍液に似ています。",
+   "points_ja": "mixture of water and a type of が一続きに聞こえます。"
+  },
+  {
+   "sentence": 15,
+   "ja": "飛行機が滑走路で加速すると、液体は翼から流れ落ちます。",
+   "points_ja": "speeds up on the がつながり、flows off the が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "雪の降り方",
+    "冬の防除氷作業の理由と手順",
+    "飛行機の洗い方",
+    "冬の旅行のコツ"
+   ],
+   "answer": 1,
+   "explanation_ja": "氷の危険、2つの段階、ホールドオーバータイム、遅延の理由を説明しています。"
+  },
+  {
+   "q": "de-icing fluid について正しいものは？",
+   "options": [
+    "冷たい",
+    "熱く、オレンジ色のことが多く、雪や氷を溶かして取り除く",
+    "飲み水",
+    "緑色で翼に残る"
+   ],
+   "answer": 1,
+   "explanation_ja": "\"Workers spray hot de-icing fluid, often orange in color, to melt and remove snow and ice.\""
+  },
+  {
+   "q": "ホールドオーバータイムを左右するものとして挙げられていないものは？",
+   "options": [
+    "雪や雨の種類",
+    "液の種類",
+    "乗客の数",
+    "気温"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"the type of fluid, the temperature and the type of snow or rain\"。"
+  },
+  {
+   "q": "防氷液の成分は何に似ている？",
+   "options": [
+    "ガソリン",
+    "洗剤",
+    "食用油",
+    "車の不凍液"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"similar to car antifreeze.\""
+  },
+  {
+   "q": "最後の段落で話し手が伝えていることは？",
+   "options": [
+    "冬は飛ばないほうがよい",
+    "遅延は航空会社の怠慢",
+    "防除氷は不要",
+    "遅れはいらだつが、冬の安全に最も重要な手順の一つ"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"It may be frustrating, but it is one of the most important steps in keeping winter flights safe.\""
+  }
+ ]
+}

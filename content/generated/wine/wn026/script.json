@@ -1,0 +1,180 @@
+{
+ "id": "wn026",
+ "author": "claude",
+ "category": "wine",
+ "title": "Slope Aspect and Sun Exposure in Burgundy Grands Crus",
+ "level": "B2",
+ "format": "monologue",
+ "key_terms": [
+  "aspect",
+  "mid-slope",
+  "solar radiation"
+ ],
+ "cast": {
+  "A": {
+   "name": "Quentin",
+   "id": "Aa6nEBJJMKJwJkCx8VU2",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "In Burgundy, two vineyards that sit side by side can produce wines of very different quality and price. One reason is the shape of the land, especially its aspect and its position on the slope."
+  },
+  {
+   "speaker": "A",
+   "text": "Aspect means the direction a slope faces. Most of the famous Côte d'Or faces east or southeast. In a cool climate, this is a great advantage. The vines receive the gentle morning sun, which warms the soil early and dries the dew from the grapes. This means more solar radiation, the energy from sunlight, at the right time of day."
+  },
+  {
+   "speaker": "A",
+   "text": "Now look at the position on the slope. Many grand cru vineyards, the highest level in Burgundy, are found on the mid-slope. Why there?"
+  },
+  {
+   "speaker": "A",
+   "text": "At the top of the hill, the soil is often thin and rocky, and the wind is stronger. It can be too cool for full ripeness. At the bottom, the soil is deeper and richer, and water collects there. Vines grow too much and the grapes become less concentrated. Cold air also flows downhill at night and gathers in low areas, increasing the risk of frost."
+  },
+  {
+   "speaker": "A",
+   "text": "The mid-slope offers a balance: good drainage, good sun and protection from cold air. Over centuries, monks and growers carefully observed which places gave the best wine."
+  },
+  {
+   "speaker": "A",
+   "text": "Their observations became the famous map of Burgundy's vineyards that we still use today."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "In Burgundy, two vineyards that sit side by side can produce wines of very different quality and price.",
+   "start": 0.0,
+   "end": 6.96,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "One reason is the shape of the land, especially its aspect and its position on the slope.",
+   "start": 7.39,
+   "end": 12.67,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Aspect means the direction a slope faces.",
+   "start": 13.19,
+   "end": 16.39,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Most of the famous Côte d'Or faces east or southeast.",
+   "start": 17.06,
+   "end": 21.06,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "In a cool climate, this is a great advantage.",
+   "start": 21.45,
+   "end": 24.61,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The vines receive the gentle morning sun, which warms the soil early and dries the dew from the grapes.",
+   "start": 25.0,
+   "end": 31.36,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "This means more solar radiation, the energy from sunlight, at the right time of day.",
+   "start": 31.83,
+   "end": 37.15,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Now look at the position on the slope.",
+   "start": 37.67,
+   "end": 39.71,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Many grand cru vineyards, the highest level in Burgundy, are found on the mid-slope.",
+   "start": 40.34,
+   "end": 45.86,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Why there?",
+   "start": 46.29,
+   "end": 47.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "At the top of the hill, the soil is often thin and rocky, and the wind is stronger.",
+   "start": 47.61,
+   "end": 52.97,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "It can be too cool for full ripeness.",
+   "start": 53.64,
+   "end": 56.12,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "At the bottom, the soil is deeper and richer, and water collects there.",
+   "start": 56.79,
+   "end": 61.51,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Vines grow too much and the grapes become less concentrated.",
+   "start": 61.94,
+   "end": 65.86,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "Cold air also flows downhill at night and gathers in low areas, increasing the risk of frost.",
+   "start": 66.29,
+   "end": 72.29,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "The mid-slope offers a balance: good drainage, good sun and protection from cold air.",
+   "start": 72.81,
+   "end": 78.93,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Over centuries, monks and growers carefully observed which places gave the best wine.",
+   "start": 79.64,
+   "end": 85.08,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Their observations became the famous map of Burgundy's vineyards that we still use today.",
+   "start": 85.6,
+   "end": 90.88,
+   "turn": 5,
+   "speaker": "A"
+  }
+ ],
+ "words": 226,
+ "duration": 90.8,
+ "wpm": 149,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 69,
+ "created": "2026-10-03 23:49"
+}

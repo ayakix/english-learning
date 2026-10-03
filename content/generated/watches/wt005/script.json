@@ -1,0 +1,183 @@
+{
+ "id": "wt005",
+ "author": "claude",
+ "category": "watches",
+ "title": "Black Polish: The Peak of Finishing",
+ "level": "B1+",
+ "format": "monologue",
+ "key_terms": [
+  "black polish",
+  "zinc plate",
+  "diamond paste"
+ ],
+ "cast": {
+  "A": {
+   "name": "Alex",
+   "id": "17bSMslPF4HPyQrGIXAG",
+   "accent": "US"
+  }
+ },
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Imagine a small steel part in a watch. From one angle, it looks completely black. Turn it slightly, and suddenly it flashes bright white, like a mirror catching the sun. This effect comes from a finish called black polish."
+  },
+  {
+   "speaker": "A",
+   "text": "Black polish is a perfectly flat, perfectly smooth surface. Because it is so flat, it reflects light in only one direction. If that light does not reach your eye, the surface looks dark. That is where the name comes from."
+  },
+  {
+   "speaker": "A",
+   "text": "The process is slow and demanding. First, the part is made as flat as possible. Then the polisher rubs it again and again on a flat plate, often made of zinc or tin. Between the plate and the part, there is a very fine diamond paste. The polisher moves the part in small figure-eight patterns, with even pressure."
+  },
+  {
+   "speaker": "A",
+   "text": "The difficulty is that any mistake shows immediately. A tiny scratch, a rounded edge or a bit of dust will ruin the mirror effect. If something goes wrong, the craftsperson often has to start again."
+  },
+  {
+   "speaker": "A",
+   "text": "For this reason, black polish is usually found on small parts, like springs, clamps and screw heads. It is a quiet sign of high quality. Many people never notice it, but those who do will never forget it."
+  }
+ ],
+ "sentences": [
+  {
+   "text": "Imagine a small steel part in a watch.",
+   "start": 0.0,
+   "end": 3.0,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "From one angle, it looks completely black.",
+   "start": 3.63,
+   "end": 6.43,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Turn it slightly, and suddenly it flashes bright white, like a mirror catching the sun.",
+   "start": 7.1,
+   "end": 12.7,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "This effect comes from a finish called black polish.",
+   "start": 13.37,
+   "end": 16.73,
+   "turn": 0,
+   "speaker": "A"
+  },
+  {
+   "text": "Black polish is a perfectly flat, perfectly smooth surface.",
+   "start": 17.25,
+   "end": 21.73,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "Because it is so flat, it reflects light in only one direction.",
+   "start": 22.4,
+   "end": 26.76,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "If that light does not reach your eye, the surface looks dark.",
+   "start": 27.39,
+   "end": 31.39,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "That is where the name comes from.",
+   "start": 31.82,
+   "end": 33.66,
+   "turn": 1,
+   "speaker": "A"
+  },
+  {
+   "text": "The process is slow and demanding.",
+   "start": 34.18,
+   "end": 36.9,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "First, the part is made as flat as possible.",
+   "start": 37.57,
+   "end": 41.09,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Then the polisher rubs it again and again on a flat plate, often made of zinc or tin.",
+   "start": 41.6,
+   "end": 47.84,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "Between the plate and the part, there is a very fine diamond paste.",
+   "start": 48.51,
+   "end": 52.91,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The polisher moves the part in small figure-eight patterns, with even pressure.",
+   "start": 53.34,
+   "end": 58.06,
+   "turn": 2,
+   "speaker": "A"
+  },
+  {
+   "text": "The difficulty is that any mistake shows immediately.",
+   "start": 58.58,
+   "end": 62.1,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "A tiny scratch, a rounded edge or a bit of dust will ruin the mirror effect.",
+   "start": 62.93,
+   "end": 68.25,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "If something goes wrong, the craftsperson often has to start again.",
+   "start": 68.88,
+   "end": 72.88,
+   "turn": 3,
+   "speaker": "A"
+  },
+  {
+   "text": "For this reason, black polish is usually found on small parts, like springs, clamps and screw heads.",
+   "start": 73.4,
+   "end": 80.36,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "It is a quiet sign of high quality.",
+   "start": 81.03,
+   "end": 83.51,
+   "turn": 4,
+   "speaker": "A"
+  },
+  {
+   "text": "Many people never notice it, but those who do will never forget it.",
+   "start": 84.42,
+   "end": 89.06,
+   "turn": 4,
+   "speaker": "A"
+  }
+ ],
+ "words": 210,
+ "duration": 89.0,
+ "wpm": 142,
+ "tts_model": "eleven_v4_turbo",
+ "credits": 63,
+ "created": "2026-10-03 23:43"
+}

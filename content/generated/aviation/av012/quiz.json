@@ -1,0 +1,114 @@
+{
+ "id": "av012",
+ "author": "claude",
+ "summary_ja": "旅客機は長くアルミが中心だったが、ボーイング787は重量の約半分が複合材、主に炭素繊維強化プラスチック（CFRP）でできている。胴体は型の周りで一体成形した大きな筒（バレルセクション）を巨大なオーブンで硬化させてつなぐ。軽くて燃費がよく、継ぎ目や留め具が少なく、錆びず疲労にも強い。修理には特別な技術が必要で、内部の損傷は見つけにくい。",
+ "listening": [
+  {
+   "q": "787 の構造の特徴は？",
+   "options": [
+    "すべてアルミ製",
+    "木製",
+    "重量の約半分が複合材でできている",
+    "鉄製"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"About half of its structure, by weight, is made of composite materials\"。"
+  },
+  {
+   "q": "787 の胴体の作り方は？",
+   "options": [
+    "手で編む",
+    "たくさんのアルミ板をリベットでとめる",
+    "大きな一体型の筒を作り、つなげる",
+    "3Dプリンターで作る"
+   ],
+   "answer": 2,
+   "explanation_ja": "\"Boeing builds large one-piece barrel sections ... The sections are joined together\"。"
+  },
+  {
+   "q": "複合材の課題として話されているのは？",
+   "options": [
+    "修理に特別な技術が必要で、内部の損傷が見つけにくい",
+    "錆びやすい",
+    "高温で溶ける",
+    "重すぎる"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"Repairing composites requires special skills and tools. Damage under the surface can be harder to see\"。"
+  }
+ ],
+ "dictation": [
+  {
+   "sentence": 3,
+   "ja": "CFRP は、ある種のプラスチックでまとめられた細い炭素繊維でできています。",
+   "points_ja": "made of thin が「メイダヴシン」、held together by a が続けて聞こえます。"
+  },
+  {
+   "sentence": 8,
+   "ja": "これらは巨大な型の周りで成形され、それから巨大なオーブンで加熱して硬化させます。",
+   "points_ja": "formed around a がつながり、heated in a huge が続けて聞こえます。"
+  },
+  {
+   "sentence": 13,
+   "ja": "第二に、継ぎ目や留め具が少ないと、作業が減り、問題が起こる場所も減ります。",
+   "points_ja": "joints and fasteners の and は「ン」、places for problems to start が続けて聞こえます。"
+  }
+ ],
+ "reading": [
+  {
+   "q": "本文の主旨は？",
+   "options": [
+    "アルミはもう使われていない",
+    "787 は失敗した",
+    "787 は複合材を大胆に使い、航空機の設計を変えた",
+    "複合材は修理が簡単"
+   ],
+   "answer": 2,
+   "explanation_ja": "複合材の特徴、利点、課題、その後の影響を説明しています。"
+  },
+  {
+   "q": "CFRP の特徴は？",
+   "options": [
+    "とても強く、とても軽い",
+    "柔らかく曲がる",
+    "透明である",
+    "重いが安い"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"The result is a material that is both very strong and very light.\""
+  },
+  {
+   "q": "軽い飛行機の利点は？",
+   "options": [
+    "騒音が大きい",
+    "速く着陸できる",
+    "乗客が増える",
+    "燃料の消費が少ない"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"A lighter airplane burns less fuel.\""
+  },
+  {
+   "q": "複合材が金属より優れている点として書かれているのは？",
+   "options": [
+    "錆びたり腐食したりせず、繰り返しの負荷に強い",
+    "色を塗りやすい",
+    "安い",
+    "音が静か"
+   ],
+   "answer": 0,
+   "explanation_ja": "\"composites do not rust or corrode like metal, and they handle repeated stress very well.\""
+  },
+  {
+   "q": "787 の後に同様の方法をとった機体は？",
+   "options": [
+    "コンコルド",
+    "ボーイング747",
+    "エアバス A380",
+    "エアバス A350"
+   ],
+   "answer": 3,
+   "explanation_ja": "\"The Airbus A350 followed with a similar approach\"。"
+  }
+ ]
+}
