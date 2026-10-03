@@ -1,7 +1,7 @@
 # CLAUDE.md
 
-このリポジトリは、ユーザーが AI と一緒に英語のスピーキング力を伸ばす実験の場である。
-README.md も参照すること。
+このリポジトリは、ユーザーが AI と一緒に英語を学び直し、2027-04 に英会話で困らないレベルを目指す実験の場である。
+README.md と curriculum/roadmap.md も参照すること。
 
 ## 学習時間の記録
 
@@ -20,7 +20,7 @@ README.md も参照すること。
 ### 記録の対象
 
 - 英語学習に使った時間はすべて含める（システム開発・設計の壁打ちも含む）
-- Claude Code 以外での学習（Photo Shadowing 単体での練習、英会話、アプリなど）はユーザーの自己申告で追記する
+- Claude Code 以外での学習（trainer 単体での練習、英会話、他のアプリなど）はユーザーの自己申告で追記する
 
 ### journal の運用
 
@@ -36,7 +36,7 @@ README.md も参照すること。
 date: YYYY-MM-DD
 sessions:
   - { start: "HH:MM", end: "HH:MM", source: claude-code }
-  - { minutes: 15, source: photo-shadowing, note: 自己申告 }
+  - { minutes: 15, source: trainer, note: 自己申告 }
 total_minutes: 0
 ---
 
@@ -47,13 +47,16 @@ total_minutes: 0
 
 間違えた内容は `mistakes/` にも転記し、後から振り返れるようにする。
 
-## Photo Shadowing（apps/photo-shadowing）
+## 練習アプリ（apps/trainer）
 
-- 起動・構成は `apps/photo-shadowing/README.md` を参照
-- 練習ログは `practice/shadowing/YYYY/MM/<id>/session.json` に保存される（session.json だけ git 管理。写真・音声は管理外）
+- 起動・構成は `apps/trainer/README.md` を参照
+- 4 技能のタブ（スピーキング・リスニング・ライティング・リーディング）と、スコアの推移を見る「進捗」がある
+- 練習ログは `practice/<技能>/YYYY/MM/<id>/session.json` に保存される（session.json だけ git 管理。写真・音声は管理外）
+  - どの技能も `result.score`（0〜100）を持ち、進捗の集計に使う。AI の採点はぶれるので、週の平均で傾向を見る
 - journal を仕上げるときは、その日の練習結果を次のコマンドで取得して「やったこと」「間違えたこと」に反映する
-  - `uv run --project apps/photo-shadowing photo-shadowing summary [YYYY-MM-DD]`
-  - 添削で直された表現・発音で指摘された単語は `mistakes/` にも転記する
+  - `uv run --project apps/trainer trainer summary [YYYY-MM-DD]`
+  - 添削で直された表現・発音で指摘された単語・聞き取れなかった語は `mistakes/` にも転記する
+- 週の推移は `uv run --project apps/trainer trainer progress` で確認できる
 - Web の画面を作ったり変えたりしたら、ユーザーに渡す前に headless Chrome でスクリーンショットを撮って見た目を確認する
   - `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --window-size=1280,900 --screenshot=<scratchpad>/x.png <URL>`
 
