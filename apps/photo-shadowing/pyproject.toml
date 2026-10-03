@@ -1,0 +1,23 @@
+[project]
+name = "photo-shadowing"
+version = "0.2.0"
+description = "写真を英語で描写 → 添削 → 手本音声でシャドーイング → 発音評価を回すローカルアプリ"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+    "uvicorn>=0.30",
+]
+
+[project.scripts]
+photo-shadowing = "photo_shadowing.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

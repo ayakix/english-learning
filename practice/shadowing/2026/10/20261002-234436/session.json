@@ -1,0 +1,642 @@
+{
+  "id": "20261002-234436",
+  "created": "2026-10-02 23:44",
+  "query": "",
+  "photo": {
+    "source": "picsum",
+    "url": null,
+    "credit": {
+      "name": "Lorem Picsum",
+      "profile": "https://picsum.photos",
+      "link": "https://picsum.photos",
+      "alt": ""
+    }
+  },
+  "attempts": [
+    {
+      "time": "23:46:06",
+      "text": "This picture shows the a mountain view. The back features cloudy and and the forward features house. People can move other side by using lift.",
+      "score": 60
+    }
+  ],
+  "correction": {
+    "corrected": "This picture shows a mountain view. The background is cloudy, and the foreground features a house. People can move to the other side by using a lift.",
+    "corrections": [
+      {
+        "before": "shows the a mountain view",
+        "after": "shows a mountain view",
+        "reason_ja": "冠詞「the」と「a」が重複しているため、不特定のひとつの景色を表す「a」だけに修正します。"
+      },
+      {
+        "before": "The back features cloudy",
+        "after": "The background is cloudy",
+        "reason_ja": "写真の「背景」は the back ではなく the background を使います。また、cloudy は形容詞なので動詞 features ではなく is cloudy で表現するのが自然です。"
+      },
+      {
+        "before": "and and",
+        "after": "and",
+        "reason_ja": "接続詞「and」の重複を取り除きました。"
+      },
+      {
+        "before": "the forward features house",
+        "after": "the foreground features a house",
+        "reason_ja": "写真の「手前・前景」は the foreground と呼びます。また、数えられる名詞 house の前には冠詞 a が必要です。"
+      },
+      {
+        "before": "move other side",
+        "after": "move to the other side",
+        "reason_ja": "移動の方向を示す前置詞「to」と、対比される側を特定する定冠詞「the」が必要です。"
+      },
+      {
+        "before": "by using lift",
+        "after": "by using a lift",
+        "reason_ja": "lift（リフト）は数えられる名詞なので、冠詞 a が必要です。"
+      }
+    ],
+    "ideal": "This photo captures breathtaking mountain scenery around dawn or dusk, with a stunning sea of clouds below. In the foreground on the right, there is a small wooden cabin next to a ski lift cable that stretches across the slope. The empty lift hangers suggest that the facility might currently be quiet or out of season. In the distance, sharp mountain ridges poke through the blanket of fog, silhouetted against a softly glowing sky. It gives off such a serene and peaceful atmosphere, high above everyday life.",
+    "key_expressions": [
+      {
+        "en": "sea of clouds",
+        "ja": "雲海"
+      },
+      {
+        "en": "in the foreground",
+        "ja": "手前（前景）に"
+      },
+      {
+        "en": "out of season",
+        "ja": "オフシーズンで、時期外れで"
+      },
+      {
+        "en": "poke through",
+        "ja": "〜からひょっこり突き出る、顔を出す"
+      },
+      {
+        "en": "silhouetted against...",
+        "ja": "〜を背景にシルエットになって"
+      }
+    ],
+    "feedback_ja": "山や雲、建物、リフトの存在など、写真の重要なポイントをしっかり言葉にできていて素晴らしいです！写真を描写するときは「背景＝background」「手前＝foreground」という表現を覚えておくと格段に説明しやすくなります。また、a や the などの冠詞や、move to のような前置詞を丁寧に補うことを意識してみましょう。",
+    "score": 60,
+    "original": "This picture shows the a mountain view. The back features cloudy and and the forward features house. People can move other side by using lift.",
+    "level": "B2"
+  },
+  "tts": {
+    "file": "model_ce10c90cb407.mp3",
+    "text": "This photo captures breathtaking mountain scenery around dawn or dusk, with a stunning sea of clouds below. In the foreground on the right, there is a small wooden cabin next to a ski lift cable that stretches across the slope. The empty lift hangers suggest that the facility might currently be quiet or out of season. In the distance, sharp mountain ridges poke through the blanket of fog, silhouetted against a softly glowing sky. It gives off such a serene and peaceful atmosphere, high above everyday life.",
+    "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+    "model_id": "eleven_multilingual_v2",
+    "sentences": [
+      {
+        "text": "This photo captures breathtaking mountain scenery around dawn or dusk, with a stunning sea of clouds below.",
+        "start": 0.0,
+        "end": 6.792
+      },
+      {
+        "text": "In the foreground on the right, there is a small wooden cabin next to a ski lift cable that stretches across the slope.",
+        "start": 7.605,
+        "end": 13.491
+      },
+      {
+        "text": "The empty lift hangers suggest that the facility might currently be quiet or out of season.",
+        "start": 14.304,
+        "end": 19.157
+      },
+      {
+        "text": "In the distance, sharp mountain ridges poke through the blanket of fog, silhouetted against a softly glowing sky.",
+        "start": 19.969,
+        "end": 26.61
+      },
+      {
+        "text": "It gives off such a serene and peaceful atmosphere, high above everyday life.",
+        "start": 27.307,
+        "end": 32.276
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.232,
+        "i": 0
+      },
+      {
+        "t": "photo",
+        "s": 0.29,
+        "e": 0.604,
+        "i": 0
+      },
+      {
+        "t": "captures",
+        "s": 0.697,
+        "e": 1.149,
+        "i": 0
+      },
+      {
+        "t": "breathtaking",
+        "s": 1.265,
+        "e": 1.869,
+        "i": 0
+      },
+      {
+        "t": "mountain",
+        "s": 1.962,
+        "e": 2.287,
+        "i": 0
+      },
+      {
+        "t": "scenery",
+        "s": 2.334,
+        "e": 2.705,
+        "i": 0
+      },
+      {
+        "t": "around",
+        "s": 2.752,
+        "e": 3.007,
+        "i": 0
+      },
+      {
+        "t": "dawn",
+        "s": 3.1,
+        "e": 3.437,
+        "i": 0
+      },
+      {
+        "t": "or",
+        "s": 3.483,
+        "e": 3.576,
+        "i": 0
+      },
+      {
+        "t": "dusk,",
+        "s": 3.692,
+        "e": 4.354,
+        "i": 0
+      },
+      {
+        "t": "with",
+        "s": 4.563,
+        "e": 4.737,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 4.783,
+        "e": 4.807,
+        "i": 0
+      },
+      {
+        "t": "stunning",
+        "s": 4.899,
+        "e": 5.294,
+        "i": 0
+      },
+      {
+        "t": "sea",
+        "s": 5.364,
+        "e": 5.538,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 5.573,
+        "e": 5.631,
+        "i": 0
+      },
+      {
+        "t": "clouds",
+        "s": 5.7,
+        "e": 6.072,
+        "i": 0
+      },
+      {
+        "t": "below.",
+        "s": 6.13,
+        "e": 6.792,
+        "i": 0
+      },
+      {
+        "t": "In",
+        "s": 7.605,
+        "e": 7.732,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 7.767,
+        "e": 7.837,
+        "i": 1
+      },
+      {
+        "t": "foreground",
+        "s": 7.883,
+        "e": 8.359,
+        "i": 1
+      },
+      {
+        "t": "on",
+        "s": 8.406,
+        "e": 8.464,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 8.499,
+        "e": 8.568,
+        "i": 1
+      },
+      {
+        "t": "right,",
+        "s": 8.626,
+        "e": 8.893,
+        "i": 1
+      },
+      {
+        "t": "there",
+        "s": 8.916,
+        "e": 9.056,
+        "i": 1
+      },
+      {
+        "t": "is",
+        "s": 9.091,
+        "e": 9.16,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 9.207,
+        "e": 9.242,
+        "i": 1
+      },
+      {
+        "t": "small",
+        "s": 9.3,
+        "e": 9.613,
+        "i": 1
+      },
+      {
+        "t": "wooden",
+        "s": 9.671,
+        "e": 9.938,
+        "i": 1
+      },
+      {
+        "t": "cabin",
+        "s": 10.008,
+        "e": 10.426,
+        "i": 1
+      },
+      {
+        "t": "next",
+        "s": 10.484,
+        "e": 10.67,
+        "i": 1
+      },
+      {
+        "t": "to",
+        "s": 10.693,
+        "e": 10.751,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 10.832,
+        "e": 10.855,
+        "i": 1
+      },
+      {
+        "t": "ski",
+        "s": 10.925,
+        "e": 11.122,
+        "i": 1
+      },
+      {
+        "t": "lift",
+        "s": 11.215,
+        "e": 11.413,
+        "i": 1
+      },
+      {
+        "t": "cable",
+        "s": 11.447,
+        "e": 11.749,
+        "i": 1
+      },
+      {
+        "t": "that",
+        "s": 11.784,
+        "e": 11.912,
+        "i": 1
+      },
+      {
+        "t": "stretches",
+        "s": 11.993,
+        "e": 12.365,
+        "i": 1
+      },
+      {
+        "t": "across",
+        "s": 12.411,
+        "e": 12.736,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 12.783,
+        "e": 12.852,
+        "i": 1
+      },
+      {
+        "t": "slope.",
+        "s": 12.899,
+        "e": 13.491,
+        "i": 1
+      },
+      {
+        "t": "The",
+        "s": 14.304,
+        "e": 14.42,
+        "i": 2
+      },
+      {
+        "t": "empty",
+        "s": 14.478,
+        "e": 14.699,
+        "i": 2
+      },
+      {
+        "t": "lift",
+        "s": 14.78,
+        "e": 14.989,
+        "i": 2
+      },
+      {
+        "t": "hangers",
+        "s": 15.035,
+        "e": 15.372,
+        "i": 2
+      },
+      {
+        "t": "suggest",
+        "s": 15.43,
+        "e": 15.801,
+        "i": 2
+      },
+      {
+        "t": "that",
+        "s": 15.836,
+        "e": 15.952,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 15.987,
+        "e": 16.057,
+        "i": 2
+      },
+      {
+        "t": "facility",
+        "s": 16.103,
+        "e": 16.568,
+        "i": 2
+      },
+      {
+        "t": "might",
+        "s": 16.637,
+        "e": 16.812,
+        "i": 2
+      },
+      {
+        "t": "currently",
+        "s": 16.858,
+        "e": 17.241,
+        "i": 2
+      },
+      {
+        "t": "be",
+        "s": 17.311,
+        "e": 17.415,
+        "i": 2
+      },
+      {
+        "t": "quiet",
+        "s": 17.473,
+        "e": 17.938,
+        "i": 2
+      },
+      {
+        "t": "or",
+        "s": 17.984,
+        "e": 18.1,
+        "i": 2
+      },
+      {
+        "t": "out",
+        "s": 18.182,
+        "e": 18.321,
+        "i": 2
+      },
+      {
+        "t": "of",
+        "s": 18.356,
+        "e": 18.414,
+        "i": 2
+      },
+      {
+        "t": "season.",
+        "s": 18.495,
+        "e": 19.157,
+        "i": 2
+      },
+      {
+        "t": "In",
+        "s": 19.969,
+        "e": 20.097,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 20.132,
+        "e": 20.202,
+        "i": 3
+      },
+      {
+        "t": "distance,",
+        "s": 20.248,
+        "e": 20.713,
+        "i": 3
+      },
+      {
+        "t": "sharp",
+        "s": 20.736,
+        "e": 21.003,
+        "i": 3
+      },
+      {
+        "t": "mountain",
+        "s": 21.084,
+        "e": 21.363,
+        "i": 3
+      },
+      {
+        "t": "ridges",
+        "s": 21.409,
+        "e": 21.746,
+        "i": 3
+      },
+      {
+        "t": "poke",
+        "s": 21.839,
+        "e": 22.094,
+        "i": 3
+      },
+      {
+        "t": "through",
+        "s": 22.117,
+        "e": 22.338,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 22.373,
+        "e": 22.454,
+        "i": 3
+      },
+      {
+        "t": "blanket",
+        "s": 22.547,
+        "e": 22.93,
+        "i": 3
+      },
+      {
+        "t": "of",
+        "s": 22.965,
+        "e": 23.023,
+        "i": 3
+      },
+      {
+        "t": "fog,",
+        "s": 23.104,
+        "e": 23.708,
+        "i": 3
+      },
+      {
+        "t": "silhouetted",
+        "s": 24.033,
+        "e": 24.567,
+        "i": 3
+      },
+      {
+        "t": "against",
+        "s": 24.602,
+        "e": 24.904,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 24.962,
+        "e": 24.997,
+        "i": 3
+      },
+      {
+        "t": "softly",
+        "s": 25.124,
+        "e": 25.554,
+        "i": 3
+      },
+      {
+        "t": "glowing",
+        "s": 25.612,
+        "e": 25.925,
+        "i": 3
+      },
+      {
+        "t": "sky.",
+        "s": 25.983,
+        "e": 26.61,
+        "i": 3
+      },
+      {
+        "t": "It",
+        "s": 27.307,
+        "e": 27.435,
+        "i": 4
+      },
+      {
+        "t": "gives",
+        "s": 27.481,
+        "e": 27.702,
+        "i": 4
+      },
+      {
+        "t": "off",
+        "s": 27.76,
+        "e": 27.922,
+        "i": 4
+      },
+      {
+        "t": "such",
+        "s": 27.98,
+        "e": 28.166,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 28.213,
+        "e": 28.236,
+        "i": 4
+      },
+      {
+        "t": "serene",
+        "s": 28.305,
+        "e": 28.747,
+        "i": 4
+      },
+      {
+        "t": "and",
+        "s": 28.781,
+        "e": 28.863,
+        "i": 4
+      },
+      {
+        "t": "peaceful",
+        "s": 28.944,
+        "e": 29.385,
+        "i": 4
+      },
+      {
+        "t": "atmosphere,",
+        "s": 29.478,
+        "e": 30.314,
+        "i": 4
+      },
+      {
+        "t": "high",
+        "s": 30.488,
+        "e": 30.697,
+        "i": 4
+      },
+      {
+        "t": "above",
+        "s": 30.732,
+        "e": 31.045,
+        "i": 4
+      },
+      {
+        "t": "everyday",
+        "s": 31.103,
+        "e": 31.498,
+        "i": 4
+      },
+      {
+        "t": "life.",
+        "s": 31.591,
+        "e": 32.276,
+        "i": 4
+      }
+    ]
+  },
+  "recordings": []
+}
