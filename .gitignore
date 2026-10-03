@@ -19,6 +19,7 @@ __pycache__/
 .pytest_cache/
 node_modules/
 dist/
+*.tsbuildinfo
 
 # OS / ツール
 .DS_Store
