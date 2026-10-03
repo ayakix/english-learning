@@ -1,0 +1,24 @@
+# 音声はテキストや録音から再生成・再録できるため git に入れない（リポジトリ肥大化の防止）
+*.mp3
+*.wav
+*.m4a
+*.ogg
+.cache/
+
+# 練習の写真は元の URL から再取得できる。ライセンス表記の手間と容量を避けるため git に入れない
+practice/**/*.jpg
+
+# 秘密情報（APIキーなど）
+.env
+.env.*
+!.env.example
+
+# Python / Node
+__pycache__/
+.venv/
+.pytest_cache/
+node_modules/
+dist/
+
+# OS / ツール
+.DS_Store
