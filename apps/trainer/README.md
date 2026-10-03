@@ -83,7 +83,7 @@ uv run trainer progress           # 4 技能の週ごとの平均スコア（Mar
 ## 設定（.env）
 
 - `GEMINI_MODEL` … 既定 `gemini-flash-latest`。存在しないモデル名でも、利用可能な Flash 系に自動で切り替えます。
-- `ELEVENLABS_MODEL` … `eleven_multilingual_v2`（高品質）/ `eleven_flash_v2_5`（高速・安価）
+- `ELEVENLABS_MODEL` … 既定 `eleven_v4_turbo`。`eleven_v4`（最高品質）/ `eleven_flash_v2_5`（高速・安価）。変えると、同じ文章でも手本音声を作り直します
 - `PRACTICE_DIR` … 練習ログの保存先を変えたいとき（既定はリポジトリ直下の `practice`）
 
 ## 終了

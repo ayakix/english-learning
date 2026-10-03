@@ -36,7 +36,7 @@ def load_settings() -> Settings:
         eleven_key=env("ELEVENLABS_API_KEY", ""),
         unsplash_key=env("UNSPLASH_ACCESS_KEY", ""),
         gemini_model=env("GEMINI_MODEL") or "gemini-flash-latest",
-        eleven_model=env("ELEVENLABS_MODEL") or "eleven_multilingual_v2",
+        eleven_model=env("ELEVENLABS_MODEL") or "eleven_v4_turbo",
         eleven_voice=env("ELEVENLABS_VOICE_ID", ""),
         port=int(env("PORT") or 8765),
         practice_dir=Path(env("PRACTICE_DIR") or REPO_ROOT / "practice"),
