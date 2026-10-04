@@ -1,6 +1,7 @@
 import type {
   Config,
   Evaluation,
+  LinkingData,
   ListeningSession,
   ProgressPoint,
   ProgressWeek,
@@ -86,6 +87,7 @@ export const api = {
       }),
   },
 
+  linking: () => call<LinkingData>("/api/linking"),
   voa: {
     zones: () => call<Record<VoaSource, VoaZone[]>>("/api/voa/zones"),
     get: (sid: string) => call<VoaSession>(`/api/voa/sessions/${sid}`),

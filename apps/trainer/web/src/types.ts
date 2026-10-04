@@ -207,6 +207,22 @@ export type VoaSource = "voa" | "ai";
 // left：AI 教材でまだ使っていない本数
 export type VoaZone = { key: string; name: string; left?: number };
 
+// ---------------------------------------------------------------- pronunciation
+export type LinkingType = { key: string; name: string; description_ja: string; example: string };
+export type LinkingItem = {
+  id: string;
+  type: string;
+  phrase: string; // ‿ でつながる所、() で聞こえない音を示す
+  text: string;
+  kana: string;
+  sentence: string;
+  sentence_text: string;
+  voice?: { name: string; id: string };
+  audio: string;
+  audio_sentence: string;
+};
+export type LinkingData = { types: LinkingType[]; items: LinkingItem[] };
+
 // ---------------------------------------------------------------- progress
 export type ProgressPoint = { date: string; skill: Skill; id: string; score: number; details: Result["details"] };
 export type ProgressWeek = { week: string; skill: Skill; count: number; avg: number; wpm?: number };

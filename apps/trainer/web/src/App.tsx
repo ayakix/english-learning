@@ -8,6 +8,7 @@ import { useSettings } from "./hooks/useSettings";
 import { useToast } from "./hooks/useToast";
 import { ListeningPage } from "./pages/ListeningPage";
 import { ProgressPage } from "./pages/ProgressPage";
+import { PronunciationPage } from "./pages/PronunciationPage";
 import { ReadingPage } from "./pages/ReadingPage";
 import { SpeakingPage } from "./pages/SpeakingPage";
 import { VoaPage } from "./pages/VoaPage";
@@ -21,6 +22,7 @@ const TABS: { key: string; label: string; page: ReactNode }[] = [
   { key: "reading", label: "リーディング", page: <ReadingPage /> },
   // 既存タブのキー（1〜4）を変えないよう、後ろに足す。URL のハッシュは以前の #voa のまま
   { key: "voa", label: "教材", page: <VoaPage /> },
+  { key: "pronunciation", label: "発音", page: <PronunciationPage /> },
   { key: "progress", label: "進捗", page: <ProgressPage /> },
 ];
 

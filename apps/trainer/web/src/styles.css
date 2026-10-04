@@ -189,3 +189,18 @@ main.single.top{padding-top:20px}
 .test-timer .bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin-top:6px}
 .test-timer .bar i{display:block;height:100%;background:var(--accent);transition:width .2s linear}
 .test-timer.speak .bar i{background:var(--del)}
+
+/* 発音（リンキング） */
+.lk-types{justify-content:center}
+.lk-link{color:var(--accent);font-weight:700}
+.lk-drop{color:var(--sub);opacity:.55}
+.lk-example{font-size:17px}
+.lk-list{display:flex;flex-direction:column;gap:8px}
+.lk-row{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:10px 14px;display:grid;gap:6px;cursor:pointer}
+.lk-row.cur{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.lk-head{display:flex;align-items:center;gap:10px}
+.lk-head .sp{flex:1}
+.lk-phrase{font-size:20px;font-weight:600}
+.lk-kana{color:var(--sub)}
+.lk-sentence{font-size:15px}
+mark.lk-target{background:var(--accent-soft);color:inherit;border-radius:4px;padding:0 2px}
