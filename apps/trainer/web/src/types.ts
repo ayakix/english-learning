@@ -223,6 +223,28 @@ export type LinkingItem = {
 };
 export type LinkingData = { types: LinkingType[]; items: LinkingItem[] };
 
+// 復唱・即答・ミニマルペア（種類ごとに使う項目が違う）
+export type DrillKind = "repeats" | "short-answers" | "minimal-pairs";
+export type DrillItem = {
+  id: string;
+  voice?: { name: string; id: string };
+  audio: Record<string, { text: string; file: string }>;
+  text?: string; // 復唱
+  level?: number;
+  words?: number;
+  question?: string; // 即答
+  answers?: string[];
+  type?: string; // ミニマルペア
+  a?: string;
+  b?: string;
+};
+export type DrillData = {
+  name: string;
+  items: DrillItem[];
+  levels?: Record<string, string>;
+  types?: { key: string; name: string; description_ja: string }[];
+};
+
 // ---------------------------------------------------------------- progress
 export type ProgressPoint = { date: string; skill: Skill; id: string; score: number; details: Result["details"] };
 export type ProgressWeek = { week: string; skill: Skill; count: number; avg: number; wpm?: number };

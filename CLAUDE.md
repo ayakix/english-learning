@@ -52,8 +52,9 @@ total_minutes: 0
 - 起動・構成は `apps/trainer/README.md` を参照
 - 4 技能のタブ（スピーキング・リスニング・ライティング・リーディング）、記事と音声で聞く→書き取る→読むを通す「教材」（VOA と AI 教材）、スコアの推移を見る「進捗」がある
   - スピーキングには TOEIC の写真描写と同じ形式の「テスト」がある
-  - 「発音」タブでは、リンキング（音のつながり）の例題を聞いて真似できる
-- 教材の原稿・設問（content/generated）、スピーキングテストの写真選び・模範解答（content/speaking）、発音の例題（content/linking）は Claude が書く。Gemini はアプリ動作中の採点・設問生成に使う
+  - 「発音」タブでは、リンキング（音のつながり）とミニマルペアの例題を聞いて真似できる
+  - 「Versant」タブには、Versant 形式の復唱と即答のドリルがある
+- 教材の原稿・設問（content/generated）、スピーキングテストの写真選び・模範解答（content/speaking）、発音・ドリルの例題（content/linking・content/drills）は Claude が書く。Gemini はアプリ動作中の採点・設問生成に使う
 - 練習ログは `practice/<技能>/YYYY/MM/<id>/session.json` に保存される（session.json だけ git 管理。写真・音声は管理外）
   - どの技能も `result.score`（0〜100）を持ち、進捗の集計に使う。AI の採点はぶれるので、週の平均で傾向を見る
 - journal を仕上げるときは、その日の練習結果を次のコマンドで取得して「やったこと」「間違えたこと」に反映する

@@ -4,7 +4,8 @@ import { Kbd, Panel } from "../components/common";
 import { PageActive, useHotkeys } from "../hooks/useHotkeys";
 import { useToast } from "../hooks/useToast";
 import { errMsg } from "../lib/util";
-import type { LinkingData, LinkingItem } from "../types";
+import { useDrillAudio } from "../hooks/useDrillAudio";
+import type { DrillData, DrillItem, LinkingData, LinkingItem } from "../types";
 
 /** つなぎ記号（‿）と、発音されない音（括弧の中）を色分けして表示する */
 function Marked({ text }: { text: string }) {
@@ -46,10 +47,32 @@ function Sentence({ item }: { item: LinkingItem }) {
 }
 
 /**
- * 発音：リンキング（音のつながり）の例題を、型ごとに聞いて真似する
+ * 発音：リンキング（音のつながり）とミニマルペアを切り替えて練習する
  * 例題は Claude が書き、音声は ElevenLabs（米国の声からランダム）で作ってある。
  */
 export function PronunciationPage() {
+  const [mode, setMode] = useState<"linking" | "pairs">("linking");
+  return (
+    <>
+      <div className="pagebar lk-types">
+        {(
+          [
+            ["linking", "リンキング"],
+            ["pairs", "ミニマルペア"],
+          ] as const
+        ).map(([k, label]) => (
+          <button key={k} className={`btn${k === mode ? " primary" : ""}`} onClick={() => setMode(k)}>
+            {label}
+          </button>
+        ))}
+      </div>
+      {mode === "linking" ? <LinkingView /> : <MinimalPairsView />}
+    </>
+  );
+}
+
+/** リンキングの例題を、型ごとに聞いて真似する */
+function LinkingView() {
   const toast = useToast();
   const active = useContext(PageActive);
   const [data, setData] = useState<LinkingData | null>(null);
@@ -72,6 +95,8 @@ export function PronunciationPage() {
     a.addEventListener("ended", end);
     a.addEventListener("pause", end);
     return () => {
+      // ミニマルペアに切り替えると画面ごと外れるので、再生中の音を止める
+      a.pause();
       a.removeEventListener("ended", end);
       a.removeEventListener("pause", end);
     };
@@ -117,7 +142,7 @@ export function PronunciationPage() {
 
   return (
     <>
-      <div className="pagebar lk-types">
+      <div className="pagebar lk-types sub">
         {data?.types.map((t) => (
           <button key={t.key} className={`btn sm${t.key === type ? " primary" : ""}`} onClick={() => changeType(t.key)}>
             {t.name}
@@ -176,6 +201,103 @@ export function PronunciationPage() {
                   <Sentence item={it} />
                 </span>
               </div>
+            </div>
+          ))}
+        </div>
+      </main>
+    </>
+  );
+}
+
+/**
+ * ミニマルペア：1 音だけ違う 2 語（light / right など）を聞き比べ、言い分ける
+ * 日本人が区別しにくい子音・母音の組を 8 つ用意している。
+ */
+function MinimalPairsView() {
+  const toast = useToast();
+  const [data, setData] = useState<DrillData | null>(null);
+  const [type, setType] = useState("");
+  const [cur, setCur] = useState(0);
+  const rows = useRef<(HTMLDivElement | null)[]>([]);
+  const { playing, play, stop } = useDrillAudio();
+
+  useEffect(() => {
+    api.drill("minimal-pairs").then(
+      (d) => {
+        setData(d);
+        setType(d.types?.[0]?.key ?? "");
+      },
+      (e) => toast("例題を読み込めません: " + errMsg(e), true),
+    );
+  }, []);
+
+  const items = data?.items.filter((it) => it.type === type) ?? [];
+  const info = data?.types?.find((t) => t.key === type);
+
+  function playWord(it: DrillItem, slot: "a" | "b") {
+    play(`/api/drills/minimal-pairs/audio/${it.id}/${it.audio[slot].file}`, `${it.id}:${slot}`);
+  }
+
+  function select(i: number) {
+    const n = Math.max(0, Math.min(items.length - 1, i));
+    setCur(n);
+    rows.current[n]?.scrollIntoView({ block: "nearest" });
+  }
+
+  useHotkeys({
+    ArrowDown: () => select(cur + 1),
+    ArrowUp: () => select(cur - 1),
+    ArrowLeft: () => items[cur] && playWord(items[cur], "a"),
+    ArrowRight: () => items[cur] && playWord(items[cur], "b"),
+  });
+
+  return (
+    <>
+      <div className="pagebar lk-types sub">
+        {data?.types?.map((t) => (
+          <button
+            key={t.key}
+            className={`btn sm${t.key === type ? " primary" : ""}`}
+            onClick={() => {
+              stop();
+              setType(t.key);
+              setCur(0);
+            }}
+          >
+            {t.name}
+          </button>
+        ))}
+      </div>
+      <main className="single">
+        {info && (
+          <Panel title={`ミニマルペア：${info.name}`} right={<span className="hint">{items.length} 組</span>}>
+            <div className="hint">{info.description_ja}</div>
+            <div className="hint" style={{ marginTop: 6 }}>
+              <Kbd>↑</Kbd>
+              <Kbd>↓</Kbd> で選び、<Kbd>←</Kbd> で左、<Kbd>→</Kbd> で右の単語を再生します。
+            </div>
+          </Panel>
+        )}
+        <div className="mp-grid">
+          {items.map((it, i) => (
+            <div
+              key={it.id}
+              ref={(el) => {
+                rows.current[i] = el;
+              }}
+              className={`lk-row mp-row${i === cur ? " cur" : ""}`}
+              onClick={() => setCur(i)}
+            >
+              {(["a", "b"] as const).map((slot) => (
+                <button
+                  key={slot}
+                  className={`btn mp-word${playing === `${it.id}:${slot}` ? " primary" : ""}`}
+                  onClick={() => playWord(it, slot)}
+                >
+                  ▶ {it[slot]}
+                </button>
+              ))}
+              <span className="hint">{it.voice?.name}</span>
             </div>
           ))}
         </div>

@@ -1,6 +1,8 @@
 import type {
   Config,
   Evaluation,
+  DrillData,
+  DrillKind,
   LinkingData,
   ListeningSession,
   ProgressPoint,
@@ -88,6 +90,7 @@ export const api = {
   },
 
   linking: () => call<LinkingData>("/api/linking"),
+  drill: (kind: DrillKind) => call<DrillData>(`/api/drills/${kind}`),
   voa: {
     zones: () => call<Record<VoaSource, VoaZone[]>>("/api/voa/zones"),
     get: (sid: string) => call<VoaSession>(`/api/voa/sessions/${sid}`),

@@ -1,0 +1,3408 @@
+{
+ "name": "ミニマルペア",
+ "voices": "us",
+ "types": [
+  {
+   "key": "l-r",
+   "name": "L と R",
+   "description_ja": "L は舌先を上の歯ぐきに付けたまま声を出す。R は舌をどこにも付けず、少し奥に引いて唇を丸める。"
+  },
+  {
+   "key": "b-v",
+   "name": "B と V",
+   "description_ja": "B は両唇を閉じてから破裂させる。V は上の歯を下唇に軽く当て、震わせながら声を出す。"
+  },
+  {
+   "key": "th-s",
+   "name": "TH と S",
+   "description_ja": "TH（θ）は舌先を上の歯に軽く当てて息を出す。S は舌を歯に付けずに歯の裏で息を摩擦させる。"
+  },
+  {
+   "key": "f-h",
+   "name": "F と H",
+   "description_ja": "F は上の歯を下唇に当てて息を出す。日本語の「フ」は唇だけで出すので、H に近く聞こえやすい。"
+  },
+  {
+   "key": "s-sh",
+   "name": "S と SH",
+   "description_ja": "S は歯の裏で鋭く息を出す。SH は唇を丸めて突き出し、舌を少し奥に引く。日本語の「シ」は SH に近い。"
+  },
+  {
+   "key": "ae-uh",
+   "name": "æ と ʌ（cat と cut）",
+   "description_ja": "æ は「ア」と「エ」の中間で、口を横に大きく開く。ʌ は口をあまり開けず、短く軽い「ア」。"
+  },
+  {
+   "key": "ee-i",
+   "name": "iː と ɪ（sheep と ship）",
+   "description_ja": "iː は口を横に引いて長く「イー」。ɪ は力を抜いて短く、「イ」と「エ」の中間。"
+  },
+  {
+   "key": "er-ar",
+   "name": "ɜːr と ɑːr・ɔː（work と walk）",
+   "description_ja": "ɜːr（work・hurt）は口をあまり開けず、舌を丸めてこもった音。ɑːr（heart）は口を大きく開け、ɔː（walk）は口を縦に開けて丸める。"
+  }
+ ],
+ "items": [
+  {
+   "id": "mp001",
+   "type": "l-r",
+   "a": "light",
+   "b": "right",
+   "audio": {
+    "a": {
+     "text": "light",
+     "file": "model_83df485d38b5.mp3"
+    },
+    "b": {
+     "text": "right",
+     "file": "model_07e2177a9392.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp002",
+   "type": "l-r",
+   "a": "glass",
+   "b": "grass",
+   "audio": {
+    "a": {
+     "text": "glass",
+     "file": "model_06c65cc41a9f.mp3"
+    },
+    "b": {
+     "text": "grass",
+     "file": "model_2d71a7b54281.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp003",
+   "type": "l-r",
+   "a": "play",
+   "b": "pray",
+   "audio": {
+    "a": {
+     "text": "play",
+     "file": "model_2ac80042b5ff.mp3"
+    },
+    "b": {
+     "text": "pray",
+     "file": "model_c5f9e10ea072.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp004",
+   "type": "l-r",
+   "a": "fly",
+   "b": "fry",
+   "audio": {
+    "a": {
+     "text": "fly",
+     "file": "model_efbf2c9123ad.mp3"
+    },
+    "b": {
+     "text": "fry",
+     "file": "model_998d3984a87d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp005",
+   "type": "l-r",
+   "a": "long",
+   "b": "wrong",
+   "audio": {
+    "a": {
+     "text": "long",
+     "file": "model_9ee3683a2d91.mp3"
+    },
+    "b": {
+     "text": "wrong",
+     "file": "model_ecc196143eab.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp006",
+   "type": "l-r",
+   "a": "law",
+   "b": "raw",
+   "audio": {
+    "a": {
+     "text": "law",
+     "file": "model_4b0d3ee5db7b.mp3"
+    },
+    "b": {
+     "text": "raw",
+     "file": "model_0c2c6dfe58ac.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp007",
+   "type": "l-r",
+   "a": "collect",
+   "b": "correct",
+   "audio": {
+    "a": {
+     "text": "collect",
+     "file": "model_6cd39062bba6.mp3"
+    },
+    "b": {
+     "text": "correct",
+     "file": "model_38ffa302e4b7.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp008",
+   "type": "l-r",
+   "a": "lice",
+   "b": "rice",
+   "audio": {
+    "a": {
+     "text": "lice",
+     "file": "model_4a0409c8b434.mp3"
+    },
+    "b": {
+     "text": "rice",
+     "file": "model_83566e2e6de6.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp009",
+   "type": "l-r",
+   "a": "load",
+   "b": "road",
+   "audio": {
+    "a": {
+     "text": "load",
+     "file": "model_680d9a8a1400.mp3"
+    },
+    "b": {
+     "text": "road",
+     "file": "model_1ed61429f7c1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp010",
+   "type": "l-r",
+   "a": "lane",
+   "b": "rain",
+   "audio": {
+    "a": {
+     "text": "lane",
+     "file": "model_2469abeee9e2.mp3"
+    },
+    "b": {
+     "text": "rain",
+     "file": "model_c17949184994.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp011",
+   "type": "l-r",
+   "a": "climb",
+   "b": "crime",
+   "audio": {
+    "a": {
+     "text": "climb",
+     "file": "model_f42c2df427a7.mp3"
+    },
+    "b": {
+     "text": "crime",
+     "file": "model_d369b7a3951c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp012",
+   "type": "l-r",
+   "a": "cloud",
+   "b": "crowd",
+   "audio": {
+    "a": {
+     "text": "cloud",
+     "file": "model_12e4d281304e.mp3"
+    },
+    "b": {
+     "text": "crowd",
+     "file": "model_c78119f48994.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp013",
+   "type": "l-r",
+   "a": "belly",
+   "b": "berry",
+   "audio": {
+    "a": {
+     "text": "belly",
+     "file": "model_71b6feda9bcf.mp3"
+    },
+    "b": {
+     "text": "berry",
+     "file": "model_e072aab09458.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp014",
+   "type": "l-r",
+   "a": "alive",
+   "b": "arrive",
+   "audio": {
+    "a": {
+     "text": "alive",
+     "file": "model_d49d4d159149.mp3"
+    },
+    "b": {
+     "text": "arrive",
+     "file": "model_2e7d84d3d03e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp015",
+   "type": "l-r",
+   "a": "late",
+   "b": "rate",
+   "audio": {
+    "a": {
+     "text": "late",
+     "file": "model_f4c149054878.mp3"
+    },
+    "b": {
+     "text": "rate",
+     "file": "model_8c5a698ea57f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp016",
+   "type": "l-r",
+   "a": "lamp",
+   "b": "ramp",
+   "audio": {
+    "a": {
+     "text": "lamp",
+     "file": "model_659ecb9876c8.mp3"
+    },
+    "b": {
+     "text": "ramp",
+     "file": "model_f0d022564d2c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp017",
+   "type": "l-r",
+   "a": "flee",
+   "b": "free",
+   "audio": {
+    "a": {
+     "text": "flee",
+     "file": "model_9839ead1dd97.mp3"
+    },
+    "b": {
+     "text": "free",
+     "file": "model_0eadd6b87fbe.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp018",
+   "type": "l-r",
+   "a": "blush",
+   "b": "brush",
+   "audio": {
+    "a": {
+     "text": "blush",
+     "file": "model_36384cc4e6a0.mp3"
+    },
+    "b": {
+     "text": "brush",
+     "file": "model_0fda96733da0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp019",
+   "type": "l-r",
+   "a": "glow",
+   "b": "grow",
+   "audio": {
+    "a": {
+     "text": "glow",
+     "file": "model_96a7f3756d8d.mp3"
+    },
+    "b": {
+     "text": "grow",
+     "file": "model_bc2510844800.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp020",
+   "type": "l-r",
+   "a": "lock",
+   "b": "rock",
+   "audio": {
+    "a": {
+     "text": "lock",
+     "file": "model_ddc849342091.mp3"
+    },
+    "b": {
+     "text": "rock",
+     "file": "model_952bb5cd7ecc.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp021",
+   "type": "b-v",
+   "a": "best",
+   "b": "vest",
+   "audio": {
+    "a": {
+     "text": "best",
+     "file": "model_b1ad60c328fa.mp3"
+    },
+    "b": {
+     "text": "vest",
+     "file": "model_787b28026d7d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp022",
+   "type": "b-v",
+   "a": "boat",
+   "b": "vote",
+   "audio": {
+    "a": {
+     "text": "boat",
+     "file": "model_3caf6b0dda9d.mp3"
+    },
+    "b": {
+     "text": "vote",
+     "file": "model_3900dbd06978.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp023",
+   "type": "b-v",
+   "a": "ban",
+   "b": "van",
+   "audio": {
+    "a": {
+     "text": "ban",
+     "file": "model_4320c089aa8e.mp3"
+    },
+    "b": {
+     "text": "van",
+     "file": "model_6460e7227e5c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp024",
+   "type": "b-v",
+   "a": "berry",
+   "b": "very",
+   "audio": {
+    "a": {
+     "text": "berry",
+     "file": "model_37918861ceb1.mp3"
+    },
+    "b": {
+     "text": "very",
+     "file": "model_c1f5ff3bd72b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp025",
+   "type": "b-v",
+   "a": "ballet",
+   "b": "valet",
+   "audio": {
+    "a": {
+     "text": "ballet",
+     "file": "model_9319edaafd6a.mp3"
+    },
+    "b": {
+     "text": "valet",
+     "file": "model_add2e11be43b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp026",
+   "type": "b-v",
+   "a": "base",
+   "b": "vase",
+   "audio": {
+    "a": {
+     "text": "base",
+     "file": "model_68c6bb78548f.mp3"
+    },
+    "b": {
+     "text": "vase",
+     "file": "model_e3fbdf225c9b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp027",
+   "type": "b-v",
+   "a": "curb",
+   "b": "curve",
+   "audio": {
+    "a": {
+     "text": "curb",
+     "file": "model_5fb4eaa77cc2.mp3"
+    },
+    "b": {
+     "text": "curve",
+     "file": "model_162058a633cb.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp028",
+   "type": "b-v",
+   "a": "bicker",
+   "b": "vicar",
+   "audio": {
+    "a": {
+     "text": "bicker",
+     "file": "model_f10d1a53f0e5.mp3"
+    },
+    "b": {
+     "text": "vicar",
+     "file": "model_9977adffbf10.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp029",
+   "type": "b-v",
+   "a": "bend",
+   "b": "vend",
+   "audio": {
+    "a": {
+     "text": "bend",
+     "file": "model_b7c9c6556134.mp3"
+    },
+    "b": {
+     "text": "vend",
+     "file": "model_dcb9bde9f603.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp030",
+   "type": "b-v",
+   "a": "marble",
+   "b": "marvel",
+   "audio": {
+    "a": {
+     "text": "marble",
+     "file": "model_6266aee6cbfd.mp3"
+    },
+    "b": {
+     "text": "marvel",
+     "file": "model_fb97dff8339e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp031",
+   "type": "b-v",
+   "a": "bolt",
+   "b": "volt",
+   "audio": {
+    "a": {
+     "text": "bolt",
+     "file": "model_3ac2f1575639.mp3"
+    },
+    "b": {
+     "text": "volt",
+     "file": "model_5e599e07c65a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp032",
+   "type": "b-v",
+   "a": "bile",
+   "b": "vile",
+   "audio": {
+    "a": {
+     "text": "bile",
+     "file": "model_3dbe93535455.mp3"
+    },
+    "b": {
+     "text": "vile",
+     "file": "model_e4f411e67c72.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp033",
+   "type": "b-v",
+   "a": "robe",
+   "b": "rove",
+   "audio": {
+    "a": {
+     "text": "robe",
+     "file": "model_9573c81a6447.mp3"
+    },
+    "b": {
+     "text": "rove",
+     "file": "model_f346ca055784.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp034",
+   "type": "b-v",
+   "a": "rebel",
+   "b": "revel",
+   "audio": {
+    "a": {
+     "text": "rebel",
+     "file": "model_04c4225b64a8.mp3"
+    },
+    "b": {
+     "text": "revel",
+     "file": "model_3f0a801fd53c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp035",
+   "type": "b-v",
+   "a": "bowel",
+   "b": "vowel",
+   "audio": {
+    "a": {
+     "text": "bowel",
+     "file": "model_6c56b4ce472c.mp3"
+    },
+    "b": {
+     "text": "vowel",
+     "file": "model_57dc774ba1b0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp036",
+   "type": "b-v",
+   "a": "bent",
+   "b": "vent",
+   "audio": {
+    "a": {
+     "text": "bent",
+     "file": "model_148a5336da3a.mp3"
+    },
+    "b": {
+     "text": "vent",
+     "file": "model_b81d25767b70.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp037",
+   "type": "b-v",
+   "a": "bail",
+   "b": "veil",
+   "audio": {
+    "a": {
+     "text": "bail",
+     "file": "model_21373a90824b.mp3"
+    },
+    "b": {
+     "text": "veil",
+     "file": "model_bf7024491d23.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp038",
+   "type": "b-v",
+   "a": "bane",
+   "b": "vain",
+   "audio": {
+    "a": {
+     "text": "bane",
+     "file": "model_401ca175a04e.mp3"
+    },
+    "b": {
+     "text": "vain",
+     "file": "model_8416eb6e9897.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp039",
+   "type": "b-v",
+   "a": "beer",
+   "b": "veer",
+   "audio": {
+    "a": {
+     "text": "beer",
+     "file": "model_172b649cb392.mp3"
+    },
+    "b": {
+     "text": "veer",
+     "file": "model_f8bd0dec9636.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp040",
+   "type": "b-v",
+   "a": "saber",
+   "b": "saver",
+   "audio": {
+    "a": {
+     "text": "saber",
+     "file": "model_d422ffc18e8a.mp3"
+    },
+    "b": {
+     "text": "saver",
+     "file": "model_e0ea69da1244.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp041",
+   "type": "th-s",
+   "a": "think",
+   "b": "sink",
+   "audio": {
+    "a": {
+     "text": "think",
+     "file": "model_242c4fb7cd9f.mp3"
+    },
+    "b": {
+     "text": "sink",
+     "file": "model_5f9d2fc1a3fe.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp042",
+   "type": "th-s",
+   "a": "thick",
+   "b": "sick",
+   "audio": {
+    "a": {
+     "text": "thick",
+     "file": "model_af9afc90be4b.mp3"
+    },
+    "b": {
+     "text": "sick",
+     "file": "model_3b86c7b461d3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp043",
+   "type": "th-s",
+   "a": "thank",
+   "b": "sank",
+   "audio": {
+    "a": {
+     "text": "thank",
+     "file": "model_843e744509cd.mp3"
+    },
+    "b": {
+     "text": "sank",
+     "file": "model_a22a8e2d5d35.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp044",
+   "type": "th-s",
+   "a": "thing",
+   "b": "sing",
+   "audio": {
+    "a": {
+     "text": "thing",
+     "file": "model_0785f852db01.mp3"
+    },
+    "b": {
+     "text": "sing",
+     "file": "model_c0d451724735.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp045",
+   "type": "th-s",
+   "a": "mouth",
+   "b": "mouse",
+   "audio": {
+    "a": {
+     "text": "mouth",
+     "file": "model_80438a85cc20.mp3"
+    },
+    "b": {
+     "text": "mouse",
+     "file": "model_2d575f8f4e9d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp046",
+   "type": "th-s",
+   "a": "path",
+   "b": "pass",
+   "audio": {
+    "a": {
+     "text": "path",
+     "file": "model_32e4b72480d8.mp3"
+    },
+    "b": {
+     "text": "pass",
+     "file": "model_64baeb834781.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp047",
+   "type": "th-s",
+   "a": "thumb",
+   "b": "sum",
+   "audio": {
+    "a": {
+     "text": "thumb",
+     "file": "model_3151f4a55ab3.mp3"
+    },
+    "b": {
+     "text": "sum",
+     "file": "model_d0233cebf90c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp048",
+   "type": "th-s",
+   "a": "theme",
+   "b": "seem",
+   "audio": {
+    "a": {
+     "text": "theme",
+     "file": "model_24efd9fc947a.mp3"
+    },
+    "b": {
+     "text": "seem",
+     "file": "model_32323b4ec0e7.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp049",
+   "type": "th-s",
+   "a": "worth",
+   "b": "worse",
+   "audio": {
+    "a": {
+     "text": "worth",
+     "file": "model_56f02ff4b4ea.mp3"
+    },
+    "b": {
+     "text": "worse",
+     "file": "model_e56d57d61e65.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp050",
+   "type": "th-s",
+   "a": "faith",
+   "b": "face",
+   "audio": {
+    "a": {
+     "text": "faith",
+     "file": "model_c2deea7dd580.mp3"
+    },
+    "b": {
+     "text": "face",
+     "file": "model_d2f99b2008ef.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp051",
+   "type": "th-s",
+   "a": "math",
+   "b": "mass",
+   "audio": {
+    "a": {
+     "text": "math",
+     "file": "model_62f2d328f7ad.mp3"
+    },
+    "b": {
+     "text": "mass",
+     "file": "model_f1e747a39bac.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp052",
+   "type": "th-s",
+   "a": "myth",
+   "b": "miss",
+   "audio": {
+    "a": {
+     "text": "myth",
+     "file": "model_e542de8d740a.mp3"
+    },
+    "b": {
+     "text": "miss",
+     "file": "model_9618a8eb4dca.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp053",
+   "type": "th-s",
+   "a": "thin",
+   "b": "sin",
+   "audio": {
+    "a": {
+     "text": "thin",
+     "file": "model_331582e6c79a.mp3"
+    },
+    "b": {
+     "text": "sin",
+     "file": "model_36d6663dad0b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp054",
+   "type": "th-s",
+   "a": "thought",
+   "b": "sought",
+   "audio": {
+    "a": {
+     "text": "thought",
+     "file": "model_b4d8b5c24fb7.mp3"
+    },
+    "b": {
+     "text": "sought",
+     "file": "model_3cb180541d7d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp055",
+   "type": "th-s",
+   "a": "tenth",
+   "b": "tense",
+   "audio": {
+    "a": {
+     "text": "tenth",
+     "file": "model_5f6a94681993.mp3"
+    },
+    "b": {
+     "text": "tense",
+     "file": "model_6aae1a193b35.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp056",
+   "type": "th-s",
+   "a": "growth",
+   "b": "gross",
+   "audio": {
+    "a": {
+     "text": "growth",
+     "file": "model_d086f3b2790d.mp3"
+    },
+    "b": {
+     "text": "gross",
+     "file": "model_033e069010fb.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp057",
+   "type": "th-s",
+   "a": "truth",
+   "b": "truce",
+   "audio": {
+    "a": {
+     "text": "truth",
+     "file": "model_acc9938e6b0c.mp3"
+    },
+    "b": {
+     "text": "truce",
+     "file": "model_e493d40a5894.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp058",
+   "type": "th-s",
+   "a": "forth",
+   "b": "force",
+   "audio": {
+    "a": {
+     "text": "forth",
+     "file": "model_c617d72cc598.mp3"
+    },
+    "b": {
+     "text": "force",
+     "file": "model_6fba11b54c5b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp059",
+   "type": "th-s",
+   "a": "moth",
+   "b": "moss",
+   "audio": {
+    "a": {
+     "text": "moth",
+     "file": "model_ed849895f7d2.mp3"
+    },
+    "b": {
+     "text": "moss",
+     "file": "model_5ca366c0b1b6.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp060",
+   "type": "th-s",
+   "a": "thaw",
+   "b": "saw",
+   "audio": {
+    "a": {
+     "text": "thaw",
+     "file": "model_33aa01b0c2de.mp3"
+    },
+    "b": {
+     "text": "saw",
+     "file": "model_82c68ebfd631.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp061",
+   "type": "f-h",
+   "a": "fall",
+   "b": "hall",
+   "audio": {
+    "a": {
+     "text": "fall",
+     "file": "model_f1d76e5bbe9f.mp3"
+    },
+    "b": {
+     "text": "hall",
+     "file": "model_d3081898b532.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp062",
+   "type": "f-h",
+   "a": "feel",
+   "b": "heel",
+   "audio": {
+    "a": {
+     "text": "feel",
+     "file": "model_0a446d87e513.mp3"
+    },
+    "b": {
+     "text": "heel",
+     "file": "model_04cb08405a16.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp063",
+   "type": "f-h",
+   "a": "fair",
+   "b": "hair",
+   "audio": {
+    "a": {
+     "text": "fair",
+     "file": "model_3fe51c37661f.mp3"
+    },
+    "b": {
+     "text": "hair",
+     "file": "model_87a18796b321.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp064",
+   "type": "f-h",
+   "a": "fight",
+   "b": "height",
+   "audio": {
+    "a": {
+     "text": "fight",
+     "file": "model_0fef3fb920c5.mp3"
+    },
+    "b": {
+     "text": "height",
+     "file": "model_47a4858f5ef4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp065",
+   "type": "f-h",
+   "a": "fold",
+   "b": "hold",
+   "audio": {
+    "a": {
+     "text": "fold",
+     "file": "model_918e697c164c.mp3"
+    },
+    "b": {
+     "text": "hold",
+     "file": "model_da8dba461071.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp066",
+   "type": "f-h",
+   "a": "fire",
+   "b": "hire",
+   "audio": {
+    "a": {
+     "text": "fire",
+     "file": "model_a2d034fb56e6.mp3"
+    },
+    "b": {
+     "text": "hire",
+     "file": "model_93f546c1f307.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp067",
+   "type": "f-h",
+   "a": "fat",
+   "b": "hat",
+   "audio": {
+    "a": {
+     "text": "fat",
+     "file": "model_f0b29cf00c22.mp3"
+    },
+    "b": {
+     "text": "hat",
+     "file": "model_bcfc71cf227b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp068",
+   "type": "f-h",
+   "a": "fill",
+   "b": "hill",
+   "audio": {
+    "a": {
+     "text": "fill",
+     "file": "model_53a396983d3e.mp3"
+    },
+    "b": {
+     "text": "hill",
+     "file": "model_6ead15bec851.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp069",
+   "type": "f-h",
+   "a": "fear",
+   "b": "hear",
+   "audio": {
+    "a": {
+     "text": "fear",
+     "file": "model_ae15198b3b0b.mp3"
+    },
+    "b": {
+     "text": "hear",
+     "file": "model_2b98d5c3eaf9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp070",
+   "type": "f-h",
+   "a": "feed",
+   "b": "heed",
+   "audio": {
+    "a": {
+     "text": "feed",
+     "file": "model_5a8d38867b77.mp3"
+    },
+    "b": {
+     "text": "heed",
+     "file": "model_b3ab33828d5f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp071",
+   "type": "f-h",
+   "a": "farm",
+   "b": "harm",
+   "audio": {
+    "a": {
+     "text": "farm",
+     "file": "model_73bcfe8cff48.mp3"
+    },
+    "b": {
+     "text": "harm",
+     "file": "model_14d1faa3ac8f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp072",
+   "type": "f-h",
+   "a": "fit",
+   "b": "hit",
+   "audio": {
+    "a": {
+     "text": "fit",
+     "file": "model_d6cc78288218.mp3"
+    },
+    "b": {
+     "text": "hit",
+     "file": "model_6cc9179775cb.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp073",
+   "type": "f-h",
+   "a": "fate",
+   "b": "hate",
+   "audio": {
+    "a": {
+     "text": "fate",
+     "file": "model_d8cb9e9f707d.mp3"
+    },
+    "b": {
+     "text": "hate",
+     "file": "model_43bd9fcb76e6.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp074",
+   "type": "f-h",
+   "a": "fog",
+   "b": "hog",
+   "audio": {
+    "a": {
+     "text": "fog",
+     "file": "model_07f81d839e5c.mp3"
+    },
+    "b": {
+     "text": "hog",
+     "file": "model_cde78a7e5296.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp075",
+   "type": "f-h",
+   "a": "fur",
+   "b": "her",
+   "audio": {
+    "a": {
+     "text": "fur",
+     "file": "model_767bfcdfeb1f.mp3"
+    },
+    "b": {
+     "text": "her",
+     "file": "model_89f1798fcebe.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp076",
+   "type": "f-h",
+   "a": "found",
+   "b": "hound",
+   "audio": {
+    "a": {
+     "text": "found",
+     "file": "model_cd0c010edeac.mp3"
+    },
+    "b": {
+     "text": "hound",
+     "file": "model_a160a150a055.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp077",
+   "type": "f-h",
+   "a": "fang",
+   "b": "hang",
+   "audio": {
+    "a": {
+     "text": "fang",
+     "file": "model_0030382a18f3.mp3"
+    },
+    "b": {
+     "text": "hang",
+     "file": "model_9aa7d8e95407.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp078",
+   "type": "f-h",
+   "a": "fail",
+   "b": "hail",
+   "audio": {
+    "a": {
+     "text": "fail",
+     "file": "model_a250b4cbad0f.mp3"
+    },
+    "b": {
+     "text": "hail",
+     "file": "model_268f3f858fa3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp079",
+   "type": "f-h",
+   "a": "foam",
+   "b": "home",
+   "audio": {
+    "a": {
+     "text": "foam",
+     "file": "model_eda033abe7ef.mp3"
+    },
+    "b": {
+     "text": "home",
+     "file": "model_fc951cc25bff.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp080",
+   "type": "f-h",
+   "a": "fence",
+   "b": "hence",
+   "audio": {
+    "a": {
+     "text": "fence",
+     "file": "model_5e2233d3c1ed.mp3"
+    },
+    "b": {
+     "text": "hence",
+     "file": "model_383136f52701.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp081",
+   "type": "s-sh",
+   "a": "seat",
+   "b": "sheet",
+   "audio": {
+    "a": {
+     "text": "seat",
+     "file": "model_13d03cb43357.mp3"
+    },
+    "b": {
+     "text": "sheet",
+     "file": "model_e8cb492e8dc9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp082",
+   "type": "s-sh",
+   "a": "sip",
+   "b": "ship",
+   "audio": {
+    "a": {
+     "text": "sip",
+     "file": "model_598457887ccb.mp3"
+    },
+    "b": {
+     "text": "ship",
+     "file": "model_15bc51ccc817.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp083",
+   "type": "s-sh",
+   "a": "sell",
+   "b": "shell",
+   "audio": {
+    "a": {
+     "text": "sell",
+     "file": "model_654fd02873da.mp3"
+    },
+    "b": {
+     "text": "shell",
+     "file": "model_eaf083005e99.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp084",
+   "type": "s-sh",
+   "a": "sort",
+   "b": "short",
+   "audio": {
+    "a": {
+     "text": "sort",
+     "file": "model_f2c1014fc6fa.mp3"
+    },
+    "b": {
+     "text": "short",
+     "file": "model_b8b51fbd8d9f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp085",
+   "type": "s-sh",
+   "a": "save",
+   "b": "shave",
+   "audio": {
+    "a": {
+     "text": "save",
+     "file": "model_e4bc63a3d745.mp3"
+    },
+    "b": {
+     "text": "shave",
+     "file": "model_6947156b6bba.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp086",
+   "type": "s-sh",
+   "a": "sock",
+   "b": "shock",
+   "audio": {
+    "a": {
+     "text": "sock",
+     "file": "model_c5a9678cc2a1.mp3"
+    },
+    "b": {
+     "text": "shock",
+     "file": "model_9664ae98bf6f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp087",
+   "type": "s-sh",
+   "a": "suit",
+   "b": "shoot",
+   "audio": {
+    "a": {
+     "text": "suit",
+     "file": "model_04f117bec083.mp3"
+    },
+    "b": {
+     "text": "shoot",
+     "file": "model_dedb5b04ceb7.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp088",
+   "type": "s-sh",
+   "a": "sign",
+   "b": "shine",
+   "audio": {
+    "a": {
+     "text": "sign",
+     "file": "model_7ca670c03e0a.mp3"
+    },
+    "b": {
+     "text": "shine",
+     "file": "model_27d8b8254b24.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp089",
+   "type": "s-sh",
+   "a": "mass",
+   "b": "mash",
+   "audio": {
+    "a": {
+     "text": "mass",
+     "file": "model_ce558593c78d.mp3"
+    },
+    "b": {
+     "text": "mash",
+     "file": "model_44f1c67b2270.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp090",
+   "type": "s-sh",
+   "a": "class",
+   "b": "clash",
+   "audio": {
+    "a": {
+     "text": "class",
+     "file": "model_fdcb37cc1fa9.mp3"
+    },
+    "b": {
+     "text": "clash",
+     "file": "model_9304b4791935.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp091",
+   "type": "s-sh",
+   "a": "sigh",
+   "b": "shy",
+   "audio": {
+    "a": {
+     "text": "sigh",
+     "file": "model_fe2f9e819723.mp3"
+    },
+    "b": {
+     "text": "shy",
+     "file": "model_da6e87b0ba61.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp092",
+   "type": "s-sh",
+   "a": "sore",
+   "b": "shore",
+   "audio": {
+    "a": {
+     "text": "sore",
+     "file": "model_1764dc08e351.mp3"
+    },
+    "b": {
+     "text": "shore",
+     "file": "model_6468a6eeb041.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp093",
+   "type": "s-sh",
+   "a": "same",
+   "b": "shame",
+   "audio": {
+    "a": {
+     "text": "same",
+     "file": "model_a1fc7c1415e8.mp3"
+    },
+    "b": {
+     "text": "shame",
+     "file": "model_61e3f555f1f1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp094",
+   "type": "s-sh",
+   "a": "sack",
+   "b": "shack",
+   "audio": {
+    "a": {
+     "text": "sack",
+     "file": "model_8f9fffdfe640.mp3"
+    },
+    "b": {
+     "text": "shack",
+     "file": "model_b11d81738b89.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp095",
+   "type": "s-sh",
+   "a": "Sue",
+   "b": "shoe",
+   "audio": {
+    "a": {
+     "text": "Sue",
+     "file": "model_e4974b36d224.mp3"
+    },
+    "b": {
+     "text": "shoe",
+     "file": "model_4e90229e85df.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp096",
+   "type": "s-sh",
+   "a": "lease",
+   "b": "leash",
+   "audio": {
+    "a": {
+     "text": "lease",
+     "file": "model_f95274b93b84.mp3"
+    },
+    "b": {
+     "text": "leash",
+     "file": "model_2cccd11eaafa.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp097",
+   "type": "s-sh",
+   "a": "sea",
+   "b": "she",
+   "audio": {
+    "a": {
+     "text": "sea",
+     "file": "model_2fd7e8ed482e.mp3"
+    },
+    "b": {
+     "text": "she",
+     "file": "model_38d084715c29.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp098",
+   "type": "s-sh",
+   "a": "sift",
+   "b": "shift",
+   "audio": {
+    "a": {
+     "text": "sift",
+     "file": "model_e9b439a0002a.mp3"
+    },
+    "b": {
+     "text": "shift",
+     "file": "model_8036c3092efd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp099",
+   "type": "s-sh",
+   "a": "self",
+   "b": "shelf",
+   "audio": {
+    "a": {
+     "text": "self",
+     "file": "model_d51a5aa37030.mp3"
+    },
+    "b": {
+     "text": "shelf",
+     "file": "model_f405ecab427e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp100",
+   "type": "s-sh",
+   "a": "seer",
+   "b": "sheer",
+   "audio": {
+    "a": {
+     "text": "seer",
+     "file": "model_f6ddbeb5c4e5.mp3"
+    },
+    "b": {
+     "text": "sheer",
+     "file": "model_8aa61ad2fdf3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp101",
+   "type": "ae-uh",
+   "a": "cat",
+   "b": "cut",
+   "audio": {
+    "a": {
+     "text": "cat",
+     "file": "model_0cd257f38316.mp3"
+    },
+    "b": {
+     "text": "cut",
+     "file": "model_9b1b213e010d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp102",
+   "type": "ae-uh",
+   "a": "hat",
+   "b": "hut",
+   "audio": {
+    "a": {
+     "text": "hat",
+     "file": "model_51145968fdfc.mp3"
+    },
+    "b": {
+     "text": "hut",
+     "file": "model_f34eeee02c75.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp103",
+   "type": "ae-uh",
+   "a": "bag",
+   "b": "bug",
+   "audio": {
+    "a": {
+     "text": "bag",
+     "file": "model_f52644c517ca.mp3"
+    },
+    "b": {
+     "text": "bug",
+     "file": "model_f65c1a399f14.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp104",
+   "type": "ae-uh",
+   "a": "cap",
+   "b": "cup",
+   "audio": {
+    "a": {
+     "text": "cap",
+     "file": "model_8939fcf18c25.mp3"
+    },
+    "b": {
+     "text": "cup",
+     "file": "model_d2721932f5a9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp105",
+   "type": "ae-uh",
+   "a": "ran",
+   "b": "run",
+   "audio": {
+    "a": {
+     "text": "ran",
+     "file": "model_846ac46557f1.mp3"
+    },
+    "b": {
+     "text": "run",
+     "file": "model_fef9ba498402.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp106",
+   "type": "ae-uh",
+   "a": "fan",
+   "b": "fun",
+   "audio": {
+    "a": {
+     "text": "fan",
+     "file": "model_50e393bdb187.mp3"
+    },
+    "b": {
+     "text": "fun",
+     "file": "model_0dc01717c78e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp107",
+   "type": "ae-uh",
+   "a": "match",
+   "b": "much",
+   "audio": {
+    "a": {
+     "text": "match",
+     "file": "model_dd5b78024948.mp3"
+    },
+    "b": {
+     "text": "much",
+     "file": "model_7e1e1da69f7a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp108",
+   "type": "ae-uh",
+   "a": "track",
+   "b": "truck",
+   "audio": {
+    "a": {
+     "text": "track",
+     "file": "model_a8e3e3d3936f.mp3"
+    },
+    "b": {
+     "text": "truck",
+     "file": "model_b4dd09053816.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp109",
+   "type": "ae-uh",
+   "a": "bat",
+   "b": "but",
+   "audio": {
+    "a": {
+     "text": "bat",
+     "file": "model_935f428a4ed1.mp3"
+    },
+    "b": {
+     "text": "but",
+     "file": "model_b2afc756ffc4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp110",
+   "type": "ae-uh",
+   "a": "lamp",
+   "b": "lump",
+   "audio": {
+    "a": {
+     "text": "lamp",
+     "file": "model_4c90a1fe9a38.mp3"
+    },
+    "b": {
+     "text": "lump",
+     "file": "model_b7cf574ff578.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp111",
+   "type": "ae-uh",
+   "a": "ankle",
+   "b": "uncle",
+   "audio": {
+    "a": {
+     "text": "ankle",
+     "file": "model_49d197b3c42b.mp3"
+    },
+    "b": {
+     "text": "uncle",
+     "file": "model_c0bff6d0c73d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp112",
+   "type": "ae-uh",
+   "a": "drank",
+   "b": "drunk",
+   "audio": {
+    "a": {
+     "text": "drank",
+     "file": "model_a5df06406285.mp3"
+    },
+    "b": {
+     "text": "drunk",
+     "file": "model_5249e0de8848.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp113",
+   "type": "ae-uh",
+   "a": "cab",
+   "b": "cub",
+   "audio": {
+    "a": {
+     "text": "cab",
+     "file": "model_9e57f67a9cb0.mp3"
+    },
+    "b": {
+     "text": "cub",
+     "file": "model_320173f8b519.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp114",
+   "type": "ae-uh",
+   "a": "badge",
+   "b": "budge",
+   "audio": {
+    "a": {
+     "text": "badge",
+     "file": "model_1fe633b4c6e6.mp3"
+    },
+    "b": {
+     "text": "budge",
+     "file": "model_c5e91068bc53.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp115",
+   "type": "ae-uh",
+   "a": "rag",
+   "b": "rug",
+   "audio": {
+    "a": {
+     "text": "rag",
+     "file": "model_2b6e4bb928d1.mp3"
+    },
+    "b": {
+     "text": "rug",
+     "file": "model_dfcecb958e88.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp116",
+   "type": "ae-uh",
+   "a": "mad",
+   "b": "mud",
+   "audio": {
+    "a": {
+     "text": "mad",
+     "file": "model_10ec3d9233cb.mp3"
+    },
+    "b": {
+     "text": "mud",
+     "file": "model_c3b432ae41cd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp117",
+   "type": "ae-uh",
+   "a": "crash",
+   "b": "crush",
+   "audio": {
+    "a": {
+     "text": "crash",
+     "file": "model_f1b2af70b665.mp3"
+    },
+    "b": {
+     "text": "crush",
+     "file": "model_e0eb715a0f19.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp118",
+   "type": "ae-uh",
+   "a": "stack",
+   "b": "stuck",
+   "audio": {
+    "a": {
+     "text": "stack",
+     "file": "model_7c934076f098.mp3"
+    },
+    "b": {
+     "text": "stuck",
+     "file": "model_953ada8ec7ba.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp119",
+   "type": "ae-uh",
+   "a": "began",
+   "b": "begun",
+   "audio": {
+    "a": {
+     "text": "began",
+     "file": "model_e90aa35baeac.mp3"
+    },
+    "b": {
+     "text": "begun",
+     "file": "model_33b70e426400.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp120",
+   "type": "ae-uh",
+   "a": "tan",
+   "b": "ton",
+   "audio": {
+    "a": {
+     "text": "tan",
+     "file": "model_39b203819864.mp3"
+    },
+    "b": {
+     "text": "ton",
+     "file": "model_adc36fa62c93.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp121",
+   "type": "ee-i",
+   "a": "sheep",
+   "b": "ship",
+   "audio": {
+    "a": {
+     "text": "sheep",
+     "file": "model_b195cbbfd31f.mp3"
+    },
+    "b": {
+     "text": "ship",
+     "file": "model_82c0f9adcaf1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp122",
+   "type": "ee-i",
+   "a": "leave",
+   "b": "live",
+   "audio": {
+    "a": {
+     "text": "leave",
+     "file": "model_f45574eb9fdb.mp3"
+    },
+    "b": {
+     "text": "live",
+     "file": "model_063f02d5c938.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp123",
+   "type": "ee-i",
+   "a": "feel",
+   "b": "fill",
+   "audio": {
+    "a": {
+     "text": "feel",
+     "file": "model_be54b77940a9.mp3"
+    },
+    "b": {
+     "text": "fill",
+     "file": "model_82d67ce51a11.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp124",
+   "type": "ee-i",
+   "a": "seat",
+   "b": "sit",
+   "audio": {
+    "a": {
+     "text": "seat",
+     "file": "model_4bc045b48caa.mp3"
+    },
+    "b": {
+     "text": "sit",
+     "file": "model_d0e4c2668b01.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp125",
+   "type": "ee-i",
+   "a": "heat",
+   "b": "hit",
+   "audio": {
+    "a": {
+     "text": "heat",
+     "file": "model_f831a0d18e38.mp3"
+    },
+    "b": {
+     "text": "hit",
+     "file": "model_108d195b7c17.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp126",
+   "type": "ee-i",
+   "a": "beat",
+   "b": "bit",
+   "audio": {
+    "a": {
+     "text": "beat",
+     "file": "model_3474b879b163.mp3"
+    },
+    "b": {
+     "text": "bit",
+     "file": "model_ae18abc0396b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp127",
+   "type": "ee-i",
+   "a": "peel",
+   "b": "pill",
+   "audio": {
+    "a": {
+     "text": "peel",
+     "file": "model_e8c51ca90b43.mp3"
+    },
+    "b": {
+     "text": "pill",
+     "file": "model_3f54a9595a61.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp128",
+   "type": "ee-i",
+   "a": "deep",
+   "b": "dip",
+   "audio": {
+    "a": {
+     "text": "deep",
+     "file": "model_dc387799bb18.mp3"
+    },
+    "b": {
+     "text": "dip",
+     "file": "model_11a79f14341a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp129",
+   "type": "ee-i",
+   "a": "cheap",
+   "b": "chip",
+   "audio": {
+    "a": {
+     "text": "cheap",
+     "file": "model_4c6911b7091b.mp3"
+    },
+    "b": {
+     "text": "chip",
+     "file": "model_f1169784e02a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp130",
+   "type": "ee-i",
+   "a": "least",
+   "b": "list",
+   "audio": {
+    "a": {
+     "text": "least",
+     "file": "model_8fa2e5da4bc7.mp3"
+    },
+    "b": {
+     "text": "list",
+     "file": "model_6d0c2f8e9271.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp131",
+   "type": "ee-i",
+   "a": "eat",
+   "b": "it",
+   "audio": {
+    "a": {
+     "text": "eat",
+     "file": "model_e5f04c2de594.mp3"
+    },
+    "b": {
+     "text": "it",
+     "file": "model_e93081127caa.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp132",
+   "type": "ee-i",
+   "a": "green",
+   "b": "grin",
+   "audio": {
+    "a": {
+     "text": "green",
+     "file": "model_2eec8f1fee0e.mp3"
+    },
+    "b": {
+     "text": "grin",
+     "file": "model_0c8a6c723ba5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp133",
+   "type": "ee-i",
+   "a": "sleep",
+   "b": "slip",
+   "audio": {
+    "a": {
+     "text": "sleep",
+     "file": "model_f9f5d1f158fb.mp3"
+    },
+    "b": {
+     "text": "slip",
+     "file": "model_5c313081cfa9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp134",
+   "type": "ee-i",
+   "a": "reach",
+   "b": "rich",
+   "audio": {
+    "a": {
+     "text": "reach",
+     "file": "model_d5446a818704.mp3"
+    },
+    "b": {
+     "text": "rich",
+     "file": "model_091243b59a95.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp135",
+   "type": "ee-i",
+   "a": "wheel",
+   "b": "will",
+   "audio": {
+    "a": {
+     "text": "wheel",
+     "file": "model_ae582941fe52.mp3"
+    },
+    "b": {
+     "text": "will",
+     "file": "model_741ea00a1214.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp136",
+   "type": "ee-i",
+   "a": "meal",
+   "b": "mill",
+   "audio": {
+    "a": {
+     "text": "meal",
+     "file": "model_30d47aa4c1bb.mp3"
+    },
+    "b": {
+     "text": "mill",
+     "file": "model_3e2e1d4260ba.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp137",
+   "type": "ee-i",
+   "a": "steal",
+   "b": "still",
+   "audio": {
+    "a": {
+     "text": "steal",
+     "file": "model_d51603456c9f.mp3"
+    },
+    "b": {
+     "text": "still",
+     "file": "model_242516350e32.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp138",
+   "type": "ee-i",
+   "a": "neat",
+   "b": "knit",
+   "audio": {
+    "a": {
+     "text": "neat",
+     "file": "model_6e7edb01f5ef.mp3"
+    },
+    "b": {
+     "text": "knit",
+     "file": "model_925d1fba1ce0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp139",
+   "type": "ee-i",
+   "a": "leak",
+   "b": "lick",
+   "audio": {
+    "a": {
+     "text": "leak",
+     "file": "model_b22d7ac11eee.mp3"
+    },
+    "b": {
+     "text": "lick",
+     "file": "model_1309befac679.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp140",
+   "type": "ee-i",
+   "a": "feet",
+   "b": "fit",
+   "audio": {
+    "a": {
+     "text": "feet",
+     "file": "model_af71dfb1d59a.mp3"
+    },
+    "b": {
+     "text": "fit",
+     "file": "model_275d414cf116.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "mp141",
+   "type": "er-ar",
+   "a": "work",
+   "b": "walk",
+   "audio": {
+    "a": {
+     "text": "work",
+     "file": "model_f027e99e19c7.mp3"
+    },
+    "b": {
+     "text": "walk",
+     "file": "model_a5f0677f7260.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "mp142",
+   "type": "er-ar",
+   "a": "hurt",
+   "b": "heart",
+   "audio": {
+    "a": {
+     "text": "hurt",
+     "file": "model_ac3b28be7534.mp3"
+    },
+    "b": {
+     "text": "heart",
+     "file": "model_cc75217dac8f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp143",
+   "type": "er-ar",
+   "a": "fur",
+   "b": "far",
+   "audio": {
+    "a": {
+     "text": "fur",
+     "file": "model_4fd71283487b.mp3"
+    },
+    "b": {
+     "text": "far",
+     "file": "model_9522ec906be4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp144",
+   "type": "er-ar",
+   "a": "firm",
+   "b": "farm",
+   "audio": {
+    "a": {
+     "text": "firm",
+     "file": "model_4aae052aef81.mp3"
+    },
+    "b": {
+     "text": "farm",
+     "file": "model_2cf4f5df730b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp145",
+   "type": "er-ar",
+   "a": "heard",
+   "b": "hard",
+   "audio": {
+    "a": {
+     "text": "heard",
+     "file": "model_ba51190ed452.mp3"
+    },
+    "b": {
+     "text": "hard",
+     "file": "model_e653755f74a8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp146",
+   "type": "er-ar",
+   "a": "burn",
+   "b": "barn",
+   "audio": {
+    "a": {
+     "text": "burn",
+     "file": "model_84781327e6e0.mp3"
+    },
+    "b": {
+     "text": "barn",
+     "file": "model_708716425d45.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp147",
+   "type": "er-ar",
+   "a": "stir",
+   "b": "star",
+   "audio": {
+    "a": {
+     "text": "stir",
+     "file": "model_e1bf68add128.mp3"
+    },
+    "b": {
+     "text": "star",
+     "file": "model_baef63be22e7.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp148",
+   "type": "er-ar",
+   "a": "perk",
+   "b": "park",
+   "audio": {
+    "a": {
+     "text": "perk",
+     "file": "model_79ea1d2848fc.mp3"
+    },
+    "b": {
+     "text": "park",
+     "file": "model_1ea2df8d6bef.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp149",
+   "type": "er-ar",
+   "a": "curve",
+   "b": "carve",
+   "audio": {
+    "a": {
+     "text": "curve",
+     "file": "model_2ed9e341dfa4.mp3"
+    },
+    "b": {
+     "text": "carve",
+     "file": "model_5f7c48d3e24b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp150",
+   "type": "er-ar",
+   "a": "curb",
+   "b": "carb",
+   "audio": {
+    "a": {
+     "text": "curb",
+     "file": "model_5fb4eaa77cc2.mp3"
+    },
+    "b": {
+     "text": "carb",
+     "file": "model_6684e26eddc9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp151",
+   "type": "er-ar",
+   "a": "bird",
+   "b": "bard",
+   "audio": {
+    "a": {
+     "text": "bird",
+     "file": "model_d4cd3f5a58dd.mp3"
+    },
+    "b": {
+     "text": "bard",
+     "file": "model_4eafe4f3c01c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "mp152",
+   "type": "er-ar",
+   "a": "word",
+   "b": "ward",
+   "audio": {
+    "a": {
+     "text": "word",
+     "file": "model_475a8b284044.mp3"
+    },
+    "b": {
+     "text": "ward",
+     "file": "model_d26bd4fc1316.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "mp153",
+   "type": "er-ar",
+   "a": "worm",
+   "b": "warm",
+   "audio": {
+    "a": {
+     "text": "worm",
+     "file": "model_dcec6bdec951.mp3"
+    },
+    "b": {
+     "text": "warm",
+     "file": "model_7a9bfd53b752.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "mp154",
+   "type": "er-ar",
+   "a": "turn",
+   "b": "torn",
+   "audio": {
+    "a": {
+     "text": "turn",
+     "file": "model_a870ebe2d1c0.mp3"
+    },
+    "b": {
+     "text": "torn",
+     "file": "model_984d9393259e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "mp155",
+   "type": "er-ar",
+   "a": "shirt",
+   "b": "short",
+   "audio": {
+    "a": {
+     "text": "shirt",
+     "file": "model_e2a82befae28.mp3"
+    },
+    "b": {
+     "text": "short",
+     "file": "model_80bd614b4405.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp156",
+   "type": "er-ar",
+   "a": "learn",
+   "b": "lawn",
+   "audio": {
+    "a": {
+     "text": "learn",
+     "file": "model_442b55d56a3e.mp3"
+    },
+    "b": {
+     "text": "lawn",
+     "file": "model_34def95e40bb.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "mp157",
+   "type": "er-ar",
+   "a": "pearl",
+   "b": "Paul",
+   "audio": {
+    "a": {
+     "text": "pearl",
+     "file": "model_9523dccc5d6d.mp3"
+    },
+    "b": {
+     "text": "Paul",
+     "file": "model_19de4f32e3cd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "mp158",
+   "type": "er-ar",
+   "a": "dirt",
+   "b": "dart",
+   "audio": {
+    "a": {
+     "text": "dirt",
+     "file": "model_b0a351706906.mp3"
+    },
+    "b": {
+     "text": "dart",
+     "file": "model_c3ca445feab5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "mp159",
+   "type": "er-ar",
+   "a": "curt",
+   "b": "cart",
+   "audio": {
+    "a": {
+     "text": "curt",
+     "file": "model_c21625515a8e.mp3"
+    },
+    "b": {
+     "text": "cart",
+     "file": "model_f965dee084c9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "mp160",
+   "type": "er-ar",
+   "a": "were",
+   "b": "war",
+   "audio": {
+    "a": {
+     "text": "were",
+     "file": "model_9caa200d3d91.mp3"
+    },
+    "b": {
+     "text": "war",
+     "file": "model_36890c79a925.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  }
+ ]
+}

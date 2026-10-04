@@ -1,0 +1,5112 @@
+{
+ "name": "復唱",
+ "voices": "all",
+ "levels": {
+  "1": "3〜5 語",
+  "2": "6〜8 語",
+  "3": "9〜11 語",
+  "4": "12 語以上"
+ },
+ "items": [
+  {
+   "id": "rp001",
+   "level": 1,
+   "words": 4,
+   "text": "Close the door, please.",
+   "audio": {
+    "main": {
+     "text": "Close the door, please.",
+     "file": "model_3a37217c04ef.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp002",
+   "level": 1,
+   "words": 3,
+   "text": "I'm running late.",
+   "audio": {
+    "main": {
+     "text": "I'm running late.",
+     "file": "model_ce945d6d91a0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp003",
+   "level": 1,
+   "words": 3,
+   "text": "Where's the station?",
+   "audio": {
+    "main": {
+     "text": "Where's the station?",
+     "file": "model_b0989f9aeacd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp004",
+   "level": 1,
+   "words": 4,
+   "text": "It's really cold today.",
+   "audio": {
+    "main": {
+     "text": "It's really cold today.",
+     "file": "model_9d1586f3906d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp005",
+   "level": 1,
+   "words": 4,
+   "text": "She works from home.",
+   "audio": {
+    "main": {
+     "text": "She works from home.",
+     "file": "model_133b77e1c76d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp006",
+   "level": 1,
+   "words": 4,
+   "text": "Let's eat out tonight.",
+   "audio": {
+    "main": {
+     "text": "Let's eat out tonight.",
+     "file": "model_12365fc896fe.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp007",
+   "level": 1,
+   "words": 4,
+   "text": "The bus is full.",
+   "audio": {
+    "main": {
+     "text": "The bus is full.",
+     "file": "model_06028fd14ec4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp008",
+   "level": 1,
+   "words": 4,
+   "text": "He forgot his umbrella.",
+   "audio": {
+    "main": {
+     "text": "He forgot his umbrella.",
+     "file": "model_d772e7dc1da7.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp009",
+   "level": 1,
+   "words": 5,
+   "text": "Turn left at the corner.",
+   "audio": {
+    "main": {
+     "text": "Turn left at the corner.",
+     "file": "model_3e9f504e6ff4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp010",
+   "level": 1,
+   "words": 4,
+   "text": "I'll call you back.",
+   "audio": {
+    "main": {
+     "text": "I'll call you back.",
+     "file": "model_8af509dd9b3d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp011",
+   "level": 1,
+   "words": 5,
+   "text": "The store opens at nine.",
+   "audio": {
+    "main": {
+     "text": "The store opens at nine.",
+     "file": "model_c3948e579f08.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp012",
+   "level": 1,
+   "words": 4,
+   "text": "My phone is dead.",
+   "audio": {
+    "main": {
+     "text": "My phone is dead.",
+     "file": "model_ba08d160b08e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp013",
+   "level": 1,
+   "words": 4,
+   "text": "We missed the train.",
+   "audio": {
+    "main": {
+     "text": "We missed the train.",
+     "file": "model_dfd493700cbe.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp014",
+   "level": 1,
+   "words": 4,
+   "text": "Can I help you?",
+   "audio": {
+    "main": {
+     "text": "Can I help you?",
+     "file": "model_8812492bae65.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp015",
+   "level": 1,
+   "words": 5,
+   "text": "This coffee is too hot.",
+   "audio": {
+    "main": {
+     "text": "This coffee is too hot.",
+     "file": "model_b4a81313c6c0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp016",
+   "level": 1,
+   "words": 4,
+   "text": "They moved to Osaka.",
+   "audio": {
+    "main": {
+     "text": "They moved to Osaka.",
+     "file": "model_d8d18da460bc.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp017",
+   "level": 1,
+   "words": 3,
+   "text": "Please sit down.",
+   "audio": {
+    "main": {
+     "text": "Please sit down.",
+     "file": "model_cd7dca6563a1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp018",
+   "level": 1,
+   "words": 4,
+   "text": "What time is it?",
+   "audio": {
+    "main": {
+     "text": "What time is it?",
+     "file": "model_c134291c1af9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp019",
+   "level": 1,
+   "words": 4,
+   "text": "The meeting was canceled.",
+   "audio": {
+    "main": {
+     "text": "The meeting was canceled.",
+     "file": "model_3a2e26a648e4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp020",
+   "level": 1,
+   "words": 4,
+   "text": "I need a break.",
+   "audio": {
+    "main": {
+     "text": "I need a break.",
+     "file": "model_79495340e035.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp021",
+   "level": 1,
+   "words": 4,
+   "text": "Her dog is huge.",
+   "audio": {
+    "main": {
+     "text": "Her dog is huge.",
+     "file": "model_8b94f504081b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp022",
+   "level": 1,
+   "words": 4,
+   "text": "Is this seat taken?",
+   "audio": {
+    "main": {
+     "text": "Is this seat taken?",
+     "file": "model_ea842617ae98.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp023",
+   "level": 1,
+   "words": 4,
+   "text": "The soup smells great.",
+   "audio": {
+    "main": {
+     "text": "The soup smells great.",
+     "file": "model_54e2ad671fd2.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp024",
+   "level": 1,
+   "words": 3,
+   "text": "He's on vacation.",
+   "audio": {
+    "main": {
+     "text": "He's on vacation.",
+     "file": "model_841677b80ace.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp025",
+   "level": 1,
+   "words": 4,
+   "text": "I lost my keys.",
+   "audio": {
+    "main": {
+     "text": "I lost my keys.",
+     "file": "model_41e6e0064e08.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp026",
+   "level": 1,
+   "words": 3,
+   "text": "Thanks for waiting.",
+   "audio": {
+    "main": {
+     "text": "Thanks for waiting.",
+     "file": "model_397043381bc1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp027",
+   "level": 1,
+   "words": 4,
+   "text": "The printer isn't working.",
+   "audio": {
+    "main": {
+     "text": "The printer isn't working.",
+     "file": "model_9a54ee8610c9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp028",
+   "level": 1,
+   "words": 4,
+   "text": "We won the game.",
+   "audio": {
+    "main": {
+     "text": "We won the game.",
+     "file": "model_1be7d0742c60.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp029",
+   "level": 1,
+   "words": 4,
+   "text": "Don't forget your passport.",
+   "audio": {
+    "main": {
+     "text": "Don't forget your passport.",
+     "file": "model_171ea4d46d8b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp030",
+   "level": 1,
+   "words": 4,
+   "text": "It started to rain.",
+   "audio": {
+    "main": {
+     "text": "It started to rain.",
+     "file": "model_335b523907a8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp031",
+   "level": 1,
+   "words": 4,
+   "text": "I'm not sure yet.",
+   "audio": {
+    "main": {
+     "text": "I'm not sure yet.",
+     "file": "model_867b08fd9aae.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp032",
+   "level": 1,
+   "words": 4,
+   "text": "The kids are asleep.",
+   "audio": {
+    "main": {
+     "text": "The kids are asleep.",
+     "file": "model_56ff1f80b83e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp033",
+   "level": 1,
+   "words": 4,
+   "text": "She speaks three languages.",
+   "audio": {
+    "main": {
+     "text": "She speaks three languages.",
+     "file": "model_f6ca95d5f27f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp034",
+   "level": 1,
+   "words": 3,
+   "text": "Let me think.",
+   "audio": {
+    "main": {
+     "text": "Let me think.",
+     "file": "model_d351137271ec.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp035",
+   "level": 1,
+   "words": 4,
+   "text": "The elevator is broken.",
+   "audio": {
+    "main": {
+     "text": "The elevator is broken.",
+     "file": "model_246abb438f47.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp036",
+   "level": 1,
+   "words": 4,
+   "text": "That sounds like fun.",
+   "audio": {
+    "main": {
+     "text": "That sounds like fun.",
+     "file": "model_d6715cd3ad6c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp037",
+   "level": 1,
+   "words": 4,
+   "text": "He runs every morning.",
+   "audio": {
+    "main": {
+     "text": "He runs every morning.",
+     "file": "model_3dde68cca9ed.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp038",
+   "level": 1,
+   "words": 4,
+   "text": "I'll be right back.",
+   "audio": {
+    "main": {
+     "text": "I'll be right back.",
+     "file": "model_b1dbd096e2f1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp039",
+   "level": 1,
+   "words": 4,
+   "text": "The tickets sold out.",
+   "audio": {
+    "main": {
+     "text": "The tickets sold out.",
+     "file": "model_7b1f155bee94.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp040",
+   "level": 1,
+   "words": 4,
+   "text": "Our flight was delayed.",
+   "audio": {
+    "main": {
+     "text": "Our flight was delayed.",
+     "file": "model_f99a01f0b52d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp041",
+   "level": 1,
+   "words": 4,
+   "text": "Wash your hands first.",
+   "audio": {
+    "main": {
+     "text": "Wash your hands first.",
+     "file": "model_6bb779559d5f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp042",
+   "level": 1,
+   "words": 3,
+   "text": "It's my treat.",
+   "audio": {
+    "main": {
+     "text": "It's my treat.",
+     "file": "model_663924d54b4c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp043",
+   "level": 1,
+   "words": 4,
+   "text": "The room is quiet.",
+   "audio": {
+    "main": {
+     "text": "The room is quiet.",
+     "file": "model_e2ec8fc3d556.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp044",
+   "level": 1,
+   "words": 4,
+   "text": "She just got promoted.",
+   "audio": {
+    "main": {
+     "text": "She just got promoted.",
+     "file": "model_4ed79d40949b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp045",
+   "level": 1,
+   "words": 4,
+   "text": "Can you hear me?",
+   "audio": {
+    "main": {
+     "text": "Can you hear me?",
+     "file": "model_fe7b3852b400.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp046",
+   "level": 1,
+   "words": 4,
+   "text": "I prefer red wine.",
+   "audio": {
+    "main": {
+     "text": "I prefer red wine.",
+     "file": "model_7ef9a90f6804.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp047",
+   "level": 1,
+   "words": 4,
+   "text": "The road is closed.",
+   "audio": {
+    "main": {
+     "text": "The road is closed.",
+     "file": "model_b7b57df2f362.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp048",
+   "level": 1,
+   "words": 4,
+   "text": "Lunch is almost ready.",
+   "audio": {
+    "main": {
+     "text": "Lunch is almost ready.",
+     "file": "model_e72e9b9c7fec.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp049",
+   "level": 1,
+   "words": 5,
+   "text": "He bought a new watch.",
+   "audio": {
+    "main": {
+     "text": "He bought a new watch.",
+     "file": "model_2d486ea1687d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp050",
+   "level": 1,
+   "words": 4,
+   "text": "We should leave soon.",
+   "audio": {
+    "main": {
+     "text": "We should leave soon.",
+     "file": "model_0d254b0d5945.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp051",
+   "level": 1,
+   "words": 4,
+   "text": "Nobody answered the phone.",
+   "audio": {
+    "main": {
+     "text": "Nobody answered the phone.",
+     "file": "model_30f1543db918.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp052",
+   "level": 1,
+   "words": 3,
+   "text": "Take your time.",
+   "audio": {
+    "main": {
+     "text": "Take your time.",
+     "file": "model_7879e6842131.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp053",
+   "level": 1,
+   "words": 5,
+   "text": "The museum is free today.",
+   "audio": {
+    "main": {
+     "text": "The museum is free today.",
+     "file": "model_74531588d9ce.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp054",
+   "level": 1,
+   "words": 3,
+   "text": "My back hurts.",
+   "audio": {
+    "main": {
+     "text": "My back hurts.",
+     "file": "model_c238aaa7d00a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp055",
+   "level": 1,
+   "words": 3,
+   "text": "Who's coming tonight?",
+   "audio": {
+    "main": {
+     "text": "Who's coming tonight?",
+     "file": "model_919a4dd622ff.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp056",
+   "level": 1,
+   "words": 4,
+   "text": "The baby is crying.",
+   "audio": {
+    "main": {
+     "text": "The baby is crying.",
+     "file": "model_3bcc200dd2cd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp057",
+   "level": 1,
+   "words": 4,
+   "text": "I'll take the stairs.",
+   "audio": {
+    "main": {
+     "text": "I'll take the stairs.",
+     "file": "model_c266f0670919.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp058",
+   "level": 1,
+   "words": 4,
+   "text": "That's a good idea.",
+   "audio": {
+    "main": {
+     "text": "That's a good idea.",
+     "file": "model_058cf28a9e02.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp059",
+   "level": 1,
+   "words": 4,
+   "text": "Prices keep going up.",
+   "audio": {
+    "main": {
+     "text": "Prices keep going up.",
+     "file": "model_a4ac2b3120ff.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp060",
+   "level": 1,
+   "words": 4,
+   "text": "She's a great cook.",
+   "audio": {
+    "main": {
+     "text": "She's a great cook.",
+     "file": "model_09a0a6619fce.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp061",
+   "level": 2,
+   "words": 7,
+   "text": "I usually take the train to work.",
+   "audio": {
+    "main": {
+     "text": "I usually take the train to work.",
+     "file": "model_369446bc0acd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp062",
+   "level": 2,
+   "words": 7,
+   "text": "Could you send me the report today?",
+   "audio": {
+    "main": {
+     "text": "Could you send me the report today?",
+     "file": "model_d4b9c91dd002.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp063",
+   "level": 2,
+   "words": 8,
+   "text": "The restaurant on the corner is always busy.",
+   "audio": {
+    "main": {
+     "text": "The restaurant on the corner is always busy.",
+     "file": "model_33358f7c9c7d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp064",
+   "level": 2,
+   "words": 6,
+   "text": "We're planning a trip to Hokkaido.",
+   "audio": {
+    "main": {
+     "text": "We're planning a trip to Hokkaido.",
+     "file": "model_e7c430cdae59.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp065",
+   "level": 2,
+   "words": 6,
+   "text": "My sister lives near the beach.",
+   "audio": {
+    "main": {
+     "text": "My sister lives near the beach.",
+     "file": "model_0b9a3727c189.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp066",
+   "level": 2,
+   "words": 8,
+   "text": "Please turn off your phone during the movie.",
+   "audio": {
+    "main": {
+     "text": "Please turn off your phone during the movie.",
+     "file": "model_c5a1bcd38457.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp067",
+   "level": 2,
+   "words": 6,
+   "text": "He didn't sleep well last night.",
+   "audio": {
+    "main": {
+     "text": "He didn't sleep well last night.",
+     "file": "model_95aacc457e48.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp068",
+   "level": 2,
+   "words": 6,
+   "text": "The new manager starts next Monday.",
+   "audio": {
+    "main": {
+     "text": "The new manager starts next Monday.",
+     "file": "model_f0f5d6b912f8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp069",
+   "level": 2,
+   "words": 8,
+   "text": "I'd like to book a table for two.",
+   "audio": {
+    "main": {
+     "text": "I'd like to book a table for two.",
+     "file": "model_56391c7771c4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp070",
+   "level": 2,
+   "words": 7,
+   "text": "It takes twenty minutes to walk there.",
+   "audio": {
+    "main": {
+     "text": "It takes twenty minutes to walk there.",
+     "file": "model_205f455e46c2.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp071",
+   "level": 2,
+   "words": 7,
+   "text": "She always drinks green tea after lunch.",
+   "audio": {
+    "main": {
+     "text": "She always drinks green tea after lunch.",
+     "file": "model_113ba27a7e2a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp072",
+   "level": 2,
+   "words": 7,
+   "text": "The weather forecast says it will snow.",
+   "audio": {
+    "main": {
+     "text": "The weather forecast says it will snow.",
+     "file": "model_47ad972ff586.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp073",
+   "level": 2,
+   "words": 7,
+   "text": "Can you recommend a good place nearby?",
+   "audio": {
+    "main": {
+     "text": "Can you recommend a good place nearby?",
+     "file": "model_617417221321.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp074",
+   "level": 2,
+   "words": 6,
+   "text": "I've never been to South America.",
+   "audio": {
+    "main": {
+     "text": "I've never been to South America.",
+     "file": "model_7bf59ed9b0bb.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp075",
+   "level": 2,
+   "words": 7,
+   "text": "Our team finished the project on time.",
+   "audio": {
+    "main": {
+     "text": "Our team finished the project on time.",
+     "file": "model_8726945f332d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp076",
+   "level": 2,
+   "words": 8,
+   "text": "The kids played in the park all afternoon.",
+   "audio": {
+    "main": {
+     "text": "The kids played in the park all afternoon.",
+     "file": "model_c1e704ec274d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp077",
+   "level": 2,
+   "words": 7,
+   "text": "Let's meet in front of the station.",
+   "audio": {
+    "main": {
+     "text": "Let's meet in front of the station.",
+     "file": "model_eca6bd77c9a9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp078",
+   "level": 2,
+   "words": 7,
+   "text": "He's been learning the piano for years.",
+   "audio": {
+    "main": {
+     "text": "He's been learning the piano for years.",
+     "file": "model_06dd486534c0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp079",
+   "level": 2,
+   "words": 7,
+   "text": "This shirt is a little too small.",
+   "audio": {
+    "main": {
+     "text": "This shirt is a little too small.",
+     "file": "model_045d2275f221.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp080",
+   "level": 2,
+   "words": 6,
+   "text": "I'm going to the dentist tomorrow.",
+   "audio": {
+    "main": {
+     "text": "I'm going to the dentist tomorrow.",
+     "file": "model_33bb1ac30bf8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp081",
+   "level": 2,
+   "words": 6,
+   "text": "The library closes early on Sundays.",
+   "audio": {
+    "main": {
+     "text": "The library closes early on Sundays.",
+     "file": "model_5ecf3571c4bc.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp082",
+   "level": 2,
+   "words": 8,
+   "text": "We need to buy more milk and eggs.",
+   "audio": {
+    "main": {
+     "text": "We need to buy more milk and eggs.",
+     "file": "model_6f92a432710c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp083",
+   "level": 2,
+   "words": 7,
+   "text": "She left her bag on the train.",
+   "audio": {
+    "main": {
+     "text": "She left her bag on the train.",
+     "file": "model_6af8db1096ad.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp084",
+   "level": 2,
+   "words": 7,
+   "text": "How long have you lived in Tokyo?",
+   "audio": {
+    "main": {
+     "text": "How long have you lived in Tokyo?",
+     "file": "model_dc9167a67297.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp085",
+   "level": 2,
+   "words": 6,
+   "text": "The traffic was terrible this morning.",
+   "audio": {
+    "main": {
+     "text": "The traffic was terrible this morning.",
+     "file": "model_8bc082aea8a3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp086",
+   "level": 2,
+   "words": 7,
+   "text": "I forgot to bring my lunch today.",
+   "audio": {
+    "main": {
+     "text": "I forgot to bring my lunch today.",
+     "file": "model_34ed6ad2e0ae.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp087",
+   "level": 2,
+   "words": 7,
+   "text": "Please check your email before the meeting.",
+   "audio": {
+    "main": {
+     "text": "Please check your email before the meeting.",
+     "file": "model_5926e91da603.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp088",
+   "level": 2,
+   "words": 6,
+   "text": "They're getting married in the spring.",
+   "audio": {
+    "main": {
+     "text": "They're getting married in the spring.",
+     "file": "model_575a37b879fb.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp089",
+   "level": 2,
+   "words": 7,
+   "text": "My watch is about five minutes fast.",
+   "audio": {
+    "main": {
+     "text": "My watch is about five minutes fast.",
+     "file": "model_421ca0379bc8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp090",
+   "level": 2,
+   "words": 7,
+   "text": "The hotel room had a great view.",
+   "audio": {
+    "main": {
+     "text": "The hotel room had a great view.",
+     "file": "model_9e264d3dc659.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp091",
+   "level": 2,
+   "words": 6,
+   "text": "He always runs along the river.",
+   "audio": {
+    "main": {
+     "text": "He always runs along the river.",
+     "file": "model_ba943a038f37.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp092",
+   "level": 2,
+   "words": 7,
+   "text": "Could you speak a little more slowly?",
+   "audio": {
+    "main": {
+     "text": "Could you speak a little more slowly?",
+     "file": "model_80a7eb7eb2d4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp093",
+   "level": 2,
+   "words": 7,
+   "text": "I think the store is closed today.",
+   "audio": {
+    "main": {
+     "text": "I think the store is closed today.",
+     "file": "model_63c46ad88e6e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp094",
+   "level": 2,
+   "words": 7,
+   "text": "We watched an old movie last night.",
+   "audio": {
+    "main": {
+     "text": "We watched an old movie last night.",
+     "file": "model_747f1a186e32.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp095",
+   "level": 2,
+   "words": 6,
+   "text": "The price includes breakfast and dinner.",
+   "audio": {
+    "main": {
+     "text": "The price includes breakfast and dinner.",
+     "file": "model_bb60db6610c5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp096",
+   "level": 2,
+   "words": 6,
+   "text": "She's studying to become a nurse.",
+   "audio": {
+    "main": {
+     "text": "She's studying to become a nurse.",
+     "file": "model_3d93ecc01771.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp097",
+   "level": 2,
+   "words": 7,
+   "text": "Don't worry, we have plenty of time.",
+   "audio": {
+    "main": {
+     "text": "Don't worry, we have plenty of time.",
+     "file": "model_cc7bc8584e3e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp098",
+   "level": 2,
+   "words": 7,
+   "text": "The concert was louder than I expected.",
+   "audio": {
+    "main": {
+     "text": "The concert was louder than I expected.",
+     "file": "model_dc32cd6f7ce0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp099",
+   "level": 2,
+   "words": 7,
+   "text": "I usually go to bed around midnight.",
+   "audio": {
+    "main": {
+     "text": "I usually go to bed around midnight.",
+     "file": "model_e2e966df7a95.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp100",
+   "level": 2,
+   "words": 6,
+   "text": "Your package should arrive on Friday.",
+   "audio": {
+    "main": {
+     "text": "Your package should arrive on Friday.",
+     "file": "model_4e80455bc788.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp101",
+   "level": 2,
+   "words": 7,
+   "text": "The children are excited about the trip.",
+   "audio": {
+    "main": {
+     "text": "The children are excited about the trip.",
+     "file": "model_597a1180874a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp102",
+   "level": 2,
+   "words": 7,
+   "text": "He fixed the bike in ten minutes.",
+   "audio": {
+    "main": {
+     "text": "He fixed the bike in ten minutes.",
+     "file": "model_23ae2a18fe1d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp103",
+   "level": 2,
+   "words": 7,
+   "text": "Let me know if you need anything.",
+   "audio": {
+    "main": {
+     "text": "Let me know if you need anything.",
+     "file": "model_e7bf808a19ae.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp104",
+   "level": 2,
+   "words": 6,
+   "text": "I can't find my glasses anywhere.",
+   "audio": {
+    "main": {
+     "text": "I can't find my glasses anywhere.",
+     "file": "model_cb84c7365ce4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp105",
+   "level": 2,
+   "words": 8,
+   "text": "This bakery sells the best bread in town.",
+   "audio": {
+    "main": {
+     "text": "This bakery sells the best bread in town.",
+     "file": "model_0863c967b4cf.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp106",
+   "level": 2,
+   "words": 6,
+   "text": "The train was crowded with tourists.",
+   "audio": {
+    "main": {
+     "text": "The train was crowded with tourists.",
+     "file": "model_01decac7797d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp107",
+   "level": 2,
+   "words": 6,
+   "text": "My parents are visiting next weekend.",
+   "audio": {
+    "main": {
+     "text": "My parents are visiting next weekend.",
+     "file": "model_b0af1a30ebb3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp108",
+   "level": 2,
+   "words": 6,
+   "text": "She painted the kitchen bright yellow.",
+   "audio": {
+    "main": {
+     "text": "She painted the kitchen bright yellow.",
+     "file": "model_6c4e6b73fd64.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp109",
+   "level": 2,
+   "words": 6,
+   "text": "Which bus goes to the airport?",
+   "audio": {
+    "main": {
+     "text": "Which bus goes to the airport?",
+     "file": "model_c271a280263e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp110",
+   "level": 1,
+   "words": 5,
+   "text": "I've already finished my homework.",
+   "audio": {
+    "main": {
+     "text": "I've already finished my homework.",
+     "file": "model_e0cee3703f19.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp111",
+   "level": 2,
+   "words": 8,
+   "text": "The meeting room is on the third floor.",
+   "audio": {
+    "main": {
+     "text": "The meeting room is on the third floor.",
+     "file": "model_57de9451a276.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp112",
+   "level": 2,
+   "words": 7,
+   "text": "We ordered pizza for the whole team.",
+   "audio": {
+    "main": {
+     "text": "We ordered pizza for the whole team.",
+     "file": "model_6cf37f25f34c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp113",
+   "level": 2,
+   "words": 6,
+   "text": "He apologized for being late again.",
+   "audio": {
+    "main": {
+     "text": "He apologized for being late again.",
+     "file": "model_5cd18fddb195.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp114",
+   "level": 2,
+   "words": 7,
+   "text": "It's much warmer than it was yesterday.",
+   "audio": {
+    "main": {
+     "text": "It's much warmer than it was yesterday.",
+     "file": "model_b893ee0af9e3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp115",
+   "level": 2,
+   "words": 7,
+   "text": "Could you hold this for a second?",
+   "audio": {
+    "main": {
+     "text": "Could you hold this for a second?",
+     "file": "model_02ed4a1e81d3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp116",
+   "level": 2,
+   "words": 7,
+   "text": "The marathon starts early in the morning.",
+   "audio": {
+    "main": {
+     "text": "The marathon starts early in the morning.",
+     "file": "model_cca524047625.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp117",
+   "level": 2,
+   "words": 6,
+   "text": "I'd rather stay home and relax.",
+   "audio": {
+    "main": {
+     "text": "I'd rather stay home and relax.",
+     "file": "model_5f93510e7d36.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp118",
+   "level": 2,
+   "words": 8,
+   "text": "She wrote a long letter to her grandmother.",
+   "audio": {
+    "main": {
+     "text": "She wrote a long letter to her grandmother.",
+     "file": "model_4e0feb9f874b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp119",
+   "level": 2,
+   "words": 7,
+   "text": "The wine from this region is excellent.",
+   "audio": {
+    "main": {
+     "text": "The wine from this region is excellent.",
+     "file": "model_056f23c69882.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp120",
+   "level": 2,
+   "words": 7,
+   "text": "Please leave a message after the beep.",
+   "audio": {
+    "main": {
+     "text": "Please leave a message after the beep.",
+     "file": "model_89f2f6db1108.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp121",
+   "level": 2,
+   "words": 7,
+   "text": "We got lost on the way there.",
+   "audio": {
+    "main": {
+     "text": "We got lost on the way there.",
+     "file": "model_a518fcb9fc70.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp122",
+   "level": 2,
+   "words": 6,
+   "text": "He works at a bank downtown.",
+   "audio": {
+    "main": {
+     "text": "He works at a bank downtown.",
+     "file": "model_585ea8e79cca.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp123",
+   "level": 2,
+   "words": 6,
+   "text": "The battery lasts about two days.",
+   "audio": {
+    "main": {
+     "text": "The battery lasts about two days.",
+     "file": "model_f9db9520a9c8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp124",
+   "level": 2,
+   "words": 6,
+   "text": "I'm looking for a birthday present.",
+   "audio": {
+    "main": {
+     "text": "I'm looking for a birthday present.",
+     "file": "model_a11dbf1c0d10.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp125",
+   "level": 2,
+   "words": 8,
+   "text": "They opened a new café near my office.",
+   "audio": {
+    "main": {
+     "text": "They opened a new café near my office.",
+     "file": "model_7210dfc04a72.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp126",
+   "level": 2,
+   "words": 7,
+   "text": "My son wants to be a pilot.",
+   "audio": {
+    "main": {
+     "text": "My son wants to be a pilot.",
+     "file": "model_00f3e82cfe7d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp127",
+   "level": 2,
+   "words": 6,
+   "text": "The doctor told me to rest.",
+   "audio": {
+    "main": {
+     "text": "The doctor told me to rest.",
+     "file": "model_b97271a9b973.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp128",
+   "level": 2,
+   "words": 7,
+   "text": "You can pay by card or cash.",
+   "audio": {
+    "main": {
+     "text": "You can pay by card or cash.",
+     "file": "model_987da18906d1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp129",
+   "level": 2,
+   "words": 7,
+   "text": "It rained every day during our vacation.",
+   "audio": {
+    "main": {
+     "text": "It rained every day during our vacation.",
+     "file": "model_51c7995d1889.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp130",
+   "level": 2,
+   "words": 8,
+   "text": "She runs faster than anyone on the team.",
+   "audio": {
+    "main": {
+     "text": "She runs faster than anyone on the team.",
+     "file": "model_2671be79f8cf.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp131",
+   "level": 2,
+   "words": 6,
+   "text": "I'll pick you up at seven.",
+   "audio": {
+    "main": {
+     "text": "I'll pick you up at seven.",
+     "file": "model_b68acc0d9cbe.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp132",
+   "level": 2,
+   "words": 7,
+   "text": "The museum has a famous painting collection.",
+   "audio": {
+    "main": {
+     "text": "The museum has a famous painting collection.",
+     "file": "model_21ac45ac95ab.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp133",
+   "level": 1,
+   "words": 5,
+   "text": "We're out of coffee again.",
+   "audio": {
+    "main": {
+     "text": "We're out of coffee again.",
+     "file": "model_911091e65831.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp134",
+   "level": 2,
+   "words": 8,
+   "text": "His new apartment is close to the park.",
+   "audio": {
+    "main": {
+     "text": "His new apartment is close to the park.",
+     "file": "model_cbaec1148153.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp135",
+   "level": 2,
+   "words": 7,
+   "text": "Turn right after the second traffic light.",
+   "audio": {
+    "main": {
+     "text": "Turn right after the second traffic light.",
+     "file": "model_ddbcd2dbb615.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp136",
+   "level": 2,
+   "words": 7,
+   "text": "The app keeps crashing on my phone.",
+   "audio": {
+    "main": {
+     "text": "The app keeps crashing on my phone.",
+     "file": "model_97b8fc0d53ef.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp137",
+   "level": 2,
+   "words": 7,
+   "text": "I haven't seen her since high school.",
+   "audio": {
+    "main": {
+     "text": "I haven't seen her since high school.",
+     "file": "model_0645fe260a6e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp138",
+   "level": 2,
+   "words": 7,
+   "text": "Dinner will be ready in five minutes.",
+   "audio": {
+    "main": {
+     "text": "Dinner will be ready in five minutes.",
+     "file": "model_83355e909f00.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp139",
+   "level": 2,
+   "words": 8,
+   "text": "This watch was a gift from my father.",
+   "audio": {
+    "main": {
+     "text": "This watch was a gift from my father.",
+     "file": "model_a429e6626eb6.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp140",
+   "level": 2,
+   "words": 8,
+   "text": "Remember to water the plants while I'm away.",
+   "audio": {
+    "main": {
+     "text": "Remember to water the plants while I'm away.",
+     "file": "model_b8ce4b551772.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp141",
+   "level": 3,
+   "words": 10,
+   "text": "I usually check the news on my phone before breakfast.",
+   "audio": {
+    "main": {
+     "text": "I usually check the news on my phone before breakfast.",
+     "file": "model_bb2ddcbb66e2.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp142",
+   "level": 3,
+   "words": 10,
+   "text": "The flight to London was delayed because of the storm.",
+   "audio": {
+    "main": {
+     "text": "The flight to London was delayed because of the storm.",
+     "file": "model_212ef5958736.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp143",
+   "level": 3,
+   "words": 11,
+   "text": "She asked me to bring something to drink to the party.",
+   "audio": {
+    "main": {
+     "text": "She asked me to bring something to drink to the party.",
+     "file": "model_fb009122bfb6.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp144",
+   "level": 3,
+   "words": 11,
+   "text": "We decided to rent a car instead of taking the bus.",
+   "audio": {
+    "main": {
+     "text": "We decided to rent a car instead of taking the bus.",
+     "file": "model_bde23047d0f5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp145",
+   "level": 3,
+   "words": 10,
+   "text": "If it rains tomorrow, we'll have to cancel the picnic.",
+   "audio": {
+    "main": {
+     "text": "If it rains tomorrow, we'll have to cancel the picnic.",
+     "file": "model_dc290e8a737d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp146",
+   "level": 3,
+   "words": 10,
+   "text": "My grandfather still goes swimming in the ocean every summer.",
+   "audio": {
+    "main": {
+     "text": "My grandfather still goes swimming in the ocean every summer.",
+     "file": "model_6a15b9ce41c5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp147",
+   "level": 3,
+   "words": 11,
+   "text": "The new shopping mall is much bigger than the old one.",
+   "audio": {
+    "main": {
+     "text": "The new shopping mall is much bigger than the old one.",
+     "file": "model_6d0b4b3fc45c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp148",
+   "level": 3,
+   "words": 10,
+   "text": "Could you tell me where the nearest post office is?",
+   "audio": {
+    "main": {
+     "text": "Could you tell me where the nearest post office is?",
+     "file": "model_8cb99d3b22a5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp149",
+   "level": 3,
+   "words": 9,
+   "text": "He spent the whole weekend cleaning out the garage.",
+   "audio": {
+    "main": {
+     "text": "He spent the whole weekend cleaning out the garage.",
+     "file": "model_cead16ec7049.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp150",
+   "level": 3,
+   "words": 10,
+   "text": "I've been trying to drink more water during the day.",
+   "audio": {
+    "main": {
+     "text": "I've been trying to drink more water during the day.",
+     "file": "model_1914ab628e3c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp151",
+   "level": 3,
+   "words": 11,
+   "text": "The teacher gave us a lot of homework over the holiday.",
+   "audio": {
+    "main": {
+     "text": "The teacher gave us a lot of homework over the holiday.",
+     "file": "model_cf84c0e56ac1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp152",
+   "level": 3,
+   "words": 10,
+   "text": "They're looking for someone who can speak English and Japanese.",
+   "audio": {
+    "main": {
+     "text": "They're looking for someone who can speak English and Japanese.",
+     "file": "model_aa94f8bd83bd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp153",
+   "level": 3,
+   "words": 11,
+   "text": "Please make sure all the windows are closed before you leave.",
+   "audio": {
+    "main": {
+     "text": "Please make sure all the windows are closed before you leave.",
+     "file": "model_311a1875f6e5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp154",
+   "level": 3,
+   "words": 11,
+   "text": "I didn't recognize her at first because she cut her hair.",
+   "audio": {
+    "main": {
+     "text": "I didn't recognize her at first because she cut her hair.",
+     "file": "model_55ac065ea380.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp155",
+   "level": 3,
+   "words": 11,
+   "text": "The restaurant was so popular that we had to wait outside.",
+   "audio": {
+    "main": {
+     "text": "The restaurant was so popular that we had to wait outside.",
+     "file": "model_97f3c5fe9fc5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp156",
+   "level": 3,
+   "words": 10,
+   "text": "My brother and I used to play soccer after school.",
+   "audio": {
+    "main": {
+     "text": "My brother and I used to play soccer after school.",
+     "file": "model_756624d3d4ab.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp157",
+   "level": 3,
+   "words": 10,
+   "text": "We should probably leave early to avoid the heavy traffic.",
+   "audio": {
+    "main": {
+     "text": "We should probably leave early to avoid the heavy traffic.",
+     "file": "model_dce0edd913fc.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp158",
+   "level": 3,
+   "words": 11,
+   "text": "The museum is closed on Mondays, so let's go on Tuesday.",
+   "audio": {
+    "main": {
+     "text": "The museum is closed on Mondays, so let's go on Tuesday.",
+     "file": "model_a78015e43eee.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp159",
+   "level": 3,
+   "words": 10,
+   "text": "She's been working at the same company for fifteen years.",
+   "audio": {
+    "main": {
+     "text": "She's been working at the same company for fifteen years.",
+     "file": "model_aa4cbabc4834.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp160",
+   "level": 3,
+   "words": 11,
+   "text": "It's hard to find a good apartment in the city center.",
+   "audio": {
+    "main": {
+     "text": "It's hard to find a good apartment in the city center.",
+     "file": "model_2116b84bccec.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp161",
+   "level": 3,
+   "words": 11,
+   "text": "I'll send you the details as soon as I get them.",
+   "audio": {
+    "main": {
+     "text": "I'll send you the details as soon as I get them.",
+     "file": "model_66efcc7a1e26.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp162",
+   "level": 3,
+   "words": 10,
+   "text": "The kids were too excited to fall asleep last night.",
+   "audio": {
+    "main": {
+     "text": "The kids were too excited to fall asleep last night.",
+     "file": "model_294372679cae.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp163",
+   "level": 3,
+   "words": 11,
+   "text": "He wants to run a full marathon before he turns forty.",
+   "audio": {
+    "main": {
+     "text": "He wants to run a full marathon before he turns forty.",
+     "file": "model_678ab41342a3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp164",
+   "level": 3,
+   "words": 11,
+   "text": "You can't park here between eight in the morning and six.",
+   "audio": {
+    "main": {
+     "text": "You can't park here between eight in the morning and six.",
+     "file": "model_b9ac0a660564.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp165",
+   "level": 3,
+   "words": 10,
+   "text": "The store was out of the brand I usually buy.",
+   "audio": {
+    "main": {
+     "text": "The store was out of the brand I usually buy.",
+     "file": "model_2eff0744349a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp166",
+   "level": 3,
+   "words": 10,
+   "text": "We spent our honeymoon on a small island in Greece.",
+   "audio": {
+    "main": {
+     "text": "We spent our honeymoon on a small island in Greece.",
+     "file": "model_a523fd6acd04.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp167",
+   "level": 3,
+   "words": 11,
+   "text": "Most of the people at the meeting agreed with the plan.",
+   "audio": {
+    "main": {
+     "text": "Most of the people at the meeting agreed with the plan.",
+     "file": "model_9e46b271aa71.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp168",
+   "level": 3,
+   "words": 10,
+   "text": "I accidentally left my wallet in the taxi this morning.",
+   "audio": {
+    "main": {
+     "text": "I accidentally left my wallet in the taxi this morning.",
+     "file": "model_5eeadc0721b1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp169",
+   "level": 3,
+   "words": 11,
+   "text": "The weather was perfect, so we had lunch in the garden.",
+   "audio": {
+    "main": {
+     "text": "The weather was perfect, so we had lunch in the garden.",
+     "file": "model_22288eb52237.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp170",
+   "level": 3,
+   "words": 10,
+   "text": "She's afraid of flying, so she always takes the train.",
+   "audio": {
+    "main": {
+     "text": "She's afraid of flying, so she always takes the train.",
+     "file": "model_d46df3a02a49.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp171",
+   "level": 3,
+   "words": 11,
+   "text": "My phone battery died right in the middle of the call.",
+   "audio": {
+    "main": {
+     "text": "My phone battery died right in the middle of the call.",
+     "file": "model_f271d7396dd3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp172",
+   "level": 3,
+   "words": 10,
+   "text": "They built a new bridge across the river last year.",
+   "audio": {
+    "main": {
+     "text": "They built a new bridge across the river last year.",
+     "file": "model_10d812f2bb70.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp173",
+   "level": 4,
+   "words": 12,
+   "text": "I need to finish this report before the end of the day.",
+   "audio": {
+    "main": {
+     "text": "I need to finish this report before the end of the day.",
+     "file": "model_1718254bb0b0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp174",
+   "level": 3,
+   "words": 11,
+   "text": "The waiter brought us the wrong dishes, but they were delicious.",
+   "audio": {
+    "main": {
+     "text": "The waiter brought us the wrong dishes, but they were delicious.",
+     "file": "model_7f07dfe3fec9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp175",
+   "level": 3,
+   "words": 9,
+   "text": "Children under six can ride the bus for free.",
+   "audio": {
+    "main": {
+     "text": "Children under six can ride the bus for free.",
+     "file": "model_26b83a4312df.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp176",
+   "level": 3,
+   "words": 10,
+   "text": "He forgot his password and couldn't log into his account.",
+   "audio": {
+    "main": {
+     "text": "He forgot his password and couldn't log into his account.",
+     "file": "model_32656c42dc2f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp177",
+   "level": 3,
+   "words": 9,
+   "text": "Let's take a short break and continue after lunch.",
+   "audio": {
+    "main": {
+     "text": "Let's take a short break and continue after lunch.",
+     "file": "model_c01a026a0597.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp178",
+   "level": 3,
+   "words": 10,
+   "text": "The hotel staff were friendly and helped us with everything.",
+   "audio": {
+    "main": {
+     "text": "The hotel staff were friendly and helped us with everything.",
+     "file": "model_4e7837dd20d1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp179",
+   "level": 3,
+   "words": 10,
+   "text": "I've heard that the new science museum is really interesting.",
+   "audio": {
+    "main": {
+     "text": "I've heard that the new science museum is really interesting.",
+     "file": "model_256e8ea19acd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp180",
+   "level": 3,
+   "words": 11,
+   "text": "We had to change trains twice to get to the village.",
+   "audio": {
+    "main": {
+     "text": "We had to change trains twice to get to the village.",
+     "file": "model_b2e012f97fd9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp181",
+   "level": 3,
+   "words": 10,
+   "text": "Can you remind me to call the bank this afternoon?",
+   "audio": {
+    "main": {
+     "text": "Can you remind me to call the bank this afternoon?",
+     "file": "model_9c312efa8112.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp182",
+   "level": 3,
+   "words": 10,
+   "text": "This wine goes really well with grilled fish and vegetables.",
+   "audio": {
+    "main": {
+     "text": "This wine goes really well with grilled fish and vegetables.",
+     "file": "model_e9e17daf0530.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp183",
+   "level": 3,
+   "words": 11,
+   "text": "She bought a used car because new ones are too expensive.",
+   "audio": {
+    "main": {
+     "text": "She bought a used car because new ones are too expensive.",
+     "file": "model_b6e289dd36b5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp184",
+   "level": 3,
+   "words": 10,
+   "text": "The fire alarm went off while we were having dinner.",
+   "audio": {
+    "main": {
+     "text": "The fire alarm went off while we were having dinner.",
+     "file": "model_70dbb3028015.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp185",
+   "level": 3,
+   "words": 11,
+   "text": "Most of my friends live within walking distance of the station.",
+   "audio": {
+    "main": {
+     "text": "Most of my friends live within walking distance of the station.",
+     "file": "model_e1704253e54d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp186",
+   "level": 3,
+   "words": 11,
+   "text": "He's not very good at cooking, but he makes great pancakes.",
+   "audio": {
+    "main": {
+     "text": "He's not very good at cooking, but he makes great pancakes.",
+     "file": "model_68ca981e54dc.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp187",
+   "level": 3,
+   "words": 9,
+   "text": "I'm thinking about joining a gym near my office.",
+   "audio": {
+    "main": {
+     "text": "I'm thinking about joining a gym near my office.",
+     "file": "model_e2c757eb3c20.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp188",
+   "level": 3,
+   "words": 11,
+   "text": "The price of vegetables has gone up a lot this year.",
+   "audio": {
+    "main": {
+     "text": "The price of vegetables has gone up a lot this year.",
+     "file": "model_337dd9b589a5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp189",
+   "level": 3,
+   "words": 10,
+   "text": "Our neighbors are very quiet, except when their dog barks.",
+   "audio": {
+    "main": {
+     "text": "Our neighbors are very quiet, except when their dog barks.",
+     "file": "model_9757327f6466.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp190",
+   "level": 3,
+   "words": 10,
+   "text": "The movie was so long that I almost fell asleep.",
+   "audio": {
+    "main": {
+     "text": "The movie was so long that I almost fell asleep.",
+     "file": "model_566e7c149966.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp191",
+   "level": 3,
+   "words": 11,
+   "text": "You should bring a jacket because it gets cold at night.",
+   "audio": {
+    "main": {
+     "text": "You should bring a jacket because it gets cold at night.",
+     "file": "model_e61615e8420b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp192",
+   "level": 3,
+   "words": 10,
+   "text": "We're having a small party for her birthday on Saturday.",
+   "audio": {
+    "main": {
+     "text": "We're having a small party for her birthday on Saturday.",
+     "file": "model_e8931cf35ec2.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp193",
+   "level": 4,
+   "words": 12,
+   "text": "The road was closed, so we had to take a long detour.",
+   "audio": {
+    "main": {
+     "text": "The road was closed, so we had to take a long detour.",
+     "file": "model_93f76ed8f889.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp194",
+   "level": 4,
+   "words": 12,
+   "text": "I learned to ride a bike when I was six years old.",
+   "audio": {
+    "main": {
+     "text": "I learned to ride a bike when I was six years old.",
+     "file": "model_9e8a4dbbc9a8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp195",
+   "level": 4,
+   "words": 12,
+   "text": "She keeps all her old photos in a box under the bed.",
+   "audio": {
+    "main": {
+     "text": "She keeps all her old photos in a box under the bed.",
+     "file": "model_8bf7b31cd12d.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp196",
+   "level": 3,
+   "words": 10,
+   "text": "The library has a quiet room where you can study.",
+   "audio": {
+    "main": {
+     "text": "The library has a quiet room where you can study.",
+     "file": "model_5912a042d2a3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp197",
+   "level": 3,
+   "words": 10,
+   "text": "He called to say he'd be about twenty minutes late.",
+   "audio": {
+    "main": {
+     "text": "He called to say he'd be about twenty minutes late.",
+     "file": "model_6fcd1d6603ca.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp198",
+   "level": 3,
+   "words": 11,
+   "text": "Watching the sunrise from the top of the mountain was amazing.",
+   "audio": {
+    "main": {
+     "text": "Watching the sunrise from the top of the mountain was amazing.",
+     "file": "model_07794afbcc55.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp199",
+   "level": 3,
+   "words": 10,
+   "text": "I prefer living in the countryside because it's more peaceful.",
+   "audio": {
+    "main": {
+     "text": "I prefer living in the countryside because it's more peaceful.",
+     "file": "model_83c29bced984.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp200",
+   "level": 3,
+   "words": 10,
+   "text": "The company plans to open three new stores next year.",
+   "audio": {
+    "main": {
+     "text": "The company plans to open three new stores next year.",
+     "file": "model_e45289b76d93.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp201",
+   "level": 3,
+   "words": 9,
+   "text": "My daughter has started taking swimming lessons on Saturdays.",
+   "audio": {
+    "main": {
+     "text": "My daughter has started taking swimming lessons on Saturdays.",
+     "file": "model_802e8c70f99c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp202",
+   "level": 3,
+   "words": 10,
+   "text": "Please read the instructions carefully before you start the test.",
+   "audio": {
+    "main": {
+     "text": "Please read the instructions carefully before you start the test.",
+     "file": "model_bad1a291fb0b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp203",
+   "level": 3,
+   "words": 9,
+   "text": "The coffee shop downstairs gets really crowded around noon.",
+   "audio": {
+    "main": {
+     "text": "The coffee shop downstairs gets really crowded around noon.",
+     "file": "model_ccf8fc05f985.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp204",
+   "level": 3,
+   "words": 11,
+   "text": "We could hear the waves from our hotel room all night.",
+   "audio": {
+    "main": {
+     "text": "We could hear the waves from our hotel room all night.",
+     "file": "model_66a6202c0989.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp205",
+   "level": 3,
+   "words": 10,
+   "text": "He lost a lot of weight after he started running.",
+   "audio": {
+    "main": {
+     "text": "He lost a lot of weight after he started running.",
+     "file": "model_5ce815b1a337.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp206",
+   "level": 3,
+   "words": 10,
+   "text": "I usually do my grocery shopping on the way home.",
+   "audio": {
+    "main": {
+     "text": "I usually do my grocery shopping on the way home.",
+     "file": "model_fb4d0c0c4031.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp207",
+   "level": 3,
+   "words": 11,
+   "text": "The tour guide told us a lot about the castle's history.",
+   "audio": {
+    "main": {
+     "text": "The tour guide told us a lot about the castle's history.",
+     "file": "model_4413ca7a121a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp208",
+   "level": 3,
+   "words": 10,
+   "text": "Don't forget to turn off the lights when you leave.",
+   "audio": {
+    "main": {
+     "text": "Don't forget to turn off the lights when you leave.",
+     "file": "model_cfc393fbe56a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp209",
+   "level": 3,
+   "words": 9,
+   "text": "She's saving money to travel around Europe next summer.",
+   "audio": {
+    "main": {
+     "text": "She's saving money to travel around Europe next summer.",
+     "file": "model_8c31360d7fdc.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp210",
+   "level": 4,
+   "words": 12,
+   "text": "My computer is so old that it can't run the new software.",
+   "audio": {
+    "main": {
+     "text": "My computer is so old that it can't run the new software.",
+     "file": "model_f8de8330dbb4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp211",
+   "level": 3,
+   "words": 10,
+   "text": "The bakery around the corner sells fresh bread every morning.",
+   "audio": {
+    "main": {
+     "text": "The bakery around the corner sells fresh bread every morning.",
+     "file": "model_7d4f995d5316.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp212",
+   "level": 3,
+   "words": 10,
+   "text": "We waited almost an hour for the bus to come.",
+   "audio": {
+    "main": {
+     "text": "We waited almost an hour for the bus to come.",
+     "file": "model_22a38564f54f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp213",
+   "level": 3,
+   "words": 11,
+   "text": "I'm not sure whether I'll be able to make it tonight.",
+   "audio": {
+    "main": {
+     "text": "I'm not sure whether I'll be able to make it tonight.",
+     "file": "model_4fd03606049b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp214",
+   "level": 3,
+   "words": 10,
+   "text": "Our son finally learned how to tie his own shoes.",
+   "audio": {
+    "main": {
+     "text": "Our son finally learned how to tie his own shoes.",
+     "file": "model_7aabcf30479b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp215",
+   "level": 3,
+   "words": 10,
+   "text": "The doctor said I should get more sleep and exercise.",
+   "audio": {
+    "main": {
+     "text": "The doctor said I should get more sleep and exercise.",
+     "file": "model_ab7a421f9c68.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp216",
+   "level": 3,
+   "words": 11,
+   "text": "They're going to repaint the outside of the building next month.",
+   "audio": {
+    "main": {
+     "text": "They're going to repaint the outside of the building next month.",
+     "file": "model_9284fa62c1f8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp217",
+   "level": 3,
+   "words": 11,
+   "text": "I always feel better after a long walk in the park.",
+   "audio": {
+    "main": {
+     "text": "I always feel better after a long walk in the park.",
+     "file": "model_37ebdf9ae19e.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp218",
+   "level": 3,
+   "words": 9,
+   "text": "The train stopped suddenly, and everyone almost fell over.",
+   "audio": {
+    "main": {
+     "text": "The train stopped suddenly, and everyone almost fell over.",
+     "file": "model_d9111cb91f4b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp219",
+   "level": 3,
+   "words": 10,
+   "text": "She found a cheap flight to Bangkok for the holidays.",
+   "audio": {
+    "main": {
+     "text": "She found a cheap flight to Bangkok for the holidays.",
+     "file": "model_96ffeba8cab3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp220",
+   "level": 3,
+   "words": 10,
+   "text": "Let me check my calendar and get back to you.",
+   "audio": {
+    "main": {
+     "text": "Let me check my calendar and get back to you.",
+     "file": "model_681ee940b321.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp221",
+   "level": 4,
+   "words": 13,
+   "text": "I usually take the express train because it saves me about fifteen minutes.",
+   "audio": {
+    "main": {
+     "text": "I usually take the express train because it saves me about fifteen minutes.",
+     "file": "model_d2634bbb08f0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp222",
+   "level": 4,
+   "words": 13,
+   "text": "If you have any questions about the schedule, please contact the front desk.",
+   "audio": {
+    "main": {
+     "text": "If you have any questions about the schedule, please contact the front desk.",
+     "file": "model_da58f96da3a9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp223",
+   "level": 4,
+   "words": 15,
+   "text": "The children were so tired after the trip that they fell asleep in the car.",
+   "audio": {
+    "main": {
+     "text": "The children were so tired after the trip that they fell asleep in the car.",
+     "file": "model_e8a185ea9513.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp224",
+   "level": 4,
+   "words": 13,
+   "text": "We were planning to have a barbecue, but the weather was too windy.",
+   "audio": {
+    "main": {
+     "text": "We were planning to have a barbecue, but the weather was too windy.",
+     "file": "model_70a08a5a84d7.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp225",
+   "level": 4,
+   "words": 13,
+   "text": "She told me that she had already seen the movie with her sister.",
+   "audio": {
+    "main": {
+     "text": "She told me that she had already seen the movie with her sister.",
+     "file": "model_8414f7d8751b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp226",
+   "level": 3,
+   "words": 11,
+   "text": "The new restaurant downtown serves excellent seafood at very reasonable prices.",
+   "audio": {
+    "main": {
+     "text": "The new restaurant downtown serves excellent seafood at very reasonable prices.",
+     "file": "model_8becf13c368c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp227",
+   "level": 4,
+   "words": 14,
+   "text": "I've been meaning to call my grandmother, but I keep forgetting to do it.",
+   "audio": {
+    "main": {
+     "text": "I've been meaning to call my grandmother, but I keep forgetting to do it.",
+     "file": "model_7b932538da9f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp228",
+   "level": 4,
+   "words": 14,
+   "text": "He decided to study abroad for a year to improve his English and Spanish.",
+   "audio": {
+    "main": {
+     "text": "He decided to study abroad for a year to improve his English and Spanish.",
+     "file": "model_ba791699e9f4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp229",
+   "level": 4,
+   "words": 14,
+   "text": "The museum was so crowded that we could hardly see any of the paintings.",
+   "audio": {
+    "main": {
+     "text": "The museum was so crowded that we could hardly see any of the paintings.",
+     "file": "model_d6587dddc6b9.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp230",
+   "level": 4,
+   "words": 14,
+   "text": "Before you leave the office, please make sure the printer and lights are off.",
+   "audio": {
+    "main": {
+     "text": "Before you leave the office, please make sure the printer and lights are off.",
+     "file": "model_2a499e4a6ed8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp231",
+   "level": 4,
+   "words": 14,
+   "text": "We moved to a bigger apartment after our second child was born last year.",
+   "audio": {
+    "main": {
+     "text": "We moved to a bigger apartment after our second child was born last year.",
+     "file": "model_b161bab4bcc2.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp232",
+   "level": 4,
+   "words": 14,
+   "text": "My friend recommended a great book about the history of wine making in France.",
+   "audio": {
+    "main": {
+     "text": "My friend recommended a great book about the history of wine making in France.",
+     "file": "model_0520537e519b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp233",
+   "level": 4,
+   "words": 14,
+   "text": "The bus driver waited for the old man to sit down before driving off.",
+   "audio": {
+    "main": {
+     "text": "The bus driver waited for the old man to sit down before driving off.",
+     "file": "model_8858fe0555e5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp234",
+   "level": 4,
+   "words": 15,
+   "text": "It took us almost three hours to get to the airport because of the snow.",
+   "audio": {
+    "main": {
+     "text": "It took us almost three hours to get to the airport because of the snow.",
+     "file": "model_fb11cb0836de.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp235",
+   "level": 4,
+   "words": 13,
+   "text": "She's been running every morning since she signed up for the city marathon.",
+   "audio": {
+    "main": {
+     "text": "She's been running every morning since she signed up for the city marathon.",
+     "file": "model_3041a98cb00b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp236",
+   "level": 4,
+   "words": 16,
+   "text": "I didn't know the store was closed, so I drove all the way there for nothing.",
+   "audio": {
+    "main": {
+     "text": "I didn't know the store was closed, so I drove all the way there for nothing.",
+     "file": "model_51c2bd530b28.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp237",
+   "level": 4,
+   "words": 16,
+   "text": "They offered me the job, but I'm not sure I want to move to another city.",
+   "audio": {
+    "main": {
+     "text": "They offered me the job, but I'm not sure I want to move to another city.",
+     "file": "model_bcbbe1d756bc.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp238",
+   "level": 4,
+   "words": 15,
+   "text": "The hotel we stayed at had a beautiful garden and a pool on the roof.",
+   "audio": {
+    "main": {
+     "text": "The hotel we stayed at had a beautiful garden and a pool on the roof.",
+     "file": "model_107f5c25cbd0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp239",
+   "level": 4,
+   "words": 15,
+   "text": "Could you please send me a copy of the contract before our meeting on Thursday?",
+   "audio": {
+    "main": {
+     "text": "Could you please send me a copy of the contract before our meeting on Thursday?",
+     "file": "model_a6859b1855bd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp240",
+   "level": 4,
+   "words": 14,
+   "text": "He always keeps a notebook with him so he can write down new ideas.",
+   "audio": {
+    "main": {
+     "text": "He always keeps a notebook with him so he can write down new ideas.",
+     "file": "model_a21a0826997f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp241",
+   "level": 4,
+   "words": 15,
+   "text": "Our flight was canceled, so the airline put us in a hotel for the night.",
+   "audio": {
+    "main": {
+     "text": "Our flight was canceled, so the airline put us in a hotel for the night.",
+     "file": "model_4f1ed36efef4.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp242",
+   "level": 4,
+   "words": 15,
+   "text": "My parents still live in the small town where I grew up as a child.",
+   "audio": {
+    "main": {
+     "text": "My parents still live in the small town where I grew up as a child.",
+     "file": "model_a913f439d262.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp243",
+   "level": 4,
+   "words": 14,
+   "text": "The meeting went on much longer than expected, and I missed my train home.",
+   "audio": {
+    "main": {
+     "text": "The meeting went on much longer than expected, and I missed my train home.",
+     "file": "model_a9e735140e2f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp244",
+   "level": 4,
+   "words": 14,
+   "text": "I'm trying to spend less time on my phone and more time reading books.",
+   "audio": {
+    "main": {
+     "text": "I'm trying to spend less time on my phone and more time reading books.",
+     "file": "model_f040ca2c1606.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp245",
+   "level": 4,
+   "words": 15,
+   "text": "When we arrived at the beach, it started raining, so we went to a café.",
+   "audio": {
+    "main": {
+     "text": "When we arrived at the beach, it started raining, so we went to a café.",
+     "file": "model_f9848ac0016a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp246",
+   "level": 4,
+   "words": 14,
+   "text": "The teacher asked the students to read the first two chapters before next week.",
+   "audio": {
+    "main": {
+     "text": "The teacher asked the students to read the first two chapters before next week.",
+     "file": "model_31649cbffc96.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp247",
+   "level": 3,
+   "words": 11,
+   "text": "She bought her husband a watch for their tenth wedding anniversary.",
+   "audio": {
+    "main": {
+     "text": "She bought her husband a watch for their tenth wedding anniversary.",
+     "file": "model_29a12613b2fe.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp248",
+   "level": 4,
+   "words": 13,
+   "text": "You'll need to show your passport and boarding pass at the security gate.",
+   "audio": {
+    "main": {
+     "text": "You'll need to show your passport and boarding pass at the security gate.",
+     "file": "model_9c538e80ba7c.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp249",
+   "level": 4,
+   "words": 12,
+   "text": "The company is looking for engineers who have experience building mobile apps.",
+   "audio": {
+    "main": {
+     "text": "The company is looking for engineers who have experience building mobile apps.",
+     "file": "model_85fa0ec65a94.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp250",
+   "level": 4,
+   "words": 15,
+   "text": "I forgot to set my alarm, so I woke up an hour later than usual.",
+   "audio": {
+    "main": {
+     "text": "I forgot to set my alarm, so I woke up an hour later than usual.",
+     "file": "model_debc2f936558.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp251",
+   "level": 4,
+   "words": 13,
+   "text": "We found a lovely little restaurant on a quiet street near the river.",
+   "audio": {
+    "main": {
+     "text": "We found a lovely little restaurant on a quiet street near the river.",
+     "file": "model_b5545a5a1ad7.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp252",
+   "level": 4,
+   "words": 14,
+   "text": "He has been collecting old coins since he was a boy in elementary school.",
+   "audio": {
+    "main": {
+     "text": "He has been collecting old coins since he was a boy in elementary school.",
+     "file": "model_c642c8dcd370.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp253",
+   "level": 4,
+   "words": 12,
+   "text": "Most people in the office prefer to work from home on Fridays.",
+   "audio": {
+    "main": {
+     "text": "Most people in the office prefer to work from home on Fridays.",
+     "file": "model_326cc4008f18.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp254",
+   "level": 4,
+   "words": 14,
+   "text": "The tickets were more expensive than I expected, but the concert was worth it.",
+   "audio": {
+    "main": {
+     "text": "The tickets were more expensive than I expected, but the concert was worth it.",
+     "file": "model_b843ee7658f5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp255",
+   "level": 4,
+   "words": 15,
+   "text": "If you turn left at the next corner, you'll see the station on your right.",
+   "audio": {
+    "main": {
+     "text": "If you turn left at the next corner, you'll see the station on your right.",
+     "file": "model_2451cebf301f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp256",
+   "level": 4,
+   "words": 14,
+   "text": "My neighbor kindly offered to look after our cat while we were on vacation.",
+   "audio": {
+    "main": {
+     "text": "My neighbor kindly offered to look after our cat while we were on vacation.",
+     "file": "model_b43e06ebd8dd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "James",
+    "id": "qxTFXDYbGcR8GaHSjczg"
+   }
+  },
+  {
+   "id": "rp257",
+   "level": 4,
+   "words": 14,
+   "text": "It's important to drink plenty of water when you go running in hot weather.",
+   "audio": {
+    "main": {
+     "text": "It's important to drink plenty of water when you go running in hot weather.",
+     "file": "model_d795dc65eeb8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp258",
+   "level": 4,
+   "words": 12,
+   "text": "The kids spent the whole afternoon building a sandcastle at the beach.",
+   "audio": {
+    "main": {
+     "text": "The kids spent the whole afternoon building a sandcastle at the beach.",
+     "file": "model_99e9b6abf14f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp259",
+   "level": 4,
+   "words": 14,
+   "text": "I usually listen to podcasts on my way to work to practice my English.",
+   "audio": {
+    "main": {
+     "text": "I usually listen to podcasts on my way to work to practice my English.",
+     "file": "model_4c2c4962a062.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp260",
+   "level": 4,
+   "words": 12,
+   "text": "She was so nervous before her presentation that she couldn't eat breakfast.",
+   "audio": {
+    "main": {
+     "text": "She was so nervous before her presentation that she couldn't eat breakfast.",
+     "file": "model_99a4ac1c2561.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp261",
+   "level": 4,
+   "words": 14,
+   "text": "The farmers say this year's grapes are the best they've had in a decade.",
+   "audio": {
+    "main": {
+     "text": "The farmers say this year's grapes are the best they've had in a decade.",
+     "file": "model_d37942c677bb.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp262",
+   "level": 4,
+   "words": 13,
+   "text": "We'll have to leave early tomorrow if we want to get good seats.",
+   "audio": {
+    "main": {
+     "text": "We'll have to leave early tomorrow if we want to get good seats.",
+     "file": "model_b063a2f042d3.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp263",
+   "level": 4,
+   "words": 13,
+   "text": "He spilled coffee all over his laptop just before an important video call.",
+   "audio": {
+    "main": {
+     "text": "He spilled coffee all over his laptop just before an important video call.",
+     "file": "model_b111734b7a94.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp264",
+   "level": 4,
+   "words": 14,
+   "text": "The city plans to build more bike lanes to reduce traffic in the center.",
+   "audio": {
+    "main": {
+     "text": "The city plans to build more bike lanes to reduce traffic in the center.",
+     "file": "model_6e329610d7f5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp265",
+   "level": 4,
+   "words": 14,
+   "text": "I'd love to join you for dinner, but I have to work late tonight.",
+   "audio": {
+    "main": {
+     "text": "I'd love to join you for dinner, but I have to work late tonight.",
+     "file": "model_de186c46bc9a.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp266",
+   "level": 4,
+   "words": 12,
+   "text": "Our team practiced every evening for a month before the big tournament.",
+   "audio": {
+    "main": {
+     "text": "Our team practiced every evening for a month before the big tournament.",
+     "file": "model_e32f88172cd8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp267",
+   "level": 4,
+   "words": 14,
+   "text": "The new phone has a better camera, but the battery doesn't last as long.",
+   "audio": {
+    "main": {
+     "text": "The new phone has a better camera, but the battery doesn't last as long.",
+     "file": "model_44b72c702966.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp268",
+   "level": 4,
+   "words": 13,
+   "text": "After living abroad for five years, she finally decided to come back home.",
+   "audio": {
+    "main": {
+     "text": "After living abroad for five years, she finally decided to come back home.",
+     "file": "model_c09b74caf3bf.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp269",
+   "level": 4,
+   "words": 13,
+   "text": "Please remember to bring your own towel because the gym doesn't provide them.",
+   "audio": {
+    "main": {
+     "text": "Please remember to bring your own towel because the gym doesn't provide them.",
+     "file": "model_4ad500285065.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp270",
+   "level": 4,
+   "words": 15,
+   "text": "The weather has been strange this year, with snow in April and heat in May.",
+   "audio": {
+    "main": {
+     "text": "The weather has been strange this year, with snow in April and heat in May.",
+     "file": "model_cf6af9df1600.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp271",
+   "level": 4,
+   "words": 12,
+   "text": "My daughter wants a puppy, but our apartment building doesn't allow dogs.",
+   "audio": {
+    "main": {
+     "text": "My daughter wants a puppy, but our apartment building doesn't allow dogs.",
+     "file": "model_a4e5df3e9304.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "rp272",
+   "level": 4,
+   "words": 13,
+   "text": "We spent the morning hiking and the afternoon relaxing at a hot spring.",
+   "audio": {
+    "main": {
+     "text": "We spent the morning hiking and the afternoon relaxing at a hot spring.",
+     "file": "model_561a00cf6f40.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp273",
+   "level": 4,
+   "words": 14,
+   "text": "The store will give you a full refund if you bring back the receipt.",
+   "audio": {
+    "main": {
+     "text": "The store will give you a full refund if you bring back the receipt.",
+     "file": "model_732e5de14509.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "rp274",
+   "level": 4,
+   "words": 15,
+   "text": "I was surprised to find out that my coworker grew up in the same town.",
+   "audio": {
+    "main": {
+     "text": "I was surprised to find out that my coworker grew up in the same town.",
+     "file": "model_96e74f54d0d2.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp275",
+   "level": 4,
+   "words": 14,
+   "text": "They have to finish the construction before the new school year starts in April.",
+   "audio": {
+    "main": {
+     "text": "They have to finish the construction before the new school year starts in April.",
+     "file": "model_1ad1d4b25438.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp276",
+   "level": 3,
+   "words": 10,
+   "text": "He's the kind of person who always remembers everyone's birthday.",
+   "audio": {
+    "main": {
+     "text": "He's the kind of person who always remembers everyone's birthday.",
+     "file": "model_482417456808.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp277",
+   "level": 4,
+   "words": 15,
+   "text": "The train was so crowded this morning that I had to stand the whole way.",
+   "audio": {
+    "main": {
+     "text": "The train was so crowded this morning that I had to stand the whole way.",
+     "file": "model_1e133315bdbd.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp278",
+   "level": 4,
+   "words": 13,
+   "text": "Let's meet at the café across from the station at around ten thirty.",
+   "audio": {
+    "main": {
+     "text": "Let's meet at the café across from the station at around ten thirty.",
+     "file": "model_bee085861150.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp279",
+   "level": 4,
+   "words": 13,
+   "text": "The doctor told him to stop drinking coffee after three in the afternoon.",
+   "audio": {
+    "main": {
+     "text": "The doctor told him to stop drinking coffee after three in the afternoon.",
+     "file": "model_3753a57ead65.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp280",
+   "level": 4,
+   "words": 16,
+   "text": "Our hotel was only a five-minute walk from the main square and the old cathedral.",
+   "audio": {
+    "main": {
+     "text": "Our hotel was only a five-minute walk from the main square and the old cathedral.",
+     "file": "model_87082ece15c8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp281",
+   "level": 4,
+   "words": 12,
+   "text": "I always check the reviews online before I try a new restaurant.",
+   "audio": {
+    "main": {
+     "text": "I always check the reviews online before I try a new restaurant.",
+     "file": "model_7ebb69bc5264.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp282",
+   "level": 4,
+   "words": 13,
+   "text": "She learned to speak French fluently by watching movies and talking with friends.",
+   "audio": {
+    "main": {
+     "text": "She learned to speak French fluently by watching movies and talking with friends.",
+     "file": "model_66bceb243185.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "rp283",
+   "level": 4,
+   "words": 13,
+   "text": "The power went out during the storm, so we had dinner by candlelight.",
+   "audio": {
+    "main": {
+     "text": "The power went out during the storm, so we had dinner by candlelight.",
+     "file": "model_9620122b98f6.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp284",
+   "level": 4,
+   "words": 13,
+   "text": "Could you let me know by Friday whether you'll be able to attend?",
+   "audio": {
+    "main": {
+     "text": "Could you let me know by Friday whether you'll be able to attend?",
+     "file": "model_69b21db9b3c1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp285",
+   "level": 4,
+   "words": 15,
+   "text": "My watch stopped working, so I took it to a repair shop near the station.",
+   "audio": {
+    "main": {
+     "text": "My watch stopped working, so I took it to a repair shop near the station.",
+     "file": "model_85cdb45beec5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "rp286",
+   "level": 4,
+   "words": 12,
+   "text": "The children planted tomatoes and beans in the school garden this spring.",
+   "audio": {
+    "main": {
+     "text": "The children planted tomatoes and beans in the school garden this spring.",
+     "file": "model_b511514f4d64.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp287",
+   "level": 4,
+   "words": 13,
+   "text": "We usually go camping in the mountains for a few days every August.",
+   "audio": {
+    "main": {
+     "text": "We usually go camping in the mountains for a few days every August.",
+     "file": "model_179955ea331b.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp288",
+   "level": 4,
+   "words": 12,
+   "text": "He was promoted to manager after only two years at the company.",
+   "audio": {
+    "main": {
+     "text": "He was promoted to manager after only two years at the company.",
+     "file": "model_5c345e3c30ed.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "rp289",
+   "level": 4,
+   "words": 15,
+   "text": "I don't mind waiting, as long as the food is as good as people say.",
+   "audio": {
+    "main": {
+     "text": "I don't mind waiting, as long as the food is as good as people say.",
+     "file": "model_d1d917e4aff1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "rp290",
+   "level": 3,
+   "words": 11,
+   "text": "The museum offers free guided tours in English every Saturday morning.",
+   "audio": {
+    "main": {
+     "text": "The museum offers free guided tours in English every Saturday morning.",
+     "file": "model_a178f9f9c1d1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "rp291",
+   "level": 4,
+   "words": 14,
+   "text": "She takes the stairs instead of the elevator to get a little more exercise.",
+   "audio": {
+    "main": {
+     "text": "She takes the stairs instead of the elevator to get a little more exercise.",
+     "file": "model_b87f5dc6c6a2.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "rp292",
+   "level": 4,
+   "words": 12,
+   "text": "The price of the tour includes all meals, transportation, and entrance fees.",
+   "audio": {
+    "main": {
+     "text": "The price of the tour includes all meals, transportation, and entrance fees.",
+     "file": "model_895736282428.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Stephanie",
+    "id": "oAoF4NpW2Aqxplg9HdYB"
+   }
+  },
+  {
+   "id": "rp293",
+   "level": 4,
+   "words": 13,
+   "text": "It's been raining for three days, and the river is starting to rise.",
+   "audio": {
+    "main": {
+     "text": "It's been raining for three days, and the river is starting to rise.",
+     "file": "model_ad9cb463a1c0.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp294",
+   "level": 4,
+   "words": 14,
+   "text": "I need to renew my passport before our trip to Canada in the summer.",
+   "audio": {
+    "main": {
+     "text": "I need to renew my passport before our trip to Canada in the summer.",
+     "file": "model_38263ebf6cb1.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "rp295",
+   "level": 4,
+   "words": 14,
+   "text": "The coach told the players to get plenty of rest before the final game.",
+   "audio": {
+    "main": {
+     "text": "The coach told the players to get plenty of rest before the final game.",
+     "file": "model_6c9113b4a06f.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp296",
+   "level": 4,
+   "words": 12,
+   "text": "We tried a new wine from Chile, and it was surprisingly good.",
+   "audio": {
+    "main": {
+     "text": "We tried a new wine from Chile, and it was surprisingly good.",
+     "file": "model_40a57ce1f6dc.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "rp297",
+   "level": 4,
+   "words": 12,
+   "text": "My grandparents celebrated their fiftieth wedding anniversary with a big family dinner.",
+   "audio": {
+    "main": {
+     "text": "My grandparents celebrated their fiftieth wedding anniversary with a big family dinner.",
+     "file": "model_4775b0575cd5.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Patrick",
+    "id": "9Ft9sm9dzvprPILZmLJl"
+   }
+  },
+  {
+   "id": "rp298",
+   "level": 4,
+   "words": 15,
+   "text": "If you're not busy this weekend, would you like to go to the farmers' market?",
+   "audio": {
+    "main": {
+     "text": "If you're not busy this weekend, would you like to go to the farmers' market?",
+     "file": "model_fa9476cd9232.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp299",
+   "level": 4,
+   "words": 13,
+   "text": "The bookstore near my house is closing down after more than forty years.",
+   "audio": {
+    "main": {
+     "text": "The bookstore near my house is closing down after more than forty years.",
+     "file": "model_27274fb106fe.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "George",
+    "id": "JBFqnCBsd6RMkjVDRZzb"
+   }
+  },
+  {
+   "id": "rp300",
+   "level": 4,
+   "words": 13,
+   "text": "He practices the guitar for at least an hour every day after work.",
+   "audio": {
+    "main": {
+     "text": "He practices the guitar for at least an hour every day after work.",
+     "file": "model_e6f06d2bf0d8.mp3"
+    }
+   },
+   "author": "claude",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  }
+ ]
+}

@@ -7,6 +7,7 @@
   trainer stock build [ID ...]    AI 教材の原稿を音声にする（--limit N で本数を絞る）
   trainer stock speaking          スピーキングテストの写真と手本音声を用意する
   trainer stock linking           発音（リンキング）の例題の音声を作る
+  trainer stock drills [種類 ...]  復唱・即答・ミニマルペアの音声を作る（repeats / short-answers / minimal-pairs）
 """
 import argparse
 import threading
@@ -44,7 +45,7 @@ def main() -> None:
     m.add_argument("date", nargs="?", default=time.strftime("%Y-%m-%d"))
     sub.add_parser("progress", help="4 技能の週ごとのスコアを Markdown で出力する")
     st = sub.add_parser("stock", help="AI 教材の原稿（content/generated）を音声にする")
-    st.add_argument("action", choices=["build", "speaking", "linking"])
+    st.add_argument("action", choices=["build", "speaking", "linking", "drills"])
     st.add_argument("ids", nargs="*", help="題材の ID（省略すると、原稿があってまだ音声の無いもの全部）")
     st.add_argument("--limit", type=int)
     args = p.parse_args()
@@ -58,6 +59,10 @@ def main() -> None:
             from . import linking
 
             linking.build_all()
+        elif args.action == "drills":
+            from . import drills
+
+            drills.build_all(args.ids or None)
         else:
             from . import stock
 

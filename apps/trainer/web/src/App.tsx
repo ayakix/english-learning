@@ -11,6 +11,7 @@ import { ProgressPage } from "./pages/ProgressPage";
 import { PronunciationPage } from "./pages/PronunciationPage";
 import { ReadingPage } from "./pages/ReadingPage";
 import { SpeakingPage } from "./pages/SpeakingPage";
+import { VersantPage } from "./pages/VersantPage";
 import { VoaPage } from "./pages/VoaPage";
 import { WritingPage } from "./pages/WritingPage";
 import type { Config, Voice } from "./types";
@@ -23,6 +24,7 @@ const TABS: { key: string; label: string; page: ReactNode }[] = [
   // 既存タブのキー（1〜4）を変えないよう、後ろに足す。URL のハッシュは以前の #voa のまま
   { key: "voa", label: "教材", page: <VoaPage /> },
   { key: "pronunciation", label: "発音", page: <PronunciationPage /> },
+  { key: "versant", label: "Versant", page: <VersantPage /> },
   { key: "progress", label: "進捗", page: <ProgressPage /> },
 ];
 
