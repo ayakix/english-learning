@@ -12,3 +12,10 @@
 
 - 小説のあらすじは**現在形**で語る：They **work** very hard together and finally **make** enough money …（worked と書いた）
 - 冠詞の抜け：provided **the** subject matter / buy some land for **a** farm
+
+## 2026-10-04（写真描写 sp097・復習の小テスト）
+
+- 写真の中の動作は**現在進行形**：People enjoy drinks → People **are enjoying** food and drinks / Some people drinks → Some people **are drinking**
+- It's looks like → **It looks like**（look が動詞なので is は不要）
+- 冠詞の抜け：and background is cloudy sky → and **the** background is **a** cloudy sky
+- 特定のものには the：provided **the** subject matter（a と答えた）

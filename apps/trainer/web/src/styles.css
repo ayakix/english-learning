@@ -200,6 +200,12 @@ main.single.top{padding-top:20px}
 .lk-row.cur{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
 .lk-head{display:flex;align-items:center;gap:10px}
 .lk-head .sp{flex:1}
+.lk-row.today{background:var(--accent-soft)}
+.vs-num{min-width:2.5em;text-align:right;color:var(--sub);font-variant-numeric:tabular-nums}
+.vs-today{margin-top:12px;padding-top:12px;border-top:1px solid var(--line);display:grid;gap:8px}
+.vs-count{margin-left:12px;font-weight:600;color:var(--accent)}
+.vs-bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.vs-bar>div{height:100%;background:var(--accent);transition:width .2s}
 .lk-phrase{font-size:20px;font-weight:600}
 .lk-kana{color:var(--sub)}
 .lk-sentence{font-size:15px}

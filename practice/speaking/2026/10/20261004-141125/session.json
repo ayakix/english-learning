@@ -1,0 +1,697 @@
+{
+  "id": "20261004-141125",
+  "skill": "speaking",
+  "created": "2026-10-04 14:11",
+  "title": "a group of people sitting at tables outside of a restaurant",
+  "result": {
+    "score": 62,
+    "details": {
+      "description": 62,
+      "recordings": 3,
+      "pronunciation": 68,
+      "fluency": 72,
+      "intonation": 66,
+      "completeness": 95,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 70
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1686317508857-3b91999d6ec8?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8OHx8b3V0ZG9vciUyMGNhZmUlMjB0ZXJyYWNlJTIwcGVvcGxlfGVufDF8MHx8fDE3OTEwNDMzODZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Nico Knaack",
+      "profile": "https://unsplash.com/@xoxnk?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/a-group-of-people-sitting-at-tables-outside-of-a-restaurant-vS-UmkMDkOc?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "a group of people sitting at tables outside of a restaurant"
+    }
+  },
+  "attempts": [
+    {
+      "time": "21:27:39",
+      "text": "This photo captures a lively terrace cafe lined along a cobblestone street. People enjoy drinks and food. Some people drinks wine or beer. It's looks like the season is",
+      "score": 62
+    }
+  ],
+  "correction": {
+    "corrected": "This photo captures a lively terrace cafe along a cobblestone street. People are enjoying food and drinks. Some people are drinking wine or beer. It looks like the season is summer.",
+    "corrections": [
+      {
+        "before": "lined along a cobblestone street",
+        "after": "along a cobblestone street",
+        "reason_ja": "lined along（～に沿って並んでいる）はカフェが複数並んでいる場合に適しているため、単数のカフェに対しては along だけで自然です。"
+      },
+      {
+        "before": "People enjoy drinks and food.",
+        "after": "People are enjoying food and drinks.",
+        "reason_ja": "写真の中の動作を表す際は現在進行形が基本です。また、一般的には food and drinks の語順が好まれます。"
+      },
+      {
+        "before": "Some people drinks",
+        "after": "Some people are drinking",
+        "reason_ja": "people は複数扱いのため drinks ではなく drink となり、写真描写では現在進行形（are drinking）が適切です。"
+      },
+      {
+        "before": "It's looks like the season is",
+        "after": "It looks like the season is summer.",
+        "reason_ja": "It looks like で動詞が入るため 's (is) は不要です。時間切れで未完になった文を補いました。"
+      }
+    ],
+    "ideal": "This picture was taken in front of a busy cafe on a street corner. Many people are sitting at small round tables outside. They are eating, drinking and talking. There are red and white umbrellas above the tables. The building is decorated with many pink and red flowers. On the left, there is a red traffic sign. It looks like a sunny and lively day.",
+    "key_expressions": [
+      {
+        "en": "on a street corner",
+        "ja": "通りの角に"
+      },
+      {
+        "en": "sit at small round tables",
+        "ja": "小さな丸いテーブルに座る"
+      },
+      {
+        "en": "be decorated with flowers",
+        "ja": "花で装飾されている"
+      },
+      {
+        "en": "a sunny and lively day",
+        "ja": "晴れて活気のある日"
+      }
+    ],
+    "feedback_ja": "lively terrace cafe や cobblestone street（石畳の道）など、情景に合った的確でハイレベルな語彙が使えていて素晴らしいです。一方で、沈黙のポーズが長く、最後の文が途中で時間切れになってしまった点と、目立つ赤白のパラソルや満開の花に触れられなかった点が惜しまれます。次回は「場所・全体像→中心の人物の動作→周囲の物や背景」という順序を意識し、テンポよく3〜4文話し切る練習を重ねましょう。",
+    "score": 62,
+    "original": "This photo captures a lively terrace cafe lined along a cobblestone street. People enjoy drinks and food. Some people drinks wine or beer. It's looks like the season is",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_b17ce6541223.mp3",
+    "text": "This picture was taken in front of a busy cafe on a street corner. Many people are sitting at small round tables outside. They are eating, drinking and talking. There are red and white umbrellas above the tables. The building is decorated with many pink and red flowers. On the left, there is a red traffic sign. It looks like a sunny and lively day.",
+    "voice_id": "raMcNf2S8wCmuaBcyI6E",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture was taken in front of a busy cafe on a street corner.",
+        "start": 0.0,
+        "end": 4.12
+      },
+      {
+        "text": "Many people are sitting at small round tables outside.",
+        "start": 4.4,
+        "end": 8.08
+      },
+      {
+        "text": "They are eating, drinking and talking.",
+        "start": 8.16,
+        "end": 10.88
+      },
+      {
+        "text": "There are red and white umbrellas above the tables.",
+        "start": 10.96,
+        "end": 14.16
+      },
+      {
+        "text": "The building is decorated with many pink and red flowers.",
+        "start": 14.24,
+        "end": 18.16
+      },
+      {
+        "text": "On the left, there is a red traffic sign.",
+        "start": 18.24,
+        "end": 21.04
+      },
+      {
+        "text": "It looks like a sunny and lively day.",
+        "start": 21.12,
+        "end": 23.6
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.24,
+        "e": 0.594,
+        "i": 0
+      },
+      {
+        "t": "was",
+        "s": 0.64,
+        "e": 0.84,
+        "i": 0
+      },
+      {
+        "t": "taken",
+        "s": 0.88,
+        "e": 1.168,
+        "i": 0
+      },
+      {
+        "t": "in",
+        "s": 1.2,
+        "e": 1.36,
+        "i": 0
+      },
+      {
+        "t": "front",
+        "s": 1.48,
+        "e": 1.6,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 1.68,
+        "e": 1.76,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.8,
+        "e": 1.84,
+        "i": 0
+      },
+      {
+        "t": "busy",
+        "s": 2.0,
+        "e": 2.24,
+        "i": 0
+      },
+      {
+        "t": "cafe",
+        "s": 2.32,
+        "e": 2.88,
+        "i": 0
+      },
+      {
+        "t": "on",
+        "s": 2.96,
+        "e": 3.04,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 3.08,
+        "e": 3.12,
+        "i": 0
+      },
+      {
+        "t": "street",
+        "s": 3.2,
+        "e": 3.44,
+        "i": 0
+      },
+      {
+        "t": "corner.",
+        "s": 3.52,
+        "e": 4.12,
+        "i": 0
+      },
+      {
+        "t": "Many",
+        "s": 4.4,
+        "e": 4.64,
+        "i": 1
+      },
+      {
+        "t": "people",
+        "s": 4.72,
+        "e": 5.04,
+        "i": 1
+      },
+      {
+        "t": "are",
+        "s": 5.16,
+        "e": 5.28,
+        "i": 1
+      },
+      {
+        "t": "sitting",
+        "s": 5.32,
+        "e": 5.52,
+        "i": 1
+      },
+      {
+        "t": "at",
+        "s": 5.6,
+        "e": 5.76,
+        "i": 1
+      },
+      {
+        "t": "small",
+        "s": 5.96,
+        "e": 6.16,
+        "i": 1
+      },
+      {
+        "t": "round",
+        "s": 6.32,
+        "e": 6.56,
+        "i": 1
+      },
+      {
+        "t": "tables",
+        "s": 6.64,
+        "e": 7.04,
+        "i": 1
+      },
+      {
+        "t": "outside.",
+        "s": 7.12,
+        "e": 8.08,
+        "i": 1
+      },
+      {
+        "t": "They",
+        "s": 8.16,
+        "e": 8.24,
+        "i": 2
+      },
+      {
+        "t": "are",
+        "s": 8.32,
+        "e": 8.4,
+        "i": 2
+      },
+      {
+        "t": "eating,",
+        "s": 8.48,
+        "e": 9.12,
+        "i": 2
+      },
+      {
+        "t": "drinking",
+        "s": 9.16,
+        "e": 9.68,
+        "i": 2
+      },
+      {
+        "t": "and",
+        "s": 9.84,
+        "e": 9.92,
+        "i": 2
+      },
+      {
+        "t": "talking.",
+        "s": 10.0,
+        "e": 10.88,
+        "i": 2
+      },
+      {
+        "t": "There",
+        "s": 10.96,
+        "e": 11.04,
+        "i": 3
+      },
+      {
+        "t": "are",
+        "s": 11.12,
+        "e": 11.28,
+        "i": 3
+      },
+      {
+        "t": "red",
+        "s": 11.44,
+        "e": 11.6,
+        "i": 3
+      },
+      {
+        "t": "and",
+        "s": 11.68,
+        "e": 11.76,
+        "i": 3
+      },
+      {
+        "t": "white",
+        "s": 11.84,
+        "e": 12.0,
+        "i": 3
+      },
+      {
+        "t": "umbrellas",
+        "s": 12.08,
+        "e": 12.72,
+        "i": 3
+      },
+      {
+        "t": "above",
+        "s": 12.88,
+        "e": 13.04,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 13.08,
+        "e": 13.12,
+        "i": 3
+      },
+      {
+        "t": "tables.",
+        "s": 13.2,
+        "e": 14.16,
+        "i": 3
+      },
+      {
+        "t": "The",
+        "s": 14.24,
+        "e": 14.32,
+        "i": 4
+      },
+      {
+        "t": "building",
+        "s": 14.52,
+        "e": 14.72,
+        "i": 4
+      },
+      {
+        "t": "is",
+        "s": 14.84,
+        "e": 14.96,
+        "i": 4
+      },
+      {
+        "t": "decorated",
+        "s": 15.12,
+        "e": 15.52,
+        "i": 4
+      },
+      {
+        "t": "with",
+        "s": 15.6,
+        "e": 15.84,
+        "i": 4
+      },
+      {
+        "t": "many",
+        "s": 15.92,
+        "e": 16.24,
+        "i": 4
+      },
+      {
+        "t": "pink",
+        "s": 16.32,
+        "e": 16.56,
+        "i": 4
+      },
+      {
+        "t": "and",
+        "s": 16.64,
+        "e": 16.72,
+        "i": 4
+      },
+      {
+        "t": "red",
+        "s": 16.8,
+        "e": 17.04,
+        "i": 4
+      },
+      {
+        "t": "flowers.",
+        "s": 17.12,
+        "e": 18.16,
+        "i": 4
+      },
+      {
+        "t": "On",
+        "s": 18.24,
+        "e": 18.32,
+        "i": 5
+      },
+      {
+        "t": "the",
+        "s": 18.36,
+        "e": 18.4,
+        "i": 5
+      },
+      {
+        "t": "left,",
+        "s": 18.48,
+        "e": 19.04,
+        "i": 5
+      },
+      {
+        "t": "there",
+        "s": 19.12,
+        "e": 19.2,
+        "i": 5
+      },
+      {
+        "t": "is",
+        "s": 19.24,
+        "e": 19.28,
+        "i": 5
+      },
+      {
+        "t": "a",
+        "s": 19.36,
+        "e": 19.52,
+        "i": 5
+      },
+      {
+        "t": "red",
+        "s": 19.64,
+        "e": 19.76,
+        "i": 5
+      },
+      {
+        "t": "traffic",
+        "s": 19.84,
+        "e": 20.24,
+        "i": 5
+      },
+      {
+        "t": "sign.",
+        "s": 20.32,
+        "e": 21.04,
+        "i": 5
+      },
+      {
+        "t": "It",
+        "s": 21.12,
+        "e": 21.2,
+        "i": 6
+      },
+      {
+        "t": "looks",
+        "s": 21.28,
+        "e": 21.44,
+        "i": 6
+      },
+      {
+        "t": "like",
+        "s": 21.52,
+        "e": 21.6,
+        "i": 6
+      },
+      {
+        "t": "a",
+        "s": 21.72,
+        "e": 21.84,
+        "i": 6
+      },
+      {
+        "t": "sunny",
+        "s": 21.88,
+        "e": 22.24,
+        "i": 6
+      },
+      {
+        "t": "and",
+        "s": 22.36,
+        "e": 22.48,
+        "i": 6
+      },
+      {
+        "t": "lively",
+        "s": 22.56,
+        "e": 22.96,
+        "i": 6
+      },
+      {
+        "t": "day.",
+        "s": 23.04,
+        "e": 23.6,
+        "i": 6
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken in front of a busy cafe on a street corner. Many people are sitting at small round tables outside. They are eating, drinking and talking. There are red and white umbrellas above the tables. The building is decorated with many pink and red flowers. On the left, there is a red traffic sign. It looks like a sunny and lively day.",
+      "time": "21:33:06",
+      "evaluation": null
+    },
+    {
+      "n": 2,
+      "file": "rec_002.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken in front of a busy cafe on a street corner. Many people are sitting at small round tables outside. They are eating, drinking and talking. There are red and white umbrellas above the tables. The building is decorated with many pink and red flowers. On the left, there is a red traffic sign. It looks like a sunny and lively day.",
+      "time": "21:33:37",
+      "evaluation": {
+        "heard": "This picture was taken in front of a busy cafe on a street corner. Many people are sitting at small round tables outside. They are eating, drinking and talking. There are red and white umbrellas above the tables. The building is decorated with many pink and red flowers. On the left, there is a red traffic sign. It looks like a sunny and lively day.",
+        "overall": 70,
+        "pronunciation": 68,
+        "fluency": 72,
+        "intonation": 66,
+        "completeness": 95,
+        "word_issues": [
+          {
+            "word": "red",
+            "problem_ja": "/r/ が /l/ に近く、語尾の /d/ も無声化して「let」のように聞こえます。",
+            "tip_ja": "舌先を上あごのどこにも触れさせず、唇を少し丸めて突き出してから「ゥル」と唸るように /r/ を発音しましょう。"
+          },
+          {
+            "word": "lively",
+            "problem_ja": "/v/ が破裂音の /b/ や /br/ のようになり、「library」に近く聞こえます。",
+            "tip_ja": "/v/ は上の前歯を下唇の内側に軽く当て、隙間から「ヴー」と息を擦り出す摩擦音です。唇を完全に閉じないように注意しましょう。"
+          },
+          {
+            "word": "tables",
+            "problem_ja": "語尾の /lz/ に余計な母音「ウ」が入って「テーブルー」のようなカタカナ発音になっています。",
+            "tip_ja": "dark L です。舌先を上の前歯の付け根につけたまま、喉の奥を軽く響かせるだけで止め、「ズ」を添える感覚で発音してください。"
+          },
+          {
+            "word": "decorated",
+            "problem_ja": "語尾の過去分詞 -ed (/ɪd/) が抜け落ちて現在形のように聞こえます。",
+            "tip_ja": "語尾が /t/ や /d/ で終わる動詞の -ed は「ティド /tɪd/」と発音します。「デコレィティド」と最後まではっきり発音しましょう。"
+          },
+          {
+            "word": "street corner",
+            "problem_ja": "子音連続 /str/ の間に母音が入ってリズムが間延びしています。",
+            "tip_ja": "「ス・ト・リート」と分けず、息を一気に吐きながら「ストゥリ」と一拍で滑り込ませるように発音しましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードにしっかりとついていき、脱落することなく最後まで全文を読み切れています。",
+          " eating, drinking and talking などの並列部分がスムーズにテンポよく発音できています。"
+        ],
+        "improvements_ja": [
+          "RとLの明確な区別（特に red を発音する際に舌先が上あごに触れて L にならないよう注意）。",
+          "単語末尾の母音脱落（table, corner などの語尾に「ウ」「オ」などの母音を足さない）。",
+          "文全体の抑揚とメリハリ（内容語を強く長く、前置詞・冠詞などの機能語を弱く短く読むリズム作り）。"
+        ],
+        "summary_ja": "モデル音声のテンポにしっかり食らいついて最後まで言い切れた点が素晴らしいです。一方で、RがLに化けてしまったり、VがBになったりする子音のブレや、語尾の母音付加が見られるため、口の形と舌の位置を意識して明瞭さを高めましょう。"
+      }
+    },
+    {
+      "n": 3,
+      "file": "rec_003.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken in front of a busy cafe on a street corner. Many people are sitting at small round tables outside. They are eating, drinking and talking. There are red and white umbrellas above the tables. The building is decorated with many pink and red flowers. On the left, there is a red traffic sign. It looks like a sunny and lively day.",
+      "time": "21:36:19",
+      "evaluation": {
+        "heard": "This picture was taken in front of the busy cafe on the street corner. Many people are sitting at small round table outside. They are eating, drinking and talking. There are red and white umbrellas of tables. The building decorated many pink and red flowers. On the left traffic a traffic sign. It looks a sunny and lively day.",
+        "overall": 64,
+        "pronunciation": 63,
+        "fluency": 62,
+        "intonation": 61,
+        "completeness": 76,
+        "word_issues": [
+          {
+            "word": "round",
+            "problem_ja": "「ランド」のように聞こえ、出だしの /r/ の巻き込みや口の丸めが甘く聞こえました。",
+            "tip_ja": "発音の前に唇を小さく「ウ」の形に突き出し、舌先を上顎に触れさせずに喉の奥へ引きながら「ゥラゥンド」と発声しましょう。"
+          },
+          {
+            "word": "umbrellas",
+            "problem_ja": "冒頭の /ʌm/ があいまいで「アイブレラ」のように聞こえ、語尾の複数形 /z/ も落ちていました。",
+            "tip_ja": "口を自然に少し開けた「ア」からしっかり唇を閉じて /m/ を作り、語尾は濁った「ズ」/z/ を軽く残しましょう。"
+          },
+          {
+            "word": "building is decorated",
+            "problem_ja": "be動詞の \"is\" が抜けて \"The building decorated\" と聞こえ、文構造が崩れていました。",
+            "tip_ja": "\"building\" の語尾 /ŋ/ と \"is\" を繋げて「ビルディンギズ」のように滑らかに連結（リンキング）させると脱落を防げます。"
+          },
+          {
+            "word": "traffic sign",
+            "problem_ja": "直前の \"there is a red\" が崩れて \"left traffic... traffic sign\" と言い直し・詰まりが生じました。",
+            "tip_ja": "\"there is a\" /ðɛrɪzə/ は弱形なのでさっと呟く程度にして、内容語である \"TRAF-fic SIGN\" にエネルギーを乗せましょう。"
+          },
+          {
+            "word": "lively",
+            "problem_ja": "後半急ぎ足になり、/v/ の摩擦音が弱くカタカナの「ライブリー」気味に流れてしまいました。",
+            "tip_ja": "上の前歯で下唇を軽く押さえて息を震わせる /v/ を作ってから、舌先を上の前歯の裏につけて /li/ へ繋げましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のネイティブスピードに懸命に食らいつき、途中で諦めず最後まで声を出し切れています。",
+          "\"eating, drinking and talking\" のリストアップ部分など、短いフレーズごとのテンポ感は良好です。"
+        ],
+        "improvements_ja": [
+          "スピードに追いつくことを優先しすぎて機能語（is, above, there is a など）を飛ばさないよう意識しましょう。",
+          "早口で音が潰れないよう、まずは0.8〜0.9倍速にテンポを落として口の形（特に R/L や V）を正確に作る練習が効果的です。",
+          "\"building is\" や \"front of\" などの単語同士の連結（リンキング）をマスターして、省エネで滑らかに発音できるようにしましょう。"
+        ],
+        "summary_ja": "速いテンポのモデル音声に対して意欲的に追従できていますが、後半になるにつれて追いつくのが難しくなり、be動詞や前置詞の脱落、言い淀みが見られました。まずは少し速度を落とした音源で、小さな単語の脱落を防ぎつつ滑らかに連結（リンキング）させる練習を重ねると、劇的に安定感が増します。"
+      }
+    }
+  ],
+  "test": {
+    "stock_id": "sp097",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture was taken in front of a busy cafe on a street corner. Many people are sitting at small round tables outside. They are eating, drinking and talking. There are red and white umbrellas above the tables. The building is decorated with many pink and red flowers. On the left, there is a red traffic sign. It looks like a sunny and lively day.",
+    "answer": "This photo captures a lively terrace cafe lined along a cobblestone street. People enjoy drinks and food. Some people drinks wine or beer. It's looks like the season is",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 62,
+      "content": 58,
+      "grammar": 60,
+      "vocabulary": 75,
+      "delivery": 52,
+      "corrected": "This photo captures a lively terrace cafe along a cobblestone street. People are enjoying food and drinks. Some people are drinking wine or beer. It looks like the season is summer.",
+      "corrections": [
+        {
+          "before": "lined along a cobblestone street",
+          "after": "along a cobblestone street",
+          "reason_ja": "lined along（～に沿って並んでいる）はカフェが複数並んでいる場合に適しているため、単数のカフェに対しては along だけで自然です。"
+        },
+        {
+          "before": "People enjoy drinks and food.",
+          "after": "People are enjoying food and drinks.",
+          "reason_ja": "写真の中の動作を表す際は現在進行形が基本です。また、一般的には food and drinks の語順が好まれます。"
+        },
+        {
+          "before": "Some people drinks",
+          "after": "Some people are drinking",
+          "reason_ja": "people は複数扱いのため drinks ではなく drink となり、写真描写では現在進行形（are drinking）が適切です。"
+        },
+        {
+          "before": "It's looks like the season is",
+          "after": "It looks like the season is summer.",
+          "reason_ja": "It looks like で動詞が入るため 's (is) は不要です。時間切れで未完になった文を補いました。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "on a street corner",
+          "ja": "通りの角に"
+        },
+        {
+          "en": "sit at small round tables",
+          "ja": "小さな丸いテーブルに座る"
+        },
+        {
+          "en": "be decorated with flowers",
+          "ja": "花で装飾されている"
+        },
+        {
+          "en": "a sunny and lively day",
+          "ja": "晴れて活気のある日"
+        }
+      ],
+      "feedback_ja": "lively terrace cafe や cobblestone street（石畳の道）など、情景に合った的確でハイレベルな語彙が使えていて素晴らしいです。一方で、沈黙のポーズが長く、最後の文が途中で時間切れになってしまった点と、目立つ赤白のパラソルや満開の花に触れられなかった点が惜しまれます。次回は「場所・全体像→中心の人物の動作→周囲の物や背景」という順序を意識し、テンポよく3〜4文話し切る練習を重ねましょう。"
+    }
+  }
+}
