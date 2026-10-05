@@ -1,6 +1,7 @@
 import { useEffect, useRef, type ReactNode } from "react";
 import { recorder, type RecOwner } from "../lib/recorder";
 import { fmtTime } from "../lib/util";
+import type { DailyRange } from "../hooks/useDailyRange";
 
 export function Kbd({ children }: { children: ReactNode }) {
   return <kbd>{children}</kbd>;
@@ -163,6 +164,34 @@ export function Chips({ items }: { items: { en: string; ja: string }[] }) {
           <span>{k.ja}</span>
         </span>
       ))}
+    </div>
+  );
+}
+
+/** 今日の範囲：何番から何番か・今どこか・次の範囲へ進めるボタン */
+export function TodayRange(props: { range: DailyRange; cur: number; ids: string[]; onMove: (dir: 1 | -1) => void }) {
+  const { start, end, inRange } = props.range;
+  if (!props.ids.length) return null;
+  const done = inRange(props.cur) ? props.cur - start + 1 : 0;
+  return (
+    <div className="vs-today">
+      <div>
+        <b>今日の範囲</b>：{start + 1}〜{end} 番（{props.ids[start]}〜{props.ids[end - 1]}）
+        <span className="vs-count">
+          {inRange(props.cur) ? `${done} / ${end - start}` : `範囲外（${props.cur + 1} 番）`}
+        </span>
+      </div>
+      <div className="vs-bar">
+        <div style={{ width: `${(done / (end - start)) * 100}%` }} />
+      </div>
+      <div className="row" style={{ gap: 6 }}>
+        <button className="btn sm" onClick={() => props.onMove(-1)}>
+          ◀ 前の範囲
+        </button>
+        <button className="btn sm primary" onClick={() => props.onMove(1)}>
+          終わったら次の範囲へ ▶
+        </button>
+      </div>
     </div>
   );
 }

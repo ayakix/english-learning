@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { api } from "../api";
-import { Kbd, Panel } from "../components/common";
+import { Kbd, Panel, TodayRange } from "../components/common";
+import { useDailyRange } from "../hooks/useDailyRange";
 import { useDrillAudio } from "../hooks/useDrillAudio";
 import { useHotkeys } from "../hooks/useHotkeys";
 import { useToast } from "../hooks/useToast";
@@ -21,17 +22,6 @@ const MODES: { key: Mode; label: string; hint: string }[] = [
 // 1 日の量（curriculum/roadmap.md の「1 日・1 週間の型」）
 const DAILY: Record<Mode, number> = { repeats: 20, "short-answers": 15 };
 
-// 今日の範囲の先頭（絞り込んだ一覧の何番目か）を、モード・レベルごとに覚えておく。
-// 練習ログが残らないタブなので、次の範囲を探さずに再開できるようにするため
-const RANGE_KEY = "trainer:versant:start";
-
-function loadStarts(): Record<string, number> {
-  try {
-    return JSON.parse(localStorage.getItem(RANGE_KEY) || "{}");
-  } catch {
-    return {};
-  }
-}
 
 /**
  * Versant 形式のドリル：復唱と即答
@@ -46,7 +36,6 @@ export function VersantPage() {
   const [showAll, setShowAll] = useState(false);
   const [shown, setShown] = useState<Set<string>>(new Set());
   const [cur, setCur] = useState(0);
-  const [starts, setStarts] = useState<Record<string, number>>(loadStarts);
   const rows = useRef<(HTMLDivElement | null)[]>([]);
   const { playing, play, stop } = useDrillAudio();
 
@@ -61,11 +50,9 @@ export function VersantPage() {
   const d = data[mode];
   const items = (d?.items ?? []).filter((it) => mode !== "repeats" || level === "all" || String(it.level) === level);
   const info = MODES.find((m) => m.key === mode)!;
-  const rangeKey = (m: Mode, lv: string) => `${m}:${m === "repeats" ? lv : "all"}`;
-  // 一覧が短くなっても範囲が外に出ないように、件数で丸める
-  const start = items.length ? (starts[rangeKey(mode, level)] ?? 0) % items.length : 0;
-  const end = Math.min(start + DAILY[mode], items.length);
-  const inRange = (i: number) => i >= start && i < end;
+  // 範囲はモード・レベルごとに覚えておく（レベルで絞ると番号が変わるため）
+  const range = useDailyRange("trainer:versant:start", `${mode}:${mode === "repeats" ? level : "all"}`, DAILY[mode], items.length);
+  const { start, inRange } = range;
 
   // 開いたときは今日の範囲の先頭を選ぶ
   useEffect(() => {
@@ -81,18 +68,7 @@ export function VersantPage() {
   }
 
   function moveRange(dir: 1 | -1) {
-    const n = items.length;
-    // 最後まで行ったら先頭に戻る（言えるようになるまで繰り返すため）
-    let next: number;
-    if (dir === 1) next = end >= n ? 0 : end;
-    else next = start === 0 ? Math.floor((n - 1) / DAILY[mode]) * DAILY[mode] : Math.max(0, start - DAILY[mode]);
-    const all = { ...starts, [rangeKey(mode, level)]: next };
-    setStarts(all);
-    try {
-      localStorage.setItem(RANGE_KEY, JSON.stringify(all));
-    } catch {
-      // 保存できなくても、その場の範囲としては使える
-    }
+    const next = range.move(dir);
     stop();
     setCur(next);
     rows.current[next]?.scrollIntoView({ block: "start" });
@@ -152,27 +128,7 @@ export function VersantPage() {
             <Kbd>↑</Kbd>
             <Kbd>↓</Kbd> で選び、<Kbd>Space</Kbd> で再生、<Kbd>V</Kbd> でテキストを表示します。{items.length} 件
           </div>
-          {items.length > 0 && (
-            <div className="vs-today">
-              <div>
-                <b>今日の範囲</b>：{start + 1}〜{end} 番（{items[start].id}〜{items[end - 1].id}）
-                <span className="vs-count">
-                  {inRange(cur) ? `${cur - start + 1} / ${end - start}` : `範囲外（${cur + 1} 番）`}
-                </span>
-              </div>
-              <div className="vs-bar">
-                <div style={{ width: `${inRange(cur) ? ((cur - start + 1) / (end - start)) * 100 : 0}%` }} />
-              </div>
-              <div className="row" style={{ gap: 6 }}>
-                <button className="btn sm" onClick={() => moveRange(-1)}>
-                  ◀ 前の範囲
-                </button>
-                <button className="btn sm primary" onClick={() => moveRange(1)}>
-                  終わったら次の範囲へ ▶
-                </button>
-              </div>
-            </div>
-          )}
+          <TodayRange range={range} cur={cur} ids={items.map((it) => it.id)} onMove={moveRange} />
         </Panel>
         <div className="lk-list">
           {items.map((it, i) => {

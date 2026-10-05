@@ -1,6 +1,7 @@
 import { useContext, useEffect, useRef, useState, type ReactNode } from "react";
 import { api } from "../api";
-import { Kbd, Panel } from "../components/common";
+import { Kbd, Panel, TodayRange } from "../components/common";
+import { useDailyRange } from "../hooks/useDailyRange";
 import { PageActive, useHotkeys } from "../hooks/useHotkeys";
 import { useToast } from "../hooks/useToast";
 import { errMsg } from "../lib/util";
@@ -71,6 +72,9 @@ export function PronunciationPage() {
   );
 }
 
+// 1 日の量：リンキングは 1 型（25 例）を 2 日で回す（curriculum/roadmap.md の「1 日・1 週間の型」）
+const LINKING_DAILY = 13;
+
 /** リンキングの例題を、型ごとに聞いて真似する */
 function LinkingView() {
   const toast = useToast();
@@ -108,6 +112,21 @@ function LinkingView() {
 
   const items = data?.items.filter((it) => it.type === type) ?? [];
   const info = data?.types.find((t) => t.key === type);
+  const range = useDailyRange("trainer:linking:start", type, LINKING_DAILY, items.length);
+
+  // 開いたとき・型を替えたときは今日の範囲の先頭を選ぶ
+  useEffect(() => {
+    if (!items.length) return;
+    setCur(range.start);
+    rows.current[range.start]?.scrollIntoView({ block: "nearest" });
+  }, [type, items.length]);
+
+  function moveRange(dir: 1 | -1) {
+    const next = range.move(dir);
+    audio.current.pause();
+    setCur(next);
+    rows.current[next]?.scrollIntoView({ block: "start" });
+  }
 
   function play(it: LinkingItem, which: "phrase" | "sentence") {
     const a = audio.current;
@@ -130,7 +149,6 @@ function LinkingView() {
   function changeType(key: string) {
     audio.current.pause();
     setType(key);
-    setCur(0);
   }
 
   useHotkeys({
@@ -162,6 +180,7 @@ function LinkingView() {
               <Kbd>↑</Kbd>
               <Kbd>↓</Kbd> で選び、<Kbd>Space</Kbd> でフレーズ、<Kbd>Enter</Kbd> で例文を再生します。
             </div>
+            <TodayRange range={range} cur={cur} ids={items.map((it) => it.id)} onMove={moveRange} />
           </Panel>
         )}
         <div className="lk-list">
@@ -171,10 +190,11 @@ function LinkingView() {
               ref={(el) => {
                 rows.current[i] = el;
               }}
-              className={`lk-row${i === cur ? " cur" : ""}`}
+              className={`lk-row${i === cur ? " cur" : ""}${range.inRange(i) ? " today" : ""}`}
               onClick={() => setCur(i)}
             >
               <div className="lk-head">
+                <span className="vs-num">{i + 1}</span>
                 <button
                   className={`btn sm${playing === `${it.id}:phrase` ? " primary" : ""}`}
                   onClick={() => play(it, "phrase")}
@@ -187,9 +207,12 @@ function LinkingView() {
                 </span>
                 <span className="lk-kana">{it.kana}</span>
                 <span className="sp" />
-                <span className="hint">{it.voice?.name}</span>
+                <span className="hint">
+                  {it.id} · {it.voice?.name}
+                </span>
               </div>
               <div className="lk-head">
+                <span className="vs-num" />
                 <button
                   className={`btn sm${playing === `${it.id}:sentence` ? " primary" : ""}`}
                   onClick={() => play(it, "sentence")}
@@ -288,6 +311,7 @@ function MinimalPairsView() {
               className={`lk-row mp-row${i === cur ? " cur" : ""}`}
               onClick={() => setCur(i)}
             >
+              <span className="vs-num">{i + 1}</span>
               {(["a", "b"] as const).map((slot) => (
                 <button
                   key={slot}
@@ -297,7 +321,9 @@ function MinimalPairsView() {
                   ▶ {it[slot]}
                 </button>
               ))}
-              <span className="hint">{it.voice?.name}</span>
+              <span className="hint">
+                {it.id} · {it.voice?.name}
+              </span>
             </div>
           ))}
         </div>

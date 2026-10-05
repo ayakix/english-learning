@@ -213,5 +213,5 @@ mark.lk-target{background:var(--accent-soft);color:inherit;border-radius:4px;pad
 .lk-types.sub{padding-top:0}
 .btn.ghost{color:var(--sub);border-style:dashed}
 .mp-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:8px}
-.mp-row{grid-template-columns:1fr 1fr auto;align-items:center}
+.mp-row{grid-template-columns:auto 1fr 1fr auto;align-items:center}
 .mp-word{justify-content:center;font-size:17px;font-weight:600}
