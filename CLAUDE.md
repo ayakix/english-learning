@@ -15,7 +15,8 @@ README.md と curriculum/roadmap.md も参照すること。
 - 大文字小文字は問わない
 - 開始の合図を受けたら、練習アプリ（apps/trainer）が起動しているかを `curl -s -o /dev/null http://localhost:8765/api/config` で確かめ、止まっていればバックグラウンドで起動する（ユーザーが毎回起動しなくて済むように）
   - 画面のソースが dist より新しければ、先に `cd apps/trainer/web && npm run build` でビルドし直す（start.command と同じ判定）
-  - 起動：`uv run --project apps/trainer trainer serve --no-browser`
+  - 起動：`nohup uv run --project apps/trainer trainer serve --no-browser > /dev/null 2>&1 &`
+    - Bash の run_in_background で起動すると、時間制限（既定 30 分）で止められるため、nohup で切り離す
   - ブラウザは開かない。今日の流れでタブの URL を伝える
 - その日最初のセッションは、合言葉がなくても会話開始時点を学習開始として扱う
   - `.claude/hooks/session-start.sh`（SessionStart hook）が journal を作成し、開始時刻を記録する

@@ -1,0 +1,569 @@
+{
+  "id": "20261005-223108",
+  "skill": "voa",
+  "created": "2026-10-05 22:31",
+  "title": "Grand Feu Enamel Dials",
+  "result": {
+    "score": 84,
+    "details": {
+      "listening": "3/3",
+      "dictation": 68,
+      "replays": 18,
+      "reading": "5/5",
+      "wpm": 137
+    }
+  },
+  "source": {
+    "site": "AI 教材",
+    "url": null,
+    "title": "Grand Feu Enamel Dials",
+    "published": "2026-10-03",
+    "credit": "Script: Claude / Voice: Luis (ElevenLabs)",
+    "license": "original",
+    "audio_url": null,
+    "zone": "watches",
+    "stock_id": "wt022",
+    "level": "B1+",
+    "format": "monologue"
+  },
+  "paragraphs": [
+    {
+      "text": "Some watch dials have a deep, glossy color that seems to glow from the inside. Many of them are made with a traditional technique called Grand Feu enamel. In French, Grand Feu means great fire.",
+      "heading": false
+    },
+    {
+      "text": "Enamel is basically glass. The craftsperson grinds colored glass into a fine powder and mixes it with water. This paste is then spread thinly onto a metal dial, usually made of gold or copper.",
+      "heading": false
+    },
+    {
+      "text": "Next comes the fire. The dial goes into a small oven, called a kiln, at a temperature of around eight hundred degrees Celsius or more. The powder melts and becomes a smooth layer of glass. But one layer is not enough. The process is repeated many times, layer after layer, with careful drying and firing each time.",
+      "heading": false
+    },
+    {
+      "text": "This is where things often go wrong. A tiny bubble, a speck of dust, or a small difference in temperature can create a crack or a mark. If that happens, the dial cannot be repaired. Many dials fail, which is one reason these watches are expensive.",
+      "heading": false
+    },
+    {
+      "text": "So why use this risky method? Because the result lasts. Grand Feu enamel is often described as having imperishable color. It does not fade in sunlight, and it looks the same after a hundred years as it did on the first day. Painted dials age. Enamel stays bright, almost forever.",
+      "heading": false
+    }
+  ],
+  "glossary": [
+    {
+      "word": "Grand Feu enamel",
+      "definition": ""
+    },
+    {
+      "word": "kiln firing",
+      "definition": ""
+    },
+    {
+      "word": "imperishable color",
+      "definition": ""
+    }
+  ],
+  "words": 222,
+  "duration": 93,
+  "audio_wpm": 144,
+  "sentences": [
+    {
+      "text": "Some watch dials have a deep, glossy color that seems to glow from the inside.",
+      "start": 0.0,
+      "end": 5.52,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Many of them are made with a traditional technique called Grand Feu enamel.",
+      "start": 5.95,
+      "end": 10.27,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "In French, Grand Feu means great fire.",
+      "start": 10.7,
+      "end": 13.98,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Enamel is basically glass.",
+      "start": 14.5,
+      "end": 16.78,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The craftsperson grinds colored glass into a fine powder and mixes it with water.",
+      "start": 17.41,
+      "end": 22.29,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This paste is then spread thinly onto a metal dial, usually made of gold or copper.",
+      "start": 23.28,
+      "end": 28.8,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Next comes the fire.",
+      "start": 29.32,
+      "end": 30.92,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The dial goes into a small oven, called a kiln, at a temperature of around eight hundred degrees Celsius or more.",
+      "start": 31.83,
+      "end": 38.39,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The powder melts and becomes a smooth layer of glass.",
+      "start": 39.38,
+      "end": 42.82,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "But one layer is not enough.",
+      "start": 43.49,
+      "end": 45.17,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The process is repeated many times, layer after layer, with careful drying and firing each time.",
+      "start": 46.0,
+      "end": 52.64,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This is where things often go wrong.",
+      "start": 53.16,
+      "end": 55.4,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "A tiny bubble, a speck of dust, or a small difference in temperature can create a crack or a mark.",
+      "start": 55.99,
+      "end": 62.87,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "If that happens, the dial cannot be repaired.",
+      "start": 63.3,
+      "end": 66.74,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Many dials fail, which is one reason these watches are expensive.",
+      "start": 67.17,
+      "end": 70.77,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "So why use this risky method?",
+      "start": 71.29,
+      "end": 73.73,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Because the result lasts.",
+      "start": 74.36,
+      "end": 76.32,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Grand Feu enamel is often described as having imperishable color.",
+      "start": 76.95,
+      "end": 80.71,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "It does not fade in sunlight, and it looks the same after a hundred years as it did on the first day.",
+      "start": 81.62,
+      "end": 87.14,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Painted dials age.",
+      "start": 87.81,
+      "end": 89.41,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Enamel stays bright, almost forever.",
+      "start": 90.0,
+      "end": 92.8,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    }
+  ],
+  "summary_ja": "グラン・フー・エナメルは、ガラスの粉を文字盤に塗り、約800度以上の窯で何度も焼き重ねる技法。気泡やほこり、温度の違いでひびが入ると修理できず、多くが失敗する。そのぶん高価だが、色は日光で色あせず100年たっても変わらない。",
+  "listening": {
+    "questions": [
+      {
+        "q": "エナメルの正体は？",
+        "options": [
+          "金属",
+          "ペンキ",
+          "ガラス",
+          "プラスチック"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"Enamel is basically glass.\""
+      },
+      {
+        "q": "失敗の原因として話されているのは？",
+        "options": [
+          "針の重さ",
+          "小さな気泡、ほこり、温度のわずかな違い",
+          "強い光",
+          "湿気の多い日"
+        ],
+        "answer": 1,
+        "explanation_ja": "\"A tiny bubble, a speck of dust, or a small difference in temperature can create a crack or a mark.\""
+      },
+      {
+        "q": "この技法が選ばれる理由は？",
+        "options": [
+          "修理が簡単だから",
+          "軽いから",
+          "安く早く作れるから",
+          "色あせず、100年後も同じ色を保つから"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"It does not fade in sunlight, and it looks the same after a hundred years\"。"
+      }
+    ],
+    "answers": [
+      2,
+      1,
+      3
+    ],
+    "correct": 3,
+    "plays": 1
+  },
+  "dictation": [
+    {
+      "i": 0,
+      "sentence": 0,
+      "text": "Some watch dials have a deep, glossy color that seems to glow from the inside.",
+      "start": 0,
+      "end": 5.72,
+      "ja": "時計の文字盤の中には、内側から光っているように見える深くつやのある色のものがあります。",
+      "points_ja": "have a deep がつながり、glow from the の the は弱形です。",
+      "answer": "Some watch dials have a deep grassy color that seems to glow inside.",
+      "plays": 8,
+      "accuracy": 0.8,
+      "diff": [
+        {
+          "t": "some",
+          "status": "ok"
+        },
+        {
+          "t": "watch",
+          "status": "ok"
+        },
+        {
+          "t": "dials",
+          "status": "ok"
+        },
+        {
+          "t": "have",
+          "status": "ok"
+        },
+        {
+          "t": "a",
+          "status": "ok"
+        },
+        {
+          "t": "deep",
+          "status": "ok"
+        },
+        {
+          "t": "glossy",
+          "status": "wrong",
+          "heard": "grassy"
+        },
+        {
+          "t": "color",
+          "status": "ok"
+        },
+        {
+          "t": "that",
+          "status": "ok"
+        },
+        {
+          "t": "seems",
+          "status": "ok"
+        },
+        {
+          "t": "to",
+          "status": "ok"
+        },
+        {
+          "t": "glow",
+          "status": "ok"
+        },
+        {
+          "t": "from",
+          "status": "missing"
+        },
+        {
+          "t": "the",
+          "status": "missing"
+        },
+        {
+          "t": "inside",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "sentence": 8,
+      "text": "The powder melts and becomes a smooth layer of glass.",
+      "start": 39.26,
+      "end": 43.02,
+      "ja": "粉が溶けて、なめらかなガラスの層になります。",
+      "points_ja": "melts and が「メルツン」、layer of が「レイヤラヴ」とつながります。",
+      "answer": "The powder melts and become the smooth layer of glass.",
+      "plays": 5,
+      "accuracy": 0.8,
+      "diff": [
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "powder",
+          "status": "ok"
+        },
+        {
+          "t": "melts",
+          "status": "ok"
+        },
+        {
+          "t": "and",
+          "status": "ok"
+        },
+        {
+          "t": "becomes",
+          "status": "wrong",
+          "heard": "become"
+        },
+        {
+          "t": "a",
+          "status": "wrong",
+          "heard": "the"
+        },
+        {
+          "t": "smooth",
+          "status": "ok"
+        },
+        {
+          "t": "layer",
+          "status": "ok"
+        },
+        {
+          "t": "of",
+          "status": "ok"
+        },
+        {
+          "t": "glass",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "sentence": 14,
+      "text": "Many dials fail, which is one reason these watches are expensive.",
+      "start": 67.05,
+      "end": 70.97,
+      "ja": "多くの文字盤が失敗します。これがこれらの時計が高価な理由の一つです。",
+      "points_ja": "which is one が続けて聞こえ、reason these の s が重なります。",
+      "answer": "Dials failed would one reason is watch are expensive.",
+      "plays": 5,
+      "accuracy": 0.455,
+      "diff": [
+        {
+          "t": "many",
+          "status": "missing"
+        },
+        {
+          "t": "dials",
+          "status": "ok"
+        },
+        {
+          "t": "fail",
+          "status": "wrong",
+          "heard": "failed"
+        },
+        {
+          "t": "which",
+          "status": "wrong",
+          "heard": "would"
+        },
+        {
+          "t": "is",
+          "status": "missing"
+        },
+        {
+          "t": "one",
+          "status": "ok"
+        },
+        {
+          "t": "reason",
+          "status": "ok"
+        },
+        {
+          "t": "these",
+          "status": "wrong",
+          "heard": "is"
+        },
+        {
+          "t": "watches",
+          "status": "wrong",
+          "heard": "watch"
+        },
+        {
+          "t": "are",
+          "status": "ok"
+        },
+        {
+          "t": "expensive",
+          "status": "ok"
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "questions": [
+      {
+        "q": "本文の主旨は？",
+        "options": [
+          "グラン・フー・エナメルは失敗しやすいが、色が永遠に近く残る",
+          "エナメルは安価な塗装である",
+          "エナメルは100年で色が変わる",
+          "窯は時計の工場に必要ない"
+        ],
+        "answer": 0,
+        "explanation_ja": "製法の難しさと、色が長持ちするという価値を説明しています。"
+      },
+      {
+        "q": "Grand Feu の意味は？",
+        "options": [
+          "小さな窓",
+          "古い時計",
+          "大きな炎",
+          "青い空"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"In French, Grand Feu means great fire.\""
+      },
+      {
+        "q": "kiln とは？",
+        "options": [
+          "ガラスの粉",
+          "時計の箱",
+          "研磨の道具",
+          "小さな窯（オーブン）"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"The dial goes into a small oven, called a kiln\"。"
+      },
+      {
+        "q": "ひびが入った文字盤はどうなる？",
+        "options": [
+          "色を塗れば直る",
+          "修理できない",
+          "そのまま売られる",
+          "もう一度焼けば直る"
+        ],
+        "answer": 1,
+        "explanation_ja": "\"If that happens, the dial cannot be repaired.\""
+      },
+      {
+        "q": "imperishable color の意味に近いのは？",
+        "options": [
+          "金属の色",
+          "いつまでも消えない色",
+          "すぐに変わる色",
+          "暗い色"
+        ],
+        "answer": 1,
+        "explanation_ja": "色あせず100年後も同じ、という説明から「不滅の色」です。"
+      }
+    ],
+    "answers": [
+      0,
+      2,
+      3,
+      1,
+      1
+    ],
+    "correct": 5,
+    "reading_seconds": 98,
+    "wpm": 137,
+    "time": "22:39:35"
+  }
+}

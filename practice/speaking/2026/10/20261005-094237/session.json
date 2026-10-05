@@ -1,0 +1,529 @@
+{
+  "id": "20261005-094237",
+  "skill": "speaking",
+  "created": "2026-10-05 09:42",
+  "title": "Woman selling fresh fruits at a bustling market stall",
+  "result": {
+    "score": null,
+    "details": {}
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1780323241479-332bdd8dbb28?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MjF8fGZhcm1lcnMlMjBtYXJrZXQlMjB2ZW5kb3J8ZW58MXwwfHx8MTc5MTA0MzM3N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Zhen Yao",
+      "profile": "https://unsplash.com/@rex_filmer?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/woman-selling-fresh-fruits-at-a-bustling-market-stall-7b6OiZEX8XM?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "Woman selling fresh fruits at a bustling market stall"
+    }
+  },
+  "attempts": [],
+  "correction": null,
+  "tts": {
+    "file": "model_245e6d1e744a.mp3",
+    "text": "This picture was taken at a fruit stand on a street. On the left, a woman wearing a cap is standing in front of boxes of oranges. She has her back to the camera. In the middle, there are green apples and boxes of mangoes. Several handwritten price signs are placed on the fruit. On the right, a few customers are talking, and one woman is carrying a plastic bag. Two bicycles are parked nearby.",
+    "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture was taken at a fruit stand on a street.",
+        "start": 0.0,
+        "end": 3.04
+      },
+      {
+        "text": "On the left, a woman wearing a cap is standing in front of boxes of oranges.",
+        "start": 3.28,
+        "end": 7.92
+      },
+      {
+        "text": "She has her back to the camera.",
+        "start": 8.0,
+        "end": 9.92
+      },
+      {
+        "text": "In the middle, there are green apples and boxes of mangoes.",
+        "start": 9.96,
+        "end": 13.44
+      },
+      {
+        "text": "Several handwritten price signs are placed on the fruit.",
+        "start": 13.64,
+        "end": 16.56
+      },
+      {
+        "text": "On the right, a few customers are talking, and one woman is carrying a plastic bag.",
+        "start": 16.64,
+        "end": 21.44
+      },
+      {
+        "text": "Two bicycles are parked nearby.",
+        "start": 21.52,
+        "end": 23.28
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.24,
+        "e": 0.56,
+        "i": 0
+      },
+      {
+        "t": "was",
+        "s": 0.68,
+        "e": 0.8,
+        "i": 0
+      },
+      {
+        "t": "taken",
+        "s": 0.96,
+        "e": 1.12,
+        "i": 0
+      },
+      {
+        "t": "at",
+        "s": 1.2,
+        "e": 1.28,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.36,
+        "e": 1.44,
+        "i": 0
+      },
+      {
+        "t": "fruit",
+        "s": 1.56,
+        "e": 1.68,
+        "i": 0
+      },
+      {
+        "t": "stand",
+        "s": 1.76,
+        "e": 2.08,
+        "i": 0
+      },
+      {
+        "t": "on",
+        "s": 2.16,
+        "e": 2.24,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 2.28,
+        "e": 2.32,
+        "i": 0
+      },
+      {
+        "t": "street.",
+        "s": 2.4,
+        "e": 3.04,
+        "i": 0
+      },
+      {
+        "t": "On",
+        "s": 3.28,
+        "e": 3.36,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 3.44,
+        "e": 3.52,
+        "i": 1
+      },
+      {
+        "t": "left,",
+        "s": 3.6,
+        "e": 4.08,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 4.16,
+        "e": 4.24,
+        "i": 1
+      },
+      {
+        "t": "woman",
+        "s": 4.32,
+        "e": 4.56,
+        "i": 1
+      },
+      {
+        "t": "wearing",
+        "s": 4.6,
+        "e": 4.8,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 4.88,
+        "e": 4.96,
+        "i": 1
+      },
+      {
+        "t": "cap",
+        "s": 5.04,
+        "e": 5.36,
+        "i": 1
+      },
+      {
+        "t": "is",
+        "s": 5.44,
+        "e": 5.52,
+        "i": 1
+      },
+      {
+        "t": "standing",
+        "s": 5.6,
+        "e": 5.92,
+        "i": 1
+      },
+      {
+        "t": "in",
+        "s": 6.0,
+        "e": 6.08,
+        "i": 1
+      },
+      {
+        "t": "front",
+        "s": 6.16,
+        "e": 6.24,
+        "i": 1
+      },
+      {
+        "t": "of",
+        "s": 6.32,
+        "e": 6.4,
+        "i": 1
+      },
+      {
+        "t": "boxes",
+        "s": 6.6,
+        "e": 6.8,
+        "i": 1
+      },
+      {
+        "t": "of",
+        "s": 6.84,
+        "e": 6.88,
+        "i": 1
+      },
+      {
+        "t": "oranges.",
+        "s": 6.96,
+        "e": 7.92,
+        "i": 1
+      },
+      {
+        "t": "She",
+        "s": 8.0,
+        "e": 8.08,
+        "i": 2
+      },
+      {
+        "t": "has",
+        "s": 8.16,
+        "e": 8.24,
+        "i": 2
+      },
+      {
+        "t": "her",
+        "s": 8.32,
+        "e": 8.48,
+        "i": 2
+      },
+      {
+        "t": "back",
+        "s": 8.6,
+        "e": 8.72,
+        "i": 2
+      },
+      {
+        "t": "to",
+        "s": 8.76,
+        "e": 8.8,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 8.88,
+        "e": 8.96,
+        "i": 2
+      },
+      {
+        "t": "camera.",
+        "s": 9.16,
+        "e": 9.92,
+        "i": 2
+      },
+      {
+        "t": "In",
+        "s": 9.96,
+        "e": 10.0,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 10.08,
+        "e": 10.16,
+        "i": 3
+      },
+      {
+        "t": "middle,",
+        "s": 10.24,
+        "e": 10.64,
+        "i": 3
+      },
+      {
+        "t": "there",
+        "s": 10.72,
+        "e": 10.8,
+        "i": 3
+      },
+      {
+        "t": "are",
+        "s": 10.88,
+        "e": 10.96,
+        "i": 3
+      },
+      {
+        "t": "green",
+        "s": 11.12,
+        "e": 11.28,
+        "i": 3
+      },
+      {
+        "t": "apples",
+        "s": 11.36,
+        "e": 11.76,
+        "i": 3
+      },
+      {
+        "t": "and",
+        "s": 11.84,
+        "e": 11.92,
+        "i": 3
+      },
+      {
+        "t": "boxes",
+        "s": 12.08,
+        "e": 12.24,
+        "i": 3
+      },
+      {
+        "t": "of",
+        "s": 12.32,
+        "e": 12.4,
+        "i": 3
+      },
+      {
+        "t": "mangoes.",
+        "s": 12.48,
+        "e": 13.44,
+        "i": 3
+      },
+      {
+        "t": "Several",
+        "s": 13.64,
+        "e": 13.84,
+        "i": 4
+      },
+      {
+        "t": "handwritten",
+        "s": 13.96,
+        "e": 14.4,
+        "i": 4
+      },
+      {
+        "t": "price",
+        "s": 14.56,
+        "e": 14.72,
+        "i": 4
+      },
+      {
+        "t": "signs",
+        "s": 14.84,
+        "e": 15.04,
+        "i": 4
+      },
+      {
+        "t": "are",
+        "s": 15.12,
+        "e": 15.2,
+        "i": 4
+      },
+      {
+        "t": "placed",
+        "s": 15.36,
+        "e": 15.52,
+        "i": 4
+      },
+      {
+        "t": "on",
+        "s": 15.56,
+        "e": 15.6,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 15.68,
+        "e": 15.76,
+        "i": 4
+      },
+      {
+        "t": "fruit.",
+        "s": 15.92,
+        "e": 16.56,
+        "i": 4
+      },
+      {
+        "t": "On",
+        "s": 16.64,
+        "e": 16.72,
+        "i": 5
+      },
+      {
+        "t": "the",
+        "s": 16.8,
+        "e": 16.88,
+        "i": 5
+      },
+      {
+        "t": "right,",
+        "s": 17.04,
+        "e": 17.36,
+        "i": 5
+      },
+      {
+        "t": "a",
+        "s": 17.44,
+        "e": 17.52,
+        "i": 5
+      },
+      {
+        "t": "few",
+        "s": 17.6,
+        "e": 17.68,
+        "i": 5
+      },
+      {
+        "t": "customers",
+        "s": 17.76,
+        "e": 18.16,
+        "i": 5
+      },
+      {
+        "t": "are",
+        "s": 18.24,
+        "e": 18.32,
+        "i": 5
+      },
+      {
+        "t": "talking,",
+        "s": 18.507,
+        "e": 18.96,
+        "i": 5
+      },
+      {
+        "t": "and",
+        "s": 19.04,
+        "e": 19.12,
+        "i": 5
+      },
+      {
+        "t": "one",
+        "s": 19.2,
+        "e": 19.28,
+        "i": 5
+      },
+      {
+        "t": "woman",
+        "s": 19.36,
+        "e": 19.6,
+        "i": 5
+      },
+      {
+        "t": "is",
+        "s": 19.68,
+        "e": 19.76,
+        "i": 5
+      },
+      {
+        "t": "carrying",
+        "s": 19.84,
+        "e": 20.08,
+        "i": 5
+      },
+      {
+        "t": "a",
+        "s": 20.16,
+        "e": 20.24,
+        "i": 5
+      },
+      {
+        "t": "plastic",
+        "s": 20.28,
+        "e": 20.64,
+        "i": 5
+      },
+      {
+        "t": "bag.",
+        "s": 20.8,
+        "e": 21.44,
+        "i": 5
+      },
+      {
+        "t": "Two",
+        "s": 21.52,
+        "e": 21.6,
+        "i": 6
+      },
+      {
+        "t": "bicycles",
+        "s": 21.64,
+        "e": 22.16,
+        "i": 6
+      },
+      {
+        "t": "are",
+        "s": 22.24,
+        "e": 22.32,
+        "i": 6
+      },
+      {
+        "t": "parked",
+        "s": 22.4,
+        "e": 22.56,
+        "i": 6
+      },
+      {
+        "t": "nearby.",
+        "s": 22.64,
+        "e": 23.28,
+        "i": 6
+      }
+    ]
+  },
+  "recordings": [],
+  "test": {
+    "stock_id": "sp017",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture was taken at a fruit stand on a street. On the left, a woman wearing a cap is standing in front of boxes of oranges. She has her back to the camera. In the middle, there are green apples and boxes of mangoes. Several handwritten price signs are placed on the fruit. On the right, a few customers are talking, and one woman is carrying a plastic bag. Two bicycles are parked nearby.",
+    "answer": null,
+    "seconds": null,
+    "grade": null
+  }
+}
