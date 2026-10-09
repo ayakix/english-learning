@@ -74,6 +74,16 @@ export function PronunciationPage() {
 
 // 1 日の量：リンキングは 1 型（25 例）を 2 日で回す（curriculum/roadmap.md の「1 日・1 週間の型」）
 const LINKING_DAILY = 13;
+// 型は 2 日ずつ順に進めるので、次に開いたときも前回の型から始められるように覚えておく
+const TYPE_KEY = "trainer:linking:type";
+
+function loadType(): string | null {
+  try {
+    return localStorage.getItem(TYPE_KEY);
+  } catch {
+    return null;
+  }
+}
 
 /** リンキングの例題を、型ごとに聞いて真似する */
 function LinkingView() {
@@ -83,6 +93,8 @@ function LinkingView() {
   const [type, setType] = useState("");
   const [cur, setCur] = useState(0);
   const [playing, setPlaying] = useState<string | null>(null);
+  // 既定は今日の範囲だけを出す（25 例が並ぶと、今日やる所を探す手間がかかるため）
+  const [showAll, setShowAll] = useState(false);
   const audio = useRef(new Audio());
   const rows = useRef<(HTMLDivElement | null)[]>([]);
 
@@ -90,7 +102,8 @@ function LinkingView() {
     api.linking().then(
       (d) => {
         setData(d);
-        setType(d.types[0]?.key ?? "");
+        const saved = loadType();
+        setType(saved && d.types.some((t) => t.key === saved) ? saved : (d.types[0]?.key ?? ""));
       },
       (e) => toast("例題を読み込めません: " + errMsg(e), true),
     );
@@ -141,7 +154,9 @@ function LinkingView() {
   }
 
   function select(i: number) {
-    const n = Math.max(0, Math.min(items.length - 1, i));
+    // 今日の範囲だけを出しているときは、↑↓ も範囲の中で動かす
+    const [lo, hi] = showAll ? [0, items.length - 1] : [range.start, range.end - 1];
+    const n = Math.max(lo, Math.min(hi, i));
     setCur(n);
     rows.current[n]?.scrollIntoView({ block: "nearest" });
   }
@@ -149,6 +164,11 @@ function LinkingView() {
   function changeType(key: string) {
     audio.current.pause();
     setType(key);
+    try {
+      localStorage.setItem(TYPE_KEY, key);
+    } catch {
+      // 保存できなくても、その場で型は切り替えられる
+    }
   }
 
   useHotkeys({
@@ -169,7 +189,15 @@ function LinkingView() {
       </div>
       <main className="single">
         {info && (
-          <Panel title={`リンキング：${info.name}`} right={<span className="hint">{items.length} 件</span>}>
+          <Panel
+            title={`リンキング：${info.name}`}
+            right={
+              <label className="hint row" style={{ gap: 6 }}>
+                <input type="checkbox" checked={showAll} onChange={(e) => setShowAll(e.target.checked)} />
+                全 {items.length} 件を表示
+              </label>
+            }
+          >
             <div className="hint">{info.description_ja}</div>
             <div className="box lk-example">
               例：<Marked text={info.example} />
@@ -184,48 +212,50 @@ function LinkingView() {
           </Panel>
         )}
         <div className="lk-list">
-          {items.map((it, i) => (
-            <div
-              key={it.id}
-              ref={(el) => {
-                rows.current[i] = el;
-              }}
-              className={`lk-row${i === cur ? " cur" : ""}${range.inRange(i) ? " today" : ""}`}
-              onClick={() => setCur(i)}
-            >
-              <div className="lk-head">
-                <span className="vs-num">{i + 1}</span>
-                <button
-                  className={`btn sm${playing === `${it.id}:phrase` ? " primary" : ""}`}
-                  onClick={() => play(it, "phrase")}
-                  title="フレーズを再生"
-                >
-                  ▶
-                </button>
-                <span className="lk-phrase">
-                  <Marked text={it.phrase} />
-                </span>
-                <span className="lk-kana">{it.kana}</span>
-                <span className="sp" />
-                <span className="hint">
-                  {it.id} · {it.voice?.name}
-                </span>
+          {items.map((it, i) =>
+            !showAll && !range.inRange(i) ? null : (
+              <div
+                key={it.id}
+                ref={(el) => {
+                  rows.current[i] = el;
+                }}
+                className={`lk-row${i === cur ? " cur" : ""}${range.inRange(i) ? " today" : ""}`}
+                onClick={() => setCur(i)}
+              >
+                <div className="lk-head">
+                  <span className="vs-num">{i + 1}</span>
+                  <button
+                    className={`btn sm${playing === `${it.id}:phrase` ? " primary" : ""}`}
+                    onClick={() => play(it, "phrase")}
+                    title="フレーズを再生"
+                  >
+                    ▶
+                  </button>
+                  <span className="lk-phrase">
+                    <Marked text={it.phrase} />
+                  </span>
+                  <span className="lk-kana">{it.kana}</span>
+                  <span className="sp" />
+                  <span className="hint">
+                    {it.id} · {it.voice?.name}
+                  </span>
+                </div>
+                <div className="lk-head">
+                  <span className="vs-num" />
+                  <button
+                    className={`btn sm${playing === `${it.id}:sentence` ? " primary" : ""}`}
+                    onClick={() => play(it, "sentence")}
+                    title="例文を再生"
+                  >
+                    ▶
+                  </button>
+                  <span className="lk-sentence">
+                    <Sentence item={it} />
+                  </span>
+                </div>
               </div>
-              <div className="lk-head">
-                <span className="vs-num" />
-                <button
-                  className={`btn sm${playing === `${it.id}:sentence` ? " primary" : ""}`}
-                  onClick={() => play(it, "sentence")}
-                  title="例文を再生"
-                >
-                  ▶
-                </button>
-                <span className="lk-sentence">
-                  <Sentence item={it} />
-                </span>
-              </div>
-            </div>
-          ))}
+            ),
+          )}
         </div>
       </main>
     </>
