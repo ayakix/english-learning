@@ -176,9 +176,9 @@ export function TodayRange(props: { range: DailyRange; cur: number; ids: string[
   return (
     <div className="vs-today">
       <div>
-        <b>今日の範囲</b>：{start + 1}〜{end} 番（{props.ids[start]}〜{props.ids[end - 1]}）
+        <b>今日の範囲</b>：{props.ids[start]}〜{props.ids[end - 1]}
         <span className="vs-count">
-          {inRange(props.cur) ? `${done} / ${end - start}` : `範囲外（${props.cur + 1} 番）`}
+          {inRange(props.cur) ? `${done} / ${end - start}` : `範囲外（${props.ids[props.cur]}）`}
         </span>
       </div>
       <div className="vs-bar">

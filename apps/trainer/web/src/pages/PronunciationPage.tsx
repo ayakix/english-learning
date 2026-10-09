@@ -223,7 +223,7 @@ function LinkingView() {
                 onClick={() => setCur(i)}
               >
                 <div className="lk-head">
-                  <span className="vs-num">{i + 1}</span>
+                  <span className="vs-num">{it.id}</span>
                   <button
                     className={`btn sm${playing === `${it.id}:phrase` ? " primary" : ""}`}
                     onClick={() => play(it, "phrase")}
@@ -235,10 +235,6 @@ function LinkingView() {
                     <Marked text={it.phrase} />
                   </span>
                   <span className="lk-kana">{it.kana}</span>
-                  <span className="sp" />
-                  <span className="hint">
-                    {it.id} · {it.voice?.name}
-                  </span>
                 </div>
                 <div className="lk-head">
                   <span className="vs-num" />
@@ -341,7 +337,7 @@ function MinimalPairsView() {
               className={`lk-row mp-row${i === cur ? " cur" : ""}`}
               onClick={() => setCur(i)}
             >
-              <span className="vs-num">{i + 1}</span>
+              <span className="vs-num">{it.id}</span>
               {(["a", "b"] as const).map((slot) => (
                 <button
                   key={slot}
@@ -351,9 +347,6 @@ function MinimalPairsView() {
                   ▶ {it[slot]}
                 </button>
               ))}
-              <span className="hint">
-                {it.id} · {it.voice?.name}
-              </span>
             </div>
           ))}
         </div>

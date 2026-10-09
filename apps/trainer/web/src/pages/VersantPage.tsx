@@ -143,7 +143,7 @@ export function VersantPage() {
                 onClick={() => setCur(i)}
               >
                 <div className="lk-head">
-                  <span className="vs-num">{i + 1}</span>
+                  <span className="vs-num">{it.id}</span>
                   <button
                     className={`btn sm${playing === it.id ? " primary" : ""}`}
                     onClick={() => playItem(it)}
@@ -159,13 +159,10 @@ export function VersantPage() {
                     </button>
                   )}
                   <span className="sp" />
-                  <span className="hint">
-                    {it.id} · {mode === "repeats" && `${it.words} 語 · `}
-                    {it.voice?.name}
-                  </span>
+                  {mode === "repeats" && <span className="hint">{it.words} 語</span>}
                 </div>
                 {visible && mode === "short-answers" && (
-                  <div className="hint" style={{ paddingLeft: 44 }}>
+                  <div className="hint" style={{ paddingLeft: 59 }}>
                     答え：<b>{it.answers?.[0]}</b>
                     {it.answers && it.answers.length > 1 && `（ほかに ${it.answers.slice(1).join(" / ")}）`}
                   </div>
