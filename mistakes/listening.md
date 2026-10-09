@@ -42,3 +42,12 @@
 | 2026-10-09 | Could you **send** me the report today?（rp062 の復習） | send → submit（10/05 と同じ） | 意味から言い換えてしまう。聞こえた音（センド）をそのまま言う |
 | 2026-10-09 | **This shirt is** a little too small.（rp079 の復習） | is → are（10/05 と同じ） | this の後は単数。shirt‿is は「シャーティズ」とつながる |
 | 2026-10-09 | I'm going to **the** dentist tomorrow.（rp080） | the が抜けた | to‿the は「トゥダ」と弱く短い。go to the dentist は the 付きの決まった形 |
+| 2026-10-09 | He works at **a** bank downtown.（rp122） | a が抜けた | at‿a は「アラ」。文法から a を補う |
+| 2026-10-09 | The doctor told me **to** rest.（rp127） | to が抜けた | told me to は「トウルミトゥ」。tell 人 to 〜 の形 |
+| 2026-10-09 | It **rained** every day during our vacation.（rp129） | rained → lined | R と L。It と every day から天気の話と分かる |
+| 2026-10-09 | She **runs faster than** anyone on the team.（rp130） | runs faster than → won the faster | runs‿faster の s が f に飲み込まれる。than は弱く「ðən」。faster than anyone ＝誰よりも速い |
+| 2026-10-09 | The museum has **a** famous painting collection.（rp132） | a → the | has‿a は「ハザ」とつながる |
+| 2026-10-09 | The **app** keeps **crashing** on my phone.（rp136） | app → up、crashing → crash | app は口を大きく開ける「ア」。keep ～ing ＝〜し続ける |
+| 2026-10-09 | Remember to **water the plants while I'm away**.（rp140） | water → vote、plants → plan、while I'm away → on the way | water は「ワラー」と t がラ行になる。while‿I'm‿away は「ワイライマウェイ」 |
+| 2026-10-09 | What do you call a person **who repairs cars**?（即答 sa065） | who repairs cars | who‿repairs は「フリペアズ」。答えは a mechanic |
+| 2026-10-09 | **What do plants need from the sun** to grow?（即答 sa066） | 全体 | What do は「ワドゥ」、from the sun は「フラムザサン」。plants・sun・grow を拾えば light と答えられる |

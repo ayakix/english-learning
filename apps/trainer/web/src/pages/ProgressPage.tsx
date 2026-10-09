@@ -13,7 +13,7 @@ export const SKILLS: { skill: Skill; label: string; color: string }[] = [
   { skill: "listening", label: "リスニング", color: "var(--series-2)" },
   { skill: "writing", label: "ライティング", color: "var(--series-3)" },
   { skill: "reading", label: "リーディング", color: "var(--series-4)" },
-  { skill: "voa", label: "教材", color: "var(--series-5)" },
+  { skill: "lesson", label: "教材", color: "var(--series-5)" },
 ];
 
 const W = 760;

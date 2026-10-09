@@ -123,16 +123,3 @@ def synthesize(dest_dir: Path, text: str, voice_id: str | None = None, stability
     return {"file": name, "text": text, "voice_id": voice_id, "model_id": model_id,
             "stability": stability, "sentences": sentences, "words": words}
 
-
-def transcribe(path: Path, language: str = "en") -> list[dict]:
-    """Scribe で文字起こしし、単語ごとのタイムスタンプを返す（[{"text", "start", "end"}]）
-
-    人が読んだ音声（VOA など）から 1 文ずつの区間を切り出すために使う。
-    """
-    _require_key()
-    with path.open("rb") as f:
-        res = http.request("POST", API + "/speech-to-text", headers={"xi-api-key": settings.eleven_key},
-                           data={"model_id": "scribe_v2", "language_code": language},
-                           files={"file": (path.name, f, "audio/mpeg")}, timeout=600).json()
-    return [{"text": w["text"], "start": w["start"], "end": w["end"]}
-            for w in res.get("words", []) if w.get("type") == "word"]

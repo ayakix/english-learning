@@ -3,6 +3,8 @@ import type {
   Evaluation,
   DrillData,
   DrillKind,
+  LessonSession,
+  LessonZone,
   LinkingData,
   ListeningSession,
   ProgressPoint,
@@ -15,9 +17,6 @@ import type {
   Skill,
   Tts,
   Voice,
-  VoaSession,
-  VoaSource,
-  VoaZone,
   WritingKind,
   WritingSession,
 } from "./types";
@@ -96,15 +95,15 @@ export const api = {
 
   linking: () => call<LinkingData>("/api/linking"),
   drill: (kind: DrillKind) => call<DrillData>(`/api/drills/${kind}`),
-  voa: {
-    zones: () => call<Record<VoaSource, VoaZone[]>>("/api/voa/zones"),
-    get: (sid: string) => call<VoaSession>(`/api/voa/sessions/${sid}`),
-    create: (source: VoaSource, zone: string) => call<VoaSession>("/api/voa/sessions", "POST", { source, zone }),
+  lesson: {
+    zones: () => call<LessonZone[]>("/api/lesson/zones"),
+    get: (sid: string) => call<LessonSession>(`/api/lesson/sessions/${sid}`),
+    create: (zone: string) => call<LessonSession>("/api/lesson/sessions", "POST", { zone }),
     listening: (sid: string, answers: number[], plays: number) =>
-      call<VoaSession>(`/api/voa/sessions/${sid}/listening`, "POST", { answers, plays }),
+      call<LessonSession>(`/api/lesson/sessions/${sid}/listening`, "POST", { answers, plays }),
     dictation: (sid: string, i: number, answer: string, plays: number) =>
-      call<VoaSession>(`/api/voa/sessions/${sid}/dictation/${i}`, "POST", { answer, plays }),
+      call<LessonSession>(`/api/lesson/sessions/${sid}/dictation/${i}`, "POST", { answer, plays }),
     reading: (sid: string, answers: number[], readingSeconds: number) =>
-      call<VoaSession>(`/api/voa/sessions/${sid}/reading`, "POST", { answers, reading_seconds: readingSeconds }),
+      call<LessonSession>(`/api/lesson/sessions/${sid}/reading`, "POST", { answers, reading_seconds: readingSeconds }),
   },
 };

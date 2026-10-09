@@ -7,23 +7,22 @@ import { PageActive, useHotkeys } from "../hooks/useHotkeys";
 import { useToast } from "../hooks/useToast";
 import { lastId, rememberLast } from "../lib/last";
 import { errMsg, fmtTime } from "../lib/util";
-import type { Question, VoaDictation, VoaSession, VoaSource, VoaZone } from "../types";
+import type { LessonDictation, LessonSession, LessonZone, Question } from "../types";
 import { DiffWord } from "./ListeningPage";
 
 const RATES = [1, 1.25, 1.5];
 
 /**
  * 教材リスニング：記事と音声で 聞く → 書き取る → 読む を通す
- * 取得元は VOA（実際の記事）と AI 教材（Claude の原稿 + ElevenLabs の音声）から選べる。
+ * 教材は AI 教材（Claude の原稿 + ElevenLabs の音声）。以前は VOA も選べたが、長く興味にも合わなかったのでやめた。
  * 先に本文を読むと聞き取りの練習にならないので、本文は「読む」の段階まで表示しない（サーバーも返さない）。
  */
-export function VoaPage() {
+export function LessonPage() {
   const toast = useToast();
   const active = useContext(PageActive);
   const { settings, updateSettings } = useApp();
-  const [session, setSession] = useState<VoaSession | null>(null);
-  const [zones, setZones] = useState<Record<VoaSource, VoaZone[]>>({ voa: [], ai: [] });
-  const [src, setSrc] = useState<VoaSource>("ai");
+  const [session, setSession] = useState<LessonSession | null>(null);
+  const [zones, setZones] = useState<LessonZone[]>([]);
   const [zone, setZone] = useState("all");
   const [loading, setLoading] = useState(false);
   const [history, setHistory] = useState(false);
@@ -44,11 +43,11 @@ export function VoaPage() {
   const clipEnd = useRef<number | null>(null);
   const pos = useRef<HTMLSpanElement>(null);
   const timer = useRef<HTMLSpanElement>(null);
-  const rate = settings.voaRate;
+  const rate = settings.lessonRate;
 
   useEffect(() => {
     loadZones();
-    const id = lastId("voa", active);
+    const id = lastId("lesson", active);
     if (id) open(id).catch(() => {});
   }, []);
 
@@ -89,13 +88,13 @@ export function VoaPage() {
   }, [startedAt, readSec]);
 
   function loadZones() {
-    api.voa.zones().then(setZones, () => {});
+    api.lesson.zones().then(setZones, () => {});
   }
 
-  function reset(s: VoaSession) {
+  function reset(s: LessonSession) {
     audio.current?.pause();
     setSession(s);
-    rememberLast("voa", s.id);
+    rememberLast("lesson", s.id);
     setLisAnswers(s.listening.questions.map(() => null));
     setFullPlays(0);
     setDrafts({});
@@ -106,14 +105,14 @@ export function VoaPage() {
   }
 
   async function open(id: string) {
-    reset(await api.voa.get(id));
+    reset(await api.lesson.get(id));
   }
 
   async function create() {
     if (loading) return;
     setLoading(true);
     try {
-      reset(await api.voa.create(src, zone));
+      reset(await api.lesson.create(zone));
       loadZones();
     } catch (e) {
       toast("記事の準備に失敗: " + errMsg(e), true);
@@ -123,7 +122,7 @@ export function VoaPage() {
   }
 
   // 送信して、返ってきた session で画面を更新する（各段階の提出で共通）
-  async function send(fn: () => Promise<VoaSession>) {
+  async function send(fn: () => Promise<LessonSession>) {
     if (busy) return;
     setBusy(true);
     try {
@@ -155,7 +154,7 @@ export function VoaPage() {
     if (a) a.currentTime = Math.max(0, a.currentTime + delta);
   }
 
-  function playClip(d: VoaDictation) {
+  function playClip(d: LessonDictation) {
     const a = audio.current;
     if (!a) return;
     a.currentTime = d.start;
@@ -166,7 +165,7 @@ export function VoaPage() {
 
   function changeRate(step: number) {
     const i = Math.min(RATES.length - 1, Math.max(0, RATES.indexOf(rate) + step));
-    updateSettings({ voaRate: RATES[i] });
+    updateSettings({ lessonRate: RATES[i] });
   }
 
   const currentClip = stage === "dictation" ? session!.dictation.find((d) => d.answer == null) : undefined;
@@ -175,20 +174,20 @@ export function VoaPage() {
     if (!session) return;
     if (lisAnswers.some((a) => a == null)) return toast("すべての設問に答えてください");
     audio.current?.pause();
-    send(() => api.voa.listening(session.id, lisAnswers as number[], fullPlays));
+    send(() => api.lesson.listening(session.id, lisAnswers as number[], fullPlays));
   }
 
-  function submitClip(d: VoaDictation) {
+  function submitClip(d: LessonDictation) {
     if (!session) return;
     const answer = (drafts[d.i] ?? "").trim();
     if (!answer) return toast("聞こえた英文を入力してください");
-    send(() => api.voa.dictation(session.id, d.i, answer, clipPlays[d.i] ?? 0));
+    send(() => api.lesson.dictation(session.id, d.i, answer, clipPlays[d.i] ?? 0));
   }
 
   function submitReading() {
     if (!session || readSec == null) return;
     if (rdAnswers.some((a) => a == null)) return toast("すべての設問に答えてください");
-    send(() => api.voa.reading(session.id, rdAnswers as number[], readSec));
+    send(() => api.lesson.reading(session.id, rdAnswers as number[], readSec));
   }
 
   const readPhase = stage !== "reading" ? null : startedAt == null ? "ready" : readSec == null ? "reading" : "answering";
@@ -215,24 +214,13 @@ export function VoaPage() {
       <PageBar
         newLabel="新しい記事"
         busy={loading}
-        busyLabel={src === "voa" ? "記事を探して問題を作成中（30 秒ほど）" : "準備中"}
+        busyLabel="準備中"
         onNew={create}
         onHistory={() => setHistory(true)}
       >
-        <select
-          value={src}
-          onChange={(e) => {
-            setSrc(e.target.value as VoaSource);
-            setZone("all");
-          }}
-          title="取得元"
-        >
-          <option value="ai">AI 教材（約 1 分半）</option>
-          <option value="voa">VOA（約 5 分）</option>
-        </select>
-        <select value={zone} onChange={(e) => setZone(e.target.value)} title={src === "voa" ? "セクション" : "分野"}>
-          <option value="all">{src === "voa" ? "すべてのセクション" : "すべての分野"}</option>
-          {zones[src].map((z) => (
+        <select value={zone} onChange={(e) => setZone(e.target.value)} title="分野">
+          <option value="all">すべての分野</option>
+          {zones.map((z) => (
             <option key={z.key} value={z.key} disabled={z.left === 0}>
               {z.name}
               {z.left != null && `（残り ${z.left}）`}
@@ -246,7 +234,6 @@ export function VoaPage() {
             <p>記事と音声で、聞く → 書き取る → 読む を順に練習します。</p>
             <p className="hint">
               AI 教材は、Claude が書いた原稿と ElevenLabs の音声（時計・ワイン・航空・アプリ開発・ランニング・子育て・自然科学・金融）です。
-              VOA は、VOA の記者が書いた記事（パブリックドメイン）を選び、設問を作ります。
             </p>
           </div>
         ) : (
@@ -254,7 +241,7 @@ export function VoaPage() {
             <audio
               ref={audio}
               preload="auto"
-              src={fileUrl("voa", session.id, "audio.mp3")}
+              src={fileUrl("lesson", session.id, "audio.mp3")}
               onPlay={() => setPlaying(true)}
               onPause={() => setPlaying(false)}
               onLoadedMetadata={(e) => (e.currentTarget.playbackRate = rate)}
@@ -275,7 +262,7 @@ export function VoaPage() {
               <span className="sp" />
               <span className="hint">速度</span>
               {RATES.map((v) => (
-                <button key={v} className={`btn sm${v === rate ? " on" : ""}`} onClick={() => updateSettings({ voaRate: v })}>
+                <button key={v} className={`btn sm${v === rate ? " on" : ""}`} onClick={() => updateSettings({ lessonRate: v })}>
                   {v}x
                 </button>
               ))}
@@ -445,7 +432,7 @@ export function VoaPage() {
                 <div className="hint">スコアは「聞く」の正答率と「書き取り」の一致率の平均です。</div>
                 {session.glossary.length > 0 && (
                   <>
-                    <div className="lbl">{session.source.stock_id ? "この話の用語" : "Words in This Story"}</div>
+                    <div className="lbl">この話の用語</div>
                     <dl className="glossary">
                       {/* AI 教材は用語だけ（定義なし）なので、dd が空でも崩れないようにしている */}
                       {session.glossary.map((g, i) => (
@@ -462,22 +449,14 @@ export function VoaPage() {
 
             <div className="credit">
               出典：
-              {session.source.url ? (
-                <a href={session.source.url} target="_blank" rel="noreferrer">
-                  {session.source.site}「{session.source.title}」
-                </a>
-              ) : (
-                <>
-                  {session.source.site}「{session.source.title}」
-                </>
-              )}
+              {session.source.site}「{session.source.title}」
               （{session.source.published}）{stage === "done" && <> — {session.source.credit}</>}
             </div>
           </>
         )}
       </main>
       <HistoryDialog
-        skill="voa"
+        skill="lesson"
         open={history}
         onClose={() => setHistory(false)}
         onPick={(id) => {
@@ -511,7 +490,7 @@ function Quiz(props: {
             >
               <input
                 type="radio"
-                name={`voa-${q.q}`}
+                name={`lesson-${q.q}`}
                 checked={props.mine[qi] === oi}
                 disabled={props.done}
                 onChange={() => props.onPick(qi, oi)}

@@ -90,10 +90,9 @@ def _wrong(qs: list[dict], answers: list[int]) -> list[str]:
             for q, a in zip(qs, answers) if q["answer"] != a]
 
 
-def _voa(s: dict) -> list[str]:
+def _lesson(s: dict) -> list[str]:
     src, lis, rd = s["source"], s["listening"], s["reading"]
-    # AI 教材には URL が無いので、取得元の名前を出す
-    title = "[%s](%s)" % (src["title"], src["url"]) if src.get("url") else "%s（%s）" % (src["title"], src["site"])
+    title = "%s（%s）" % (src["title"], src["site"])
     out = ["- 記事：%s（%d 語・音声 %d 秒・%s wpm）" % (title, s["words"], s["duration"], s.get("audio_wpm") or "-")]
     if lis["answers"] is not None:
         out.append("- 聞く：正解 %d / %d（全体を %d 回再生）" % (lis["correct"], len(lis["questions"]), lis["plays"]))
@@ -115,7 +114,7 @@ def _voa(s: dict) -> list[str]:
     return out
 
 
-RENDER = {"speaking": _speaking, "listening": _listening, "writing": _writing, "reading": _reading, "voa": _voa}
+RENDER = {"speaking": _speaking, "listening": _listening, "writing": _writing, "reading": _reading, "lesson": _lesson}
 
 
 def render(date: str) -> str:
@@ -127,8 +126,8 @@ def render(date: str) -> str:
         # スピーキングは添削だけでシャドーイングの評価が無い日もあるので、説明の提出があれば載せる
         sessions = [s for s in reversed(storage.load_all(skill)) if s["id"].startswith(prefix) and (
             (s.get("result") or {}).get("score") is not None or s.get("attempts")
-            # VOA は「聞く」だけ終えた日も載せる（スコアは書き取りまで終えないと出ないため）
-            or (skill == "voa" and (s.get("result") or {}).get("details")))]
+            # 教材は「聞く」だけ終えた日も載せる（スコアは書き取りまで終えないと出ないため）
+            or (skill == "lesson" and (s.get("result") or {}).get("details")))]
         if not sessions:
             continue
         found = True

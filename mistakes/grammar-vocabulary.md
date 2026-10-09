@@ -41,3 +41,4 @@
 | 2026-10-07 | （sides を「角」と思った）How many sides does a triangle have?（即答 sa056） | three | side ＝辺。角は corner、角度は angle |
 | 2026-10-07 | （shell が出てこない）What do you call the hard outside part of an egg?（即答 sa057） | the shell | 卵の殻 ＝ shell（eggshell）。貝殻も shell |
 | 2026-10-07 | rarely（the opposite of "always"? 即答 sa059） | never | rarely（めったに〜ない）は「ほぼ never」で、反対語ではない |
+| 2026-10-09 | （即答 sa069 で答えられず） | the windshield | 車のフロントガラス。front glass とは言わない。ワイパーは windshield wipers。英国では windscreen |

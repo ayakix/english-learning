@@ -9,7 +9,7 @@ export type Settings = {
   loopGap: number;
   echo: boolean;
   speed: number;
-  voaRate: number;
+  lessonRate: number;
 };
 
 const DEFAULTS: Settings = {
@@ -21,7 +21,7 @@ const DEFAULTS: Settings = {
   loopGap: 1,
   echo: true,
   speed: 1,
-  voaRate: 1,
+  lessonRate: 1,
 };
 
 // MVP（ps_settings）とは値の型が違うため、別のキーで保存する

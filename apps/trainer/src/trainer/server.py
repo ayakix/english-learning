@@ -3,12 +3,12 @@ from fastapi import FastAPI, Request
 from fastapi.responses import FileResponse, JSONResponse, Response
 from fastapi.staticfiles import StaticFiles
 
-from . import activity, drills, elevenlabs, gemini, linking, listening, photos, progress, reading, speaking, storage, voa, writing
+from . import activity, drills, elevenlabs, gemini, lesson, linking, listening, photos, progress, reading, speaking, storage, writing
 from .config import WEB_DIST, settings
 from .http import ApiError
 
 app = FastAPI(title="English Trainer")
-for module in (speaking, listening, writing, reading, voa, linking, drills):
+for module in (speaking, listening, writing, reading, lesson, linking, drills):
     app.include_router(module.router)
 
 
@@ -67,9 +67,9 @@ def get_file(skill: str, sid: str, name: str):
         p.parent.mkdir(parents=True, exist_ok=True)
         if url:
             photos.download(url, p)
-    if not p.exists() and skill == "voa" and name == voa.AUDIO:
-        # 音声も git 管理外なので、VOA の元の URL か AI 教材のストックから取り直す
-        voa.restore_audio(storage.load(skill, sid), p)
+    if not p.exists() and skill == "lesson" and name == lesson.AUDIO:
+        # 音声も git 管理外なので、AI 教材のストックから取り直す
+        lesson.restore_audio(storage.load(skill, sid), p)
     if not p.exists():
         raise ApiError("not found", 404)
     return FileResponse(p, headers={"Cache-Control": "no-cache"})

@@ -171,7 +171,7 @@ input.answer{flex:1;min-width:0;border:1px solid var(--line);background:var(--pa
 .table th{color:var(--sub);font-weight:600;font-size:12px}
 main.single.top{padding-top:20px}
 
-/* ---- VOA タブ ---- */
+/* ---- 教材タブ ---- */
 .player{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:10px 14px;position:sticky;top:8px;z-index:5}
 .btn.sm.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 .passage h4{margin:16px 0 6px;font-size:15px}
