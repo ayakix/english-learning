@@ -89,6 +89,21 @@ def build_all(kinds: list[str] | None = None) -> None:
         print("%s 完了 %d / %d" % (kind, sum(1 for it in data["items"] if has_audio(kind, it)), len(data["items"])))
 
 
+# 振り返りの対象は Claude が間違いの申告を受けて STOCK_DIR/review.json を書き換える（復唱・即答の ID を並べる）
+REVIEW_KINDS = ("repeats", "short-answers")
+
+
+# /{kind} より先に登録する（"review" が種類名として解釈されないように）
+@router.get("/review")
+def get_review():
+    """振り返りの例題を、review.json の順に種類（kind）付きで返す"""
+    p = STOCK_DIR / "review.json"
+    review = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {"ids": []}
+    by_id = {it["id"]: {**it, "kind": kind} for kind in REVIEW_KINDS for it in load(kind)["items"]
+             if has_audio(kind, it)}
+    return {"updated": review.get("updated"), "items": [by_id[i] for i in review["ids"] if i in by_id]}
+
+
 @router.get("/{kind}")
 def get_drill(kind: str):
     """例題を返す。音声がまだ無い例題は再生できないので除く"""

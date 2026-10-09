@@ -233,9 +233,11 @@ export type DrillItem = {
   type?: string; // ミニマルペア
   a?: string;
   b?: string;
+  kind?: DrillKind; // 振り返りの一覧でだけ付く（復唱と即答が混ざるため）
 };
 export type DrillData = {
-  name: string;
+  name?: string;
+  updated?: string; // 振り返りの一覧を最後に書き換えた日
   items: DrillItem[];
   levels?: Record<string, string>;
   types?: { key: string; name: string; description_ja: string }[];

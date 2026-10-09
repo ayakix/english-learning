@@ -51,3 +51,6 @@
 | 2026-10-09 | Remember to **water the plants while I'm away**.（rp140） | water → vote、plants → plan、while I'm away → on the way | water は「ワラー」と t がラ行になる。while‿I'm‿away は「ワイライマウェイ」 |
 | 2026-10-09 | What do you call a person **who repairs cars**?（即答 sa065） | who repairs cars | who‿repairs は「フリペアズ」。答えは a mechanic |
 | 2026-10-09 | **What do plants need from the sun** to grow?（即答 sa066） | 全体 | What do は「ワドゥ」、from the sun は「フラムザサン」。plants・sun・grow を拾えば light と答えられる |
+| 2026-10-09 | In **some** hours, the water comes high **up the sand**.（教材 書き取り） | some → summer、up the sand → upsent | some‿hours は「サマワーズ」とつながる。up‿the は「アッザ」で the が弱い |
+| 2026-10-09 | The **moon's** gravity pulls **on** everything **on** Earth, including **the** oceans.（教材 書き取り） | moon's、on（2 つ）、the | pull on ＝〜を引っ張る。on は弱く「アン」。including‿the は「インクルーディンザ」 |
+| 2026-10-09 | So every wave that **reaches the** shore is quietly connected to the moon above.（教材 書き取り） | reaches → reached、the | 現在の一般的な話なので reaches。reaches‿the は「リーチズザ」 |

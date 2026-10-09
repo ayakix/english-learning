@@ -49,3 +49,23 @@ def test_drills_serve_items_with_audio_only(tmp_path, monkeypatch):
     assert client.get("/api/drills/minimal-pairs/audio/mp001/model_b.mp3").content == b"b"
     assert client.get("/api/drills/minimal-pairs/audio/mp001/items.json").status_code == 404
     assert client.get("/api/drills/secret").status_code == 404
+
+
+def test_review_lists_repeats_and_short_answers_in_order(tmp_path, monkeypatch):
+    from trainer import drills
+
+    for kind, item in (("repeats", {"id": "rp001", "text": "Hi.", "level": 1, "words": 1}),
+                       ("short-answers", {"id": "sa001", "question": "What?", "answers": ["x"]})):
+        d = tmp_path / "drills" / kind
+        (d / item["id"]).mkdir(parents=True)
+        (d / item["id"] / "model.mp3").write_bytes(b"m")
+        item["audio"] = {"main": {"text": "t", "file": "model.mp3"}}
+        (d / "items.json").write_text(json.dumps({"name": kind, "items": [item]}))
+    (tmp_path / "drills" / "review.json").write_text(json.dumps({"updated": "2026-10-09",
+                                                                 "ids": ["sa001", "rp999", "rp001"]}))
+    monkeypatch.setattr(drills, "STOCK_DIR", tmp_path / "drills")
+
+    r = client.get("/api/drills/review").json()
+    # 音声の無い ID・存在しない ID は飛ばし、review.json の順に並べる
+    assert r["updated"] == "2026-10-09"
+    assert [(it["id"], it["kind"]) for it in r["items"]] == [("sa001", "short-answers"), ("rp001", "repeats")]

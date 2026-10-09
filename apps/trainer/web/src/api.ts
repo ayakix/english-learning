@@ -95,6 +95,7 @@ export const api = {
 
   linking: () => call<LinkingData>("/api/linking"),
   drill: (kind: DrillKind) => call<DrillData>(`/api/drills/${kind}`),
+  review: () => call<DrillData>("/api/drills/review"),
   lesson: {
     zones: () => call<LessonZone[]>("/api/lesson/zones"),
     get: (sid: string) => call<LessonSession>(`/api/lesson/sessions/${sid}`),

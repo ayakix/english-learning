@@ -8,7 +8,7 @@ import { useToast } from "../hooks/useToast";
 import { errMsg } from "../lib/util";
 import type { DrillData, DrillItem } from "../types";
 
-type Mode = "repeats" | "short-answers";
+type Mode = "repeats" | "short-answers" | "review";
 
 const MODES: { key: Mode; label: string; hint: string }[] = [
   { key: "repeats", label: "復唱", hint: "音声を聞いて、聞こえたとおりにそのまま繰り返します（Versant の Repeats）。" },
@@ -17,10 +17,15 @@ const MODES: { key: Mode; label: string; hint: string }[] = [
     label: "即答",
     hint: "質問を聞いて、1〜2 語ですぐに答えます（Versant の Short Answer Questions）。",
   },
+  {
+    key: "review",
+    label: "振り返り",
+    hint: "間違えた復唱・即答だけをやり直します。一覧は Claude が間違いの申告を受けて書き換えます。",
+  },
 ];
 
-// 1 日の量（curriculum/roadmap.md の「1 日・1 週間の型」）
-const DAILY: Record<Mode, number> = { repeats: 20, "short-answers": 15 };
+// 1 日の量（curriculum/roadmap.md の「1 日・1 週間の型」）。振り返りは一覧そのものが今日の範囲
+const DAILY: Record<Mode, number> = { repeats: 20, "short-answers": 15, review: 0 };
 
 
 /**
@@ -40,12 +45,16 @@ export function VersantPage() {
   const { playing, play, stop } = useDrillAudio();
 
   useEffect(() => {
-    if (data[mode]) return;
-    api.drill(mode).then(
+    // 振り返りの一覧は Claude が書き換えるので、開くたびに読み直す
+    if (data[mode] && mode !== "review") return;
+    (mode === "review" ? api.review() : api.drill(mode)).then(
       (d) => setData((prev) => ({ ...prev, [mode]: d })),
       (e) => toast("例題を読み込めません: " + errMsg(e), true),
     );
   }, [mode]);
+
+  // 振り返りでは復唱と即答が混ざるので、例題ごとの種類で表示を変える
+  const kindOf = (it: DrillItem) => it.kind ?? mode;
 
   const d = data[mode];
   const items = (d?.items ?? []).filter((it) => mode !== "repeats" || level === "all" || String(it.level) === level);
@@ -75,7 +84,7 @@ export function VersantPage() {
   }
 
   function playItem(it: DrillItem) {
-    play(`/api/drills/${mode}/audio/${it.id}/${it.audio.main.file}`, it.id);
+    play(`/api/drills/${kindOf(it)}/audio/${it.id}/${it.audio.main.file}`, it.id);
   }
 
   function reveal(id: string) {
@@ -127,8 +136,11 @@ export function VersantPage() {
           <div className="hint" style={{ marginTop: 8 }}>
             <Kbd>↑</Kbd>
             <Kbd>↓</Kbd> で選び、<Kbd>Space</Kbd> で再生、<Kbd>V</Kbd> でテキストを表示します。{items.length} 件
+            {mode === "review" && d?.updated && `（${d.updated} 更新）`}
           </div>
-          <TodayRange range={range} cur={cur} ids={items.map((it) => it.id)} onMove={moveRange} />
+          {mode !== "review" && (
+            <TodayRange range={range} cur={cur} ids={items.map((it) => it.id)} onMove={moveRange} />
+          )}
         </Panel>
         <div className="lk-list">
           {items.map((it, i) => {
@@ -139,7 +151,7 @@ export function VersantPage() {
                 ref={(el) => {
                   rows.current[i] = el;
                 }}
-                className={`lk-row${i === cur ? " cur" : ""}${inRange(i) ? " today" : ""}`}
+                className={`lk-row${i === cur ? " cur" : ""}${mode !== "review" && inRange(i) ? " today" : ""}`}
                 onClick={() => setCur(i)}
               >
                 <div className="lk-head">
@@ -152,16 +164,16 @@ export function VersantPage() {
                     ▶
                   </button>
                   {visible ? (
-                    <span className="lk-sentence">{mode === "repeats" ? it.text : it.question}</span>
+                    <span className="lk-sentence">{kindOf(it) === "repeats" ? it.text : it.question}</span>
                   ) : (
                     <button className="btn sm ghost" onClick={() => reveal(it.id)}>
                       テキストを表示
                     </button>
                   )}
                   <span className="sp" />
-                  {mode === "repeats" && <span className="hint">{it.words} 語</span>}
+                  {kindOf(it) === "repeats" && <span className="hint">{it.words} 語</span>}
                 </div>
-                {visible && mode === "short-answers" && (
+                {visible && kindOf(it) === "short-answers" && (
                   <div className="hint" style={{ paddingLeft: 59 }}>
                     答え：<b>{it.answers?.[0]}</b>
                     {it.answers && it.answers.length > 1 && `（ほかに ${it.answers.slice(1).join(" / ")}）`}

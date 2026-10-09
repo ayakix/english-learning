@@ -96,6 +96,7 @@ uv run pytest                       # バックエンドのテスト（外部 AP
 - 復唱（`repeats`）・即答（`short-answers`）・ミニマルペア（`minimal-pairs`）の例題は **Claude が書いた**。音声は ElevenLabs（復唱・即答は採用済みの声すべて、ミニマルペアは米国の声からランダム）
 - どの種類も `items.json` の各例題が `audio: {枠: {text, file}}` を持ち、`src/trainer/drills.py` が枠ごとに音声を作る。種類を足すときは `KINDS` に加える
 - 音声が無いときは `uv run trainer stock drills [種類 ...]` で作る（クレジットを使う）
+- Versant タブの「振り返り」には、`content/drills/review.json` の ids に並べた復唱・即答だけが出る。Claude が間違いの申告を受けて書き換える
 
 ### AI 教材（content/generated/）
 
