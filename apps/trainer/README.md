@@ -135,6 +135,30 @@ uv run trainer progress           # 4 技能の週ごとの平均スコア（Mar
 - `ELEVENLABS_MODEL` … 既定 `eleven_v4_turbo`。`eleven_v4`（最高品質）/ `eleven_flash_v2_5`（高速・安価）。変えると、同じ文章でも手本音声を作り直します
 - `PRACTICE_DIR` … 練習ログの保存先を変えたいとき（既定はリポジトリ直下の `practice`）
 
+## 外出先から使う
+
+Cloudflare Tunnel で手元の Mac のサーバーを公開し、Cloudflare Access（メールのワンタイム PIN）で本人だけ入れるようにしています。設計と理由は [docs/remote-access.md](docs/remote-access.md)。
+
+- 公開の URL（ホスト名）は公開リポジトリには書かない。cloudflared の設定は `~/.cloudflared/` にあります
+- 外から画面を使っている間は、1 分ごとに `practice/activity/YYYY/MM/YYYY-MM-DD.json` に時刻が残り、`trainer summary` の「外からの練習」に出ます（手元の操作は記録しない）
+- 全レスポンスに `X-Robots-Tag: noindex` を付け、`robots.txt` で全拒否しています
+- 常駐の起動には `serve.sh` を使います（画面が古ければビルドしてからサーバーを起動）。コードを変えたら再起動しないと外の画面に反映されません
+
+初回の準備（Mac 側）：
+
+```sh
+brew install cloudflared
+cloudflared tunnel login                 # ブラウザでドメインを選ぶ
+cloudflared tunnel create trainer
+# ~/.cloudflared/config.yml に ingress（<hostname> → http://localhost:8765）を書く
+cloudflared tunnel route dns trainer <hostname>
+cloudflared service install              # ログイン時に tunnel を上げる（LaunchAgent）
+```
+
+- `cloudflared service install` が作る `~/Library/LaunchAgents/com.cloudflare.cloudflared.plist` には起動の引数が入らないので、ProgramArguments に `tunnel` `run` `trainer` を足してから `launchctl bootstrap gui/$(id -u) <plist>` で読み込み直す
+
+Cloudflare の Zero Trust ダッシュボード → Access → Applications に Self-hosted のアプリを作り、Session Duration を 1 month、Policy を自分のメール 1 件だけ Allow にします。ログイン方法は Integrations → Identity providers で One-time PIN を追加しておきます（追加しないと、Cloudflare アカウントでのログインしか出ない）。
+
 ## 終了
 
 ターミナルのウィンドウで `Ctrl + C`、またはウィンドウを閉じる。

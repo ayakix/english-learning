@@ -49,6 +49,9 @@ curriculum/roadmap.md の「1 日・1 週間の型」に沿って、今日やる
 - 場所：`journal/YYYY/MM/YYYY-MM-DD.md`（1 日 1 ファイル）
 - セッション中も適宜上書きして最新の状態に保ち、「終了」の合図で最終版にする
 - `total_minutes` は sessions の合計。end が未確定のセッションは集計に含めない
+- 外出先から（Cloudflare 経由で）trainer を使った時間は `trainer summary` の「## 外からの練習」に出る。journal を仕上げるときに sessions へ `{ start: "HH:MM", end: "HH:MM", source: remote }` で書き、total_minutes に含める
+  - claude-code のセッションと時間が重なったら、重なった分は数えない
+  - 開始の合図・その日最初のセッションのときは、前回の journal より後の日付で `practice/activity/` に記録がある日を探す。外で練習しただけで journal が無い日は、journal を作って転記する
 - 後でブログ（Learning in public）に使うため、「何を決めたか / どう進めたか」も残す
 
 フォーマット：

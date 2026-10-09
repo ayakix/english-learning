@@ -23,3 +23,21 @@
 ## 2026-10-05（Versant 即答）
 
 - the opposite of "early" → **late**（later と答えた）：反対語は同じ形で返す。later は earlier の反対
+
+## 2026-10-06（Versant 復唱）
+
+- **plenty of** ～：たっぷりの～（a lot of より「余裕がある」感じ）。Don't worry, we have plenty of time.
+- 比較の形＋**than I expected**：思っていたより～。The concert was louder than I expected.
+
+## 2026-10-06（スピーキングテスト）
+
+- **be 動詞が抜ける**：There **are** a lot of books / Some people **are** in line / a boy **is** watching him
+- This photo **shows** ～（takes ではない）。または This picture was taken in ～
+- **at** the table：席について読む・作業する
+- **bread** は数えない（breads ではない）
+- 手前の男性：**the man in front** / in the foreground
+- 紙で包む：**wrap** ～ in paper（cover ではない）
+- 付箋：Post-it **notes** / sticky notes。天井の飾り：**decorations**
+| 2026-10-07 | （sides を「角」と思った）How many sides does a triangle have?（即答 sa056） | three | side ＝辺。角は corner、角度は angle |
+| 2026-10-07 | （shell が出てこない）What do you call the hard outside part of an egg?（即答 sa057） | the shell | 卵の殻 ＝ shell（eggshell）。貝殻も shell |
+| 2026-10-07 | rarely（the opposite of "always"? 即答 sa059） | never | rarely（めったに〜ない）は「ほぼ never」で、反対語ではない |

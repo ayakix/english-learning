@@ -2,6 +2,7 @@ import { useEffect, useState, type ReactNode } from "react";
 import { api } from "./api";
 import { KeysDialog, SettingsDialog } from "./components/Dialogs";
 import { Kbd } from "./components/common";
+import { useActivity } from "./hooks/useActivity";
 import { AppContext } from "./hooks/useApp";
 import { PageActive, useHotkeys } from "./hooks/useHotkeys";
 import { useSettings } from "./hooks/useSettings";
@@ -41,12 +42,18 @@ export default function App() {
   const [voices, setVoices] = useState<Voice[] | null>(null);
   const [tab, setTab] = useState(tabFromHash);
   const [dialog, setDialog] = useState<"settings" | "keys" | null>(null);
+  useActivity();
 
   useEffect(() => {
     const onHash = () => setTab(tabFromHash());
     window.addEventListener("hashchange", onHash);
     return () => window.removeEventListener("hashchange", onHash);
   }, []);
+
+  // スマホ幅ではタブが横スクロールになるので、選んだタブが隠れないように見える位置まで動かす
+  useEffect(() => {
+    document.querySelector(".tabs a.on")?.scrollIntoView({ block: "nearest", inline: "nearest" });
+  }, [tab]);
 
   useEffect(() => {
     (async () => {

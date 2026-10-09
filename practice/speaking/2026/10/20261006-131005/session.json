@@ -1,0 +1,878 @@
+{
+  "id": "20261006-131005",
+  "skill": "speaking",
+  "created": "2026-10-06 13:10",
+  "title": "People reading in a cozy bookstore with shelves of books",
+  "result": {
+    "score": 62,
+    "details": {
+      "description": 62,
+      "recordings": 10,
+      "pronunciation": 71,
+      "fluency": 68,
+      "intonation": 70,
+      "completeness": 83,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 72
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1783265452807-2c32c5c21913?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MTh8fGxpYnJhcnklMjBwZW9wbGUlMjByZWFkaW5nfGVufDF8MHx8fDE3OTEwNDMzODB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Jinsheng Bian",
+      "profile": "https://unsplash.com/@jinshengbian?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/people-reading-in-a-cozy-bookstore-with-shelves-of-books-Ak4j0JRt3ZE?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "People reading in a cozy bookstore with shelves of books"
+    }
+  },
+  "attempts": [
+    {
+      "time": "13:12:29",
+      "text": "This photo takes a Chinese library. There a lot of of books. People are reading books on the table. On the right, that's right side, lot of, there a lot of Post-it, and on the left side, some arrangement.",
+      "score": 62
+    }
+  ],
+  "correction": {
+    "corrected": "This photo shows a Chinese library. There are a lot of books. People are reading books at the table. On the right side, there are a lot of Post-it notes, and on the left side, there are some decorations.",
+    "corrections": [
+      {
+        "before": "This photo takes",
+        "after": "This photo shows",
+        "reason_ja": "写真そのものを主語にする場合、takes ではなく shows や was taken in を用います。"
+      },
+      {
+        "before": "There a lot of of books",
+        "after": "There are a lot of books",
+        "reason_ja": "be動詞の are が抜けており、前置詞 of が重複しています。"
+      },
+      {
+        "before": "on the table",
+        "after": "at the table",
+        "reason_ja": "テーブルの席について作業や読書をする時は、前置詞 at を使います。"
+      },
+      {
+        "before": "Post-it",
+        "after": "Post-it notes",
+        "reason_ja": "Post-it 単体よりも Post-it notes または sticky notes（付箋）と名詞形で表すのが自然です。"
+      },
+      {
+        "before": "some arrangement",
+        "after": "some decorations",
+        "reason_ja": "天井からの飾りなどを表現したい場合は decorations や ornaments を用います。"
+      }
+    ],
+    "ideal": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+    "key_expressions": [
+      {
+        "en": "cozy library or a book cafe",
+        "ja": "居心地の良い図書館やブックカフェ"
+      },
+      {
+        "en": "a round bookshelf full of books",
+        "ja": "本でいっぱいの円形の本棚"
+      },
+      {
+        "en": "be covered with ~",
+        "ja": "〜で覆われている"
+      },
+      {
+        "en": "sit at tables",
+        "ja": "テーブル席に座る"
+      },
+      {
+        "en": "hang from the ceiling",
+        "ja": "天井から吊るされている"
+      }
+    ],
+    "feedback_ja": "場所（図書館）、本、読書する人々、付箋など、写真の要点をしっかり拾って描写できています。「This photo shows ~」や「There is/are ~」などの基本定型文で主語と動詞を落とさずに言い切る練習を最優先しましょう。また「全体の場所→中央（丸い本棚）→左右（人々や付箋）→奥・天井」のように視線の動かし方を決めておくと、途中で言葉に詰まりにくくなります。",
+    "score": 62,
+    "original": "This photo takes a Chinese library. There a lot of of books. People are reading books on the table. On the right, that's right side, lot of, there a lot of Post-it, and on the left side, some arrangement.",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_13d4f5471ab6.mp3",
+    "text": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+    "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture shows the inside of a cozy library or a book cafe.",
+        "start": 0.0,
+        "end": 4.36
+      },
+      {
+        "text": "In the middle, there is a round bookshelf full of books.",
+        "start": 4.64,
+        "end": 8.0
+      },
+      {
+        "text": "On the right, a tall shelf is covered with many colorful notes.",
+        "start": 8.08,
+        "end": 12.16
+      },
+      {
+        "text": "On the left, several people are sitting at tables and reading or studying.",
+        "start": 12.24,
+        "end": 16.64
+      },
+      {
+        "text": "Red paper decorations are hanging from the ceiling.",
+        "start": 16.72,
+        "end": 19.6
+      },
+      {
+        "text": "Through the large window, we can see green trees outside.",
+        "start": 19.68,
+        "end": 22.88
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.14,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.16,
+        "e": 0.514,
+        "i": 0
+      },
+      {
+        "t": "shows",
+        "s": 0.56,
+        "e": 0.832,
+        "i": 0
+      },
+      {
+        "t": "the",
+        "s": 0.88,
+        "e": 1.013,
+        "i": 0
+      },
+      {
+        "t": "inside",
+        "s": 1.04,
+        "e": 1.6,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 1.68,
+        "e": 1.72,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.76,
+        "e": 1.84,
+        "i": 0
+      },
+      {
+        "t": "cozy",
+        "s": 1.92,
+        "e": 2.24,
+        "i": 0
+      },
+      {
+        "t": "library",
+        "s": 2.4,
+        "e": 2.96,
+        "i": 0
+      },
+      {
+        "t": "or",
+        "s": 3.04,
+        "e": 3.28,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 3.36,
+        "e": 3.4,
+        "i": 0
+      },
+      {
+        "t": "book",
+        "s": 3.44,
+        "e": 3.6,
+        "i": 0
+      },
+      {
+        "t": "cafe.",
+        "s": 3.68,
+        "e": 4.36,
+        "i": 0
+      },
+      {
+        "t": "In",
+        "s": 4.64,
+        "e": 4.72,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 4.8,
+        "e": 4.88,
+        "i": 1
+      },
+      {
+        "t": "middle,",
+        "s": 5.04,
+        "e": 5.36,
+        "i": 1
+      },
+      {
+        "t": "there",
+        "s": 5.44,
+        "e": 5.52,
+        "i": 1
+      },
+      {
+        "t": "is",
+        "s": 5.56,
+        "e": 5.6,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 5.68,
+        "e": 5.72,
+        "i": 1
+      },
+      {
+        "t": "round",
+        "s": 5.76,
+        "e": 6.08,
+        "i": 1
+      },
+      {
+        "t": "bookshelf",
+        "s": 6.16,
+        "e": 6.72,
+        "i": 1
+      },
+      {
+        "t": "full",
+        "s": 6.84,
+        "e": 6.96,
+        "i": 1
+      },
+      {
+        "t": "of",
+        "s": 7.04,
+        "e": 7.12,
+        "i": 1
+      },
+      {
+        "t": "books.",
+        "s": 7.2,
+        "e": 8.0,
+        "i": 1
+      },
+      {
+        "t": "On",
+        "s": 8.08,
+        "e": 8.16,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 8.2,
+        "e": 8.24,
+        "i": 2
+      },
+      {
+        "t": "right,",
+        "s": 8.32,
+        "e": 8.88,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 8.96,
+        "e": 9.04,
+        "i": 2
+      },
+      {
+        "t": "tall",
+        "s": 9.08,
+        "e": 9.28,
+        "i": 2
+      },
+      {
+        "t": "shelf",
+        "s": 9.44,
+        "e": 9.68,
+        "i": 2
+      },
+      {
+        "t": "is",
+        "s": 9.76,
+        "e": 9.84,
+        "i": 2
+      },
+      {
+        "t": "covered",
+        "s": 9.92,
+        "e": 10.16,
+        "i": 2
+      },
+      {
+        "t": "with",
+        "s": 10.28,
+        "e": 10.4,
+        "i": 2
+      },
+      {
+        "t": "many",
+        "s": 10.48,
+        "e": 10.72,
+        "i": 2
+      },
+      {
+        "t": "colorful",
+        "s": 10.8,
+        "e": 11.2,
+        "i": 2
+      },
+      {
+        "t": "notes.",
+        "s": 11.28,
+        "e": 12.16,
+        "i": 2
+      },
+      {
+        "t": "On",
+        "s": 12.24,
+        "e": 12.32,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 12.36,
+        "e": 12.4,
+        "i": 3
+      },
+      {
+        "t": "left,",
+        "s": 12.48,
+        "e": 13.12,
+        "i": 3
+      },
+      {
+        "t": "several",
+        "s": 13.2,
+        "e": 13.44,
+        "i": 3
+      },
+      {
+        "t": "people",
+        "s": 13.52,
+        "e": 13.76,
+        "i": 3
+      },
+      {
+        "t": "are",
+        "s": 13.88,
+        "e": 14.0,
+        "i": 3
+      },
+      {
+        "t": "sitting",
+        "s": 14.08,
+        "e": 14.24,
+        "i": 3
+      },
+      {
+        "t": "at",
+        "s": 14.28,
+        "e": 14.32,
+        "i": 3
+      },
+      {
+        "t": "tables",
+        "s": 14.4,
+        "e": 14.8,
+        "i": 3
+      },
+      {
+        "t": "and",
+        "s": 14.88,
+        "e": 14.96,
+        "i": 3
+      },
+      {
+        "t": "reading",
+        "s": 15.16,
+        "e": 15.36,
+        "i": 3
+      },
+      {
+        "t": "or",
+        "s": 15.44,
+        "e": 15.6,
+        "i": 3
+      },
+      {
+        "t": "studying.",
+        "s": 15.68,
+        "e": 16.64,
+        "i": 3
+      },
+      {
+        "t": "Red",
+        "s": 16.72,
+        "e": 16.88,
+        "i": 4
+      },
+      {
+        "t": "paper",
+        "s": 16.96,
+        "e": 17.28,
+        "i": 4
+      },
+      {
+        "t": "decorations",
+        "s": 17.4,
+        "e": 17.92,
+        "i": 4
+      },
+      {
+        "t": "are",
+        "s": 18.0,
+        "e": 18.08,
+        "i": 4
+      },
+      {
+        "t": "hanging",
+        "s": 18.16,
+        "e": 18.4,
+        "i": 4
+      },
+      {
+        "t": "from",
+        "s": 18.48,
+        "e": 18.56,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 18.6,
+        "e": 18.64,
+        "i": 4
+      },
+      {
+        "t": "ceiling.",
+        "s": 18.72,
+        "e": 19.6,
+        "i": 4
+      },
+      {
+        "t": "Through",
+        "s": 19.68,
+        "e": 19.76,
+        "i": 5
+      },
+      {
+        "t": "the",
+        "s": 19.84,
+        "e": 19.92,
+        "i": 5
+      },
+      {
+        "t": "large",
+        "s": 20.04,
+        "e": 20.16,
+        "i": 5
+      },
+      {
+        "t": "window,",
+        "s": 20.24,
+        "e": 20.8,
+        "i": 5
+      },
+      {
+        "t": "we",
+        "s": 20.84,
+        "e": 20.88,
+        "i": 5
+      },
+      {
+        "t": "can",
+        "s": 20.96,
+        "e": 21.12,
+        "i": 5
+      },
+      {
+        "t": "see",
+        "s": 21.2,
+        "e": 21.28,
+        "i": 5
+      },
+      {
+        "t": "green",
+        "s": 21.44,
+        "e": 21.6,
+        "i": 5
+      },
+      {
+        "t": "trees",
+        "s": 21.76,
+        "e": 22.08,
+        "i": 5
+      },
+      {
+        "t": "outside.",
+        "s": 22.32,
+        "e": 22.88,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+      "time": "13:15:54",
+      "evaluation": {
+        "heard": "This picture shows inside of a cozy library or book cafe. In the middle, there a round bookshelf full of books. On the right, the tall shelf covered with many colorful notes. On the left, several people sitting at table and reading or studying. Red paper decorations hanging from the ceiling. Through the large window...",
+        "overall": 68,
+        "pronunciation": 68,
+        "fluency": 67,
+        "intonation": 68,
+        "completeness": 74,
+        "word_issues": [
+          {
+            "word": "library",
+            "problem_ja": "発音につまずいてしまい、「ライブラリ」の音が崩れて聞き取りにくくなりました。",
+            "tip_ja": "アメリカ英語では /ˈlaɪ.brer.i/（ライ・ブレ・リ）と3音節を意識し、1つ目のrで舌を引いた後、2つ目のrも軽く引いて滑らかに繋げましょう。"
+          },
+          {
+            "word": "there is a / is covered / are sitting",
+            "problem_ja": "be動詞（is, are）や冠詞（the）が脱落して聞き取れませんでした。",
+            "tip_ja": "シャドーイングのスピードに追いつこうとして機能語（is, are, the）を省略しがちです。弱形（/z/, /ə/）として省かずに短く軽く発音する感覚を掴みましょう。"
+          },
+          {
+            "word": "ceiling",
+            "problem_ja": "「セーリング」のように母音 /iː/ が短く /eɪ/ や /e/ 寄りに聞こえ、L音も曖昧でした。",
+            "tip_ja": "出だしの母音は唇を横にしっかり引いて「シー」(/siː/)と伸ばします。/l/ は舌先を上前歯の付け根にしっかりつけて「スィー・リン(グ)」と発音しましょう。"
+          },
+          {
+            "word": "tables",
+            "problem_ja": "語尾の複数形 -s が抜け、「table」と単数形に聞こえました。",
+            "tip_ja": "英語では単複の区別が意味上重要です。語尾の /z/ の音を軽く舌先を歯茎に近づけて摩擦音を残しましょう。"
+          },
+          {
+            "word": "we can see green trees outside",
+            "problem_ja": "最後の文の後半節言及されずに録音が終了してしまいました。",
+            "tip_ja": "前半でテンポが崩れた影響が最後に響いた可能性があります。ブレスコントロールとペース配分を意識して最後まで言い切りましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに一生懸命食らいついて発話を続けようとするリズム感が素晴らしいです。",
+          "book cafe や round bookshelf などの名詞句の子音の立ち上がりが比較的明瞭でした。"
+        ],
+        "improvements_ja": [
+          "スピードに追いつくために be動詞（is, are）や冠詞（the）を省略しないよう、弱音（弱形）で素早く添える練習をしましょう。",
+          "library や ceiling など、音節が複数ある単語で母音や子音が崩れないよう、一度速度を落として単語ごとの口の形を確認しましょう。",
+          "最後まで息を切らさず文末「we can see green trees outside」まで言い切れるペース配分・息継ぎを意識しましょう。"
+        ],
+        "summary_ja": "モデル音声のテンポに食らいついて影のように追従できていますが、追いつくために be動詞や冠詞が抜け落ちてしまい、最後の節が言い切れませんでした。また、つまずきやすい library などの語でリズムが乱れる傾向があります。まずは少し低速で細部（弱形や複数形の語尾）を正確に言う練習をしてから、通常速度に戻すのがおすすめです。"
+      }
+    },
+    {
+      "n": 2,
+      "file": "rec_002.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+      "time": "13:19:53",
+      "evaluation": null
+    },
+    {
+      "n": 3,
+      "file": "rec_003.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+      "time": "13:20:29",
+      "evaluation": null
+    },
+    {
+      "n": 4,
+      "file": "rec_004.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+      "time": "13:20:56",
+      "evaluation": {
+        "heard": "This picture shows the inside of a cozy library or a book cafe. In the middle, there round bookshelf full of books. On the right, the tall shelf is covered with many colorful notes. On the left, several people are sitting at the table and reading and or studying. Red paper decorations hanging from the ceiling. From the large window, we can see green trees outside.",
+        "overall": 65,
+        "pronunciation": 62,
+        "fluency": 66,
+        "intonation": 64,
+        "completeness": 88,
+        "word_issues": [
+          {
+            "word": "library",
+            "problem_ja": "LとRの区別が曖昧で「ライバリー（rarary）」のように聞こえ、音節が崩れています。",
+            "tip_ja": "出だしの L は舌先を上前歯の付け根の歯茎にしっかり当てて「ラ」、真ん中の brary は唇を少しすぼめて舌を引いた R の位置で発音し、「ライ・ブレ・リー」と段階を意識しましょう。"
+          },
+          {
+            "word": "round",
+            "problem_ja": "二重母音 /aʊ/ が弱く、「ランド (rand)」のように平坦に聞こえました。",
+            "tip_ja": "「ア」から唇をしっかり丸めて「ウ」へ移行する二重母音です。「ラ→ウン→ド」と口を大きく動かしてから小さくすぼめましょう。"
+          },
+          {
+            "word": "hanging",
+            "problem_ja": "母音と子音が崩れ、「hugging（ハギング）」のように短く詰まって聞こえました。",
+            "tip_ja": "母音は口を縦横に大きく開く /æ/（エとアの中間）です。喉の奥に鼻音を通す /ŋ/ を意識して「ハェン・ギング」と息を鼻に抜いてみてください。"
+          },
+          {
+            "word": "Through",
+            "problem_ja": "「Through」ではなく「From」と言い換えてしまっているか、/θr/ の音が抜けています。",
+            "tip_ja": "舌先を上下の前歯で軽く挟んで息を出す /θ/ から、すぐに舌を後ろに引いて丸める /r/ へ繋ぐ難所です。ゆっくり「ス・ルー」の連結を単体で練習しましょう。"
+          },
+          {
+            "word": "there is a",
+            "problem_ja": "「there round」のように機能語（is a）が脱落し、音が途切れていました。",
+            "tip_ja": "シャドーイングで急ぎがちですが、「ゼア・イズ・ア」を「ゼアリーズ・ア /ðɛrɪzə/」とリンクさせて一息で流す感覚を持つと脱落を防げます。"
+          },
+          {
+            "word": "trees",
+            "problem_ja": "文末直前で「ティー・リーズ」のように詰まりや迷いが生じました。",
+            "tip_ja": "TR は「チュ」に近い摩擦を伴う音になります。舌を上あごにつけた位置から引いて「チュリーズ」と一息で発音してください。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに大きく遅れず、最後まで食らいついて発話できています。",
+          "「inside of a」「full of」など、前置詞が絡むフレーズのリズム感がスムーズです。"
+        ],
+        "improvements_ja": [
+          "二重母音（roundの /aʊ/ など）や広母音（hangingの /æ/）を平坦にせず、口の形を大きく変化させること。",
+          "急ぎすぎて機能語（there is a, are など）を飛ばさないよう、弱形でのリンキング（連結）を意識すること。",
+          "LとRの舌の位置の切り替え（特に library や through）を単語単位で丁寧に練習すること。"
+        ],
+        "summary_ja": "モデル音声のテンポについていこうとする意欲が高く、全体的な発話の勢いはとても良好です。一方でスピードに追われるあまり、単語の脱落やL/R・母音の曖昧化が見られるため、まずは少し速度を落として一語一語の口のフォームとリンキングを定着させましょう。"
+      }
+    },
+    {
+      "n": 5,
+      "file": "rec_005.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+      "time": "13:24:52",
+      "evaluation": null
+    },
+    {
+      "n": 6,
+      "file": "rec_006.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+      "time": "13:25:34",
+      "evaluation": {
+        "heard": "This picture shows inside of a cozy library or cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at table and reading or studying. Red decoration is hanging from the ceiling. Through the large window we can see green...",
+        "overall": 62,
+        "pronunciation": 63,
+        "fluency": 58,
+        "intonation": 60,
+        "completeness": 70,
+        "word_issues": [
+          {
+            "word": "cozy",
+            "problem_ja": "「コージー」の /z/ 音が弱く、「coffee」のように摩擦音や息が抜けて聞こえました。",
+            "tip_ja": "舌先を上の前歯裏の歯茎に近づけ、喉を震わせて「ズー」と鋭く摩擦音を出します。"
+          },
+          {
+            "word": "reading",
+            "problem_ja": "文頭の /r/ が弱く、舌が上あごについて「leading」寄りに聞こえました。",
+            "tip_ja": "発音前に唇を丸めて「ウ」の口を作り、舌先をどこにも触れさせずに喉の奥から「ゥリーディング」と引き出しましょう。"
+          },
+          {
+            "word": "paper decorations",
+            "problem_ja": "「paper」が抜け落ち、「decorations」の発音も崩れてつぶれてしまっています。",
+            "tip_ja": "急がずに音節を意識し、「ペイ・パー・デ・カ・レイ・ションズ」とリズムに乗せてはっきり発音しましょう。"
+          },
+          {
+            "word": "ceiling",
+            "problem_ja": "出だしの /s/ が弱く、息が乱れて不明瞭になっています。",
+            "tip_ja": "歯を軽く閉じ、舌先を前歯裏近くに置いて「スィー」と強めの気流を出してから /l/ につなげます。"
+          },
+          {
+            "word": "trees outside",
+            "problem_ja": "文末の「trees outside」が完全に脱落して聞き取れませんでした。",
+            "tip_ja": "息継ぎが苦しくなって最後の単語が消えています。直前の句読点で短く息を吸い、最後まで息を残して言い切りましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "前半（This picture shows... から colorful notes あたり）はモデル音声のスピードをよく意識して食らいつけています。",
+          "「bookshelf full of books」の連結など、自然なリズムを意識しようとする姿勢が見られます。"
+        ],
+        "improvements_ja": [
+          "後半にかけて息切れして脱落（paper、trees outsideなど）が起きたため、文の切れ目（カンマ）での瞬間的なブレスを練習しましょう。",
+          "/r/ と /l/ の使い分け（reading、libraryなど）で舌先が上あごにつかないよう意識してください。",
+          "スピードを追うあまり子音が潰れないよう、まずは0.8〜0.9倍速などで正確に口を動かす練習を取り入れてみてください。"
+        ],
+        "summary_ja": "前半はリズムよく追従できていますが、後半になるにつれて単語の脱落や崩れが目立ち、文末の単語が言い切れずに終わってしまいました。まずは少しテンポを落として各単語の子音と音節をはっきり言えるようにし、ブレスの位置を確保しながら最後まで言い切る練習を重ねましょう。"
+      }
+    },
+    {
+      "n": 7,
+      "file": "rec_007.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+      "time": "13:29:57",
+      "evaluation": null
+    },
+    {
+      "n": 8,
+      "file": "rec_008.wav",
+      "seg": "5",
+      "mode": "overlap",
+      "reference": "Through the large window, we can see green trees outside.",
+      "time": "13:31:13",
+      "evaluation": null
+    },
+    {
+      "n": 9,
+      "file": "rec_009.wav",
+      "seg": "5",
+      "mode": "overlap",
+      "reference": "Through the large window, we can see green trees outside.",
+      "time": "13:31:19",
+      "evaluation": null
+    },
+    {
+      "n": 10,
+      "file": "rec_010.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+      "time": "13:31:49",
+      "evaluation": {
+        "heard": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the light, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables ... and studying or reading. The red ... decoration is hanging from the ceiling. Through the large window, we can see green trees outside.",
+        "overall": 72,
+        "pronunciation": 71,
+        "fluency": 68,
+        "intonation": 70,
+        "completeness": 83,
+        "word_issues": [
+          {
+            "word": "right",
+            "problem_ja": "舌先が上あごについて「light」のように聞こえました。",
+            "tip_ja": "英語の/r/は舌先をどこにも触れさせず、舌の両側を上の奥歯につけて中央に空間を作り、少し口をすぼめて響かせます。"
+          },
+          {
+            "word": "This / Through",
+            "problem_ja": "語頭のthの摩擦音が弱く、「This」が「Dis」のように破裂音寄りに聞こえました。",
+            "tip_ja": "上下の前歯で舌先を軽く挟む（または舌先を上の前歯の裏にしっかり当てる）位置から、息をすき間から漏らしながら声を出しましょう。"
+          },
+          {
+            "word": "Red paper decorations are",
+            "problem_ja": "モデル音声に追いつけず、「paper」が抜け、「The red ... decoration is」と文構造が崩れてしまいました。",
+            "tip_ja": "Red・pa-・dec- の強勢音節だけをリズムの拍に合わせて先に口を準備し、機能語（are）は軽く脱力して添える意識を持ちましょう。"
+          },
+          {
+            "word": "bookshelf full of",
+            "problem_ja": "子音の連続で余計な母音「ウ」が入りやすく、音が途切れがちになりました。",
+            "tip_ja": "bookshelfの語末/f/から次のfullの/f/へは、下唇に上前歯を当てた構えのままスムーズに音をつなげ、「shelf-full-of（シェウフフラヴ）」のように流れるように発音します。"
+          },
+          {
+            "word": "reading or studying",
+            "problem_ja": "語順に迷いが生じて「... and studying or reading」と詰まってしまいました。",
+            "tip_ja": "シャドーイング前にテキストの語順と意味のかたまり（チャンク）を音読で口になじませておくと、テンポを崩さず言えるようになります。"
+          }
+        ],
+        "good_points_ja": [
+          "前半（cozy library〜bookshelfあたり）はモデル音声のスピードにしっかり食らいついてリズム良く発声できています。",
+          "「Through the large window, we can see green trees outside」の文末のピッチの落とし方や文全体の響きが自然でした。"
+        ],
+        "improvements_ja": [
+          "RとLの使い分け（特に「right」で舌先が上について「light」にならないよう注意）を徹底すること。",
+          "詰まりやすい「sitting at tables and reading...」「Red paper decorations...」の部分を個別にリピート練習し、口の筋肉を慣らすこと。",
+          "THの音（This, Through, the）で舌先を正しく使って摩擦音を作ること。"
+        ],
+        "summary_ja": "前半はテンポ良く安定してモデルについていけており、発声もしっかりしていました。中盤の複雑な語順や複数形・前置詞の連続で少し崩れてしまったため、つまずいた箇所を部分的にゆっくり練習してから再度通しで重ねるとさらに完成度が高まります。"
+      }
+    }
+  ],
+  "test": {
+    "stock_id": "sp050",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture shows the inside of a cozy library or a book cafe. In the middle, there is a round bookshelf full of books. On the right, a tall shelf is covered with many colorful notes. On the left, several people are sitting at tables and reading or studying. Red paper decorations are hanging from the ceiling. Through the large window, we can see green trees outside.",
+    "answer": "This photo takes a Chinese library. There a lot of of books. People are reading books on the table. On the right, that's right side, lot of, there a lot of Post-it, and on the left side, some arrangement.",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 62,
+      "content": 65,
+      "grammar": 55,
+      "vocabulary": 60,
+      "delivery": 58,
+      "corrected": "This photo shows a Chinese library. There are a lot of books. People are reading books at the table. On the right side, there are a lot of Post-it notes, and on the left side, there are some decorations.",
+      "corrections": [
+        {
+          "before": "This photo takes",
+          "after": "This photo shows",
+          "reason_ja": "写真そのものを主語にする場合、takes ではなく shows や was taken in を用います。"
+        },
+        {
+          "before": "There a lot of of books",
+          "after": "There are a lot of books",
+          "reason_ja": "be動詞の are が抜けており、前置詞 of が重複しています。"
+        },
+        {
+          "before": "on the table",
+          "after": "at the table",
+          "reason_ja": "テーブルの席について作業や読書をする時は、前置詞 at を使います。"
+        },
+        {
+          "before": "Post-it",
+          "after": "Post-it notes",
+          "reason_ja": "Post-it 単体よりも Post-it notes または sticky notes（付箋）と名詞形で表すのが自然です。"
+        },
+        {
+          "before": "some arrangement",
+          "after": "some decorations",
+          "reason_ja": "天井からの飾りなどを表現したい場合は decorations や ornaments を用います。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "cozy library or a book cafe",
+          "ja": "居心地の良い図書館やブックカフェ"
+        },
+        {
+          "en": "a round bookshelf full of books",
+          "ja": "本でいっぱいの円形の本棚"
+        },
+        {
+          "en": "be covered with ~",
+          "ja": "〜で覆われている"
+        },
+        {
+          "en": "sit at tables",
+          "ja": "テーブル席に座る"
+        },
+        {
+          "en": "hang from the ceiling",
+          "ja": "天井から吊るされている"
+        }
+      ],
+      "feedback_ja": "場所（図書館）、本、読書する人々、付箋など、写真の要点をしっかり拾って描写できています。「This photo shows ~」や「There is/are ~」などの基本定型文で主語と動詞を落とさずに言い切る練習を最優先しましょう。また「全体の場所→中央（丸い本棚）→左右（人々や付箋）→奥・天井」のように視線の動かし方を決めておくと、途中で言葉に詰まりにくくなります。"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 Claude が journal と mistakes を仕上げるときの材料にする（CLAUDE.md 参照）。
 session.json を直接読ませるより、要点だけに絞った方が転記の漏れや読み違いが少ない。
 """
-from . import storage
+from . import activity, storage
 from .progress import SKILL_JA
 
 MODE_JA = {"overlap": "シャドーイング", "repeat": "リピート"}
@@ -139,6 +139,13 @@ def render(date: str) -> str:
                 s["created"][11:], s.get("title", ""), "-" if score is None else score, skill, s["id"][:4], s["id"][4:6], s["id"]),
                 ""]
             out += RENDER[skill](s) + [""]
+    # 外からの練習は Claude Code のセッションに含まれないので、journal の sessions に転記する材料として出す
+    remote = activity.sessions(date)
+    if remote:
+        found = True
+        out += ["## 外からの練習", ""]
+        out += ["- %s–%s（%d 分）" % (r["start"], r["end"], r["minutes"]) for r in remote]
+        out.append("")
     if not found:
         out.append("練習の記録はありません。")
     return "\n".join(out) + "\n"

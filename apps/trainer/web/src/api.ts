@@ -46,6 +46,11 @@ export const api = {
   voices: () => call<Voice[]>("/api/voices"),
   sessions: (skill: Skill) => call<SessionSummary[]>(`/api/${skill}/sessions`),
   progress: () => call<{ points: ProgressPoint[]; weeks: ProgressWeek[] }>("/api/progress"),
+  // 204 で本文が無いので call() を通さない（call は JSON の本文を前提にしている）
+  activity: async () => {
+    const r = await fetch("/api/activity", { method: "POST" });
+    if (!r.ok) throw new Error(r.statusText);
+  },
 
   speaking: {
     get: (sid: string) => call<Session>(sp(sid)),

@@ -1,9 +1,9 @@
 """FastAPI サーバー：技能ごとのルーターをまとめ、共通の API・練習ファイル・画面を配信する"""
 from fastapi import FastAPI, Request
-from fastapi.responses import FileResponse, JSONResponse
+from fastapi.responses import FileResponse, JSONResponse, Response
 from fastapi.staticfiles import StaticFiles
 
-from . import drills, elevenlabs, gemini, linking, listening, photos, progress, reading, speaking, storage, voa, writing
+from . import activity, drills, elevenlabs, gemini, linking, listening, photos, progress, reading, speaking, storage, voa, writing
 from .config import WEB_DIST, settings
 from .http import ApiError
 
@@ -18,11 +18,28 @@ def _api_error(_: Request, e: ApiError):
     return JSONResponse({"error": str(e)}, status_code=status)
 
 
+@app.middleware("http")
+async def _noindex(request: Request, call_next):
+    # 外へは Cloudflare Access 越しに公開している。bot はログイン画面で止まるが、保険として
+    # 検索エンジンに載せない指示を全レスポンスに付ける（手元の localhost に付いても害はない）
+    response = await call_next(request)
+    response.headers["X-Robots-Tag"] = "noindex, nofollow"
+    return response
+
+
 @app.get("/api/config")
 def get_config():
     return {"gemini": bool(settings.gemini_key), "elevenlabs": bool(settings.eleven_key),
             "unsplash": bool(settings.unsplash_key), "gemini_model": gemini.current_model(),
             "eleven_model": settings.eleven_model, "default_voice": settings.eleven_voice}
+
+
+@app.post("/api/activity", status_code=204)
+def post_activity(request: Request):
+    # 手元の練習は Claude Code のセッションで数えているので、外からの通知だけ記録する
+    if request.headers.get(activity.REMOTE_HEADER):
+        activity.record()
+    return Response(status_code=204)
 
 
 @app.get("/api/voices")

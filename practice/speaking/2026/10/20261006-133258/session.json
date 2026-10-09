@@ -1,0 +1,1400 @@
+{
+  "id": "20261006-133258",
+  "skill": "speaking",
+  "created": "2026-10-06 13:32",
+  "title": "Customers waiting in line at a bakery counter",
+  "result": {
+    "score": 62,
+    "details": {
+      "description": 62,
+      "recordings": 19,
+      "pronunciation": 71,
+      "fluency": 79,
+      "intonation": 75,
+      "completeness": 93,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 75
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1772758631784-ee39316ab8e5?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MTl8fGJha2VyeSUyMHNob3AlMjBjb3VudGVyfGVufDF8MHx8fDE3OTEwNDMzODR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Yasin Onus",
+      "profile": "https://unsplash.com/@yasinonus?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/customers-waiting-in-line-at-a-bakery-counter-dPx4sPM1xZk?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "Customers waiting in line at a bakery counter"
+    }
+  },
+  "attempts": [
+    {
+      "time": "13:34:45",
+      "text": "This picture shows the inside of a bakery. Some people is in line to buy breads. The front man has paper to cover breads and the boy watching it.",
+      "score": 62
+    }
+  ],
+  "correction": {
+    "corrected": "This picture shows the inside of a bakery. Some people are in line to buy bread. The man in front has paper to wrap bread, and a boy is watching him.",
+    "corrections": [
+      {
+        "before": "Some people is in line",
+        "after": "Some people are in line",
+        "reason_ja": "people は複数扱いのため、be動詞は are を使います。"
+      },
+      {
+        "before": "buy breads",
+        "after": "buy bread",
+        "reason_ja": "bread（パン）は一般的に不可算名詞（数えられない名詞）なので、複数形の s はつけません。"
+      },
+      {
+        "before": "The front man",
+        "after": "The man in front",
+        "reason_ja": "「手前の男性」を表現する際は the man in front や the man in the foreground と言うのが自然です。"
+      },
+      {
+        "before": "to cover breads",
+        "after": "to wrap bread",
+        "reason_ja": "紙で包む動作には cover（覆う）よりも wrap（包む）が適しています。"
+      },
+      {
+        "before": "the boy watching it",
+        "after": "a boy is watching him",
+        "reason_ja": "文として成立させるために be動詞（is）が必要です。また、見ている対象は男性の手元なので him や that が自然です。"
+      }
+    ],
+    "ideal": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+    "key_expressions": [
+      {
+        "en": "in the foreground",
+        "ja": "手前に、前景に"
+      },
+      {
+        "en": "wrap ... in paper",
+        "ja": "〜を紙で包む"
+      },
+      {
+        "en": "wait in line",
+        "ja": "列に並んで待つ"
+      },
+      {
+        "en": "head scarf",
+        "ja": "頭に巻くスカーフ、ほっかむり"
+      }
+    ],
+    "feedback_ja": "ベーカリーという場所や、手前の男性の動作、列に並ぶ人々といった写真の重要ポイントを的確に捉えられています。中盤（15秒〜23秒付近）で言葉を探すための長い沈黙があったため、知っている簡単な単語で素早く言い切る練習をしましょう。また、人物の服装（knit hat や dark coat など）にも一言触れられるとさらに描写の幅が広がります。",
+    "score": 62,
+    "original": "This picture shows the inside of a bakery. Some people is in line to buy breads. The front man has paper to cover breads and the boy watching it.",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_7cddba55fd65.mp3",
+    "text": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+    "voice_id": "qxTFXDYbGcR8GaHSjczg",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture was taken inside a busy bakery.",
+        "start": 0.0,
+        "end": 3.12
+      },
+      {
+        "text": "In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter.",
+        "start": 3.68,
+        "end": 11.04
+      },
+      {
+        "text": "Behind him, several customers are waiting in line.",
+        "start": 11.68,
+        "end": 15.24
+      },
+      {
+        "text": "A woman in a head scarf is talking to the staff.",
+        "start": 15.52,
+        "end": 18.8
+      },
+      {
+        "text": "On the right, a boy is standing next to a woman with long hair.",
+        "start": 19.12,
+        "end": 23.12
+      },
+      {
+        "text": "There are menus on the wall.",
+        "start": 23.68,
+        "end": 25.52
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.24,
+        "e": 0.72,
+        "i": 0
+      },
+      {
+        "t": "was",
+        "s": 0.8,
+        "e": 0.96,
+        "i": 0
+      },
+      {
+        "t": "taken",
+        "s": 1.04,
+        "e": 1.36,
+        "i": 0
+      },
+      {
+        "t": "inside",
+        "s": 1.44,
+        "e": 1.92,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 2.0,
+        "e": 2.08,
+        "i": 0
+      },
+      {
+        "t": "busy",
+        "s": 2.16,
+        "e": 2.48,
+        "i": 0
+      },
+      {
+        "t": "bakery.",
+        "s": 2.56,
+        "e": 3.12,
+        "i": 0
+      },
+      {
+        "t": "In",
+        "s": 3.68,
+        "e": 3.72,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 3.76,
+        "e": 3.84,
+        "i": 1
+      },
+      {
+        "t": "foreground,",
+        "s": 3.92,
+        "e": 4.8,
+        "i": 1
+      },
+      {
+        "t": "an",
+        "s": 4.92,
+        "e": 5.04,
+        "i": 1
+      },
+      {
+        "t": "older",
+        "s": 5.12,
+        "e": 5.36,
+        "i": 1
+      },
+      {
+        "t": "man",
+        "s": 5.44,
+        "e": 5.76,
+        "i": 1
+      },
+      {
+        "t": "in",
+        "s": 5.84,
+        "e": 5.92,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 6.0,
+        "e": 6.08,
+        "i": 1
+      },
+      {
+        "t": "black",
+        "s": 6.16,
+        "e": 6.4,
+        "i": 1
+      },
+      {
+        "t": "knit",
+        "s": 6.48,
+        "e": 6.72,
+        "i": 1
+      },
+      {
+        "t": "hat",
+        "s": 6.8,
+        "e": 7.12,
+        "i": 1
+      },
+      {
+        "t": "and",
+        "s": 7.28,
+        "e": 7.36,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 7.44,
+        "e": 7.52,
+        "i": 1
+      },
+      {
+        "t": "dark",
+        "s": 7.68,
+        "e": 7.84,
+        "i": 1
+      },
+      {
+        "t": "coat",
+        "s": 7.92,
+        "e": 8.24,
+        "i": 1
+      },
+      {
+        "t": "is",
+        "s": 8.56,
+        "e": 8.72,
+        "i": 1
+      },
+      {
+        "t": "wrapping",
+        "s": 8.8,
+        "e": 9.2,
+        "i": 1
+      },
+      {
+        "t": "something",
+        "s": 9.4,
+        "e": 9.6,
+        "i": 1
+      },
+      {
+        "t": "in",
+        "s": 9.68,
+        "e": 9.76,
+        "i": 1
+      },
+      {
+        "t": "paper",
+        "s": 9.84,
+        "e": 10.24,
+        "i": 1
+      },
+      {
+        "t": "on",
+        "s": 10.32,
+        "e": 10.4,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 10.44,
+        "e": 10.48,
+        "i": 1
+      },
+      {
+        "t": "counter.",
+        "s": 10.56,
+        "e": 11.04,
+        "i": 1
+      },
+      {
+        "t": "Behind",
+        "s": 11.68,
+        "e": 12.08,
+        "i": 2
+      },
+      {
+        "t": "him,",
+        "s": 12.2,
+        "e": 12.64,
+        "i": 2
+      },
+      {
+        "t": "several",
+        "s": 12.72,
+        "e": 13.12,
+        "i": 2
+      },
+      {
+        "t": "customers",
+        "s": 13.2,
+        "e": 13.76,
+        "i": 2
+      },
+      {
+        "t": "are",
+        "s": 13.84,
+        "e": 14.0,
+        "i": 2
+      },
+      {
+        "t": "waiting",
+        "s": 14.2,
+        "e": 14.4,
+        "i": 2
+      },
+      {
+        "t": "in",
+        "s": 14.44,
+        "e": 14.48,
+        "i": 2
+      },
+      {
+        "t": "line.",
+        "s": 14.56,
+        "e": 15.24,
+        "i": 2
+      },
+      {
+        "t": "A",
+        "s": 15.52,
+        "e": 15.6,
+        "i": 3
+      },
+      {
+        "t": "woman",
+        "s": 15.68,
+        "e": 16.0,
+        "i": 3
+      },
+      {
+        "t": "in",
+        "s": 16.08,
+        "e": 16.16,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 16.2,
+        "e": 16.24,
+        "i": 3
+      },
+      {
+        "t": "head",
+        "s": 16.32,
+        "e": 16.48,
+        "i": 3
+      },
+      {
+        "t": "scarf",
+        "s": 16.56,
+        "e": 17.04,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 17.12,
+        "e": 17.28,
+        "i": 3
+      },
+      {
+        "t": "talking",
+        "s": 17.36,
+        "e": 17.68,
+        "i": 3
+      },
+      {
+        "t": "to",
+        "s": 17.72,
+        "e": 17.76,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 17.84,
+        "e": 17.92,
+        "i": 3
+      },
+      {
+        "t": "staff.",
+        "s": 18.0,
+        "e": 18.8,
+        "i": 3
+      },
+      {
+        "t": "On",
+        "s": 19.12,
+        "e": 19.2,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 19.28,
+        "e": 19.36,
+        "i": 4
+      },
+      {
+        "t": "right,",
+        "s": 19.44,
+        "e": 20.08,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 20.16,
+        "e": 20.24,
+        "i": 4
+      },
+      {
+        "t": "boy",
+        "s": 20.32,
+        "e": 20.64,
+        "i": 4
+      },
+      {
+        "t": "is",
+        "s": 20.72,
+        "e": 20.8,
+        "i": 4
+      },
+      {
+        "t": "standing",
+        "s": 20.88,
+        "e": 21.28,
+        "i": 4
+      },
+      {
+        "t": "next",
+        "s": 21.4,
+        "e": 21.52,
+        "i": 4
+      },
+      {
+        "t": "to",
+        "s": 21.56,
+        "e": 21.6,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 21.68,
+        "e": 21.76,
+        "i": 4
+      },
+      {
+        "t": "woman",
+        "s": 21.84,
+        "e": 22.16,
+        "i": 4
+      },
+      {
+        "t": "with",
+        "s": 22.24,
+        "e": 22.32,
+        "i": 4
+      },
+      {
+        "t": "long",
+        "s": 22.4,
+        "e": 22.64,
+        "i": 4
+      },
+      {
+        "t": "hair.",
+        "s": 22.72,
+        "e": 23.12,
+        "i": 4
+      },
+      {
+        "t": "There",
+        "s": 23.68,
+        "e": 23.84,
+        "i": 5
+      },
+      {
+        "t": "are",
+        "s": 23.92,
+        "e": 24.0,
+        "i": 5
+      },
+      {
+        "t": "menus",
+        "s": 24.08,
+        "e": 24.56,
+        "i": 5
+      },
+      {
+        "t": "on",
+        "s": 24.6,
+        "e": 24.64,
+        "i": 5
+      },
+      {
+        "t": "the",
+        "s": 24.72,
+        "e": 24.8,
+        "i": 5
+      },
+      {
+        "t": "wall.",
+        "s": 24.88,
+        "e": 25.52,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "13:38:30",
+      "evaluation": null
+    },
+    {
+      "n": 2,
+      "file": "rec_002.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "13:39:03",
+      "evaluation": null
+    },
+    {
+      "n": 3,
+      "file": "rec_003.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "13:40:43",
+      "evaluation": {
+        "heard": "This picture was taking inside a busy bakery. In the foreground, an old man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in head scarf is talking to the staff. On the right, a boy is standing next to a woman long hair. There are menus on the wall.",
+        "overall": 68,
+        "pronunciation": 65,
+        "fluency": 72,
+        "intonation": 66,
+        "completeness": 90,
+        "word_issues": [
+          {
+            "word": "taken",
+            "problem_ja": "taking（テイキング）のように語尾が -ing に聞こえました。",
+            "tip_ja": "受動態の was taken です。後半の音節は弱く曖昧母音で「クン」と息を抜くように /teɪ.kən/ と発音しましょう。"
+          },
+          {
+            "word": "older",
+            "problem_ja": "-er が抜け落ちて「old man」と発音されていました。",
+            "tip_ja": "old の後に舌先を奥に引きながら弱く /ər/ を足し、man に滑らかに繋げましょう（older man）。"
+          },
+          {
+            "word": "something",
+            "problem_ja": "th が s になり「サムシング」のカタカナ発音に近くなっています。",
+            "tip_ja": "舌先を上の前歯と下の前歯の間に軽く挟んで息を出す /θ/ を意識してください。"
+          },
+          {
+            "word": "woman",
+            "problem_ja": "出だしの /w/ が弱く「ウーマン」と日本語の母音立ち上がりになっています。",
+            "tip_ja": "唇をしっかり前に突き出してタコ口を作り、そこから一気に緩めて「ウォ/wʊ/」と発音すると英語らしいクリアな /w/ になります。"
+          },
+          {
+            "word": "right",
+            "problem_ja": "light（Lの音）寄りに聞こえました。",
+            "tip_ja": "舌先を上あごのどこにも触れさせず、喉の奥側に引いて低くこもった音から始める /r/ を意識してください。"
+          },
+          {
+            "word": "with",
+            "problem_ja": "「woman with long hair」の with が脱落していました。",
+            "tip_ja": "機能語の with は弱形 /wɪð/ で素早く添えるように発音し、次の long に滑らかに繋げましょう。"
+          },
+          {
+            "word": "menus on the wall",
+            "problem_ja": "文末で息切れし、単語がモゴモゴと不明瞭になりました。",
+            "tip_ja": "menus on は「メニューゾン」のようにリンキングさせ、最後まで一定の息の量を保って wall まで言い切りましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに大きく遅れず、最後まで食らいついて発話し続けられています。",
+          "is wrapping や waiting in line などの動詞句の進行形リズムがスムーズに出ていました。"
+        ],
+        "improvements_ja": [
+          "機能語（a, the, in, of, with など）を弱く短く、内容語（名詞・動詞）を強く長く読む「強弱のリズム（ストレス・タイミング）」を意識しましょう。",
+          "子音で終わる単語の末尾に母音（オ・ウ）を足さないよう、息を止める・抜くだけで終わらせる練習をしてください。",
+          "語尾の脱落や言い間違い（older → old、taken → taking）を防ぐため、モデル音声をよく聞きながらテキストの細部にも目を配りましょう。"
+        ],
+        "summary_ja": "最後までテンポを保ってシャドーイングできており、全体の流れを維持する力があります。細かな脱落（older, with）や発音の置き換わり（taken → taking）、語尾の母音付加が散見されるため、強弱のメリハリをつけながら子音をシャープに発音することを意識してみてください。"
+      }
+    },
+    {
+      "n": 4,
+      "file": "rec_004.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "13:43:14",
+      "evaluation": null
+    },
+    {
+      "n": 5,
+      "file": "rec_005.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "13:43:45",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in headscarf is talking to the staff. On the right, a boy is standing next to the woman with long hair. There are menu on the wall.",
+        "overall": 75,
+        "pronunciation": 71,
+        "fluency": 79,
+        "intonation": 75,
+        "completeness": 93,
+        "word_issues": [
+          {
+            "word": "something",
+            "problem_ja": "thの音が /s/（サムシング）になって聞こえました。",
+            "tip_ja": "舌先を上の前歯と下の前歯の間に軽く挟み、息を擦り出すように /θ/ を出してから /ɪŋ/ に繋げましょう。"
+          },
+          {
+            "word": "wrapping",
+            "problem_ja": "語頭の /r/ が日本語のラ行または /l/ に近く聞こえました。",
+            "tip_ja": "発音する前に唇をタコのように前に突き出し、「ゥ」の口構えを作ってから舌を奥に引いて /ræp/ と弾きましょう。"
+          },
+          {
+            "word": "staff",
+            "problem_ja": "母音が日本語の「ア」に近く、カタカナの「スタッフ」寄りになっていました。",
+            "tip_ja": "アメリカ英語では /æ/ です。口を横に引きながら顎を少し落とし、喉の奥から「エ」と「ア」の中間音を強く響かせましょう。"
+          },
+          {
+            "word": "black",
+            "problem_ja": "/l/ の音が不明瞭で、舌の腹が上顎にしっかり付いていませんでした。",
+            "tip_ja": "bの破裂音のあと、舌先を上前歯の裏の歯茎に強く密着させてから横から息を逃がすように /bl/ を作ります。"
+          },
+          {
+            "word": "scarf",
+            "problem_ja": "語尾の /f/ の後に母音（フゥ）が入りかけて聞こえました。",
+            "tip_ja": "上の前歯を下唇の内側に軽く当て、母音をつけずに息の摩擦音「フッ」だけでスッと切りましょう。"
+          },
+          {
+            "word": "menus",
+            "problem_ja": "語尾の複数形 -s が抜け、「menu」と単数形に聞こえました。",
+            "tip_ja": "menus の語尾は濁る /z/ です。「メニュウズ」と語尾まで意識を残して発音しましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに大きく遅れることなく、最後までほぼ全文を言い切れています。",
+          "waiting in line や inside a busy などの句のつながり（リンキング）がスムーズに言えています。"
+        ],
+        "improvements_ja": [
+          "th（something）や r（wrapping）などの英語特有の子音を、舌の位置を意識して正確に発音すること。",
+          "staff や black などの /æ/ 母音を、日本語の「ア」と区別して平たく潰れた音で出すこと。",
+          "menus の -s や head scarf の前の a など、語尾の複数形や冠詞の脱落に注意すること。"
+        ],
+        "summary_ja": "モデル音声のテンポにしっかり食らいついて最後まで安定したペースで発音できており、オーバーラッピングの基礎力が高いです。一方で、thやrなどの子音、および /æ/ の母音がカタカナ寄りになる傾向があるため、舌と唇のポジションを強化すると一気にネイティブらしい響きになります。"
+      }
+    },
+    {
+      "n": 6,
+      "file": "rec_006.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "13:45:10",
+      "evaluation": null
+    },
+    {
+      "n": 7,
+      "file": "rec_007.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:19:50",
+      "evaluation": null
+    },
+    {
+      "n": 8,
+      "file": "rec_008.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:20:33",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In the foreground, an older man with a black knit hat and a black coat is wrapping something coat in the counter. Behind him, several customers are waiting in line. A woman is head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. The menus...",
+        "overall": 68,
+        "pronunciation": 67,
+        "fluency": 65,
+        "intonation": 66,
+        "completeness": 80,
+        "word_issues": [
+          {
+            "word": "wrapping",
+            "problem_ja": "語頭の /r/ が弱く、Lやカタカナの「ラ」に近く聞こえました。",
+            "tip_ja": "唇を軽くすぼめて「ウ」の形を作ってから、舌先を上顎につけずに /ræ/ と発音すると自然なRになります。"
+          },
+          {
+            "word": "in paper on the counter",
+            "problem_ja": "paper が脱落し、coat や cold のように聞こえて語順が乱れました。counter の二重母音 /aʊ/ も平坦になっています。",
+            "tip_ja": "「イン・ペイパー・オン・ザ・カウンター」と拍を刻まず、paper と counter の強勢を意識して滑らかに繋げましょう。counter は「カウ」としっかり口を開けてからすぼめます。"
+          },
+          {
+            "word": "head scarf",
+            "problem_ja": "in が is に聞こえ、scarf の語尾 /f/ が不明瞭で言い淀みが生じました。",
+            "tip_ja": "前置詞 in を弱く短く添え、scarf は下唇の内側に上の前歯を軽く当ててしっかり息を抜いて /f/ を出しましょう。"
+          },
+          {
+            "word": "staff",
+            "problem_ja": "母音 /æ/ が曖昧でカタカナの「スタッフ」のように /ʌ/ 寄りになっています。",
+            "tip_ja": "日本語の「エ」を発音する口の構えから、指2本分縦に大きく口を開けて「ア」と声を出すと /æ/ の音になります。"
+          },
+          {
+            "word": "There are menus on the wall",
+            "problem_ja": "最後の文で There are が The に変わり、on the wall が最後まで言えずに途切れました。",
+            "tip_ja": "There are は弱化して /ðərər/（ダラ）のように一瞬で発音し、直後の menus にすばやく繋げる練習をしましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "冒頭の「This picture was taken inside a busy bakery」が非常にスムーズでリズム良く入れています。",
+          "「Behind him, several customers are waiting in line」の語順や息継ぎのタイミングが安定していました。"
+        ],
+        "improvements_ja": [
+          "後半にかけて息切れして脱落したため、文末（on the wall）まで一定のペースを保てるよう息継ぎポイントを固定しましょう。",
+          "前置詞句（in paper, on the counter, in a head scarf）の弱化とリンキングを定着させ、言い淀みを防ぎましょう。",
+          "/r/（wrapping, foreground）の発音時に唇をすぼめる準備動作を意識し、カタカナのラ行と区別しましょう。"
+        ],
+        "summary_ja": "前半はテンポ良くモデル音声についていけており、全体的なリズムの土台はしっかりできています。中盤の前置詞句で単語の言い間違いや脱落が発生し、最終文が途切れてしまった点が惜しいところです。機能語（in, on, a）を軽く滑らかに言えるようになると、脱落せずに最後まで余裕を持って吹き込めるようになります。"
+      }
+    },
+    {
+      "n": 9,
+      "file": "rec_009.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:23:05",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In the foreground, an old man in a black knit hat and a dark coat is wrapping something paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with a long hair. There are menus on the wall.",
+        "overall": 72,
+        "pronunciation": 68,
+        "fluency": 73,
+        "intonation": 70,
+        "completeness": 88,
+        "word_issues": [
+          {
+            "word": "This / the",
+            "problem_ja": "文頭のThisやtheの /ð/ が濁った「ズ / ディ」に近い音になっています。",
+            "tip_ja": "上下の前歯の先端に舌先を軽く挟むか当て、隙間から振動する息を押し出すように発音してください。"
+          },
+          {
+            "word": "older",
+            "problem_ja": "-er が脱落して \"old\" に聞こえ、直前の冠詞も曖昧になっています。",
+            "tip_ja": "an older の音の連結を意識し、「アンノゥル・ダー」のように /n/ と /oʊ/ を繋げて最後の /dər/ のR音までしっかり残しましょう。"
+          },
+          {
+            "word": "in paper",
+            "problem_ja": "in がほぼ脱落し、\"something paper\" のように聞こえました。",
+            "tip_ja": "前置詞 in は弱音ですが、something の語尾 /ŋ/ から滑らかに /ɪn/ を一瞬でも添える意識を持ちましょう。"
+          },
+          {
+            "word": "scarf",
+            "problem_ja": "語尾の /f/ の摩擦が弱く、母音が余分に付きそうになっています。",
+            "tip_ja": "下唇の内側に上の前歯を軽く当て、声を出さずに息だけを「フッ」と摩擦させて終わらせます。"
+          },
+          {
+            "word": "with",
+            "problem_ja": "/wɪz/ のように語尾が「ズ」に聞こえます。",
+            "tip_ja": "無声音の /θ/ です。舌先を上の前歯に軽く当て、息だけを抜くように「スィッ」と添えてください。"
+          },
+          {
+            "word": "long hair",
+            "problem_ja": "hair の前の冠詞不要な箇所に \"a\" が挿入され、hairのRの響きが弱めです。",
+            "tip_ja": "hair（不可算）なので a は不要です。hair は母音 /eə/ のあとに舌の両脇を上顎につけて喉の奥を響かせるRを意識しましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピード感にしっかり喰らいつき、全体を通して途切れずに発話できています。",
+          "\"busy bakery\" や \"waiting in line\" などの語句のテンポと発音が明瞭で聞き取りやすいです。"
+        ],
+        "improvements_ja": [
+          "TH（/ð/, /θ/）の発音を徹底し、SやZ、Dに置き換わらないように舌先を歯に当てる習慣をつけましょう。",
+          "聞き取った単語の抜け（olderの語尾、inなど）や不要な「a」の挿入を減らし、テキストの正確性を高めましょう。",
+          "内容語（名詞・動詞）をもっと強く長めに、機能語（前置詞・冠詞）を軽く短く発音する英語特有のリズム（強弱格差）を意識してください。"
+        ],
+        "summary_ja": "モデル音声のテンポによく追従できており、全体の流れや意味は十分に伝わるシャドーイングです。一方で、TH音やR音などの子音の精度、単語の細かい語尾や前置詞の脱落が見られるため、口の動かし方を再確認しながら練習を重ねましょう。"
+      }
+    },
+    {
+      "n": 10,
+      "file": "rec_010.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:25:31",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In the foreground, an old man is in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. The woman with a headscarf is talking to staff. On the right, a boy is standing next to man with a long hair. The menus on the wall.",
+        "overall": 72,
+        "pronunciation": 70,
+        "fluency": 73,
+        "intonation": 71,
+        "completeness": 84,
+        "word_issues": [
+          {
+            "word": "foreground",
+            "problem_ja": "fore の /r/ が弱く、フォワーグラウンドのように /w/ 寄りに聞こえました。",
+            "tip_ja": "fore では唇を突き出しすぎず、舌の両脇を上の奥歯につけて /r/ の響きを作ってから ground に繋げましょう。"
+          },
+          {
+            "word": "older",
+            "problem_ja": "older (/oʊldər/) ではなく単なる「old」と発音されていました。",
+            "tip_ja": "語尾の -er (/ər/) までしっかり音を残す意識を持ちましょう。"
+          },
+          {
+            "word": "woman",
+            "problem_ja": "後半の「next to a woman」が「next to man」のように聞こえました。",
+            "tip_ja": "woman は /ˈwʊmən/ です。唇をすぼめて /wʊ/ をしっかり発音し、man と混同しないように区別しましょう。"
+          },
+          {
+            "word": "There are menus",
+            "problem_ja": "「There are」が脱落し、「The menus」のように聞こえました。",
+            "tip_ja": "There are は弱形 /ðər ər/ で軽く素早く添えるように発声するとリズムに乗れます。"
+          },
+          {
+            "word": "scarf",
+            "problem_ja": "語尾の /f/ が曖昧で、母音が付いたような弱い抜け方になっていました。",
+            "tip_ja": "上の前歯を下唇の裏側に軽く当てて、しっかりと息を摩擦させて /f/ を吹き抜きましょう。"
+          },
+          {
+            "word": "the staff",
+            "problem_ja": "the が抜け、「staff」の母音 /æ/ が平坦な「スタッフ」に近くなっていました。",
+            "tip_ja": "口を上下左右に指2本分ほど大きく開けて「ア」と「エ」の中間音 /æ/ を響かせましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに大きく遅れることなく、最後まで粘り強く追従できています。",
+          "「several customers are waiting in line」など中盤のまとまりはリズム感が良く自然でした。"
+        ],
+        "improvements_ja": [
+          "冠詞（a/the）や前置詞（in/with）の言い換え・脱落が目立つため、元の英文の単語を正確に拾う練習をしましょう。",
+          "/r/ と /w/ の区別（foregroundなど）を明確にするため、舌のポジションを安定させましょう。",
+          "文末にかけて音程が平坦になりがちなので、キーワード（menus, wallなど）に置くピッチの抑揚を意識しましょう。"
+        ],
+        "summary_ja": "モデル音声のテンポにしっかり食らいついてシャドーイングできており、大枠の流れは掴めています。細部の単語の脱落・言い換え（There are が The になるなど）や、子音（/r/, /f/）の精度を高めると一気に完成度が上がります。まずは速度を少し落としたリピーティングで細部を固めてから再度シャドーイングに挑戦してみてください。"
+      }
+    },
+    {
+      "n": 11,
+      "file": "rec_011.wav",
+      "seg": "3",
+      "mode": "overlap",
+      "reference": "A woman in a head scarf is talking to the staff.",
+      "time": "21:27:18",
+      "evaluation": null
+    },
+    {
+      "n": 12,
+      "file": "rec_012.wav",
+      "seg": "3",
+      "mode": "overlap",
+      "reference": "A woman in a head scarf is talking to the staff.",
+      "time": "21:27:31",
+      "evaluation": {
+        "heard": "A woman in a head scarf is talking to the staff.",
+        "overall": 72,
+        "pronunciation": 70,
+        "fluency": 74,
+        "intonation": 71,
+        "completeness": 92,
+        "word_issues": [
+          {
+            "word": "scarf",
+            "problem_ja": "アメリカ英語特有のR音（r-coloring）が抜けて「スカーフ (/skɑːf/)」と平坦に聞こえます。",
+            "tip_ja": "母音 /ɑː/ を伸ばしながら舌先を軽く引く（または舌の奥を持ち上げる）ようにして、喉の奥からRの響きをしっかり足しましょう。"
+          },
+          {
+            "word": "staff",
+            "problem_ja": "母音が曖昧で「スタッフ」の短いアや /ɑː/ に近くなっています。",
+            "tip_ja": "staffの母音は /æ/ です。指が縦に2本入るくらい下顎を下げ、口角を横に引きながら「エ」の口で「ア」と声を出すと、明るくクリアな /stæf/ になります。"
+          },
+          {
+            "word": "woman in a",
+            "problem_ja": "「in a」の部分が不明瞭で、一瞬「is a」のように聞こえます。",
+            "tip_ja": "woman の最後の /n/ と in の /ɪ/、さらに in の /n/ と a の /ə/ をつなげて、「ウーマニンナ」と一息で滑らかにリエゾンさせましょう。"
+          },
+          {
+            "word": "head",
+            "problem_ja": "語尾の /d/ の後に余分な母音が残るか、詰まり気味になって「scarf」への移行が少しぎこちないです。",
+            "tip_ja": "/d/ の音は強く破裂させず、舌先を上の歯茎につけて息を止める（ストップD）感覚で、そのまま scarf の /s/ へ滑らかに移行してください。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに遅れず、最後までしっかり追従して発話できています。",
+          "「talking to the staff」のリズム感が良く、テンポを崩さずに言い切れています。"
+        ],
+        "improvements_ja": [
+          "「scarf」で舌をしっかり引いて、アメリカ英語らしい母音＋Rの響きを作る。",
+          "「staff」の母音 /æ/ を横に口を開きつつ顎を下げて発音し、カタカナの「ア」から脱却する。",
+          "「woman in a」などの機能語が続く部分を、一息で滑らかにリンキング（連結）させる。"
+        ],
+        "summary_ja": "モデル音声のテンポにしっかり食らいついて最後まで言い切れており、シャドーイングとしてのリズム感はとても良好です。アメリカ英語らしい発音にするためには、「scarf」のR音の響きや「staff」の /æ/ 母音のメリハリを意識するとさらに自然さが増します。"
+      }
+    },
+    {
+      "n": 13,
+      "file": "rec_013.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:29:11",
+      "evaluation": {
+        "heard": "This picture was taking inside a busy bakery. In the foreground, an older man with a black knit hat and a dark coat, wrapping something in on the counter. Behind him, several customers are waiting in line. A woman in head scarf is talking to the staff. On the right, a boy is standing next to a woman with wrong hair. There are menu on the wall.",
+        "overall": 68,
+        "pronunciation": 65,
+        "fluency": 66,
+        "intonation": 63,
+        "completeness": 88,
+        "word_issues": [
+          {
+            "word": "taken",
+            "problem_ja": "語尾が「taking」のように -ing 形に近く聞こえました。",
+            "tip_ja": "takeの過去分詞 taken は /ˈteɪ.kən/ です。鼻に抜ける「-ing」ではなく、口の力を抜いて曖昧母音の /ən/ で軽く「テイクン」のように収めましょう。"
+          },
+          {
+            "word": "is wrapping something in paper",
+            "problem_ja": "「is」が抜け、「something in paper」が大きく曖昧になり脱落していました。",
+            "tip_ja": "スピードに追いつくため、is wrapping something を「イズ・ラッピン・サムスィング」と滑らかにリンクさせましょう。paper まで言い切る尺を意識してください。"
+          },
+          {
+            "word": "long hair",
+            "problem_ja": "long の /l/ が舌を引いた /r/ の音になり「wrong」のように聞こえました。",
+            "tip_ja": "long の /l/ は、舌先を上の前歯の付け根の歯茎にしっかり押し当ててから「ロング」と声を出します。唇を丸めて引かないようにしましょう。"
+          },
+          {
+            "word": "scarf",
+            "problem_ja": "語尾に母音「ウ」が入り、「スカーフ」と日本語風の音節になっていました。",
+            "tip_ja": "最後の /f/ は母音を入れず、上の前歯を下唇の内側に軽く当て、隙間から「スッ」と摩擦の息だけを出すように止めます。"
+          },
+          {
+            "word": "menus",
+            "problem_ja": "複数形の -s が脱落し、単数形の「menu」に聞こえました。",
+            "tip_ja": "menus は /ˈmɛn.juːz/ と語尾に有声の /z/ が残ります。文章全体の文法的一致にも関わるため、語尾の -s を落とさないよう意識しましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声の速いテンポに対して大きく遅れることなく、最後まで粘り強く食らいついて声を出せています。",
+          "「Behind him, several customers are waiting in line」の文は単語の並びやリズムが比較的安定していました。"
+        ],
+        "improvements_ja": [
+          "「long」が「wrong」になっていたように、LとRの舌の位置（Lは上の歯茎につける、Rは引っ込める）を再徹底しましょう。",
+          "早口になる箇所（is wrapping something in paper）で音が潰れてしまわないよう、ゆっくり音読して口の動きを定着させてから重ねましょう。",
+          "単語末尾の子音（scarf の /f/ など）に日本語の「ウ/オ」などの母音を足さず、息だけで止める練習をしてください。"
+        ],
+        "summary_ja": "モデル音声のスピードに懸命についていこうとする集中力とリズム感が見られます。一方で、スピードに追いつく焦りから一部の音節（longがwrongになる、末尾の-sや前置詞の脱落など）が崩れやすくなっています。一度メトロノームや低速再生で子音の正確さを確認してから再度オーバーラッピングすると、完成度がぐっと上がります。"
+      }
+    },
+    {
+      "n": 14,
+      "file": "rec_014.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:30:41",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In the foreground, an older man with a black knit hat and a dark coat is wrapping something paper on counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+        "overall": 68,
+        "pronunciation": 67,
+        "fluency": 65,
+        "intonation": 64,
+        "completeness": 92,
+        "word_issues": [
+          {
+            "word": "black",
+            "problem_ja": "Lの音が曖昧で、R寄りまたは舌の接触が弱い音に聞こえます。",
+            "tip_ja": "/bl/ では舌先を上の前歯の付け根にしっかり密着させ、そこから弾くように「ブラック」と発音してください。"
+          },
+          {
+            "word": "coat",
+            "problem_ja": "語尾に余分な母音が混ざり、「コートゥ」のように2音節化しています。",
+            "tip_ja": "末尾の /t/ は母音を足さず、舌先を歯茎につけて息を止める（無開放の t）だけで終わらせましょう。"
+          },
+          {
+            "word": "wrapping",
+            "problem_ja": "/r/ の巻き始めが弱く、日本語の「ラ」に近い音になっています。",
+            "tip_ja": "発音する直前に口を小さく「ウ」の形にすぼめ、舌先をどこにも触れさせずに「ゥラッ…」と音を出すと自然な /r/ になります。"
+          },
+          {
+            "word": "staff",
+            "problem_ja": "母音が狭く短いため、カタカナの「スタッフ」（/ʌ/）のように聞こえます。",
+            "tip_ja": "アメリカ英語の staff の母音は /æ/ です。口を上下左右に広めに開け、「ア」と「エ」の中間のような明るい音で発音しましょう。"
+          },
+          {
+            "word": "counter",
+            "problem_ja": "全体が平坦で、語尾の /ər/ の響きが弱く「カウンター」と聞こえます。",
+            "tip_ja": "最初の coun- に強いアクセントを置き、後半の -ter は舌を後ろに引きながら力を抜いて短く添えるだけにします。"
+          }
+        ],
+        "good_points_ja": [
+          "途中で止まることなく、最後までモデル音声のペースを維持して全文を吹き込めています。",
+          "head scarf や waiting in line など、子音が連続するフレーズもしっかり言い切れています。"
+        ],
+        "improvements_ja": [
+          "語末の子音（hat, coat, next など）に日本語の「ト」などの母音を足さず、息を止めて終わる練習をしましょう。",
+          "意味のある重要語（picture, bakery, older など）を高く強く、前置詞・冠詞（in, on, a, the）を弱く短く発音するメリハリをつけましょう。",
+          "単語を1語ずつ切り離さず、taken inside（テイカニンサイド）のように音をつなげるリンキングを意識しましょう。"
+        ],
+        "summary_ja": "最後まで脱落なく安定したスピードで発話できており、シャドーイングの土台はしっかりできています。現在は単語を1つずつ均等に発音する日本語的なリズムになっているため、子音末尾の母音脱落と音の連結（リンキング）を意識することで、より滑らかな英語らしい響きに近づきます。"
+      }
+    },
+    {
+      "n": 15,
+      "file": "rec_015.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:32:22",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in a paper on the counter. Behind him, several customers are waiting in line. A woman is a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menu on the wall.",
+        "overall": 70,
+        "pronunciation": 68,
+        "fluency": 73,
+        "intonation": 68,
+        "completeness": 94,
+        "word_issues": [
+          {
+            "word": "black",
+            "problem_ja": "LがR寄りに聞こえ、「brack」のようになっていました。",
+            "tip_ja": "bl- の音は、唇を閉じて /b/ を出した直後に舌先を上の前歯の付け根の歯茎にしっかり押し当てて /l/ を響かせます。"
+          },
+          {
+            "word": "long",
+            "problem_ja": "語頭のLがRのように聞こえ、「wrong」に近い響きになっていました。",
+            "tip_ja": "舌を引かずに、最初から舌先を上前歯の裏（歯茎）にしっかり当てた状態から「ロング」と発音しましょう。"
+          },
+          {
+            "word": "in (a head scarf)",
+            "problem_ja": "「in」が「is a」と発音されていました。",
+            "tip_ja": "前置詞の in /ɪn/ です。舌先を上前歯の付け根に当てて鼻から息を抜く /n/ で終わらせ、be動詞と混ざらないようにしましょう。"
+          },
+          {
+            "word": "counter",
+            "problem_ja": "カタカナの「カウンター」のように語尾が平坦に伸びていました。",
+            "tip_ja": "語末の -er はアメリカ英語では舌先を少し引き上げて喉の奥で響かせる /ər/ のR母音を作ります。"
+          },
+          {
+            "word": "menus",
+            "problem_ja": "語末の複数形 -s が抜け、「menu」と単数形に聞こえました。",
+            "tip_ja": "menus は語末が濁る有声音 /z/ です。文末に向かっても脱落させず、軽く「ズ」の余韻を残しましょう。"
+          },
+          {
+            "word": "in paper",
+            "problem_ja": "冠詞「a」が混ざり、「in a paper」と発音されていました。",
+            "tip_ja": "ここでの paper は包装用紙（不可算名詞）なので a は不要です。「イン・ペイパー」と滑らかに繋げましょう。"
+          },
+          {
+            "word": "older",
+            "problem_ja": "dark L（ol- の部分）が曖昧で、「o-der」のようにLが抜けて聞こえました。",
+            "tip_ja": "母音の後にくる L は舌の後ろを持ち上げつつ舌先を歯茎へ近づけて「オゥル」と深い音を作ってから -der に繋げます。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに大きく遅れることなく、最後まで途切れずにシャドーイングを完走できています。",
+          "waiting in line や inside a busy bakery などの語句の塊（チャンク）を意識してリズム良く読めています。"
+        ],
+        "improvements_ja": [
+          "black や long など、語頭・子音結合の /l/ で舌先を上前歯の裏にしっかり押し当てる意識を持ち、/r/ と混同しないようにすること。",
+          "counter や dark などのR母音で、カタカナのように平たく伸ばさず、舌を引いてアメリカ英語らしい響きを作ること。",
+          "機能語（in, an, was, are）を軽く短く弱化させ、内容語（knit hat, customers, bakeryなど）との強弱差を際立たせること。"
+        ],
+        "summary_ja": "モデル音声のテンポにしっかり食らいつき、最後まで高い網羅性でシャドーイングできています。一方で、black や long における L と R の混同や、語末のカタカナ化・複数形 -s の脱落が見られます。舌の位置を意識した子音の正確さと、強弱のリズム（ストレス・タイミング）を強化するとさらに自然になります。"
+      }
+    },
+    {
+      "n": 16,
+      "file": "rec_016.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:34:14",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In the foreground, an old man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to the woman with long hair. There are menu on the wall.",
+        "overall": 66,
+        "pronunciation": 63,
+        "fluency": 70,
+        "intonation": 66,
+        "completeness": 94,
+        "word_issues": [
+          {
+            "word": "woman",
+            "problem_ja": "語頭の /w/ の円唇化が弱く、「ウーマン」と日本語の母音だけで発音されているように聞こえました。",
+            "tip_ja": "唇をタコのように前にグッとすぼめ、そこから一気に口を開きながら「ウォ」と出すと綺麗な /wʊ/ になります。"
+          },
+          {
+            "word": "the",
+            "problem_ja": "/ð/ の摩擦音がなく、「ザ」「ディ」のような日本語のザ行音（/z/ や /d/）になっていました。",
+            "tip_ja": "舌先を上の前歯と下の前歯の間に軽く挟み（または裏に当て）、隙間から濁った息をこすり出すように発音してください。"
+          },
+          {
+            "word": "counter",
+            "problem_ja": "語末の /ər/ が抜けて「カウンタ」とカタカナの平坦な母音で終わっていました。",
+            "tip_ja": "アメリカ英語では語末の -er で舌の両脇を上の奥歯につけ、舌先を軽く引いて奥にこもるようなRの響きを残します。"
+          },
+          {
+            "word": "scarf",
+            "problem_ja": "子音連続 /sk/ や末尾の /f/ に余分な母音（u）が混ざり、「スカーフ」というカタカナ発音になっていました。",
+            "tip_ja": "語末の /f/ は下唇の内側に上の前歯を軽く当て、声を混ぜずに息の摩擦音だけを「フッ」と残してください。"
+          },
+          {
+            "word": "older",
+            "problem_ja": "語尾の -er が落ちて「old」に近く聞こえました。",
+            "tip_ja": "old で終わらせず、舌先を歯茎から離した後にしっかり舌を引いて /dər/ の音節を意識して発音しましょう。"
+          },
+          {
+            "word": "black",
+            "problem_ja": "/l/ が日本語のラ行（/ɾ/）に近く、「ブラック」のように聞こえました。",
+            "tip_ja": "/b/ を発音した直後に、舌先を上前歯の裏の歯茎に強く押し当ててから /læk/ へ移行します。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のペースから大きく崩れることなく、最後まで全文を言い切る集中力と追従力があります。",
+          "文の切れ目やポーズの位置が自然で、全体の意味のまとまり（チャンク）を意識して発声できています。"
+        ],
+        "improvements_ja": [
+          "the, this, with, something などの TH 音（/ð/, /θ/）で舌を前歯に当てる習慣を徹底し、ザ行化・ス行化を解消しましょう。",
+          "staff, scarf, coat などの語末や子音連続で余計な母音（オ・ウ）を足さず、息だけで子音を止める練習をしてください。",
+          "counter, older, paper など語末の -er でしっかり舌を引くアメリカ英語特有のR音（R-coloring）を定着させましょう。"
+        ],
+        "summary_ja": "モデル音声のテンポに最後までしっかり追従できており、シャドーイングの流暢さの基礎は十分にできています。一方で、TH音のザ行化や語末の母音混入、womanの/w/の弱さなど、日本語特有の干渉音が目立ちます。子音単体を息だけで出す感覚と舌の位置を意識すると、響きが一気にネイティブらしくなります。"
+      }
+    },
+    {
+      "n": 17,
+      "file": "rec_017.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:35:43",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In foreground, an older man with a black knit hat and a dark coat is wrappings in paper on counter. Behind him, several custas are waiting in line. A woman with a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+        "overall": 68,
+        "pronunciation": 67,
+        "fluency": 66,
+        "intonation": 68,
+        "completeness": 85,
+        "word_issues": [
+          {
+            "word": "something",
+            "problem_ja": "「is wrapping」の後に「something」が脱落し、「wrappings...」のように語尾が濁って聞こえました。",
+            "tip_ja": "wrapping と something を滑らかにつなげましょう。「サムスィング」と構えず、弱く素早く /sʌmθɪŋ/ と発音して次の in paper へ繋げます。"
+          },
+          {
+            "word": "scarf",
+            "problem_ja": "「スキャフ」のように聞こえ、アメリカ英語特有の母音の /ɑːr/（舌を引くR音）が抜けていました。",
+            "tip_ja": "「スカーフ」の「カー」部分で舌先を上あごにつけずに奥へ引き、しっかりRの響き（/skɑːrf/）を作ってから軽く下唇を噛んで /f/ の息を出します。"
+          },
+          {
+            "word": "customers",
+            "problem_ja": "語尾の「-mers」が弱すぎて「カスタ...」のように途切れて聞こえました。",
+            "tip_ja": "/kʌstəmərz/ の最後の複数形 -s（/z/）までしっかり発音を残しましょう。喉を震わせて「マーズ」と短く収めます。"
+          },
+          {
+            "word": "foreground",
+            "problem_ja": "直前の「the」が抜け、また「fore-」のR音が弱くカタカナの「フォア」に近くなっています。",
+            "tip_ja": "In the foreground /ɪn ðə ˈfɔːrɡraʊnd/ は一息で繋げます。fore の段階で舌を奥に引き、ground の /gr/ でも舌を引いた状態から口を開きます。"
+          },
+          {
+            "word": "knit hat",
+            "problem_ja": "「knit」の語尾と「hat」の語頭がぎこちなく途切れて聞こえました。",
+            "tip_ja": "knit の /t/ は破裂させずに舌先を歯茎につけて息を止める「ストップT」にし、そのまま息を吐いて hat /hæt/ に滑らかに移行します。"
+          },
+          {
+            "word": "taken inside",
+            "problem_ja": "単語ごとに音がブツブツと切れて聞こえました。",
+            "tip_ja": "taken の語尾 /n/ と inside の語頭 /ɪ/ をリンクさせ、「テイカニンサイド」のように滑らかに音を繋げましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のペースから大きく遅れることなく、最後まで粘り強く発話を継続できています。",
+          "「busy bakery」や「waiting in line」など、主要な語句のアクセントが明瞭に伝わりました。"
+        ],
+        "improvements_ja": [
+          "一語一語を日本語の拍感覚（シラブル）で区切らず、単語同士を繋げるリンキング（音の連結）を意識しましょう。",
+          "前置詞や冠詞（the, in など）や代名詞・名詞の一部（something）を飛ばさず、弱形として素早く発音する練習をしてください。",
+          "アメリカ英語の R の母音（scarf, foreground, counter）で舌をしっかり奥へ引く響きを安定させましょう。"
+        ],
+        "summary_ja": "全体的にモデル音声のリズムに食らいついてシャドーイングできており、大枠の文意はしっかり伝わっています。一方で、単語同士のつなぎ目がブツ切れになりやすく、冠詞や代名詞（the, something）が脱落・短縮されすぎている箇所が見られました。音の連結（リンキング）と機能語の脱力（リダクション）を意識すると、格段に滑らかなアメリカ英語のリズムになります。"
+      }
+    },
+    {
+      "n": 18,
+      "file": "rec_018.wav",
+      "seg": "3",
+      "mode": "overlap",
+      "reference": "A woman in a head scarf is talking to the staff.",
+      "time": "21:37:12",
+      "evaluation": {
+        "heard": "A woman in a head scarf talking to the staff.",
+        "overall": 72,
+        "pronunciation": 73,
+        "fluency": 68,
+        "intonation": 71,
+        "completeness": 85,
+        "word_issues": [
+          {
+            "word": "is",
+            "problem_ja": "「is」が脱落し、「scarf」の後に一瞬の間が空いて「talking」に飛んで聞こえました。",
+            "tip_ja": "「scarf」と「is」を切り離さず、「scarf is（スカーフィズ）」のように語尾の /f/ から一息で滑らかに繋ぐ（リンキングする）意識を持つと脱落を防げます。"
+          },
+          {
+            "word": "woman",
+            "problem_ja": "語頭の /w/ の唇のすぼまりが弱く、母音の「ウーマン」のように聞こえました。",
+            "tip_ja": "発音する前に唇をストローを吸うように強く前に突き出し、そこからパッと解放するように「w-」を響かせてから「woman」に入りましょう。"
+          },
+          {
+            "word": "scarf",
+            "problem_ja": "母音 /ɑːr/ のRの響き（舌の引き）が弱く、平坦な「スカーフ」に聞こえました。",
+            "tip_ja": "「スカー」と伸ばす際に、舌先を上顎につけずに喉の奥へグッと引き込み、アメリカ英語特有のこもったRの音をしっかり響かせましょう。"
+          },
+          {
+            "word": "staff",
+            "problem_ja": "母音 /æ/ が日本語の「ア」に近く、やや平坦に聞こえました。",
+            "tip_ja": "口角を左右に「エ」の形に引っ張りながら、下顎を大きく下に下げて「ア」と発音すると、明るくハッキリしたアメリカ英語の /æ/ になります。"
+          }
+        ],
+        "good_points_ja": [
+          "前半の「A woman in a head scarf」のリズムと音の乗り方が非常にスムーズでした。",
+          "「scarf」や「staff」の語末の無声摩擦音 /f/（下唇を噛んで息を出す音）がとても明瞭に出せています。"
+        ],
+        "improvements_ja": [
+          "「scarf is」のように機能語（is）を前の語と繋げて脱落させずに発音する",
+          "「scarf」などの /ɑːr/ でしっかり舌を奥に引いてRの響きを加える",
+          "「staff」の母音 /æ/ で口を左右に開きつつ下顎を下げ、メリハリをつける"
+        ],
+        "summary_ja": "前半はテンポ良くモデル音声に綺麗に乗れていましたが、中盤で助動詞の「is」が抜けてしまい、そこでリズムが一瞬途切れたのが惜しいポイントです。語末の /f/ など子音の処理はとても正確なので、「scarf is」のリンキングを意識して一息で流れるように練習してみましょう。"
+      }
+    },
+    {
+      "n": 19,
+      "file": "rec_019.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+      "time": "21:38:13",
+      "evaluation": {
+        "heard": "This picture was taken inside a busy bakery. In the foreground, an older man with a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menu on the wall.",
+        "overall": 68,
+        "pronunciation": 67,
+        "fluency": 66,
+        "intonation": 63,
+        "completeness": 92,
+        "word_issues": [
+          {
+            "word": "menus",
+            "problem_ja": "複数形の「-s」が脱落し、単数の「menu」のように聞こえました。",
+            "tip_ja": "語尾の /z/ をはっきりと発音しましょう。直前に 'are' があるため、'menus' (/ˈmɛnjuz/) と有声の「ズ」でしっかり結びます。"
+          },
+          {
+            "word": "wrapping",
+            "problem_ja": "語頭の /r/ が弱く、日本語のラ行または /w/ に近い音になっています。",
+            "tip_ja": "発音前に唇を前に突き出し、舌先を口蓋に触れさせずに奥に引き込みながら「ゥラッ」と音を出すと自然な英語の /r/ になります。"
+          },
+          {
+            "word": "knit hat",
+            "problem_ja": "「ニット・ハット」のようにカタカナ的な区切りが入り、破裂音が強すぎます。",
+            "tip_ja": "knit の末尾 /t/ は舌を上あごにつけて息を止めるだけ（ストップT）にし、そのまま hat へ息を滑らかにつなげましょう。"
+          },
+          {
+            "word": "counter",
+            "problem_ja": "「カウンター」のように母音が平坦で、アメリカ英語特有の鼻音＋tの脱落や舌の巻きが足りません。",
+            "tip_ja": "「カウンタァ」と伸ばすのではなく、/ˈkaʊnər/ またはしっかり奥舌を引く /tər/ を意識し、後半の r 音で舌を丸め/引いて響かせます。"
+          },
+          {
+            "word": "scarf",
+            "problem_ja": "母音が日本語の「ア」に近く、末尾の /f/ の摩擦が弱く聞こえました。",
+            "tip_ja": "口を縦に大きく開けた /ɑːr/ で舌を奥に引いて響かせ、最後は上の前歯を下唇の内側に軽く当てて「フッ」としっかり摩擦音を出します。"
+          },
+          {
+            "word": "older",
+            "problem_ja": "ダークL (/l/) の音が弱く、「オーダー」のように母音化して聞こえます。",
+            "tip_ja": "「オウ」の後に舌の後ろを持ち上げて喉の奥を狭め、奥深い「ゥル」の響きを作ってから /dər/ に移りましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "全文を通して脱落がほぼなく、最後まで安定したペースでシャドーイングをやり切れています。",
+          "waiting in line や talking to the staff などの句のまとまり（チャンク）が聞き取りやすく保たれています。"
+        ],
+        "improvements_ja": [
+          "単語ごとに同じ長さ・強さで読む傾向（音節拍リズム）を脱し、内容語（名詞・動詞）を強く長く、機能語（前置詞・冠詞）を弱く短くする強弱リズムを意識してください。",
+          "語尾の破裂音（knit hat の t など）で息を吐きすぎず、閉鎖して次につなげる「連結・ストップ音」を身につけましょう。",
+          "名詞の複数形語尾（menus の -s）や前置詞などの細部の音をモデル音声通りに漏らさず拾えるよう集中して聴きましょう。"
+        ],
+        "summary_ja": "テキストのほぼ全編をモデルのスピードから大きく崩れることなく最後まで発話できており、シャドーイングの基礎体力がしっかりついています。今後は平坦なリズムから脱却し、強弱のコントラストや音の連結（リンキング）を意識することで、一気にネイティブらしい英語らしさが向上します。"
+      }
+    }
+  ],
+  "test": {
+    "stock_id": "sp079",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture was taken inside a busy bakery. In the foreground, an older man in a black knit hat and a dark coat is wrapping something in paper on the counter. Behind him, several customers are waiting in line. A woman in a head scarf is talking to the staff. On the right, a boy is standing next to a woman with long hair. There are menus on the wall.",
+    "answer": "This picture shows the inside of a bakery. Some people is in line to buy breads. The front man has paper to cover breads and the boy watching it.",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 62,
+      "content": 65,
+      "grammar": 55,
+      "vocabulary": 60,
+      "delivery": 58,
+      "corrected": "This picture shows the inside of a bakery. Some people are in line to buy bread. The man in front has paper to wrap bread, and a boy is watching him.",
+      "corrections": [
+        {
+          "before": "Some people is in line",
+          "after": "Some people are in line",
+          "reason_ja": "people は複数扱いのため、be動詞は are を使います。"
+        },
+        {
+          "before": "buy breads",
+          "after": "buy bread",
+          "reason_ja": "bread（パン）は一般的に不可算名詞（数えられない名詞）なので、複数形の s はつけません。"
+        },
+        {
+          "before": "The front man",
+          "after": "The man in front",
+          "reason_ja": "「手前の男性」を表現する際は the man in front や the man in the foreground と言うのが自然です。"
+        },
+        {
+          "before": "to cover breads",
+          "after": "to wrap bread",
+          "reason_ja": "紙で包む動作には cover（覆う）よりも wrap（包む）が適しています。"
+        },
+        {
+          "before": "the boy watching it",
+          "after": "a boy is watching him",
+          "reason_ja": "文として成立させるために be動詞（is）が必要です。また、見ている対象は男性の手元なので him や that が自然です。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "in the foreground",
+          "ja": "手前に、前景に"
+        },
+        {
+          "en": "wrap ... in paper",
+          "ja": "〜を紙で包む"
+        },
+        {
+          "en": "wait in line",
+          "ja": "列に並んで待つ"
+        },
+        {
+          "en": "head scarf",
+          "ja": "頭に巻くスカーフ、ほっかむり"
+        }
+      ],
+      "feedback_ja": "ベーカリーという場所や、手前の男性の動作、列に並ぶ人々といった写真の重要ポイントを的確に捉えられています。中盤（15秒〜23秒付近）で言葉を探すための長い沈黙があったため、知っている簡単な単語で素早く言い切る練習をしましょう。また、人物の服装（knit hat や dark coat など）にも一言触れられるとさらに描写の幅が広がります。"
+    }
+  }
+}
