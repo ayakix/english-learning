@@ -134,7 +134,20 @@ Cloudflare Tunnel で手元の Mac のサーバーを公開し、Cloudflare Acce
 - 公開の URL（ホスト名）は公開リポジトリには書かない。cloudflared の設定は `~/.cloudflared/` にあります
 - 外から画面を使っている間は、1 分ごとに `practice/activity/YYYY/MM/YYYY-MM-DD.json` に時刻が残り、`trainer summary` の「外からの練習」に出ます（手元の操作は記録しない）
 - 全レスポンスに `X-Robots-Tag: noindex` を付け、`robots.txt` で全拒否しています
-- 常駐の起動には `serve.sh` を使います（画面が古ければビルドしてからサーバーを起動）。コードを変えたら再起動しないと外の画面に反映されません
+- tunnel もサーバーも自動では起動しません。外から使うときだけ、明示的に起動・終了します（使わない間は外から届かないようにするため）
+- `serve.sh` は、画面が古ければビルドしてからサーバーを起動します。コードを変えたら再起動しないと外の画面に反映されません
+
+起動と終了：
+
+```sh
+# 起動（サーバー → tunnel の順）
+nohup apps/trainer/serve.sh > /dev/null 2>&1 &
+nohup cloudflared tunnel run trainer > ~/Library/Logs/cloudflared-trainer.log 2>&1 &
+cloudflared tunnel info trainer          # CONNECTOR ID の行があれば接続中
+
+# 終了（tunnel だけ止めれば外からは届かない）
+pkill -f "cloudflared tunnel run trainer"
+```
 
 初回の準備（Mac 側）：
 
@@ -144,10 +157,7 @@ cloudflared tunnel login                 # ブラウザでドメインを選ぶ
 cloudflared tunnel create trainer
 # ~/.cloudflared/config.yml に ingress（<hostname> → http://localhost:8765）を書く
 cloudflared tunnel route dns trainer <hostname>
-cloudflared service install              # ログイン時に tunnel を上げる（LaunchAgent）
 ```
-
-- `cloudflared service install` が作る `~/Library/LaunchAgents/com.cloudflare.cloudflared.plist` には起動の引数が入らないので、ProgramArguments に `tunnel` `run` `trainer` を足してから `launchctl bootstrap gui/$(id -u) <plist>` で読み込み直す
 
 Cloudflare の Zero Trust ダッシュボード → Access → Applications に Self-hosted のアプリを作り、Session Duration を 1 month、Policy を自分のメール 1 件だけ Allow にします。ログイン方法は Integrations → Identity providers で One-time PIN を追加しておきます（追加しないと、Cloudflare アカウントでのログインしか出ない）。
 
