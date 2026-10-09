@@ -39,3 +39,6 @@
 | 2026-10-07 | balance both **their** male and **their** female sides（教材 書き取り） | their→the（2 回） | their は「ゼァ」、the は「ザ」。所有の their は語尾に軽く r が残る |
 | 2026-10-07 | distanced too much **from** our traditional **ways** and cultures（教材 書き取り） | from、ways→way | from は弱く「フラム」。ways‿and は「ウェイザン」とつながる |
 | 2026-10-08 | The train was crowded **with** tourists.（rp106 の復習） | with → by（2 日連続で聞き取れず） | with は「ウィ」と弱く、th が tourists の t に飲み込まれる。crowded with をひとかたまりで覚える |
+| 2026-10-09 | Could you **send** me the report today?（rp062 の復習） | send → submit（10/05 と同じ） | 意味から言い換えてしまう。聞こえた音（センド）をそのまま言う |
+| 2026-10-09 | **This shirt is** a little too small.（rp079 の復習） | is → are（10/05 と同じ） | this の後は単数。shirt‿is は「シャーティズ」とつながる |
+| 2026-10-09 | I'm going to **the** dentist tomorrow.（rp080） | the が抜けた | to‿the は「トゥダ」と弱く短い。go to the dentist は the 付きの決まった形 |
