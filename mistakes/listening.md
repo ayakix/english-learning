@@ -57,3 +57,6 @@
 | 2026-10-11 | I usually take **the** train to work.（rp061） | the → a | take‿the は「テイクダ」。take the train は the 付きの決まった形 |
 | 2026-10-11 | We're planning **a** trip to Hokkaido.（rp064） | a が抜けた | planning‿a は「プラニンガ」。plan a trip |
 | 2026-10-11 | He's been learning **the** piano for years.（rp078） | the が抜けた | learning‿the は「ラーニンダ」。楽器は learn / play the piano |
+| 2026-10-11 | The train was crowded **with** tourists.（rp106 の復習） | with → by（3 回目） | was crowded の受け身の形から by を補ってしまう。crowded with ＝〜で混んでいる、は with |
+| 2026-10-11 | Could you hold this for **a** second?（rp115 の復習） | a が抜けた | for‿a は「フォラ」とつながる。for a second ＝ちょっとの間 |
+| 2026-10-11 | She wrote a long letter **to** her grandmother.（rp118 の復習） | to が抜けた | letter‿to は「レラトゥ」と弱い。write a letter to 人 |

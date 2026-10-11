@@ -45,3 +45,4 @@
 | 2026-10-11 | umbrella（What do you **wear** to stay dry when it's raining? 即答 sa077） | a raincoat | wear は身に着けるもの。傘は use / take / carry an umbrella。動詞を聞いて答えを絞る |
 | 2026-10-11 | （I don't get it の意味） | わからない | 話の中身がわからない。音が聞き取れないときは I didn't catch that |
 | 2026-10-11 | （It's not worth it. Just let it go. の意味） | そんな価値はない。もう気にするな | not worth it ＝割に合わない。let it go ＝手放す・こだわらない |
+| 2026-10-11 | （the best bread in town の town に冠詞は？ rp105） | in town | in town ＝この町で・地元で、は冠詞なしの決まった形。特定の町を指すなら in the town |
