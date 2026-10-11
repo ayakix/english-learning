@@ -54,3 +54,6 @@
 | 2026-10-09 | In **some** hours, the water comes high **up the sand**.（教材 書き取り） | some → summer、up the sand → upsent | some‿hours は「サマワーズ」とつながる。up‿the は「アッザ」で the が弱い |
 | 2026-10-09 | The **moon's** gravity pulls **on** everything **on** Earth, including **the** oceans.（教材 書き取り） | moon's、on（2 つ）、the | pull on ＝〜を引っ張る。on は弱く「アン」。including‿the は「インクルーディンザ」 |
 | 2026-10-09 | So every wave that **reaches the** shore is quietly connected to the moon above.（教材 書き取り） | reaches → reached、the | 現在の一般的な話なので reaches。reaches‿the は「リーチズザ」 |
+| 2026-10-11 | I usually take **the** train to work.（rp061） | the → a | take‿the は「テイクダ」。take the train は the 付きの決まった形 |
+| 2026-10-11 | We're planning **a** trip to Hokkaido.（rp064） | a が抜けた | planning‿a は「プラニンガ」。plan a trip |
+| 2026-10-11 | He's been learning **the** piano for years.（rp078） | the が抜けた | learning‿the は「ラーニンダ」。楽器は learn / play the piano |

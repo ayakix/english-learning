@@ -42,3 +42,6 @@
 | 2026-10-07 | （shell が出てこない）What do you call the hard outside part of an egg?（即答 sa057） | the shell | 卵の殻 ＝ shell（eggshell）。貝殻も shell |
 | 2026-10-07 | rarely（the opposite of "always"? 即答 sa059） | never | rarely（めったに〜ない）は「ほぼ never」で、反対語ではない |
 | 2026-10-09 | （即答 sa069 で答えられず） | the windshield | 車のフロントガラス。front glass とは言わない。ワイパーは windshield wipers。英国では windscreen |
+| 2026-10-11 | umbrella（What do you **wear** to stay dry when it's raining? 即答 sa077） | a raincoat | wear は身に着けるもの。傘は use / take / carry an umbrella。動詞を聞いて答えを絞る |
+| 2026-10-11 | （I don't get it の意味） | わからない | 話の中身がわからない。音が聞き取れないときは I didn't catch that |
+| 2026-10-11 | （It's not worth it. Just let it go. の意味） | そんな価値はない。もう気にするな | not worth it ＝割に合わない。let it go ＝手放す・こだわらない |
