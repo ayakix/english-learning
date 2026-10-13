@@ -1,0 +1,489 @@
+{
+  "id": "20261013-222627",
+  "skill": "speaking",
+  "created": "2026-10-13 22:26",
+  "title": "group of men playing musical instruments",
+  "result": {
+    "score": null,
+    "details": {}
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1593167751520-95a058b903c2?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwbXVzaWNpYW4lMjBwZXJmb3JtaW5nfGVufDF8MHx8fDE3OTEwNDMzODZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Austin Loveing",
+      "profile": "https://unsplash.com/@austinloveing?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/group-of-men-playing-musical-instruments-0cAbf4Q3OjA?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "group of men playing musical instruments"
+    }
+  },
+  "attempts": [],
+  "correction": null,
+  "tts": {
+    "file": "model_58027050e91d.mp3",
+    "text": "This picture shows a group of street musicians performing in front of a white building. In the middle, a man in a straw hat and sunglasses is playing a guitar and singing. On the left, another man in a cap is playing the violin. Behind them, one man is playing a double bass, and another is playing an electric guitar. A man is standing and watching them on the left.",
+    "voice_id": "raMcNf2S8wCmuaBcyI6E",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture shows a group of street musicians performing in front of a white building.",
+        "start": 0.0,
+        "end": 5.0
+      },
+      {
+        "text": "In the middle, a man in a straw hat and sunglasses is playing a guitar and singing.",
+        "start": 5.28,
+        "end": 10.92
+      },
+      {
+        "text": "On the left, another man in a cap is playing the violin.",
+        "start": 11.2,
+        "end": 15.16
+      },
+      {
+        "text": "Behind them, one man is playing a double bass, and another is playing an electric guitar.",
+        "start": 15.44,
+        "end": 21.0
+      },
+      {
+        "text": "A man is standing and watching them on the left.",
+        "start": 21.28,
+        "end": 24.24
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.24,
+        "e": 0.594,
+        "i": 0
+      },
+      {
+        "t": "shows",
+        "s": 0.64,
+        "e": 0.992,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.04,
+        "e": 1.067,
+        "i": 0
+      },
+      {
+        "t": "group",
+        "s": 1.093,
+        "e": 1.36,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 1.4,
+        "e": 1.44,
+        "i": 0
+      },
+      {
+        "t": "street",
+        "s": 1.6,
+        "e": 1.84,
+        "i": 0
+      },
+      {
+        "t": "musicians",
+        "s": 1.92,
+        "e": 2.48,
+        "i": 0
+      },
+      {
+        "t": "performing",
+        "s": 2.56,
+        "e": 3.12,
+        "i": 0
+      },
+      {
+        "t": "in",
+        "s": 3.2,
+        "e": 3.28,
+        "i": 0
+      },
+      {
+        "t": "front",
+        "s": 3.36,
+        "e": 3.6,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 3.68,
+        "e": 3.76,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 3.84,
+        "e": 3.88,
+        "i": 0
+      },
+      {
+        "t": "white",
+        "s": 3.92,
+        "e": 4.16,
+        "i": 0
+      },
+      {
+        "t": "building.",
+        "s": 4.24,
+        "e": 5.0,
+        "i": 0
+      },
+      {
+        "t": "In",
+        "s": 5.28,
+        "e": 5.36,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 5.44,
+        "e": 5.52,
+        "i": 1
+      },
+      {
+        "t": "middle,",
+        "s": 5.6,
+        "e": 6.16,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 6.24,
+        "e": 6.32,
+        "i": 1
+      },
+      {
+        "t": "man",
+        "s": 6.4,
+        "e": 6.64,
+        "i": 1
+      },
+      {
+        "t": "in",
+        "s": 6.72,
+        "e": 6.8,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 6.88,
+        "e": 6.96,
+        "i": 1
+      },
+      {
+        "t": "straw",
+        "s": 7.08,
+        "e": 7.28,
+        "i": 1
+      },
+      {
+        "t": "hat",
+        "s": 7.44,
+        "e": 7.68,
+        "i": 1
+      },
+      {
+        "t": "and",
+        "s": 7.72,
+        "e": 7.76,
+        "i": 1
+      },
+      {
+        "t": "sunglasses",
+        "s": 7.92,
+        "e": 8.72,
+        "i": 1
+      },
+      {
+        "t": "is",
+        "s": 8.8,
+        "e": 8.96,
+        "i": 1
+      },
+      {
+        "t": "playing",
+        "s": 9.04,
+        "e": 9.28,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 9.32,
+        "e": 9.36,
+        "i": 1
+      },
+      {
+        "t": "guitar",
+        "s": 9.4,
+        "e": 9.92,
+        "i": 1
+      },
+      {
+        "t": "and",
+        "s": 10.0,
+        "e": 10.08,
+        "i": 1
+      },
+      {
+        "t": "singing.",
+        "s": 10.24,
+        "e": 10.92,
+        "i": 1
+      },
+      {
+        "t": "On",
+        "s": 11.2,
+        "e": 11.36,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 11.4,
+        "e": 11.44,
+        "i": 2
+      },
+      {
+        "t": "left,",
+        "s": 11.52,
+        "e": 12.16,
+        "i": 2
+      },
+      {
+        "t": "another",
+        "s": 12.36,
+        "e": 12.56,
+        "i": 2
+      },
+      {
+        "t": "man",
+        "s": 12.64,
+        "e": 12.88,
+        "i": 2
+      },
+      {
+        "t": "in",
+        "s": 12.92,
+        "e": 12.96,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 13.04,
+        "e": 13.12,
+        "i": 2
+      },
+      {
+        "t": "cap",
+        "s": 13.2,
+        "e": 13.6,
+        "i": 2
+      },
+      {
+        "t": "is",
+        "s": 13.68,
+        "e": 13.76,
+        "i": 2
+      },
+      {
+        "t": "playing",
+        "s": 13.84,
+        "e": 14.08,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 14.16,
+        "e": 14.2,
+        "i": 2
+      },
+      {
+        "t": "violin.",
+        "s": 14.24,
+        "e": 15.16,
+        "i": 2
+      },
+      {
+        "t": "Behind",
+        "s": 15.44,
+        "e": 15.84,
+        "i": 3
+      },
+      {
+        "t": "them,",
+        "s": 15.96,
+        "e": 16.4,
+        "i": 3
+      },
+      {
+        "t": "one",
+        "s": 16.48,
+        "e": 16.64,
+        "i": 3
+      },
+      {
+        "t": "man",
+        "s": 16.72,
+        "e": 16.96,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 17.04,
+        "e": 17.12,
+        "i": 3
+      },
+      {
+        "t": "playing",
+        "s": 17.2,
+        "e": 17.44,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 17.52,
+        "e": 17.6,
+        "i": 3
+      },
+      {
+        "t": "double",
+        "s": 17.68,
+        "e": 17.92,
+        "i": 3
+      },
+      {
+        "t": "bass,",
+        "s": 18.0,
+        "e": 18.56,
+        "i": 3
+      },
+      {
+        "t": "and",
+        "s": 18.6,
+        "e": 18.64,
+        "i": 3
+      },
+      {
+        "t": "another",
+        "s": 18.72,
+        "e": 19.12,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 19.2,
+        "e": 19.36,
+        "i": 3
+      },
+      {
+        "t": "playing",
+        "s": 19.44,
+        "e": 19.68,
+        "i": 3
+      },
+      {
+        "t": "an",
+        "s": 19.72,
+        "e": 19.76,
+        "i": 3
+      },
+      {
+        "t": "electric",
+        "s": 19.84,
+        "e": 20.24,
+        "i": 3
+      },
+      {
+        "t": "guitar.",
+        "s": 20.4,
+        "e": 21.0,
+        "i": 3
+      },
+      {
+        "t": "A",
+        "s": 21.28,
+        "e": 21.44,
+        "i": 4
+      },
+      {
+        "t": "man",
+        "s": 21.56,
+        "e": 21.68,
+        "i": 4
+      },
+      {
+        "t": "is",
+        "s": 21.76,
+        "e": 21.92,
+        "i": 4
+      },
+      {
+        "t": "standing",
+        "s": 22.2,
+        "e": 22.48,
+        "i": 4
+      },
+      {
+        "t": "and",
+        "s": 22.56,
+        "e": 22.64,
+        "i": 4
+      },
+      {
+        "t": "watching",
+        "s": 22.72,
+        "e": 23.04,
+        "i": 4
+      },
+      {
+        "t": "them",
+        "s": 23.12,
+        "e": 23.36,
+        "i": 4
+      },
+      {
+        "t": "on",
+        "s": 23.44,
+        "e": 23.52,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 23.56,
+        "e": 23.6,
+        "i": 4
+      },
+      {
+        "t": "left.",
+        "s": 23.68,
+        "e": 24.24,
+        "i": 4
+      }
+    ]
+  },
+  "recordings": [],
+  "test": {
+    "stock_id": "sp090",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture shows a group of street musicians performing in front of a white building. In the middle, a man in a straw hat and sunglasses is playing a guitar and singing. On the left, another man in a cap is playing the violin. Behind them, one man is playing a double bass, and another is playing an electric guitar. A man is standing and watching them on the left.",
+    "answer": null,
+    "seconds": null,
+    "grade": null
+  }
+}

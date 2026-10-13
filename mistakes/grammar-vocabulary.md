@@ -46,3 +46,9 @@
 | 2026-10-11 | （I don't get it の意味） | わからない | 話の中身がわからない。音が聞き取れないときは I didn't catch that |
 | 2026-10-11 | （It's not worth it. Just let it go. の意味） | そんな価値はない。もう気にするな | not worth it ＝割に合わない。let it go ＝手放す・こだわらない |
 | 2026-10-11 | （the best bread in town の town に冠詞は？ rp105） | in town | in town ＝この町で・地元で、は冠詞なしの決まった形。特定の町を指すなら in the town |
+| 2026-10-12 | （leap year を知らなかった。即答 sa092） | 366 | leap year ＝うるう年。leap ＝跳ぶ。2 月 29 日は leap day |
+| 2026-10-12 | （試着室が出てこなかった。即答 sa105） | a fitting room | 試着室 ＝ fitting room / dressing room。試着する ＝ try on。clothing store ＝服屋 |
+| 2026-10-13 | （We ordered pizza for the whole team. の pizza に冠詞はいらない？ rp112） | ordered pizza | pizza は数えられる使い方と数えられない使い方の両方がある。食べ物としてのピザ（量は言わない）なら冠詞なし。1 枚なら a pizza、何枚かなら pizzas |
+| 2026-10-13 | （neat が分からず答えられなかった。What do you use to make your hair neat? 即答 sa108） | a comb / a brush | neat ＝きちんとした・整った。make 〈もの〉〈状態〉＝〈もの〉を〈状態〉にする |
+| 2026-10-13 | （黄身と分かったが yolk が出てこない。即答 sa114） | the yolk | 卵の黄身 ＝ yolk（l は読まない「ヨウク」）。白身 ＝ the white。殻 ＝ shell（10/07） |
+| 2026-10-13 | （crib を知らなかった。What do you call a small bed for a baby? 即答 sa116） | a crib | ベビーベッド ＝ crib（米）/ cot（英）。揺りかご ＝ cradle |

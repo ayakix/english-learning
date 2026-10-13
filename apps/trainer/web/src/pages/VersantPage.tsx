@@ -72,7 +72,11 @@ export function VersantPage() {
 
   function change(next: { mode?: Mode; level?: string }) {
     stop();
-    if (next.mode) setMode(next.mode);
+    if (next.mode) {
+      setMode(next.mode);
+      // 表示済みの印は ID で持つので、即答で見た問題が振り返りでも見えてしまう。モードを替えたら隠し直す
+      setShown(new Set());
+    }
     if (next.level) setLevel(next.level);
   }
 
@@ -87,8 +91,13 @@ export function VersantPage() {
     play(`/api/drills/${kindOf(it)}/audio/${it.id}/${it.audio.main.file}`, it.id);
   }
 
-  function reveal(id: string) {
-    setShown((prev) => new Set(prev).add(id));
+  // 表示したあと、もう一度テキストを見ずに言い直せるように、隠すこともできる
+  function toggleText(id: string) {
+    setShown((prev) => {
+      const next = new Set(prev);
+      if (!next.delete(id)) next.add(id);
+      return next;
+    });
   }
 
   function select(i: number) {
@@ -100,8 +109,11 @@ export function VersantPage() {
   useHotkeys({
     ArrowDown: () => select(cur + 1),
     ArrowUp: () => select(cur - 1),
+    // Vim と同じ j / k でも動かす（ホームポジションから手を離さずに済むように）
+    j: () => select(cur + 1),
+    k: () => select(cur - 1),
     " ": () => items[cur] && playItem(items[cur]),
-    v: () => items[cur] && reveal(items[cur].id),
+    Enter: () => items[cur] && toggleText(items[cur].id),
   });
 
   return (
@@ -135,7 +147,8 @@ export function VersantPage() {
           )}
           <div className="hint" style={{ marginTop: 8 }}>
             <Kbd>↑</Kbd>
-            <Kbd>↓</Kbd> で選び、<Kbd>Space</Kbd> で再生、<Kbd>V</Kbd> でテキストを表示します。{items.length} 件
+            <Kbd>↓</Kbd>（<Kbd>k</Kbd>
+            <Kbd>j</Kbd>）で選び、<Kbd>Space</Kbd> で再生、<Kbd>Enter</Kbd> でテキストを表示・非表示にします。{items.length} 件
             {mode === "review" && d?.updated && `（${d.updated} 更新）`}
           </div>
           {mode !== "review" && (
@@ -166,7 +179,7 @@ export function VersantPage() {
                   {visible ? (
                     <span className="lk-sentence">{kindOf(it) === "repeats" ? it.text : it.question}</span>
                   ) : (
-                    <button className="btn sm ghost" onClick={() => reveal(it.id)}>
+                    <button className="btn sm ghost" onClick={() => toggleText(it.id)}>
                       テキストを表示
                     </button>
                   )}

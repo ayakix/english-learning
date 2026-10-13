@@ -1,0 +1,512 @@
+{
+  "id": "20261013-222643",
+  "skill": "speaking",
+  "created": "2026-10-13 22:26",
+  "title": "Couple enjoying a picnic on a sunny day",
+  "result": {
+    "score": null,
+    "details": {}
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1775441522416-9cf438595465?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8Nnx8ZmFtaWx5JTIwcGljbmljJTIwcGFya3xlbnwxfDB8fHwxNzkxMDQzMzgxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Cuong Duyen Ceramics",
+      "profile": "https://unsplash.com/@cuongduyenceramics?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/couple-enjoying-a-picnic-on-a-sunny-day-XF6E3BJB1Xg?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "Couple enjoying a picnic on a sunny day"
+    }
+  },
+  "attempts": [],
+  "correction": null,
+  "tts": {
+    "file": "model_6282e79b1aef.mp3",
+    "text": "This is a picture of a young couple having a picnic on the grass. They are sitting on a white and green blanket. The man is wearing a light blue striped shirt, and the woman is wearing a beige dress. She is eating something and holding a plate of fruit. On the blanket, there are bowls of food, green grapes and a bunch of purple flowers. Large rocks can be seen behind them.",
+    "voice_id": "qxTFXDYbGcR8GaHSjczg",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This is a picture of a young couple having a picnic on the grass.",
+        "start": 0.0,
+        "end": 4.08
+      },
+      {
+        "text": "They are sitting on a white and green blanket.",
+        "start": 4.8,
+        "end": 7.76
+      },
+      {
+        "text": "The man is wearing a light blue striped shirt, and the woman is wearing a beige dress.",
+        "start": 8.16,
+        "end": 14.0
+      },
+      {
+        "text": "She is eating something and holding a plate of fruit.",
+        "start": 14.72,
+        "end": 17.68
+      },
+      {
+        "text": "On the blanket, there are bowls of food, green grapes and a bunch of purple flowers.",
+        "start": 18.56,
+        "end": 24.24
+      },
+      {
+        "text": "Large rocks can be seen behind them.",
+        "start": 25.04,
+        "end": 27.44
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.28,
+        "i": 0
+      },
+      {
+        "t": "is",
+        "s": 0.32,
+        "e": 0.44,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 0.48,
+        "e": 0.56,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.64,
+        "e": 1.086,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 1.12,
+        "e": 1.24,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.28,
+        "e": 1.4,
+        "i": 0
+      },
+      {
+        "t": "young",
+        "s": 1.44,
+        "e": 1.68,
+        "i": 0
+      },
+      {
+        "t": "couple",
+        "s": 1.76,
+        "e": 2.16,
+        "i": 0
+      },
+      {
+        "t": "having",
+        "s": 2.32,
+        "e": 2.56,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 2.64,
+        "e": 2.72,
+        "i": 0
+      },
+      {
+        "t": "picnic",
+        "s": 2.84,
+        "e": 3.2,
+        "i": 0
+      },
+      {
+        "t": "on",
+        "s": 3.28,
+        "e": 3.36,
+        "i": 0
+      },
+      {
+        "t": "the",
+        "s": 3.4,
+        "e": 3.44,
+        "i": 0
+      },
+      {
+        "t": "grass.",
+        "s": 3.52,
+        "e": 4.08,
+        "i": 0
+      },
+      {
+        "t": "They",
+        "s": 4.8,
+        "e": 4.88,
+        "i": 1
+      },
+      {
+        "t": "are",
+        "s": 4.96,
+        "e": 5.04,
+        "i": 1
+      },
+      {
+        "t": "sitting",
+        "s": 5.12,
+        "e": 5.44,
+        "i": 1
+      },
+      {
+        "t": "on",
+        "s": 5.52,
+        "e": 5.6,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 5.68,
+        "e": 5.76,
+        "i": 1
+      },
+      {
+        "t": "white",
+        "s": 5.84,
+        "e": 6.16,
+        "i": 1
+      },
+      {
+        "t": "and",
+        "s": 6.24,
+        "e": 6.4,
+        "i": 1
+      },
+      {
+        "t": "green",
+        "s": 6.48,
+        "e": 6.72,
+        "i": 1
+      },
+      {
+        "t": "blanket.",
+        "s": 6.8,
+        "e": 7.76,
+        "i": 1
+      },
+      {
+        "t": "The",
+        "s": 8.16,
+        "e": 8.32,
+        "i": 2
+      },
+      {
+        "t": "man",
+        "s": 8.4,
+        "e": 8.72,
+        "i": 2
+      },
+      {
+        "t": "is",
+        "s": 8.88,
+        "e": 8.96,
+        "i": 2
+      },
+      {
+        "t": "wearing",
+        "s": 9.04,
+        "e": 9.36,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 9.44,
+        "e": 9.52,
+        "i": 2
+      },
+      {
+        "t": "light",
+        "s": 9.6,
+        "e": 9.84,
+        "i": 2
+      },
+      {
+        "t": "blue",
+        "s": 9.92,
+        "e": 10.16,
+        "i": 2
+      },
+      {
+        "t": "striped",
+        "s": 10.32,
+        "e": 10.8,
+        "i": 2
+      },
+      {
+        "t": "shirt,",
+        "s": 10.88,
+        "e": 11.6,
+        "i": 2
+      },
+      {
+        "t": "and",
+        "s": 11.68,
+        "e": 11.76,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 11.8,
+        "e": 11.84,
+        "i": 2
+      },
+      {
+        "t": "woman",
+        "s": 11.92,
+        "e": 12.24,
+        "i": 2
+      },
+      {
+        "t": "is",
+        "s": 12.4,
+        "e": 12.48,
+        "i": 2
+      },
+      {
+        "t": "wearing",
+        "s": 12.56,
+        "e": 12.88,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 12.96,
+        "e": 13.04,
+        "i": 2
+      },
+      {
+        "t": "beige",
+        "s": 13.12,
+        "e": 13.44,
+        "i": 2
+      },
+      {
+        "t": "dress.",
+        "s": 13.52,
+        "e": 14.0,
+        "i": 2
+      },
+      {
+        "t": "She",
+        "s": 14.72,
+        "e": 14.88,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 14.96,
+        "e": 15.04,
+        "i": 3
+      },
+      {
+        "t": "eating",
+        "s": 15.12,
+        "e": 15.44,
+        "i": 3
+      },
+      {
+        "t": "something",
+        "s": 15.52,
+        "e": 16.0,
+        "i": 3
+      },
+      {
+        "t": "and",
+        "s": 16.16,
+        "e": 16.32,
+        "i": 3
+      },
+      {
+        "t": "holding",
+        "s": 16.48,
+        "e": 16.64,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 16.72,
+        "e": 16.8,
+        "i": 3
+      },
+      {
+        "t": "plate",
+        "s": 16.92,
+        "e": 17.04,
+        "i": 3
+      },
+      {
+        "t": "of",
+        "s": 17.12,
+        "e": 17.2,
+        "i": 3
+      },
+      {
+        "t": "fruit.",
+        "s": 17.28,
+        "e": 17.68,
+        "i": 3
+      },
+      {
+        "t": "On",
+        "s": 18.56,
+        "e": 18.64,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 18.72,
+        "e": 18.76,
+        "i": 4
+      },
+      {
+        "t": "blanket,",
+        "s": 18.8,
+        "e": 19.6,
+        "i": 4
+      },
+      {
+        "t": "there",
+        "s": 19.68,
+        "e": 19.76,
+        "i": 4
+      },
+      {
+        "t": "are",
+        "s": 19.84,
+        "e": 19.92,
+        "i": 4
+      },
+      {
+        "t": "bowls",
+        "s": 20.0,
+        "e": 20.24,
+        "i": 4
+      },
+      {
+        "t": "of",
+        "s": 20.32,
+        "e": 20.4,
+        "i": 4
+      },
+      {
+        "t": "food,",
+        "s": 20.48,
+        "e": 21.28,
+        "i": 4
+      },
+      {
+        "t": "green",
+        "s": 21.36,
+        "e": 21.6,
+        "i": 4
+      },
+      {
+        "t": "grapes",
+        "s": 21.68,
+        "e": 22.16,
+        "i": 4
+      },
+      {
+        "t": "and",
+        "s": 22.4,
+        "e": 22.48,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 22.56,
+        "e": 22.64,
+        "i": 4
+      },
+      {
+        "t": "bunch",
+        "s": 22.72,
+        "e": 23.04,
+        "i": 4
+      },
+      {
+        "t": "of",
+        "s": 23.12,
+        "e": 23.2,
+        "i": 4
+      },
+      {
+        "t": "purple",
+        "s": 23.28,
+        "e": 23.6,
+        "i": 4
+      },
+      {
+        "t": "flowers.",
+        "s": 23.68,
+        "e": 24.24,
+        "i": 4
+      },
+      {
+        "t": "Large",
+        "s": 25.04,
+        "e": 25.36,
+        "i": 5
+      },
+      {
+        "t": "rocks",
+        "s": 25.44,
+        "e": 25.84,
+        "i": 5
+      },
+      {
+        "t": "can",
+        "s": 25.92,
+        "e": 26.0,
+        "i": 5
+      },
+      {
+        "t": "be",
+        "s": 26.08,
+        "e": 26.16,
+        "i": 5
+      },
+      {
+        "t": "seen",
+        "s": 26.24,
+        "e": 26.48,
+        "i": 5
+      },
+      {
+        "t": "behind",
+        "s": 26.56,
+        "e": 26.88,
+        "i": 5
+      },
+      {
+        "t": "them.",
+        "s": 26.96,
+        "e": 27.44,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [],
+  "test": {
+    "stock_id": "sp054",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This is a picture of a young couple having a picnic on the grass. They are sitting on a white and green blanket. The man is wearing a light blue striped shirt, and the woman is wearing a beige dress. She is eating something and holding a plate of fruit. On the blanket, there are bowls of food, green grapes and a bunch of purple flowers. Large rocks can be seen behind them.",
+    "answer": null,
+    "seconds": null,
+    "grade": null
+  }
+}

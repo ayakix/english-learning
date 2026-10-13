@@ -174,6 +174,9 @@ function LinkingView() {
   useHotkeys({
     ArrowDown: () => select(cur + 1),
     ArrowUp: () => select(cur - 1),
+    // Vim と同じ j / k でも動かす（ホームポジションから手を離さずに済むように）
+    j: () => select(cur + 1),
+    k: () => select(cur - 1),
     " ": () => items[cur] && play(items[cur], "phrase"),
     Enter: () => items[cur] && play(items[cur], "sentence"),
   });
@@ -206,7 +209,8 @@ function LinkingView() {
               <span className="lk-link">‿</span> はつながる所、<span className="lk-drop">薄い文字</span>
               はほとんど聞こえない音です。カタカナは聞こえ方の目安です。
               <Kbd>↑</Kbd>
-              <Kbd>↓</Kbd> で選び、<Kbd>Space</Kbd> でフレーズ、<Kbd>Enter</Kbd> で例文を再生します。
+              <Kbd>↓</Kbd>（<Kbd>k</Kbd>
+              <Kbd>j</Kbd>）で選び、<Kbd>Space</Kbd> でフレーズ、<Kbd>Enter</Kbd> で例文を再生します。
             </div>
             <TodayRange range={range} cur={cur} ids={items.map((it) => it.id)} onMove={moveRange} />
           </Panel>
@@ -296,6 +300,9 @@ function MinimalPairsView() {
   useHotkeys({
     ArrowDown: () => select(cur + 1),
     ArrowUp: () => select(cur - 1),
+    // Vim と同じ j / k でも動かす（ホームポジションから手を離さずに済むように）
+    j: () => select(cur + 1),
+    k: () => select(cur - 1),
     ArrowLeft: () => items[cur] && playWord(items[cur], "a"),
     ArrowRight: () => items[cur] && playWord(items[cur], "b"),
   });
@@ -323,7 +330,8 @@ function MinimalPairsView() {
             <div className="hint">{info.description_ja}</div>
             <div className="hint" style={{ marginTop: 6 }}>
               <Kbd>↑</Kbd>
-              <Kbd>↓</Kbd> で選び、<Kbd>←</Kbd> で左、<Kbd>→</Kbd> で右の単語を再生します。
+              <Kbd>↓</Kbd>（<Kbd>k</Kbd>
+              <Kbd>j</Kbd>）で選び、<Kbd>←</Kbd> で左、<Kbd>→</Kbd> で右の単語を再生します。
             </div>
           </Panel>
         )}

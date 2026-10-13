@@ -60,3 +60,9 @@
 | 2026-10-11 | The train was crowded **with** tourists.（rp106 の復習） | with → by（3 回目） | was crowded の受け身の形から by を補ってしまう。crowded with ＝〜で混んでいる、は with |
 | 2026-10-11 | Could you hold this for **a** second?（rp115 の復習） | a が抜けた | for‿a は「フォラ」とつながる。for a second ＝ちょっとの間 |
 | 2026-10-11 | She wrote a long letter **to** her grandmother.（rp118 の復習） | to が抜けた | letter‿to は「レラトゥ」と弱い。write a letter to 人 |
+| 2026-10-12 | The library closes early on **Sundays**.（rp081） | Sundays の s が抜けた | on Sundays ＝毎週日曜に（習慣）。closes と合わせて「いつもそう」の文 |
+| 2026-10-12 | They're getting married in **the** spring.（rp088） | the → this | the は弱く「ザ」、this は「ディス」と s が残る。in the spring ＝春に |
+| 2026-10-12 | He always runs **along the river**.（rp091） | along the river | along‿the は「アロンダ」。along は頭の a が弱く「ロング」に聞こえる |
+| 2026-10-12 | I think the store **is closed** today.（rp093） | is closed | store‿is は「ストアリズ」とつながる。closed の -ed は「クロウズド」と短い |
+| 2026-10-12 | How many days are there in **a leap year**?（即答 sa092） | a leap year | a‿leap は「アリープ」。leap year を知らなかった（語彙にも記録） |
+| 2026-10-12 | In a **clothing** store, where do you try on clothes?（即答 sa105） | clothing → closing | clothing の th は舌を歯に当てる濁った音（ð）。closing の s は濁らない。後ろの clothes も手がかり |
