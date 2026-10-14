@@ -1,6 +1,6 @@
 // サーバーの session.json と同じ形（src/trainer/ の各技能のモジュール）
 
-export type Skill = "speaking" | "listening" | "writing" | "reading" | "lesson" | "versant";
+export type Skill = "speaking" | "listening" | "writing" | "reading" | "lesson" | "versant" | "vocab";
 
 export type Result = { score: number | null; details: Record<string, number | string | null> };
 
@@ -238,6 +238,20 @@ export type DrillItem = {
 // Versant タブのモード。○/× の記録もこの単位（1 日・1 モードで 1 つ）
 export type VersantMode = "repeats" | "short-answers" | "review";
 export type VersantMarks = { marks: Record<string, boolean> }; // ID → 言えたか
+
+// 身近なものの単語。向き（英→日・日→英）ごとに ○/× を記録する
+export type VocabMode = "en-ja" | "ja-en";
+export type VocabItem = {
+  id: string;
+  theme: string;
+  en: string;
+  ja: string;
+  example: string;
+  note?: string;
+  from?: string;
+  audio_file: string | null; // 音声がまだ無い単語は null（再生だけできない）
+};
+export type VocabData = { themes: { key: string; name: string }[]; items: VocabItem[] };
 
 export type DrillData = {
   name?: string;

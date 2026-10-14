@@ -139,6 +139,12 @@ const KEYS: [string, [string, string][]][] = [
     ["Enter", "テキストを表示 / 非表示"],
     ["O / X", "言えた（○）/ 言えなかった（×）を付けて次へ"],
   ]],
+  ["単語", [
+    ["↑ ↓ / k j", "前 / 次の語"],
+    ["Space", "英語を再生"],
+    ["Enter", "答えを表示 / 非表示"],
+    ["O / X", "言えた（○）/ 言えなかった（×）を付けて次へ"],
+  ]],
 ];
 
 export function KeysDialog(props: { open: boolean; onClose: () => void }) {

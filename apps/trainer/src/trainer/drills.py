@@ -1,8 +1,8 @@
-"""音声つきドリル（復唱・即答・ミニマルペア）のストック
+"""音声つきドリル（復唱・即答・ミニマルペア・単語）のストック
 
 例題は Claude が書き、content/drills/<種類>/items.json に置く。どの種類も
 item["audio"] に {枠: {"text"}} を持ち、このモジュールが枠ごとに ElevenLabs で音声を作って file を書き足す。
-（復唱・即答は枠 "main" の 1 つ、ミニマルペアは 2 語の "a" と "b"）
+（復唱・即答・単語は枠 "main" の 1 つ、ミニマルペアは 2 語の "a" と "b"）
 
 保存先：content/drills/<種類>/
   items.json        … 例題・声・音声のファイル名（git 管理する）
@@ -22,7 +22,7 @@ from .http import ApiError
 from .stock import TTS_WORKERS, load_topics
 
 STOCK_DIR = REPO_ROOT / "content" / "drills"
-KINDS = ("repeats", "short-answers", "minimal-pairs")
+KINDS = ("repeats", "short-answers", "minimal-pairs", "vocab")
 
 router = APIRouter(prefix="/api/drills")
 

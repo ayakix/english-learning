@@ -18,6 +18,8 @@ import type {
   Tts,
   VersantMarks,
   VersantMode,
+  VocabData,
+  VocabMode,
   Voice,
   WritingKind,
   WritingSession,
@@ -98,6 +100,12 @@ export const api = {
   linking: () => call<LinkingData>("/api/linking"),
   drill: (kind: DrillKind) => call<DrillData>(`/api/drills/${kind}`),
   review: () => call<DrillData>("/api/drills/review"),
+  vocab: {
+    get: () => call<VocabData>("/api/vocab"),
+    marks: (mode: VocabMode) => call<VersantMarks>(`/api/vocab/marks/${mode}`),
+    mark: (mode: VocabMode, id: string, ok: boolean) =>
+      call<VersantMarks>(`/api/vocab/marks/${mode}/${id}`, "PUT", { ok }),
+  },
   versant: {
     marks: (mode: VersantMode) => call<VersantMarks>(`/api/versant/marks/${mode}`),
     mark: (mode: VersantMode, id: string, ok: boolean) =>

@@ -1,0 +1,3543 @@
+{
+ "name": "身近なものの単語",
+ "voices": "us",
+ "note": "例題は Claude が書いた。from は、知らなかったことで出会った所（sa は即答の ID、lesson は教材、speaking はスピーキングの添削）",
+ "themes": [
+  {
+   "key": "kitchen",
+   "name": "台所・料理"
+  },
+  {
+   "key": "home",
+   "name": "家・家具"
+  },
+  {
+   "key": "body",
+   "name": "体・健康"
+  },
+  {
+   "key": "car",
+   "name": "車・交通"
+  },
+  {
+   "key": "shop",
+   "name": "店・買い物"
+  },
+  {
+   "key": "clothes",
+   "name": "服・身だしなみ"
+  },
+  {
+   "key": "nature",
+   "name": "天気・自然"
+  },
+  {
+   "key": "office",
+   "name": "仕事・オフィス"
+  },
+  {
+   "key": "family",
+   "name": "子育て・家族"
+  },
+  {
+   "key": "travel",
+   "name": "旅行・空港"
+  }
+ ],
+ "items": [
+  {
+   "id": "vc001",
+   "theme": "kitchen",
+   "en": "yolk",
+   "ja": "卵の黄身",
+   "example": "I only eat the yolk.",
+   "audio": {
+    "main": {
+     "text": "yolk",
+     "file": "model_a07163b562ab.mp3"
+    }
+   },
+   "note": "l は読まない「ヨウク」。白身は the white",
+   "from": "sa114",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc002",
+   "theme": "kitchen",
+   "en": "shell",
+   "ja": "（卵・貝の）殻",
+   "example": "There's a piece of shell in my omelet.",
+   "audio": {
+    "main": {
+     "text": "shell",
+     "file": "model_b5d3f53c7aab.mp3"
+    }
+   },
+   "note": "卵の殻は eggshell とも言う",
+   "from": "sa057",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc003",
+   "theme": "kitchen",
+   "en": "oven",
+   "ja": "オーブン",
+   "example": "Bake the bread in the oven for 30 minutes.",
+   "audio": {
+    "main": {
+     "text": "oven",
+     "file": "model_3348aa20ad4b.mp3"
+    }
+   },
+   "note": "発音は「アヴン」。「オーブン」と言うと通じにくい",
+   "from": "lesson",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc004",
+   "theme": "kitchen",
+   "en": "stove",
+   "ja": "コンロ",
+   "example": "Turn off the stove before you leave.",
+   "audio": {
+    "main": {
+     "text": "stove",
+     "file": "model_dd59b1f7bc56.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc005",
+   "theme": "kitchen",
+   "en": "cutting board",
+   "ja": "まな板",
+   "example": "Put the onions on the cutting board.",
+   "audio": {
+    "main": {
+     "text": "cutting board",
+     "file": "model_3db2589bd70a.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc006",
+   "theme": "kitchen",
+   "en": "frying pan",
+   "ja": "フライパン",
+   "example": "Heat some oil in a frying pan.",
+   "audio": {
+    "main": {
+     "text": "frying pan",
+     "file": "model_fa4f017c1eed.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc007",
+   "theme": "kitchen",
+   "en": "kettle",
+   "ja": "やかん",
+   "example": "The kettle is boiling.",
+   "audio": {
+    "main": {
+     "text": "kettle",
+     "file": "model_96bd070c8e83.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc008",
+   "theme": "kitchen",
+   "en": "sink",
+   "ja": "（台所の）流し",
+   "example": "Leave the dishes in the sink.",
+   "audio": {
+    "main": {
+     "text": "sink",
+     "file": "model_32021acb5d14.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc009",
+   "theme": "kitchen",
+   "en": "faucet",
+   "ja": "蛇口",
+   "example": "The faucet is dripping.",
+   "audio": {
+    "main": {
+     "text": "faucet",
+     "file": "model_1dc0d2984058.mp3"
+    }
+   },
+   "note": "英国では tap",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc010",
+   "theme": "kitchen",
+   "en": "cupboard",
+   "ja": "食器棚",
+   "example": "The cups are in the cupboard.",
+   "audio": {
+    "main": {
+     "text": "cupboard",
+     "file": "model_fa3a92a762b9.mp3"
+    }
+   },
+   "note": "p は読まない「カバード」",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc011",
+   "theme": "kitchen",
+   "en": "freezer",
+   "ja": "冷凍庫",
+   "example": "There's ice cream in the freezer.",
+   "audio": {
+    "main": {
+     "text": "freezer",
+     "file": "model_c24a9a7de340.mp3"
+    }
+   },
+   "note": "冷蔵庫は fridge",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc012",
+   "theme": "kitchen",
+   "en": "dishwasher",
+   "ja": "食洗機",
+   "example": "Can you empty the dishwasher?",
+   "audio": {
+    "main": {
+     "text": "dishwasher",
+     "file": "model_3c054e0ab88d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc013",
+   "theme": "kitchen",
+   "en": "leftovers",
+   "ja": "残り物",
+   "example": "We had leftovers for lunch.",
+   "audio": {
+    "main": {
+     "text": "leftovers",
+     "file": "model_a8354bec1961.mp3"
+    }
+   },
+   "note": "ふつう複数形で使う",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc014",
+   "theme": "kitchen",
+   "en": "peel",
+   "ja": "皮をむく",
+   "example": "Peel the potatoes first.",
+   "audio": {
+    "main": {
+     "text": "peel",
+     "file": "model_ec9203a4ae9f.mp3"
+    }
+   },
+   "note": "名詞で「皮」も peel",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc015",
+   "theme": "kitchen",
+   "en": "chop",
+   "ja": "刻む",
+   "example": "Chop the carrots into small pieces.",
+   "audio": {
+    "main": {
+     "text": "chop",
+     "file": "model_86f70284ea5b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc016",
+   "theme": "kitchen",
+   "en": "boil",
+   "ja": "ゆでる・沸かす",
+   "example": "Boil the eggs for ten minutes.",
+   "audio": {
+    "main": {
+     "text": "boil",
+     "file": "model_8316f94d843b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc017",
+   "theme": "kitchen",
+   "en": "fry",
+   "ja": "炒める・揚げる",
+   "example": "Fry the onions until they're soft.",
+   "audio": {
+    "main": {
+     "text": "fry",
+     "file": "model_1df03d13306d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc018",
+   "theme": "kitchen",
+   "en": "spatula",
+   "ja": "フライ返し・へら",
+   "example": "Flip the pancake with a spatula.",
+   "audio": {
+    "main": {
+     "text": "spatula",
+     "file": "model_22dd5b617a9e.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc019",
+   "theme": "kitchen",
+   "en": "ladle",
+   "ja": "おたま",
+   "example": "Use a ladle to serve the soup.",
+   "audio": {
+    "main": {
+     "text": "ladle",
+     "file": "model_d4d0b8fe1003.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc020",
+   "theme": "kitchen",
+   "en": "recipe",
+   "ja": "レシピ・作り方",
+   "example": "Can I have the recipe for this cake?",
+   "audio": {
+    "main": {
+     "text": "recipe",
+     "file": "model_fdfe0f19d470.mp3"
+    }
+   },
+   "note": "発音は「レサピ」",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc021",
+   "theme": "home",
+   "en": "neat",
+   "ja": "きちんとした・整った",
+   "example": "Her room is always neat.",
+   "audio": {
+    "main": {
+     "text": "neat",
+     "file": "model_c6c9c37237de.mp3"
+    }
+   },
+   "note": "make your hair neat ＝髪を整える",
+   "from": "sa108",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc022",
+   "theme": "home",
+   "en": "tidy",
+   "ja": "片付いた・片付ける",
+   "example": "Please tidy your room.",
+   "audio": {
+    "main": {
+     "text": "tidy",
+     "file": "model_e4a0f92db24d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc023",
+   "theme": "home",
+   "en": "mess",
+   "ja": "散らかった状態",
+   "example": "Sorry about the mess.",
+   "audio": {
+    "main": {
+     "text": "mess",
+     "file": "model_3991710973fc.mp3"
+    }
+   },
+   "note": "messy ＝散らかった",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc024",
+   "theme": "home",
+   "en": "drawer",
+   "ja": "引き出し",
+   "example": "The scissors are in the top drawer.",
+   "audio": {
+    "main": {
+     "text": "drawer",
+     "file": "model_20d8638255ec.mp3"
+    }
+   },
+   "note": "発音は「ドロー」",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc025",
+   "theme": "home",
+   "en": "shelf",
+   "ja": "棚",
+   "example": "Put the book back on the shelf.",
+   "audio": {
+    "main": {
+     "text": "shelf",
+     "file": "model_0864a9481f18.mp3"
+    }
+   },
+   "note": "複数形は shelves",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc026",
+   "theme": "home",
+   "en": "closet",
+   "ja": "クローゼット・押し入れ",
+   "example": "Hang your coat in the closet.",
+   "audio": {
+    "main": {
+     "text": "closet",
+     "file": "model_306b8a3867ba.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc027",
+   "theme": "home",
+   "en": "ceiling",
+   "ja": "天井",
+   "example": "There's a light hanging from the ceiling.",
+   "audio": {
+    "main": {
+     "text": "ceiling",
+     "file": "model_043cf0b24948.mp3"
+    }
+   },
+   "from": "speaking",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc028",
+   "theme": "home",
+   "en": "stairs",
+   "ja": "階段",
+   "example": "He fell down the stairs.",
+   "audio": {
+    "main": {
+     "text": "stairs",
+     "file": "model_6909c5a31a95.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc029",
+   "theme": "home",
+   "en": "hallway",
+   "ja": "廊下",
+   "example": "Leave your shoes in the hallway.",
+   "audio": {
+    "main": {
+     "text": "hallway",
+     "file": "model_5503e575113c.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc030",
+   "theme": "home",
+   "en": "doorbell",
+   "ja": "玄関のチャイム",
+   "example": "The doorbell rang.",
+   "audio": {
+    "main": {
+     "text": "doorbell",
+     "file": "model_675c963078ee.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc031",
+   "theme": "home",
+   "en": "laundry",
+   "ja": "洗濯物・洗濯",
+   "example": "I need to do the laundry.",
+   "audio": {
+    "main": {
+     "text": "laundry",
+     "file": "model_2503d0050135.mp3"
+    }
+   },
+   "note": "do the laundry ＝洗濯する",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc032",
+   "theme": "home",
+   "en": "vacuum",
+   "ja": "掃除機をかける",
+   "example": "I vacuum the floor every Sunday.",
+   "audio": {
+    "main": {
+     "text": "vacuum",
+     "file": "model_f2e302fd188d.mp3"
+    }
+   },
+   "note": "名詞で「掃除機」も vacuum (cleaner)",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc033",
+   "theme": "home",
+   "en": "trash can",
+   "ja": "ゴミ箱",
+   "example": "Throw it in the trash can.",
+   "audio": {
+    "main": {
+     "text": "trash can",
+     "file": "model_f76cd7f2250a.mp3"
+    }
+   },
+   "note": "英国では bin",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc034",
+   "theme": "home",
+   "en": "outlet",
+   "ja": "コンセント",
+   "example": "Is there an outlet near the desk?",
+   "audio": {
+    "main": {
+     "text": "outlet",
+     "file": "model_dbc33e89d43e.mp3"
+    }
+   },
+   "note": "consent は「同意」で別の語。英国では socket",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc035",
+   "theme": "home",
+   "en": "light switch",
+   "ja": "電気のスイッチ",
+   "example": "The light switch is next to the door.",
+   "audio": {
+    "main": {
+     "text": "light switch",
+     "file": "model_e5c6f91c6059.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc036",
+   "theme": "home",
+   "en": "pillow",
+   "ja": "枕",
+   "example": "I can't sleep without my pillow.",
+   "audio": {
+    "main": {
+     "text": "pillow",
+     "file": "model_e2aa77655239.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc037",
+   "theme": "home",
+   "en": "blanket",
+   "ja": "毛布",
+   "example": "Can I have another blanket?",
+   "audio": {
+    "main": {
+     "text": "blanket",
+     "file": "model_4dd64b39af29.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc038",
+   "theme": "home",
+   "en": "rent",
+   "ja": "家賃・賃借りする",
+   "example": "The rent is due on the first.",
+   "audio": {
+    "main": {
+     "text": "rent",
+     "file": "model_d4ebe4edf12b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc039",
+   "theme": "home",
+   "en": "landlord",
+   "ja": "大家",
+   "example": "I called the landlord about the leak.",
+   "audio": {
+    "main": {
+     "text": "landlord",
+     "file": "model_1eaa73f356c5.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc040",
+   "theme": "home",
+   "en": "leak",
+   "ja": "水漏れ・漏れる",
+   "example": "There's a leak under the sink.",
+   "audio": {
+    "main": {
+     "text": "leak",
+     "file": "model_1c1edfc0d888.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc041",
+   "theme": "body",
+   "en": "sore throat",
+   "ja": "のどの痛み",
+   "example": "I have a sore throat.",
+   "audio": {
+    "main": {
+     "text": "sore throat",
+     "file": "model_8fe49452faff.mp3"
+    }
+   },
+   "note": "sore ＝ひりひり痛い",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc042",
+   "theme": "body",
+   "en": "fever",
+   "ja": "熱",
+   "example": "She has a high fever.",
+   "audio": {
+    "main": {
+     "text": "fever",
+     "file": "model_75c90352ff5a.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc043",
+   "theme": "body",
+   "en": "cough",
+   "ja": "せき・せきをする",
+   "example": "I can't stop coughing.",
+   "audio": {
+    "main": {
+     "text": "cough",
+     "file": "model_712323f7974b.mp3"
+    }
+   },
+   "note": "発音は「コフ」",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc044",
+   "theme": "body",
+   "en": "sneeze",
+   "ja": "くしゃみ・くしゃみをする",
+   "example": "Cover your mouth when you sneeze.",
+   "audio": {
+    "main": {
+     "text": "sneeze",
+     "file": "model_ca9ff7d86e36.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc045",
+   "theme": "body",
+   "en": "runny nose",
+   "ja": "鼻水",
+   "example": "I have a runny nose.",
+   "audio": {
+    "main": {
+     "text": "runny nose",
+     "file": "model_de051fb43522.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc046",
+   "theme": "body",
+   "en": "headache",
+   "ja": "頭痛",
+   "example": "I have a terrible headache.",
+   "audio": {
+    "main": {
+     "text": "headache",
+     "file": "model_c4d099164c79.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc047",
+   "theme": "body",
+   "en": "stomachache",
+   "ja": "腹痛",
+   "example": "I've had a stomachache since lunch.",
+   "audio": {
+    "main": {
+     "text": "stomachache",
+     "file": "model_54951f1dace3.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc048",
+   "theme": "body",
+   "en": "dizzy",
+   "ja": "めまいがする",
+   "example": "I feel a little dizzy.",
+   "audio": {
+    "main": {
+     "text": "dizzy",
+     "file": "model_aeec4b8f8205.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc049",
+   "theme": "body",
+   "en": "allergy",
+   "ja": "アレルギー",
+   "example": "I have an allergy to peanuts.",
+   "audio": {
+    "main": {
+     "text": "allergy",
+     "file": "model_548b3f7e0add.mp3"
+    }
+   },
+   "note": "発音は「アラジー」",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc050",
+   "theme": "body",
+   "en": "prescription",
+   "ja": "処方箋",
+   "example": "You need a prescription for this medicine.",
+   "audio": {
+    "main": {
+     "text": "prescription",
+     "file": "model_21c163419a1b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc051",
+   "theme": "body",
+   "en": "pharmacy",
+   "ja": "薬局",
+   "example": "Is there a pharmacy near here?",
+   "audio": {
+    "main": {
+     "text": "pharmacy",
+     "file": "model_e915a3725467.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc052",
+   "theme": "body",
+   "en": "painkiller",
+   "ja": "痛み止め",
+   "example": "Take a painkiller and get some rest.",
+   "audio": {
+    "main": {
+     "text": "painkiller",
+     "file": "model_13ad83a5eb11.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc053",
+   "theme": "body",
+   "en": "bruise",
+   "ja": "あざ",
+   "example": "I have a bruise on my arm.",
+   "audio": {
+    "main": {
+     "text": "bruise",
+     "file": "model_6ee8d16933d1.mp3"
+    }
+   },
+   "note": "発音は「ブルーズ」",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc054",
+   "theme": "body",
+   "en": "sprain",
+   "ja": "ねんざする",
+   "example": "I sprained my ankle.",
+   "audio": {
+    "main": {
+     "text": "sprain",
+     "file": "model_60b128469bc6.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc055",
+   "theme": "body",
+   "en": "wrist",
+   "ja": "手首",
+   "example": "She wears a watch on her left wrist.",
+   "audio": {
+    "main": {
+     "text": "wrist",
+     "file": "model_0898e5e4f5c4.mp3"
+    }
+   },
+   "note": "w は読まない「リスト」",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc056",
+   "theme": "body",
+   "en": "ankle",
+   "ja": "足首",
+   "example": "My ankle is swollen.",
+   "audio": {
+    "main": {
+     "text": "ankle",
+     "file": "model_24b5039c69b0.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc057",
+   "theme": "body",
+   "en": "elbow",
+   "ja": "ひじ",
+   "example": "I hit my elbow on the table.",
+   "audio": {
+    "main": {
+     "text": "elbow",
+     "file": "model_5872a562f56d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc058",
+   "theme": "body",
+   "en": "forehead",
+   "ja": "額",
+   "example": "He wiped the sweat from his forehead.",
+   "audio": {
+    "main": {
+     "text": "forehead",
+     "file": "model_18395ce189d7.mp3"
+    }
+   },
+   "note": "発音は「フォーヘッド」",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc059",
+   "theme": "body",
+   "en": "checkup",
+   "ja": "健康診断",
+   "example": "I have a checkup next week.",
+   "audio": {
+    "main": {
+     "text": "checkup",
+     "file": "model_ee1eb48b494d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc060",
+   "theme": "body",
+   "en": "rest",
+   "ja": "休み・休む",
+   "example": "The doctor told me to rest.",
+   "audio": {
+    "main": {
+     "text": "rest",
+     "file": "model_5751b641a766.mp3"
+    }
+   },
+   "note": "tell 人 to 〜 の形でよく出る",
+   "from": "rp127",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc061",
+   "theme": "car",
+   "en": "windshield",
+   "ja": "（車の）フロントガラス",
+   "example": "There's a crack in the windshield.",
+   "audio": {
+    "main": {
+     "text": "windshield",
+     "file": "model_abf5242c8f45.mp3"
+    }
+   },
+   "note": "front glass とは言わない。英国では windscreen",
+   "from": "sa069",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc062",
+   "theme": "car",
+   "en": "mechanic",
+   "ja": "整備士",
+   "example": "The mechanic fixed my car.",
+   "audio": {
+    "main": {
+     "text": "mechanic",
+     "file": "model_e6f401b0b3c3.mp3"
+    }
+   },
+   "from": "sa065",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc063",
+   "theme": "car",
+   "en": "steering wheel",
+   "ja": "ハンドル",
+   "example": "Keep both hands on the steering wheel.",
+   "audio": {
+    "main": {
+     "text": "steering wheel",
+     "file": "model_f8f1a920aca8.mp3"
+    }
+   },
+   "note": "handle は「取っ手」",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc064",
+   "theme": "car",
+   "en": "brake",
+   "ja": "ブレーキ・ブレーキをかける",
+   "example": "He hit the brakes.",
+   "audio": {
+    "main": {
+     "text": "brake",
+     "file": "model_65fb58f51dea.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc065",
+   "theme": "car",
+   "en": "gas station",
+   "ja": "ガソリンスタンド",
+   "example": "Let's stop at the gas station.",
+   "audio": {
+    "main": {
+     "text": "gas station",
+     "file": "model_259a72fbea8d.mp3"
+    }
+   },
+   "note": "英国では petrol station",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc066",
+   "theme": "car",
+   "en": "flat tire",
+   "ja": "パンク",
+   "example": "We got a flat tire on the highway.",
+   "audio": {
+    "main": {
+     "text": "flat tire",
+     "file": "model_87447640656f.mp3"
+    }
+   },
+   "note": "puncture とも言う",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc067",
+   "theme": "car",
+   "en": "traffic jam",
+   "ja": "渋滞",
+   "example": "I was stuck in a traffic jam.",
+   "audio": {
+    "main": {
+     "text": "traffic jam",
+     "file": "model_25175cf11233.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc068",
+   "theme": "car",
+   "en": "intersection",
+   "ja": "交差点",
+   "example": "Turn left at the next intersection.",
+   "audio": {
+    "main": {
+     "text": "intersection",
+     "file": "model_a89f8ca319d4.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc069",
+   "theme": "car",
+   "en": "crosswalk",
+   "ja": "横断歩道",
+   "example": "Cross at the crosswalk.",
+   "audio": {
+    "main": {
+     "text": "crosswalk",
+     "file": "model_78261bf5eed8.mp3"
+    }
+   },
+   "note": "英国では zebra crossing",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc070",
+   "theme": "car",
+   "en": "traffic light",
+   "ja": "信号",
+   "example": "Stop at the traffic light.",
+   "audio": {
+    "main": {
+     "text": "traffic light",
+     "file": "model_344bc50435ed.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc071",
+   "theme": "car",
+   "en": "driver's license",
+   "ja": "運転免許証",
+   "example": "Can I see your driver's license?",
+   "audio": {
+    "main": {
+     "text": "driver's license",
+     "file": "model_1e3c2e2858bb.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc072",
+   "theme": "car",
+   "en": "seat belt",
+   "ja": "シートベルト",
+   "example": "Fasten your seat belt.",
+   "audio": {
+    "main": {
+     "text": "seat belt",
+     "file": "model_eb572ebb77d3.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc073",
+   "theme": "car",
+   "en": "rearview mirror",
+   "ja": "バックミラー",
+   "example": "Check the rearview mirror.",
+   "audio": {
+    "main": {
+     "text": "rearview mirror",
+     "file": "model_0dc2ddc0987d.mp3"
+    }
+   },
+   "note": "back mirror とは言わない",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc074",
+   "theme": "car",
+   "en": "trunk",
+   "ja": "（車の）トランク",
+   "example": "Put the bags in the trunk.",
+   "audio": {
+    "main": {
+     "text": "trunk",
+     "file": "model_40b7212a5d8d.mp3"
+    }
+   },
+   "note": "英国では boot",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc075",
+   "theme": "car",
+   "en": "parking lot",
+   "ja": "駐車場",
+   "example": "The parking lot is full.",
+   "audio": {
+    "main": {
+     "text": "parking lot",
+     "file": "model_e560db9de532.mp3"
+    }
+   },
+   "note": "英国では car park",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc076",
+   "theme": "car",
+   "en": "speed limit",
+   "ja": "制限速度",
+   "example": "The speed limit here is 40.",
+   "audio": {
+    "main": {
+     "text": "speed limit",
+     "file": "model_e6b35de5405e.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc077",
+   "theme": "car",
+   "en": "fare",
+   "ja": "運賃",
+   "example": "How much is the bus fare?",
+   "audio": {
+    "main": {
+     "text": "fare",
+     "file": "model_bc50572b0e07.mp3"
+    }
+   },
+   "note": "fair（公平な）と同じ音",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc078",
+   "theme": "car",
+   "en": "platform",
+   "ja": "（駅の）ホーム",
+   "example": "The train leaves from platform 3.",
+   "audio": {
+    "main": {
+     "text": "platform",
+     "file": "model_7904ddf47904.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc079",
+   "theme": "car",
+   "en": "transfer",
+   "ja": "乗り換える",
+   "example": "Transfer to the Yamanote Line at Tokyo.",
+   "audio": {
+    "main": {
+     "text": "transfer",
+     "file": "model_47baf774845c.mp3"
+    }
+   },
+   "note": "change trains とも言う",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc080",
+   "theme": "car",
+   "en": "commute",
+   "ja": "通勤する・通勤",
+   "example": "My commute takes an hour.",
+   "audio": {
+    "main": {
+     "text": "commute",
+     "file": "model_5365fd79a484.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc081",
+   "theme": "shop",
+   "en": "fitting room",
+   "ja": "試着室",
+   "example": "The fitting room is over there.",
+   "audio": {
+    "main": {
+     "text": "fitting room",
+     "file": "model_2645b0ebf538.mp3"
+    }
+   },
+   "note": "dressing room とも言う",
+   "from": "sa105",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc082",
+   "theme": "shop",
+   "en": "free",
+   "ja": "無料の",
+   "example": "The coffee is free.",
+   "audio": {
+    "main": {
+     "text": "free",
+     "file": "model_7beb63dccd20.mp3"
+    }
+   },
+   "note": "for free ＝無料で。cost nothing ＝ free",
+   "from": "sa135",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc083",
+   "theme": "shop",
+   "en": "receipt",
+   "ja": "レシート・領収書",
+   "example": "Can I have a receipt?",
+   "audio": {
+    "main": {
+     "text": "receipt",
+     "file": "model_542b1ae1f112.mp3"
+    }
+   },
+   "note": "p は読まない「リスィート」",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc084",
+   "theme": "shop",
+   "en": "cashier",
+   "ja": "レジ係",
+   "example": "Pay the cashier.",
+   "audio": {
+    "main": {
+     "text": "cashier",
+     "file": "model_20340dc70b1c.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc085",
+   "theme": "shop",
+   "en": "checkout",
+   "ja": "レジ（会計所）",
+   "example": "There's a long line at the checkout.",
+   "audio": {
+    "main": {
+     "text": "checkout",
+     "file": "model_fe5b19b02044.mp3"
+    }
+   },
+   "note": "register とも言う",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc086",
+   "theme": "shop",
+   "en": "discount",
+   "ja": "割引",
+   "example": "Do you have a student discount?",
+   "audio": {
+    "main": {
+     "text": "discount",
+     "file": "model_8301bf87abd7.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc087",
+   "theme": "shop",
+   "en": "on sale",
+   "ja": "セール中・販売中",
+   "example": "These shoes are on sale.",
+   "audio": {
+    "main": {
+     "text": "on sale",
+     "file": "model_6d8139ed4d0b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc088",
+   "theme": "shop",
+   "en": "refund",
+   "ja": "返金",
+   "example": "I'd like a refund, please.",
+   "audio": {
+    "main": {
+     "text": "refund",
+     "file": "model_368cd317c8bb.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc089",
+   "theme": "shop",
+   "en": "exchange",
+   "ja": "交換する",
+   "example": "Can I exchange this for a larger size?",
+   "audio": {
+    "main": {
+     "text": "exchange",
+     "file": "model_3bd4fa69212b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc090",
+   "theme": "shop",
+   "en": "price tag",
+   "ja": "値札",
+   "example": "There's no price tag on this.",
+   "audio": {
+    "main": {
+     "text": "price tag",
+     "file": "model_75a5114a5824.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc091",
+   "theme": "shop",
+   "en": "aisle",
+   "ja": "（店・飛行機の）通路",
+   "example": "The rice is in aisle 5.",
+   "audio": {
+    "main": {
+     "text": "aisle",
+     "file": "model_afc4a6ab1ed2.mp3"
+    }
+   },
+   "note": "s は読まない「アイル」",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc092",
+   "theme": "shop",
+   "en": "cart",
+   "ja": "（買い物）カート",
+   "example": "Grab a cart.",
+   "audio": {
+    "main": {
+     "text": "cart",
+     "file": "model_e1e4cc68f9b6.mp3"
+    }
+   },
+   "note": "英国では trolley",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc093",
+   "theme": "shop",
+   "en": "bargain",
+   "ja": "お買い得品",
+   "example": "This jacket was a real bargain.",
+   "audio": {
+    "main": {
+     "text": "bargain",
+     "file": "model_adbb040fe5fc.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc094",
+   "theme": "shop",
+   "en": "sold out",
+   "ja": "売り切れ",
+   "example": "Sorry, it's sold out.",
+   "audio": {
+    "main": {
+     "text": "sold out",
+     "file": "model_193d86404883.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc095",
+   "theme": "shop",
+   "en": "in stock",
+   "ja": "在庫がある",
+   "example": "Is this in stock?",
+   "audio": {
+    "main": {
+     "text": "in stock",
+     "file": "model_8511088599d4.mp3"
+    }
+   },
+   "note": "out of stock ＝在庫切れ",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc096",
+   "theme": "shop",
+   "en": "change",
+   "ja": "おつり",
+   "example": "Here's your change.",
+   "audio": {
+    "main": {
+     "text": "change",
+     "file": "model_e247c51a359c.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc097",
+   "theme": "shop",
+   "en": "wallet",
+   "ja": "財布",
+   "example": "I left my wallet at home.",
+   "audio": {
+    "main": {
+     "text": "wallet",
+     "file": "model_80887cfdfe7a.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc098",
+   "theme": "shop",
+   "en": "grocery store",
+   "ja": "食料品店・スーパー",
+   "example": "I stopped by the grocery store.",
+   "audio": {
+    "main": {
+     "text": "grocery store",
+     "file": "model_3e4f9f568782.mp3"
+    }
+   },
+   "from": "speaking",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc099",
+   "theme": "shop",
+   "en": "clothing store",
+   "ja": "服屋",
+   "example": "She works at a clothing store.",
+   "audio": {
+    "main": {
+     "text": "clothing store",
+     "file": "model_9c4eff8fb850.mp3"
+    }
+   },
+   "note": "clothing の th は濁る。closing と聞き違えやすい",
+   "from": "sa105",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc100",
+   "theme": "shop",
+   "en": "bag",
+   "ja": "袋",
+   "example": "Do you need a bag?",
+   "audio": {
+    "main": {
+     "text": "bag",
+     "file": "model_e29212519045.mp3"
+    }
+   },
+   "note": "レジ袋は plastic bag",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc101",
+   "theme": "clothes",
+   "en": "raincoat",
+   "ja": "レインコート",
+   "example": "Wear a raincoat. It's raining.",
+   "audio": {
+    "main": {
+     "text": "raincoat",
+     "file": "model_97495f10fced.mp3"
+    }
+   },
+   "note": "傘は wear ではなく use / take",
+   "from": "sa077",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc102",
+   "theme": "clothes",
+   "en": "comb",
+   "ja": "くし",
+   "example": "I use a comb to make my hair neat.",
+   "audio": {
+    "main": {
+     "text": "comb",
+     "file": "model_af430901b4c1.mp3"
+    }
+   },
+   "note": "b は読まない「コウム」",
+   "from": "sa108",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc103",
+   "theme": "clothes",
+   "en": "hairbrush",
+   "ja": "ヘアブラシ",
+   "example": "Where's my hairbrush?",
+   "audio": {
+    "main": {
+     "text": "hairbrush",
+     "file": "model_5b5f56deb8f8.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc104",
+   "theme": "clothes",
+   "en": "sleeve",
+   "ja": "袖",
+   "example": "Roll up your sleeves.",
+   "audio": {
+    "main": {
+     "text": "sleeve",
+     "file": "model_3a7f79f9c17d.mp3"
+    }
+   },
+   "note": "short-sleeved ＝半袖の",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc105",
+   "theme": "clothes",
+   "en": "collar",
+   "ja": "襟",
+   "example": "Your collar is crooked.",
+   "audio": {
+    "main": {
+     "text": "collar",
+     "file": "model_8bf61488a6cc.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc106",
+   "theme": "clothes",
+   "en": "button",
+   "ja": "ボタン",
+   "example": "A button came off my shirt.",
+   "audio": {
+    "main": {
+     "text": "button",
+     "file": "model_ad1101d66794.mp3"
+    }
+   },
+   "note": "発音は「バトン」",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc107",
+   "theme": "clothes",
+   "en": "zipper",
+   "ja": "ファスナー・チャック",
+   "example": "Your zipper is open.",
+   "audio": {
+    "main": {
+     "text": "zipper",
+     "file": "model_fb6c97a30562.mp3"
+    }
+   },
+   "note": "英国では zip",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc108",
+   "theme": "clothes",
+   "en": "pocket",
+   "ja": "ポケット",
+   "example": "Keep your phone in your pocket.",
+   "audio": {
+    "main": {
+     "text": "pocket",
+     "file": "model_31aee3b0aa4b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc109",
+   "theme": "clothes",
+   "en": "sneakers",
+   "ja": "スニーカー",
+   "example": "I wear sneakers to work.",
+   "audio": {
+    "main": {
+     "text": "sneakers",
+     "file": "model_7011f484eb51.mp3"
+    }
+   },
+   "note": "英国では trainers",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc110",
+   "theme": "clothes",
+   "en": "sweater",
+   "ja": "セーター",
+   "example": "Take a sweater. It's cold.",
+   "audio": {
+    "main": {
+     "text": "sweater",
+     "file": "model_f73d78dc8ff1.mp3"
+    }
+   },
+   "note": "発音は「スウェター」",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc111",
+   "theme": "clothes",
+   "en": "jacket",
+   "ja": "上着・ジャケット",
+   "example": "Put on your jacket.",
+   "audio": {
+    "main": {
+     "text": "jacket",
+     "file": "model_42689e266d2e.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc112",
+   "theme": "clothes",
+   "en": "pajamas",
+   "ja": "パジャマ",
+   "example": "The kids are already in their pajamas.",
+   "audio": {
+    "main": {
+     "text": "pajamas",
+     "file": "model_99ef690484bb.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc113",
+   "theme": "clothes",
+   "en": "underwear",
+   "ja": "下着",
+   "example": "Pack enough underwear for the trip.",
+   "audio": {
+    "main": {
+     "text": "underwear",
+     "file": "model_60954dc3d990.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc114",
+   "theme": "clothes",
+   "en": "socks",
+   "ja": "靴下",
+   "example": "I need a new pair of socks.",
+   "audio": {
+    "main": {
+     "text": "socks",
+     "file": "model_40fb2ad538ec.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc115",
+   "theme": "clothes",
+   "en": "try on",
+   "ja": "試着する",
+   "example": "Can I try this on?",
+   "audio": {
+    "main": {
+     "text": "try on",
+     "file": "model_6cd041e86002.mp3"
+    }
+   },
+   "from": "sa105",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc116",
+   "theme": "clothes",
+   "en": "fit",
+   "ja": "（サイズが）合う",
+   "example": "These jeans don't fit me.",
+   "audio": {
+    "main": {
+     "text": "fit",
+     "file": "model_86809656d8c5.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc117",
+   "theme": "clothes",
+   "en": "loose",
+   "ja": "ゆるい",
+   "example": "This shirt is a little loose.",
+   "audio": {
+    "main": {
+     "text": "loose",
+     "file": "model_eab7f88b950c.mp3"
+    }
+   },
+   "note": "発音は「ルース」。lose（なくす）は「ルーズ」",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc118",
+   "theme": "clothes",
+   "en": "tight",
+   "ja": "きつい",
+   "example": "These shoes are too tight.",
+   "audio": {
+    "main": {
+     "text": "tight",
+     "file": "model_627912c04acc.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc119",
+   "theme": "clothes",
+   "en": "shave",
+   "ja": "ひげをそる",
+   "example": "I shave every morning.",
+   "audio": {
+    "main": {
+     "text": "shave",
+     "file": "model_ec2a320ac348.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc120",
+   "theme": "clothes",
+   "en": "razor",
+   "ja": "かみそり",
+   "example": "I need a new razor.",
+   "audio": {
+    "main": {
+     "text": "razor",
+     "file": "model_19182566243b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc121",
+   "theme": "nature",
+   "en": "leap year",
+   "ja": "うるう年",
+   "example": "There are 366 days in a leap year.",
+   "audio": {
+    "main": {
+     "text": "leap year",
+     "file": "model_407dcc69de16.mp3"
+    }
+   },
+   "note": "leap ＝跳ぶ。2 月 29 日は leap day",
+   "from": "sa092",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc122",
+   "theme": "nature",
+   "en": "forecast",
+   "ja": "天気予報",
+   "example": "The forecast says it'll rain tomorrow.",
+   "audio": {
+    "main": {
+     "text": "forecast",
+     "file": "model_9287f123d986.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc123",
+   "theme": "nature",
+   "en": "humid",
+   "ja": "蒸し暑い・湿気が多い",
+   "example": "It's so humid today.",
+   "audio": {
+    "main": {
+     "text": "humid",
+     "file": "model_80648c7b0b55.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc124",
+   "theme": "nature",
+   "en": "shower",
+   "ja": "にわか雨",
+   "example": "There may be showers this afternoon.",
+   "audio": {
+    "main": {
+     "text": "shower",
+     "file": "model_05215cfe9c69.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc125",
+   "theme": "nature",
+   "en": "thunder",
+   "ja": "雷（の音）",
+   "example": "The dog is scared of thunder.",
+   "audio": {
+    "main": {
+     "text": "thunder",
+     "file": "model_61e2464cbcf0.mp3"
+    }
+   },
+   "note": "光は lightning",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc126",
+   "theme": "nature",
+   "en": "lightning",
+   "ja": "稲妻",
+   "example": "The tree was hit by lightning.",
+   "audio": {
+    "main": {
+     "text": "lightning",
+     "file": "model_c4d2f1600017.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc127",
+   "theme": "nature",
+   "en": "drizzle",
+   "ja": "霧雨",
+   "example": "It's only a drizzle.",
+   "audio": {
+    "main": {
+     "text": "drizzle",
+     "file": "model_1c00e53274c9.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc128",
+   "theme": "nature",
+   "en": "freezing",
+   "ja": "凍えるほど寒い",
+   "example": "It's freezing outside.",
+   "audio": {
+    "main": {
+     "text": "freezing",
+     "file": "model_4eb6f057c442.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc129",
+   "theme": "nature",
+   "en": "heat wave",
+   "ja": "猛暑",
+   "example": "We're having a heat wave.",
+   "audio": {
+    "main": {
+     "text": "heat wave",
+     "file": "model_3779de5b3aa0.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc130",
+   "theme": "nature",
+   "en": "typhoon",
+   "ja": "台風",
+   "example": "The typhoon is coming this weekend.",
+   "audio": {
+    "main": {
+     "text": "typhoon",
+     "file": "model_42f9f6229759.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc131",
+   "theme": "nature",
+   "en": "puddle",
+   "ja": "水たまり",
+   "example": "Don't step in the puddle.",
+   "audio": {
+    "main": {
+     "text": "puddle",
+     "file": "model_bb6bb4333478.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc132",
+   "theme": "nature",
+   "en": "shade",
+   "ja": "日陰",
+   "example": "Let's sit in the shade.",
+   "audio": {
+    "main": {
+     "text": "shade",
+     "file": "model_d54c05ec0792.mp3"
+    }
+   },
+   "note": "shadow は「影」",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc133",
+   "theme": "nature",
+   "en": "sunset",
+   "ja": "夕日・日の入り",
+   "example": "We watched the sunset.",
+   "audio": {
+    "main": {
+     "text": "sunset",
+     "file": "model_50723f307fe7.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc134",
+   "theme": "nature",
+   "en": "tide",
+   "ja": "潮",
+   "example": "The tide is coming in.",
+   "audio": {
+    "main": {
+     "text": "tide",
+     "file": "model_5e088990c8dd.mp3"
+    }
+   },
+   "from": "lesson",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc135",
+   "theme": "nature",
+   "en": "shore",
+   "ja": "岸",
+   "example": "We walked along the shore.",
+   "audio": {
+    "main": {
+     "text": "shore",
+     "file": "model_43a7ac2ea8e9.mp3"
+    }
+   },
+   "from": "lesson",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc136",
+   "theme": "nature",
+   "en": "hill",
+   "ja": "丘",
+   "example": "Our house is on a hill.",
+   "audio": {
+    "main": {
+     "text": "hill",
+     "file": "model_5bfe297c61c2.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc137",
+   "theme": "nature",
+   "en": "valley",
+   "ja": "谷",
+   "example": "There's a river in the valley.",
+   "audio": {
+    "main": {
+     "text": "valley",
+     "file": "model_62d720b72f67.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc138",
+   "theme": "nature",
+   "en": "leaves",
+   "ja": "葉（複数）",
+   "example": "The leaves turn red in fall.",
+   "audio": {
+    "main": {
+     "text": "leaves",
+     "file": "model_4317e6470cff.mp3"
+    }
+   },
+   "note": "単数は leaf",
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc139",
+   "theme": "nature",
+   "en": "season",
+   "ja": "季節",
+   "example": "What's your favorite season?",
+   "audio": {
+    "main": {
+     "text": "season",
+     "file": "model_aa17b7cf128d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc140",
+   "theme": "nature",
+   "en": "earthquake",
+   "ja": "地震",
+   "example": "Did you feel the earthquake last night?",
+   "audio": {
+    "main": {
+     "text": "earthquake",
+     "file": "model_c8d208b97b2d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc141",
+   "theme": "office",
+   "en": "stamp",
+   "ja": "切手",
+   "example": "Put a stamp on the letter.",
+   "audio": {
+    "main": {
+     "text": "stamp",
+     "file": "model_b607f3a1c82e.mp3"
+    }
+   },
+   "from": "sa039",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc142",
+   "theme": "office",
+   "en": "envelope",
+   "ja": "封筒",
+   "example": "Put the letter in an envelope.",
+   "audio": {
+    "main": {
+     "text": "envelope",
+     "file": "model_febd6b16446a.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc143",
+   "theme": "office",
+   "en": "stapler",
+   "ja": "ホッチキス",
+   "example": "Can I borrow your stapler?",
+   "audio": {
+    "main": {
+     "text": "stapler",
+     "file": "model_2a20d9a851c8.mp3"
+    }
+   },
+   "note": "Hotchkiss とは言わない",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc144",
+   "theme": "office",
+   "en": "deadline",
+   "ja": "締め切り",
+   "example": "The deadline is Friday.",
+   "audio": {
+    "main": {
+     "text": "deadline",
+     "file": "model_525d4d67f3cd.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc145",
+   "theme": "office",
+   "en": "meeting room",
+   "ja": "会議室",
+   "example": "The meeting room is booked.",
+   "audio": {
+    "main": {
+     "text": "meeting room",
+     "file": "model_6f8ee641f7fd.mp3"
+    }
+   },
+   "note": "conference room とも言う",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc146",
+   "theme": "office",
+   "en": "colleague",
+   "ja": "同僚",
+   "example": "She's a colleague of mine.",
+   "audio": {
+    "main": {
+     "text": "colleague",
+     "file": "model_e4af32546806.mp3"
+    }
+   },
+   "note": "発音は「カリーグ」",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc147",
+   "theme": "office",
+   "en": "supervisor",
+   "ja": "上司",
+   "example": "Ask your supervisor.",
+   "audio": {
+    "main": {
+     "text": "supervisor",
+     "file": "model_e1a401ad0db2.mp3"
+    }
+   },
+   "note": "boss はくだけた言い方",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc148",
+   "theme": "office",
+   "en": "day off",
+   "ja": "休み（の日）",
+   "example": "I'm taking a day off tomorrow.",
+   "audio": {
+    "main": {
+     "text": "day off",
+     "file": "model_7cf2804b6b00.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc149",
+   "theme": "office",
+   "en": "overtime",
+   "ja": "残業",
+   "example": "I worked overtime yesterday.",
+   "audio": {
+    "main": {
+     "text": "overtime",
+     "file": "model_c57f9be88d98.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc150",
+   "theme": "office",
+   "en": "appointment",
+   "ja": "（人と会う）約束・予約",
+   "example": "I have a dentist appointment at three.",
+   "audio": {
+    "main": {
+     "text": "appointment",
+     "file": "model_3d2e5b7ca450.mp3"
+    }
+   },
+   "note": "店の予約は reservation",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc151",
+   "theme": "office",
+   "en": "paper clip",
+   "ja": "クリップ",
+   "example": "Hold them together with a paper clip.",
+   "audio": {
+    "main": {
+     "text": "paper clip",
+     "file": "model_a5f48ef48f6f.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc152",
+   "theme": "office",
+   "en": "sticky note",
+   "ja": "付箋",
+   "example": "I left a sticky note on your desk.",
+   "audio": {
+    "main": {
+     "text": "sticky note",
+     "file": "model_c9af7f7bb848.mp3"
+    }
+   },
+   "note": "Post-it note とも言う",
+   "from": "speaking",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc153",
+   "theme": "office",
+   "en": "business card",
+   "ja": "名刺",
+   "example": "Here's my business card.",
+   "audio": {
+    "main": {
+     "text": "business card",
+     "file": "model_2e37479cc381.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc154",
+   "theme": "office",
+   "en": "promotion",
+   "ja": "昇進",
+   "example": "Congratulations on your promotion!",
+   "audio": {
+    "main": {
+     "text": "promotion",
+     "file": "model_539396686a6b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc155",
+   "theme": "office",
+   "en": "salary",
+   "ja": "給料",
+   "example": "The salary is paid monthly.",
+   "audio": {
+    "main": {
+     "text": "salary",
+     "file": "model_43d52ff94ba3.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc156",
+   "theme": "office",
+   "en": "interview",
+   "ja": "面接",
+   "example": "I have a job interview tomorrow.",
+   "audio": {
+    "main": {
+     "text": "interview",
+     "file": "model_71e9b7396e28.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc157",
+   "theme": "office",
+   "en": "quit",
+   "ja": "（仕事を）辞める",
+   "example": "He quit his job last month.",
+   "audio": {
+    "main": {
+     "text": "quit",
+     "file": "model_1c340dbd24ea.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc158",
+   "theme": "office",
+   "en": "presentation",
+   "ja": "発表・プレゼン",
+   "example": "I'm giving a presentation on Monday.",
+   "audio": {
+    "main": {
+     "text": "presentation",
+     "file": "model_11cb358f573d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc159",
+   "theme": "office",
+   "en": "schedule",
+   "ja": "予定（表）",
+   "example": "My schedule is full this week.",
+   "audio": {
+    "main": {
+     "text": "schedule",
+     "file": "model_25406608c320.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc160",
+   "theme": "office",
+   "en": "shift",
+   "ja": "（交代制の）勤務時間",
+   "example": "I work the night shift.",
+   "audio": {
+    "main": {
+     "text": "shift",
+     "file": "model_40bec544d328.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc161",
+   "theme": "family",
+   "en": "crib",
+   "ja": "ベビーベッド",
+   "example": "The baby is sleeping in the crib.",
+   "audio": {
+    "main": {
+     "text": "crib",
+     "file": "model_0ed5c9e998fb.mp3"
+    }
+   },
+   "note": "英国では cot",
+   "from": "sa116",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc162",
+   "theme": "family",
+   "en": "cradle",
+   "ja": "揺りかご",
+   "example": "She rocked the cradle.",
+   "audio": {
+    "main": {
+     "text": "cradle",
+     "file": "model_aca99965aedb.mp3"
+    }
+   },
+   "from": "sa116",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc163",
+   "theme": "family",
+   "en": "stroller",
+   "ja": "ベビーカー",
+   "example": "Can I bring a stroller on the bus?",
+   "audio": {
+    "main": {
+     "text": "stroller",
+     "file": "model_9f8ea32c36fc.mp3"
+    }
+   },
+   "note": "baby car とは言わない。英国では pushchair",
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc164",
+   "theme": "family",
+   "en": "diaper",
+   "ja": "おむつ",
+   "example": "I need to change his diaper.",
+   "audio": {
+    "main": {
+     "text": "diaper",
+     "file": "model_dcce7be9fadb.mp3"
+    }
+   },
+   "note": "英国では nappy",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc165",
+   "theme": "family",
+   "en": "pacifier",
+   "ja": "おしゃぶり",
+   "example": "The baby won't sleep without a pacifier.",
+   "audio": {
+    "main": {
+     "text": "pacifier",
+     "file": "model_c6df4b70774f.mp3"
+    }
+   },
+   "note": "英国では dummy",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc166",
+   "theme": "family",
+   "en": "baby bottle",
+   "ja": "哺乳瓶",
+   "example": "Warm up the baby bottle.",
+   "audio": {
+    "main": {
+     "text": "baby bottle",
+     "file": "model_6808774b6684.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc167",
+   "theme": "family",
+   "en": "bib",
+   "ja": "よだれかけ",
+   "example": "Put a bib on her before she eats.",
+   "audio": {
+    "main": {
+     "text": "bib",
+     "file": "model_78ff56cebde6.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc168",
+   "theme": "family",
+   "en": "daycare",
+   "ja": "保育園",
+   "example": "I drop my son off at daycare.",
+   "audio": {
+    "main": {
+     "text": "daycare",
+     "file": "model_6e07ad87e2fa.mp3"
+    }
+   },
+   "note": "nursery とも言う",
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc169",
+   "theme": "family",
+   "en": "kindergarten",
+   "ja": "幼稚園",
+   "example": "She started kindergarten this year.",
+   "audio": {
+    "main": {
+     "text": "kindergarten",
+     "file": "model_4a8f85ab6780.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc170",
+   "theme": "family",
+   "en": "babysitter",
+   "ja": "ベビーシッター",
+   "example": "We need a babysitter for Saturday.",
+   "audio": {
+    "main": {
+     "text": "babysitter",
+     "file": "model_c12be1493b0a.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc171",
+   "theme": "family",
+   "en": "tantrum",
+   "ja": "かんしゃく",
+   "example": "He threw a tantrum at the store.",
+   "audio": {
+    "main": {
+     "text": "tantrum",
+     "file": "model_8135a6db28b5.mp3"
+    }
+   },
+   "note": "throw a tantrum ＝かんしゃくを起こす",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc172",
+   "theme": "family",
+   "en": "nap",
+   "ja": "昼寝・昼寝する",
+   "example": "The kids are taking a nap.",
+   "audio": {
+    "main": {
+     "text": "nap",
+     "file": "model_7e5be7e6f9e5.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc173",
+   "theme": "family",
+   "en": "playground",
+   "ja": "（公園の）遊び場",
+   "example": "Let's go to the playground.",
+   "audio": {
+    "main": {
+     "text": "playground",
+     "file": "model_ebc719497fd0.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc174",
+   "theme": "family",
+   "en": "slide",
+   "ja": "すべり台",
+   "example": "She went down the slide.",
+   "audio": {
+    "main": {
+     "text": "slide",
+     "file": "model_591cb1062d3f.mp3"
+    }
+   },
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc175",
+   "theme": "family",
+   "en": "swing",
+   "ja": "ぶらんこ",
+   "example": "Push me on the swing!",
+   "audio": {
+    "main": {
+     "text": "swing",
+     "file": "model_334f4042aa3e.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc176",
+   "theme": "family",
+   "en": "sibling",
+   "ja": "きょうだい",
+   "example": "Do you have any siblings?",
+   "audio": {
+    "main": {
+     "text": "sibling",
+     "file": "model_bc1210279cb2.mp3"
+    }
+   },
+   "note": "兄弟姉妹をまとめて言う語",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc177",
+   "theme": "family",
+   "en": "twins",
+   "ja": "双子",
+   "example": "They're twins.",
+   "audio": {
+    "main": {
+     "text": "twins",
+     "file": "model_ecd29070e9bf.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc178",
+   "theme": "family",
+   "en": "relative",
+   "ja": "親戚",
+   "example": "We're visiting relatives this weekend.",
+   "audio": {
+    "main": {
+     "text": "relative",
+     "file": "model_2f86b81a0322.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc179",
+   "theme": "family",
+   "en": "raise",
+   "ja": "（子どもを）育てる",
+   "example": "She raised three kids.",
+   "audio": {
+    "main": {
+     "text": "raise",
+     "file": "model_1f0c4816b651.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc180",
+   "theme": "family",
+   "en": "feed",
+   "ja": "食べさせる・えさをやる",
+   "example": "Did you feed the baby?",
+   "audio": {
+    "main": {
+     "text": "feed",
+     "file": "model_5a8d38867b77.mp3"
+    }
+   },
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
+   "id": "vc181",
+   "theme": "travel",
+   "en": "boarding pass",
+   "ja": "搭乗券",
+   "example": "Please show your boarding pass.",
+   "audio": {
+    "main": {
+     "text": "boarding pass",
+     "file": "model_13bc808f3720.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc182",
+   "theme": "travel",
+   "en": "carry-on",
+   "ja": "機内持ち込みの手荷物",
+   "example": "I only have a carry-on.",
+   "audio": {
+    "main": {
+     "text": "carry-on",
+     "file": "model_672c3ee10ed4.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc183",
+   "theme": "travel",
+   "en": "baggage claim",
+   "ja": "手荷物受取所",
+   "example": "Let's meet at baggage claim.",
+   "audio": {
+    "main": {
+     "text": "baggage claim",
+     "file": "model_12bd5b7bfa0e.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc184",
+   "theme": "travel",
+   "en": "customs",
+   "ja": "税関",
+   "example": "We went through customs.",
+   "audio": {
+    "main": {
+     "text": "customs",
+     "file": "model_4da7a13e1663.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc185",
+   "theme": "travel",
+   "en": "gate",
+   "ja": "搭乗口",
+   "example": "Our flight leaves from gate 12.",
+   "audio": {
+    "main": {
+     "text": "gate",
+     "file": "model_effd9c9c48a8.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc186",
+   "theme": "travel",
+   "en": "aisle seat",
+   "ja": "通路側の席",
+   "example": "Could I have an aisle seat?",
+   "audio": {
+    "main": {
+     "text": "aisle seat",
+     "file": "model_19ba871fc2e7.mp3"
+    }
+   },
+   "note": "窓側は window seat",
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc187",
+   "theme": "travel",
+   "en": "round trip",
+   "ja": "往復",
+   "example": "A round trip ticket to Osaka, please.",
+   "audio": {
+    "main": {
+     "text": "round trip",
+     "file": "model_f310df92bdd2.mp3"
+    }
+   },
+   "note": "英国では return",
+   "voice": {
+    "name": "David",
+    "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc188",
+   "theme": "travel",
+   "en": "one-way",
+   "ja": "片道の",
+   "example": "Just a one-way ticket.",
+   "audio": {
+    "main": {
+     "text": "one-way",
+     "file": "model_ec8e29b7ac80.mp3"
+    }
+   },
+   "note": "英国では single",
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc189",
+   "theme": "travel",
+   "en": "delay",
+   "ja": "遅れ・遅らせる",
+   "example": "The flight was delayed two hours.",
+   "audio": {
+    "main": {
+     "text": "delay",
+     "file": "model_c951990d637d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
+  },
+  {
+   "id": "vc190",
+   "theme": "travel",
+   "en": "layover",
+   "ja": "乗り継ぎ待ち",
+   "example": "We have a three-hour layover in Seoul.",
+   "audio": {
+    "main": {
+     "text": "layover",
+     "file": "model_987a04db6eae.mp3"
+    }
+   },
+   "voice": {
+    "name": "Quentin",
+    "id": "Aa6nEBJJMKJwJkCx8VU2"
+   }
+  },
+  {
+   "id": "vc191",
+   "theme": "travel",
+   "en": "check in",
+   "ja": "チェックインする",
+   "example": "We can check in after three o'clock.",
+   "audio": {
+    "main": {
+     "text": "check in",
+     "file": "model_1fdd33cd29fa.mp3"
+    }
+   },
+   "voice": {
+    "name": "Hope",
+    "id": "WZlYpi1yf6zJhNWXih74"
+   }
+  },
+  {
+   "id": "vc192",
+   "theme": "travel",
+   "en": "reservation",
+   "ja": "（店・ホテルの）予約",
+   "example": "I have a reservation under Tanaka.",
+   "audio": {
+    "main": {
+     "text": "reservation",
+     "file": "model_f41e4e4d8ad0.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
+   "id": "vc193",
+   "theme": "travel",
+   "en": "sightseeing",
+   "ja": "観光",
+   "example": "We went sightseeing in Kyoto.",
+   "audio": {
+    "main": {
+     "text": "sightseeing",
+     "file": "model_48a628bf4000.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc194",
+   "theme": "travel",
+   "en": "souvenir",
+   "ja": "おみやげ",
+   "example": "I bought some souvenirs for my family.",
+   "audio": {
+    "main": {
+     "text": "souvenir",
+     "file": "model_91c637f8ba88.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc195",
+   "theme": "travel",
+   "en": "currency exchange",
+   "ja": "両替所",
+   "example": "Where's the currency exchange?",
+   "audio": {
+    "main": {
+     "text": "currency exchange",
+     "file": "model_3d306224d575.mp3"
+    }
+   },
+   "voice": {
+    "name": "Liam",
+    "id": "TX3LPaxmHKxFdv7VOQHJ"
+   }
+  },
+  {
+   "id": "vc196",
+   "theme": "travel",
+   "en": "jet lag",
+   "ja": "時差ぼけ",
+   "example": "I'm still jet-lagged.",
+   "audio": {
+    "main": {
+     "text": "jet lag",
+     "file": "model_9f4a4e754a75.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc197",
+   "theme": "travel",
+   "en": "departure",
+   "ja": "出発",
+   "example": "Check the departure time.",
+   "audio": {
+    "main": {
+     "text": "departure",
+     "file": "model_bc1a499c5cdb.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc198",
+   "theme": "travel",
+   "en": "arrival",
+   "ja": "到着",
+   "example": "The arrival gate is on the first floor.",
+   "audio": {
+    "main": {
+     "text": "arrival",
+     "file": "model_711d7bd9bacc.mp3"
+    }
+   },
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc199",
+   "theme": "travel",
+   "en": "luggage",
+   "ja": "荷物",
+   "example": "How much luggage do you have?",
+   "audio": {
+    "main": {
+     "text": "luggage",
+     "file": "model_0cd94f27612e.mp3"
+    }
+   },
+   "note": "数えない名詞。a piece of luggage",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
+   "id": "vc200",
+   "theme": "travel",
+   "en": "itinerary",
+   "ja": "旅程",
+   "example": "Here's our itinerary for the trip.",
+   "audio": {
+    "main": {
+     "text": "itinerary",
+     "file": "model_c4f8bd41538d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  }
+ ]
+}

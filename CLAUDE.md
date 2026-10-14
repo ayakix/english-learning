@@ -30,6 +30,7 @@ curriculum/roadmap.md の「1 日・1 週間の型」に沿って、今日やる
 - 直近の journal の「## 記録されない練習」を読み、続きを指定する（例：リンキングの次の型、復唱の次の ID 範囲とレベル、苦手だった組の復習）
 - 教材・スピーキングテストは `trainer summary` で直近の結果を見て、弱い所があれば一言添える
 - タブの URL（http://localhost:8765/#versant など）も添える
+- ② Versant の後に単語タブを 5 分入れる。向き（英→日・日→英）とテーマ・範囲を指定する（例：「今日は日→英の台所・料理 vc001-vc010」）。直近の summary の「## 単語」で × が多かったテーマ・向きを優先する
 
 ### 記録されない練習（終了の合図のあと）
 
@@ -86,7 +87,8 @@ total_minutes: 0
   - スピーキングには TOEIC の写真描写と同じ形式の「テスト」がある
   - 「発音」タブでは、リンキング（音のつながり）とミニマルペアの例題を聞いて真似できる
   - 「Versant」タブには、Versant 形式の復唱と即答のドリルがある
-- 教材の原稿・設問（content/generated）、スピーキングテストの写真選び・模範解答（content/speaking）、発音・ドリルの例題（content/linking・content/drills）は Claude が書く。Gemini はアプリ動作中の採点・設問生成に使う
+  - 「単語」タブでは、身近なものの単語（10 テーマ × 20 語）を英→日・日→英で確かめ、○/× を記録する
+- 教材の原稿・設問（content/generated）、スピーキングテストの写真選び・模範解答（content/speaking）、発音・ドリルの例題（content/linking・content/drills）、単語（content/drills/vocab）は Claude が書く。即答などで知らなかった単語は content/drills/vocab にも足し、`trainer stock drills vocab` で音声を作る。Gemini はアプリ動作中の採点・設問生成に使う
 - 練習ログは `practice/<技能>/YYYY/MM/<id>/session.json` に保存される（session.json だけ git 管理。写真・音声は管理外）
   - どの技能も `result.score`（0〜100）を持ち、進捗の集計に使う。AI の採点はぶれるので、週の平均で傾向を見る
 - journal を仕上げるときは、その日の練習結果を次のコマンドで取得して「やったこと」「間違えたこと」に反映する

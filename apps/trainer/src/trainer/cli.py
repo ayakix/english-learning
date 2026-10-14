@@ -7,7 +7,7 @@
   trainer stock build [ID ...]    AI 教材の原稿を音声にする（--limit N で本数を絞る）
   trainer stock speaking          スピーキングテストの写真と手本音声を用意する
   trainer stock linking           発音（リンキング）の例題の音声を作る
-  trainer stock drills [種類 ...]  復唱・即答・ミニマルペアの音声を作る（repeats / short-answers / minimal-pairs）
+  trainer stock drills [種類 ...]  復唱・即答・ミニマルペア・単語の音声を作る（repeats / short-answers / minimal-pairs / vocab）
 """
 import argparse
 import threading

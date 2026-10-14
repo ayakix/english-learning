@@ -3,7 +3,7 @@
 Claude が journal と mistakes を仕上げるときの材料にする（CLAUDE.md 参照）。
 session.json を直接読ませるより、要点だけに絞った方が転記の漏れや読み違いが少ない。
 """
-from . import activity, storage, versant
+from . import activity, storage, versant, vocab
 from .progress import SKILL_JA
 
 MODE_JA = {"overlap": "シャドーイング", "repeat": "リピート"}
@@ -131,8 +131,19 @@ def _versant(s: dict) -> list[str]:
     return out
 
 
+def _vocab(s: dict) -> list[str]:
+    d = s["result"]["details"]
+    out = ["- %s：言えた %d / %d" % (s["title"], d["ok"], d["total"])]
+    items = vocab.items_by_id()
+    for i, m in s["marks"].items():
+        if not m["ok"]:
+            it = items.get(i, {})
+            out.append("  - 言えなかった：%s %s（%s）" % (i, it.get("en", ""), it.get("ja", "")))
+    return out
+
+
 RENDER = {"speaking": _speaking, "listening": _listening, "writing": _writing, "reading": _reading, "lesson": _lesson,
-          "versant": _versant}
+          "versant": _versant, "vocab": _vocab}
 
 
 def render(date: str) -> str:

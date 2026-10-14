@@ -14,6 +14,7 @@ import { PronunciationPage } from "./pages/PronunciationPage";
 import { ReadingPage } from "./pages/ReadingPage";
 import { SpeakingPage } from "./pages/SpeakingPage";
 import { VersantPage } from "./pages/VersantPage";
+import { VocabPage } from "./pages/VocabPage";
 import { WritingPage } from "./pages/WritingPage";
 import type { Config, Voice } from "./types";
 
@@ -26,6 +27,7 @@ const TABS: { key: string; label: string; page: ReactNode }[] = [
   { key: "lesson", label: "教材", page: <LessonPage /> },
   { key: "pronunciation", label: "発音", page: <PronunciationPage /> },
   { key: "versant", label: "Versant", page: <VersantPage /> },
+  { key: "vocab", label: "単語", page: <VocabPage /> },
   { key: "progress", label: "進捗", page: <ProgressPage /> },
 ];
 
