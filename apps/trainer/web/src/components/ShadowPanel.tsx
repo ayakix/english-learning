@@ -290,6 +290,9 @@ export function ShadowPanel(props: {
     ArrowRight: () => selectSent(sel + 1),
     ArrowUp: () => selectSent(sel - 1),
     ArrowLeft: () => selectSent(sel - 1),
+    // Vim と同じ j / k でも動かす（ホームポジションから手を離さずに済むように）
+    j: () => selectSent(sel + 1),
+    k: () => selectSent(sel - 1),
     "[": () => setSpeed(settings.speed - 0.05),
     "]": () => setSpeed(settings.speed + 0.05),
     r: () => shadowRec("overlap"),
@@ -337,7 +340,8 @@ export function ShadowPanel(props: {
             </button>
             <span className="hint">
               文をクリックで選択 / <Kbd>↑</Kbd>
-              <Kbd>↓</Kbd> で移動
+              <Kbd>↓</Kbd>（<Kbd>k</Kbd>
+              <Kbd>j</Kbd>）で移動
             </span>
           </div>
           <div className="sents" ref={sentsEl}>

@@ -1,0 +1,870 @@
+{
+  "id": "20261014-221012",
+  "skill": "speaking",
+  "created": "2026-10-14 22:10",
+  "title": "People shop for produce in a vibrant market",
+  "result": {
+    "score": 60,
+    "details": {
+      "description": 60,
+      "recordings": 8,
+      "pronunciation": 71,
+      "fluency": 68,
+      "intonation": 69,
+      "completeness": 88,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 72
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1742036626607-3ae1ac406cae?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MTN8fHN1cGVybWFya2V0JTIwc2hvcHBpbmclMjBwZW9wbGV8ZW58MXwwfHx8MTc5MTA0MzM4MHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Dominic Kurniawan Suryaputra",
+      "profile": "https://unsplash.com/@d_ks11?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/people-shop-for-produce-in-a-vibrant-market-YGLwhiXx6z4?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "People shop for produce in a vibrant market"
+    }
+  },
+  "attempts": [
+    {
+      "time": "22:12:06",
+      "text": "This photo shows a grocery store. On the left, the man is looking for grapes, and on the right, two woman are looking for some fruits. There a lot of bananas on sale.",
+      "score": 60
+    }
+  ],
+  "correction": {
+    "corrected": "This photo shows a grocery store. On the left, a man is looking at grapes, and on the right, two women are looking for some fruit. There are a lot of bananas hanging.",
+    "corrections": [
+      {
+        "before": "the man",
+        "after": "a man",
+        "reason_ja": "写真の中で初めて言及する人物には、定冠詞 the ではなく不定冠詞 a を使います。"
+      },
+      {
+        "before": "looking for grapes",
+        "after": "looking at grapes",
+        "reason_ja": "目の前にあるぶどうを見ている・選んでいる様子なので、探し回るニュアンスの looking for より looking at や examining などが適切です。"
+      },
+      {
+        "before": "two woman",
+        "after": "two women",
+        "reason_ja": "2人なので複数形の women（発音は /wɪmɪn/）にします。"
+      },
+      {
+        "before": "some fruits",
+        "after": "some fruit",
+        "reason_ja": "果物全般を指す場合、fruit は通常不可算名詞として単数形で用います。"
+      },
+      {
+        "before": "There a lot of",
+        "after": "There are a lot of",
+        "reason_ja": "There is / are 構文の be動詞（are）が抜けています。"
+      }
+    ],
+    "ideal": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+    "key_expressions": [
+      {
+        "en": "fruit section",
+        "ja": "果物売り場"
+      },
+      {
+        "en": "hang from the ceiling",
+        "ja": "天井から吊り下げられている"
+      },
+      {
+        "en": "in the foreground",
+        "ja": "手前に、前景に"
+      },
+      {
+        "en": "piles of",
+        "ja": "山積みの〜"
+      }
+    ],
+    "feedback_ja": "お店の場所設定から左右の人物、特徴的なバナナへと視点を移して描写できており、写真の概要は十分に伝わっています。一方で、be動詞の脱落や単語ごとのポーズが目立ち、テンポがやや途切れがちでした。次回は「場所→手前の目立つ物・人物（吊るされたバナナや果物を選ぶ客）→奥の様子」の流れを意識し、動作の動詞（arranging, choosing など）の語彙を増やす練習を優先しましょう。",
+    "score": 60,
+    "original": "This photo shows a grocery store. On the left, the man is looking for grapes, and on the right, two woman are looking for some fruits. There a lot of bananas on sale.",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_eeee9b45d682.mp3",
+    "text": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+    "voice_id": "Aa6nEBJJMKJwJkCx8VU2",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture shows the fruit section of a busy supermarket.",
+        "start": 0.0,
+        "end": 3.68
+      },
+      {
+        "text": "Many bunches of bananas are hanging from the ceiling.",
+        "start": 4.0,
+        "end": 6.92
+      },
+      {
+        "text": "In the foreground, there are piles of apples, pears and grapes with yellow price signs.",
+        "start": 7.2,
+        "end": 12.68
+      },
+      {
+        "text": "On the left, a man in a black T-shirt is arranging the fruit.",
+        "start": 12.96,
+        "end": 16.88
+      },
+      {
+        "text": "On the right, a few women are shopping, and one of them is carrying a brown bag.",
+        "start": 16.92,
+        "end": 21.76
+      },
+      {
+        "text": "Red decorations are hanging above them.",
+        "start": 21.84,
+        "end": 24.08
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.24,
+        "e": 0.594,
+        "i": 0
+      },
+      {
+        "t": "shows",
+        "s": 0.64,
+        "e": 0.976,
+        "i": 0
+      },
+      {
+        "t": "the",
+        "s": 1.04,
+        "e": 1.107,
+        "i": 0
+      },
+      {
+        "t": "fruit",
+        "s": 1.12,
+        "e": 1.44,
+        "i": 0
+      },
+      {
+        "t": "section",
+        "s": 1.52,
+        "e": 1.92,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 2.0,
+        "e": 2.08,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 2.16,
+        "e": 2.24,
+        "i": 0
+      },
+      {
+        "t": "busy",
+        "s": 2.32,
+        "e": 2.56,
+        "i": 0
+      },
+      {
+        "t": "supermarket.",
+        "s": 2.64,
+        "e": 3.68,
+        "i": 0
+      },
+      {
+        "t": "Many",
+        "s": 4.0,
+        "e": 4.16,
+        "i": 1
+      },
+      {
+        "t": "bunches",
+        "s": 4.32,
+        "e": 4.64,
+        "i": 1
+      },
+      {
+        "t": "of",
+        "s": 4.68,
+        "e": 4.72,
+        "i": 1
+      },
+      {
+        "t": "bananas",
+        "s": 4.8,
+        "e": 5.36,
+        "i": 1
+      },
+      {
+        "t": "are",
+        "s": 5.44,
+        "e": 5.52,
+        "i": 1
+      },
+      {
+        "t": "hanging",
+        "s": 5.6,
+        "e": 5.92,
+        "i": 1
+      },
+      {
+        "t": "from",
+        "s": 6.0,
+        "e": 6.08,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 6.12,
+        "e": 6.16,
+        "i": 1
+      },
+      {
+        "t": "ceiling.",
+        "s": 6.24,
+        "e": 6.92,
+        "i": 1
+      },
+      {
+        "t": "In",
+        "s": 7.2,
+        "e": 7.28,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 7.36,
+        "e": 7.44,
+        "i": 2
+      },
+      {
+        "t": "foreground,",
+        "s": 7.72,
+        "e": 8.24,
+        "i": 2
+      },
+      {
+        "t": "there",
+        "s": 8.28,
+        "e": 8.32,
+        "i": 2
+      },
+      {
+        "t": "are",
+        "s": 8.4,
+        "e": 8.48,
+        "i": 2
+      },
+      {
+        "t": "piles",
+        "s": 8.56,
+        "e": 8.88,
+        "i": 2
+      },
+      {
+        "t": "of",
+        "s": 8.96,
+        "e": 9.12,
+        "i": 2
+      },
+      {
+        "t": "apples,",
+        "s": 9.24,
+        "e": 9.84,
+        "i": 2
+      },
+      {
+        "t": "pears",
+        "s": 9.92,
+        "e": 10.32,
+        "i": 2
+      },
+      {
+        "t": "and",
+        "s": 10.4,
+        "e": 10.48,
+        "i": 2
+      },
+      {
+        "t": "grapes",
+        "s": 10.64,
+        "e": 11.12,
+        "i": 2
+      },
+      {
+        "t": "with",
+        "s": 11.2,
+        "e": 11.28,
+        "i": 2
+      },
+      {
+        "t": "yellow",
+        "s": 11.36,
+        "e": 11.6,
+        "i": 2
+      },
+      {
+        "t": "price",
+        "s": 11.68,
+        "e": 11.92,
+        "i": 2
+      },
+      {
+        "t": "signs.",
+        "s": 12.0,
+        "e": 12.68,
+        "i": 2
+      },
+      {
+        "t": "On",
+        "s": 12.96,
+        "e": 13.04,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 13.12,
+        "e": 13.2,
+        "i": 3
+      },
+      {
+        "t": "left,",
+        "s": 13.28,
+        "e": 13.84,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 13.88,
+        "e": 13.92,
+        "i": 3
+      },
+      {
+        "t": "man",
+        "s": 14.0,
+        "e": 14.24,
+        "i": 3
+      },
+      {
+        "t": "in",
+        "s": 14.28,
+        "e": 14.32,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 14.4,
+        "e": 14.48,
+        "i": 3
+      },
+      {
+        "t": "black",
+        "s": 14.64,
+        "e": 14.8,
+        "i": 3
+      },
+      {
+        "t": "T-shirt",
+        "s": 14.88,
+        "e": 15.36,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 15.4,
+        "e": 15.44,
+        "i": 3
+      },
+      {
+        "t": "arranging",
+        "s": 15.52,
+        "e": 15.92,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 16.0,
+        "e": 16.08,
+        "i": 3
+      },
+      {
+        "t": "fruit.",
+        "s": 16.24,
+        "e": 16.88,
+        "i": 3
+      },
+      {
+        "t": "On",
+        "s": 16.92,
+        "e": 16.96,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 17.04,
+        "e": 17.12,
+        "i": 4
+      },
+      {
+        "t": "right,",
+        "s": 17.2,
+        "e": 17.76,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 17.84,
+        "e": 17.92,
+        "i": 4
+      },
+      {
+        "t": "few",
+        "s": 18.0,
+        "e": 18.08,
+        "i": 4
+      },
+      {
+        "t": "women",
+        "s": 18.16,
+        "e": 18.4,
+        "i": 4
+      },
+      {
+        "t": "are",
+        "s": 18.48,
+        "e": 18.56,
+        "i": 4
+      },
+      {
+        "t": "shopping,",
+        "s": 18.8,
+        "e": 19.2,
+        "i": 4
+      },
+      {
+        "t": "and",
+        "s": 19.28,
+        "e": 19.44,
+        "i": 4
+      },
+      {
+        "t": "one",
+        "s": 19.48,
+        "e": 19.52,
+        "i": 4
+      },
+      {
+        "t": "of",
+        "s": 19.6,
+        "e": 19.68,
+        "i": 4
+      },
+      {
+        "t": "them",
+        "s": 19.76,
+        "e": 19.84,
+        "i": 4
+      },
+      {
+        "t": "is",
+        "s": 19.92,
+        "e": 20.08,
+        "i": 4
+      },
+      {
+        "t": "carrying",
+        "s": 20.16,
+        "e": 20.48,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 20.52,
+        "e": 20.56,
+        "i": 4
+      },
+      {
+        "t": "brown",
+        "s": 20.72,
+        "e": 20.88,
+        "i": 4
+      },
+      {
+        "t": "bag.",
+        "s": 20.96,
+        "e": 21.76,
+        "i": 4
+      },
+      {
+        "t": "Red",
+        "s": 21.84,
+        "e": 22.0,
+        "i": 5
+      },
+      {
+        "t": "decorations",
+        "s": 22.08,
+        "e": 22.8,
+        "i": 5
+      },
+      {
+        "t": "are",
+        "s": 22.88,
+        "e": 22.96,
+        "i": 5
+      },
+      {
+        "t": "hanging",
+        "s": 23.04,
+        "e": 23.28,
+        "i": 5
+      },
+      {
+        "t": "above",
+        "s": 23.44,
+        "e": 23.6,
+        "i": 5
+      },
+      {
+        "t": "them.",
+        "s": 23.68,
+        "e": 24.08,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+      "time": "22:16:38",
+      "evaluation": null
+    },
+    {
+      "n": 2,
+      "file": "rec_002.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+      "time": "22:17:43",
+      "evaluation": {
+        "heard": "This picture shows the fruit section of busy veg supermarket. Many bunches of bananas are hanging from ceiling. In the foreground, the piles of apples, pears and grapes with yellow price sign. On the left, a man is black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is... carrying the... brown bag. Red decorations...",
+        "overall": 60,
+        "pronunciation": 57,
+        "fluency": 58,
+        "intonation": 56,
+        "completeness": 72,
+        "word_issues": [
+          {
+            "word": "black T-shirt",
+            "problem_ja": "「black shi-shatsu」のようにカタカナの「Tシャツ」に近い音になり、崩れて聞こえました。",
+            "tip_ja": "T-shirt は /tiː-ʃɜːrt/ です。「ティー」をはっきり発音した直後に舌を奥に引きながら「シャート（Rの響き）」と発音し、語尾に余計な母音「u」をつけないよう息を止めましょう。"
+          },
+          {
+            "word": "bananas",
+            "problem_ja": "第1音節にストレスが置かれ、「バナナズ」と平坦または先頭強調になっていました。",
+            "tip_ja": "アクセントは第2音節の /bəˈnænəz/ です。最初の ba は極端に弱く曖昧母音「バ（bə）」、真ん中の na を口を横に開いて強く「ナァ（næ）」と強調しましょう。"
+          },
+          {
+            "word": "ceiling",
+            "problem_ja": "直前の the が脱落し、語頭の /s/ と /l/ の連動がぎこちなく聞こえました。",
+            "tip_ja": "/ˈsiːlɪŋ/ は「スィー」と明るく伸ばした後に舌先を上の前歯裏につけて /l/ を作り、「リン（鼻に抜ける ng）」と繋げます。"
+          },
+          {
+            "word": "price signs",
+            "problem_ja": "複数形の s が弱まり、語尾に母音 /u/ が混ざって「プライスサイン」と単語が区切れていました。",
+            "tip_ja": "price の語尾 /s/ と signs の語頭 /s/ が重なるため、1つの長い /s/ のように「プライサインズ」と滑らかに連結させ、最後の /z/ までしっかり濁らせましょう。"
+          },
+          {
+            "word": "arranging",
+            "problem_ja": "/r/ の巻き舌と /dʒ/ の摩擦が曖昧になり、もごもごとした発音になりました。",
+            "tip_ja": "舌先をどこにも触れずに奥へ引いて /r/ を発音し、/əˈreɪndʒɪŋ/ の「レイン」に強いアクセントを置いて一気に言い切りましょう。"
+          },
+          {
+            "word": "women",
+            "problem_ja": "単数形 woman (/ˈwʊmən/) や「ウーメン」寄りの発音になっていました。",
+            "tip_ja": "複数形 women は /ˈwɪmɪn/ と発音し、前も後ろも「ウィ・ミン」と短い「イ」の母音になります。"
+          },
+          {
+            "word": "above them",
+            "problem_ja": "文末が追いつかず、完全に脱落してしまいました。",
+            "tip_ja": "above them は /əˈbʌv ðəm/ です。bove の /v/ と them の /ð/ は、上の歯を下唇に当てた状態から素早く舌先を上下の前歯の間に挟む滑らかな移行を練習しましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに必死に食らいつき、途中で止めずに最後まで発声を続けようとした姿勢が素晴らしいです。",
+          "前半の This picture shows the fruit section... 付近は比較的リズムに乗れていました。"
+        ],
+        "improvements_ja": [
+          "カタカナ語（T-shirt, banana, sign など）の音節構造とアクセントの位置を辞書音声で再確認し、母音の付加を防ぎましょう。",
+          "後半にかけて息切れして脱落が目立つため、まずは0.8〜0.9倍速でテキストを見ながら完全についていく練習を取り入れてください。",
+          "機能語（a, the, in, of）を短く弱く発音し、内容語（fruit, ceiling, black, brown など）を際立たせる英語特有の強弱リズムを意識しましょう。"
+        ],
+        "summary_ja": "モデル音声のテンポに追従しようとする積極性は感じられますが、後半に向かうにつれて語の脱落や崩れが目立ちました。特に T-shirt などの外来語でカタカナ発音が出やすいため、子音でピタッと音を止める感覚を身につけましょう。少し速度を落としたオーバーラッピングから再挑戦すると、定着度がぐっと上がります。"
+      }
+    },
+    {
+      "n": 3,
+      "file": "rec_003.wav",
+      "seg": "3",
+      "mode": "overlap",
+      "reference": "On the left, a man in a black T-shirt is arranging the fruit.",
+      "time": "22:19:16",
+      "evaluation": null
+    },
+    {
+      "n": 4,
+      "file": "rec_004.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+      "time": "22:19:26",
+      "evaluation": {
+        "heard": "This picture shows ... a fruit section of busy supermarket...",
+        "overall": 32,
+        "pronunciation": 48,
+        "fluency": 30,
+        "intonation": 38,
+        "completeness": 15,
+        "word_issues": [
+          {
+            "word": "This",
+            "problem_ja": "語頭の /ð/ 音が弱く、脱落して \"is picture\" のように聞こえました。",
+            "tip_ja": "舌先を上下の前歯で軽く挟むか、上の前歯の裏・先端に当てて、隙間から振動する息を押し出すように発声しましょう。"
+          },
+          {
+            "word": "fruit",
+            "problem_ja": "直前に「ア…」と迷いが生じ、モデルの冠詞 \"the\" からズレて子音 /f/ が不明瞭になりました。",
+            "tip_ja": "上の前歯を下唇の内側に軽く触れさせ、しっかり摩擦音 /f/ を出してから /ruːt/ へ移行しましょう。"
+          },
+          {
+            "word": "busy supermarket",
+            "problem_ja": "語尾に向かって声が急激に小さくなり、リズムと発音が崩れてしまいました。",
+            "tip_ja": "各単語の第一音節（BU-sy, SU-per-market）にしっかり強勢を置き、息を抜かずに最後まで音を響かせましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "冒頭の \"picture shows\" あたりはモデル音声のスピード感に合わせようとする意欲が見られます。",
+          "声のトーン自体は落ち着いており、聞き取りやすい声質です。"
+        ],
+        "improvements_ja": [
+          "全文を通して言うにはテンポが速すぎるため、まずは1文ずつポーズを挟むリピーティングで最後まで言い切る練習をしましょう。",
+          "冠詞や代名詞（This, the）を曖昧にせず、語頭の /ð/ を丁寧に発音する癖をつけましょう。",
+          "息切れや迷いで急停止しないよう、一息で言えるまとまり（チャンク）ごとに息を吸うポイントを決めましょう。"
+        ],
+        "summary_ja": "最初の1文目の途中で声が止まってしまい、スクリプトの大半が未発声のまま終了しています。まずはシャドーイングの速度を落とすか、1文ごとの音読練習から始めて最後まで完走することを目指しましょう。"
+      }
+    },
+    {
+      "n": 5,
+      "file": "rec_005.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+      "time": "22:20:02",
+      "evaluation": {
+        "heard": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+        "overall": 70,
+        "pronunciation": 68,
+        "fluency": 72,
+        "intonation": 69,
+        "completeness": 96,
+        "word_issues": [
+          {
+            "word": "pears",
+            "problem_ja": "「peers（ピアーズ）」のように /ɪər/ の音に近く聞こえました。",
+            "tip_ja": "air（空気）と同じ /ɛər/ の母音です。口をやや縦に大きめに開けて「ペアーズ」と発音しましょう。"
+          },
+          {
+            "word": "women",
+            "problem_ja": "単数の woman（ウーマン）に近い母音で発音されていました。",
+            "tip_ja": "複数形 women は発音記号が /ˈwɪmɪn/ で、1音節目も2音節目も「イ」の音です。「ウィミン」と発音する意識を持ちましょう。"
+          },
+          {
+            "word": "the fruit",
+            "problem_ja": "「is arranging the fruit」の the が脱落し、fruit も母音 /uː/ が短く「フッ」と抜け気味でした。",
+            "tip_ja": "冠詞 the を落とさず、舌先を軽く上下の前歯に当てて滑らかに繋げましょう。fruit は唇を前に突き出して長めに /fruːt/ と響かせます。"
+          },
+          {
+            "word": "black T-shirt",
+            "problem_ja": "black の母音 /æ/ が狭く、T-shirt の語尾に余分な s が聞こえて「T-shirts」のように聞こえました。",
+            "tip_ja": "black は顎をしっかり下げて「ア」と「エ」の中間音 /æ/ を出します。T-shirt は単数形なので語尾の /t/ でしっかり息を止め、s を足さないようにしましょう。"
+          },
+          {
+            "word": "decorations",
+            "problem_ja": "音節が詰まって「デクレショ〜」のように省略されて聞こえました。",
+            "tip_ja": "4音節の単語です（dec-o-ra-tions）。第1強勢は「ra /reɪ/」にあるので、「デカレイションズ」とリズムを崩さずに言い切りましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに大きく遅れることなく、最後までほぼ全ての単語を発音し切れています。",
+          "busy supermarket や hanging from the ceiling などの子音連結が明瞭で聞き取りやすいです。"
+        ],
+        "improvements_ja": [
+          "名詞の複数形（pears, women, T-shirtの単複）の母音と語尾を正確に区別して発音すること。",
+          "decorations などの音節数が多い単語で音が潰れないよう、音節単位でスピードを落として練習すること。",
+          "単語ごとのブツ切れ感を減らすため、前置詞や冠詞（in a, of them など）を弱く短く繋げて読むリンキングを意識すること。"
+        ],
+        "summary_ja": "モデル音声のテンポによく追従できており、全体の網羅性とリズム感は非常に良好です。pears や women などの基本的な母音の違いや、音節の多い単語の脱落を修正することで、より洗練された自然な英語に近づきます。"
+      }
+    },
+    {
+      "n": 6,
+      "file": "rec_006.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+      "time": "22:22:10",
+      "evaluation": {
+        "heard": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them are carrying a brown bag. Red decorations are hanging above them.",
+        "overall": 72,
+        "pronunciation": 71,
+        "fluency": 68,
+        "intonation": 69,
+        "completeness": 88,
+        "word_issues": [
+          {
+            "word": "bananas",
+            "problem_ja": "日本語の「バナナ」に近い母音になっており、英語特有のアクセント（2音節目）と母音 /bəˈnænəz/ が曖昧でした。",
+            "tip_ja": "第1音節は脱力したシュワ /bə/、第2音節の na は口を横に広げて「アとエの中間」の /næ/ を強く長めに発音しましょう。"
+          },
+          {
+            "word": "yellow",
+            "problem_ja": "Lの音が日本語のラ行（R寄り）になり、「イェロ」のように聞こえました。",
+            "tip_ja": "ye の後、舌先を上の前歯の付け根の裏にしっかり押し当てて息を両脇から逃がすように /l/ を作ってから /oʊ/ につなげてください。"
+          },
+          {
+            "word": "price",
+            "problem_ja": "二重母音 /aɪ/ が浅く、「プレス /prɛs/」のように短く聞こえました。",
+            "tip_ja": "「ア」をしっかり開口して長めに出し、そこから滑らかに「イ」へ移行する二重母音 /praɪs/ を意識してください。"
+          },
+          {
+            "word": "women",
+            "problem_ja": "単語の処理が追いつかず、言い直したり不明瞭になったりしていました。",
+            "tip_ja": "綴りは o ですが発音は /ˈwɪmɪn/（ウィミン）です。唇をしっかり丸めて「ウィ」から素早く入る練習をしておきましょう。"
+          },
+          {
+            "word": "brown",
+            "problem_ja": "直前で噛んでしまい、black と混ざったように言い淀んでいました。",
+            "tip_ja": "舌を引いて /br/ を作った後、口を大きく開けて「アウ」としっかり二重母音 /aʊ/ を響かせてから舌先を歯茎につけて /n/ で閉じます。"
+          },
+          {
+            "word": "decorations",
+            "problem_ja": "音節が潰れて「デクレメーションズ」のように急ぎ足で曖昧になりました。",
+            "tip_ja": "音節を dec-o-ra-tions と意識し、アクセントのある ra /reɪ/ をしっかり高め・強めに発音するとリズムが安定します。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに対して大きく脱落することなく、最後まで諦めずに追いかけられています。",
+          "shows, fruit, arranging など主要な単語の語頭・語尾の子音を丁寧に発音しようとする意識が感じられます。"
+        ],
+        "improvements_ja": [
+          "詰まりやすい単語（women, brown, decorations など）はシャドーイング前に単体で口慣らしをしておくこと。",
+          "yellow や bananas など、L/Rの舌の位置や /æ/（アとエの中間母音）の口の形を定着させること。",
+          "1語ずつ区切らず、in a black T-shirt や on the left などの意味のまとまり（チャンク）で滑らかにつなげて読むこと。"
+        ],
+        "summary_ja": "モデル音声のテンポに食らいついて最後まで言い切れており、シャドーイングの基礎体力がしっかりついています。後半の語彙で少しつまずきや母音のカタカナ化が見られたため、苦手な単語をあらかじめ単体で発音確認してから重ねるとさらに完成度が高まります。"
+      }
+    },
+    {
+      "n": 7,
+      "file": "rec_007.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+      "time": "22:23:44",
+      "evaluation": null
+    },
+    {
+      "n": 8,
+      "file": "rec_008.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+      "time": "22:24:16",
+      "evaluation": null
+    }
+  ],
+  "test": {
+    "stock_id": "sp046",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture shows the fruit section of a busy supermarket. Many bunches of bananas are hanging from the ceiling. In the foreground, there are piles of apples, pears and grapes with yellow price signs. On the left, a man in a black T-shirt is arranging the fruit. On the right, a few women are shopping, and one of them is carrying a brown bag. Red decorations are hanging above them.",
+    "answer": "This photo shows a grocery store. On the left, the man is looking for grapes, and on the right, two woman are looking for some fruits. There a lot of bananas on sale.",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 60,
+      "content": 65,
+      "grammar": 60,
+      "vocabulary": 60,
+      "delivery": 55,
+      "corrected": "This photo shows a grocery store. On the left, a man is looking at grapes, and on the right, two women are looking for some fruit. There are a lot of bananas hanging.",
+      "corrections": [
+        {
+          "before": "the man",
+          "after": "a man",
+          "reason_ja": "写真の中で初めて言及する人物には、定冠詞 the ではなく不定冠詞 a を使います。"
+        },
+        {
+          "before": "looking for grapes",
+          "after": "looking at grapes",
+          "reason_ja": "目の前にあるぶどうを見ている・選んでいる様子なので、探し回るニュアンスの looking for より looking at や examining などが適切です。"
+        },
+        {
+          "before": "two woman",
+          "after": "two women",
+          "reason_ja": "2人なので複数形の women（発音は /wɪmɪn/）にします。"
+        },
+        {
+          "before": "some fruits",
+          "after": "some fruit",
+          "reason_ja": "果物全般を指す場合、fruit は通常不可算名詞として単数形で用います。"
+        },
+        {
+          "before": "There a lot of",
+          "after": "There are a lot of",
+          "reason_ja": "There is / are 構文の be動詞（are）が抜けています。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "fruit section",
+          "ja": "果物売り場"
+        },
+        {
+          "en": "hang from the ceiling",
+          "ja": "天井から吊り下げられている"
+        },
+        {
+          "en": "in the foreground",
+          "ja": "手前に、前景に"
+        },
+        {
+          "en": "piles of",
+          "ja": "山積みの〜"
+        }
+      ],
+      "feedback_ja": "お店の場所設定から左右の人物、特徴的なバナナへと視点を移して描写できており、写真の概要は十分に伝わっています。一方で、be動詞の脱落や単語ごとのポーズが目立ち、テンポがやや途切れがちでした。次回は「場所→手前の目立つ物・人物（吊るされたバナナや果物を選ぶ客）→奥の様子」の流れを意識し、動作の動詞（arranging, choosing など）の語彙を増やす練習を優先しましょう。"
+    }
+  }
+}

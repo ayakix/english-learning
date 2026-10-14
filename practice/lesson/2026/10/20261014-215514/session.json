@@ -1,0 +1,605 @@
+{
+  "id": "20261014-215514",
+  "skill": "lesson",
+  "created": "2026-10-14 21:55",
+  "title": "Carbon Fiber Composites in the Boeing 787 Fuselage",
+  "result": {
+    "score": 66,
+    "details": {
+      "listening": "2/3",
+      "dictation": 66,
+      "replays": 32,
+      "reading": "5/5",
+      "wpm": 136
+    }
+  },
+  "source": {
+    "site": "AI 教材",
+    "url": null,
+    "title": "Carbon Fiber Composites in the Boeing 787 Fuselage",
+    "published": "2026-10-03",
+    "credit": "Script: Claude / Voice: Liam (ElevenLabs)",
+    "license": "original",
+    "audio_url": null,
+    "zone": "aviation",
+    "stock_id": "av012",
+    "level": "B1+",
+    "format": "monologue"
+  },
+  "paragraphs": [
+    {
+      "text": "For decades, airliners were built mostly from aluminum. The Boeing 787 changed that. About half of its structure, by weight, is made of composite materials, mainly carbon fiber reinforced polymer, or CFRP.",
+      "heading": false
+    },
+    {
+      "text": "CFRP is made of thin carbon fibers held together by a type of plastic. The fibers are extremely strong, and the plastic holds them in shape. The result is a material that is both very strong and very light.",
+      "heading": false
+    },
+    {
+      "text": "One of the most impressive parts is the fuselage, the main body of the airplane. Instead of joining many aluminum sheets with thousands of rivets, Boeing builds large one-piece barrel sections. These are formed around a giant mold, then heated in a huge oven to harden. The sections are joined together to make the full airframe.",
+      "heading": false
+    },
+    {
+      "text": "Why go to all this trouble? First, weight. A lighter airplane burns less fuel. Second, fewer joints and fasteners mean less work and fewer places for problems to start. Third, composites do not rust or corrode like metal, and they handle repeated stress very well.",
+      "heading": false
+    },
+    {
+      "text": "There are challenges too. Repairing composites requires special skills and tools. Damage under the surface can be harder to see than a dent in metal.",
+      "heading": false
+    },
+    {
+      "text": "Even so, the 787 showed that composite airliners can work. The Airbus A350 followed with a similar approach, and composites are now central to new aircraft design.",
+      "heading": false
+    }
+  ],
+  "glossary": [
+    {
+      "word": "carbon fiber reinforced polymer (CFRP)",
+      "definition": ""
+    },
+    {
+      "word": "airframe",
+      "definition": ""
+    },
+    {
+      "word": "barrel section",
+      "definition": ""
+    }
+  ],
+  "words": 225,
+  "duration": 93,
+  "audio_wpm": 144,
+  "sentences": [
+    {
+      "text": "For decades, airliners were built mostly from aluminum.",
+      "start": 0.0,
+      "end": 3.28,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The Boeing 787 changed that.",
+      "start": 4.11,
+      "end": 6.11,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "About half of its structure, by weight, is made of composite materials, mainly carbon fiber reinforced polymer, or CFRP.",
+      "start": 6.86,
+      "end": 15.1,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "CFRP is made of thin carbon fibers held together by a type of plastic.",
+      "start": 15.62,
+      "end": 20.42,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The fibers are extremely strong, and the plastic holds them in shape.",
+      "start": 21.25,
+      "end": 24.85,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The result is a material that is both very strong and very light.",
+      "start": 25.68,
+      "end": 29.84,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "One of the most impressive parts is the fuselage, the main body of the airplane.",
+      "start": 30.36,
+      "end": 35.32,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Instead of joining many aluminum sheets with thousands of rivets, Boeing builds large one-piece barrel sections.",
+      "start": 35.83,
+      "end": 42.87,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "These are formed around a giant mold, then heated in a huge oven to harden.",
+      "start": 43.3,
+      "end": 48.1,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The sections are joined together to make the full airframe.",
+      "start": 48.49,
+      "end": 51.49,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Why go to all this trouble?",
+      "start": 52.01,
+      "end": 53.45,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "First, weight.",
+      "start": 54.36,
+      "end": 55.48,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "A lighter airplane burns less fuel.",
+      "start": 56.23,
+      "end": 58.35,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Second, fewer joints and fasteners mean less work and fewer places for problems to start.",
+      "start": 58.98,
+      "end": 64.5,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Third, composites do not rust or corrode like metal, and they handle repeated stress very well.",
+      "start": 65.05,
+      "end": 71.09,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "There are challenges too.",
+      "start": 71.61,
+      "end": 72.89,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Repairing composites requires special skills and tools.",
+      "start": 73.64,
+      "end": 77.04,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Damage under the surface can be harder to see than a dent in metal.",
+      "start": 77.67,
+      "end": 81.27,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Even so, the 787 showed that composite airliners can work.",
+      "start": 81.79,
+      "end": 86.59,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The Airbus A350 followed with a similar approach, and composites are now central to new aircraft design.",
+      "start": 86.98,
+      "end": 93.34,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    }
+  ],
+  "summary_ja": "旅客機は長くアルミが中心だったが、ボーイング787は重量の約半分が複合材、主に炭素繊維強化プラスチック（CFRP）でできている。胴体は型の周りで一体成形した大きな筒（バレルセクション）を巨大なオーブンで硬化させてつなぐ。軽くて燃費がよく、継ぎ目や留め具が少なく、錆びず疲労にも強い。修理には特別な技術が必要で、内部の損傷は見つけにくい。",
+  "listening": {
+    "questions": [
+      {
+        "q": "787 の構造の特徴は？",
+        "options": [
+          "すべてアルミ製",
+          "木製",
+          "重量の約半分が複合材でできている",
+          "鉄製"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"About half of its structure, by weight, is made of composite materials\"。"
+      },
+      {
+        "q": "787 の胴体の作り方は？",
+        "options": [
+          "手で編む",
+          "たくさんのアルミ板をリベットでとめる",
+          "大きな一体型の筒を作り、つなげる",
+          "3Dプリンターで作る"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"Boeing builds large one-piece barrel sections ... The sections are joined together\"。"
+      },
+      {
+        "q": "複合材の課題として話されているのは？",
+        "options": [
+          "修理に特別な技術が必要で、内部の損傷が見つけにくい",
+          "錆びやすい",
+          "高温で溶ける",
+          "重すぎる"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"Repairing composites requires special skills and tools. Damage under the surface can be harder to see\"。"
+      }
+    ],
+    "answers": [
+      2,
+      1,
+      0
+    ],
+    "correct": 2,
+    "plays": 1
+  },
+  "dictation": [
+    {
+      "i": 0,
+      "sentence": 3,
+      "text": "CFRP is made of thin carbon fibers held together by a type of plastic.",
+      "start": 15.5,
+      "end": 20.62,
+      "ja": "CFRP は、ある種のプラスチックでまとめられた細い炭素繊維でできています。",
+      "points_ja": "made of thin が「メイダヴシン」、held together by a が続けて聞こえます。",
+      "answer": "CFRP is made of fame carbon fibers held together by a xxx plastic",
+      "plays": 11,
+      "accuracy": 0.786,
+      "diff": [
+        {
+          "t": "cfrp",
+          "status": "ok"
+        },
+        {
+          "t": "is",
+          "status": "ok"
+        },
+        {
+          "t": "made",
+          "status": "ok"
+        },
+        {
+          "t": "of",
+          "status": "ok"
+        },
+        {
+          "t": "thin",
+          "status": "wrong",
+          "heard": "fame"
+        },
+        {
+          "t": "carbon",
+          "status": "ok"
+        },
+        {
+          "t": "fibers",
+          "status": "ok"
+        },
+        {
+          "t": "held",
+          "status": "ok"
+        },
+        {
+          "t": "together",
+          "status": "ok"
+        },
+        {
+          "t": "by",
+          "status": "ok"
+        },
+        {
+          "t": "a",
+          "status": "ok"
+        },
+        {
+          "t": "type",
+          "status": "wrong",
+          "heard": "xxx"
+        },
+        {
+          "t": "of",
+          "status": "missing"
+        },
+        {
+          "t": "plastic",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "sentence": 8,
+      "text": "These are formed around a giant mold, then heated in a huge oven to harden.",
+      "start": 43.18,
+      "end": 48.3,
+      "ja": "これらは巨大な型の周りで成形され、それから巨大なオーブンで加熱して硬化させます。",
+      "points_ja": "formed around a がつながり、heated in a huge が続けて聞こえます。",
+      "answer": "User form around giant mode then heated in a huge abon to harden",
+      "plays": 7,
+      "accuracy": 0.6,
+      "diff": [
+        {
+          "t": "these",
+          "status": "wrong",
+          "heard": "user"
+        },
+        {
+          "t": "are",
+          "status": "wrong",
+          "heard": "form"
+        },
+        {
+          "t": "formed",
+          "status": "missing"
+        },
+        {
+          "t": "around",
+          "status": "ok"
+        },
+        {
+          "t": "a",
+          "status": "missing"
+        },
+        {
+          "t": "giant",
+          "status": "ok"
+        },
+        {
+          "t": "mold",
+          "status": "wrong",
+          "heard": "mode"
+        },
+        {
+          "t": "then",
+          "status": "ok"
+        },
+        {
+          "t": "heated",
+          "status": "ok"
+        },
+        {
+          "t": "in",
+          "status": "ok"
+        },
+        {
+          "t": "a",
+          "status": "ok"
+        },
+        {
+          "t": "huge",
+          "status": "ok"
+        },
+        {
+          "t": "oven",
+          "status": "wrong",
+          "heard": "abon"
+        },
+        {
+          "t": "to",
+          "status": "ok"
+        },
+        {
+          "t": "harden",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "sentence": 13,
+      "text": "Second, fewer joints and fasteners mean less work and fewer places for problems to start.",
+      "start": 58.86,
+      "end": 64.7,
+      "ja": "第二に、継ぎ目や留め具が少ないと、作業が減り、問題が起こる場所も減ります。",
+      "points_ja": "joints and fasteners の and は「ン」、places for problems to start が続けて聞こえます。",
+      "answer": "Second, fewer joined the fastner mean less work and fewer placed for aproblem less to start",
+      "plays": 14,
+      "accuracy": 0.6,
+      "diff": [
+        {
+          "t": "second",
+          "status": "ok"
+        },
+        {
+          "t": "fewer",
+          "status": "ok"
+        },
+        {
+          "t": "joints",
+          "status": "wrong",
+          "heard": "joined"
+        },
+        {
+          "t": "and",
+          "status": "wrong",
+          "heard": "the"
+        },
+        {
+          "t": "fasteners",
+          "status": "wrong",
+          "heard": "fastner"
+        },
+        {
+          "t": "mean",
+          "status": "ok"
+        },
+        {
+          "t": "less",
+          "status": "ok"
+        },
+        {
+          "t": "work",
+          "status": "ok"
+        },
+        {
+          "t": "and",
+          "status": "ok"
+        },
+        {
+          "t": "fewer",
+          "status": "ok"
+        },
+        {
+          "t": "places",
+          "status": "wrong",
+          "heard": "placed"
+        },
+        {
+          "t": "for",
+          "status": "ok"
+        },
+        {
+          "t": "problems",
+          "status": "wrong",
+          "heard": "aproblem"
+        },
+        {
+          "t": "",
+          "status": "extra",
+          "heard": "less"
+        },
+        {
+          "t": "to",
+          "status": "ok"
+        },
+        {
+          "t": "start",
+          "status": "ok"
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "questions": [
+      {
+        "q": "本文の主旨は？",
+        "options": [
+          "アルミはもう使われていない",
+          "787 は失敗した",
+          "787 は複合材を大胆に使い、航空機の設計を変えた",
+          "複合材は修理が簡単"
+        ],
+        "answer": 2,
+        "explanation_ja": "複合材の特徴、利点、課題、その後の影響を説明しています。"
+      },
+      {
+        "q": "CFRP の特徴は？",
+        "options": [
+          "とても強く、とても軽い",
+          "柔らかく曲がる",
+          "透明である",
+          "重いが安い"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"The result is a material that is both very strong and very light.\""
+      },
+      {
+        "q": "軽い飛行機の利点は？",
+        "options": [
+          "騒音が大きい",
+          "速く着陸できる",
+          "乗客が増える",
+          "燃料の消費が少ない"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"A lighter airplane burns less fuel.\""
+      },
+      {
+        "q": "複合材が金属より優れている点として書かれているのは？",
+        "options": [
+          "錆びたり腐食したりせず、繰り返しの負荷に強い",
+          "色を塗りやすい",
+          "安い",
+          "音が静か"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"composites do not rust or corrode like metal, and they handle repeated stress very well.\""
+      },
+      {
+        "q": "787 の後に同様の方法をとった機体は？",
+        "options": [
+          "コンコルド",
+          "ボーイング747",
+          "エアバス A380",
+          "エアバス A350"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"The Airbus A350 followed with a similar approach\"。"
+      }
+    ],
+    "answers": [
+      2,
+      0,
+      3,
+      0,
+      3
+    ],
+    "correct": 5,
+    "reading_seconds": 99,
+    "wpm": 136,
+    "time": "22:05:02"
+  }
+}

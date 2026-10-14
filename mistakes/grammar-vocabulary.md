@@ -52,3 +52,10 @@
 | 2026-10-13 | （neat が分からず答えられなかった。What do you use to make your hair neat? 即答 sa108） | a comb / a brush | neat ＝きちんとした・整った。make 〈もの〉〈状態〉＝〈もの〉を〈状態〉にする |
 | 2026-10-13 | （黄身と分かったが yolk が出てこない。即答 sa114） | the yolk | 卵の黄身 ＝ yolk（l は読まない「ヨウク」）。白身 ＝ the white。殻 ＝ shell（10/07） |
 | 2026-10-13 | （crib を知らなかった。What do you call a small bed for a baby? 即答 sa116） | a crib | ベビーベッド ＝ crib（米）/ cot（英）。揺りかご ＝ cradle |
+| 2026-10-14 | （答えが出なかった。If something costs nothing, what is it? 即答 sa135） | free | cost nothing ＝お金がかからない ＝ free（無料の）。for free ＝無料で。free には「自由な・空いている」の意味もある |
+| 2026-10-14 | （教材 Boeing 787 の聞く問題で、胴体の作り方を取り違えた） | one-piece barrel sections を作ってつなげる | barrel ＝筒（樽）。section ＝部分。be joined together ＝つなぎ合わされる |
+| 2026-10-14 | the man（写真描写で初めて出す人） | a man | 初めて言う人・ものは a。2 回目から the |
+| 2026-10-14 | looking for grapes（目の前のぶどうを見ている） | looking at grapes | look for ＝探す。目の前の物を見る・選ぶのは look at |
+| 2026-10-14 | two woman | two women | women の発音は「ウィミン」/ˈwɪmɪn/ |
+| 2026-10-14 | some fruits | some fruit | 果物全般は数えない fruit |
+| 2026-10-14 | There a lot of bananas（10/06 と同じ） | There are a lot of | There is / are の be 動詞が抜ける。2 回目 |

@@ -66,3 +66,9 @@
 | 2026-10-12 | I think the store **is closed** today.（rp093） | is closed | store‿is は「ストアリズ」とつながる。closed の -ed は「クロウズド」と短い |
 | 2026-10-12 | How many days are there in **a leap year**?（即答 sa092） | a leap year | a‿leap は「アリープ」。leap year を知らなかった（語彙にも記録） |
 | 2026-10-12 | In a **clothing** store, where do you try on clothes?（即答 sa105） | clothing → closing | clothing の th は舌を歯に当てる濁った音（ð）。closing の s は濁らない。後ろの clothes も手がかり |
+| 2026-10-14 | I'm looking **for a** birthday present.（rp124） | for a → forward to | looking‿for‿a は「ルキンフォラ」。look for ＝探す。look forward to ＝楽しみにする、とは別の表現 |
+| 2026-10-14 | They opened **a** new café near my office.（rp125） | a が抜けた | opened‿a は「オウプンダ」とつながる |
+| 2026-10-14 | The doctor told me **to rest**.（rp127。10/09 にも間違えた） | to rest → the rest | told me to は「トウルミトゥ」。tell 人 to 〜 ＝人に〜するよう言う。the rest ＝残り、では意味が通らない |
+| 2026-10-14 | CFRP is made of **thin** carbon fibers held together by **a type of** plastic.（教材 書き取り） | thin → fame、type → 不明、of が抜けた | made‿of‿thin は「メイダヴシン」。a type of ＝一種の |
+| 2026-10-14 | **These are formed** around **a** giant **mold**, then heated in a huge **oven** to harden.（教材 書き取り） | these are → user、formed・a が抜けた、mold → mode、oven → abon | these‿are は「ズィーザー」。formed‿around‿a がつながる。mold ＝型、oven は「アヴン」 |
+| 2026-10-14 | Second, fewer **joints and fasteners** mean less work and fewer **places** for **problems** to start.（教材 書き取り） | joints and → joined the、places → placed、problems → aproblem | and は弱く「ン」。fewer の後は複数形（places・problems） |
