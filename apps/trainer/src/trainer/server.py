@@ -3,12 +3,12 @@ from fastapi import FastAPI, Request
 from fastapi.responses import FileResponse, JSONResponse, Response
 from fastapi.staticfiles import StaticFiles
 
-from . import activity, drills, elevenlabs, gemini, lesson, linking, listening, photos, progress, reading, speaking, storage, writing
+from . import activity, drills, elevenlabs, gemini, lesson, linking, listening, photos, progress, reading, speaking, storage, versant, writing
 from .config import WEB_DIST, settings
 from .http import ApiError
 
 app = FastAPI(title="English Trainer")
-for module in (speaking, listening, writing, reading, lesson, linking, drills):
+for module in (speaking, listening, writing, reading, lesson, linking, drills, versant):
     app.include_router(module.router)
 
 

@@ -3,7 +3,7 @@
 Claude が journal と mistakes を仕上げるときの材料にする（CLAUDE.md 参照）。
 session.json を直接読ませるより、要点だけに絞った方が転記の漏れや読み違いが少ない。
 """
-from . import activity, storage
+from . import activity, storage, versant
 from .progress import SKILL_JA
 
 MODE_JA = {"overlap": "シャドーイング", "repeat": "リピート"}
@@ -114,7 +114,25 @@ def _lesson(s: dict) -> list[str]:
     return out
 
 
-RENDER = {"speaking": _speaking, "listening": _listening, "writing": _writing, "reading": _reading, "lesson": _lesson}
+def _versant(s: dict) -> list[str]:
+    d = s["result"]["details"]
+    levels = sorted({m["level"] for m in s["marks"].values() if "level" in m})
+    out = ["- 言えた %d / %d%s" % (d["ok"], d["total"], "（レベル %s）" % "・".join(map(str, levels)) if levels else "")]
+    # 振り返りの一覧（review.json）に入れる材料なので、ID と文をそのまま並べる
+    items = versant._items(s["mode"])
+    for i, m in s["marks"].items():
+        if m["ok"]:
+            continue
+        it = items.get(i, {})
+        if m["kind"] == "short-answers":
+            out.append("  - 言えなかった：%s %s（答え：%s）" % (i, it.get("question", ""), " / ".join(it.get("answers", []))))
+        else:
+            out.append("  - 言えなかった：%s %s" % (i, it.get("text", "")))
+    return out
+
+
+RENDER = {"speaking": _speaking, "listening": _listening, "writing": _writing, "reading": _reading, "lesson": _lesson,
+          "versant": _versant}
 
 
 def render(date: str) -> str:
@@ -127,7 +145,9 @@ def render(date: str) -> str:
         sessions = [s for s in reversed(storage.load_all(skill)) if s["id"].startswith(prefix) and (
             (s.get("result") or {}).get("score") is not None or s.get("attempts")
             # 教材は「聞く」だけ終えた日も載せる（スコアは書き取りまで終えないと出ないため）
-            or (skill == "lesson" and (s.get("result") or {}).get("details")))]
+            or (skill == "lesson" and (s.get("result") or {}).get("details"))
+            # 振り返りは点数を付けないので、○/× があれば載せる
+            or s.get("marks"))]
         if not sessions:
             continue
         found = True

@@ -6,9 +6,7 @@ import { useDrillAudio } from "../hooks/useDrillAudio";
 import { useHotkeys } from "../hooks/useHotkeys";
 import { useToast } from "../hooks/useToast";
 import { errMsg } from "../lib/util";
-import type { DrillData, DrillItem } from "../types";
-
-type Mode = "repeats" | "short-answers" | "review";
+import type { DrillData, DrillItem, VersantMode as Mode } from "../types";
 
 const MODES: { key: Mode; label: string; hint: string }[] = [
   { key: "repeats", label: "復唱", hint: "音声を聞いて、聞こえたとおりにそのまま繰り返します（Versant の Repeats）。" },
@@ -20,7 +18,7 @@ const MODES: { key: Mode; label: string; hint: string }[] = [
   {
     key: "review",
     label: "振り返り",
-    hint: "間違えた復唱・即答だけをやり直します。一覧は Claude が間違いの申告を受けて書き換えます。",
+    hint: "間違えた復唱・即答だけをやり直します。一覧は Claude が × の付いたものから書き換えます。",
   },
 ];
 
@@ -40,6 +38,8 @@ export function VersantPage() {
   const [level, setLevel] = useState<string>("all");
   const [showAll, setShowAll] = useState(false);
   const [shown, setShown] = useState<Set<string>>(new Set());
+  // 今日このモードで付けた ○/×（ID → 言えたか）
+  const [marks, setMarks] = useState<Record<string, boolean>>({});
   const [cur, setCur] = useState(0);
   const rows = useRef<(HTMLDivElement | null)[]>([]);
   const { playing, play, stop } = useDrillAudio();
@@ -50,6 +50,14 @@ export function VersantPage() {
     (mode === "review" ? api.review() : api.drill(mode)).then(
       (d) => setData((prev) => ({ ...prev, [mode]: d })),
       (e) => toast("例題を読み込めません: " + errMsg(e), true),
+    );
+  }, [mode]);
+
+  useEffect(() => {
+    setMarks({});
+    api.versant.marks(mode).then(
+      (r) => setMarks(r.marks),
+      (e) => toast("記録を読み込めません: " + errMsg(e), true),
     );
   }, [mode]);
 
@@ -106,6 +114,20 @@ export function VersantPage() {
     rows.current[n]?.scrollIntoView({ block: "nearest" });
   }
 
+  function mark(i: number, ok: boolean) {
+    const it = items[i];
+    if (!it) return;
+    // 押してすぐ次の文に進めるよう、先に画面へ反映し、保存の結果で置き換える
+    setMarks((prev) => ({ ...prev, [it.id]: ok }));
+    api.versant.mark(mode, it.id, ok).then(
+      (r) => setMarks(r.marks),
+      (e) => toast("記録できません: " + errMsg(e), true),
+    );
+  }
+
+  const okCount = Object.values(marks).filter(Boolean).length;
+  const ngCount = Object.values(marks).length - okCount;
+
   useHotkeys({
     ArrowDown: () => select(cur + 1),
     ArrowUp: () => select(cur - 1),
@@ -114,6 +136,15 @@ export function VersantPage() {
     k: () => select(cur - 1),
     " ": () => items[cur] && playItem(items[cur]),
     Enter: () => items[cur] && toggleText(items[cur].id),
+    // 付けたら次の文へ進む（1 文 1 キーで済むように）
+    o: () => {
+      mark(cur, true);
+      select(cur + 1);
+    },
+    x: () => {
+      mark(cur, false);
+      select(cur + 1);
+    },
   });
 
   return (
@@ -148,8 +179,12 @@ export function VersantPage() {
           <div className="hint" style={{ marginTop: 8 }}>
             <Kbd>↑</Kbd>
             <Kbd>↓</Kbd>（<Kbd>k</Kbd>
-            <Kbd>j</Kbd>）で選び、<Kbd>Space</Kbd> で再生、<Kbd>Enter</Kbd> でテキストを表示・非表示にします。{items.length} 件
+            <Kbd>j</Kbd>）で選び、<Kbd>Space</Kbd> で再生、<Kbd>Enter</Kbd> でテキストを表示・非表示、<Kbd>O</Kbd> で言えた（○）、<Kbd>X</Kbd>
+            で言えなかった（×）を付けます。{items.length} 件
             {mode === "review" && d?.updated && `（${d.updated} 更新）`}
+          </div>
+          <div className="hint" style={{ marginTop: 8 }}>
+            今日の記録：<b className="vs-ok">○ {okCount}</b> / <b className="vs-ng">× {ngCount}</b>
           </div>
           {mode !== "review" && (
             <TodayRange range={range} cur={cur} ids={items.map((it) => it.id)} onMove={moveRange} />
@@ -185,6 +220,21 @@ export function VersantPage() {
                   )}
                   <span className="sp" />
                   {kindOf(it) === "repeats" && <span className="hint">{it.words} 語</span>}
+                  {/* スマホではキーが使えないので、押して付けられるボタンも置く */}
+                  <button
+                    className={`btn sm${marks[it.id] === true ? " vs-ok-on" : ""}`}
+                    onClick={() => mark(i, true)}
+                    title="言えた"
+                  >
+                    ○
+                  </button>
+                  <button
+                    className={`btn sm${marks[it.id] === false ? " vs-ng-on" : ""}`}
+                    onClick={() => mark(i, false)}
+                    title="言えなかった"
+                  >
+                    ×
+                  </button>
                 </div>
                 {visible && kindOf(it) === "short-answers" && (
                   <div className="hint" style={{ paddingLeft: 59 }}>

@@ -16,6 +16,8 @@ import type {
   SessionSummary,
   Skill,
   Tts,
+  VersantMarks,
+  VersantMode,
   Voice,
   WritingKind,
   WritingSession,
@@ -96,6 +98,11 @@ export const api = {
   linking: () => call<LinkingData>("/api/linking"),
   drill: (kind: DrillKind) => call<DrillData>(`/api/drills/${kind}`),
   review: () => call<DrillData>("/api/drills/review"),
+  versant: {
+    marks: (mode: VersantMode) => call<VersantMarks>(`/api/versant/marks/${mode}`),
+    mark: (mode: VersantMode, id: string, ok: boolean) =>
+      call<VersantMarks>(`/api/versant/marks/${mode}/${id}`, "PUT", { ok }),
+  },
   lesson: {
     zones: () => call<LessonZone[]>("/api/lesson/zones"),
     get: (sid: string) => call<LessonSession>(`/api/lesson/sessions/${sid}`),

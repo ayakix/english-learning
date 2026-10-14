@@ -204,6 +204,8 @@ main.single.top{padding-top:20px}
 .vs-num{min-width:3.5em;text-align:right;color:var(--sub);font-variant-numeric:tabular-nums}
 .vs-today{margin-top:12px;padding-top:12px;border-top:1px solid var(--line);display:grid;gap:8px}
 .vs-count{margin-left:12px;font-weight:600;color:var(--accent)}
+.vs-ok{color:var(--ok)}.vs-ng{color:var(--rec)}
+.btn.sm.vs-ok-on{background:var(--ok);border-color:var(--ok);color:#fff}.btn.sm.vs-ng-on{background:var(--rec);border-color:var(--rec);color:#fff}
 .vs-bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
 .vs-bar>div{height:100%;background:var(--accent);transition:width .2s}
 .lk-phrase{font-size:20px;font-weight:600}

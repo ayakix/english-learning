@@ -1,6 +1,6 @@
 // サーバーの session.json と同じ形（src/trainer/ の各技能のモジュール）
 
-export type Skill = "speaking" | "listening" | "writing" | "reading" | "lesson";
+export type Skill = "speaking" | "listening" | "writing" | "reading" | "lesson" | "versant";
 
 export type Result = { score: number | null; details: Record<string, number | string | null> };
 
@@ -235,6 +235,10 @@ export type DrillItem = {
   b?: string;
   kind?: DrillKind; // 振り返りの一覧でだけ付く（復唱と即答が混ざるため）
 };
+// Versant タブのモード。○/× の記録もこの単位（1 日・1 モードで 1 つ）
+export type VersantMode = "repeats" | "short-answers" | "review";
+export type VersantMarks = { marks: Record<string, boolean> }; // ID → 言えたか
+
 export type DrillData = {
   name?: string;
   updated?: string; // 振り返りの一覧を最後に書き換えた日
