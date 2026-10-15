@@ -72,3 +72,15 @@
 | 2026-10-14 | CFRP is made of **thin** carbon fibers held together by **a type of** plastic.（教材 書き取り） | thin → fame、type → 不明、of が抜けた | made‿of‿thin は「メイダヴシン」。a type of ＝一種の |
 | 2026-10-14 | **These are formed** around **a** giant **mold**, then heated in a huge **oven** to harden.（教材 書き取り） | these are → user、formed・a が抜けた、mold → mode、oven → abon | these‿are は「ズィーザー」。formed‿around‿a がつながる。mold ＝型、oven は「アヴン」 |
 | 2026-10-14 | Second, fewer **joints and fasteners** mean less work and fewer **places** for **problems** to start.（教材 書き取り） | joints and → joined the、places → placed、problems → aproblem | and は弱く「ン」。fewer の後は複数形（places・problems） |
+| 2026-10-15 | The flight to London was **delayed because of the storm**.（rp142） | delayed → delay、because of the → because it was | delayed の -ed は次の b に飲まれて聞こえにくい。because of ＋名詞、because ＋文。of‿the は「アヴザ」 |
+| 2026-10-15 | We decided to rent a **car** instead of taking **the bus**.（rp144） | car → cart、the bus → a bas | car は語尾に t が無く「カー」と伸ばす。take the bus は the 付きの決まった形（take the train と同じ） |
+| 2026-10-15 | If it rains tomorrow, **we'll** have to cancel the picnic.（rp145） | we'll → we | we'll は「ウィル」と短く、have の前で l だけが残る。未来の if 文の後ろは will |
+| 2026-10-15 | My grandfather still **goes** swimming in **the** ocean every summer.（rp146） | goes → go、the が抜けた | 主語が 3 人称単数なので goes。in‿the‿ocean は「インズィオウシャン」（the は母音の前で「ズィ」） |
+| 2026-10-15 | Could you **tell** me where the nearest post office is?（rp148） | tell → told | Could you の後は動詞の原形。tell‿me は「テルミ」 |
+| 2026-10-15 | **I've** been trying to drink more water during the day.（rp150） | I've → I'm | I've been は v が弱く「アイビン」。been の前は have（I'm been とは言わない） |
+| 2026-10-15 | The museum is closed on **Mondays**, so let's go on **Tuesday**.（rp158） | Mondays の s が抜けた、Tuesday → Thuesday | on Mondays ＝毎週月曜（10/12 の Sundays と同じ）。Tuesday は「トゥーズデイ」で th ではない |
+| 2026-10-15 | **She's** been working at **the same** company for **fifteen** years.（rp159） | She's → She've、the が抜けた、fifteen → fifty | She's been ＝ She has been。the same は必ず the 付き。fifteen は後ろの teen を強く長く、fifty は前の fif を強く |
+| 2026-10-15 | It's hard to find **a** good apartment in the city center.（rp160） | a → the | find‿a は「ファインダ」。初めて言う、どれでもよい 1 つは a |
+| 2026-10-15 | What do students carry their **books in**?（即答 sa145） | books in → ブックセン（意味が取れず library と答えた） | books‿in は「ブクスィン」とつながる。carry 〈もの〉 in ＝〜に入れて運ぶ。前置詞 in が文末に残る質問の形 |
+| 2026-10-16 | If it rains tomorrow, **we'll** have to cancel the picnic.（rp145 の 2 回目） | we'll が抜けた（10/15 に続き 2 回目） | we'll は「ウィル」が弱く、have の前で「ウィウ」くらいにしか聞こえない。if の文（明日のこと）の後ろは will を補って聞く |
+| 2026-10-16 | The restaurant **was** so popular that we had to wait outside.（rp155） | was → is | 後ろの had to（過去）と時制をそろえる。restaurant‿was は「レストランワズ」とつながる |

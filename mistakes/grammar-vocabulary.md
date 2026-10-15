@@ -59,3 +59,9 @@
 | 2026-10-14 | two woman | two women | women の発音は「ウィミン」/ˈwɪmɪn/ |
 | 2026-10-14 | some fruits | some fruit | 果物全般は数えない fruit |
 | 2026-10-14 | There a lot of bananas（10/06 と同じ） | There are a lot of | There is / are の be 動詞が抜ける。2 回目 |
+| 2026-10-15 | （問題文は分かったが alarm clock を知らなかった。What wakes you up in the morning? 即答 sa143） | an alarm clock | 目覚まし時計 ＝ alarm clock。目覚ましが鳴る ＝ the alarm goes off。単語タブ vc201 に足した |
+| 2026-10-15 | air（What covers most of the Earth's surface? 即答 sa149） | water / the ocean | cover ＝覆う、surface ＝表面。地球の表面の約 7 割は海。空気は表面を「覆う」とは言わない |
+| 2026-10-15 | along to the street | along the street | along は前置詞なので to は要らない |
+| 2026-10-15 | On the background | In the background | 背景に ＝ in the background。手前に ＝ in the foreground（10/14 の使える表現） |
+| 2026-10-15 | A women woman is acrossing | A woman is crossing | 渡る（動詞）は cross。across は前置詞（walk across the street） |
+| 2026-10-15 | （The street is lined with tall trees. で、通りが木に沿って並ぶように読めないか？） | 木が通りに沿って並んでいる | line は「〜の縁に沿って並ぶ」他動詞。Trees line the street. の受け身。The street is covered with snow. と同じ形 |

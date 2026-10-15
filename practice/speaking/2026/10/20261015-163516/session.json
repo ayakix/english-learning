@@ -1,0 +1,500 @@
+{
+  "id": "20261015-163516",
+  "skill": "speaking",
+  "created": "2026-10-15 16:35",
+  "title": "People dining at a waterfront restaurant overlooking a harbor",
+  "result": {
+    "score": null,
+    "details": {}
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1765605898593-16451d5d2564?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MTN8fGhhcmJvciUyMGZpc2hpbmclMjBib2F0cyUyMHBlb3BsZXxlbnwxfDB8fHwxNzkxMDQzMzgyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Zhen Yao",
+      "profile": "https://unsplash.com/@rex_filmer?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/people-dining-at-a-waterfront-restaurant-overlooking-a-harbor-mmTxofhGGac?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "People dining at a waterfront restaurant overlooking a harbor"
+    }
+  },
+  "attempts": [],
+  "correction": null,
+  "tts": {
+    "file": "model_b9ef3ab0fc7e.mp3",
+    "text": "This picture was taken from a restaurant by the sea. In the foreground, four people are sitting at a table under a roof and having a meal. One man is wearing a cap. Beyond them, there are many fishing boats in the harbor, and some of them have small red flags. In the background, we can see green mountains and some buildings along the shore. It looks like a hot day.",
+    "voice_id": "17bSMslPF4HPyQrGIXAG",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture was taken from a restaurant by the sea.",
+        "start": 0.0,
+        "end": 3.12
+      },
+      {
+        "text": "In the foreground, four people are sitting at a table under a roof and having a meal.",
+        "start": 3.44,
+        "end": 8.8
+      },
+      {
+        "text": "One man is wearing a cap.",
+        "start": 8.88,
+        "end": 10.88
+      },
+      {
+        "text": "Beyond them, there are many fishing boats in the harbor, and some of them have small red flags.",
+        "start": 10.96,
+        "end": 16.72
+      },
+      {
+        "text": "In the background, we can see green mountains and some buildings along the shore.",
+        "start": 16.8,
+        "end": 21.36
+      },
+      {
+        "text": "It looks like a hot day.",
+        "start": 21.48,
+        "end": 23.04
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.24,
+        "e": 0.594,
+        "i": 0
+      },
+      {
+        "t": "was",
+        "s": 0.64,
+        "e": 0.88,
+        "i": 0
+      },
+      {
+        "t": "taken",
+        "s": 0.96,
+        "e": 1.2,
+        "i": 0
+      },
+      {
+        "t": "from",
+        "s": 1.28,
+        "e": 1.36,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.44,
+        "e": 1.52,
+        "i": 0
+      },
+      {
+        "t": "restaurant",
+        "s": 1.8,
+        "e": 2.08,
+        "i": 0
+      },
+      {
+        "t": "by",
+        "s": 2.16,
+        "e": 2.24,
+        "i": 0
+      },
+      {
+        "t": "the",
+        "s": 2.32,
+        "e": 2.4,
+        "i": 0
+      },
+      {
+        "t": "sea.",
+        "s": 2.48,
+        "e": 3.12,
+        "i": 0
+      },
+      {
+        "t": "In",
+        "s": 3.44,
+        "e": 3.52,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 3.6,
+        "e": 3.68,
+        "i": 1
+      },
+      {
+        "t": "foreground,",
+        "s": 3.96,
+        "e": 4.56,
+        "i": 1
+      },
+      {
+        "t": "four",
+        "s": 4.64,
+        "e": 4.8,
+        "i": 1
+      },
+      {
+        "t": "people",
+        "s": 4.96,
+        "e": 5.28,
+        "i": 1
+      },
+      {
+        "t": "are",
+        "s": 5.36,
+        "e": 5.52,
+        "i": 1
+      },
+      {
+        "t": "sitting",
+        "s": 5.56,
+        "e": 5.76,
+        "i": 1
+      },
+      {
+        "t": "at",
+        "s": 5.84,
+        "e": 5.88,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 5.92,
+        "e": 6.0,
+        "i": 1
+      },
+      {
+        "t": "table",
+        "s": 6.24,
+        "e": 6.48,
+        "i": 1
+      },
+      {
+        "t": "under",
+        "s": 6.6,
+        "e": 6.72,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 6.8,
+        "e": 6.88,
+        "i": 1
+      },
+      {
+        "t": "roof",
+        "s": 7.12,
+        "e": 7.36,
+        "i": 1
+      },
+      {
+        "t": "and",
+        "s": 7.44,
+        "e": 7.52,
+        "i": 1
+      },
+      {
+        "t": "having",
+        "s": 7.64,
+        "e": 7.76,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 7.8,
+        "e": 7.84,
+        "i": 1
+      },
+      {
+        "t": "meal.",
+        "s": 7.92,
+        "e": 8.8,
+        "i": 1
+      },
+      {
+        "t": "One",
+        "s": 8.88,
+        "e": 9.04,
+        "i": 2
+      },
+      {
+        "t": "man",
+        "s": 9.12,
+        "e": 9.36,
+        "i": 2
+      },
+      {
+        "t": "is",
+        "s": 9.44,
+        "e": 9.52,
+        "i": 2
+      },
+      {
+        "t": "wearing",
+        "s": 9.6,
+        "e": 9.84,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 9.88,
+        "e": 9.92,
+        "i": 2
+      },
+      {
+        "t": "cap.",
+        "s": 10.0,
+        "e": 10.88,
+        "i": 2
+      },
+      {
+        "t": "Beyond",
+        "s": 10.96,
+        "e": 11.28,
+        "i": 3
+      },
+      {
+        "t": "them,",
+        "s": 11.4,
+        "e": 11.76,
+        "i": 3
+      },
+      {
+        "t": "there",
+        "s": 11.84,
+        "e": 11.92,
+        "i": 3
+      },
+      {
+        "t": "are",
+        "s": 12.04,
+        "e": 12.16,
+        "i": 3
+      },
+      {
+        "t": "many",
+        "s": 12.28,
+        "e": 12.4,
+        "i": 3
+      },
+      {
+        "t": "fishing",
+        "s": 12.56,
+        "e": 12.8,
+        "i": 3
+      },
+      {
+        "t": "boats",
+        "s": 12.88,
+        "e": 13.12,
+        "i": 3
+      },
+      {
+        "t": "in",
+        "s": 13.16,
+        "e": 13.2,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 13.24,
+        "e": 13.28,
+        "i": 3
+      },
+      {
+        "t": "harbor,",
+        "s": 13.36,
+        "e": 14.0,
+        "i": 3
+      },
+      {
+        "t": "and",
+        "s": 14.08,
+        "e": 14.16,
+        "i": 3
+      },
+      {
+        "t": "some",
+        "s": 14.24,
+        "e": 14.32,
+        "i": 3
+      },
+      {
+        "t": "of",
+        "s": 14.4,
+        "e": 14.48,
+        "i": 3
+      },
+      {
+        "t": "them",
+        "s": 14.6,
+        "e": 14.72,
+        "i": 3
+      },
+      {
+        "t": "have",
+        "s": 14.8,
+        "e": 14.96,
+        "i": 3
+      },
+      {
+        "t": "small",
+        "s": 15.12,
+        "e": 15.28,
+        "i": 3
+      },
+      {
+        "t": "red",
+        "s": 15.36,
+        "e": 15.52,
+        "i": 3
+      },
+      {
+        "t": "flags.",
+        "s": 15.6,
+        "e": 16.72,
+        "i": 3
+      },
+      {
+        "t": "In",
+        "s": 16.8,
+        "e": 16.88,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 16.92,
+        "e": 16.96,
+        "i": 4
+      },
+      {
+        "t": "background,",
+        "s": 17.04,
+        "e": 17.76,
+        "i": 4
+      },
+      {
+        "t": "we",
+        "s": 17.84,
+        "e": 17.92,
+        "i": 4
+      },
+      {
+        "t": "can",
+        "s": 18.0,
+        "e": 18.08,
+        "i": 4
+      },
+      {
+        "t": "see",
+        "s": 18.16,
+        "e": 18.32,
+        "i": 4
+      },
+      {
+        "t": "green",
+        "s": 18.52,
+        "e": 18.72,
+        "i": 4
+      },
+      {
+        "t": "mountains",
+        "s": 18.84,
+        "e": 19.36,
+        "i": 4
+      },
+      {
+        "t": "and",
+        "s": 19.44,
+        "e": 19.52,
+        "i": 4
+      },
+      {
+        "t": "some",
+        "s": 19.6,
+        "e": 19.68,
+        "i": 4
+      },
+      {
+        "t": "buildings",
+        "s": 19.8,
+        "e": 20.08,
+        "i": 4
+      },
+      {
+        "t": "along",
+        "s": 20.16,
+        "e": 20.4,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 20.48,
+        "e": 20.56,
+        "i": 4
+      },
+      {
+        "t": "shore.",
+        "s": 20.72,
+        "e": 21.36,
+        "i": 4
+      },
+      {
+        "t": "It",
+        "s": 21.48,
+        "e": 21.6,
+        "i": 5
+      },
+      {
+        "t": "looks",
+        "s": 21.72,
+        "e": 21.84,
+        "i": 5
+      },
+      {
+        "t": "like",
+        "s": 21.92,
+        "e": 22.0,
+        "i": 5
+      },
+      {
+        "t": "a",
+        "s": 22.08,
+        "e": 22.16,
+        "i": 5
+      },
+      {
+        "t": "hot",
+        "s": 22.24,
+        "e": 22.48,
+        "i": 5
+      },
+      {
+        "t": "day.",
+        "s": 22.64,
+        "e": 23.04,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [],
+  "test": {
+    "stock_id": "sp064",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture was taken from a restaurant by the sea. In the foreground, four people are sitting at a table under a roof and having a meal. One man is wearing a cap. Beyond them, there are many fishing boats in the harbor, and some of them have small red flags. In the background, we can see green mountains and some buildings along the shore. It looks like a hot day.",
+    "answer": null,
+    "seconds": null,
+    "grade": null
+  }
+}

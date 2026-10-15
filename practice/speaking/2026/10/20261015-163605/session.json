@@ -1,0 +1,721 @@
+{
+  "id": "20261015-163605",
+  "skill": "speaking",
+  "created": "2026-10-15 16:36",
+  "title": "Two cyclists ride on a city street",
+  "result": {
+    "score": 60,
+    "details": {
+      "description": 60,
+      "recordings": 4,
+      "pronunciation": 68,
+      "fluency": 72,
+      "intonation": 69,
+      "completeness": 84,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 70
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1764782368331-2dffc8262beb?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwY3ljbGluZyUyMGNpdHklMjBzdHJlZXR8ZW58MXwwfHx8MTc5MTA0MzM4Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Sui Xu",
+      "profile": "https://unsplash.com/@sui_xu?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/two-cyclists-ride-on-a-city-street-PMlXUuLmXp4?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "Two cyclists ride on a city street"
+    }
+  },
+  "attempts": [
+    {
+      "time": "16:37:45",
+      "text": "A man and a woman are riding bicycles along to the street. On the background, there is a yellow car. A women woman is acrossing in front of the car.",
+      "score": 60
+    }
+  ],
+  "correction": {
+    "corrected": "A man and a woman are riding bicycles along the street. In the background, there is a yellow car. A woman is crossing in front of the car.",
+    "corrections": [
+      {
+        "before": "along to the street",
+        "after": "along the street",
+        "reason_ja": "along は前置詞なので to は不要で、along the street だけで「通りに沿って」という意味になります。"
+      },
+      {
+        "before": "On the background",
+        "after": "In the background",
+        "reason_ja": "「背景に」を表す前置詞は通常 in を使い、in the background と表現します。"
+      },
+      {
+        "before": "A women woman is acrossing",
+        "after": "A woman is crossing",
+        "reason_ja": "単数形は woman であり、「渡る」という動詞の進行形は acrossing ではなく crossing です。"
+      }
+    ],
+    "ideal": "This picture shows a busy street in a city. In the middle, two people are riding bicycles in a bike lane. One of them is carrying a white backpack. On the right, a yellow and black taxi is driving on the road, and a large bus is parked by the sidewalk. Many people are crossing the street in the background. The street is lined with tall trees.",
+    "key_expressions": [
+      {
+        "en": "ride bicycles in a bike lane",
+        "ja": "自転車専用レーンで自転車に乗る"
+      },
+      {
+        "en": "carry a backpack",
+        "ja": "リュックを背負っている"
+      },
+      {
+        "en": "be parked by the sidewalk",
+        "ja": "歩道脇に駐車されている"
+      },
+      {
+        "en": "cross the street",
+        "ja": "道路を横断する"
+      },
+      {
+        "en": "be lined with tall trees",
+        "ja": "背の高い木々が立ち並んでいる"
+      }
+    ],
+    "feedback_ja": "手前の自転車に乗る二人や奥の車・歩行者に目を向け、要点を捉えて描写できています。沈黙の時間がやや長かったため、まずは「This is a photo of a busy street.」のように全体の場面設定から話し始めると発話量を増やしやすくなります。右側の大型バスや並木道など、目立つ周辺の要素にも触れられるようになるとさらに高得点が狙えます。",
+    "score": 60,
+    "original": "A man and a woman are riding bicycles along to the street. On the background, there is a yellow car. A women woman is acrossing in front of the car.",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_991f14499518.mp3",
+    "text": "This picture shows a busy street in a city. In the middle, two people are riding bicycles in a bike lane. One of them is carrying a white backpack. On the right, a yellow and black taxi is driving on the road, and a large bus is parked by the sidewalk. Many people are crossing the street in the background. The street is lined with tall trees.",
+    "voice_id": "Aa6nEBJJMKJwJkCx8VU2",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture shows a busy street in a city.",
+        "start": 0.0,
+        "end": 2.88
+      },
+      {
+        "text": "In the middle, two people are riding bicycles in a bike lane.",
+        "start": 3.2,
+        "end": 6.8
+      },
+      {
+        "text": "One of them is carrying a white backpack.",
+        "start": 7.12,
+        "end": 9.64
+      },
+      {
+        "text": "On the right, a yellow and black taxi is driving on the road, and a large bus is parked by the sidewalk.",
+        "start": 9.92,
+        "end": 16.08
+      },
+      {
+        "text": "Many people are crossing the street in the background.",
+        "start": 16.72,
+        "end": 19.2
+      },
+      {
+        "text": "The street is lined with tall trees.",
+        "start": 19.6,
+        "end": 22.08
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.14,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.16,
+        "e": 0.514,
+        "i": 0
+      },
+      {
+        "t": "shows",
+        "s": 0.56,
+        "e": 0.912,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 0.96,
+        "e": 1.0,
+        "i": 0
+      },
+      {
+        "t": "busy",
+        "s": 1.04,
+        "e": 1.44,
+        "i": 0
+      },
+      {
+        "t": "street",
+        "s": 1.52,
+        "e": 1.92,
+        "i": 0
+      },
+      {
+        "t": "in",
+        "s": 1.96,
+        "e": 2.0,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 2.08,
+        "e": 2.16,
+        "i": 0
+      },
+      {
+        "t": "city.",
+        "s": 2.24,
+        "e": 2.88,
+        "i": 0
+      },
+      {
+        "t": "In",
+        "s": 3.2,
+        "e": 3.24,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 3.28,
+        "e": 3.36,
+        "i": 1
+      },
+      {
+        "t": "middle,",
+        "s": 3.44,
+        "e": 4.0,
+        "i": 1
+      },
+      {
+        "t": "two",
+        "s": 4.08,
+        "e": 4.16,
+        "i": 1
+      },
+      {
+        "t": "people",
+        "s": 4.24,
+        "e": 4.56,
+        "i": 1
+      },
+      {
+        "t": "are",
+        "s": 4.64,
+        "e": 4.72,
+        "i": 1
+      },
+      {
+        "t": "riding",
+        "s": 4.88,
+        "e": 5.04,
+        "i": 1
+      },
+      {
+        "t": "bicycles",
+        "s": 5.12,
+        "e": 5.68,
+        "i": 1
+      },
+      {
+        "t": "in",
+        "s": 5.76,
+        "e": 5.8,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 5.84,
+        "e": 5.88,
+        "i": 1
+      },
+      {
+        "t": "bike",
+        "s": 5.92,
+        "e": 6.16,
+        "i": 1
+      },
+      {
+        "t": "lane.",
+        "s": 6.24,
+        "e": 6.8,
+        "i": 1
+      },
+      {
+        "t": "One",
+        "s": 7.12,
+        "e": 7.2,
+        "i": 2
+      },
+      {
+        "t": "of",
+        "s": 7.28,
+        "e": 7.36,
+        "i": 2
+      },
+      {
+        "t": "them",
+        "s": 7.48,
+        "e": 7.6,
+        "i": 2
+      },
+      {
+        "t": "is",
+        "s": 7.68,
+        "e": 7.84,
+        "i": 2
+      },
+      {
+        "t": "carrying",
+        "s": 7.92,
+        "e": 8.24,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 8.32,
+        "e": 8.4,
+        "i": 2
+      },
+      {
+        "t": "white",
+        "s": 8.48,
+        "e": 8.72,
+        "i": 2
+      },
+      {
+        "t": "backpack.",
+        "s": 8.8,
+        "e": 9.64,
+        "i": 2
+      },
+      {
+        "t": "On",
+        "s": 9.92,
+        "e": 10.08,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 10.12,
+        "e": 10.16,
+        "i": 3
+      },
+      {
+        "t": "right,",
+        "s": 10.24,
+        "e": 10.8,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 10.88,
+        "e": 10.96,
+        "i": 3
+      },
+      {
+        "t": "yellow",
+        "s": 11.04,
+        "e": 11.28,
+        "i": 3
+      },
+      {
+        "t": "and",
+        "s": 11.32,
+        "e": 11.36,
+        "i": 3
+      },
+      {
+        "t": "black",
+        "s": 11.44,
+        "e": 11.68,
+        "i": 3
+      },
+      {
+        "t": "taxi",
+        "s": 11.76,
+        "e": 12.24,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 12.32,
+        "e": 12.4,
+        "i": 3
+      },
+      {
+        "t": "driving",
+        "s": 12.48,
+        "e": 12.8,
+        "i": 3
+      },
+      {
+        "t": "on",
+        "s": 12.84,
+        "e": 12.88,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 12.96,
+        "e": 13.0,
+        "i": 3
+      },
+      {
+        "t": "road,",
+        "s": 13.04,
+        "e": 13.68,
+        "i": 3
+      },
+      {
+        "t": "and",
+        "s": 13.72,
+        "e": 13.76,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 13.84,
+        "e": 13.92,
+        "i": 3
+      },
+      {
+        "t": "large",
+        "s": 14.0,
+        "e": 14.24,
+        "i": 3
+      },
+      {
+        "t": "bus",
+        "s": 14.4,
+        "e": 14.72,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 14.8,
+        "e": 14.88,
+        "i": 3
+      },
+      {
+        "t": "parked",
+        "s": 14.96,
+        "e": 15.2,
+        "i": 3
+      },
+      {
+        "t": "by",
+        "s": 15.24,
+        "e": 15.28,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 15.36,
+        "e": 15.44,
+        "i": 3
+      },
+      {
+        "t": "sidewalk.",
+        "s": 15.52,
+        "e": 16.08,
+        "i": 3
+      },
+      {
+        "t": "Many",
+        "s": 16.72,
+        "e": 16.88,
+        "i": 4
+      },
+      {
+        "t": "people",
+        "s": 16.96,
+        "e": 17.28,
+        "i": 4
+      },
+      {
+        "t": "are",
+        "s": 17.36,
+        "e": 17.44,
+        "i": 4
+      },
+      {
+        "t": "crossing",
+        "s": 17.6,
+        "e": 17.84,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 17.88,
+        "e": 17.92,
+        "i": 4
+      },
+      {
+        "t": "street",
+        "s": 18.0,
+        "e": 18.32,
+        "i": 4
+      },
+      {
+        "t": "in",
+        "s": 18.36,
+        "e": 18.4,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 18.48,
+        "e": 18.52,
+        "i": 4
+      },
+      {
+        "t": "background.",
+        "s": 18.56,
+        "e": 19.2,
+        "i": 4
+      },
+      {
+        "t": "The",
+        "s": 19.6,
+        "e": 19.68,
+        "i": 5
+      },
+      {
+        "t": "street",
+        "s": 19.76,
+        "e": 20.08,
+        "i": 5
+      },
+      {
+        "t": "is",
+        "s": 20.16,
+        "e": 20.24,
+        "i": 5
+      },
+      {
+        "t": "lined",
+        "s": 20.32,
+        "e": 20.64,
+        "i": 5
+      },
+      {
+        "t": "with",
+        "s": 20.72,
+        "e": 20.8,
+        "i": 5
+      },
+      {
+        "t": "tall",
+        "s": 20.88,
+        "e": 21.2,
+        "i": 5
+      },
+      {
+        "t": "trees.",
+        "s": 21.28,
+        "e": 22.08,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "5",
+      "mode": "overlap",
+      "reference": "The street is lined with tall trees.",
+      "time": "16:40:07",
+      "evaluation": null
+    },
+    {
+      "n": 2,
+      "file": "rec_002.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows a busy street in a city. In the middle, two people are riding bicycles in a bike lane. One of them is carrying a white backpack. On the right, a yellow and black taxi is driving on the road, and a large bus is parked by the sidewalk. Many people are crossing the street in the background. The street is lined with tall trees.",
+      "time": "16:40:35",
+      "evaluation": {
+        "heard": "This picture shows a busy street in a city. In the middle, two people are riding bicycle in a bike lane. One of them is carrying a white backpack. On the right, a yellow and black taxi driving road, and a large bus parked by sidewalk. Many people are crossing street in background. The street lined...",
+        "overall": 68,
+        "pronunciation": 67,
+        "fluency": 68,
+        "intonation": 66,
+        "completeness": 72,
+        "word_issues": [
+          {
+            "word": "riding bicycles",
+            "problem_ja": "ridingの語頭Rが甘く、bicyclesの複数形-sが脱落して単数形「バイスクル」と母音/u/で終わっていました。",
+            "tip_ja": "ridingは唇を軽くすぼめて「ゥライ」から始めます。bicyclesは語尾に/z/をつけて「バイスィクルズ」と摩擦音で息を抜いて終わらせましょう。"
+          },
+          {
+            "word": "is driving on the road",
+            "problem_ja": "テンポに追われ「is」と「on the」が脱落し、roadもカタカナの「ロード」に近い平坦な発音でした。",
+            "tip_ja": "driving on theは「ドライヴィン・オン・ダ」のようにリンキング（連結）して軽く言います。roadは舌を引いてRの響きを作り、語尾のdは母音を付けずに軽く止めます。"
+          },
+          {
+            "word": "parked by the sidewalk",
+            "problem_ja": "冠詞「the」が抜け、parkedの語尾/-kt/が曖昧で「パーク」と母音で止まっていました。",
+            "tip_ja": "parkedは「パークト」と母音を入れず、無声音の破裂音/t/を舌先で素早く弾いてから「by」に繋げましょう。"
+          },
+          {
+            "word": "street",
+            "problem_ja": "「ストリート」とSとTの間に余計な母音/u/が入り、語頭子音群が日本語的になっていました。",
+            "tip_ja": "「ス」と声を出さずに歯の間から息だけで「スッ」と摩擦を出し、そのまま「トゥリート」へ移りましょう。"
+          },
+          {
+            "word": "lined with tall trees",
+            "problem_ja": "後半で音声に追いつけなくなり、linedの後ろ（with tall trees）が完全に脱落してしまいました。",
+            "tip_ja": "lined withは「ライン・ウィズ」のようにdがwithに溶け込みます。tall treesは舌先を上前歯の裏につけるダークLと、ツリーではなく「トゥリーズ」と発音してリズムよく言い切りましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "前半（This picture shows〜white backpack）はモデル音声のテンポにしっかり食らいついてリズムを作れていました。",
+          "white backpackなどの破裂音の連続をクリアに発声しようとする意識が感じられました。"
+        ],
+        "improvements_ja": [
+          "スピードに焦って「is」「the」「on」などの機能語を飛ばさず、弱形（あいまい母音）で素早く滑らかに繋げる練習をしましょう。",
+          "「street」や「bicycles」など子音で終わる・続く音に日本語の「ウ・オ」などの母音を足さないよう、息だけで音を止める癖をつけましょう。",
+          "最後の1文まで息切れせずに発声し切れるよう、文の区切り（ブレスポイント）を意識して影のように一瞬遅れて追う感覚を掴みましょう。"
+        ],
+        "summary_ja": "前半はテンポ良くモデル音声に重なって発音できており、意欲的なアプローチが伝わります。一方で後半になるにつれてスピードに押され、前置詞や冠詞などの機能語が脱落し、最後の一節が言い切れずに終わってしまいました。まずは少し速度を落としたリピーティングで細部の音（弱形や語尾子音）を固めてから、オーバーラッピングで最後まで完走できるように仕上げていきましょう。"
+      }
+    },
+    {
+      "n": 3,
+      "file": "rec_003.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows a busy street in a city. In the middle, two people are riding bicycles in a bike lane. One of them is carrying a white backpack. On the right, a yellow and black taxi is driving on the road, and a large bus is parked by the sidewalk. Many people are crossing the street in the background. The street is lined with tall trees.",
+      "time": "16:42:59",
+      "evaluation": null
+    },
+    {
+      "n": 4,
+      "file": "rec_004.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture shows a busy street in a city. In the middle, two people are riding bicycles in a bike lane. One of them is carrying a white backpack. On the right, a yellow and black taxi is driving on the road, and a large bus is parked by the sidewalk. Many people are crossing the street in the background. The street is lined with tall trees.",
+      "time": "16:43:54",
+      "evaluation": {
+        "heard": "This picture shows is a busy street in a city. In the middle, two people are riding bicycles in a bike lane. One of them is carrying white backpack. On the right, a yellow and black taxi is driving on the road, a large bus is parked by sidewalk. Many people are crossing street in background. The street line with tall trees.",
+        "overall": 70,
+        "pronunciation": 68,
+        "fluency": 72,
+        "intonation": 69,
+        "completeness": 84,
+        "word_issues": [
+          {
+            "word": "riding",
+            "problem_ja": "語頭の /r/ が /l/ に近く「liding」のように聞こえました。",
+            "tip_ja": "舌先を上あごにつけず、唇を少し丸めて「ウ」の口の構えから喉の奥を響かせるように引いて /raɪ/ と発音しましょう。"
+          },
+          {
+            "word": "lane",
+            "problem_ja": "語頭の /l/ が /r/ に近く、「ring」のように聞こえました。",
+            "tip_ja": "Lの音は舌先を上の前歯の付け根にしっかり押し当ててから「レイ・ン」と弾いて発音します。"
+          },
+          {
+            "word": "bicycles",
+            "problem_ja": "語尾が崩れ、複数形の /z/ や音節が曖昧になっていました。",
+            "tip_ja": "「バイ・シ・クルズ」/ˈbaɪ.sɪ.kəlz/ と3音節を意識し、最後の dark L から /z/ への移行を滑らかに保ちましょう。"
+          },
+          {
+            "word": "parked",
+            "problem_ja": "語尾の -ed (/t/) が落ちて「park」のように聞こえました。",
+            "tip_ja": "無声音の /k/ の直後の -ed は /t/ になります。息を /k/ で一瞬止めてから軽く「トゥ」と破裂させましょう。"
+          },
+          {
+            "word": "is lined with",
+            "problem_ja": "「is」が抜け、lined の -ed も脱落して「line with」に聞こえました。",
+            "tip_ja": "受動態なので /ɪz laɪnd wɪð/ となります。lined の /d/ から with の /w/ への連結を意識しましょう。"
+          },
+          {
+            "word": "the (sidewalk / background)",
+            "problem_ja": "テンポに追いつこうとして冠詞「the」が複数箇所で脱落していました。",
+            "tip_ja": "冠詞は弱形 /ðə/ で弱く短く、直前の前置詞とつなげて（by the → /baɪ ðə/）素早く発音する練習をしましょう。"
+          },
+          {
+            "word": "shows",
+            "problem_ja": "「shows is」と余分な is が混ざったように聞こえました。",
+            "tip_ja": "三人称単数の s は濁る音 /z/ です。「ショウズ」とシンプルに言い切ってから、次の「a」へ滑らかに繋げましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "最後までモデル音声のペースから大きく遅れることなく、完走できています。",
+          "「busy street」や「driving on the road」など、フレーズごとの流れがスムーズな部分がありました。"
+        ],
+        "improvements_ja": [
+          "riding や lane など、日本人特有の L と R の逆転・混同をしっかり意識して区別しましょう。",
+          "スピードに追いつくために冠詞（a, the）や be動詞を省略せず、弱く素早く添える感覚を身につけましょう。",
+          "parked や lined など過去分詞語尾の子音（/t/, /d/）の脱落に注意しましょう。"
+        ],
+        "summary_ja": "モデル音声のテンポによく食らいついて最後まで発話し切れています。一方で、スピードに引っ張られて冠詞や語尾の -ed が抜け落ちたり、L/R の区別が甘くなる傾向が見られました。まずは少し速度を落として、脱落しやすい小さな単語や子音を正確に鳴らす練習を重ねるとさらに自然になります。"
+      }
+    }
+  ],
+  "test": {
+    "stock_id": "sp057",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture shows a busy street in a city. In the middle, two people are riding bicycles in a bike lane. One of them is carrying a white backpack. On the right, a yellow and black taxi is driving on the road, and a large bus is parked by the sidewalk. Many people are crossing the street in the background. The street is lined with tall trees.",
+    "answer": "A man and a woman are riding bicycles along to the street. On the background, there is a yellow car. A women woman is acrossing in front of the car.",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 60,
+      "content": 60,
+      "grammar": 55,
+      "vocabulary": 55,
+      "delivery": 55,
+      "corrected": "A man and a woman are riding bicycles along the street. In the background, there is a yellow car. A woman is crossing in front of the car.",
+      "corrections": [
+        {
+          "before": "along to the street",
+          "after": "along the street",
+          "reason_ja": "along は前置詞なので to は不要で、along the street だけで「通りに沿って」という意味になります。"
+        },
+        {
+          "before": "On the background",
+          "after": "In the background",
+          "reason_ja": "「背景に」を表す前置詞は通常 in を使い、in the background と表現します。"
+        },
+        {
+          "before": "A women woman is acrossing",
+          "after": "A woman is crossing",
+          "reason_ja": "単数形は woman であり、「渡る」という動詞の進行形は acrossing ではなく crossing です。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "ride bicycles in a bike lane",
+          "ja": "自転車専用レーンで自転車に乗る"
+        },
+        {
+          "en": "carry a backpack",
+          "ja": "リュックを背負っている"
+        },
+        {
+          "en": "be parked by the sidewalk",
+          "ja": "歩道脇に駐車されている"
+        },
+        {
+          "en": "cross the street",
+          "ja": "道路を横断する"
+        },
+        {
+          "en": "be lined with tall trees",
+          "ja": "背の高い木々が立ち並んでいる"
+        }
+      ],
+      "feedback_ja": "手前の自転車に乗る二人や奥の車・歩行者に目を向け、要点を捉えて描写できています。沈黙の時間がやや長かったため、まずは「This is a photo of a busy street.」のように全体の場面設定から話し始めると発話量を増やしやすくなります。右側の大型バスや並木道など、目立つ周辺の要素にも触れられるようになるとさらに高得点が狙えます。"
+    }
+  }
+}

@@ -748,6 +748,25 @@
    }
   },
   {
+   "id": "vc201",
+   "theme": "home",
+   "en": "alarm clock",
+   "ja": "目覚まし時計",
+   "example": "My alarm clock goes off at six.",
+   "audio": {
+    "main": {
+     "text": "alarm clock",
+     "file": "model_a77453bda4cd.mp3"
+    }
+   },
+   "note": "go off ＝（目覚ましが）鳴る。set the alarm ＝目覚ましをかける",
+   "from": "sa143",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
    "id": "vc041",
    "theme": "body",
    "en": "sore throat",
