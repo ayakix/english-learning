@@ -84,3 +84,18 @@
 | 2026-10-15 | What do students carry their **books in**?（即答 sa145） | books in → ブックセン（意味が取れず library と答えた） | books‿in は「ブクスィン」とつながる。carry 〈もの〉 in ＝〜に入れて運ぶ。前置詞 in が文末に残る質問の形 |
 | 2026-10-16 | If it rains tomorrow, **we'll** have to cancel the picnic.（rp145 の 2 回目） | we'll が抜けた（10/15 に続き 2 回目） | we'll は「ウィル」が弱く、have の前で「ウィウ」くらいにしか聞こえない。if の文（明日のこと）の後ろは will を補って聞く |
 | 2026-10-16 | The restaurant **was** so popular that we had to wait outside.（rp155） | was → is | 後ろの had to（過去）と時制をそろえる。restaurant‿was は「レストランワズ」とつながる |
+| 2026-10-16 | **I'll send you** the details as soon as **I get them**.（rp161・1 回聞き） | 前半と後半が聞き取れず | I'll‿send‿you は「アイウセンジュ」（d‿you が混ざる）。get‿them は「ゲレム」（th が弱く消える） |
+| 2026-10-16 | The kids **were** too excited to **fall asleep** last night.（rp162） | were → was、fall asleep | kids‿were は「キッズワ」。kids は複数なので were。fall‿asleep は「フォーラスリープ」 |
+| 2026-10-16 | He wants to run a full marathon before he **turns** forty.（rp163） | turns | turn 〈年齢〉＝〜歳になる。before の後は現在形（未来のことでも） |
+| 2026-10-16 | You can't **park** here between eight in the morning and six.（rp164） | park | park ＝車を停める。can't park は「キャン(ト)パーク」で t がほぼ消える |
+| 2026-10-16 | The store was out of **the brand** I usually buy.（rp165） | the brand | out‿of‿the は「アウダヴザ」。brand‿I は「ブランダイ」 |
+| 2026-10-16 | We spent our honeymoon **on a** small island in Greece.（rp166） | on a | on‿a は「オナ」と 1 つになる。島には on（on an island） |
+| 2026-10-16 | I accidentally **left** my wallet in the taxi this morning.（rp168） | left | leave（置き忘れる）の過去形。left‿my の t はほぼ消える |
+| 2026-10-16 | She's afraid of **flying**, so she always takes the train.（rp170） | flying | be afraid of 〜ing。of‿flying は「アフライイン」 |
+| 2026-10-16 | My phone battery **died right** in the middle of the call.（rp171） | died right | die ＝電池が切れる。died の d は次の r に飲まれる |
+| 2026-10-16 | They built **a** new bridge across the river last year.（rp172） | a → the | 初めて言う橋なので a。built‿a は「ビルタ」 |
+| 2026-10-16 | The waiter **brought us the wrong** dishes, but they were delicious.（rp174） | brought us the wrong | brought‿us は「ブローラス」。bring 人 物 の形 |
+| 2026-10-16 | He forgot his password and couldn't **log into** his account.（rp176） | log into → login | 動詞は log in（2 語）、log into 〜。login（1 語）は名詞 |
+| 2026-10-16 | The hotel staff **were** friendly and **helped** us **with** everything.（rp178） | were → are、helped → help、with が抜けた | 前半が過去（were）なら後半も過去（helped）。help 人 with 〜 ＝人の〜を手伝う |
+| 2026-10-16 | **I've heard** that the new science museum is really interesting.（rp179） | 've heard | I've は「アイヴ」の v が弱い。I've heard that 〜 ＝〜だと聞いている |
+| 2026-10-16 | Can you remind me **to call the bank** this afternoon?（rp181） | to call the bank | me‿to は「ミタ」。call‿the は「コーウザ」。remind 人 to 〜 |

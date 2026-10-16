@@ -4,10 +4,10 @@
   "created": "2026-10-16 08:44",
   "title": "復唱",
   "result": {
-    "score": 90,
+    "score": 57,
     "details": {
-      "ok": 18,
-      "total": 20
+      "ok": 23,
+      "total": 40
     }
   },
   "mode": "repeats",
@@ -109,6 +109,106 @@
     },
     "rp160": {
       "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp161": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp162": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp163": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp164": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp165": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp166": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp167": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp168": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp169": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp170": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp171": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp172": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp174": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp175": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp176": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp177": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp178": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp179": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp180": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp181": {
+      "ok": false,
       "kind": "repeats",
       "level": 3
     }
