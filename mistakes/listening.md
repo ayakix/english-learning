@@ -99,3 +99,5 @@
 | 2026-10-16 | The hotel staff **were** friendly and **helped** us **with** everything.（rp178） | were → are、helped → help、with が抜けた | 前半が過去（were）なら後半も過去（helped）。help 人 with 〜 ＝人の〜を手伝う |
 | 2026-10-16 | **I've heard** that the new science museum is really interesting.（rp179） | 've heard | I've は「アイヴ」の v が弱い。I've heard that 〜 ＝〜だと聞いている |
 | 2026-10-16 | Can you remind me **to call the bank** this afternoon?（rp181） | to call the bank | me‿to は「ミタ」。call‿the は「コーウザ」。remind 人 to 〜 |
+| 2026-10-17 | We're planning **a trip** to Hokkaido.（rp064・1 回聞き。10/11 に続き 2 回目） | planning a trip → planning to trip | planning‿a は「プラニンガ」。plan a trip（旅行を計画する）。trip は名詞なので to は付かない |
+| 2026-10-17 | I'm going to **the** dentist tomorrow.（rp080・1 回聞き） | the が抜けた | go to the dentist ＝歯医者に行く（the 付きの決まった形。go to the doctor も同じ） |
