@@ -1,0 +1,692 @@
+{
+  "id": "20261020-222132",
+  "skill": "speaking",
+  "created": "2026-10-20 22:21",
+  "title": "People gather by a lake, one rides a scooter",
+  "result": {
+    "score": 62,
+    "details": {
+      "description": 62,
+      "recordings": 1,
+      "pronunciation": 66,
+      "fluency": 76,
+      "intonation": 72,
+      "completeness": 98,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 73
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1769531668370-112dd858f8f8?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MTh8fGZhbWlseSUyMHBpY25pYyUyMHBhcmt8ZW58MXwwfHx8MTc5MTA0MzM4MXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "NHN",
+      "profile": "https://unsplash.com/@nuarharuha?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/people-gather-by-a-lake-one-rides-a-scooter-2e8D34D0ZM8?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "People gather by a lake, one rides a scooter"
+    }
+  },
+  "attempts": [
+    {
+      "time": "22:24:31",
+      "text": "This photo shows riverside landscape. In front of the river, there are five people to look at the river. In the middle, a man with a dark hat is riding a bicycle. In foreground, the grass",
+      "score": 62
+    }
+  ],
+  "correction": {
+    "corrected": "This photo shows a riverside landscape. By the river, there are five people looking at the water. In the middle, a man with a dark hat is riding a bicycle. In the foreground, there is grass.",
+    "corrections": [
+      {
+        "before": "riverside landscape",
+        "after": "a riverside landscape",
+        "reason_ja": "数えられる名詞として使う場合は不定冠詞 a が必要です。"
+      },
+      {
+        "before": "In front of the river, there are five people to look at the river.",
+        "after": "By the river, there are five people looking at the water.",
+        "reason_ja": "「〜している人々」は現在分詞（looking at）で修飾します。また、river の重複を避けて water や lake と言い換えると自然です。"
+      },
+      {
+        "before": "In foreground, the grass",
+        "after": "In the foreground, there is grass.",
+        "reason_ja": "定冠詞 the を補い（In the foreground）、動詞を入れて文を完成させましょう。"
+      }
+    ],
+    "ideal": "This picture was taken by a lake. In the middle, a man in a cap is riding a small scooter on a stone walkway. Near the water, a group of young people are standing and looking at the lake. On the left, some people are sitting on a blanket on the ground. There is also a baby stroller. In the foreground, there are green and yellow plants, and tree branches hang down from above.",
+    "key_expressions": [
+      {
+        "en": "by a lake",
+        "ja": "湖のそばで"
+      },
+      {
+        "en": "stone walkway",
+        "ja": "石畳の歩道"
+      },
+      {
+        "en": "sit on a blanket",
+        "ja": "敷物の上に座る"
+      },
+      {
+        "en": "in the foreground",
+        "ja": "手前に／前面に"
+      },
+      {
+        "en": "hang down from above",
+        "ja": "上から垂れ下がる"
+      }
+    ],
+    "feedback_ja": "全体の位置関係（水辺・中央・手前）を意識して順序よく描写しようとした構成はとても良いです。一方で、左側でピクニックをしているグループに触れられず、最後の文も時間切れで途切れてしまいました。沈黙の時間を減らし、「There is/are 〜 -ing」の型をスムーズに発話して時間内に文を完結させる練習を優先しましょう。",
+    "score": 62,
+    "original": "This photo shows riverside landscape. In front of the river, there are five people to look at the river. In the middle, a man with a dark hat is riding a bicycle. In foreground, the grass",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_bf36286068e3.mp3",
+    "text": "This picture was taken by a lake. In the middle, a man in a cap is riding a small scooter on a stone walkway. Near the water, a group of young people are standing and looking at the lake. On the left, some people are sitting on a blanket on the ground. There is also a baby stroller. In the foreground, there are green and yellow plants, and tree branches hang down from above.",
+    "voice_id": "qxTFXDYbGcR8GaHSjczg",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture was taken by a lake.",
+        "start": 0.0,
+        "end": 2.48
+      },
+      {
+        "text": "In the middle, a man in a cap is riding a small scooter on a stone walkway.",
+        "start": 2.8,
+        "end": 8.64
+      },
+      {
+        "text": "Near the water, a group of young people are standing and looking at the lake.",
+        "start": 8.72,
+        "end": 13.6
+      },
+      {
+        "text": "On the left, some people are sitting on a blanket on the ground.",
+        "start": 13.68,
+        "end": 17.68
+      },
+      {
+        "text": "There is also a baby stroller.",
+        "start": 17.76,
+        "end": 20.08
+      },
+      {
+        "text": "In the foreground, there are green and yellow plants, and tree branches hang down from above.",
+        "start": 20.12,
+        "end": 26.08
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.24,
+        "e": 0.663,
+        "i": 0
+      },
+      {
+        "t": "was",
+        "s": 0.72,
+        "e": 0.96,
+        "i": 0
+      },
+      {
+        "t": "taken",
+        "s": 1.04,
+        "e": 1.36,
+        "i": 0
+      },
+      {
+        "t": "by",
+        "s": 1.44,
+        "e": 1.6,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.68,
+        "e": 1.76,
+        "i": 0
+      },
+      {
+        "t": "lake.",
+        "s": 1.96,
+        "e": 2.48,
+        "i": 0
+      },
+      {
+        "t": "In",
+        "s": 2.8,
+        "e": 2.88,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 2.96,
+        "e": 3.04,
+        "i": 1
+      },
+      {
+        "t": "middle,",
+        "s": 3.2,
+        "e": 3.68,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 3.76,
+        "e": 3.84,
+        "i": 1
+      },
+      {
+        "t": "man",
+        "s": 4.0,
+        "e": 4.16,
+        "i": 1
+      },
+      {
+        "t": "in",
+        "s": 4.2,
+        "e": 4.24,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 4.32,
+        "e": 4.4,
+        "i": 1
+      },
+      {
+        "t": "cap",
+        "s": 4.48,
+        "e": 4.88,
+        "i": 1
+      },
+      {
+        "t": "is",
+        "s": 4.96,
+        "e": 5.12,
+        "i": 1
+      },
+      {
+        "t": "riding",
+        "s": 5.2,
+        "e": 5.52,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 5.6,
+        "e": 5.68,
+        "i": 1
+      },
+      {
+        "t": "small",
+        "s": 5.84,
+        "e": 6.0,
+        "i": 1
+      },
+      {
+        "t": "scooter",
+        "s": 6.16,
+        "e": 6.72,
+        "i": 1
+      },
+      {
+        "t": "on",
+        "s": 6.76,
+        "e": 6.8,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 6.88,
+        "e": 6.96,
+        "i": 1
+      },
+      {
+        "t": "stone",
+        "s": 7.16,
+        "e": 7.36,
+        "i": 1
+      },
+      {
+        "t": "walkway.",
+        "s": 7.44,
+        "e": 8.64,
+        "i": 1
+      },
+      {
+        "t": "Near",
+        "s": 8.72,
+        "e": 8.88,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 8.96,
+        "e": 9.04,
+        "i": 2
+      },
+      {
+        "t": "water,",
+        "s": 9.24,
+        "e": 9.76,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 9.84,
+        "e": 9.92,
+        "i": 2
+      },
+      {
+        "t": "group",
+        "s": 10.04,
+        "e": 10.16,
+        "i": 2
+      },
+      {
+        "t": "of",
+        "s": 10.24,
+        "e": 10.32,
+        "i": 2
+      },
+      {
+        "t": "young",
+        "s": 10.4,
+        "e": 10.64,
+        "i": 2
+      },
+      {
+        "t": "people",
+        "s": 10.84,
+        "e": 11.04,
+        "i": 2
+      },
+      {
+        "t": "are",
+        "s": 11.16,
+        "e": 11.28,
+        "i": 2
+      },
+      {
+        "t": "standing",
+        "s": 11.56,
+        "e": 11.84,
+        "i": 2
+      },
+      {
+        "t": "and",
+        "s": 11.92,
+        "e": 12.08,
+        "i": 2
+      },
+      {
+        "t": "looking",
+        "s": 12.24,
+        "e": 12.4,
+        "i": 2
+      },
+      {
+        "t": "at",
+        "s": 12.44,
+        "e": 12.48,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 12.56,
+        "e": 12.64,
+        "i": 2
+      },
+      {
+        "t": "lake.",
+        "s": 12.8,
+        "e": 13.6,
+        "i": 2
+      },
+      {
+        "t": "On",
+        "s": 13.68,
+        "e": 13.76,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 13.84,
+        "e": 13.92,
+        "i": 3
+      },
+      {
+        "t": "left,",
+        "s": 14.12,
+        "e": 14.64,
+        "i": 3
+      },
+      {
+        "t": "some",
+        "s": 14.72,
+        "e": 14.88,
+        "i": 3
+      },
+      {
+        "t": "people",
+        "s": 14.96,
+        "e": 15.28,
+        "i": 3
+      },
+      {
+        "t": "are",
+        "s": 15.36,
+        "e": 15.44,
+        "i": 3
+      },
+      {
+        "t": "sitting",
+        "s": 15.48,
+        "e": 15.76,
+        "i": 3
+      },
+      {
+        "t": "on",
+        "s": 15.8,
+        "e": 15.84,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 15.92,
+        "e": 16.0,
+        "i": 3
+      },
+      {
+        "t": "blanket",
+        "s": 16.16,
+        "e": 16.48,
+        "i": 3
+      },
+      {
+        "t": "on",
+        "s": 16.56,
+        "e": 16.64,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 16.68,
+        "e": 16.72,
+        "i": 3
+      },
+      {
+        "t": "ground.",
+        "s": 16.8,
+        "e": 17.68,
+        "i": 3
+      },
+      {
+        "t": "There",
+        "s": 17.76,
+        "e": 17.84,
+        "i": 4
+      },
+      {
+        "t": "is",
+        "s": 17.92,
+        "e": 18.0,
+        "i": 4
+      },
+      {
+        "t": "also",
+        "s": 18.24,
+        "e": 18.48,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 18.56,
+        "e": 18.64,
+        "i": 4
+      },
+      {
+        "t": "baby",
+        "s": 18.8,
+        "e": 18.96,
+        "i": 4
+      },
+      {
+        "t": "stroller.",
+        "s": 19.04,
+        "e": 20.08,
+        "i": 4
+      },
+      {
+        "t": "In",
+        "s": 20.12,
+        "e": 20.16,
+        "i": 5
+      },
+      {
+        "t": "the",
+        "s": 20.24,
+        "e": 20.32,
+        "i": 5
+      },
+      {
+        "t": "foreground,",
+        "s": 20.4,
+        "e": 21.28,
+        "i": 5
+      },
+      {
+        "t": "there",
+        "s": 21.36,
+        "e": 21.44,
+        "i": 5
+      },
+      {
+        "t": "are",
+        "s": 21.52,
+        "e": 21.6,
+        "i": 5
+      },
+      {
+        "t": "green",
+        "s": 21.8,
+        "e": 22.0,
+        "i": 5
+      },
+      {
+        "t": "and",
+        "s": 22.08,
+        "e": 22.16,
+        "i": 5
+      },
+      {
+        "t": "yellow",
+        "s": 22.24,
+        "e": 22.56,
+        "i": 5
+      },
+      {
+        "t": "plants,",
+        "s": 22.64,
+        "e": 23.44,
+        "i": 5
+      },
+      {
+        "t": "and",
+        "s": 23.52,
+        "e": 23.68,
+        "i": 5
+      },
+      {
+        "t": "tree",
+        "s": 23.8,
+        "e": 23.92,
+        "i": 5
+      },
+      {
+        "t": "branches",
+        "s": 24.0,
+        "e": 24.48,
+        "i": 5
+      },
+      {
+        "t": "hang",
+        "s": 24.56,
+        "e": 24.8,
+        "i": 5
+      },
+      {
+        "t": "down",
+        "s": 24.88,
+        "e": 25.12,
+        "i": 5
+      },
+      {
+        "t": "from",
+        "s": 25.2,
+        "e": 25.36,
+        "i": 5
+      },
+      {
+        "t": "above.",
+        "s": 25.6,
+        "e": 26.08,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken by a lake. In the middle, a man in a cap is riding a small scooter on a stone walkway. Near the water, a group of young people are standing and looking at the lake. On the left, some people are sitting on a blanket on the ground. There is also a baby stroller. In the foreground, there are green and yellow plants, and tree branches hang down from above.",
+      "time": "22:29:44",
+      "evaluation": {
+        "heard": "This picture was taken by a lake. In the middle, a man in a cap is riding a small scooter on a stone walkway. Near the water, a group of young people are standing and looking at the lake. On the left, some people are sitting on a blanket on the ground. There is also a baby stroller. In the foreground, there are green and yellow plants, and tree branches hang down from above.",
+        "overall": 73,
+        "pronunciation": 66,
+        "fluency": 76,
+        "intonation": 72,
+        "completeness": 98,
+        "word_issues": [
+          {
+            "word": "riding",
+            "problem_ja": "「lighting（ライティング）」のようにLの音で発音され、舌先が上あごについています。",
+            "tip_ja": "Rの音は舌先をどこにも触れさせず、喉の奥側へ少し引いて口の中にスペースを作りながら「ゥライディング」と出します。"
+          },
+          {
+            "word": "the / this / there",
+            "problem_ja": "「za」「zis」「zer」のようにZ音（濁ったサ行）になっています。",
+            "tip_ja": "上下の前歯の間に舌先を軽く挟むか裏側に当てて、隙間から振動する息を押し出すように発音しましょう。"
+          },
+          {
+            "word": "blanket",
+            "problem_ja": "LがRのように丸まった音になり「branket」寄りに聞こえました。",
+            "tip_ja": "bl-では、bを発声した直後に舌先を上の前歯の裏の歯茎にしっかり押し当ててクリアな「ル」を響かせます。"
+          },
+          {
+            "word": "plants",
+            "problem_ja": "こちらもLがR化して「prants」のように聞こえています。",
+            "tip_ja": "pの破裂音のあと、舌先を上の前歯の付け根に強くペタッと当てて「プランツ」と発音してください。"
+          },
+          {
+            "word": "lake",
+            "problem_ja": "1文目のlakeがRに近く「rake」寄りに聞こえました。",
+            "tip_ja": "舌先を上の前歯の裏にしっかり押し当ててから弾いて「レイク」と入ります。舌を引かないように注意しましょう。"
+          },
+          {
+            "word": "also",
+            "problem_ja": "カタカナの「オルソー」のように母音の余計な響きが入っています。",
+            "tip_ja": "最初の音は「オ」と「ア」の中間で、舌先を歯茎につけて奥で暗いL（dark L）を作り「オールソウ」と二重母音で滑らかに繋げます。"
+          },
+          {
+            "word": "stroller",
+            "problem_ja": "語尾の-lerが曖昧で、カタカナの「ストローラー」のように平坦になっています。",
+            "tip_ja": "最後の-erは舌先を引いて喉の奥を響かせるアメリカ英語特有のR音をしっかり残しましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のテンポにしっかり食らいつき、脱落することなく最後まで全文を言い切れています。",
+          "単語同士の繋がりを意識して発話し続けられており、オーバーラッピングとしてのタイミング維持が素晴らしいです。"
+        ],
+        "improvements_ja": [
+          "LとRの区別が逆転している箇所（riding→L、blanket/plants→R）が目立つため、舌の位置（つけるL・離すR）を徹底しましょう。",
+          "thの有声音（the, this, there）がZ音になっているため、前歯で舌先を挟む動作を習慣化してください。",
+          "子音の後に余計な母音を足さず、息の破裂や摩擦だけで子音を止める練習を取り入れましょう。"
+        ],
+        "summary_ja": "最後まで脱落せずモデル音声と同じペースで走り切れており、オーバーラッピングの基礎リズム感はとても良好です。一方で、LとRの取り違えやthがZ音に置き換わるなど、日本語話者特有の音の崩れが散見されます。口や舌の物理的な位置を意識して個々の音の精度を上げていくと、一気にネイティブらしい響きになります。"
+      }
+    }
+  ],
+  "test": {
+    "stock_id": "sp056",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture was taken by a lake. In the middle, a man in a cap is riding a small scooter on a stone walkway. Near the water, a group of young people are standing and looking at the lake. On the left, some people are sitting on a blanket on the ground. There is also a baby stroller. In the foreground, there are green and yellow plants, and tree branches hang down from above.",
+    "answer": "This photo shows riverside landscape. In front of the river, there are five people to look at the river. In the middle, a man with a dark hat is riding a bicycle. In foreground, the grass",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 62,
+      "content": 65,
+      "grammar": 60,
+      "vocabulary": 65,
+      "delivery": 58,
+      "corrected": "This photo shows a riverside landscape. By the river, there are five people looking at the water. In the middle, a man with a dark hat is riding a bicycle. In the foreground, there is grass.",
+      "corrections": [
+        {
+          "before": "riverside landscape",
+          "after": "a riverside landscape",
+          "reason_ja": "数えられる名詞として使う場合は不定冠詞 a が必要です。"
+        },
+        {
+          "before": "In front of the river, there are five people to look at the river.",
+          "after": "By the river, there are five people looking at the water.",
+          "reason_ja": "「〜している人々」は現在分詞（looking at）で修飾します。また、river の重複を避けて water や lake と言い換えると自然です。"
+        },
+        {
+          "before": "In foreground, the grass",
+          "after": "In the foreground, there is grass.",
+          "reason_ja": "定冠詞 the を補い（In the foreground）、動詞を入れて文を完成させましょう。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "by a lake",
+          "ja": "湖のそばで"
+        },
+        {
+          "en": "stone walkway",
+          "ja": "石畳の歩道"
+        },
+        {
+          "en": "sit on a blanket",
+          "ja": "敷物の上に座る"
+        },
+        {
+          "en": "in the foreground",
+          "ja": "手前に／前面に"
+        },
+        {
+          "en": "hang down from above",
+          "ja": "上から垂れ下がる"
+        }
+      ],
+      "feedback_ja": "全体の位置関係（水辺・中央・手前）を意識して順序よく描写しようとした構成はとても良いです。一方で、左側でピクニックをしているグループに触れられず、最後の文も時間切れで途切れてしまいました。沈黙の時間を減らし、「There is/are 〜 -ing」の型をスムーズに発話して時間内に文を完結させる練習を優先しましょう。"
+    }
+  }
+}

@@ -101,3 +101,22 @@
 | 2026-10-16 | Can you remind me **to call the bank** this afternoon?（rp181） | to call the bank | me‿to は「ミタ」。call‿the は「コーウザ」。remind 人 to 〜 |
 | 2026-10-17 | We're planning **a trip** to Hokkaido.（rp064・1 回聞き。10/11 に続き 2 回目） | planning a trip → planning to trip | planning‿a は「プラニンガ」。plan a trip（旅行を計画する）。trip は名詞なので to は付かない |
 | 2026-10-17 | I'm going to **the** dentist tomorrow.（rp080・1 回聞き） | the が抜けた | go to the dentist ＝歯医者に行く（the 付きの決まった形。go to the doctor も同じ） |
+| 2026-10-18 | 10/16〜10/17 の × 19 文を 1 回聞きで振り返り（3/19） | 落としたのは前と同じ所（the・a・on a・into・were・helped・'ve・will）と、文の後半（as soon as I get them・I usually buy・in the taxi・the train・the call） | 答えを一度見た文でも、2 日後の 1 回聞きでは 1〜2 か所が抜ける。後半が抜けるのは、文を頭に保てていないため |
+| 2026-10-18 | The restaurant was so popular **that** we had to wait outside.（rp155） | that | so 〜 that … ＝とても〜なので…。that は弱く「ザッ」で、次の we につながる |
+| 2026-10-19 | They're getting married in **the** spring.（rp088・1 回聞き。10/12 に続き 2 回目） | the が抜けた | in‿the は「インナ」と弱く短い。in the spring ＝春に |
+| 2026-10-19 | I think the store **is closed** today.（rp093・1 回聞き。10/12 に続き 2 回目） | is closed → closes | store‿is は「ストアリズ」。is closed ＝閉まっている（状態）、closes ＝閉まる（決まった時刻に） |
+| 2026-10-19 | **She's** studying **to become** a nurse.（rp096・1 回聞き） | She's を has と思った、to become が分からず | ここの She's は She is（is ＋ -ing）。has なら後ろは過去分詞（been など）。study to become 〜 ＝〜になるために勉強する |
+| 2026-10-19 | What do you call the child of your **aunt or uncle**?（即答 sa157） | aunt or uncle が聞き取れず（単語は知っていた） | aunt‿or‿uncle は「アンオランクル」と 1 つにつながる。aunt はアメリカ英語で「アント」、t はほぼ消える。答えは cousin |
+| 2026-10-19 | What do you call a woman on her **wedding** day?（即答 sa161） | wedding が聞き取れず | wedding は「ウェディン」、最後の g はほぼ聞こえない。答えは bride（花婿は groom） |
+| 2026-10-19 | The good news is that the body can **adapt to** heat **surprisingly** quickly.（教材 書き取り） | adapt to → adaptive、surprisingly → surprising | adapt‿to は t が 2 つ続くので 1 回にまとまり「アダプトゥ」→ adaptive に聞こえた（同じ子音が続く型）。adapt to 〜 ＝〜に慣れる。quickly を修飾するので副詞の surprisingly |
+| 2026-10-19 | Some use other methods, such as hot **baths** or saunas after training.（教材 書き取り） | baths → bath | or saunas と並ぶので複数形。baths の th‿s は「バスス」と短く、s が消えやすい |
+| 2026-10-20 | The children are excited about **the** trip.（rp101・1 回聞き） | the → a | about‿the は「アバウザ」。話している 2 人がわかっている旅行なので the |
+| 2026-10-20 | He fixed **the** bike in ten minutes.（rp102） | the → his | fixed‿the は「フィクストゥザ」。the は「ザ」と弱く、his のような s は無い |
+| 2026-10-20 | The meeting room is on **the** third floor.（rp111） | the が抜けた | 階は on the 〜 floor（序数には the）。on‿the は「オンナ」 |
+| 2026-10-20 | We ordered **pizza** for **the** whole team.（rp112。10/13 に冠詞を質問した文） | pizza → a pizza、the が抜けた | 食べ物としてのピザは冠詞なし（10/13）。the whole 〜 ＝〜全体 |
+| 2026-10-20 | He apologized **for being** late again.（rp113） | for being | apologize for 〜ing ＝〜したことを謝る。for‿being は「フォビーイン」と弱い |
+| 2026-10-20 | She wrote a long letter **to** her grandmother.（rp118。10/11 にも to を落とした） | to → for | write a letter to 人 ＝人に手紙を書く（宛先は to）。letter‿to は「レラタ」 |
+| 2026-10-20 | The wine **from** this region **is** excellent.（rp119） | from → in、is → are | 主語は The wine（単数）なので is。from this region ＝この地方産の |
+| 2026-10-20 | What do you call **the leader** of the United States?（即答 sa171） | the leader を聞き逃し、問題が分からなかった | call‿the‿leader は「コーウザリーダー」。答えは the president |
+| 2026-10-20 | What do you call a person you **work with**?（即答 sa176） | work with が聞き取れず | work‿with は「ワークウィズ」と弱い。a person (that) you work with ＝一緒に働く人。答えは coworker / colleague。単語タブ vc205 |
+| 2026-10-20 | The wine from this region **is** excellent.（rp119 の振り返り。同じ日に 2 回目） | is → are | 直前の region（または「ワイン類」の感覚）に引っぱられて are にした。主語は The wine（数えない名詞）なので is |

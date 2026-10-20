@@ -65,3 +65,13 @@
 | 2026-10-15 | On the background | In the background | 背景に ＝ in the background。手前に ＝ in the foreground（10/14 の使える表現） |
 | 2026-10-15 | A women woman is acrossing | A woman is crossing | 渡る（動詞）は cross。across は前置詞（walk across the street） |
 | 2026-10-15 | （The street is lined with tall trees. で、通りが木に沿って並ぶように読めないか？） | 木が通りに沿って並んでいる | line は「〜の縁に沿って並ぶ」他動詞。Trees line the street. の受け身。The street is covered with snow. と同じ形 |
+| 2026-10-18 | （日→英で出てこなかった：コンロ・まな板・やかん・残り物・刻む・フライ返し・おたま） | stove・cutting board・kettle・leftovers・chop・spatula・ladle | 英→日なら分かる語が多い。leftovers・spatula は 10/15 に続き 2 回目。chop ＝（包丁で）刻む、ladle ＝おたま（「レイドゥル」） |
+| 2026-10-19 | （nails を爪だと思い、hit nails の意味が取れなかった。What tool do you use to hit nails? 即答 sa163） | a hammer | nail には「爪」と「釘」の 2 つの意味がある。hit（打つ）と tool（道具）から釘と判断する。単語タブ vc202 に足した |
+| 2026-10-20 | thunder（What do you call the flash of light in the sky during a storm? 即答 sa166） | lightning | flash of light ＝光。光は lightning（稲妻）、音は thunder（雷鳴）。lightning は「ライトニング」で e は無い |
+| 2026-10-20 | parking（Where do you usually park your car at home? 即答 sa169） | a garage / a driveway | at home ＝家で。家の車庫は garage。parking は「駐車（すること）」で、駐車場は parking lot。単語タブ vc203 |
+| 2026-10-20 | （知らなかった。What sound does a dog make? 即答 sa172） | a bark / woof | bark ＝吠える・吠え声。鳴き声は woof（ワン）。単語タブ vc204 |
+| 2026-10-20 | cameraman（What do you call a person who takes photos for a living? 即答 sa179） | a photographer | for a living ＝仕事として。写真を撮る人は photographer。cameraman は映画・テレビの撮影係。単語タブ vc206 |
+| 2026-10-20 | riverside landscape | a riverside landscape | 数えられる名詞には a |
+| 2026-10-20 | there are five people to look at the river | there are five people looking at the water | 「〜している人々」は 〜ing。to look は「見るための」になる |
+| 2026-10-20 | In foreground, the grass（文が途中で終わった） | In the foreground, there is grass. | in the foreground は the 付き（10/14 にも出た表現）。There is / are で文を完成させる |
+| 2026-10-20 | （This picture was taken by a lake. の by が分からない） | 湖のそばで | by には「〜によって」と「〜のそばで」がある。湖は撮れないので場所。自分で言うなら near / at a lake が誤解されない |

@@ -767,6 +767,44 @@
    }
   },
   {
+   "id": "vc202",
+   "theme": "home",
+   "en": "nail",
+   "ja": "釘",
+   "example": "Hit the nail with a hammer.",
+   "audio": {
+    "main": {
+     "text": "nail",
+     "file": "model_99f4b428f4ba.mp3"
+    }
+   },
+   "note": "爪も nail（fingernail）。釘を打つ道具は hammer",
+   "from": "sa163",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc203",
+   "theme": "home",
+   "en": "garage",
+   "ja": "（家の）車庫・ガレージ",
+   "example": "I park my car in the garage.",
+   "audio": {
+    "main": {
+     "text": "garage",
+     "file": "model_916f9302ac24.mp3"
+    }
+   },
+   "note": "「ガラージ」と後ろが強い。家の前の車を停める通路は driveway。parking は「駐車（すること）」",
+   "from": "sa169",
+   "voice": {
+    "name": "Max",
+    "id": "Gfpl8Yo74Is0W6cPUWWT"
+   }
+  },
+  {
    "id": "vc041",
    "theme": "body",
    "en": "sore throat",
@@ -2518,6 +2556,25 @@
    }
   },
   {
+   "id": "vc204",
+   "theme": "nature",
+   "en": "bark",
+   "ja": "（犬が）吠える・吠え声",
+   "example": "The dog barks at strangers.",
+   "audio": {
+    "main": {
+     "text": "bark",
+     "file": "model_903d2c59217e.mp3"
+    }
+   },
+   "note": "鳴き声は woof（ワン）。木の皮も bark",
+   "from": "sa172",
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
+   }
+  },
+  {
    "id": "vc141",
    "theme": "office",
    "en": "stamp",
@@ -2863,6 +2920,44 @@
    "voice": {
     "name": "Sarah",
     "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc205",
+   "theme": "office",
+   "en": "coworker",
+   "ja": "同僚",
+   "example": "I had lunch with a coworker.",
+   "audio": {
+    "main": {
+     "text": "coworker",
+     "file": "model_750d683b3540.mp3"
+    }
+   },
+   "note": "a person you work with。colleague（vc146）とほぼ同じで、coworker の方がくだけた言い方",
+   "from": "sa176",
+   "voice": {
+    "name": "Matilda",
+    "id": "XrExE9yKIg1WjnnlVkGX"
+   }
+  },
+  {
+   "id": "vc206",
+   "theme": "office",
+   "en": "photographer",
+   "ja": "写真家・カメラマン",
+   "example": "She works as a photographer.",
+   "audio": {
+    "main": {
+     "text": "photographer",
+     "file": "model_19ab23e4eae7.mp3"
+    }
+   },
+   "note": "「フォタグラファー」と 2 つ目の「タ」が強い。写真を撮る人は photographer。cameraman は映画・テレビの撮影係",
+   "from": "sa179",
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
    }
   },
   {

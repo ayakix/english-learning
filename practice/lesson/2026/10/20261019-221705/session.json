@@ -1,0 +1,556 @@
+{
+  "id": "20261019-221705",
+  "skill": "lesson",
+  "created": "2026-10-19 22:17",
+  "title": "Heat Acclimation for Marathon Performance",
+  "result": {
+    "score": 95,
+    "details": {
+      "listening": "3/3",
+      "dictation": 90,
+      "replays": 18,
+      "reading": "5/5",
+      "wpm": 113
+    }
+  },
+  "source": {
+    "site": "AI 教材",
+    "url": null,
+    "title": "Heat Acclimation for Marathon Performance",
+    "published": "2026-10-03",
+    "credit": "Script: Claude / Voice: James (ElevenLabs)",
+    "license": "original",
+    "audio_url": null,
+    "zone": "running",
+    "stock_id": "rn033",
+    "level": "B2",
+    "format": "monologue"
+  },
+  "paragraphs": [
+    {
+      "text": "Running a marathon in hot weather is much harder than in cool weather. Your heart rate rises, your pace drops and the risk of heat illness increases. The good news is that the body can adapt to heat surprisingly quickly. This process is called heat acclimation.",
+      "heading": false
+    },
+    {
+      "text": "When you exercise in the heat, your body has two jobs. It must send blood to the muscles for energy, and to the skin to release heat. This creates competition for blood, and your heart works harder.",
+      "heading": false
+    },
+    {
+      "text": "After repeated exposure to heat, usually around ten to fourteen days, several changes happen. One of the most important is plasma volume expansion. Plasma is the liquid part of the blood. When its volume increases, the heart can pump more blood with each beat, making it easier to cool down and supply the muscles at the same time.",
+      "heading": false
+    },
+    {
+      "text": "You also start sweating earlier and more, which improves cooling. Your sweat becomes less salty, so you keep more salt in your body. As a result, your heart rate and core body temperature are lower at the same pace. Core body temperature means the temperature deep inside the body.",
+      "heading": false
+    },
+    {
+      "text": "To acclimate, runners often train in the heat for about an hour a day, starting with easy runs. Some use other methods, such as hot baths or saunas after training. These should be used carefully.",
+      "heading": false
+    },
+    {
+      "text": "Even after full acclimation, hot races require a slower pace and good hydration. Heat should always be respected.",
+      "heading": false
+    }
+  ],
+  "glossary": [
+    {
+      "word": "heat acclimation",
+      "definition": ""
+    },
+    {
+      "word": "plasma volume expansion",
+      "definition": ""
+    },
+    {
+      "word": "core body temperature",
+      "definition": ""
+    }
+  ],
+  "words": 243,
+  "duration": 110,
+  "audio_wpm": 133,
+  "sentences": [
+    {
+      "text": "Running a marathon in hot weather is much harder than in cool weather.",
+      "start": 0.0,
+      "end": 4.32,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Your heart rate rises, your pace drops and the risk of heat illness increases.",
+      "start": 5.31,
+      "end": 10.79,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The good news is that the body can adapt to heat surprisingly quickly.",
+      "start": 11.5,
+      "end": 15.66,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This process is called heat acclimation.",
+      "start": 16.65,
+      "end": 19.61,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "When you exercise in the heat, your body has two jobs.",
+      "start": 20.13,
+      "end": 24.53,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "It must send blood to the muscles for energy, and to the skin to release heat.",
+      "start": 24.96,
+      "end": 30.48,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This creates competition for blood, and your heart works harder.",
+      "start": 30.95,
+      "end": 35.31,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "After repeated exposure to heat, usually around ten to fourteen days, several changes happen.",
+      "start": 35.83,
+      "end": 42.63,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "One of the most important is plasma volume expansion.",
+      "start": 43.7,
+      "end": 47.22,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Plasma is the liquid part of the blood.",
+      "start": 48.21,
+      "end": 50.61,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "When its volume increases, the heart can pump more blood with each beat, making it easier to cool down and supply the muscles at the same time.",
+      "start": 51.6,
+      "end": 61.52,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "You also start sweating earlier and more, which improves cooling.",
+      "start": 62.04,
+      "end": 66.52,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Your sweat becomes less salty, so you keep more salt in your body.",
+      "start": 67.43,
+      "end": 72.03,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "As a result, your heart rate and core body temperature are lower at the same pace.",
+      "start": 72.66,
+      "end": 78.1,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Core body temperature means the temperature deep inside the body.",
+      "start": 79.09,
+      "end": 83.17,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "To acclimate, runners often train in the heat for about an hour a day, starting with easy runs.",
+      "start": 83.69,
+      "end": 90.93,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Some use other methods, such as hot baths or saunas after training.",
+      "start": 91.64,
+      "end": 96.44,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "These should be used carefully.",
+      "start": 97.43,
+      "end": 99.51,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Even after full acclimation, hot races require a slower pace and good hydration.",
+      "start": 100.03,
+      "end": 106.75,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Heat should always be respected.",
+      "start": 107.26,
+      "end": 109.58,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    }
+  ],
+  "summary_ja": "暑い日のマラソンは心拍が上がりペースが落ち、熱中症のリスクも高い。だが体は暑さに意外と早く慣れる（暑熱順化）。暑い中で運動すると血液を筋肉と皮膚で取り合い、心臓の負担が増える。10〜14日ほど暑さにさらされると、血液の液体成分（血漿）が増えて1回の拍動で多くの血液を送れる。汗が早く多く出て塩分が薄くなり、同じペースでの心拍と深部体温が下がる。",
+  "listening": {
+    "questions": [
+      {
+        "q": "暑熱順化に必要な期間の目安は？",
+        "options": [
+          "1年",
+          "1日",
+          "3か月",
+          "約10〜14日"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"After repeated exposure to heat, usually around ten to fourteen days, several changes happen.\""
+      },
+      {
+        "q": "暑い中で運動すると心臓の負担が増える理由は？",
+        "options": [
+          "筋肉と皮膚の両方に血液を送る必要があり、血液を取り合うから",
+          "水を飲まないから",
+          "心臓が小さくなるから",
+          "呼吸が速くなるから"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"This creates competition for blood, and your heart works harder.\""
+      },
+      {
+        "q": "順化しても暑いレースで必要なことは？",
+        "options": [
+          "水を飲まない",
+          "厚着をする",
+          "いつもより速く走る",
+          "ペースを落とし、しっかり水分をとる"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"Even after full acclimation, hot races require a slower pace and good hydration.\""
+      }
+    ],
+    "answers": [
+      3,
+      0,
+      3
+    ],
+    "correct": 3,
+    "plays": 1
+  },
+  "dictation": [
+    {
+      "i": 0,
+      "sentence": 2,
+      "text": "The good news is that the body can adapt to heat surprisingly quickly.",
+      "start": 11.38,
+      "end": 15.86,
+      "ja": "良い知らせは、体が驚くほど早く暑さに適応できることです。",
+      "points_ja": "news is that がつながり、adapt to heat surprisingly が続けて聞こえます。",
+      "answer": "The good news is that the body can adaptive heat surprising quickly",
+      "plays": 9,
+      "accuracy": 0.769,
+      "diff": [
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "good",
+          "status": "ok"
+        },
+        {
+          "t": "news",
+          "status": "ok"
+        },
+        {
+          "t": "is",
+          "status": "ok"
+        },
+        {
+          "t": "that",
+          "status": "ok"
+        },
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "body",
+          "status": "ok"
+        },
+        {
+          "t": "can",
+          "status": "ok"
+        },
+        {
+          "t": "adapt",
+          "status": "wrong",
+          "heard": "adaptive"
+        },
+        {
+          "t": "to",
+          "status": "missing"
+        },
+        {
+          "t": "heat",
+          "status": "ok"
+        },
+        {
+          "t": "surprisingly",
+          "status": "wrong",
+          "heard": "surprising"
+        },
+        {
+          "t": "quickly",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "sentence": 11,
+      "text": "You also start sweating earlier and more, which improves cooling.",
+      "start": 61.92,
+      "end": 66.72,
+      "ja": "また、より早く、より多く汗をかき始め、体を冷やす力が高まります。",
+      "points_ja": "start sweating earlier and more が続き、which improves cooling がつながります。",
+      "answer": "You also start sweating earlier and more which improves cooling.",
+      "plays": 6,
+      "accuracy": 1.0,
+      "diff": [
+        {
+          "t": "you",
+          "status": "ok"
+        },
+        {
+          "t": "also",
+          "status": "ok"
+        },
+        {
+          "t": "start",
+          "status": "ok"
+        },
+        {
+          "t": "sweating",
+          "status": "ok"
+        },
+        {
+          "t": "earlier",
+          "status": "ok"
+        },
+        {
+          "t": "and",
+          "status": "ok"
+        },
+        {
+          "t": "more",
+          "status": "ok"
+        },
+        {
+          "t": "which",
+          "status": "ok"
+        },
+        {
+          "t": "improves",
+          "status": "ok"
+        },
+        {
+          "t": "cooling",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "sentence": 16,
+      "text": "Some use other methods, such as hot baths or saunas after training.",
+      "start": 91.52,
+      "end": 96.64,
+      "ja": "練習後の熱いお風呂やサウナなど、他の方法を使う人もいます。",
+      "points_ja": "use other methods がつながり、such as hot baths or saunas が続けて聞こえます。",
+      "answer": "Some use other methods such as hot bath or saunas after training.",
+      "plays": 3,
+      "accuracy": 0.917,
+      "diff": [
+        {
+          "t": "some",
+          "status": "ok"
+        },
+        {
+          "t": "use",
+          "status": "ok"
+        },
+        {
+          "t": "other",
+          "status": "ok"
+        },
+        {
+          "t": "methods",
+          "status": "ok"
+        },
+        {
+          "t": "such",
+          "status": "ok"
+        },
+        {
+          "t": "as",
+          "status": "ok"
+        },
+        {
+          "t": "hot",
+          "status": "ok"
+        },
+        {
+          "t": "baths",
+          "status": "wrong",
+          "heard": "bath"
+        },
+        {
+          "t": "or",
+          "status": "ok"
+        },
+        {
+          "t": "saunas",
+          "status": "ok"
+        },
+        {
+          "t": "after",
+          "status": "ok"
+        },
+        {
+          "t": "training",
+          "status": "ok"
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "questions": [
+      {
+        "q": "本文の主旨は？",
+        "options": [
+          "暑い日は走ってはいけない",
+          "サウナは危険",
+          "汗は少ないほうがよい",
+          "体は暑さに適応できるが、暑いレースでは常に注意が必要"
+        ],
+        "answer": 3,
+        "explanation_ja": "暑熱順化の仕組みと方法、注意点を説明しています。"
+      },
+      {
+        "q": "plasma volume expansion の意味は？",
+        "options": [
+          "体重が増えること",
+          "血液の液体部分（血漿）の量が増えること",
+          "汗の量が減ること",
+          "血管が太くなること"
+        ],
+        "answer": 1,
+        "explanation_ja": "\"Plasma is the liquid part of the blood. When its volume increases\"。"
+      },
+      {
+        "q": "順化で汗に起きる変化は？",
+        "options": [
+          "早く多く出て、塩分が薄くなる",
+          "汗の量が減る",
+          "汗が出なくなる",
+          "汗が甘くなる"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"You also start sweating earlier and more ... Your sweat becomes less salty\"。"
+      },
+      {
+        "q": "core body temperature の意味は？",
+        "options": [
+          "皮膚の温度",
+          "外の気温",
+          "手の温度",
+          "体の深部の温度"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"Core body temperature means the temperature deep inside the body.\""
+      },
+      {
+        "q": "順化のための一般的な方法は？",
+        "options": [
+          "冷房の中で寝る",
+          "暑い日に全力で走る",
+          "水を飲まずに走る",
+          "楽なランから始めて、暑い中で1日約1時間練習する"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"runners often train in the heat for about an hour a day, starting with easy runs.\""
+      }
+    ],
+    "answers": [
+      3,
+      1,
+      0,
+      3,
+      3
+    ],
+    "correct": 5,
+    "reading_seconds": 129,
+    "wpm": 113,
+    "time": "22:26:16"
+  }
+}

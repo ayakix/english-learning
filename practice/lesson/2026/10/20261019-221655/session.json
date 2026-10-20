@@ -1,0 +1,360 @@
+{
+  "id": "20261019-221655",
+  "skill": "lesson",
+  "created": "2026-10-19 22:16",
+  "title": "VHF Radio Bands and Aviation Phraseology Basics",
+  "result": {
+    "score": null,
+    "details": {}
+  },
+  "source": {
+    "site": "AI 教材",
+    "url": null,
+    "title": "VHF Radio Bands and Aviation Phraseology Basics",
+    "published": "2026-10-03",
+    "credit": "Script: Claude / Voice: Stephanie (ElevenLabs)",
+    "license": "original",
+    "audio_url": null,
+    "zone": "aviation",
+    "stock_id": "av005",
+    "level": "B1+",
+    "format": "monologue"
+  },
+  "paragraphs": [
+    {
+      "text": "If you listen to air traffic control on a radio, you may first think it sounds like a secret language. But it follows clear rules, and once you know them, it becomes much easier to understand.",
+      "heading": false
+    },
+    {
+      "text": "Most voice communication between pilots and controllers happens in the VHF aviation band, roughly between one hundred eighteen and one hundred thirty-seven megahertz. VHF means very high frequency. These signals travel mostly in straight lines, so planes high in the sky can be heard from far away, while signals near the ground are limited.",
+      "heading": false
+    },
+    {
+      "text": "Because radio can be noisy, and speakers come from many countries, aviation uses standard phraseology. These are fixed words and phrases with exact meanings. For example, \"roger\" means I have received your message. \"Wilco\" means I will comply. \"Say again\" means please repeat.",
+      "heading": false
+    },
+    {
+      "text": "Letters are spoken using the ICAO phonetic alphabet: Alpha, Bravo, Charlie and so on. This avoids confusion between letters that sound similar, like B and D. Numbers are spoken one by one. Some are even changed to make them clearer, such as \"niner\" for nine.",
+      "heading": false
+    },
+    {
+      "text": "So a message like \"Japan Air one two three, climb flight level three five zero\" tells one specific flight to climb to about thirty-five thousand feet.",
+      "heading": false
+    },
+    {
+      "text": "Learning this style is a great listening exercise. The speech is fast, but the patterns repeat again and again.",
+      "heading": false
+    }
+  ],
+  "glossary": [
+    {
+      "word": "VHF aviation band",
+      "definition": ""
+    },
+    {
+      "word": "ICAO phonetics",
+      "definition": ""
+    },
+    {
+      "word": "standard phraseology",
+      "definition": ""
+    }
+  ],
+  "words": 225,
+  "duration": 97,
+  "audio_wpm": 138,
+  "sentences": [
+    {
+      "text": "If you listen to air traffic control on a radio, you may first think it sounds like a secret language.",
+      "start": 0.0,
+      "end": 6.0,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "But it follows clear rules, and once you know them, it becomes much easier to understand.",
+      "start": 6.43,
+      "end": 11.87,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Most voice communication between pilots and controllers happens in the VHF aviation band, roughly between one hundred eighteen and one hundred thirty-seven megahertz.",
+      "start": 12.39,
+      "end": 23.03,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "VHF means very high frequency.",
+      "start": 23.46,
+      "end": 26.1,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "These signals travel mostly in straight lines, so planes high in the sky can be heard from far away, while signals near the ground are limited.",
+      "start": 26.93,
+      "end": 35.57,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Because radio can be noisy, and speakers come from many countries, aviation uses standard phraseology.",
+      "start": 36.09,
+      "end": 43.29,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "These are fixed words and phrases with exact meanings.",
+      "start": 43.76,
+      "end": 47.16,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "For example, \"roger\" means I have received your message.",
+      "start": 47.55,
+      "end": 51.43,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "\"Wilco\" means I will comply.",
+      "start": 52.02,
+      "end": 54.38,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "\"Say again\" means please repeat.",
+      "start": 55.01,
+      "end": 57.33,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Letters are spoken using the ICAO phonetic alphabet: Alpha, Bravo, Charlie and so on.",
+      "start": 57.93,
+      "end": 64.97,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This avoids confusion between letters that sound similar, like B and D.",
+      "start": 65.8,
+      "end": 70.36,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Numbers are spoken one by one.",
+      "start": 71.35,
+      "end": 73.27,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Some are even changed to make them clearer, such as \"niner\" for nine.",
+      "start": 74.02,
+      "end": 78.42,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "So a message like \"Japan Air one two three, climb flight level three five zero\" tells one specific flight to climb to about thirty-five thousand feet.",
+      "start": 78.94,
+      "end": 88.78,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Learning this style is a great listening exercise.",
+      "start": 89.3,
+      "end": 92.5,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The speech is fast, but the patterns repeat again and again.",
+      "start": 92.89,
+      "end": 96.77,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    }
+  ],
+  "summary_ja": "航空管制の無線は、ルールを知れば理解しやすい。音声通信は主に118〜137MHz の VHF 帯で行われ、電波はほぼ直進する。雑音や多国籍の話し手に対応するため「標準用語」を使う。roger は受信、wilco は従う、say again はもう一度。文字は ICAO フォネティック（Alpha, Bravo...）、数字は1つずつ読み、9 は niner と言う。",
+  "listening": {
+    "questions": [
+      {
+        "q": "航空無線の音声通信に主に使われる周波数帯は？",
+        "options": [
+          "携帯電話の電波",
+          "VHF（約118〜137MHz）",
+          "テレビの電波",
+          "AM ラジオ"
+        ],
+        "answer": 1,
+        "explanation_ja": "\"roughly between one hundred eighteen and one hundred thirty-seven megahertz. VHF means very high frequency.\""
+      },
+      {
+        "q": "wilco の意味は？",
+        "options": [
+          "さようなら",
+          "指示に従います",
+          "もう一度言ってください",
+          "受信しました"
+        ],
+        "answer": 1,
+        "explanation_ja": "\"'Wilco' means I will comply.\""
+      },
+      {
+        "q": "話し手がこの言葉づかいを学ぶことを勧める理由は？",
+        "options": [
+          "無料だから",
+          "パイロットになれるから",
+          "簡単だから",
+          "速いが同じパターンが繰り返されるので、良い聞き取り練習になる"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"Learning this style is a great listening exercise. The speech is fast, but the patterns repeat again and again.\""
+      }
+    ],
+    "answers": null,
+    "correct": null,
+    "plays": 0
+  },
+  "dictation": [
+    {
+      "i": 0,
+      "sentence": 1,
+      "text": "But it follows clear rules, and once you know them, it becomes much easier to understand.",
+      "start": 6.31,
+      "end": 12.07,
+      "ja": "しかし明確なルールがあり、それを知ればずっと理解しやすくなります。",
+      "points_ja": "follows clear がつながり、know them が「ノウゼム」と聞こえます。",
+      "answer": null,
+      "plays": 0
+    },
+    {
+      "i": 1,
+      "sentence": 6,
+      "text": "These are fixed words and phrases with exact meanings.",
+      "start": 43.64,
+      "end": 47.36,
+      "ja": "これらは決まった意味を持つ固定の言葉や言い回しです。",
+      "points_ja": "These are が「ジーザー」、words and phrases の and は「ン」です。",
+      "answer": null,
+      "plays": 0
+    },
+    {
+      "i": 2,
+      "sentence": 11,
+      "text": "This avoids confusion between letters that sound similar, like B and D.",
+      "start": 65.68,
+      "end": 70.56,
+      "ja": "これにより、BとDのように似た音の文字の混同を避けます。",
+      "points_ja": "avoids confusion がつながり、like B and D が続けて聞こえます。",
+      "answer": null,
+      "plays": 0
+    }
+  ],
+  "reading": {
+    "questions": [
+      {
+        "q": "本文の主旨は？",
+        "options": [
+          "航空無線は決まったルールで話されており、それを知れば理解しやすい",
+          "パイロットは英語を使わない",
+          "航空無線は秘密で聞いてはいけない",
+          "無線は昼間しか使えない"
+        ],
+        "answer": 0,
+        "explanation_ja": "周波数帯、標準用語、フォネティックアルファベット、数字の読み方を説明しています。"
+      },
+      {
+        "q": "standard phraseology を使う理由は？",
+        "options": [
+          "パイロットが話すのが苦手だから",
+          "短く話すと料金が安いから",
+          "法律で英語が禁止されているから",
+          "無線は雑音が多く、話し手の国もさまざまだから"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"Because radio can be noisy, and speakers come from many countries, aviation uses standard phraseology.\""
+      },
+      {
+        "q": "\"say again\" の意味は？",
+        "options": [
+          "さようなら",
+          "もう一度言ってください",
+          "従います",
+          "了解しました"
+        ],
+        "answer": 1,
+        "explanation_ja": "\"'Say again' means please repeat.\""
+      },
+      {
+        "q": "数字の読み方として正しいものは？",
+        "options": [
+          "1つずつ読み、9 は niner と言う",
+          "数字は使わない",
+          "日本語で読む",
+          "まとめて読む"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"Numbers are spoken one by one. Some are even changed ... such as 'niner' for nine.\""
+      },
+      {
+        "q": "例の \"climb flight level three five zero\" の意味は？",
+        "options": [
+          "350マイル飛べ",
+          "35番滑走路を使え",
+          "約3万5千フィートまで上昇せよ",
+          "3時50分に着陸せよ"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"tells one specific flight to climb to about thirty-five thousand feet.\""
+      }
+    ],
+    "answers": null,
+    "correct": null,
+    "reading_seconds": null,
+    "wpm": null
+  }
+}
