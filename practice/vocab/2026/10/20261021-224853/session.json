@@ -1,0 +1,88 @@
+{
+  "id": "20261021-224853",
+  "skill": "vocab",
+  "created": "2026-10-21 22:48",
+  "title": "単語 日→英",
+  "result": {
+    "score": 83,
+    "details": {
+      "ok": 20,
+      "total": 24
+    }
+  },
+  "mode": "ja-en",
+  "marks": {
+    "vc021": {
+      "ok": false
+    },
+    "vc023": {
+      "ok": true
+    },
+    "vc022": {
+      "ok": false
+    },
+    "vc024": {
+      "ok": true
+    },
+    "vc025": {
+      "ok": true
+    },
+    "vc026": {
+      "ok": true
+    },
+    "vc027": {
+      "ok": true
+    },
+    "vc028": {
+      "ok": true
+    },
+    "vc029": {
+      "ok": true
+    },
+    "vc030": {
+      "ok": true
+    },
+    "vc031": {
+      "ok": false
+    },
+    "vc032": {
+      "ok": true
+    },
+    "vc033": {
+      "ok": true
+    },
+    "vc034": {
+      "ok": true
+    },
+    "vc035": {
+      "ok": false
+    },
+    "vc036": {
+      "ok": true
+    },
+    "vc037": {
+      "ok": true
+    },
+    "vc038": {
+      "ok": true
+    },
+    "vc039": {
+      "ok": true
+    },
+    "vc040": {
+      "ok": true
+    },
+    "vc201": {
+      "ok": true
+    },
+    "vc202": {
+      "ok": true
+    },
+    "vc203": {
+      "ok": true
+    },
+    "vc019": {
+      "ok": true
+    }
+  }
+}

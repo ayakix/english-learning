@@ -120,3 +120,20 @@
 | 2026-10-20 | What do you call **the leader** of the United States?（即答 sa171） | the leader を聞き逃し、問題が分からなかった | call‿the‿leader は「コーウザリーダー」。答えは the president |
 | 2026-10-20 | What do you call a person you **work with**?（即答 sa176） | work with が聞き取れず | work‿with は「ワークウィズ」と弱い。a person (that) you work with ＝一緒に働く人。答えは coworker / colleague。単語タブ vc205 |
 | 2026-10-20 | The wine from this region **is** excellent.（rp119 の振り返り。同じ日に 2 回目） | is → are | 直前の region（または「ワイン類」の感覚）に引っぱられて are にした。主語は The wine（数えない名詞）なので is |
+| 2026-10-21 | He works at a bank **downtown**.（rp122・1 回聞き） | downtown → in downtown | downtown は副詞（「中心街で」）なので前置詞は付かない。go downtown・live downtown も同じ |
+| 2026-10-21 | They opened **a** new café near my office.（rp125） | a → the | 初めて話に出る店なので a。opened‿a は「オウプンダ」 |
+| 2026-10-21 | The doctor told me **to** rest.（rp127） | to → a | tell 人 to 〜 ＝人に〜するように言う。me‿to は「ミタ」で、a と聞き分けにくい |
+| 2026-10-21 | It rained every day during **our** vacation.（rp129） | our → the | during‿our は「ジュアリンガワ」。our の r が弱く the に聞こえた |
+| 2026-10-21 | She runs faster than anyone **on the** team.（rp130） | on the → by | on the team ＝チームの中で。on‿the は「オンナ」と 1 語になる |
+| 2026-10-21 | The museum has a famous painting **collection**.（rp132） | collection → collections | a famous painting collection で 1 つのまとまり（a 〜 collection）。a があるので単数 |
+| 2026-10-21 | I haven't seen her **since** high school.（rp137） | since → in my | haven't（現在完了）と組むのは since（〜以来）。since‿high は「スィンスハイ」 |
+| 2026-10-21 | Remember to water **the** plants while **I'm away**.（rp140） | the → to the、I'm away → I leave | water は動詞（水をやる）で、目的語は the plants。I'm away ＝留守にしている（状態）。while I'm away ＝留守の間 |
+| 2026-10-21 | What shows you **which way is north**?（即答 sa181） | what と north 以外が聞き取れず | shows‿you は「ショウジュ」、which‿way‿is は「ウィッチウェイズ」。which way ＝どちらの方向。答えは a compass（方位磁針） |
+| 2026-10-21 | What do you call water that **falls from** clouds?（即答 sa182） | falls from → form と聞き、steam と答えた | falls‿from は「フォールズフロム」で、s と f が続いて from の f が弱い。雲から落ちる水は rain |
+| 2026-10-21 | What do you call the day you were **born** each year?（即答 sa186） | born が聞き取れず | were‿born は「ワボーン」で were が弱い。be born ＝生まれる。答えは a birthday |
+| 2026-10-21 | 10/16 のレベル 3 の 9 文を 1 回聞きで振り返り（4 回目。0/9） | 落としたのは in the morning（in six と聞いた）・on → in・the 抜け ×3・the → a・across → acrossing・brought us the wrong dishes・helped us with everything・that・really | 4 回目でも後半が丸ごと聞き取れない文が 3 つ（rp174・178・179）。1 回聞きで正解を狙うより、原文を見てから音をなぞる練習に切り替える |
+| 2026-10-21 | They built a new bridge **across** the river last year.（rp172・4 回目） | across → acrossing | across は前置詞なので -ing は付かない。10/15 の「acrossing」と同じ間違い。動詞は cross |
+| 2026-10-21 | The waiter **brought us the wrong dishes**, but they were delicious.（rp174・4 回目） | brought us the wrong dishes が聞き取れず | brought‿us‿the は「ブローラスザ」と 1 語になる。bring 人 the wrong 〜 ＝人に間違った〜を持ってくる |
+| 2026-10-21 | They **look at** the icon, the name and the first **screenshots**.（教材 書き取り） | look at → looks、screenshots → screenshot | look‿at は「ルカッ」で t が消え、looks に聞こえる。「at the icon」と続くので前置詞の at を補う。the first の後は複数も多い |
+| 2026-10-21 | being **found in** search, and **convincing** people **once they** see your page（教材 書き取り） | found in → founding、convincing → conveince、once they → wants to | found‿in は「ファウンディン」で -ing と同じ音になる。once（〜したら）は「ワンス」で、wants とほぼ同じ音。意味（once they see ＝ページを見たら）で判断する |
+| 2026-10-21 | Even small improvements can **lead to** many more users.（教材 書き取り） | lead to → be | lead‿to は「リータ」と to が弱い。lead to 〜 ＝〜につながる |

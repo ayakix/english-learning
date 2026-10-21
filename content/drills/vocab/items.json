@@ -1505,6 +1505,25 @@
    }
   },
   {
+   "id": "vc208",
+   "theme": "car",
+   "en": "sunroof",
+   "ja": "サンルーフ（車の屋根の窓）",
+   "example": "He opened the sunroof on the highway.",
+   "note": "sun ＋ roof。roof ＝屋根",
+   "from": "sa194",
+   "audio": {
+    "main": {
+     "text": "sunroof",
+     "file": "model_f3e67676f2e2.mp3"
+    }
+   },
+   "voice": {
+    "name": "Alex",
+    "id": "17bSMslPF4HPyQrGIXAG"
+   }
+  },
+  {
    "id": "vc081",
    "theme": "shop",
    "en": "fitting room",
@@ -1855,6 +1874,25 @@
    "voice": {
     "name": "David",
     "id": "y1adqrqs4jNaANXsIZnD"
+   }
+  },
+  {
+   "id": "vc209",
+   "theme": "shop",
+   "en": "baker",
+   "ja": "パン職人",
+   "example": "The baker gets up at four every morning.",
+   "note": "パン屋（店）は bakery。bake ＝（オーブンで）焼く",
+   "from": "sa195",
+   "audio": {
+    "main": {
+     "text": "baker",
+     "file": "model_1e9061ec84a4.mp3"
+    }
+   },
+   "voice": {
+    "name": "Tyler",
+    "id": "raMcNf2S8wCmuaBcyI6E"
    }
   },
   {
@@ -3646,6 +3684,25 @@
     "main": {
      "text": "itinerary",
      "file": "model_c4f8bd41538d.mp3"
+    }
+   },
+   "voice": {
+    "name": "Sarah",
+    "id": "EXAVITQu4vr4xnSDxMaL"
+   }
+  },
+  {
+   "id": "vc207",
+   "theme": "travel",
+   "en": "atlas",
+   "ja": "地図帳",
+   "example": "I looked up the city in an atlas.",
+   "note": "「アトラス」。1 枚の地図は map、本になった地図は atlas",
+   "from": "sa192",
+   "audio": {
+    "main": {
+     "text": "atlas",
+     "file": "model_b78e4308b20a.mp3"
     }
    },
    "voice": {

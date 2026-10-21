@@ -1,0 +1,580 @@
+{
+  "id": "20261021-225154",
+  "skill": "lesson",
+  "created": "2026-10-21 22:51",
+  "title": "Optimizing App Store Previews",
+  "result": {
+    "score": 89,
+    "details": {
+      "listening": "3/3",
+      "dictation": 78,
+      "replays": 19,
+      "reading": "5/5",
+      "wpm": 137
+    }
+  },
+  "source": {
+    "site": "AI 教材",
+    "url": null,
+    "title": "Optimizing App Store Previews",
+    "published": "2026-10-03",
+    "credit": "Script: Claude / Voice: Luis (ElevenLabs)",
+    "license": "original",
+    "audio_url": null,
+    "zone": "tech",
+    "stock_id": "tc013",
+    "level": "B2",
+    "format": "monologue"
+  },
+  "paragraphs": [
+    {
+      "text": "Most people decide whether to download an app in just a few seconds. They look at the icon, the name and the first screenshots on the App Store page. Then they either tap Get or move on. That is why App Store Optimization, or ASO, matters so much.",
+      "heading": false
+    },
+    {
+      "text": "ASO is the process of improving your App Store presence so that more people find your app and download it. It has two main parts: being found in search, and convincing people once they see your page.",
+      "heading": false
+    },
+    {
+      "text": "For search, store metadata is important. This includes your app name, subtitle and keyword field. These words help the App Store understand what your app does. Choose words that real users would type, not clever marketing phrases.",
+      "heading": false
+    },
+    {
+      "text": "For convincing people, the screenshots and preview videos are key. Many visitors never scroll beyond the first two or three images. So those images should clearly show the main benefit. A good screenshot does not just show the interface. It tells a short story with a clear headline, such as Plan your week in two minutes.",
+      "heading": false
+    },
+    {
+      "text": "Developers measure success with the conversion rate, the percentage of people who download the app after viewing the page. Even small improvements can lead to many more users.",
+      "heading": false
+    },
+    {
+      "text": "Apple also lets developers test different product page versions with real visitors. Instead of guessing which design works best, you can compare results with real data and keep the winner.",
+      "heading": false
+    }
+  ],
+  "glossary": [
+    {
+      "word": "App Store Optimization",
+      "definition": ""
+    },
+    {
+      "word": "conversion rate",
+      "definition": ""
+    },
+    {
+      "word": "store metadata",
+      "definition": ""
+    }
+  ],
+  "words": 236,
+  "duration": 93,
+  "audio_wpm": 152,
+  "sentences": [
+    {
+      "text": "Most people decide whether to download an app in just a few seconds.",
+      "start": 0.0,
+      "end": 4.24,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "They look at the icon, the name and the first screenshots on the App Store page.",
+      "start": 4.67,
+      "end": 9.23,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Then they either tap Get or move on.",
+      "start": 9.66,
+      "end": 12.46,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "That is why App Store Optimization, or ASO, matters so much.",
+      "start": 12.89,
+      "end": 17.77,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "ASO is the process of improving your App Store presence so that more people find your app and download it.",
+      "start": 18.29,
+      "end": 24.45,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "It has two main parts: being found in search, and convincing people once they see your page.",
+      "start": 25.36,
+      "end": 31.04,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "For search, store metadata is important.",
+      "start": 31.56,
+      "end": 34.76,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This includes your app name, subtitle and keyword field.",
+      "start": 35.19,
+      "end": 39.03,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "These words help the App Store understand what your app does.",
+      "start": 39.5,
+      "end": 43.06,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Choose words that real users would type, not clever marketing phrases.",
+      "start": 43.57,
+      "end": 47.73,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "For convincing people, the screenshots and preview videos are key.",
+      "start": 48.25,
+      "end": 52.57,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Many visitors never scroll beyond the first two or three images.",
+      "start": 53.32,
+      "end": 57.24,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "So those images should clearly show the main benefit.",
+      "start": 57.67,
+      "end": 61.11,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "A good screenshot does not just show the interface.",
+      "start": 61.54,
+      "end": 64.5,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "It tells a short story with a clear headline, such as Plan your week in two minutes.",
+      "start": 64.93,
+      "end": 70.29,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Developers measure success with the conversion rate, the percentage of people who download the app after viewing the page.",
+      "start": 70.81,
+      "end": 77.69,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Even small improvements can lead to many more users.",
+      "start": 78.2,
+      "end": 81.32,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Apple also lets developers test different product page versions with real visitors.",
+      "start": 81.84,
+      "end": 86.68,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Instead of guessing which design works best, you can compare results with real data and keep the winner.",
+      "start": 87.31,
+      "end": 93.15,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    }
+  ],
+  "summary_ja": "多くの人はアイコン、名前、最初のスクリーンショットを数秒見てダウンロードするか決める。だからアプリストア最適化（ASO）が重要。検索では名前、サブタイトル、キーワードなどのメタデータに、実際のユーザーが打つ言葉を選ぶ。説得には最初の2〜3枚の画像が鍵で、主な利点を見出しで伝える。成果は閲覧からの転換率で測り、Apple では製品ページの別バージョンを実データで比較できる。",
+  "listening": {
+    "questions": [
+      {
+        "q": "多くの人がダウンロードを決めるまでの時間は？",
+        "options": [
+          "数分",
+          "数日",
+          "数秒",
+          "数時間"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"Most people decide whether to download an app in just a few seconds.\""
+      },
+      {
+        "q": "スクリーンショットについて重要なことは？",
+        "options": [
+          "画像は不要",
+          "最後の1枚が大切",
+          "枚数が多いほどよい",
+          "多くの人は最初の2〜3枚しか見ないので、主な利点をはっきり示す"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"Many visitors never scroll beyond the first two or three images. So those images should clearly show the main benefit.\""
+      },
+      {
+        "q": "Apple が開発者に提供している機能は？",
+        "options": [
+          "無料の広告",
+          "ランキングの操作",
+          "レビューの削除",
+          "異なる製品ページを実際の訪問者で試せる"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"Apple also lets developers test different product page versions with real visitors.\""
+      }
+    ],
+    "answers": [
+      2,
+      3,
+      3
+    ],
+    "correct": 3,
+    "plays": 1
+  },
+  "dictation": [
+    {
+      "i": 0,
+      "sentence": 1,
+      "text": "They look at the icon, the name and the first screenshots on the App Store page.",
+      "start": 4.55,
+      "end": 9.43,
+      "ja": "人はアイコン、名前、App Store のページの最初のスクリーンショットを見ます。",
+      "points_ja": "look at the icon が「ルカットジアイコン」とつながり、the name and the が続けて聞こえます。",
+      "answer": "They looks the icon, the name and the first screenshot on the app store page.",
+      "plays": 6,
+      "accuracy": 0.812,
+      "diff": [
+        {
+          "t": "they",
+          "status": "ok"
+        },
+        {
+          "t": "look",
+          "status": "wrong",
+          "heard": "looks"
+        },
+        {
+          "t": "at",
+          "status": "missing"
+        },
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "icon",
+          "status": "ok"
+        },
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "name",
+          "status": "ok"
+        },
+        {
+          "t": "and",
+          "status": "ok"
+        },
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "first",
+          "status": "ok"
+        },
+        {
+          "t": "screenshots",
+          "status": "wrong",
+          "heard": "screenshot"
+        },
+        {
+          "t": "on",
+          "status": "ok"
+        },
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "app",
+          "status": "ok"
+        },
+        {
+          "t": "store",
+          "status": "ok"
+        },
+        {
+          "t": "page",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "sentence": 5,
+      "text": "It has two main parts: being found in search, and convincing people once they see your page.",
+      "start": 25.24,
+      "end": 31.24,
+      "ja": "2つの主な部分があります。検索で見つけてもらうことと、ページを見た人を納得させることです。",
+      "points_ja": "has two main が続き、convincing people once they が続けて聞こえます。",
+      "answer": "It has two main parts, being founding search and conveince people wants to see this page.",
+      "plays": 6,
+      "accuracy": 0.647,
+      "diff": [
+        {
+          "t": "it",
+          "status": "ok"
+        },
+        {
+          "t": "has",
+          "status": "ok"
+        },
+        {
+          "t": "two",
+          "status": "ok"
+        },
+        {
+          "t": "main",
+          "status": "ok"
+        },
+        {
+          "t": "parts",
+          "status": "ok"
+        },
+        {
+          "t": "being",
+          "status": "ok"
+        },
+        {
+          "t": "found",
+          "status": "wrong",
+          "heard": "founding"
+        },
+        {
+          "t": "in",
+          "status": "missing"
+        },
+        {
+          "t": "search",
+          "status": "ok"
+        },
+        {
+          "t": "and",
+          "status": "ok"
+        },
+        {
+          "t": "convincing",
+          "status": "wrong",
+          "heard": "conveince"
+        },
+        {
+          "t": "people",
+          "status": "ok"
+        },
+        {
+          "t": "once",
+          "status": "wrong",
+          "heard": "wants"
+        },
+        {
+          "t": "they",
+          "status": "wrong",
+          "heard": "to"
+        },
+        {
+          "t": "see",
+          "status": "ok"
+        },
+        {
+          "t": "your",
+          "status": "wrong",
+          "heard": "this"
+        },
+        {
+          "t": "page",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "sentence": 16,
+      "text": "Even small improvements can lead to many more users.",
+      "start": 78.08,
+      "end": 81.52,
+      "ja": "小さな改善でも、ずっと多くのユーザーにつながることがあります。",
+      "points_ja": "small improvements がつながり、lead to many の to は弱形です。",
+      "answer": "Even small improvements can be to many more users.",
+      "plays": 7,
+      "accuracy": 0.889,
+      "diff": [
+        {
+          "t": "even",
+          "status": "ok"
+        },
+        {
+          "t": "small",
+          "status": "ok"
+        },
+        {
+          "t": "improvements",
+          "status": "ok"
+        },
+        {
+          "t": "can",
+          "status": "ok"
+        },
+        {
+          "t": "lead",
+          "status": "wrong",
+          "heard": "be"
+        },
+        {
+          "t": "to",
+          "status": "ok"
+        },
+        {
+          "t": "many",
+          "status": "ok"
+        },
+        {
+          "t": "more",
+          "status": "ok"
+        },
+        {
+          "t": "users",
+          "status": "ok"
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "questions": [
+      {
+        "q": "本文の主旨は？",
+        "options": [
+          "見つけてもらい、納得してもらうための App Store 最適化の考え方",
+          "広告の出し方",
+          "アプリの作り方",
+          "アイコンの描き方"
+        ],
+        "answer": 0,
+        "explanation_ja": "ASO の2つの部分と、測り方・改善方法を説明しています。"
+      },
+      {
+        "q": "store metadata に含まれるものは？",
+        "options": [
+          "ユーザーの名前",
+          "アプリの容量",
+          "アプリ名、サブタイトル、キーワード欄",
+          "開発者の住所"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"This includes your app name, subtitle and keyword field.\""
+      },
+      {
+        "q": "キーワードについてのアドバイスは？",
+        "options": [
+          "英語だけにする",
+          "できるだけ長くする",
+          "他のアプリ名を入れる",
+          "気の利いた宣伝文句ではなく、実際のユーザーが打つ言葉を選ぶ"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"Choose words that real users would type, not clever marketing phrases.\""
+      },
+      {
+        "q": "良いスクリーンショットの例として挙げられている見出しは？",
+        "options": [
+          "Best app ever",
+          "Free for everyone",
+          "Download now",
+          "Plan your week in two minutes"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"such as Plan your week in two minutes.\""
+      },
+      {
+        "q": "conversion rate の意味は？",
+        "options": [
+          "クラッシュの割合",
+          "レビューの平均点",
+          "ページを見た人のうちダウンロードした人の割合",
+          "アプリの価格"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"the percentage of people who download the app after viewing the page.\""
+      }
+    ],
+    "answers": [
+      0,
+      2,
+      3,
+      3,
+      2
+    ],
+    "correct": 5,
+    "reading_seconds": 103,
+    "wpm": 137,
+    "time": "23:00:02"
+  }
+}

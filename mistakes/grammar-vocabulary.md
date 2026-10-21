@@ -75,3 +75,9 @@
 | 2026-10-20 | there are five people to look at the river | there are five people looking at the water | 「〜している人々」は 〜ing。to look は「見るための」になる |
 | 2026-10-20 | In foreground, the grass（文が途中で終わった） | In the foreground, there is grass. | in the foreground は the 付き（10/14 にも出た表現）。There is / are で文を完成させる |
 | 2026-10-20 | （This picture was taken by a lake. の by が分からない） | 湖のそばで | by には「〜によって」と「〜のそばで」がある。湖は撮れないので場所。自分で言うなら near / at a lake が誤解されない |
+| 2026-10-21 | TV（What do you call people who watch a sports game? 即答 sa185） | fans / spectators / the audience | people who watch ＝見る人。会場で見る人は spectators、応援する人は fans |
+| 2026-10-21 | お札（What do you call the piece of paper that shows what you paid? 即答 sa188） | a receipt | shows what you paid ＝払ったものを示す → レシート。お札は a bill。receipt は「リスィート」で p は読まない |
+| 2026-10-21 | （知らなかった。What do you call a book of maps? 即答 sa192） | an atlas | 本になった地図は atlas。単語タブ vc207 |
+| 2026-10-21 | （知らなかった。What do you call the window in the roof of a car? 即答 sa194） | a sunroof | roof ＝屋根。単語タブ vc208 |
+| 2026-10-21 | （知らなかった。What do you call a person who makes bread and cakes? 即答 sa195） | a baker | 店は bakery。単語タブ vc209 |
+| 2026-10-21 | （日→英で出てこなかった：きちんとした・片付いた・洗濯物・電気のスイッチ。昨日に続き 2 回目） | neat・tidy・laundry・light switch | neat と tidy はほぼ同じ意味で、neat and tidy とセットでも使う。laundry は「ロンドリー」で、do the laundry ＝洗濯をする |
