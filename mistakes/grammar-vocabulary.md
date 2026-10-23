@@ -81,3 +81,4 @@
 | 2026-10-21 | （知らなかった。What do you call the window in the roof of a car? 即答 sa194） | a sunroof | roof ＝屋根。単語タブ vc208 |
 | 2026-10-21 | （知らなかった。What do you call a person who makes bread and cakes? 即答 sa195） | a baker | 店は bakery。単語タブ vc209 |
 | 2026-10-21 | （日→英で出てこなかった：きちんとした・片付いた・洗濯物・電気のスイッチ。昨日に続き 2 回目） | neat・tidy・laundry・light switch | neat と tidy はほぼ同じ意味で、neat and tidy とセットでも使う。laundry は「ロンドリー」で、do the laundry ＝洗濯をする |
+| 2026-10-23 | SMS（What do you call a short written message sent from a phone? 即答 sa199） | a text / a text message | 会話では text と言う。動詞にもなる（I'll text you. ＝メールするね）。SMS は通じるが日常会話では少ない |

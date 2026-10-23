@@ -10,7 +10,7 @@ README.md と curriculum/roadmap.md も参照すること。
 | 合図 | 受け付ける入力 | Claude の動作 |
 |---|---|---|
 | 開始 | `Hello` / `hello` / `開始` | `date` で現在時刻を取得し、当日の journal に新しいセッションの start を記録する。続けて「今日の流れ」を伝える |
-| 終了 | `See you` / `see you` / `終了` | `date` で現在時刻を取得して end を記録し、journal を最終版に仕上げる。記録されない練習の申告を求める |
+| 終了 | `See you` / `see you` / `終了` | `date` で現在時刻を取得して end を記録し、journal を最終版に仕上げる。記録されない練習の申告を求める。仕上げたら確認を待たずに saveit（コミットして push）する |
 
 - 大文字小文字は問わない
 - 開始の合図を受けたら、練習アプリ（apps/trainer）が起動しているかを `curl -s -o /dev/null http://localhost:8765/api/config` で確かめ、止まっていればバックグラウンドで起動する（ユーザーが毎回起動しなくて済むように）

@@ -137,3 +137,6 @@
 | 2026-10-21 | They **look at** the icon, the name and the first **screenshots**.（教材 書き取り） | look at → looks、screenshots → screenshot | look‿at は「ルカッ」で t が消え、looks に聞こえる。「at the icon」と続くので前置詞の at を補う。the first の後は複数も多い |
 | 2026-10-21 | being **found in** search, and **convincing** people **once they** see your page（教材 書き取り） | found in → founding、convincing → conveince、once they → wants to | found‿in は「ファウンディン」で -ing と同じ音になる。once（〜したら）は「ワンス」で、wants とほぼ同じ音。意味（once they see ＝ページを見たら）で判断する |
 | 2026-10-21 | Even small improvements can **lead to** many more users.（教材 書き取り） | lead to → be | lead‿to は「リータ」と to が弱い。lead to 〜 ＝〜につながる |
+| 2026-10-23 | She always drinks green tea **after lunch**.（rp071・1 回聞き） | after lunch → the lunch | after の f と er が弱く「アフタ」となり、the に聞こえた。食事の名前（lunch・dinner）には the を付けないので、the が聞こえたら疑う |
+| 2026-10-23 | What do you call the place where you **get on** a plane?（即答 sa197） | 問題文の意味が取れなかった | get‿on‿a は「ゲロナ」と 1 語になる。get on ＝（乗り物に）乗る。the place where 〜 ＝〜する場所。答えは a gate（搭乗口） |
+| 2026-10-23 | What do **bees** make?（即答 sa006） | bees が聞き取れず | bees は「ビーズ」で、後ろの make とつながる。bee ＝ハチ。答えは honey |
