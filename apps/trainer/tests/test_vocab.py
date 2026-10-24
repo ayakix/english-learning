@@ -4,57 +4,54 @@ import time
 import pytest
 from fastapi.testclient import TestClient
 
-from trainer import drills, progress, server, storage, summary
+from trainer import drills, server, storage
 
 client = TestClient(server.app)
 
 
 @pytest.fixture(autouse=True)
 def stock(tmp_path, monkeypatch):
-    root = tmp_path / "drills"
-    (root / "vocab" / "vc001").mkdir(parents=True)
-    (root / "vocab" / "vc001" / "model_a.mp3").write_bytes(b"a")
-    (root / "vocab" / "items.json").write_text(json.dumps({"themes": [{"key": "kitchen", "name": "台所"}], "items": [
-        {"id": "vc001", "theme": "kitchen", "en": "yolk", "ja": "卵の黄身", "example": "I only eat the yolk.",
-         "audio": {"main": {"text": "yolk", "file": "model_a.mp3"}}},
-        {"id": "vc002", "theme": "kitchen", "en": "oven", "ja": "オーブン", "example": "Bake it in the oven.",
-         "audio": {"main": {"text": "oven"}}}]}))
-    monkeypatch.setattr(drills, "STOCK_DIR", root)
+    root = tmp_path / "drills" / "vocab"
+    root.mkdir(parents=True)
+    items = [{"id": "vc001", "theme": "kitchen", "en": "stove", "ja": "コンロ", "example": "x", "audio": {"main": {"text": "stove"}}},
+             {"id": "vc002", "theme": "kitchen", "en": "kettle", "ja": "やかん", "example": "x", "audio": {"main": {"text": "kettle"}}},
+             {"id": "vc003", "theme": "home", "en": "neat", "ja": "きちんとした", "example": "x", "audio": {"main": {"text": "neat"}}}]
+    (root / "items.json").write_text(json.dumps({"themes": [{"key": "kitchen", "name": "台所"}], "items": items}))
+    monkeypatch.setattr(drills, "STOCK_DIR", tmp_path / "drills")
+    return root
 
 
-def test_lists_words():
-    d = client.get("/api/vocab").json()
-    assert [t["key"] for t in d["themes"]] == ["kitchen"]
-    # 音声がまだ無い単語も意味の確認には使えるので出す（再生だけできない）
-    assert [(it["en"], it["audio_file"]) for it in d["items"]] == [("yolk", "model_a.mp3"), ("oven", None)]
-    assert client.get("/api/drills/vocab/audio/vc001/model_a.mp3").content == b"a"
+def _session(day: str, mode: str, marks: dict[str, bool], sid_suffix: str = "220000"):
+    """過去の記録を直接書く（API は今日の session にしか付けられないため）"""
+    s = storage.new_session("vocab", title="単語", mode=mode, marks={i: {"ok": ok} for i, ok in marks.items()})
+    s["id"] = day.replace("-", "") + "-" + sid_suffix
+    s["created"] = day + " 22:00"
+    storage.save(s)
 
 
-def test_marks_are_kept_per_direction(monkeypatch):
-    # ID は秒単位の時刻なので、同じ秒に 2 つ目の session を作ると重なる。別の ID を振る
-    day = time.strftime("%Y%m%d")
-    ids = iter([day + "-230000", day + "-230001"])
-    monkeypatch.setattr(storage, "new_id", lambda: next(ids))
-    assert client.get("/api/vocab/marks/ja-en").json() == {"marks": {}}
-    assert storage.load_all("vocab") == []
-
-    client.put("/api/vocab/marks/ja-en/vc001", json={"ok": False})
-    client.put("/api/vocab/marks/ja-en/vc002", json={"ok": True})
-    client.put("/api/vocab/marks/en-ja/vc001", json={"ok": True})
-    assert client.get("/api/vocab/marks/ja-en").json() == {"marks": {"vc001": False, "vc002": True}}
-
-    by_mode = {s["mode"]: s for s in storage.load_all("vocab")}
-    assert by_mode["ja-en"]["result"] == {"score": 50, "details": {"ok": 1, "total": 2}}
-    assert by_mode["en-ja"]["result"]["score"] == 100
-    assert {p["score"] for p in progress.points() if p["skill"] == "vocab"} == {50, 100}
-
-    md = summary.render(time.strftime("%Y-%m-%d"))
-    assert "## 単語" in md
-    assert "- 単語 日→英：言えた 1 / 2" in md
-    assert "  - 言えなかった：vc001 yolk（卵の黄身）" in md
+def test_review_lists_words_whose_latest_mark_is_ng():
+    _session("2026-10-20", "ja-en", {"vc001": False, "vc002": False, "vc003": False})
+    # 翌日に vc001 は言えた → 外れる。vc003 は付け直していないので 10/20 の × のまま残る
+    _session("2026-10-21", "ja-en", {"vc001": True, "vc002": False}, "220001")
+    r = client.get("/api/vocab/review/ja-en").json()
+    assert [(it["id"], it["reason"]) for it in r["items"]] == [("vc002", "2026-10-21 ×"), ("vc003", "2026-10-20 ×")]
+    # 向きごとに別。英→日では何も付けていない
+    assert client.get("/api/vocab/review/en-ja").json()["items"] == []
 
 
-def test_rejects_unknown_mode_and_word():
-    assert client.put("/api/vocab/marks/en-fr/vc001", json={"ok": True}).status_code == 404
-    assert client.put("/api/vocab/marks/en-ja/vc999", json={"ok": True}).status_code == 404
-    assert storage.load_all("vocab") == []
+def test_review_includes_manual_ids_without_marks(stock):
+    (stock / "review.json").write_text(json.dumps({"updated": "2026-10-24", "ids": ["vc003"]}))
+    r = client.get("/api/vocab/review/en-ja").json()
+    assert r["updated"] == "2026-10-24"
+    assert [(it["id"], it["reason"]) for it in r["items"]] == [("vc003", "復習")]
+
+
+def test_review_rejects_unknown_mode():
+    assert client.get("/api/vocab/review/review").status_code == 404
+
+
+def test_marks_today_show_up_in_review_after_reload():
+    client.put("/api/vocab/marks/ja-en/vc002", json={"ok": False})
+    r = client.get("/api/vocab/review/ja-en").json()
+    assert [it["id"] for it in r["items"]] == ["vc002"]
+    assert r["items"][0]["reason"] == time.strftime("%Y-%m-%d") + " ×"

@@ -20,6 +20,7 @@ import type {
   VersantMode,
   VocabData,
   VocabMode,
+  VocabReview,
   Voice,
   WritingKind,
   WritingSession,
@@ -102,6 +103,7 @@ export const api = {
   review: () => call<DrillData>("/api/drills/review"),
   vocab: {
     get: () => call<VocabData>("/api/vocab"),
+    review: (mode: VocabMode) => call<VocabReview>(`/api/vocab/review/${mode}`),
     marks: (mode: VocabMode) => call<VersantMarks>(`/api/vocab/marks/${mode}`),
     mark: (mode: VocabMode, id: string, ok: boolean) =>
       call<VersantMarks>(`/api/vocab/marks/${mode}/${id}`, "PUT", { ok }),

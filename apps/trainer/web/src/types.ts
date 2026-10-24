@@ -252,6 +252,9 @@ export type VocabItem = {
   audio_file: string | null; // 音声がまだ無い単語は null（再生だけできない）
 };
 export type VocabData = { themes: { key: string; name: string }[]; items: VocabItem[] };
+// 振り返り：その向きで最後が × だった語（reason は「YYYY-MM-DD ×」）と、review.json で足した語（reason は「復習」）
+export type VocabReviewItem = VocabItem & { reason: string };
+export type VocabReview = { updated?: string; items: VocabReviewItem[] };
 
 export type DrillData = {
   name?: string;

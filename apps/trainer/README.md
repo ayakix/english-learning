@@ -99,6 +99,7 @@ uv run pytest                       # バックエンドのテスト（外部 AP
 - どの種類も `items.json` の各例題が `audio: {枠: {text, file}}` を持ち、`src/trainer/drills.py` が枠ごとに音声を作る。種類を足すときは `KINDS` に加える
 - 音声が無いときは `uv run trainer stock drills [種類 ...]` で作る（クレジットを使う）
 - Versant タブの「振り返り」には、`content/drills/review.json` の ids に並べた復唱・即答だけが出る。Claude が `trainer summary` の × を見て書き換える
+- 単語タブの「振り返り」は、その向きで最後に付けた記録が × の語を `practice/vocab/` から自動で集める（○ を付ければ次に開いたとき外れる）。× でなくても見返したい語は `content/drills/vocab/review.json` の ids に書く
 - ○/× は `practice/versant/`・`practice/vocab/` に 1 日・1 モードで 1 つの session として残る（共通の仕組みは `src/trainer/marks.py`）。最初に ○/× を付けたときに作るので、開いただけでは記録はできない
 
 ### AI 教材（content/generated/）
