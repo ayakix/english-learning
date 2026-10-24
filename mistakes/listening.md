@@ -140,3 +140,8 @@
 | 2026-10-23 | She always drinks green tea **after lunch**.（rp071・1 回聞き） | after lunch → the lunch | after の f と er が弱く「アフタ」となり、the に聞こえた。食事の名前（lunch・dinner）には the を付けないので、the が聞こえたら疑う |
 | 2026-10-23 | What do you call the place where you **get on** a plane?（即答 sa197） | 問題文の意味が取れなかった | get‿on‿a は「ゲロナ」と 1 語になる。get on ＝（乗り物に）乗る。the place where 〜 ＝〜する場所。答えは a gate（搭乗口） |
 | 2026-10-23 | What do **bees** make?（即答 sa006） | bees が聞き取れず | bees は「ビーズ」で、後ろの make とつながる。bee ＝ハチ。答えは honey |
+| 2026-10-24 | How long **have you lived** in Tokyo?（rp084・2 周目） | have you been lived と been を足した | have lived（現在完了）。been を入れると受け身になって意味が崩れる。have‿you は「ハヴュ」 |
+| 2026-10-24 | They're getting married in **the** spring.（rp088・2 周目。10/12・10/19 に続き 3 回目） | the が抜けた | in‿the は「インナ」。3 回同じ所で落としている。in the spring と丸ごと覚える |
+| 2026-10-24 | He always runs **along** the river.（rp091・2 周目） | along → a long | along（〜に沿って）は 1 語で、後ろが the river なら前置詞。a long なら後ろに名詞（a long river）が要る |
+| 2026-10-24 | I think the store **is closed** today.（rp093・2 周目。10/12・10/19 に続き 3 回目） | is closed → closes | 3 回目。is closed ＝閉まっている（状態）。store‿is は「ストアリズ」で、is を聞き取る |
+| 2026-10-24 | If you're **thirsty**, what do you need?（即答 sa012） | thirsty → Thursday と聞き、意味が取れなかった | thirsty は「サースティ」で th ＋ s、Thursday は「サーズデイ」で z ＋ d。文頭が If you're 〜 なら後ろは状態（thirsty・hungry・tired）が来る。答えは water |
