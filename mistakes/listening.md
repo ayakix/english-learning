@@ -145,3 +145,9 @@
 | 2026-10-24 | He always runs **along** the river.（rp091・2 周目） | along → a long | along（〜に沿って）は 1 語で、後ろが the river なら前置詞。a long なら後ろに名詞（a long river）が要る |
 | 2026-10-24 | I think the store **is closed** today.（rp093・2 周目。10/12・10/19 に続き 3 回目） | is closed → closes | 3 回目。is closed ＝閉まっている（状態）。store‿is は「ストアリズ」で、is を聞き取る |
 | 2026-10-24 | If you're **thirsty**, what do you need?（即答 sa012） | thirsty → Thursday と聞き、意味が取れなかった | thirsty は「サースティ」で th ＋ s、Thursday は「サーズデイ」で z ＋ d。文頭が If you're 〜 なら後ろは状態（thirsty・hungry・tired）が来る。答えは water |
+| 2026-10-25 | They're getting married in **the** spring.（rp088・振り返り。10/12・10/19・10/24 に続き 4 回目） | the が抜けた | シャドーイングのあとの 1 回聞きでも抜けた。in‿the の「インナ」の「ナ」を the と認識できていない。言うときに in the を「インナ」と 1 語で言う練習に替える |
+| 2026-10-25 | He fixed **the** bike in ten minutes.（rp102・2 周目。10/20 に続き 2 回目で同じ間違い） | the → his | fixed‿the は「フィクストゥザ」。his なら「ヒズ」と z が聞こえる。2 回とも his にしているので、文を聞いたときに「彼の自転車だろう」と意味で補ってしまっている |
+| 2026-10-25 | She painted the kitchen **bright yellow**.（rp108・2 周目） | bright yellow → bright with yellow | paint 物 色 ＝物を〜色に塗る（前置詞は要らない）。bright‿yellow は「ブライチェロウ」で t が y に溶ける。その「チ」を with と聞いた |
+| 2026-10-25 | She wrote a long letter **to** her grandmother.（rp118・2 周目。10/11・10/20 に続き 3 回目で同じ間違い） | to → for | 3 回とも for。letter‿to は「レラタ」で、to は「タ」。write a letter to 人 と丸ごと覚える |
+| 2026-10-25 | We **got lost on the way there**.（rp121・2 周目） | got lost the way on there と語順が崩れた | get lost ＝道に迷う。on the way there ＝そこへ行く途中で。lost‿on‿the は「ロストンナ」と 1 語になる。「on the way」の塊で覚える |
+| 2026-10-25 | What do you use to **see** things that are far away?（即答 sa028） | see が聞き取れず、telephone と答えた | use‿to‿see は「ユースタスィー」で to が弱く、see が use に飲まれた。far away ＝遠くの。答えは binoculars（双眼鏡）/ a telescope |

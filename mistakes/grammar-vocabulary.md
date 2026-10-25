@@ -82,3 +82,5 @@
 | 2026-10-21 | （知らなかった。What do you call a person who makes bread and cakes? 即答 sa195） | a baker | 店は bakery。単語タブ vc209 |
 | 2026-10-21 | （日→英で出てこなかった：きちんとした・片付いた・洗濯物・電気のスイッチ。昨日に続き 2 回目） | neat・tidy・laundry・light switch | neat と tidy はほぼ同じ意味で、neat and tidy とセットでも使う。laundry は「ロンドリー」で、do the laundry ＝洗濯をする |
 | 2026-10-23 | SMS（What do you call a short written message sent from a phone? 即答 sa199） | a text / a text message | 会話では text と言う。動詞にもなる（I'll text you. ＝メールするね）。SMS は通じるが日常会話では少ない |
+| 2026-10-25 | （思い出せなかった。What do you call the person who serves food in a restaurant? 即答 sa030） | a waiter / a server | serve food ＝料理を出す。最近は男女を分けない server も多い。waiter は「ウェイター」で t が弱く「ウェイラー」 |
+| 2026-10-25 | （日→英で出てこなかった：鼻水・処方箋・痛み止め・あざ・ねんざする・足首・額・健康診断。体・健康の初回） | runny nose・prescription・painkiller・bruise・sprain・ankle・forehead・checkup | 体・健康は初回で 12/20。bruise は「ブルーズ」、sprain は「スプレイン」（sprain my ankle ＝足首をねんざする、とセットで）。forehead は「フォーヘッド」でも「フォリッド」でも通じる |
