@@ -17,7 +17,7 @@ README.md と curriculum/roadmap.md も参照すること。
   - 画面のソースが dist より新しければ、先に `cd apps/trainer/web && npm run build` でビルドし直す（start.command と同じ判定）
   - 起動：`nohup uv run --project apps/trainer trainer serve --no-browser > /dev/null 2>&1 &`
     - Bash の run_in_background で起動すると、時間制限（既定 30 分）で止められるため、nohup で切り離す
-  - ブラウザは開かない。今日の流れでタブの URL を伝える
+  - 起動時にはブラウザを開かない。URL を案内するときは、伝えるだけでなく `open <URL>` で既定のブラウザに開く（2026-10-25 にユーザーの希望。「次は Versant」のように次のタブへ進むたびに開く）
 - その日最初のセッションは、合言葉がなくても会話開始時点を学習開始として扱う
   - `.claude/hooks/session-start.sh`（SessionStart hook）が journal を作成し、開始時刻を記録する
 - 時刻は必ず `date` コマンドで取得する。推測で書かない
