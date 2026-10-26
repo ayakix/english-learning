@@ -308,6 +308,9 @@ function MinimalPairsView() {
     // リンキングと同じ Space / Enter でも左右を再生できるようにする（タブを行き来しても指の動きが変わらないように）
     " ": () => items[cur] && playWord(items[cur], "a"),
     Enter: () => items[cur] && playWord(items[cur], "b"),
+    // Vim の h / l でも左右を再生する（j / k と合わせて hjkl で完結するように）
+    h: () => items[cur] && playWord(items[cur], "a"),
+    l: () => items[cur] && playWord(items[cur], "b"),
   });
 
   return (
@@ -334,7 +337,7 @@ function MinimalPairsView() {
             <div className="hint" style={{ marginTop: 6 }}>
               <Kbd>↑</Kbd>
               <Kbd>↓</Kbd>（<Kbd>k</Kbd>
-              <Kbd>j</Kbd>）で選び、<Kbd>←</Kbd>（<Kbd>Space</Kbd>）で左、<Kbd>→</Kbd>（<Kbd>Enter</Kbd>）で右の単語を再生します。
+              <Kbd>j</Kbd>）で選び、<Kbd>←</Kbd>（<Kbd>h</Kbd>・<Kbd>Space</Kbd>）で左、<Kbd>→</Kbd>（<Kbd>l</Kbd>・<Kbd>Enter</Kbd>）で右の単語を再生します。
             </div>
           </Panel>
         )}
