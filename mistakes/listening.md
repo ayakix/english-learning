@@ -151,3 +151,7 @@
 | 2026-10-25 | She wrote a long letter **to** her grandmother.（rp118・2 周目。10/11・10/20 に続き 3 回目で同じ間違い） | to → for | 3 回とも for。letter‿to は「レラタ」で、to は「タ」。write a letter to 人 と丸ごと覚える |
 | 2026-10-25 | We **got lost on the way there**.（rp121・2 周目） | got lost the way on there と語順が崩れた | get lost ＝道に迷う。on the way there ＝そこへ行く途中で。lost‿on‿the は「ロストンナ」と 1 語になる。「on the way」の塊で覚える |
 | 2026-10-25 | What do you use to **see** things that are far away?（即答 sa028） | see が聞き取れず、telephone と答えた | use‿to‿see は「ユースタスィー」で to が弱く、see が use に飲まれた。far away ＝遠くの。答えは binoculars（双眼鏡）/ a telescope |
+| 2026-10-26 | We got lost **on the way** there.（rp121・振り返り。昨日に続き 2 回目） | got lost way on there | lost‿on‿the は「ロストンナ」と 1 語になり、on the が way の後ろに聞こえた。on the way（途中で）は塊で、way の前に来る |
+| 2026-10-26 | He works at a bank **downtown**.（rp122・2 周目。10/21 に続き 2 回目で同じ間違い） | downtown → in downtown | bank‿downtown は「バンクダウンタウン」で間に音は無いのに、場所だからと in を補っている。downtown は副詞で前置詞なし |
+| 2026-10-26 | His new apartment **is** close to the park.（rp134・2 周目） | is が抜けた | apartment‿is は「アパートメンティズ」で、is は「ティズ」の z だけ。主語の後に動詞が無ければ is を疑う |
+| 2026-10-26 | What color is **grass**?（即答 sa053） | grass → glass と聞き、transparent と答えた | grass は r（舌をどこにも付けない）、glass は l（舌先を歯茎に付ける）。今日のミニマルペア l-r そのもの。color（色）は聞けていたので、「透明」は色の答えとして不自然と気づけば直せる。答えは green |

@@ -84,3 +84,5 @@
 | 2026-10-23 | SMS（What do you call a short written message sent from a phone? 即答 sa199） | a text / a text message | 会話では text と言う。動詞にもなる（I'll text you. ＝メールするね）。SMS は通じるが日常会話では少ない |
 | 2026-10-25 | （思い出せなかった。What do you call the person who serves food in a restaurant? 即答 sa030） | a waiter / a server | serve food ＝料理を出す。最近は男女を分けない server も多い。waiter は「ウェイター」で t が弱く「ウェイラー」 |
 | 2026-10-25 | （日→英で出てこなかった：鼻水・処方箋・痛み止め・あざ・ねんざする・足首・額・健康診断。体・健康の初回） | runny nose・prescription・painkiller・bruise・sprain・ankle・forehead・checkup | 体・健康は初回で 12/20。bruise は「ブルーズ」、sprain は「スプレイン」（sprain my ankle ＝足首をねんざする、とセットで）。forehead は「フォーヘッド」でも「フォリッド」でも通じる |
+| 2026-10-26 | 手術室（Where do you go if you need an operation? 即答 sa054） | a hospital | Where do you go ＝どこへ行くか、なので建物の名前。operation ＝手術（have an operation ＝手術を受ける）。手術室は operating room |
+| 2026-10-26 | （日→英の振り返り。2 日続けて出てこなかった：鼻水・あざ・ねんざする・足首・額。めまいがするは dizzle と言った） | runny nose・bruise・sprain・ankle・forehead・dizzy | 処方箋・痛み止め・健康診断は 2 日目で言えた。残りはけがの語。dizzy は「ディズィ」で最後は y。I feel dizzy. と文で覚える。sprain my ankle で 2 語セット |
