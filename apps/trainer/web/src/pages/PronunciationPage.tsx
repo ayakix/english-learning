@@ -297,20 +297,25 @@ function MinimalPairsView() {
     rows.current[n]?.scrollIntoView({ block: "nearest" });
   }
 
+  // ミニマルペアは格子に並ぶので、上下は 1 行分（列数）動かす。列数は画面幅で変わるため、押されたときに DOM から数える
+  function columns(): number {
+    const top = rows.current[0]?.offsetTop;
+    const n = rows.current.filter((el) => el && el.offsetTop === top).length;
+    return Math.max(1, n);
+  }
+
+  // 矢印と Vim の hjkl で格子の中を移動し、Space / Enter で選んでいるペアの左・右を再生する（リンキングと同じ指の動き）
   useHotkeys({
-    ArrowDown: () => select(cur + 1),
-    ArrowUp: () => select(cur - 1),
-    // Vim と同じ j / k でも動かす（ホームポジションから手を離さずに済むように）
-    j: () => select(cur + 1),
-    k: () => select(cur - 1),
-    ArrowLeft: () => items[cur] && playWord(items[cur], "a"),
-    ArrowRight: () => items[cur] && playWord(items[cur], "b"),
-    // リンキングと同じ Space / Enter でも左右を再生できるようにする（タブを行き来しても指の動きが変わらないように）
+    ArrowDown: () => select(cur + columns()),
+    ArrowUp: () => select(cur - columns()),
+    ArrowLeft: () => select(cur - 1),
+    ArrowRight: () => select(cur + 1),
+    h: () => select(cur - 1),
+    j: () => select(cur + columns()),
+    k: () => select(cur - columns()),
+    l: () => select(cur + 1),
     " ": () => items[cur] && playWord(items[cur], "a"),
     Enter: () => items[cur] && playWord(items[cur], "b"),
-    // Vim の h / l でも左右を再生する（j / k と合わせて hjkl で完結するように）
-    h: () => items[cur] && playWord(items[cur], "a"),
-    l: () => items[cur] && playWord(items[cur], "b"),
   });
 
   return (
@@ -337,7 +342,9 @@ function MinimalPairsView() {
             <div className="hint" style={{ marginTop: 6 }}>
               <Kbd>↑</Kbd>
               <Kbd>↓</Kbd>（<Kbd>k</Kbd>
-              <Kbd>j</Kbd>）で選び、<Kbd>←</Kbd>（<Kbd>h</Kbd>・<Kbd>Space</Kbd>）で左、<Kbd>→</Kbd>（<Kbd>l</Kbd>・<Kbd>Enter</Kbd>）で右の単語を再生します。
+              <Kbd>j</Kbd>）で選び、<Kbd>←</Kbd>
+              <Kbd>→</Kbd>（<Kbd>h</Kbd>
+              <Kbd>l</Kbd>）で選び、<Kbd>Space</Kbd> で左、<Kbd>Enter</Kbd> で右の単語を再生します。
             </div>
           </Panel>
         )}
