@@ -25,6 +25,12 @@ export function useDailyRange(storeKey: string, rangeKey: string, size: number, 
     // 最後まで行ったら先頭に戻る（言えるようになるまで繰り返すため）
     if (dir === 1) next = end >= total ? 0 : end;
     else next = start === 0 ? Math.floor((total - 1) / size) * size : Math.max(0, start - size);
+    save(next);
+    return next;
+  }
+
+  /** 範囲の先頭を i 番目にする（URL で今日の範囲を指定されたとき） */
+  function save(next: number) {
     const all = { ...starts, [rangeKey]: next };
     setStarts(all);
     try {
@@ -32,10 +38,9 @@ export function useDailyRange(storeKey: string, rangeKey: string, size: number, 
     } catch {
       // 保存できなくても、その場の範囲としては使える
     }
-    return next;
   }
 
-  return { start, end, inRange: (i: number) => i >= start && i < end, move };
+  return { start, end, inRange: (i: number) => i >= start && i < end, move, jump: save };
 }
 
 export type DailyRange = ReturnType<typeof useDailyRange>;

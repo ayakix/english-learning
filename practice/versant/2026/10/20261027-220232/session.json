@@ -1,0 +1,116 @@
+{
+  "id": "20261027-220232",
+  "skill": "versant",
+  "created": "2026-10-27 22:02",
+  "title": "復唱",
+  "result": {
+    "score": 60,
+    "details": {
+      "ok": 12,
+      "total": 20
+    }
+  },
+  "mode": "repeats",
+  "marks": {
+    "rp141": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp142": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp143": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp144": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp145": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp146": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp147": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp148": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp149": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp150": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp151": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp152": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp153": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp154": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp155": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp156": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp157": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp158": {
+      "ok": false,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp159": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    },
+    "rp160": {
+      "ok": true,
+      "kind": "repeats",
+      "level": 3
+    }
+  }
+}

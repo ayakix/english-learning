@@ -155,3 +155,14 @@
 | 2026-10-26 | He works at a bank **downtown**.（rp122・2 周目。10/21 に続き 2 回目で同じ間違い） | downtown → in downtown | bank‿downtown は「バンクダウンタウン」で間に音は無いのに、場所だからと in を補っている。downtown は副詞で前置詞なし |
 | 2026-10-26 | His new apartment **is** close to the park.（rp134・2 周目） | is が抜けた | apartment‿is は「アパートメンティズ」で、is は「ティズ」の z だけ。主語の後に動詞が無ければ is を疑う |
 | 2026-10-26 | What color is **grass**?（即答 sa053） | grass → glass と聞き、transparent と答えた | grass は r（舌をどこにも付けない）、glass は l（舌先を歯茎に付ける）。今日のミニマルペア l-r そのもの。color（色）は聞けていたので、「透明」は色の答えとして不自然と気づけば直せる。答えは green |
+| 2026-10-27 | We got lost on **the** way there.（rp121・振り返り。3 日続けて 3 回目） | the が抜けた | 語順は直った。lost‿on‿the の the は「ナ」と弱く短い。on the way で 3 語の塊 |
+| 2026-10-27 | His new apartment is **close** to the park.（rp134・振り返り。昨日に続き 2 回目） | close → closed | 昨日抜けた is は言えた。close to ＝〜の近くに（形容詞で「クロウス」、s は濁らない）。closed（閉まっている）は「クロウズド」。is があると状態の closed に引っ張られやすい（rp093 の is closed と逆の取り違え） |
+| 2026-10-27 | The flight to London was delayed because **of the storm**.（rp142・レベル 3） | of the storm → it was storm | because of ＋名詞（〜のせいで）。of the は「オブダ」と弱く 1 つになり、because の後ろに文が来ると思って it was で補った |
+| 2026-10-27 | She asked me to bring something **to** drink to the party.（rp143・レベル 3） | to → for | something to drink ＝何か飲むもの（to ＋動詞）。for だと後ろは名詞になる |
+| 2026-10-27 | My grandfather still goes swimming **in the ocean every summer**.（rp146・レベル 3） | in the ocean every summer が言えなかった | 文の後半が残らなかった。in‿the‿ocean は「インディオーシャン」とつながる。go swimming in the ocean で塊 |
+| 2026-10-27 | He spent **the** whole weekend cleaning out the garage.（rp149・レベル 3） | the → a | spend the whole weekend ＝週末をまるまる。the whole の the は「ダ」と弱いが a ではない |
+| 2026-10-27 | I've been trying to **drink** more water during the day.（rp150・レベル 3） | drink → take | 意味が同じ語に置き換えた。水は drink が自然（take は薬・サプリ） |
+| 2026-10-27 | The teacher gave us a lot of homework **over** the holiday.（rp151・レベル 3） | over → during | over the holiday ＝休みの間（ずっと）。during と意味が近く、置き換えた |
+| 2026-10-27 | The restaurant was so popular **that** we had to wait outside.（rp155・レベル 3） | that → so | so 〜 that ... ＝とても〜なので…。that は弱く「ダッ」。2 つ目の so で言い換えた |
+| 2026-10-27 | The museum is closed on Mondays, so **let's go** on Tuesday.（rp158・レベル 3） | let's go → let me | let's go は「レッツゴウ」で s が短い。let me（〜させて）では後ろの on Tuesday とつながらない |
+| 2026-10-27 | She's been working **at** the same company for fifteen years.（rp159・レベル 3） | at が抜けた | working‿at‿the は「ワーキンガッダ」と 1 語になり、at が消えて聞こえる。work at ＋会社 |

@@ -86,3 +86,10 @@
 | 2026-10-25 | （日→英で出てこなかった：鼻水・処方箋・痛み止め・あざ・ねんざする・足首・額・健康診断。体・健康の初回） | runny nose・prescription・painkiller・bruise・sprain・ankle・forehead・checkup | 体・健康は初回で 12/20。bruise は「ブルーズ」、sprain は「スプレイン」（sprain my ankle ＝足首をねんざする、とセットで）。forehead は「フォーヘッド」でも「フォリッド」でも通じる |
 | 2026-10-26 | 手術室（Where do you go if you need an operation? 即答 sa054） | a hospital | Where do you go ＝どこへ行くか、なので建物の名前。operation ＝手術（have an operation ＝手術を受ける）。手術室は operating room |
 | 2026-10-26 | （日→英の振り返り。2 日続けて出てこなかった：鼻水・あざ・ねんざする・足首・額。めまいがするは dizzle と言った） | runny nose・bruise・sprain・ankle・forehead・dizzy | 処方箋・痛み止め・健康診断は 2 日目で言えた。残りはけがの語。dizzy は「ディズィ」で最後は y。I feel dizzy. と文で覚える。sprain my ankle で 2 語セット |
+| 2026-10-27 | rich（What is the opposite of "cheap"? 即答 sa068） | expensive | cheap ＝（物が）安い の反対は expensive（高い）。rich は「（人が）お金持ち」で、反対は poor |
+| 2026-10-27 | （知らなかった。What do you call the front window of a car? 即答 sa069） | the windshield | front glass とは言わない（英国では windscreen）。単語タブ vc061 に入っている |
+| 2026-10-27 | a boy with with gray parka | a boy in a gray hoodie | 服を着ている人は in ＋服。パーカーは hoodie（parka は防寒の上着） |
+| 2026-10-27 | a boy … have a soccer ball next his mother | a boy is holding a soccer ball next to his mother | 主語が a boy なので have ではなく has / is holding。「〜の隣に」は next to |
+| 2026-10-27 | This picture is taking, taken at a grocery store. | This picture was taken at a grocery store. | 写真は「撮られた」ので was taken（受け身の過去）。taken には自分で直せた |
+| 2026-10-27 | looking for a bread | looking for bread | bread は数えない名詞なので a を付けない（a loaf of bread なら 1 斤） |
+| 2026-10-27 | his parents looks at a boy | his parents are looking at him | parents は複数なので are。2 回目に出てくる男の子は him で受ける |

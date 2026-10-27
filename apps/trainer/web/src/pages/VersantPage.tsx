@@ -5,7 +5,7 @@ import { useDailyRange } from "../hooks/useDailyRange";
 import { useDrillAudio } from "../hooks/useDrillAudio";
 import { useHotkeys } from "../hooks/useHotkeys";
 import { useToast } from "../hooks/useToast";
-import { errMsg } from "../lib/util";
+import { errMsg, hashParam } from "../lib/util";
 import type { DrillData, DrillItem, VersantMode as Mode } from "../types";
 
 const MODES: { key: Mode; label: string; hint: string }[] = [
@@ -42,6 +42,8 @@ export function VersantPage() {
   const [marks, setMarks] = useState<Record<string, boolean>>({});
   const [cur, setCur] = useState(0);
   const rows = useRef<(HTMLDivElement | null)[]>([]);
+  // URL で指定された範囲を当てたモード・レベル。一度だけ当て、そのあとは「次の範囲へ」で進めた位置を使う
+  const jumped = useRef<Set<string>>(new Set());
   const { playing, play, stop } = useDrillAudio();
 
   useEffect(() => {
@@ -68,14 +70,22 @@ export function VersantPage() {
   const items = (d?.items ?? []).filter((it) => mode !== "repeats" || level === "all" || String(it.level) === level);
   const info = MODES.find((m) => m.key === mode)!;
   // 範囲はモード・レベルごとに覚えておく（レベルで絞ると番号が変わるため）
-  const range = useDailyRange("trainer:versant:start", `${mode}:${mode === "repeats" ? level : "all"}`, DAILY[mode], items.length);
-  const { start, inRange } = range;
+  const rangeKey = `${mode}:${mode === "repeats" ? level : "all"}`;
+  const range = useDailyRange("trainer:versant:start", rangeKey, DAILY[mode], items.length);
+  const { inRange } = range;
 
-  // 開いたときは今日の範囲の先頭を選ぶ
+  // 開いたときは今日の範囲の先頭を選ぶ。URL に先頭の ID（#versant?repeats=rp141）があれば、そこを先頭にする
   useEffect(() => {
     if (!items.length) return;
-    setCur(start);
-    rows.current[start]?.scrollIntoView({ block: "nearest" });
+    let first = range.start;
+    const i = items.findIndex((it) => it.id === hashParam(mode));
+    if (i >= 0 && !jumped.current.has(rangeKey)) {
+      jumped.current.add(rangeKey);
+      range.jump(i);
+      first = i;
+    }
+    setCur(first);
+    rows.current[first]?.scrollIntoView({ block: "nearest" });
   }, [mode, level, items.length]);
 
   function change(next: { mode?: Mode; level?: string }) {

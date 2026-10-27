@@ -1,0 +1,768 @@
+{
+  "id": "20261027-222229",
+  "skill": "speaking",
+  "created": "2026-10-27 22:22",
+  "title": "a group of people stand outside a market",
+  "result": {
+    "score": 52,
+    "details": {
+      "description": 52,
+      "recordings": 4,
+      "pronunciation": 68,
+      "fluency": 73,
+      "intonation": 71,
+      "completeness": 92,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 72
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1651346847408-7cacef04df98?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MTV8fGZhcm1lcnMlMjBtYXJrZXQlMjB2ZW5kb3J8ZW58MXwwfHx8MTc5MTA0MzM3N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Sean Nufer",
+      "profile": "https://unsplash.com/@metalpsychologist?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/a-group-of-people-stand-outside-a-market--K3DfFBCyRg?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "a group of people stand outside a market"
+    }
+  },
+  "attempts": [
+    {
+      "time": "22:24:10",
+      "text": "There are a lot of tents on the road. In the foreground, a boy with with gray parka have a soccer ball next his mother.",
+      "score": 52
+    }
+  ],
+  "correction": {
+    "corrected": "There are a lot of tents on the road. In the foreground, a boy in a gray hoodie is holding a soccer ball next to his mother.",
+    "corrections": [
+      {
+        "before": "with with gray parka",
+        "after": "in a gray hoodie",
+        "reason_ja": "衣服を着ている状態は前置詞 in を用いるのが自然です。また日本語の「パーカー」は英語では hoodie と表現します。"
+      },
+      {
+        "before": "have a soccer ball",
+        "after": "is holding a soccer ball",
+        "reason_ja": "主語 a boy に合わせて三人称単数にする必要があります。また、手にボールを持っている状態は is holding を使うと生き生きと描写できます。"
+      },
+      {
+        "before": "next his mother",
+        "after": "next to his mother",
+        "reason_ja": "「〜の隣に」と表すには next ではなく next to が必要です。"
+      }
+    ],
+    "ideal": "This picture was taken at a street market on a sunny day. Many tents are set up along both sides of the road. In the foreground, a woman and a child are walking away from the camera. The child is holding a ball. On the left, a person is pushing a bicycle and waving. Some people are sitting in folding chairs next to the tents. In the background, there are buildings and green trees.",
+    "key_expressions": [
+      {
+        "en": "street market",
+        "ja": "路上市場、青空市場"
+      },
+      {
+        "en": "be set up along",
+        "ja": "〜に沿って設置されている"
+      },
+      {
+        "en": "walk away from the camera",
+        "ja": "カメラ（撮影者）に背を向けて歩く"
+      },
+      {
+        "en": "push a bicycle",
+        "ja": "自転車を押して歩く"
+      },
+      {
+        "en": "folding chair",
+        "ja": "折りたたみ椅子"
+      }
+    ],
+    "feedback_ja": "テントが並ぶ通りや、手前の男の子と母親の特徴を的確に捉えようとした姿勢は素晴らしいです。今回は言葉を探すための長い沈黙（ポーズ）が多く、自転車を押す男性や周囲の人々まで描写を広げられませんでした。「全体・場所 → 最も目立つ人物 → 周囲や背景」という展開パターンを意識し、簡単な単語でも止まらずにテンポよく発話する練習を優先しましょう。",
+    "score": 52,
+    "original": "There are a lot of tents on the road. In the foreground, a boy with with gray parka have a soccer ball next his mother.",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_07a13892299f.mp3",
+    "text": "This picture was taken at a street market on a sunny day. Many tents are set up along both sides of the road. In the foreground, a woman and a child are walking away from the camera. The child is holding a ball. On the left, a person is pushing a bicycle and waving. Some people are sitting in folding chairs next to the tents. In the background, there are buildings and green trees.",
+    "voice_id": "y1adqrqs4jNaANXsIZnD",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This picture was taken at a street market on a sunny day.",
+        "start": 0.0,
+        "end": 3.92
+      },
+      {
+        "text": "Many tents are set up along both sides of the road.",
+        "start": 4.0,
+        "end": 7.36
+      },
+      {
+        "text": "In the foreground, a woman and a child are walking away from the camera.",
+        "start": 7.44,
+        "end": 12.08
+      },
+      {
+        "text": "The child is holding a ball.",
+        "start": 12.16,
+        "end": 14.24
+      },
+      {
+        "text": "On the left, a person is pushing a bicycle and waving.",
+        "start": 14.32,
+        "end": 18.28
+      },
+      {
+        "text": "Some people are sitting in folding chairs next to the tents.",
+        "start": 18.32,
+        "end": 21.84
+      },
+      {
+        "text": "In the background, there are buildings and green trees.",
+        "start": 21.92,
+        "end": 25.52
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.24,
+        "e": 0.594,
+        "i": 0
+      },
+      {
+        "t": "was",
+        "s": 0.64,
+        "e": 0.96,
+        "i": 0
+      },
+      {
+        "t": "taken",
+        "s": 1.12,
+        "e": 1.28,
+        "i": 0
+      },
+      {
+        "t": "at",
+        "s": 1.32,
+        "e": 1.36,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.44,
+        "e": 1.52,
+        "i": 0
+      },
+      {
+        "t": "street",
+        "s": 1.68,
+        "e": 1.84,
+        "i": 0
+      },
+      {
+        "t": "market",
+        "s": 1.92,
+        "e": 2.32,
+        "i": 0
+      },
+      {
+        "t": "on",
+        "s": 2.4,
+        "e": 2.48,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 2.56,
+        "e": 2.64,
+        "i": 0
+      },
+      {
+        "t": "sunny",
+        "s": 2.72,
+        "e": 2.96,
+        "i": 0
+      },
+      {
+        "t": "day.",
+        "s": 3.04,
+        "e": 3.92,
+        "i": 0
+      },
+      {
+        "t": "Many",
+        "s": 4.0,
+        "e": 4.16,
+        "i": 1
+      },
+      {
+        "t": "tents",
+        "s": 4.32,
+        "e": 4.72,
+        "i": 1
+      },
+      {
+        "t": "are",
+        "s": 4.8,
+        "e": 4.88,
+        "i": 1
+      },
+      {
+        "t": "set",
+        "s": 4.96,
+        "e": 5.04,
+        "i": 1
+      },
+      {
+        "t": "up",
+        "s": 5.12,
+        "e": 5.2,
+        "i": 1
+      },
+      {
+        "t": "along",
+        "s": 5.28,
+        "e": 5.6,
+        "i": 1
+      },
+      {
+        "t": "both",
+        "s": 5.68,
+        "e": 5.92,
+        "i": 1
+      },
+      {
+        "t": "sides",
+        "s": 5.96,
+        "e": 6.24,
+        "i": 1
+      },
+      {
+        "t": "of",
+        "s": 6.28,
+        "e": 6.32,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 6.4,
+        "e": 6.48,
+        "i": 1
+      },
+      {
+        "t": "road.",
+        "s": 6.68,
+        "e": 7.36,
+        "i": 1
+      },
+      {
+        "t": "In",
+        "s": 7.44,
+        "e": 7.52,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 7.6,
+        "e": 7.68,
+        "i": 2
+      },
+      {
+        "t": "foreground,",
+        "s": 8.0,
+        "e": 8.56,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 8.64,
+        "e": 8.72,
+        "i": 2
+      },
+      {
+        "t": "woman",
+        "s": 8.8,
+        "e": 9.12,
+        "i": 2
+      },
+      {
+        "t": "and",
+        "s": 9.16,
+        "e": 9.2,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 9.28,
+        "e": 9.44,
+        "i": 2
+      },
+      {
+        "t": "child",
+        "s": 9.68,
+        "e": 9.92,
+        "i": 2
+      },
+      {
+        "t": "are",
+        "s": 10.0,
+        "e": 10.08,
+        "i": 2
+      },
+      {
+        "t": "walking",
+        "s": 10.16,
+        "e": 10.48,
+        "i": 2
+      },
+      {
+        "t": "away",
+        "s": 10.64,
+        "e": 10.8,
+        "i": 2
+      },
+      {
+        "t": "from",
+        "s": 10.88,
+        "e": 11.04,
+        "i": 2
+      },
+      {
+        "t": "the",
+        "s": 11.08,
+        "e": 11.12,
+        "i": 2
+      },
+      {
+        "t": "camera.",
+        "s": 11.2,
+        "e": 12.08,
+        "i": 2
+      },
+      {
+        "t": "The",
+        "s": 12.16,
+        "e": 12.24,
+        "i": 3
+      },
+      {
+        "t": "child",
+        "s": 12.44,
+        "e": 12.64,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 12.72,
+        "e": 12.8,
+        "i": 3
+      },
+      {
+        "t": "holding",
+        "s": 12.88,
+        "e": 13.12,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 13.2,
+        "e": 13.28,
+        "i": 3
+      },
+      {
+        "t": "ball.",
+        "s": 13.48,
+        "e": 14.24,
+        "i": 3
+      },
+      {
+        "t": "On",
+        "s": 14.32,
+        "e": 14.4,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 14.44,
+        "e": 14.48,
+        "i": 4
+      },
+      {
+        "t": "left,",
+        "s": 14.56,
+        "e": 15.2,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 15.28,
+        "e": 15.36,
+        "i": 4
+      },
+      {
+        "t": "person",
+        "s": 15.52,
+        "e": 15.68,
+        "i": 4
+      },
+      {
+        "t": "is",
+        "s": 15.76,
+        "e": 15.92,
+        "i": 4
+      },
+      {
+        "t": "pushing",
+        "s": 16.0,
+        "e": 16.16,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 16.24,
+        "e": 16.4,
+        "i": 4
+      },
+      {
+        "t": "bicycle",
+        "s": 16.613,
+        "e": 17.04,
+        "i": 4
+      },
+      {
+        "t": "and",
+        "s": 17.16,
+        "e": 17.28,
+        "i": 4
+      },
+      {
+        "t": "waving.",
+        "s": 17.6,
+        "e": 18.28,
+        "i": 4
+      },
+      {
+        "t": "Some",
+        "s": 18.32,
+        "e": 18.48,
+        "i": 5
+      },
+      {
+        "t": "people",
+        "s": 18.56,
+        "e": 18.8,
+        "i": 5
+      },
+      {
+        "t": "are",
+        "s": 18.88,
+        "e": 19.04,
+        "i": 5
+      },
+      {
+        "t": "sitting",
+        "s": 19.12,
+        "e": 19.28,
+        "i": 5
+      },
+      {
+        "t": "in",
+        "s": 19.4,
+        "e": 19.52,
+        "i": 5
+      },
+      {
+        "t": "folding",
+        "s": 19.653,
+        "e": 19.92,
+        "i": 5
+      },
+      {
+        "t": "chairs",
+        "s": 20.0,
+        "e": 20.4,
+        "i": 5
+      },
+      {
+        "t": "next",
+        "s": 20.52,
+        "e": 20.64,
+        "i": 5
+      },
+      {
+        "t": "to",
+        "s": 20.68,
+        "e": 20.72,
+        "i": 5
+      },
+      {
+        "t": "the",
+        "s": 20.8,
+        "e": 20.88,
+        "i": 5
+      },
+      {
+        "t": "tents.",
+        "s": 20.96,
+        "e": 21.84,
+        "i": 5
+      },
+      {
+        "t": "In",
+        "s": 21.92,
+        "e": 22.0,
+        "i": 6
+      },
+      {
+        "t": "the",
+        "s": 22.08,
+        "e": 22.16,
+        "i": 6
+      },
+      {
+        "t": "background,",
+        "s": 22.48,
+        "e": 23.04,
+        "i": 6
+      },
+      {
+        "t": "there",
+        "s": 23.08,
+        "e": 23.12,
+        "i": 6
+      },
+      {
+        "t": "are",
+        "s": 23.2,
+        "e": 23.36,
+        "i": 6
+      },
+      {
+        "t": "buildings",
+        "s": 23.48,
+        "e": 24.0,
+        "i": 6
+      },
+      {
+        "t": "and",
+        "s": 24.12,
+        "e": 24.24,
+        "i": 6
+      },
+      {
+        "t": "green",
+        "s": 24.4,
+        "e": 24.56,
+        "i": 6
+      },
+      {
+        "t": "trees.",
+        "s": 24.64,
+        "e": 25.52,
+        "i": 6
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "6",
+      "mode": "overlap",
+      "reference": "In the background, there are buildings and green trees.",
+      "time": "22:27:04",
+      "evaluation": null
+    },
+    {
+      "n": 2,
+      "file": "rec_002.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken at a street market on a sunny day. Many tents are set up along both sides of the road. In the foreground, a woman and a child are walking away from the camera. The child is holding a ball. On the left, a person is pushing a bicycle and waving. Some people are sitting in folding chairs next to the tents. In the background, there are buildings and green trees.",
+      "time": "22:27:36",
+      "evaluation": {
+        "heard": "This picture was taken at a street market in a sunny day. Many tents are set up along both sides of the road. In the foreground, a woman and a child are walking away from the camera. The child is holding a ball. On the left, a person pushing is bicycle and waving. Some people are sitting in folding chairs next to the tents. In the background, there are buildings and green trees.",
+        "overall": 70,
+        "pronunciation": 68,
+        "fluency": 70,
+        "intonation": 68,
+        "completeness": 95,
+        "word_issues": [
+          {
+            "word": "taken",
+            "problem_ja": "taking（テイキング）のように語尾が /ŋ/ に聞こえました。",
+            "tip_ja": "語尾は /n/ です。舌先を上の前歯の裏（歯茎）にピタッと密着させて、鼻へ息を抜く「ン」の音で確実に止めましょう。"
+          },
+          {
+            "word": "on a",
+            "problem_ja": "\"in a\" と発音されていました。",
+            "tip_ja": "晴れた日には \"on a sunny day\" を使います。口を縦に開いて /ɑːn/ と発音し、そのまま滑らかに \"a\" と繋げて「アナ」とリンキングさせましょう。"
+          },
+          {
+            "word": "both",
+            "problem_ja": "語尾の th /θ/ が /s/（ス）になり、\"bos\" のように聞こえました。",
+            "tip_ja": "舌先を上下の前歯で軽く挟み、その隙間から息をスーッと抜くように無声音を出します。唇を閉じたり歯の裏に引っ込めすぎないようにしましょう。"
+          },
+          {
+            "word": "ball",
+            "problem_ja": "語尾の dark L が落ちてカタカナの「ボー」のようになっています。",
+            "tip_ja": "舌の奥を少し持ち上げつつ喉の奥を狭め、舌先を歯茎へ近づけてこもったような「ォl」の音を残します。"
+          },
+          {
+            "word": "is pushing a bicycle",
+            "problem_ja": "\"person pushing is bicycle\" と語順が崩れて言い直しのようになり、リズムが乱れました。",
+            "tip_ja": "「a person is pushing」「a bicycle」というチャンク（意味の区切り）を意識し、is を弱く軽く添えて動詞-ingへと一気に繋げましょう。"
+          },
+          {
+            "word": "folding",
+            "problem_ja": "/l/ と /d/ が曖昧になり、「フォーリング」のように聞こえました。",
+            "tip_ja": "fold の部分は舌先を歯茎にしっかり押し当てて /l/ と /d/ を作ってから -ing に移行します。一瞬の「ル・ド」の舌の接触を意識してください。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに置いていかれず、最後までしっかり吹き込み切れています。",
+          "文末でしっかりトーンを落とす文イントネーションの基本ができています。"
+        ],
+        "improvements_ja": [
+          "急ぎすぎによる構文崩れを防ぐため、主語＋be動詞＋-ing のカタマリを一定リズムで発声する練習をする。",
+          "taken (n) と taking (ng) など、語尾の鼻音の区別を正確に行う。",
+          "th や dark L（ball, folding）など、日本語にない子音の舌のポジションを定着させる。"
+        ],
+        "summary_ja": "モデル音声のテンポによく食らいついて最後まで発話しきれており、シャドーイングの意欲の高さが伝わります。一方で、速度についていこうとするあまり構文が一部乱れたり、語尾の子音（takenがtakingになる等）の崩れが見られました。まずは一度テキストを落ち着いたテンポで音読し、発音とリンキングを定着させてからスピードを合わせる練習が効果的です。"
+      }
+    },
+    {
+      "n": 3,
+      "file": "rec_003.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken at a street market on a sunny day. Many tents are set up along both sides of the road. In the foreground, a woman and a child are walking away from the camera. The child is holding a ball. On the left, a person is pushing a bicycle and waving. Some people are sitting in folding chairs next to the tents. In the background, there are buildings and green trees.",
+      "time": "22:29:42",
+      "evaluation": null
+    },
+    {
+      "n": 4,
+      "file": "rec_004.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This picture was taken at a street market on a sunny day. Many tents are set up along both sides of the road. In the foreground, a woman and a child are walking away from the camera. The child is holding a ball. On the left, a person is pushing a bicycle and waving. Some people are sitting in folding chairs next to the tents. In the background, there are buildings and green trees.",
+      "time": "22:30:19",
+      "evaluation": {
+        "heard": "This picture was taken at a street market on a sunny day. Many tents are set up along both sides of the road. In the foreground, a woman and a child are walking away from the camera. The child is hold... is holding a ball. On the left, the person is pushing bicycle and waving. Some people are sitting in folding chairs next to the tents. In the background, there are buildings and green trees.",
+        "overall": 72,
+        "pronunciation": 68,
+        "fluency": 73,
+        "intonation": 71,
+        "completeness": 92,
+        "word_issues": [
+          {
+            "word": "both",
+            "problem_ja": "語尾の th /θ/ が s の音（「ボース」）になっていました。",
+            "tip_ja": "舌先を上の前歯と下の前歯の間に軽く挟むか裏側に当てて、隙間から息だけを「スー」と抜きます。上下の歯を閉じてしまわないように注意しましょう。"
+          },
+          {
+            "word": "waving",
+            "problem_ja": "v の音が b（「ウェイビング」が「ウェイビング/ウェイビングのb濁音」）寄りになっていました。",
+            "tip_ja": "上の前歯で下唇の内側を軽く押さえ、その隙間から「ヴー」と摩擦音を響かせながら発音します。両唇を完全に閉じて弾かないようにしましょう。"
+          },
+          {
+            "word": "foreground",
+            "problem_ja": "fore- の R の響きが抜け、ground の子音連結も崩れて「フラグランド」のように聞こえました。",
+            "tip_ja": "fore /fɔːr/ でしっかり唇を丸めて舌を後ろに引き、Rの音を作ってから ground /ɡraʊnd/ へ滑らかに繋げましょう。"
+          },
+          {
+            "word": "person",
+            "problem_ja": "er の母音 /ɜːr/ が平坦な「パー」になっており、Rの響きがありませんでした。",
+            "tip_ja": "舌の両サイドを上の奥歯につけ、舌全体を中央に引いてこもらせるように「アー」と発音します。カタカナの「パー」にならないよう意識しましょう。"
+          },
+          {
+            "word": "picture",
+            "problem_ja": "語尾の -ture /tʃər/ が伸びてカタカナの「ピクチャー」になっていました。",
+            "tip_ja": "語尾は伸ばさず、短く舌を引いて弱母音＋Rの「チャッ(r)」でコンパクトに収めましょう。"
+          },
+          {
+            "word": "the / of the",
+            "problem_ja": "the の有声 th /ð/ が z の音（「ザ」）になっていました。",
+            "tip_ja": "舌先を前歯で軽く挟み、振動させて「ズ」ではなく「濁ったス（舌を挟んだ状態）」を鳴らす感覚で出します。"
+          }
+        ],
+        "good_points_ja": [
+          "モデルの速度にほぼ遅れず、最後まで全体の文章を言い切るスピード感と集中力があります。",
+          "walking away や set up などのリエゾン（音の繋がり）を意識して滑らかに言おうとする姿勢が見られます。"
+        ],
+        "improvements_ja": [
+          "th音（both, the）を s/z で代用する癖を修正し、前歯で舌先を挟む動作を徹底しましょう。",
+          "R音（foreground, person, picture）で平坦な日本語の母音にならず、舌を引いてRのこもり音を作る練習をしましょう。",
+          "The child is holding... 付近でつっかえがあったので、is holding a ball のような機能語＋内容語のまとまりを淀みなく言えるよう部分練習を繰り返しましょう。"
+        ],
+        "summary_ja": "モデル音声のテンポによく追随しており、脱落せずに最後までしっかり言い切る高い流暢性の土台ができています。一方で、th音（s/z化）やv音（b化）、R母音の抜けなど典型的な日本語訛りの子音・母音の課題が目立ちます。口の構えを定着させてクリアな発音を目指しましょう。"
+      }
+    }
+  ],
+  "test": {
+    "stock_id": "sp016",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This picture was taken at a street market on a sunny day. Many tents are set up along both sides of the road. In the foreground, a woman and a child are walking away from the camera. The child is holding a ball. On the left, a person is pushing a bicycle and waving. Some people are sitting in folding chairs next to the tents. In the background, there are buildings and green trees.",
+    "answer": "There are a lot of tents on the road. In the foreground, a boy with with gray parka have a soccer ball next his mother.",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 52,
+      "content": 48,
+      "grammar": 52,
+      "vocabulary": 50,
+      "delivery": 45,
+      "corrected": "There are a lot of tents on the road. In the foreground, a boy in a gray hoodie is holding a soccer ball next to his mother.",
+      "corrections": [
+        {
+          "before": "with with gray parka",
+          "after": "in a gray hoodie",
+          "reason_ja": "衣服を着ている状態は前置詞 in を用いるのが自然です。また日本語の「パーカー」は英語では hoodie と表現します。"
+        },
+        {
+          "before": "have a soccer ball",
+          "after": "is holding a soccer ball",
+          "reason_ja": "主語 a boy に合わせて三人称単数にする必要があります。また、手にボールを持っている状態は is holding を使うと生き生きと描写できます。"
+        },
+        {
+          "before": "next his mother",
+          "after": "next to his mother",
+          "reason_ja": "「〜の隣に」と表すには next ではなく next to が必要です。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "street market",
+          "ja": "路上市場、青空市場"
+        },
+        {
+          "en": "be set up along",
+          "ja": "〜に沿って設置されている"
+        },
+        {
+          "en": "walk away from the camera",
+          "ja": "カメラ（撮影者）に背を向けて歩く"
+        },
+        {
+          "en": "push a bicycle",
+          "ja": "自転車を押して歩く"
+        },
+        {
+          "en": "folding chair",
+          "ja": "折りたたみ椅子"
+        }
+      ],
+      "feedback_ja": "テントが並ぶ通りや、手前の男の子と母親の特徴を的確に捉えようとした姿勢は素晴らしいです。今回は言葉を探すための長い沈黙（ポーズ）が多く、自転車を押す男性や周囲の人々まで描写を広げられませんでした。「全体・場所 → 最も目立つ人物 → 周囲や背景」という展開パターンを意識し、簡単な単語でも止まらずにテンポよく発話する練習を優先しましょう。"
+    }
+  }
+}

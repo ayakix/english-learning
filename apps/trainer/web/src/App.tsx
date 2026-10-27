@@ -33,7 +33,8 @@ const TABS: { key: string; label: string; page: ReactNode }[] = [
 
 // タブは URL のハッシュ（#listening など）で持ち、リロードやリンクで同じタブを開けるようにする
 const tabFromHash = () => {
-  const h = location.hash.slice(1);
+  // ?より後ろはタブの中で使う値なので、タブの判定からは外す
+  const h = location.hash.slice(1).split("?")[0];
   return TABS.some((t) => t.key === h) ? h : "speaking";
 };
 

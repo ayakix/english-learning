@@ -1,0 +1,76 @@
+{
+  "id": "20261027-221609",
+  "skill": "versant",
+  "created": "2026-10-27 22:16",
+  "title": "即答",
+  "result": {
+    "score": 87,
+    "details": {
+      "ok": 13,
+      "total": 15
+    }
+  },
+  "mode": "short-answers",
+  "marks": {
+    "sa056": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa057": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa058": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa059": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa060": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa061": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa062": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa063": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa064": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa065": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa066": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa067": {
+      "ok": true,
+      "kind": "short-answers"
+    },
+    "sa068": {
+      "ok": false,
+      "kind": "short-answers"
+    },
+    "sa069": {
+      "ok": false,
+      "kind": "short-answers"
+    },
+    "sa070": {
+      "ok": true,
+      "kind": "short-answers"
+    }
+  }
+}

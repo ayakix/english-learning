@@ -1,0 +1,810 @@
+{
+  "id": "20261027-223154",
+  "skill": "speaking",
+  "created": "2026-10-27 22:31",
+  "title": "Family is shopping at a grocery store",
+  "result": {
+    "score": 58,
+    "details": {
+      "description": 58,
+      "recordings": 5,
+      "pronunciation": 68,
+      "fluency": 73,
+      "intonation": 70,
+      "completeness": 100,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 72
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1753354868431-a5317771a3ea?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8Nnx8c3VwZXJtYXJrZXQlMjBzaG9wcGluZyUyMHBlb3BsZXxlbnwxfDB8fHwxNzkxMDQzMzgwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Vitaly Gariev",
+      "profile": "https://unsplash.com/@silverkblack?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/family-is-shopping-at-a-grocery-store-lPma27584mA?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "Family is shopping at a grocery store"
+    }
+  },
+  "attempts": [
+    {
+      "time": "22:33:37",
+      "text": "This picture is taking, taken at a grocery store. A boy is looking for a bread, and his parents looks at a boy. The man is pushing the cart.",
+      "score": 58
+    }
+  ],
+  "correction": {
+    "corrected": "This picture was taken at a grocery store. A boy is looking for bread, and his parents are looking at him. The woman is pushing the cart.",
+    "corrections": [
+      {
+        "before": "is taking, taken",
+        "after": "was taken",
+        "reason_ja": "写真が「撮影された」という受動態（過去）にするため was taken が適切です。"
+      },
+      {
+        "before": "a bread",
+        "after": "bread",
+        "reason_ja": "bread は不可算名詞（数えられない名詞）のため、冠詞 a は付けません。"
+      },
+      {
+        "before": "his parents looks at a boy",
+        "after": "his parents are looking at him",
+        "reason_ja": "主語 parents が複数形のため動詞は looks ではなく are looking（現在進行形）にし、既出の男の子は代名詞 him で受けます。"
+      },
+      {
+        "before": "The man is pushing the cart.",
+        "after": "The woman is pushing the cart.",
+        "reason_ja": "写真の中でカートを押しているのは男性ではなく女性です。"
+      }
+    ],
+    "ideal": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+    "key_expressions": [
+      {
+        "en": "clear plastic container",
+        "ja": "透明なプラスチック容器"
+      },
+      {
+        "en": "in a denim jacket",
+        "ja": "デニムジャケットを着た"
+      },
+      {
+        "en": "pushing a shopping cart",
+        "ja": "ショッピングカートを押している"
+      },
+      {
+        "en": "sold in bulk",
+        "ja": "量り売りされている"
+      }
+    ],
+    "feedback_ja": "スーパーで買い物をする家族の様子をシンプルな文で伝えることができています。カートに手を添えているのが男性ではなく女性である点や、不可算名詞の扱いに注意しましょう。次回は「場所→中心人物（男の子と手伝う父親）の動作→周りの様子」と整理し、父親がケースのフタを開けている動作なども描写できるとさらに点数が伸びます。",
+    "score": 58,
+    "original": "This picture is taking, taken at a grocery store. A boy is looking for a bread, and his parents looks at a boy. The man is pushing the cart.",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_9534e8d5fc46.mp3",
+    "text": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+    "voice_id": "y1adqrqs4jNaANXsIZnD",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This is a picture of a family shopping in a supermarket.",
+        "start": 0.0,
+        "end": 3.56
+      },
+      {
+        "text": "On the left, a young boy is taking some food from a clear plastic container.",
+        "start": 3.84,
+        "end": 8.92
+      },
+      {
+        "text": "A man in a gray sweater is standing behind him and helping him.",
+        "start": 9.2,
+        "end": 12.8
+      },
+      {
+        "text": "Next to them, a woman in a denim jacket is pushing a shopping cart.",
+        "start": 13.36,
+        "end": 17.28
+      },
+      {
+        "text": "They are standing in a section where food is sold in bulk.",
+        "start": 17.76,
+        "end": 21.12
+      },
+      {
+        "text": "The store is bright and clean.",
+        "start": 21.36,
+        "end": 23.76
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.21,
+        "i": 0
+      },
+      {
+        "t": "is",
+        "s": 0.24,
+        "e": 0.36,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 0.4,
+        "e": 0.44,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.48,
+        "e": 0.96,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 1.04,
+        "e": 1.12,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.16,
+        "e": 1.2,
+        "i": 0
+      },
+      {
+        "t": "family",
+        "s": 1.36,
+        "e": 1.76,
+        "i": 0
+      },
+      {
+        "t": "shopping",
+        "s": 1.92,
+        "e": 2.24,
+        "i": 0
+      },
+      {
+        "t": "in",
+        "s": 2.32,
+        "e": 2.4,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 2.453,
+        "e": 2.507,
+        "i": 0
+      },
+      {
+        "t": "supermarket.",
+        "s": 2.56,
+        "e": 3.56,
+        "i": 0
+      },
+      {
+        "t": "On",
+        "s": 3.84,
+        "e": 3.92,
+        "i": 1
+      },
+      {
+        "t": "the",
+        "s": 4.0,
+        "e": 4.08,
+        "i": 1
+      },
+      {
+        "t": "left,",
+        "s": 4.16,
+        "e": 4.8,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 4.84,
+        "e": 4.88,
+        "i": 1
+      },
+      {
+        "t": "young",
+        "s": 4.96,
+        "e": 5.2,
+        "i": 1
+      },
+      {
+        "t": "boy",
+        "s": 5.28,
+        "e": 5.52,
+        "i": 1
+      },
+      {
+        "t": "is",
+        "s": 5.6,
+        "e": 5.76,
+        "i": 1
+      },
+      {
+        "t": "taking",
+        "s": 5.92,
+        "e": 6.08,
+        "i": 1
+      },
+      {
+        "t": "some",
+        "s": 6.16,
+        "e": 6.32,
+        "i": 1
+      },
+      {
+        "t": "food",
+        "s": 6.4,
+        "e": 6.72,
+        "i": 1
+      },
+      {
+        "t": "from",
+        "s": 6.8,
+        "e": 6.96,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 7.04,
+        "e": 7.12,
+        "i": 1
+      },
+      {
+        "t": "clear",
+        "s": 7.28,
+        "e": 7.44,
+        "i": 1
+      },
+      {
+        "t": "plastic",
+        "s": 7.52,
+        "e": 8.0,
+        "i": 1
+      },
+      {
+        "t": "container.",
+        "s": 8.32,
+        "e": 8.92,
+        "i": 1
+      },
+      {
+        "t": "A",
+        "s": 9.2,
+        "e": 9.28,
+        "i": 2
+      },
+      {
+        "t": "man",
+        "s": 9.36,
+        "e": 9.6,
+        "i": 2
+      },
+      {
+        "t": "in",
+        "s": 9.64,
+        "e": 9.68,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 9.76,
+        "e": 9.84,
+        "i": 2
+      },
+      {
+        "t": "gray",
+        "s": 9.96,
+        "e": 10.08,
+        "i": 2
+      },
+      {
+        "t": "sweater",
+        "s": 10.24,
+        "e": 10.64,
+        "i": 2
+      },
+      {
+        "t": "is",
+        "s": 10.72,
+        "e": 10.8,
+        "i": 2
+      },
+      {
+        "t": "standing",
+        "s": 10.88,
+        "e": 11.2,
+        "i": 2
+      },
+      {
+        "t": "behind",
+        "s": 11.28,
+        "e": 11.68,
+        "i": 2
+      },
+      {
+        "t": "him",
+        "s": 11.8,
+        "e": 11.92,
+        "i": 2
+      },
+      {
+        "t": "and",
+        "s": 12.0,
+        "e": 12.08,
+        "i": 2
+      },
+      {
+        "t": "helping",
+        "s": 12.16,
+        "e": 12.48,
+        "i": 2
+      },
+      {
+        "t": "him.",
+        "s": 12.6,
+        "e": 12.8,
+        "i": 2
+      },
+      {
+        "t": "Next",
+        "s": 13.36,
+        "e": 13.6,
+        "i": 3
+      },
+      {
+        "t": "to",
+        "s": 13.64,
+        "e": 13.68,
+        "i": 3
+      },
+      {
+        "t": "them,",
+        "s": 13.76,
+        "e": 14.16,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 14.24,
+        "e": 14.28,
+        "i": 3
+      },
+      {
+        "t": "woman",
+        "s": 14.32,
+        "e": 14.64,
+        "i": 3
+      },
+      {
+        "t": "in",
+        "s": 14.72,
+        "e": 14.8,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 14.84,
+        "e": 14.88,
+        "i": 3
+      },
+      {
+        "t": "denim",
+        "s": 14.96,
+        "e": 15.28,
+        "i": 3
+      },
+      {
+        "t": "jacket",
+        "s": 15.36,
+        "e": 15.76,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 15.84,
+        "e": 15.92,
+        "i": 3
+      },
+      {
+        "t": "pushing",
+        "s": 16.0,
+        "e": 16.32,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 16.36,
+        "e": 16.4,
+        "i": 3
+      },
+      {
+        "t": "shopping",
+        "s": 16.48,
+        "e": 16.8,
+        "i": 3
+      },
+      {
+        "t": "cart.",
+        "s": 16.88,
+        "e": 17.28,
+        "i": 3
+      },
+      {
+        "t": "They",
+        "s": 17.76,
+        "e": 17.84,
+        "i": 4
+      },
+      {
+        "t": "are",
+        "s": 17.92,
+        "e": 18.0,
+        "i": 4
+      },
+      {
+        "t": "standing",
+        "s": 18.2,
+        "e": 18.4,
+        "i": 4
+      },
+      {
+        "t": "in",
+        "s": 18.44,
+        "e": 18.48,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 18.56,
+        "e": 18.64,
+        "i": 4
+      },
+      {
+        "t": "section",
+        "s": 18.84,
+        "e": 19.04,
+        "i": 4
+      },
+      {
+        "t": "where",
+        "s": 19.12,
+        "e": 19.28,
+        "i": 4
+      },
+      {
+        "t": "food",
+        "s": 19.44,
+        "e": 19.76,
+        "i": 4
+      },
+      {
+        "t": "is",
+        "s": 19.84,
+        "e": 19.92,
+        "i": 4
+      },
+      {
+        "t": "sold",
+        "s": 20.0,
+        "e": 20.24,
+        "i": 4
+      },
+      {
+        "t": "in",
+        "s": 20.32,
+        "e": 20.4,
+        "i": 4
+      },
+      {
+        "t": "bulk.",
+        "s": 20.48,
+        "e": 21.12,
+        "i": 4
+      },
+      {
+        "t": "The",
+        "s": 21.36,
+        "e": 21.44,
+        "i": 5
+      },
+      {
+        "t": "store",
+        "s": 21.52,
+        "e": 21.92,
+        "i": 5
+      },
+      {
+        "t": "is",
+        "s": 22.0,
+        "e": 22.16,
+        "i": 5
+      },
+      {
+        "t": "bright",
+        "s": 22.24,
+        "e": 22.64,
+        "i": 5
+      },
+      {
+        "t": "and",
+        "s": 22.8,
+        "e": 22.88,
+        "i": 5
+      },
+      {
+        "t": "clean.",
+        "s": 23.04,
+        "e": 23.76,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+      "time": "22:36:14",
+      "evaluation": {
+        "heard": "This is a picture of a family shopping supermarket. On the left, a young boy is taking some food from the clear plastic container. A man in a gray sweater behind him and helping him. Next to the them, a woman in a denim jacket is pushing the shopping cart. They are ... food is sold in bulk. The store is bright and clean.",
+        "overall": 64,
+        "pronunciation": 63,
+        "fluency": 62,
+        "intonation": 63,
+        "completeness": 68,
+        "word_issues": [
+          {
+            "word": "shopping in a supermarket",
+            "problem_ja": "in a が脱落して shopping supermarket と直結して聞こえました。",
+            "tip_ja": "shopping の -ing と in a が滑らかに shopping-in-a (/ˈʃɑː.pɪŋ.ɪ.nə/) と繋がるリズムを意識しましょう。"
+          },
+          {
+            "word": "plastic",
+            "problem_ja": "語尾の /k/ に母音「ウ」が混ざり、「プラスチック」というカタカナ発音に近くなっています。",
+            "tip_ja": "最後の /k/ は息を喉の奥で一瞬止めて破裂させるだけで、余計な「ク」の母音を出さないようにしてください。"
+          },
+          {
+            "word": "is standing",
+            "problem_ja": "A man in a gray sweater の後の is standing が完全に抜けて聞こえませんでした。",
+            "tip_ja": "sweater is standing は sweater-z-standing と連結します。助動詞 is を弱く添えるように発音しましょう。"
+          },
+          {
+            "word": "denim",
+            "problem_ja": "「ジェニム」または「ジーンズ」のように D の音が摩擦音化して聞こえました。",
+            "tip_ja": "語頭は /d/ です。舌先を上の前歯の付け根に当てて「デ」と弾き、/ˈdɛn.ɪm/ と発音しましょう。"
+          },
+          {
+            "word": "section where food is",
+            "problem_ja": "モデル音声に追いつけず、大幅に言葉が詰まり・脱落してしまいました。",
+            "tip_ja": "section where は意味の塊（チャンク）です。まずは音読で滑らかに言えるまで口を慣らしてから重ねてみましょう。"
+          },
+          {
+            "word": "bulk",
+            "problem_ja": "/l/ が弱く、語尾の /k/ が曖昧になっていました。",
+            "tip_ja": "母音 /ʌ/（短く鋭い「ア」）の後に、舌先を上顎につけたまま音を暗く響かせるダークLを意識し、最後に軽く /k/ で止めます。"
+          },
+          {
+            "word": "clean",
+            "problem_ja": "Lの音が弱く、少し R のような響き（cream/くりーん）に近く聞こえました。",
+            "tip_ja": "cl- の発音時、/k/ を出したら直ちに舌先を上の前歯の裏の歯茎にしっかり密着させてから「リーン」と響かせましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに必死についていこうという集中力があり、最後まで吹き込み切ることができています。",
+          "前半の a picture of や a young boy is taking など、チャンクごとのリズムを保とうとする意識が感じられました。"
+        ],
+        "improvements_ja": [
+          "速度に追いつくための脱落を防ぐ：まずは0.8倍速やスクリプトを見ながらのリピーティングで口の動きを定着させてから等倍に挑みましょう。",
+          "語末の子音に余計な母音を足さない：plastic, food, cart などの末尾で「ク」「ド」「ト」と日本語の母音を響かせず、息を止める意識を持ちましょう。",
+          "LとRの舌位置の徹底：left, clear, clean で舌先が上顎（歯茎）にしっかり当たっているか、発音前のセットを確認しましょう。"
+        ],
+        "summary_ja": "モデル音声のテンポに食らいついて最後まで発話しきった姿勢は素晴らしいです。中盤から後半にかけて追いつくために重要な単語がいくつか脱落してしまったので、まずは無理のないテンポで正確に音を繋げる練習からステップアップしていきましょう。"
+      }
+    },
+    {
+      "n": 2,
+      "file": "rec_002.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+      "time": "22:38:25",
+      "evaluation": {
+        "heard": "This is a picture of family shopping in supermarket. On the left, a young boy is taking some hood from a clear plastic container. A man is gray in gray sweater is standing behind him and helping him. Next to denim jacket is pushing shopping cart. They are standing in section where food is sold in bulk. The store is bright and clean.",
+        "overall": 61,
+        "pronunciation": 58,
+        "fluency": 56,
+        "intonation": 60,
+        "completeness": 72,
+        "word_issues": [
+          {
+            "word": "food",
+            "problem_ja": "「フ」の子音の摩擦が弱く、hood（フード/フッド）のように H 音に近く聞こえました。",
+            "tip_ja": "上の前歯の先端を下唇の内側に軽く触れさせ、その隙間から「スー」と息を強く押し出すように摩擦音を作ってから /uː/ に移行しましょう。"
+          },
+          {
+            "word": "Next to them, a woman in a",
+            "problem_ja": "大幅に脱落し、「Next to... denim jacket」と途中が聞き取れませんでした。",
+            "tip_ja": "スピードに追いつくため、them /ðəm/ や a /ə/ はごく短く弱く発音されます。「ネクストゥðəm・ア・ウーマニンナ」と音の連結・脱落を意識して塊で練習しましょう。"
+          },
+          {
+            "word": "in a gray sweater",
+            "problem_ja": "「is gray in gray sweater」のように言い直しと混同が発生していました。",
+            "tip_ja": "in a は繋げて「インナ」と弱化させ、主役である gray と sweater の第1音節（swea-）にしっかり強勢を置きましょう。"
+          },
+          {
+            "word": "cart",
+            "problem_ja": "語尾の /t/ と R の響きが抜けて「カー」のように平坦に聞こえました。",
+            "tip_ja": "舌を奥に引きながら母音を伸ばして /ɑːr/ を響かせ、最後に舌先を上の歯茎にピタッと押し当てて息を止める /t/ を意識しましょう。"
+          },
+          {
+            "word": "This / The",
+            "problem_ja": "語頭の /ð/ が日本語の「ザ」に近い /z/ になっています。",
+            "tip_ja": "舌先を上下の前歯で軽く挟むか、上の前歯の先端に舌先を軽く当てて隙間から有声の息を出すように意識しましょう。"
+          },
+          {
+            "word": "left",
+            "problem_ja": "語末の /ft/ が曖昧になり、音が途中で消えていました。",
+            "tip_ja": "下唇を噛んで息を出す /f/ の直後に、舌先を歯茎につけて /t/ で音を止めます。母音（オなど）を足さないよう注意しましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに対して遅れすぎず、最後まで粘り強く発話を継続できています。",
+          "冒頭（This is a picture...）と文末（The store is bright and clean.）はリズム良くスムーズに言えています。"
+        ],
+        "improvements_ja": [
+          "food や left など、F音（前歯を下唇に当てる）がH音や曖昧な音にならないよう口形を徹底する。",
+          "詰まりや脱落が起きた中盤の複文（A man in... / Next to them...）を個別にリピート練習し、口の筋肉を慣らす。",
+          "冠詞（a や the）が抜け落ちがちなので、直後の名詞と1つのリズムの波として繋げて発音する。"
+        ],
+        "summary_ja": "途中でつまずきながらも、モデル音声のペースから離れずに最後まで食らいついて発話しきれたガッツが素晴らしいです。中盤の複雑なフレーズで脱落と言い直しが発生したため、まずは速度を落として連結（リエゾン）を確認することをおすすめします。特に food の F 音が H に聞こえてしまう癖は、前歯を下唇に当てる基本口形を意識するだけですぐに改善できます。"
+      }
+    },
+    {
+      "n": 3,
+      "file": "rec_003.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+      "time": "22:39:38",
+      "evaluation": null
+    },
+    {
+      "n": 4,
+      "file": "rec_004.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+      "time": "22:40:01",
+      "evaluation": null
+    },
+    {
+      "n": 5,
+      "file": "rec_005.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+      "time": "22:41:41",
+      "evaluation": {
+        "heard": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+        "overall": 72,
+        "pronunciation": 68,
+        "fluency": 73,
+        "intonation": 70,
+        "completeness": 100,
+        "word_issues": [
+          {
+            "word": "plastic",
+            "problem_ja": "/l/ が弱く、舌が奥に引かれて「プラ (pra)」のように R 寄りに聞こえます。",
+            "tip_ja": "p の破裂の直後、舌先を上の前歯の裏の歯茎にしっかり押し当てて息を両脇から逃がすように /l/ を発音しましょう。"
+          },
+          {
+            "word": "clean",
+            "problem_ja": "/l/ の位置が曖昧で、「クリーン」の L が R のような響きになっています。",
+            "tip_ja": "k の音を出した直後、舌先を上の前歯の付け根にしっかり密着させてから「リーン」と音を出してください。"
+          },
+          {
+            "word": "woman",
+            "problem_ja": "文頭の /w/ の唇のすぼめが弱く、「ウーマン (uman)」と母音だけで始まっています。",
+            "tip_ja": "発音前にタコのように唇をぐっと前に突き出し、「ウ」と「ワ」の中間から勢いよく緩めて /wʊ/ を作りましょう。"
+          },
+          {
+            "word": "gray",
+            "problem_ja": "gray sweater が「great sweater」のように語尾に破裂音 /t/ が混じって聞こえました。",
+            "tip_ja": "gray は母音 /eɪ/ で滑らかに終わる二重母音です。舌先をどこにもつけずに次の sweater へスムーズに繋げましょう。"
+          },
+          {
+            "word": "bulk",
+            "problem_ja": "語尾の dark L（/l/）が脱落し、「バーク (bak)」のように聞こえます。",
+            "tip_ja": "母音 /ʌ/ の後、舌の後ろを持ち上げて喉を狭め、舌先を歯茎につけなくても喉の奥で「ウー」と籠もる音を残してから /k/ を発音します。"
+          },
+          {
+            "word": "behind him",
+            "problem_ja": "behind の語尾が不明瞭になり、behind him 全体が崩れて聞こえました。",
+            "tip_ja": "behind の d と him の h は弱化して「ビハインディム (behind-im)」のように繋げて発音すると滑らかになります。"
+          }
+        ],
+        "good_points_ja": [
+          "最後まで途切れることなく、モデル音声のペースに合わせて全文を言い切ることができています。",
+          "supermarket, shopping, container などの語句が聞き取りやすくクリアに発音できています。"
+        ],
+        "improvements_ja": [
+          "plastic や clean など子音結合（pl-, cl-）における L の舌の密着を意識し、R 化を防ぎましょう。",
+          "woman や where など /w/ の音を出す前に、唇をしっかり前に突き出すウォーミングアップを行いましょう。",
+          "単語を1つずつ区切る傾向があるため、behind him などの連結（リンキング）や機能語の脱力を意識して英語らしいリズムを作りましょう。"
+        ],
+        "summary_ja": "全文を脱落なく最後まで言い切れており、オーバーラッピングの基礎的なペース維持がしっかりできています。一方で、pl や cl などの /l/ 音が R 寄りになったり、/w/ の唇の動きが弱かったりと、子音の正確さに改善の余地があります。連結や強弱のリズム感を加えると、より自然なアメリカ英語に近づきます。"
+      }
+    }
+  ],
+  "test": {
+    "stock_id": "sp044",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This is a picture of a family shopping in a supermarket. On the left, a young boy is taking some food from a clear plastic container. A man in a gray sweater is standing behind him and helping him. Next to them, a woman in a denim jacket is pushing a shopping cart. They are standing in a section where food is sold in bulk. The store is bright and clean.",
+    "answer": "This picture is taking, taken at a grocery store. A boy is looking for a bread, and his parents looks at a boy. The man is pushing the cart.",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 58,
+      "content": 55,
+      "grammar": 55,
+      "vocabulary": 60,
+      "delivery": 60,
+      "corrected": "This picture was taken at a grocery store. A boy is looking for bread, and his parents are looking at him. The woman is pushing the cart.",
+      "corrections": [
+        {
+          "before": "is taking, taken",
+          "after": "was taken",
+          "reason_ja": "写真が「撮影された」という受動態（過去）にするため was taken が適切です。"
+        },
+        {
+          "before": "a bread",
+          "after": "bread",
+          "reason_ja": "bread は不可算名詞（数えられない名詞）のため、冠詞 a は付けません。"
+        },
+        {
+          "before": "his parents looks at a boy",
+          "after": "his parents are looking at him",
+          "reason_ja": "主語 parents が複数形のため動詞は looks ではなく are looking（現在進行形）にし、既出の男の子は代名詞 him で受けます。"
+        },
+        {
+          "before": "The man is pushing the cart.",
+          "after": "The woman is pushing the cart.",
+          "reason_ja": "写真の中でカートを押しているのは男性ではなく女性です。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "clear plastic container",
+          "ja": "透明なプラスチック容器"
+        },
+        {
+          "en": "in a denim jacket",
+          "ja": "デニムジャケットを着た"
+        },
+        {
+          "en": "pushing a shopping cart",
+          "ja": "ショッピングカートを押している"
+        },
+        {
+          "en": "sold in bulk",
+          "ja": "量り売りされている"
+        }
+      ],
+      "feedback_ja": "スーパーで買い物をする家族の様子をシンプルな文で伝えることができています。カートに手を添えているのが男性ではなく女性である点や、不可算名詞の扱いに注意しましょう。次回は「場所→中心人物（男の子と手伝う父親）の動作→周りの様子」と整理し、父親がケースのフタを開けている動作なども描写できるとさらに点数が伸びます。"
+    }
+  }
+}
