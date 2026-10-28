@@ -166,3 +166,15 @@
 | 2026-10-27 | The restaurant was so popular **that** we had to wait outside.（rp155・レベル 3） | that → so | so 〜 that ... ＝とても〜なので…。that は弱く「ダッ」。2 つ目の so で言い換えた |
 | 2026-10-27 | The museum is closed on Mondays, so **let's go** on Tuesday.（rp158・レベル 3） | let's go → let me | let's go は「レッツゴウ」で s が短い。let me（〜させて）では後ろの on Tuesday とつながらない |
 | 2026-10-27 | She's been working **at** the same company for fifteen years.（rp159・レベル 3） | at が抜けた | working‿at‿the は「ワーキンガッダ」と 1 語になり、at が消えて聞こえる。work at ＋会社 |
+| 2026-10-28 | You can't park here **between** eight in the morning and six.（rp164・レベル 3） | between が抜けた | between A and B ＝A から B の間。後ろの and six を聞いたら between を思い出す手がかりになる |
+| 2026-10-28 | Most of the people **at the meeting agreed with** the plan.（rp167・レベル 3） | at the meeting agreed with が聞き取れなかった | 主語が長い（Most of the people at the meeting）。at‿the は「アッダ」、agreed‿with は「アグリードウィズ」とつながる。主語の塊 → 動詞 agreed の順で切る |
+| 2026-10-28 | They built a new bridge **across** the river last year.（rp172・レベル 3） | across → acrossing | across は前置詞（〜を渡って）なので ing は付かない。動詞なら cross（crossing） |
+| 2026-10-28 | I need to finish this report **before** the end of the day.（rp173・レベル 3） | before → at | at the end of the day（一日の終わりに）と意味で混ぜた。finish 〜 before ＝〜までに終える |
+| 2026-10-28 | The waiter brought us **the** wrong dishes, but they were delicious.（rp174・レベル 3） | the が抜けた | us‿the は「アスダ」で the が短い。the wrong 〜 ＝（決まった正しいものに対して）間違った〜で、the が付く |
+| 2026-10-28 | Children under six can ride **the** bus for free.（rp175・レベル 3） | the → a | 意味の近い語への置き換え（10/27 の rp149 と同じ the→a）。ride the bus ＝バスに乗る（交通手段として）は the |
+| 2026-10-28 | He forgot his password **and** couldn't log into his account.（rp176・レベル 3） | and → so | 意味（だから）で言い直した。原文は and でつないでいる |
+| 2026-10-28 | I've heard that the new science museum is **really** interesting.（rp179・レベル 3） | really が抜けた | is‿really は「イズリリー」で短い。強調の語は抜いても意味が通るので落ちやすい |
+| 2026-10-28 | She asked me to bring something to drink **to the party**.（rp143・振り返り。昨日の to→for に続き 2 回目） | to the party → in the party | 昨日の something to drink は言えた。bring A to B ＝A を B へ持っていく。行き先なので to |
+| 2026-10-28 | My grandfather still goes swimming **in the ocean** every summer.（rp146・振り返り。2 回目） | in the ocean → to the sea | 意味の近い語への置き換え。go swimming in 〜 ＝〜で泳ぐ（場所なので in）。ocean は「オウシャン」 |
+| 2026-10-28 | The restaurant was so popular that we **had to** wait outside.（rp155・振り返り。2 回目） | had to → have to | 昨日の that は言えた。was popular と過去なので had to。had‿to は「ハットゥ」で d が消える |
+| 2026-10-28 | What is the opposite of "**arrive**"?（即答 sa079） | arrive → alive と聞いた | l-r の聞き分け（10/26 の grass → glass と同じ）。arrive は「アライヴ」で r は舌がどこにも付かない、alive は l で舌先が歯茎に付く。反対は leave / depart |

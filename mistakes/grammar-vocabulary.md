@@ -93,3 +93,5 @@
 | 2026-10-27 | This picture is taking, taken at a grocery store. | This picture was taken at a grocery store. | 写真は「撮られた」ので was taken（受け身の過去）。taken には自分で直せた |
 | 2026-10-27 | looking for a bread | looking for bread | bread は数えない名詞なので a を付けない（a loaf of bread なら 1 斤） |
 | 2026-10-27 | his parents looks at a boy | his parents are looking at him | parents は複数なので are。2 回目に出てくる男の子は him で受ける |
+| 2026-10-28 | （知らなかった。What do you call the son of your brother? 即答 sa071） | a nephew | 兄弟姉妹の息子は nephew「ネフュー」、娘は niece「ニース」。単語タブ vc210 に足した |
+| 2026-10-28 | evening を答えにしていいか迷った（What do we call the time when the sun goes down? 即答 sa085） | sunset / evening | どちらも正解。sunset ＝日の入り（その瞬間）、evening ＝夕方（時間帯）。質問が the time なので、一番ぴったりなのは sunset |

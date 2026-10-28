@@ -3709,6 +3709,25 @@
     "name": "Sarah",
     "id": "EXAVITQu4vr4xnSDxMaL"
    }
+  },
+  {
+   "id": "vc210",
+   "theme": "family",
+   "en": "nephew",
+   "ja": "甥（おい）",
+   "example": "My nephew just started elementary school.",
+   "note": "「ネフュー」。兄弟姉妹の息子。娘（姪）は niece「ニース」",
+   "from": "sa071",
+   "audio": {
+    "main": {
+     "text": "nephew",
+     "file": "model_ab739b81e87b.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
   }
  ]
 }
