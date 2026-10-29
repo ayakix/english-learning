@@ -95,3 +95,6 @@
 | 2026-10-27 | his parents looks at a boy | his parents are looking at him | parents は複数なので are。2 回目に出てくる男の子は him で受ける |
 | 2026-10-28 | （知らなかった。What do you call the son of your brother? 即答 sa071） | a nephew | 兄弟姉妹の息子は nephew「ネフュー」、娘は niece「ニース」。単語タブ vc210 に足した |
 | 2026-10-28 | evening を答えにしていいか迷った（What do we call the time when the sun goes down? 即答 sa085） | sunset / evening | どちらも正解。sunset ＝日の入り（その瞬間）、evening ＝夕方（時間帯）。質問が the time なので、一番ぴったりなのは sunset |
+| 2026-10-29 | （leap year が分からなかった。How many days are there in a leap year? 即答 sa092） | 366 / three hundred sixty-six | leap year ＝うるう年（leap ＝跳ぶ）。単語タブ vc121 に入っている。数字は three hundred (and) sixty-six |
+| 2026-10-29 | （質問は分かったが単語が出なかった。What do you call a person who cuts men's hair? 即答 sa100） | a barber | 男性の髪を切る人・床屋は barber「バーバー」（店は barbershop）。美容師 hairdresser でも正解。単語タブ vc211 に足した |
+| 2026-10-29 | a white car is parking | a white car is parked | 停まっている状態は is parked（受け身）。is parking は「今まさに駐車している（動作中）」 |

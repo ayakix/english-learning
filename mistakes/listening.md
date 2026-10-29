@@ -178,3 +178,9 @@
 | 2026-10-28 | My grandfather still goes swimming **in the ocean** every summer.（rp146・振り返り。2 回目） | in the ocean → to the sea | 意味の近い語への置き換え。go swimming in 〜 ＝〜で泳ぐ（場所なので in）。ocean は「オウシャン」 |
 | 2026-10-28 | The restaurant was so popular that we **had to** wait outside.（rp155・振り返り。2 回目） | had to → have to | 昨日の that は言えた。was popular と過去なので had to。had‿to は「ハットゥ」で d が消える |
 | 2026-10-28 | What is the opposite of "**arrive**"?（即答 sa079） | arrive → alive と聞いた | l-r の聞き分け（10/26 の grass → glass と同じ）。arrive は「アライヴ」で r は舌がどこにも付かない、alive は l で舌先が歯茎に付く。反対は leave / depart |
+| 2026-10-29 | She asked me to bring something to drink **to** the party.（rp143・振り返り。3 回目） | to → at | 10/27 は for、10/28 は in、今日は at と、毎回違う前置詞に置き換わる。bring 〜 to the party ＝パーティーへ持っていく（行き先の to）。音は「トゥダ」と短い |
+| 2026-10-29 | The restaurant was so popular **that** we had to wait outside.（rp155・振り返り。3 回目） | that → so | 10/27 と同じ置き換え。so 〜 that の that は「ダッ」と弱い。2 つ目の so は無い |
+| 2026-10-29 | You can't park here between eight **in the** morning and six.（rp164・振り返り。2 回目） | in the が抜けた | 前回抜けた between は言えた。eight‿in‿the は「エイティンナ」と 1 語になる。in the morning で塊 |
+| 2026-10-29 | Most of the people at the meeting **agreed with** the plan.（rp167・振り返り。2 回目） | agreed with → agreed this | 前半は言えた。agree with ＋人・案 ＝〜に賛成する。agreed‿with‿the は「アグリードウィッダ」で、with の th と the がつながる |
+| 2026-10-29 | I need to finish this report **before** the end of the day.（rp173・振り返り。2 回目） | before → until | 10/28 は at。finish（終える）は before（〜までに）。until は「〜までずっと」で、続ける動詞（work until 〜）と使う |
+| 2026-10-29 | I've heard that the new science museum is really **interesting**.（rp179・振り返り。2 回目） | interesting → excite | 前回抜けた really は言えた。interesting ＝（物が）面白い。excite は動詞で形が合わない（物なら exciting） |

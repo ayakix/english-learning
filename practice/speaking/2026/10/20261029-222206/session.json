@@ -1,0 +1,687 @@
+{
+  "id": "20261029-222206",
+  "skill": "speaking",
+  "created": "2026-10-29 22:22",
+  "title": "man riding black commuter bike near white 5-door hatchback",
+  "result": {
+    "score": 68,
+    "details": {
+      "description": 68,
+      "recordings": 4,
+      "pronunciation": 70,
+      "fluency": 74,
+      "intonation": 71,
+      "completeness": 90,
+      "test": true,
+      "toeic": 2,
+      "shadowing": 72
+    }
+  },
+  "query": "",
+  "photo": {
+    "source": "unsplash",
+    "url": "https://images.unsplash.com/photo-1570945892664-604b74dec3bd?ixid=M3wxMDkxNjkwfDB8MXxzZWFyY2h8MTd8fHBlb3BsZSUyMGN5Y2xpbmclMjBjaXR5JTIwc3RyZWV0fGVufDF8MHx8fDE3OTEwNDMzODJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+    "credit": {
+      "name": "Johan Mouchet",
+      "profile": "https://unsplash.com/@johanmouchet?utm_source=eigo_shadowing&utm_medium=referral",
+      "link": "https://unsplash.com/photos/man-riding-black-commuter-bike-near-white-5-door-hatchback-YvZ1x4OOlK4?utm_source=eigo_shadowing&utm_medium=referral",
+      "alt": "man riding black commuter bike near white 5-door hatchback"
+    }
+  },
+  "attempts": [
+    {
+      "time": "22:24:07",
+      "text": "This picture was taken on a road. In the foreground, a man in a gray jacket and a white hat is riding a bicycle. In the background, there is a classical building. In front of this building, a white car is parking.",
+      "score": 68
+    }
+  ],
+  "correction": {
+    "corrected": "This picture was taken on a road. In the foreground, a man in a gray jacket and a white hat is riding a bicycle. In the background, there is a classical building. In front of this building, a white car is parked.",
+    "corrections": [
+      {
+        "before": "is parking",
+        "after": "is parked",
+        "reason_ja": "車がすでに停まっている状態を表すには、進行形の is parking ではなく状態を表す受動態の is parked を使います。"
+      }
+    ],
+    "ideal": "This is a picture of a man riding a bicycle on a city street. He is wearing a light hat, a gray jacket and dark pants. He has a beard and looks relaxed. Behind him, a small white car is parked by the sidewalk. In the background, there is a large stone building with many windows. There are also some trees and a black metal fence.",
+    "key_expressions": [
+      {
+        "en": "be parked by the sidewalk",
+        "ja": "歩道脇に駐車されている"
+      },
+      {
+        "en": "a man riding a bicycle",
+        "ja": "自転車に乗っている男性"
+      },
+      {
+        "en": "a large stone building",
+        "ja": "大きな石造りの建物"
+      },
+      {
+        "en": "look relaxed",
+        "ja": "リラックスしているように見える"
+      }
+    ],
+    "feedback_ja": "手前の男性、後方の建物、停まっている車と、位置関係を表す表現（in the foreground / background）を使って的確に捉えられていて素晴らしいです。一方で発話のペースがゆっくりで間が空きがちなため、30秒で伝えられた情報量がやや少なくなってしまいました。次回は人物の様子（あごひげ、表情など）や天候・街並みまで言及できるよう、テンポよく発話する練習を重ねましょう。",
+    "score": 68,
+    "original": "This picture was taken on a road. In the foreground, a man in a gray jacket and a white hat is riding a bicycle. In the background, there is a classical building. In front of this building, a white car is parking.",
+    "level": "TOEIC"
+  },
+  "tts": {
+    "file": "model_dd8c673c0ba7.mp3",
+    "text": "This is a picture of a man riding a bicycle on a city street. He is wearing a light hat, a gray jacket and dark pants. He has a beard and looks relaxed. Behind him, a small white car is parked by the sidewalk. In the background, there is a large stone building with many windows. There are also some trees and a black metal fence.",
+    "voice_id": "WGINef1wh4Hi6O62bfO8",
+    "model_id": "eleven_v4_turbo",
+    "stability": 0.5,
+    "sentences": [
+      {
+        "text": "This is a picture of a man riding a bicycle on a city street.",
+        "start": 0.0,
+        "end": 4.08
+      },
+      {
+        "text": "He is wearing a light hat, a gray jacket and dark pants.",
+        "start": 4.16,
+        "end": 8.32
+      },
+      {
+        "text": "He has a beard and looks relaxed.",
+        "start": 8.4,
+        "end": 10.8
+      },
+      {
+        "text": "Behind him, a small white car is parked by the sidewalk.",
+        "start": 11.0,
+        "end": 14.8
+      },
+      {
+        "text": "In the background, there is a large stone building with many windows.",
+        "start": 14.88,
+        "end": 18.933
+      },
+      {
+        "text": "There are also some trees and a black metal fence.",
+        "start": 18.987,
+        "end": 21.92
+      }
+    ],
+    "words": [
+      {
+        "t": "This",
+        "s": 0.0,
+        "e": 0.24,
+        "i": 0
+      },
+      {
+        "t": "is",
+        "s": 0.28,
+        "e": 0.32,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 0.4,
+        "e": 0.48,
+        "i": 0
+      },
+      {
+        "t": "picture",
+        "s": 0.68,
+        "e": 0.88,
+        "i": 0
+      },
+      {
+        "t": "of",
+        "s": 0.92,
+        "e": 0.96,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.04,
+        "e": 1.12,
+        "i": 0
+      },
+      {
+        "t": "man",
+        "s": 1.2,
+        "e": 1.52,
+        "i": 0
+      },
+      {
+        "t": "riding",
+        "s": 1.6,
+        "e": 1.84,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 1.92,
+        "e": 2.0,
+        "i": 0
+      },
+      {
+        "t": "bicycle",
+        "s": 2.187,
+        "e": 2.56,
+        "i": 0
+      },
+      {
+        "t": "on",
+        "s": 2.6,
+        "e": 2.64,
+        "i": 0
+      },
+      {
+        "t": "a",
+        "s": 2.72,
+        "e": 2.8,
+        "i": 0
+      },
+      {
+        "t": "city",
+        "s": 2.92,
+        "e": 3.04,
+        "i": 0
+      },
+      {
+        "t": "street.",
+        "s": 3.12,
+        "e": 4.08,
+        "i": 0
+      },
+      {
+        "t": "He",
+        "s": 4.16,
+        "e": 4.24,
+        "i": 1
+      },
+      {
+        "t": "is",
+        "s": 4.32,
+        "e": 4.4,
+        "i": 1
+      },
+      {
+        "t": "wearing",
+        "s": 4.48,
+        "e": 4.72,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 4.8,
+        "e": 4.88,
+        "i": 1
+      },
+      {
+        "t": "light",
+        "s": 4.96,
+        "e": 5.12,
+        "i": 1
+      },
+      {
+        "t": "hat,",
+        "s": 5.2,
+        "e": 5.84,
+        "i": 1
+      },
+      {
+        "t": "a",
+        "s": 5.88,
+        "e": 5.92,
+        "i": 1
+      },
+      {
+        "t": "gray",
+        "s": 6.0,
+        "e": 6.16,
+        "i": 1
+      },
+      {
+        "t": "jacket",
+        "s": 6.24,
+        "e": 6.72,
+        "i": 1
+      },
+      {
+        "t": "and",
+        "s": 6.88,
+        "e": 7.04,
+        "i": 1
+      },
+      {
+        "t": "dark",
+        "s": 7.16,
+        "e": 7.28,
+        "i": 1
+      },
+      {
+        "t": "pants.",
+        "s": 7.36,
+        "e": 8.32,
+        "i": 1
+      },
+      {
+        "t": "He",
+        "s": 8.4,
+        "e": 8.48,
+        "i": 2
+      },
+      {
+        "t": "has",
+        "s": 8.56,
+        "e": 8.64,
+        "i": 2
+      },
+      {
+        "t": "a",
+        "s": 8.72,
+        "e": 8.8,
+        "i": 2
+      },
+      {
+        "t": "beard",
+        "s": 8.84,
+        "e": 9.2,
+        "i": 2
+      },
+      {
+        "t": "and",
+        "s": 9.28,
+        "e": 9.36,
+        "i": 2
+      },
+      {
+        "t": "looks",
+        "s": 9.48,
+        "e": 9.6,
+        "i": 2
+      },
+      {
+        "t": "relaxed.",
+        "s": 9.72,
+        "e": 10.8,
+        "i": 2
+      },
+      {
+        "t": "Behind",
+        "s": 11.0,
+        "e": 11.2,
+        "i": 3
+      },
+      {
+        "t": "him,",
+        "s": 11.44,
+        "e": 11.733,
+        "i": 3
+      },
+      {
+        "t": "a",
+        "s": 11.787,
+        "e": 11.84,
+        "i": 3
+      },
+      {
+        "t": "small",
+        "s": 12.0,
+        "e": 12.16,
+        "i": 3
+      },
+      {
+        "t": "white",
+        "s": 12.24,
+        "e": 12.48,
+        "i": 3
+      },
+      {
+        "t": "car",
+        "s": 12.56,
+        "e": 12.8,
+        "i": 3
+      },
+      {
+        "t": "is",
+        "s": 12.88,
+        "e": 13.04,
+        "i": 3
+      },
+      {
+        "t": "parked",
+        "s": 13.16,
+        "e": 13.36,
+        "i": 3
+      },
+      {
+        "t": "by",
+        "s": 13.44,
+        "e": 13.52,
+        "i": 3
+      },
+      {
+        "t": "the",
+        "s": 13.573,
+        "e": 13.627,
+        "i": 3
+      },
+      {
+        "t": "sidewalk.",
+        "s": 13.68,
+        "e": 14.8,
+        "i": 3
+      },
+      {
+        "t": "In",
+        "s": 14.88,
+        "e": 14.96,
+        "i": 4
+      },
+      {
+        "t": "the",
+        "s": 15.0,
+        "e": 15.04,
+        "i": 4
+      },
+      {
+        "t": "background,",
+        "s": 15.32,
+        "e": 15.76,
+        "i": 4
+      },
+      {
+        "t": "there",
+        "s": 15.84,
+        "e": 15.92,
+        "i": 4
+      },
+      {
+        "t": "is",
+        "s": 15.96,
+        "e": 16.0,
+        "i": 4
+      },
+      {
+        "t": "a",
+        "s": 16.08,
+        "e": 16.16,
+        "i": 4
+      },
+      {
+        "t": "large",
+        "s": 16.24,
+        "e": 16.56,
+        "i": 4
+      },
+      {
+        "t": "stone",
+        "s": 16.64,
+        "e": 16.96,
+        "i": 4
+      },
+      {
+        "t": "building",
+        "s": 17.04,
+        "e": 17.36,
+        "i": 4
+      },
+      {
+        "t": "with",
+        "s": 17.48,
+        "e": 17.6,
+        "i": 4
+      },
+      {
+        "t": "many",
+        "s": 17.72,
+        "e": 17.84,
+        "i": 4
+      },
+      {
+        "t": "windows.",
+        "s": 18.36,
+        "e": 18.933,
+        "i": 4
+      },
+      {
+        "t": "There",
+        "s": 18.987,
+        "e": 19.04,
+        "i": 5
+      },
+      {
+        "t": "are",
+        "s": 19.12,
+        "e": 19.2,
+        "i": 5
+      },
+      {
+        "t": "also",
+        "s": 19.36,
+        "e": 19.52,
+        "i": 5
+      },
+      {
+        "t": "some",
+        "s": 19.64,
+        "e": 19.76,
+        "i": 5
+      },
+      {
+        "t": "trees",
+        "s": 20.04,
+        "e": 20.32,
+        "i": 5
+      },
+      {
+        "t": "and",
+        "s": 20.36,
+        "e": 20.4,
+        "i": 5
+      },
+      {
+        "t": "a",
+        "s": 20.48,
+        "e": 20.56,
+        "i": 5
+      },
+      {
+        "t": "black",
+        "s": 20.72,
+        "e": 20.88,
+        "i": 5
+      },
+      {
+        "t": "metal",
+        "s": 21.04,
+        "e": 21.2,
+        "i": 5
+      },
+      {
+        "t": "fence.",
+        "s": 21.24,
+        "e": 21.92,
+        "i": 5
+      }
+    ]
+  },
+  "recordings": [
+    {
+      "n": 1,
+      "file": "rec_001.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a man riding a bicycle on a city street. He is wearing a light hat, a gray jacket and dark pants. He has a beard and looks relaxed. Behind him, a small white car is parked by the sidewalk. In the background, there is a large stone building with many windows. There are also some trees and a black metal fence.",
+      "time": "22:26:50",
+      "evaluation": null
+    },
+    {
+      "n": 2,
+      "file": "rec_002.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a man riding a bicycle on a city street. He is wearing a light hat, a gray jacket and dark pants. He has a beard and looks relaxed. Behind him, a small white car is parked by the sidewalk. In the background, there is a large stone building with many windows. There are also some trees and a black metal fence.",
+      "time": "22:27:48",
+      "evaluation": {
+        "heard": "This is a picture of a man riding bicycle on a city street. He has wearing the light jacket... gray jacket and dark jacket. He has beard and looks relaxed. Behind him, a small white car parked by the sidewalk. In the background, there a large stone building with many windows. There are also some trees and black metal fence.",
+        "overall": 63,
+        "pronunciation": 62,
+        "fluency": 58,
+        "intonation": 60,
+        "completeness": 78,
+        "word_issues": [
+          {
+            "word": "light hat",
+            "problem_ja": "hat を jacket と言い間違えてしまい、その後の単語もつられて混乱しています。",
+            "tip_ja": "視覚情報とテキストを一致させましょう。hat は口を左右に広げて /æ/ と発音し、息をしっかり吐いて止めます。"
+          },
+          {
+            "word": "relaxed",
+            "problem_ja": "LとRの区別が曖昧で、「リアクスト」のように聞こえ、子音の連結が抜けています。",
+            "tip_ja": "最初の /r/ は舌を引いてどこにもつけずに発音し、続く /l/ は上前歯の裏の歯茎にしっかり舌先を当ててから /æ/ に移りましょう。"
+          },
+          {
+            "word": "beard",
+            "problem_ja": "語尾の /d/ が弱く、「ビヤ」のように beer に近く聞こえています。",
+            "tip_ja": "/bɪərd/ の r の響きを保ちつつ、最後に舌先を歯茎に軽く当てて息を止めるように /d/ を添えましょう。"
+          },
+          {
+            "word": "riding a bicycle",
+            "problem_ja": "riding の冠詞 a が脱落し、Rの音が日本語のラ行になっています。",
+            "tip_ja": "口を軽くすぼめて「ウ」の構えから舌を喉側に引いて /r/ を出します。riding a は「ライディンガ」のように滑らかに繋げましょう。"
+          },
+          {
+            "word": "is parked",
+            "problem_ja": "is が完全に抜け落ちており、parked の末尾の /t/ も不明瞭です。",
+            "tip_ja": "受動態の is は弱く /ɪz/ と短く添え、parked は「パクト」ではなく最後の無声音 /t/ を破裂させて終わらせます。"
+          },
+          {
+            "word": "metal fence",
+            "problem_ja": "metal の t がカタカナの「タル」に近く、fence の語尾の摩擦音が弱いです。",
+            "tip_ja": "アメリカ英語では metal の t は弾くフラップ音（または声門閉鎖）になり、語尾はダークL（舌先をつけず喉の奥を鳴らす）になります。fence は最後にしっかり息を擦らせて /s/ を出しましょう。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のスピードに懸命に食らいつき、最後まで途切れずに言い切るガッツがあります。",
+          "This is a picture や Behind him などの文頭の入りがスムーズで、リズムを捉えようとする意図が感じられます。"
+        ],
+        "improvements_ja": [
+          "焦りによる単語の言い間違い（hat / pants を jacket と言ってしまうなど）を防ぐため、まずは低速で正確に読む練習をしましょう。",
+          "is や a などの機能語が脱落しがちなので、弱形として短くても確実に発音するリズム感を意識してください。",
+          "RとLの使い分け（特に relaxed や riding）を、舌の位置（Rはどこにも付けない、Lは上前歯裏に密着）を意識して明確に区別しましょう。"
+        ],
+        "summary_ja": "モデル音声の速さに遅れまいと最後まで発話し切る集中力が素晴らしいです。一方で、スピードを意識するあまり単語の言い間違いや冠詞・be動詞の脱落がいくつか見られました。まずは原稿を見ながらゆっくり正確に音読し、口周りの動きを馴染ませてから再度重ねていくと飛躍的に安定感が増します。"
+      }
+    },
+    {
+      "n": 3,
+      "file": "rec_003.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a man riding a bicycle on a city street. He is wearing a light hat, a gray jacket and dark pants. He has a beard and looks relaxed. Behind him, a small white car is parked by the sidewalk. In the background, there is a large stone building with many windows. There are also some trees and a black metal fence.",
+      "time": "22:29:41",
+      "evaluation": null
+    },
+    {
+      "n": 4,
+      "file": "rec_004.wav",
+      "seg": "all",
+      "mode": "overlap",
+      "reference": "This is a picture of a man riding a bicycle on a city street. He is wearing a light hat, a gray jacket and dark pants. He has a beard and looks relaxed. Behind him, a small white car is parked by the sidewalk. In the background, there is a large stone building with many windows. There are also some trees and a black metal fence.",
+      "time": "22:30:16",
+      "evaluation": {
+        "heard": "This is a picture of a man riding a bicycle on a city street. He is wearing a light hat, gray jacket and dark pants. He has beard and looks relaxed. Behind him, a small white car is parked by the sidewalk. In the background, there a large stone buildings with many windows. There are also some trees and a black metal fence.",
+        "overall": 72,
+        "pronunciation": 70,
+        "fluency": 74,
+        "intonation": 71,
+        "completeness": 90,
+        "word_issues": [
+          {
+            "word": "beard",
+            "problem_ja": "beer（ビール）のように聞こえ、語尾の /d/ が抜けていました。",
+            "tip_ja": "二重母音 /ɪə/ のあとに舌先を上前歯の裏（歯茎）にしっかり当てて破裂させ、/bɪərd/ と最後まで発音しましょう。"
+          },
+          {
+            "word": "relaxed",
+            "problem_ja": "過去形・形容詞の語尾 /-t/ が落ちて「relax」の現在形のように聞こえました。",
+            "tip_ja": "語尾は /kst/ です。息を止めて「クスッ」と鋭く無声の /t/ を弾く感覚を意識してください。"
+          },
+          {
+            "word": "metal",
+            "problem_ja": "「メトラ」や「メーター」のように聞こえ、語尾の /l/ が曖昧でした。",
+            "tip_ja": "アメリカ英語では /t/ が軽く弾かれて日本語のラ行のようになり、直後に舌先を上に押し当てたまま /l/ で音を止めます（メドゥルに近い響き）。"
+          },
+          {
+            "word": "building",
+            "problem_ja": "語尾に s がついて「buildings」と複数形になって聞こえました。",
+            "tip_ja": "単数形 a large stone building なので、語尾は鼻から抜ける /-ɪŋ/ で止め、息の漏れによる余計な摩擦音（/s/）を出さないようにしましょう。"
+          },
+          {
+            "word": "there is a",
+            "problem_ja": "「there a」のように聞こえ、is が脱落していました。",
+            "tip_ja": "there's a（ゼァザ）のように縮約して滑らかに一息でつなげる練習をしましょう。"
+          },
+          {
+            "word": "hat",
+            "problem_ja": "母音が /ʌ/（hut）寄りに聞こえました。",
+            "tip_ja": "口を上下左右に指2本分ほど大きく開き、喉の奥から「ア」と「エ」の中間音 /æ/ を出します。"
+          }
+        ],
+        "good_points_ja": [
+          "モデル音声のペースから大きく遅れることなく、最後まで途切れずに食らいついて発話しきれています。",
+          "picture of a や behind him などの繋ぎ目がスムーズで、リズムを意識して発音できています。"
+        ],
+        "improvements_ja": [
+          "冠詞（a/an）や is などの機能語を飛ばさず、弱形（短い音）でもしっかり発音する意識を持ちましょう。",
+          "語尾の子音（relaxed の -ed、beard の -d）が脱落しやすいので、最後まで丁寧に舌を当てること。",
+          "metal や bicycle のような語尾の成節的L（暗いL）の舌の位置（上前歯の裏につけたまま喉を鳴らす）をマスターしましょう。"
+        ],
+        "summary_ja": "シャドーイングのスピード感を崩さず、最後までしっかり全文を言い切れており素晴らしいです。単語の語尾子音（-d, -t）の脱落や冠詞の抜けが目立つため、息のコントロールと舌の着地を意識すると一段とクリアな英語になります。"
+      }
+    }
+  ],
+  "test": {
+    "stock_id": "sp060",
+    "prep": 45,
+    "response": 30,
+    "model_answer": "This is a picture of a man riding a bicycle on a city street. He is wearing a light hat, a gray jacket and dark pants. He has a beard and looks relaxed. Behind him, a small white car is parked by the sidewalk. In the background, there is a large stone building with many windows. There are also some trees and a black metal fence.",
+    "answer": "This picture was taken on a road. In the foreground, a man in a gray jacket and a white hat is riding a bicycle. In the background, there is a classical building. In front of this building, a white car is parking.",
+    "seconds": 30.0,
+    "grade": {
+      "toeic": 2,
+      "score": 68,
+      "content": 72,
+      "grammar": 70,
+      "vocabulary": 70,
+      "delivery": 62,
+      "corrected": "This picture was taken on a road. In the foreground, a man in a gray jacket and a white hat is riding a bicycle. In the background, there is a classical building. In front of this building, a white car is parked.",
+      "corrections": [
+        {
+          "before": "is parking",
+          "after": "is parked",
+          "reason_ja": "車がすでに停まっている状態を表すには、進行形の is parking ではなく状態を表す受動態の is parked を使います。"
+        }
+      ],
+      "key_expressions": [
+        {
+          "en": "be parked by the sidewalk",
+          "ja": "歩道脇に駐車されている"
+        },
+        {
+          "en": "a man riding a bicycle",
+          "ja": "自転車に乗っている男性"
+        },
+        {
+          "en": "a large stone building",
+          "ja": "大きな石造りの建物"
+        },
+        {
+          "en": "look relaxed",
+          "ja": "リラックスしているように見える"
+        }
+      ],
+      "feedback_ja": "手前の男性、後方の建物、停まっている車と、位置関係を表す表現（in the foreground / background）を使って的確に捉えられていて素晴らしいです。一方で発話のペースがゆっくりで間が空きがちなため、30秒で伝えられた情報量がやや少なくなってしまいました。次回は人物の様子（あごひげ、表情など）や天候・街並みまで言及できるよう、テンポよく発話する練習を重ねましょう。"
+    }
+  }
+}

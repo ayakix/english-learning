@@ -1,0 +1,109 @@
+{
+  "id": "20261029-221808",
+  "skill": "vocab",
+  "created": "2026-10-29 22:18",
+  "title": "単語 日→英",
+  "result": {
+    "score": 77,
+    "details": {
+      "ok": 24,
+      "total": 31
+    }
+  },
+  "mode": "ja-en",
+  "marks": {
+    "vc054": {
+      "ok": false
+    },
+    "vc063": {
+      "ok": true
+    },
+    "vc068": {
+      "ok": true
+    },
+    "vc069": {
+      "ok": true
+    },
+    "vc073": {
+      "ok": true
+    },
+    "vc075": {
+      "ok": true
+    },
+    "vc085": {
+      "ok": false
+    },
+    "vc087": {
+      "ok": false
+    },
+    "vc093": {
+      "ok": false
+    },
+    "vc096": {
+      "ok": true
+    },
+    "vc209": {
+      "ok": true
+    },
+    "vc101": {
+      "ok": true
+    },
+    "vc102": {
+      "ok": true
+    },
+    "vc103": {
+      "ok": true
+    },
+    "vc104": {
+      "ok": false
+    },
+    "vc105": {
+      "ok": true
+    },
+    "vc106": {
+      "ok": true
+    },
+    "vc107": {
+      "ok": true
+    },
+    "vc108": {
+      "ok": true
+    },
+    "vc109": {
+      "ok": true
+    },
+    "vc110": {
+      "ok": true
+    },
+    "vc111": {
+      "ok": true
+    },
+    "vc112": {
+      "ok": false
+    },
+    "vc113": {
+      "ok": true
+    },
+    "vc114": {
+      "ok": true
+    },
+    "vc115": {
+      "ok": false
+    },
+    "vc116": {
+      "ok": true
+    },
+    "vc117": {
+      "ok": true
+    },
+    "vc118": {
+      "ok": true
+    },
+    "vc119": {
+      "ok": true
+    },
+    "vc120": {
+      "ok": true
+    }
+  }
+}

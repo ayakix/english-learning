@@ -3728,6 +3728,25 @@
     "name": "Luis",
     "id": "WGINef1wh4Hi6O62bfO8"
    }
+  },
+  {
+   "id": "vc211",
+   "theme": "shop",
+   "en": "barber",
+   "ja": "（男性の）床屋さん",
+   "example": "I go to the barber once a month.",
+   "note": "「バーバー」。店は barbershop。美容師は hairdresser",
+   "from": "sa100",
+   "audio": {
+    "main": {
+     "text": "barber",
+     "file": "model_35827f88091e.mp3"
+    }
+   },
+   "voice": {
+    "name": "Luis",
+    "id": "WGINef1wh4Hi6O62bfO8"
+   }
   }
  ]
 }
