@@ -98,3 +98,4 @@
 | 2026-10-29 | （leap year が分からなかった。How many days are there in a leap year? 即答 sa092） | 366 / three hundred sixty-six | leap year ＝うるう年（leap ＝跳ぶ）。単語タブ vc121 に入っている。数字は three hundred (and) sixty-six |
 | 2026-10-29 | （質問は分かったが単語が出なかった。What do you call a person who cuts men's hair? 即答 sa100） | a barber | 男性の髪を切る人・床屋は barber「バーバー」（店は barbershop）。美容師 hairdresser でも正解。単語タブ vc211 に足した |
 | 2026-10-29 | a white car is parking | a white car is parked | 停まっている状態は is parked（受け身）。is parking は「今まさに駐車している（動作中）」 |
+| 2026-10-30 | shore（What do you call the area of sand next to the ocean? 即答 sa109） | a beach | shore ＝海・湖の岸（砂とは限らない、岩場も含む）。砂浜は beach。意味は近いので通じるが、「砂」と言われたら beach |

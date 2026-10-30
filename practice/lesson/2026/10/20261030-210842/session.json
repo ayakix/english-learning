@@ -1,0 +1,500 @@
+{
+  "id": "20261030-210842",
+  "skill": "lesson",
+  "created": "2026-10-30 21:08",
+  "title": "Whole-Cluster vs Destemmed Fermentation in Pinot",
+  "result": {
+    "score": 92,
+    "details": {
+      "listening": "3/3",
+      "dictation": 83,
+      "replays": 10,
+      "reading": "4/5",
+      "wpm": 104
+    }
+  },
+  "source": {
+    "site": "AI 教材",
+    "url": null,
+    "title": "Whole-Cluster vs Destemmed Fermentation in Pinot",
+    "published": "2026-10-03",
+    "credit": "Script: Claude / Voice: Alex (ElevenLabs)",
+    "license": "original",
+    "audio_url": null,
+    "zone": "wine",
+    "stock_id": "wn021",
+    "level": "B1+",
+    "format": "monologue"
+  },
+  "paragraphs": [
+    {
+      "text": "When red grapes arrive at the winery, they are still attached to their green stems. One of the first decisions a Pinot Noir maker faces is simple: keep the stems or remove them?",
+      "heading": false
+    },
+    {
+      "text": "Most wineries remove the stems with a machine. This is called destemming. The berries go into the tank alone. The result is often a wine with pure, clear fruit flavors, like fresh cherries and raspberries.",
+      "heading": false
+    },
+    {
+      "text": "Other winemakers use whole clusters. This means putting complete bunches, stems and all, into the fermentation tank. Some use one hundred percent whole clusters, while others mix in only a portion. This is also called stem inclusion.",
+      "heading": false
+    },
+    {
+      "text": "So what do the stems add? Many tasters notice spicy, herbal and floral aromas, such as tea, rose petals or white pepper. Some describe this as herbaceous lift, a fresh green note that makes the aroma feel more lively. The stems can also change the texture, adding fine tannins that feel silky rather than heavy.",
+      "heading": false
+    },
+    {
+      "text": "There is a risk, however. If the stems are not ripe, they can make the wine taste bitter and green. So whole clusters usually work best in good vintages, when stems have turned brown and woody.",
+      "heading": false
+    },
+    {
+      "text": "Some of the most famous Burgundy producers are known for using a lot of whole clusters. Others never do. Neither approach is right or wrong. It is a question of style.",
+      "heading": false
+    }
+  ],
+  "glossary": [
+    {
+      "word": "whole-cluster",
+      "definition": ""
+    },
+    {
+      "word": "stem inclusion",
+      "definition": ""
+    },
+    {
+      "word": "herbaceous lift",
+      "definition": ""
+    }
+  ],
+  "words": 227,
+  "duration": 97,
+  "audio_wpm": 140,
+  "sentences": [
+    {
+      "text": "When red grapes arrive at the winery, they are still attached to their green stems.",
+      "start": 0.0,
+      "end": 4.96,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "One of the first decisions a Pinot Noir maker faces is simple: keep the stems or remove them?",
+      "start": 5.63,
+      "end": 11.95,
+      "turn": 0,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Most wineries remove the stems with a machine.",
+      "start": 12.47,
+      "end": 15.47,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This is called destemming.",
+      "start": 16.1,
+      "end": 17.98,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The berries go into the tank alone.",
+      "start": 18.61,
+      "end": 20.81,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The result is often a wine with pure, clear fruit flavors, like fresh cherries and raspberries.",
+      "start": 21.44,
+      "end": 28.0,
+      "turn": 1,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Other winemakers use whole clusters.",
+      "start": 28.52,
+      "end": 30.84,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This means putting complete bunches, stems and all, into the fermentation tank.",
+      "start": 31.75,
+      "end": 36.71,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Some use one hundred percent whole clusters, while others mix in only a portion.",
+      "start": 37.38,
+      "end": 42.66,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "This is also called stem inclusion.",
+      "start": 43.09,
+      "end": 45.65,
+      "turn": 2,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "So what do the stems add?",
+      "start": 46.17,
+      "end": 48.25,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Many tasters notice spicy, herbal and floral aromas, such as tea, rose petals or white pepper.",
+      "start": 48.92,
+      "end": 56.2,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Some describe this as herbaceous lift, a fresh green note that makes the aroma feel more lively.",
+      "start": 56.87,
+      "end": 63.35,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "The stems can also change the texture, adding fine tannins that feel silky rather than heavy.",
+      "start": 64.02,
+      "end": 70.02,
+      "turn": 3,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "There is a risk, however.",
+      "start": 70.54,
+      "end": 72.42,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "If the stems are not ripe, they can make the wine taste bitter and green.",
+      "start": 73.05,
+      "end": 77.57,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "So whole clusters usually work best in good vintages, when stems have turned brown and woody.",
+      "start": 78.2,
+      "end": 84.44,
+      "turn": 4,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Some of the most famous Burgundy producers are known for using a lot of whole clusters.",
+      "start": 84.96,
+      "end": 90.16,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Others never do.",
+      "start": 90.75,
+      "end": 92.15,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "Neither approach is right or wrong.",
+      "start": 92.78,
+      "end": 94.98,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    },
+    {
+      "text": "It is a question of style.",
+      "start": 95.53,
+      "end": 97.21,
+      "turn": 5,
+      "speaker": "A",
+      "exact": true,
+      "match": 1.0
+    }
+  ],
+  "summary_ja": "ピノ・ノワールの醸造では、茎を残すか取り除くかを選ぶ。多くは除梗して純粋な果実味を出す。全房発酵（茎ごと発酵）では、紅茶やバラ、白胡椒などのスパイシーでハーブのような香り（ハーベイシャスリフト）と、絹のような細かいタンニンが加わる。茎が未熟だと苦く青くなるので、良い年に向く。どちらが正しいかではなくスタイルの問題。",
+  "listening": {
+    "questions": [
+      {
+        "q": "destemming とは？",
+        "options": [
+          "種を取ること",
+          "機械で茎を取り除くこと",
+          "皮をむくこと",
+          "茎ごと発酵すること"
+        ],
+        "answer": 1,
+        "explanation_ja": "\"Most wineries remove the stems with a machine. This is called destemming.\""
+      },
+      {
+        "q": "全房発酵で加わる香りとして話されているのは？",
+        "options": [
+          "紅茶、バラの花びら、白胡椒",
+          "バター、バニラ",
+          "コーヒー",
+          "イチゴキャンディ"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"such as tea, rose petals or white pepper.\""
+      },
+      {
+        "q": "全房発酵のリスクは？",
+        "options": [
+          "色が濃くなりすぎる",
+          "アルコールが消える",
+          "茎が未熟だと苦く青い味になる",
+          "甘くなりすぎる"
+        ],
+        "answer": 2,
+        "explanation_ja": "\"If the stems are not ripe, they can make the wine taste bitter and green.\""
+      }
+    ],
+    "answers": [
+      1,
+      0,
+      2
+    ],
+    "correct": 3,
+    "plays": 1
+  },
+  "dictation": [
+    {
+      "i": 0,
+      "sentence": 4,
+      "text": "The berries go into the tank alone.",
+      "start": 18.49,
+      "end": 21.01,
+      "ja": "実だけがタンクに入ります。",
+      "points_ja": "go into the がつながり、tank alone が続けて聞こえます。",
+      "answer": "The berries go into the tank alone.",
+      "plays": 4,
+      "accuracy": 1.0,
+      "diff": [
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "berries",
+          "status": "ok"
+        },
+        {
+          "t": "go",
+          "status": "ok"
+        },
+        {
+          "t": "into",
+          "status": "ok"
+        },
+        {
+          "t": "the",
+          "status": "ok"
+        },
+        {
+          "t": "tank",
+          "status": "ok"
+        },
+        {
+          "t": "alone",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "sentence": 9,
+      "text": "This is also called stem inclusion.",
+      "start": 42.97,
+      "end": 45.85,
+      "ja": "これは茎の使用とも呼ばれます。",
+      "points_ja": "also called の d は飲み込まれ、stem inclusion がつながります。",
+      "answer": "This is also called stem inclusion.",
+      "plays": 2,
+      "accuracy": 1.0,
+      "diff": [
+        {
+          "t": "this",
+          "status": "ok"
+        },
+        {
+          "t": "is",
+          "status": "ok"
+        },
+        {
+          "t": "also",
+          "status": "ok"
+        },
+        {
+          "t": "called",
+          "status": "ok"
+        },
+        {
+          "t": "stem",
+          "status": "ok"
+        },
+        {
+          "t": "inclusion",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "sentence": 19,
+      "text": "Neither approach is right or wrong.",
+      "start": 92.66,
+      "end": 95.18,
+      "ja": "どちらのやり方も正しいとも間違いとも言えません。",
+      "points_ja": "approach is がつながり、right or wrong の or は弱形です。",
+      "answer": "Neither approach is light alone.",
+      "plays": 4,
+      "accuracy": 0.5,
+      "diff": [
+        {
+          "t": "neither",
+          "status": "ok"
+        },
+        {
+          "t": "approach",
+          "status": "ok"
+        },
+        {
+          "t": "is",
+          "status": "ok"
+        },
+        {
+          "t": "right",
+          "status": "wrong",
+          "heard": "light"
+        },
+        {
+          "t": "or",
+          "status": "wrong",
+          "heard": "alone"
+        },
+        {
+          "t": "wrong",
+          "status": "missing"
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "questions": [
+      {
+        "q": "本文の主旨は？",
+        "options": [
+          "除梗は悪い方法である",
+          "茎は肥料になる",
+          "茎を残すか取るかでピノ・ノワールの香りや口当たりが変わり、どちらもスタイルの選択",
+          "茎は必ず使うべき"
+        ],
+        "answer": 2,
+        "explanation_ja": "除梗と全房発酵それぞれの特徴を説明し、スタイルの問題だとまとめています。"
+      },
+      {
+        "q": "除梗したワインの特徴は？",
+        "options": [
+          "スパイシーで青い",
+          "苦い",
+          "甘い",
+          "新鮮なサクランボやラズベリーのような純粋な果実味"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"The result is often a wine with pure, clear fruit flavors, like fresh cherries and raspberries.\""
+      },
+      {
+        "q": "herbaceous lift の説明として正しいものは？",
+        "options": [
+          "香りを生き生きさせる、新鮮な青い香り",
+          "樽の香り",
+          "ブドウを持ち上げる道具",
+          "アルコールの強さ"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"a fresh green note that makes the aroma feel more lively.\""
+      },
+      {
+        "q": "全房発酵に向いているのは？",
+        "options": [
+          "雨の多い年",
+          "どの年でも同じ",
+          "早摘みの年",
+          "茎が茶色く木質化した良い年"
+        ],
+        "answer": 3,
+        "explanation_ja": "\"whole clusters usually work best in good vintages, when stems have turned brown and woody.\""
+      },
+      {
+        "q": "茎がタンニンに与える影響は？",
+        "options": [
+          "重いではなく絹のような細かいタンニンを加える",
+          "タンニンを苦くするだけ",
+          "影響しない",
+          "タンニンをなくす"
+        ],
+        "answer": 0,
+        "explanation_ja": "\"adding fine tannins that feel silky rather than heavy.\""
+      }
+    ],
+    "answers": [
+      2,
+      3,
+      2,
+      3,
+      0
+    ],
+    "correct": 4,
+    "reading_seconds": 131,
+    "wpm": 104,
+    "time": "21:15:36"
+  }
+}

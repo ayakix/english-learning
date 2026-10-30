@@ -184,3 +184,17 @@
 | 2026-10-29 | Most of the people at the meeting **agreed with** the plan.（rp167・振り返り。2 回目） | agreed with → agreed this | 前半は言えた。agree with ＋人・案 ＝〜に賛成する。agreed‿with‿the は「アグリードウィッダ」で、with の th と the がつながる |
 | 2026-10-29 | I need to finish this report **before** the end of the day.（rp173・振り返り。2 回目） | before → until | 10/28 は at。finish（終える）は before（〜までに）。until は「〜までずっと」で、続ける動詞（work until 〜）と使う |
 | 2026-10-29 | I've heard that the new science museum is really **interesting**.（rp179・振り返り。2 回目） | interesting → excite | 前回抜けた really は言えた。interesting ＝（物が）面白い。excite は動詞で形が合わない（物なら exciting） |
+| 2026-10-30 | Most of **the** people at the meeting agreed with the plan.（rp167・振り返り。3 回目） | the が抜けた | 前回の agreed with は言えた。of‿the は「オブダ」で the が短い。most of the 〜 ＝〜のほとんど（決まった集団なので the が要る）。most people なら the も of も無い |
+| 2026-10-30 | This wine **goes really** well with grilled fish and vegetables.（rp182・やり直し） | goes really → really goes | 語順。go well with 〜 ＝〜とよく合う。really は well を強めるので goes really well の順 |
+| 2026-10-30 | Most of my friends live within walking distance **of** the station.（rp185・やり直し） | of → from | 意味からの置き換え。within walking distance of 〜 ＝〜から歩いて行ける距離に（of で決まった形） |
+| 2026-10-30 | He's not **very** good at cooking, but he **makes** great pancakes.（rp186・やり直し） | very が抜けた、makes → can make | not very good ＝あまり上手ではない。makes は 3 単現の s。can を足したのは意味からの補い |
+| 2026-10-30 | Our neighbors are very quiet, except when their dog **barks**.（rp189・やり直し） | barks → bark | 主語 their dog は 1 匹なので s が付く。barks の s は「バークス」と短い |
+| 2026-10-30 | The movie was so long that I almost **fell** asleep.（rp190・やり直し） | fell → fall | was と過去の話なので fall の過去形 fell。fall asleep ＝寝入る |
+| 2026-10-30 | You should bring a jacket because **it gets cold at night**.（rp191・やり直し） | it gets cold at night が聞き取れなかった | it‿gets は「イッゲッツ」、cold‿at は「コウルダッ」。it gets cold ＝（天気が）寒くなる |
+| 2026-10-30 | We're having a **small** party for her birthday **on Saturday**.（rp192・やり直し） | small と on Saturday が抜けた | 飾りの語（small）と文の最後の時（on Saturday）が落ちた |
+| 2026-10-30 | The road was closed, so we had to **take a long detour**.（rp193・やり直し） | take → go、a long detour が抜けた | take a detour ＝回り道をする。detour は「ディートゥア」 |
+| 2026-10-30 | He **called to say** he'd be about twenty minutes late.（rp197・やり直し） | called to say が聞き取れなかった | called‿to は「コールトゥ」で d が消える。called to say ＝電話で〜と言ってきた |
+| 2026-10-30 | I prefer living in **the** countryside because it's **more** peaceful.（rp199・やり直し。2 回目） | the と more が抜けた | the countryside ＝田舎（いつも the）。more peaceful ＝より穏やか（比べているので more） |
+| 2026-10-30 | The company plans to open three **new** stores **next** year.（rp200・やり直し） | new が抜けた、next → this | 前回の three → free は直った。飾りの new が落ち、時の語を置き換えた |
+| 2026-10-30 | What do you use to make your hair **neat**?（即答 sa108） | neat → knit（ニット・編み物）と聞いた | neat「ニート」＝きちんとした（10/20・10/21 に単語で 2 回出なかった語）。knit「ニット」は短い i。neat は長い「イー」。答えは a comb / a brush |
+| 2026-10-30 | Neither approach is **right or wrong**.（教材 Whole-Cluster vs Destemmed Fermentation・書き取り） | right → light、or wrong → alone | 文の中の l-r（sa079 arrive → alive、sa053 grass → glass に続く）。right or wrong ＝正しいも間違いもない、の決まった組。right‿or は「ライトァ」で or が弱い。wrong は w が無音で「ロング」 |

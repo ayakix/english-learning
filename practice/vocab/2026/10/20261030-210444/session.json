@@ -1,0 +1,100 @@
+{
+  "id": "20261030-210444",
+  "skill": "vocab",
+  "created": "2026-10-30 21:04",
+  "title": "単語 日→英",
+  "result": {
+    "score": 68,
+    "details": {
+      "ok": 19,
+      "total": 28
+    }
+  },
+  "mode": "ja-en",
+  "marks": {
+    "vc054": {
+      "ok": true
+    },
+    "vc085": {
+      "ok": false
+    },
+    "vc087": {
+      "ok": true
+    },
+    "vc093": {
+      "ok": true
+    },
+    "vc104": {
+      "ok": false
+    },
+    "vc112": {
+      "ok": true
+    },
+    "vc115": {
+      "ok": true
+    },
+    "vc121": {
+      "ok": true
+    },
+    "vc122": {
+      "ok": true
+    },
+    "vc123": {
+      "ok": true
+    },
+    "vc124": {
+      "ok": false
+    },
+    "vc125": {
+      "ok": true
+    },
+    "vc126": {
+      "ok": false
+    },
+    "vc127": {
+      "ok": false
+    },
+    "vc128": {
+      "ok": false
+    },
+    "vc129": {
+      "ok": false
+    },
+    "vc130": {
+      "ok": true
+    },
+    "vc131": {
+      "ok": false
+    },
+    "vc132": {
+      "ok": false
+    },
+    "vc133": {
+      "ok": true
+    },
+    "vc134": {
+      "ok": true
+    },
+    "vc135": {
+      "ok": true
+    },
+    "vc136": {
+      "ok": true
+    },
+    "vc137": {
+      "ok": true
+    },
+    "vc138": {
+      "ok": true
+    },
+    "vc139": {
+      "ok": true
+    },
+    "vc140": {
+      "ok": true
+    },
+    "vc204": {
+      "ok": true
+    }
+  }
+}
